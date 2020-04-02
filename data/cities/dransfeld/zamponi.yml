@@ -5,7 +5,7 @@ latitude: 51.503247300000005
 longitude: 9.7599291
 postcode: 37127
 city: Dransfeld
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

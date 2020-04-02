@@ -5,7 +5,7 @@ latitude: 52.9805215
 longitude: 8.744918100000001
 postcode: 28816
 city: Stuhr
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 136
 phone: ""
 opening_hours: ""

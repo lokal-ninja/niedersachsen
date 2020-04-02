@@ -5,7 +5,7 @@ latitude: 53.1353481
 longitude: 8.7382319
 postcode: 28239
 city: Bremen
-street: Ritterhuder Heerstraße
+street: "Ritterhuder Heerstraße"
 housenumber: 44
 phone: "+49 421 643950"
 opening_hours: "Mo-Fr 8-18, Sa 8-16 Uhr"

@@ -5,7 +5,7 @@ latitude: 52.486383800000006
 longitude: 10.5492124
 postcode: 38518
 city: Gifhorn
-street: Konrad-Adenauer-Straße
+street: "Konrad-Adenauer-Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

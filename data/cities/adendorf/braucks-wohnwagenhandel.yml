@@ -5,7 +5,7 @@ latitude: 53.2908436
 longitude: 10.4274571
 postcode: 21365
 city: Adendorf
-street: Bunsenstraße
+street: "Bunsenstraße"
 housenumber: 5
 phone: "+49 4131 981711"
 opening_hours: "Mo-Sa 08:00-18:00"

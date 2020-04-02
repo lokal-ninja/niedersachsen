@@ -5,7 +5,7 @@ latitude: 52.3193172
 longitude: 9.7267252
 postcode: 30966
 city: Hemmingen
-street: Carl-Zeiss-Straße
+street: "Carl-Zeiss-Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

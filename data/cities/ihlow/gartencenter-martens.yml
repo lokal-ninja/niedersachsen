@@ -5,7 +5,7 @@ latitude: 53.3946824
 longitude: 7.338035700000001
 postcode: 26632
 city: Ihlow
-street: Torfstraße
+street: "Torfstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 53.074537400000004
 longitude: 8.806760500000001
 postcode: 28195
 city: Bremen
-street: Wachtstraße
+street: "Wachtstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

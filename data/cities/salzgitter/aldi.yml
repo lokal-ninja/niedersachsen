@@ -5,7 +5,7 @@ latitude: 52.051448300000004
 longitude: 10.374278700000001
 postcode: 38259
 city: Salzgitter
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 52.5001553
 longitude: 9.4559201
 postcode: 31535
 city: Neustadt am Rübenberge
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 4
 phone: "+49 5032 939104"
 opening_hours: "Mo-Sa 07:00-23:00"

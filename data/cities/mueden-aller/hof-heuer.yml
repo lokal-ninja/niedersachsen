@@ -5,7 +5,7 @@ latitude: 52.509504400000004
 longitude: 10.4074199
 postcode: 38539
 city: Müden (Aller)
-street: Bokelberge
+street: "Bokelberge"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-18:00"

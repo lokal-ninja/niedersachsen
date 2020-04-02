@@ -5,7 +5,7 @@ latitude: 53.3969007
 longitude: 8.063403600000001
 postcode: 26316
 city: Varel
-street: Rahlinger Straße
+street: "Rahlinger Straße"
 housenumber: 23
 phone: "+49 4451 17 209"
 opening_hours: "Mo-Fr 10:00-17:00, Sa 10:00-13:00"

@@ -5,7 +5,7 @@ latitude: 51.526704800000005
 longitude: 9.924982700000001
 postcode: 37073
 city: Göttingen
-street: Leinestraße
+street: "Leinestraße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

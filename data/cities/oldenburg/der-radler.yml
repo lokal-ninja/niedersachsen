@@ -5,7 +5,7 @@ latitude: 53.1407849
 longitude: 8.1551889
 postcode: 26129
 city: Oldenburg
-street: Bloherfelder Straße
+street: "Bloherfelder Straße"
 housenumber: 217
 phone: "+49 441 5599661"
 opening_hours: ""

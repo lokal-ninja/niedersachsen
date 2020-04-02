@@ -5,7 +5,7 @@ latitude: 53.5283656
 longitude: 7.780717
 postcode: 26409
 city: Wittmund
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6a
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-16:00; PH off"

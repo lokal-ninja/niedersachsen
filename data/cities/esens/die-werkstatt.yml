@@ -5,7 +5,7 @@ latitude: 53.643382900000006
 longitude: 7.613525900000001
 postcode: 26427
 city: Esens
-street: Vor dem Drostentor
+street: "Vor dem Drostentor"
 housenumber: 7
 phone: "+49 4971 6269783"
 opening_hours: ""

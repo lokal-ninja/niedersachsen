@@ -5,7 +5,7 @@ latitude: 53.1242796
 longitude: 8.9024952
 postcode: 28357
 city: Bremen
-street: Moorkuhlenweg
+street: "Moorkuhlenweg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 07:00-13:00, Tu-Fr 15:00-18:00"

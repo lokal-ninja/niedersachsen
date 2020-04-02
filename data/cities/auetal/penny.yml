@@ -5,7 +5,7 @@ latitude: 52.234967600000004
 longitude: 9.238735700000001
 postcode: 31749
 city: Auetal
-street: Rehrener Straße
+street: "Rehrener Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

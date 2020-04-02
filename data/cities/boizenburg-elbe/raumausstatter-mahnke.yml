@@ -5,7 +5,7 @@ latitude: 53.373924
 longitude: 10.722630200000001
 postcode: 19258
 city: Boizenburg/Elbe
-street: Reichenstraße
+street: "Reichenstraße"
 housenumber: 1
 phone: "+493884752872"
 opening_hours: "Mo-Fr 10:00-15:00"

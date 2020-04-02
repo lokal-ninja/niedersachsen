@@ -5,7 +5,7 @@ latitude: 52.4980051
 longitude: 6.967265
 postcode: 49828
 city: Neuenhaus
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 45
 phone: ""
 opening_hours: "Nach Absprache"

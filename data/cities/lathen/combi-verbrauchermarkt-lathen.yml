@@ -5,7 +5,7 @@ latitude: 52.860313100000006
 longitude: 7.3177104
 postcode: 49762
 city: Lathen
-street: Große Straße
+street: "Große Straße"
 housenumber: 24-28
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

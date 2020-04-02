@@ -5,7 +5,7 @@ latitude: 52.361015800000004
 longitude: 9.763460400000001
 postcode: 30173
 city: Hannover
-street: Wredestraße
+street: "Wredestraße"
 housenumber: 3
 phone: "+49 171 2112658"
 opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-14:00"

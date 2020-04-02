@@ -5,7 +5,7 @@ latitude: 53.1687111
 longitude: 8.0014053
 postcode: 26160
 city: Bad Zwischenahn
-street: Edewechter Straße
+street: "Edewechter Straße"
 housenumber: 4
 phone: "+49 4403 602180"
 opening_hours: ""

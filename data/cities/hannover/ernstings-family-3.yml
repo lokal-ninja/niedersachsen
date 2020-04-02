@@ -5,7 +5,7 @@ latitude: 52.3857665
 longitude: 9.7471045
 postcode: 30161
 city: Hannover
-street: Schubertstraße
+street: "Schubertstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00"

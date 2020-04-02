@@ -5,7 +5,7 @@ latitude: 52.9071933
 longitude: 8.5880147
 postcode: 27243
 city: Harpstedt
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 26
 phone: "+49 4244 918946"
 opening_hours: ""

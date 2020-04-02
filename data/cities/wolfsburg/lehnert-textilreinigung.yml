@@ -5,7 +5,7 @@ latitude: 52.419645200000005
 longitude: 10.715351700000001
 postcode: 38442
 city: Wolfsburg
-street: Schulzen Hof
+street: "Schulzen Hof"
 housenumber: 30
 phone: ""
 opening_hours: ""

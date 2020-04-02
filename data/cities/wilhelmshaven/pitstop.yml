@@ -5,7 +5,7 @@ latitude: 53.5745682
 longitude: 8.113759400000001
 postcode: 26386
 city: Wilhelmshaven
-street: Flutstraße
+street: "Flutstraße"
 housenumber: 88 e
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00; PH off"

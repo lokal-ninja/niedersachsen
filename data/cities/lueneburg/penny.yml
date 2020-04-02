@@ -5,7 +5,7 @@ latitude: 53.2272156
 longitude: 10.4014979
 postcode: 21335
 city: Lüneburg
-street: Heinrich-Böll-Straße
+street: "Heinrich-Böll-Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

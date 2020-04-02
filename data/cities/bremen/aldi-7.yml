@@ -5,7 +5,7 @@ latitude: 53.180481900000004
 longitude: 8.5700781
 postcode: 28779
 city: Bremen
-street: Weserstrandstraße
+street: "Weserstrandstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"

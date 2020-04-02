@@ -5,7 +5,7 @@ latitude: 53.38946850000001
 longitude: 7.2085834
 postcode: 26721
 city: Emden
-street: Auricher Straße
+street: "Auricher Straße"
 housenumber: 210
 phone: "+49 4921 94410"
 opening_hours: ""

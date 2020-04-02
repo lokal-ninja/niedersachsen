@@ -5,7 +5,7 @@ latitude: 53.535430700000006
 longitude: 8.585423
 postcode: 27570
 city: Bremerhaven
-street: Berliner Platz
+street: "Berliner Platz"
 housenumber: 1
 phone: "+49 170 5870371"
 opening_hours: ""

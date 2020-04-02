@@ -5,7 +5,7 @@ latitude: 53.2835544
 longitude: 10.3954435
 postcode: 21339
 city: Lüneburg
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 37
 phone: "+49 4131 2019354"
 opening_hours: ""

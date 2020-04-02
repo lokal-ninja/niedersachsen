@@ -5,7 +5,7 @@ latitude: 51.930495500000006
 longitude: 9.6335838
 postcode: 37632
 city: Eschershausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

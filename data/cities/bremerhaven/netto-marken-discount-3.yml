@@ -5,7 +5,7 @@ latitude: 53.5887642
 longitude: 8.6095051
 postcode: 27578
 city: Bremerhaven
-street: Kurt-Schumacher-Straße
+street: "Kurt-Schumacher-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

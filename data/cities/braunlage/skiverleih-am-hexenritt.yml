@@ -5,7 +5,7 @@ latitude: 51.7513209
 longitude: 10.629138300000001
 postcode: 38700
 city: Braunlage
-street: Große Wurmbergstraße
+street: "Große Wurmbergstraße"
 housenumber: 
 phone: ""
 opening_hours: "08:00-18:00"

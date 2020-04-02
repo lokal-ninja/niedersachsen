@@ -5,7 +5,7 @@ latitude: 51.9323586
 longitude: 10.418728600000001
 postcode: 38644
 city: Goslar
-street: Alte Heerstraße
+street: "Alte Heerstraße"
 housenumber: 11
 phone: "+49 5321 37050"
 opening_hours: ""

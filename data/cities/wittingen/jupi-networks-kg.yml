@@ -5,7 +5,7 @@ latitude: 52.7281138
 longitude: 10.7421013
 postcode: 29378
 city: Wittingen
-street: Gänsemarkt
+street: "Gänsemarkt"
 housenumber: 2
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,14:00-18:00; We,Sa 09:00-12:00"

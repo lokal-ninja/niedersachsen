@@ -5,7 +5,7 @@ latitude: 53.294341
 longitude: 10.3898799
 postcode: 21357
 city: Bardowick
-street: Pieperstraße
+street: "Pieperstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Th 09:00-13:00,14:30-18:00; Fr 09:00-18:00; Sa 09:00-13:00"

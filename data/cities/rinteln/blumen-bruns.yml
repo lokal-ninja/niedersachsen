@@ -5,7 +5,7 @@ latitude: 52.172957600000004
 longitude: 9.154806
 postcode: 31737
 city: Rinteln
-street: Fährweg
+street: "Fährweg"
 housenumber: 3
 phone: "+49 5751 3694"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 10:00-12:00"

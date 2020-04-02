@@ -5,7 +5,7 @@ latitude: 51.776588000000004
 longitude: 9.381279000000001
 postcode: 37671
 city: Höxter
-street: Grubestraße
+street: "Grubestraße"
 housenumber: 2
 phone: "+49 5271 6957185"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"

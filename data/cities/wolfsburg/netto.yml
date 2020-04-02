@@ -5,7 +5,7 @@ latitude: 52.4158307
 longitude: 10.6825475
 postcode: 38442
 city: Wolfsburg
-street: Großer Winkel
+street: "Großer Winkel"
 housenumber: 2
 phone: ""
 opening_hours: "08:00-21:00"

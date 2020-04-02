@@ -5,7 +5,7 @@ latitude: 53.466428500000006
 longitude: 9.80901
 postcode: 21149
 city: Hamburg
-street: Im Fischbeker Heidbrook
+street: "Im Fischbeker Heidbrook"
 housenumber: 2b
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:30; PH closed"

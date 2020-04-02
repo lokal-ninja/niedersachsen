@@ -5,7 +5,7 @@ latitude: 51.591419900000005
 longitude: 10.618909200000001
 postcode: 37445
 city: Walkenried
-street: Zorger Straße
+street: "Zorger Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

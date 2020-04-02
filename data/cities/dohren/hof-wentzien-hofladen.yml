@@ -5,7 +5,7 @@ latitude: 53.303269900000004
 longitude: 9.7031714
 postcode: 21255
 city: Dohren
-street: Hollenstedter Straße
+street: "Hollenstedter Straße"
 housenumber: 2
 phone: "+49 4182 22495"
 opening_hours: ""

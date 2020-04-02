@@ -5,7 +5,7 @@ latitude: 52.9815539
 longitude: 9.816413800000001
 postcode: 29614
 city: Soltau
-street: Visselhöveder Straße
+street: "Visselhöveder Straße"
 housenumber: 90
 phone: "+49 5191 15141"
 opening_hours: "Tu,Fr 14:00-18:30"

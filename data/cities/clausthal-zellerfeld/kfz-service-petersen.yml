@@ -5,7 +5,7 @@ latitude: 51.7969585
 longitude: 10.329974400000001
 postcode: 38678
 city: Clausthal-Zellerfeld
-street: Osteröder Straße
+street: "Osteröder Straße"
 housenumber: 61
 phone: ""
 opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:00"

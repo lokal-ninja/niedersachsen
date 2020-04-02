@@ -5,7 +5,7 @@ latitude: 53.45280820000001
 longitude: 9.5050035
 postcode: 21698
 city: Harsefeld
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.543286
 longitude: 8.581821600000001
 postcode: 27568
 city: Bremerhaven
-street: Prager Straße
+street: "Prager Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"

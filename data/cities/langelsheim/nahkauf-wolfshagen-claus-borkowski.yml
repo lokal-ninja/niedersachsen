@@ -5,7 +5,7 @@ latitude: 51.910023300000006
 longitude: 10.3185743
 postcode: 38685
 city: Langelsheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-13:00; Su 09:00-11:00"

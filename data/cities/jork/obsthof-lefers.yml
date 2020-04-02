@@ -5,7 +5,7 @@ latitude: 53.526021400000005
 longitude: 9.7060137
 postcode: 21635
 city: Jork
-street: Osterjork
+street: "Osterjork"
 housenumber: 140
 phone: ""
 opening_hours: "Mo-Sa 09:00-18:00; Su,PH 10:00-17:00"

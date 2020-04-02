@@ -5,7 +5,7 @@ latitude: 52.6171097
 longitude: 8.212774300000001
 postcode: 49439
 city: Steinfeld
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 31
 phone: "+49 5492 3884"
 opening_hours: ""

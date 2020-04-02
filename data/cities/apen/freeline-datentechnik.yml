@@ -5,7 +5,7 @@ latitude: 53.215382500000004
 longitude: 7.805723
 postcode: 26689
 city: Apen
-street: Wiekesch
+street: "Wiekesch"
 housenumber: 1
 phone: "+49 4489 408753"
 opening_hours: "Mo,We,Th 10:00-12:30,14:30-17:00; Tu,Fr 10:00-12:30,14:30-18:30; Sa 10:00-12:30"

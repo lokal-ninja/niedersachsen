@@ -5,7 +5,7 @@ latitude: 52.1409333
 longitude: 10.304053300000001
 postcode: 38228
 city: Salzgitter
-street: Kurt-Schumacher-Ring
+street: "Kurt-Schumacher-Ring"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su off; PH off"

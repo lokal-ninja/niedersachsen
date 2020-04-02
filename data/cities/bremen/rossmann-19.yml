@@ -5,7 +5,7 @@ latitude: 53.0784305
 longitude: 8.804287200000001
 postcode: 28195
 city: Bremen
-street: Hanseatenhof
+street: "Hanseatenhof"
 housenumber: 6-8
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

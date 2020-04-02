@@ -5,7 +5,7 @@ latitude: 51.502296
 longitude: 9.901603900000001
 postcode: 37124
 city: Rosdorf
-street: Siedlungsweg
+street: "Siedlungsweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

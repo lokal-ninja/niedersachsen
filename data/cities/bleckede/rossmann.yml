@@ -5,7 +5,7 @@ latitude: 53.288670700000004
 longitude: 10.728766100000001
 postcode: 21354
 city: Bleckede
-street: Lüneburger Straße
+street: "Lüneburger Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su off; PH off"

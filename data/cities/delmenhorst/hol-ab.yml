@@ -5,7 +5,7 @@ latitude: 53.025181
 longitude: 8.6498901
 postcode: 27755
 city: Delmenhorst
-street: Annenheider Straße
+street: "Annenheider Straße"
 housenumber: 199
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.367465900000006
 longitude: 7.1804342000000005
 postcode: 26723
 city: Emden
-street: Constantiaplatz
+street: "Constantiaplatz"
 housenumber: 5
 phone: "+49 4921 66778"
 opening_hours: ""

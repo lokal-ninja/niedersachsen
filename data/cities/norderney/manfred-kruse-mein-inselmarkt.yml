@@ -5,7 +5,7 @@ latitude: 53.7135423
 longitude: 7.1683228
 postcode: 26548
 city: Norderney
-street: Nordhelmstraße
+street: "Nordhelmstraße"
 housenumber: 66
 phone: "+49 4932 990541"
 opening_hours: "Mo-Fr 08:00-13:00, 15:00-19:00; Sa 08:00-18:00; Su 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 51.6564916
 longitude: 10.3437122
 postcode: 37412
 city: Herzberg am Harz
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 34
 phone: "+49 5521 5386"
 opening_hours: ""

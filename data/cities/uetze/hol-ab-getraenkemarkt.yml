@@ -5,7 +5,7 @@ latitude: 52.461184100000004
 longitude: 10.202146
 postcode: 31311
 city: Uetze
-street: Dollberger Straße
+street: "Dollberger Straße"
 housenumber: 13a
 phone: "+49 5173 2150"
 opening_hours: "Mo-Fr 08:00-13:00,14:30-19:00; Sa 08:30-13:00"

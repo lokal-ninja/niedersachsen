@@ -5,7 +5,7 @@ latitude: 52.264565000000005
 longitude: 10.5213818
 postcode: 38100
 city: Braunschweig
-street: Sack
+street: "Sack"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00; PH off"

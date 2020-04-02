@@ -5,7 +5,7 @@ latitude: 52.4977383
 longitude: 6.8921273
 postcode: 49843
 city: Uelsen
-street: Geerinks-Kamp
+street: "Geerinks-Kamp"
 housenumber: 1
 phone: "+49 5942 922462"
 opening_hours: ""

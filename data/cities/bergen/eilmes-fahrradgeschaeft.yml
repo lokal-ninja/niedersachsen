@@ -5,7 +5,7 @@ latitude: 52.8088947
 longitude: 9.965862600000001
 postcode: 29303
 city: Bergen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 13
 phone: "+49 5051 8367"
 opening_hours: "Jan-Mar: Mo 09:00-12:30;Apr-Aug: Mo 09:00-12:30,14:00-18:00;Sep-Dec: Mo 09:00-12:30;Tu-Fr 09:00-12:30,14:00-18:00;Sa 09:00-12:30"

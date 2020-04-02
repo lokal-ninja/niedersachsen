@@ -5,7 +5,7 @@ latitude: 52.259524000000006
 longitude: 10.545396700000001
 postcode: 38104
 city: Braunschweig
-street: Georg-Westermann-Allee
+street: "Georg-Westermann-Allee"
 housenumber: 6
 phone: ""
 opening_hours: ""

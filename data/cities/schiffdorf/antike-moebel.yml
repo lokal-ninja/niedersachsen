@@ -5,7 +5,7 @@ latitude: 53.518165100000004
 longitude: 8.717104500000001
 postcode: 27619
 city: Schiffdorf
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

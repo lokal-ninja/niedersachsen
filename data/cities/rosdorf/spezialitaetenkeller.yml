@@ -5,7 +5,7 @@ latitude: 51.5071376
 longitude: 9.832878500000001
 postcode: 
 city: Rosdorf
-street: Alte Dorfstraße
+street: "Alte Dorfstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo,Th 16:30-18:30; PH off"

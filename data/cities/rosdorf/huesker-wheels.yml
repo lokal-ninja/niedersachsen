@@ -5,7 +5,7 @@ latitude: 51.503587
 longitude: 9.894927000000001
 postcode: 37124
 city: Rosdorf
-street: Obere Straße
+street: "Obere Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00; PH off"

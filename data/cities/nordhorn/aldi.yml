@@ -5,7 +5,7 @@ latitude: 52.428237300000006
 longitude: 7.0635187
 postcode: 48529
 city: Nordhorn
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.0635179
 longitude: 8.877364
 postcode: 28207
 city: Bremen
-street: Föhrenstraße
+street: "Föhrenstraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

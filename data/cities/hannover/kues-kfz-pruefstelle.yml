@@ -5,7 +5,7 @@ latitude: 52.3644855
 longitude: 9.7649574
 postcode: 30171
 city: Hannover
-street: Anna-Zammert-Straße
+street: "Anna-Zammert-Straße"
 housenumber: 33a
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00, Oder nach telefonischer Vereinbarung"

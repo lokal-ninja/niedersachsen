@@ -5,7 +5,7 @@ latitude: 52.545523700000004
 longitude: 10.710555300000001
 postcode: 38524
 city: Sassenburg
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

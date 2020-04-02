@@ -5,7 +5,7 @@ latitude: 52.352411100000005
 longitude: 9.1454702
 postcode: 31712
 city: Niedernwöhren
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 35
 phone: "+49 5721 4767"
 opening_hours: "Mo-Fr 09:30-18:00, Sa 10:00-14:00"

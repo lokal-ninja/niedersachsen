@@ -5,7 +5,7 @@ latitude: 53.5704513
 longitude: 8.5973825
 postcode: 27580
 city: Bremerhaven
-street: Stresemannstraße
+street: "Stresemannstraße"
 housenumber: 301
 phone: "+49 471 94810570"
 opening_hours: ""

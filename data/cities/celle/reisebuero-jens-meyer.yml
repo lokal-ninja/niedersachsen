@@ -5,7 +5,7 @@ latitude: 52.6248111
 longitude: 10.0821961
 postcode: 29221
 city: Celle
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 3
 phone: "+49 5141 9344044"
 opening_hours: "Mo-Fr 09:30-13:30,14:30-18:00;Sa 09:30-12:30"

@@ -5,7 +5,7 @@ latitude: 53.572049
 longitude: 7.9876883
 postcode: 26419
 city: Schortens
-street: Grafschafter Straße
+street: "Grafschafter Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo off; Tu-Fr open"

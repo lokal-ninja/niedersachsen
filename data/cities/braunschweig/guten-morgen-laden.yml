@@ -5,7 +5,7 @@ latitude: 52.273738300000005
 longitude: 10.5430852
 postcode: 38106
 city: Braunschweig
-street: Schunterstraße
+street: "Schunterstraße"
 housenumber: 17
 phone: "+49 531 341910"
 opening_hours: "Mo-Th 09:00-13:00,15:00-18:30;Fr 09:00-18:30;Sa 09:00-13:00"

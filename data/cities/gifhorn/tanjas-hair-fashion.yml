@@ -5,7 +5,7 @@ latitude: 52.4653289
 longitude: 10.555067600000001
 postcode: 38518
 city: Gifhorn
-street: Isenbütteler Weg
+street: "Isenbütteler Weg"
 housenumber: 40
 phone: ""
 opening_hours: "Tu-Fr 09:00-19:00; Sa 08:00-13:00"

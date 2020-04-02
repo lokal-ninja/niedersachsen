@@ -5,7 +5,7 @@ latitude: 53.3739694
 longitude: 10.5563224
 postcode: 21481
 city: Lauenburg/Elbe
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"

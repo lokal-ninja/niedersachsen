@@ -5,7 +5,7 @@ latitude: 53.0588259
 longitude: 9.0111541
 postcode: 28876
 city: Oyten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 116
 phone: ""
 opening_hours: "Mo-Sa 9:00-13:00; Mo-Fr 14:00-18:00"

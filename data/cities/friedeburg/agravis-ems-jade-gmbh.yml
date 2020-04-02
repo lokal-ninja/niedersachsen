@@ -5,7 +5,7 @@ latitude: 53.433723900000004
 longitude: 7.856847
 postcode: 26446
 city: Friedeburg
-street: Marxer Hauptstraße
+street: "Marxer Hauptstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.266874200000004
 longitude: 10.5285492
 postcode: 38100
 city: Braunschweig
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 98
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-18:00"

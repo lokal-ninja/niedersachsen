@@ -5,7 +5,7 @@ latitude: 52.2547134
 longitude: 9.969672500000001
 postcode: 31191
 city: Algermissen
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 11-12
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"

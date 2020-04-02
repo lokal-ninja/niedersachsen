@@ -5,7 +5,7 @@ latitude: 53.1421642
 longitude: 8.196968700000001
 postcode: 26121
 city: Oldenburg
-street: Ofener Straße
+street: "Ofener Straße"
 housenumber: 31
 phone: ""
 opening_hours: "Tu-Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00"

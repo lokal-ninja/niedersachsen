@@ -5,7 +5,7 @@ latitude: 52.4198231
 longitude: 9.749166200000001
 postcode: 30179
 city: Hannover
-street: Ikarusallee
+street: "Ikarusallee"
 housenumber: 26
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5454681
 longitude: 8.5937032
 postcode: 49419
 city: Wagenfeld
-street: Rosenweg
+street: "Rosenweg"
 housenumber: 2B
 phone: ""
 opening_hours: "nach Vereinbarung"

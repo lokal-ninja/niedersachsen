@@ -5,7 +5,7 @@ latitude: 52.2155162
 longitude: 10.6395356
 postcode: 38173
 city: Sickte
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 14a
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

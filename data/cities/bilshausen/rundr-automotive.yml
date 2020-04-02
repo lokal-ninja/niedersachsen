@@ -5,7 +5,7 @@ latitude: 51.639035500000006
 longitude: 10.165964500000001
 postcode: 37434
 city: Bilshausen
-street: Kleine Bahnhofstraße
+street: "Kleine Bahnhofstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

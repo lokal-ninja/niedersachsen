@@ -5,7 +5,7 @@ latitude: 52.3063858
 longitude: 8.0491138
 postcode: 49090
 city: Osnabrück
-street: Bramstraße
+street: "Bramstraße"
 housenumber: 116
 phone: ""
 opening_hours: ""

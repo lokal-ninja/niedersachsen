@@ -5,7 +5,7 @@ latitude: 53.081091400000005
 longitude: 8.8098537
 postcode: 28195
 city: Bremen
-street: Hillmannplatz
+street: "Hillmannplatz"
 housenumber: 11
 phone: "+49 421 17864788"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.2740342
 longitude: 9.419188400000001
 postcode: 27404
 city: Elsdorf
-street: Alpershauser Weg
+street: "Alpershauser Weg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 14:00-18:00 Sa 09:00-12:00"

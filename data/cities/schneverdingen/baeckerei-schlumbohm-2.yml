@@ -5,7 +5,7 @@ latitude: 53.1192506
 longitude: 9.787476900000001
 postcode: 29640
 city: Schneverdingen
-street: Am Markt
+street: "Am Markt"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.4849856
 longitude: 10.527194900000001
 postcode: 38518
 city: Gifhorn
-street: Celler Straße
+street: "Celler Straße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Th 10:00-18:00, Fr 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 53.0773785
 longitude: 8.8378294
 postcode: 28205
 city: Bremen
-street: Sankt-Jürgen-Straße
+street: "Sankt-Jürgen-Straße"
 housenumber: 161
 phone: "+49 421 4985121"
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:30; Su 08:00-12:00"

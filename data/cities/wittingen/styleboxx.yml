@@ -5,7 +5,7 @@ latitude: 52.72530750000001
 longitude: 10.7381819
 postcode: 29378
 city: Wittingen
-street: Knesebecker Straße
+street: "Knesebecker Straße"
 housenumber: 2-8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5273771
 longitude: 8.3673778
 postcode: 49459
 city: Lembruch
-street: Alte Dorfstraße
+street: "Alte Dorfstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 06:15-12:30; Mo-Fr 14:30-18:00; Sa 06:15-13:00; Su 07:00-12:00"

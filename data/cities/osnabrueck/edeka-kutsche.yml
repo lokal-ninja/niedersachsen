@@ -5,7 +5,7 @@ latitude: 52.2944783
 longitude: 8.012700800000001
 postcode: 49090
 city: Osnabrück
-street: Natruper Straße
+street: "Natruper Straße"
 housenumber: 233
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

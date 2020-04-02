@@ -5,7 +5,7 @@ latitude: 53.1482918
 longitude: 8.2200962
 postcode: 26123
 city: Oldenburg
-street: Schäferstraße
+street: "Schäferstraße"
 housenumber: 23
 phone: "+49 441 82272"
 opening_hours: ""

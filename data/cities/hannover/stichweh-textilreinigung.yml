@@ -5,7 +5,7 @@ latitude: 52.370346000000005
 longitude: 9.756590300000001
 postcode: 30171
 city: Hannover
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 93
 phone: "+49 511 817793"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

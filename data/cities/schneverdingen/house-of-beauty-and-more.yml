@@ -5,7 +5,7 @@ latitude: 53.070701500000006
 longitude: 9.8650905
 postcode: 29640
 city: Schneverdingen
-street: Badeweg
+street: "Badeweg"
 housenumber: 3
 phone: ""
 opening_hours: ""

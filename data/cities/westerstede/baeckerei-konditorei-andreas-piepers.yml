@@ -5,7 +5,7 @@ latitude: 53.25639880000001
 longitude: 7.9231018
 postcode: 26655
 city: Westerstede
-street: Kuhlenstraße
+street: "Kuhlenstraße"
 housenumber: 10
 phone: "+49 4488 2866"
 opening_hours: ""

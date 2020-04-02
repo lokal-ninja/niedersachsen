@@ -5,7 +5,7 @@ latitude: 53.4058799
 longitude: 7.7688041000000005
 postcode: 26639
 city: Wiesmoor
-street: Birkhahnweg
+street: "Birkhahnweg"
 housenumber: 64
 phone: ""
 opening_hours: ""

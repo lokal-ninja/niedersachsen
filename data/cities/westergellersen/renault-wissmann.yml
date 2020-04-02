@@ -5,7 +5,7 @@ latitude: 53.233584300000004
 longitude: 10.246568
 postcode: 21394
 city: Westergellersen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5c
 phone: "+4941351295"
 opening_hours: ""

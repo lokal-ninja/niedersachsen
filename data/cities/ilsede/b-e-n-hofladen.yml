@@ -5,7 +5,7 @@ latitude: 52.283937800000004
 longitude: 10.2284
 postcode: 
 city: Ilsede
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.167180800000004
 longitude: 8.240809
 postcode: 26125
 city: Oldenburg
-street: Hochheider Weg
+street: "Hochheider Weg"
 housenumber: 209
 phone: ""
 opening_hours: ""

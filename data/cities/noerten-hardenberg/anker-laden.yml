@@ -5,7 +5,7 @@ latitude: 51.630160200000006
 longitude: 9.9363989
 postcode: 
 city: Nörten-Hardenberg
-street: Göttinger Straße
+street: "Göttinger Straße"
 housenumber: 76
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; PH off"

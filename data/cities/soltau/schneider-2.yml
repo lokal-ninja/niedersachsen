@@ -5,7 +5,7 @@ latitude: 52.9844712
 longitude: 9.838468200000001
 postcode: 29614
 city: Soltau
-street: Neuer Hagen
+street: "Neuer Hagen"
 housenumber: 3-4
 phone: "+49 5191 3521"
 opening_hours: ""

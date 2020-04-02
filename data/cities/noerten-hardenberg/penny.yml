@@ -5,7 +5,7 @@ latitude: 51.6237657
 longitude: 9.935488300000001
 postcode: 37176
 city: Nörten-Hardenberg
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

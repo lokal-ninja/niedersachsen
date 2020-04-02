@@ -5,7 +5,7 @@ latitude: 52.153890000000004
 longitude: 10.351912700000002
 postcode: 38229
 city: Salzgitter
-street: Peiner Straße
+street: "Peiner Straße"
 housenumber: 107
 phone: "+49-5341-833630"
 opening_hours: "Mo-Sa 10:00-19:00"

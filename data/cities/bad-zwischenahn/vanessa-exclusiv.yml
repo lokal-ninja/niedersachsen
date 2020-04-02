@@ -5,7 +5,7 @@ latitude: 53.1844144
 longitude: 8.0062346
 postcode: 26160
 city: Bad Zwischenahn
-street: Peterstraße
+street: "Peterstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

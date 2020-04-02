@@ -5,7 +5,7 @@ latitude: 53.3855827
 longitude: 10.4187434
 postcode: 21395
 city: Tespe
-street: Lüneburger Straße
+street: "Lüneburger Straße"
 housenumber: 112
 phone: "+49 4176 9489261"
 opening_hours: ""

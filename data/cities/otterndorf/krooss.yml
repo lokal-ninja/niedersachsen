@@ -5,7 +5,7 @@ latitude: 53.8067569
 longitude: 8.8989411
 postcode: 21762
 city: Otterndorf
-street: Himmelreich
+street: "Himmelreich"
 housenumber: 25
 phone: "+49 4751 2209"
 opening_hours: "Mo-Fr 08:00-12:30, 14:00-18:00; Sa 09:00-12:30"

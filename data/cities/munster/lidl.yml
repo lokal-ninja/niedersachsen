@@ -5,7 +5,7 @@ latitude: 52.9887632
 longitude: 10.107699100000001
 postcode: 29633
 city: Munster
-street: Kohlenbissener Grund
+street: "Kohlenbissener Grund"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

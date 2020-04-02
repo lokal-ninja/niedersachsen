@@ -5,7 +5,7 @@ latitude: 52.5944888
 longitude: 8.1257455
 postcode: 49451
 city: Holdorf
-street: Dinklager Straße
+street: "Dinklager Straße"
 housenumber: 15
 phone: "+49 5494 9888 0"
 opening_hours: ""

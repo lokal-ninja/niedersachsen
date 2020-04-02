@@ -5,7 +5,7 @@ latitude: 52.2972978
 longitude: 8.9675165
 postcode: 32423
 city: Minden
-street: Mainstraße
+street: "Mainstraße"
 housenumber: 15
 phone: "+49 571 31860"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 06:45-13:00; So 08:00-11:00"

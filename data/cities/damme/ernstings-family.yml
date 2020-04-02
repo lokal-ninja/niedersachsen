@@ -5,7 +5,7 @@ latitude: 52.5218964
 longitude: 8.1926713
 postcode: 49401
 city: Damme
-street: Im Hofe
+street: "Im Hofe"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

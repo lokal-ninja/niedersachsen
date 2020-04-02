@@ -5,7 +5,7 @@ latitude: 53.0655088
 longitude: 8.7950687
 postcode: 28201
 city: Bremen
-street: Gastfeldstraße
+street: "Gastfeldstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

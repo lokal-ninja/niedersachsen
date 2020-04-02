@@ -5,7 +5,7 @@ latitude: 51.899611900000004
 longitude: 10.4936013
 postcode: 38642
 city: Goslar
-street: Harzburger Straße
+street: "Harzburger Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

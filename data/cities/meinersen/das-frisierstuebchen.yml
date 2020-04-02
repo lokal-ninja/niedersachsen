@@ -5,7 +5,7 @@ latitude: 52.464336700000004
 longitude: 10.3289386
 postcode: 38536
 city: Meinersen
-street: Baukelroder Weg
+street: "Baukelroder Weg"
 housenumber: 8
 phone: "+49 5372 6328"
 opening_hours: "Mo off; Tu-Fr 08:00-18:00; Sa 08:00-13:00; Um Terminabsprache wird gebeten"

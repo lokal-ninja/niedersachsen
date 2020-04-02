@@ -5,7 +5,7 @@ latitude: 53.3957728
 longitude: 8.136108100000001
 postcode: 26316
 city: Varel
-street: Windallee
+street: "Windallee"
 housenumber: 2b
 phone: ""
 opening_hours: ""

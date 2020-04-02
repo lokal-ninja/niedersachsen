@@ -5,7 +5,7 @@ latitude: 53.1173286
 longitude: 8.753664500000001
 postcode: 28237
 city: Bremen
-street: Waltjenstraße
+street: "Waltjenstraße"
 housenumber: 112
 phone: "+49 421 6436634"
 opening_hours: ""

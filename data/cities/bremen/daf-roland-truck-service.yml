@@ -5,7 +5,7 @@ latitude: 53.0438259
 longitude: 8.9543782
 postcode: 28307
 city: Bremen
-street: Heinz-Kerneck-Straße
+street: "Heinz-Kerneck-Straße"
 housenumber: 12
 phone: "+49 421 438460"
 opening_hours: ""

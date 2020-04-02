@@ -5,7 +5,7 @@ latitude: 53.522099700000005
 longitude: 8.1078919
 postcode: 26382
 city: Wilhelmshaven
-street: Peterstraße
+street: "Peterstraße"
 housenumber: 80
 phone: ""
 opening_hours: ""

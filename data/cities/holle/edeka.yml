@@ -5,7 +5,7 @@ latitude: 52.085767600000004
 longitude: 10.161116700000001
 postcode: 31188
 city: Holle
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.329733600000004
 longitude: 9.1999514
 postcode: 31655
 city: Stadthagen
-street: Nordring
+street: "Nordring"
 housenumber: 1
 phone: "+49 5721 4515"
 opening_hours: "Mo-Fr 08:00-18:00"

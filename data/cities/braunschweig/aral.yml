@@ -5,7 +5,7 @@ latitude: 52.2354241
 longitude: 10.527620200000001
 postcode: 38124
 city: Braunschweig
-street: Wolfenbütteler Straße
+street: "Wolfenbütteler Straße"
 housenumber: 51
 phone: ""
 opening_hours: "24/7"

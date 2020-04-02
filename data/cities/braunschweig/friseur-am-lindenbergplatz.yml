@@ -5,7 +5,7 @@ latitude: 52.2457184
 longitude: 10.5625903
 postcode: 38126
 city: Braunschweig
-street: Lindenbergplatz
+street: "Lindenbergplatz"
 housenumber: 17
 phone: ""
 opening_hours: "Mo off"

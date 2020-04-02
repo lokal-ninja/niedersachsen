@@ -5,7 +5,7 @@ latitude: 52.155093400000005
 longitude: 8.0445467
 postcode: 49186
 city: Bad Iburg
-street: Mühlentor
+street: "Mühlentor"
 housenumber: 3
 phone: "+49 5403 780303"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"

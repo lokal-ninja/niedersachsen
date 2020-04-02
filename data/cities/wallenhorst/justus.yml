@@ -5,7 +5,7 @@ latitude: 52.3365389
 longitude: 8.0210709
 postcode: 49134
 city: Wallenhorst
-street: Moorbachstraße
+street: "Moorbachstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; So 08:00-11:00"

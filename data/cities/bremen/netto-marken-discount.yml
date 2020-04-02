@@ -5,7 +5,7 @@ latitude: 53.0899293
 longitude: 8.857017
 postcode: 28213
 city: Bremen
-street: Riensberger Straße
+street: "Riensberger Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

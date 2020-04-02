@@ -5,7 +5,7 @@ latitude: 53.05656930000001
 longitude: 8.7137673
 postcode: 28259
 city: Bremen
-street: Huchtinger Heerstraße
+street: "Huchtinger Heerstraße"
 housenumber: 157
 phone: ""
 opening_hours: ""

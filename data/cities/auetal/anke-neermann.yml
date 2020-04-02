@@ -5,7 +5,7 @@ latitude: 52.238703900000004
 longitude: 9.2019335
 postcode: 31749
 city: Auetal
-street: Finkenweg
+street: "Finkenweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

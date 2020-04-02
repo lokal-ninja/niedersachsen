@@ -5,7 +5,7 @@ latitude: 52.1632411
 longitude: 10.540394000000001
 postcode: 38300
 city: Wolfenbüttel
-street: Breite Herzogstraße
+street: "Breite Herzogstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

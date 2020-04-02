@@ -5,7 +5,7 @@ latitude: 51.5310757
 longitude: 9.9263007
 postcode: 
 city: Göttingen
-street: Rosdorfer Weg
+street: "Rosdorfer Weg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Su 09:00-20:00; PH 10:00-20:00"

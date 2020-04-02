@@ -5,7 +5,7 @@ latitude: 53.22710300000001
 longitude: 10.4011478
 postcode: 21335
 city: Lüneburg
-street: Carl-von-Ossietzky-Straße
+street: "Carl-von-Ossietzky-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

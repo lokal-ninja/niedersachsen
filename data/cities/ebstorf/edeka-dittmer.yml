@@ -5,7 +5,7 @@ latitude: 53.020081600000005
 longitude: 10.4203831
 postcode: 29574
 city: Ebstorf
-street: Georg-Marwede-Straße
+street: "Georg-Marwede-Straße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

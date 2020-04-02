@@ -5,7 +5,7 @@ latitude: 53.036436200000004
 longitude: 8.9185963
 postcode: 28307
 city: Bremen
-street: Bi'n Tegelplatz
+street: "Bi'n Tegelplatz"
 housenumber: 5e
 phone: "+49 421 2582660"
 opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 52.897747300000006
 longitude: 9.6588946
 postcode: 29699
 city: Bomlitz
-street: Walsroder Straße
+street: "Walsroder Straße"
 housenumber: 42a
 phone: "+49 5161 9496700"
 opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-16:00"

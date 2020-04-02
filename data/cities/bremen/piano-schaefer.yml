@@ -5,7 +5,7 @@ latitude: 53.0716612
 longitude: 8.8445129
 postcode: 28205
 city: Bremen
-street: Am Hulsberg
+street: "Am Hulsberg"
 housenumber: 25
 phone: "+49 421 49 03 58"
 opening_hours: "We-Fr 15:00-18:00;Sa 10:00-12:00"

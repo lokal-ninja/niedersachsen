@@ -5,7 +5,7 @@ latitude: 52.167038500000004
 longitude: 10.3291608
 postcode: 38226
 city: Salzgitter
-street: Buschweidenweg
+street: "Buschweidenweg"
 housenumber: 10
 phone: ""
 opening_hours: "Mo,We,Fr 10:00-12:00; Tu,Th 15:00-17:00"

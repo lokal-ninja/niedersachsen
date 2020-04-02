@@ -5,7 +5,7 @@ latitude: 53.0620434
 longitude: 8.8696876
 postcode: 28207
 city: Bremen
-street: Pfalzburger Straße
+street: "Pfalzburger Straße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

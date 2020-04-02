@@ -5,7 +5,7 @@ latitude: 52.9067311
 longitude: 10.5873138
 postcode: 29559
 city: Wrestedt
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 65
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

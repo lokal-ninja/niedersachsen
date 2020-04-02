@@ -5,7 +5,7 @@ latitude: 51.5285242
 longitude: 9.9343664
 postcode: 
 city: Göttingen
-street: Lotzestraße
+street: "Lotzestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

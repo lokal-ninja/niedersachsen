@@ -5,7 +5,7 @@ latitude: 53.3703562
 longitude: 9.7266971
 postcode: 21279
 city: Hollenstedt
-street: Wennerstorfer Weg
+street: "Wennerstorfer Weg"
 housenumber: 2
 phone: "+49 4165 212911"
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00"

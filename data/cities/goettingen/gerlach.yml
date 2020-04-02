@@ -5,7 +5,7 @@ latitude: 51.5317494
 longitude: 9.936817300000001
 postcode: 37073
 city: Göttingen
-street: Lange-Geismar-Straße
+street: "Lange-Geismar-Straße"
 housenumber: 32
 phone: ""
 opening_hours: ""

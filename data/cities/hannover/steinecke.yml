@@ -5,7 +5,7 @@ latitude: 52.387990200000004
 longitude: 9.7245208
 postcode: 30167
 city: Hannover
-street: Kopernikusstraße
+street: "Kopernikusstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-11:00"

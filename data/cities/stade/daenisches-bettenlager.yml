@@ -5,7 +5,7 @@ latitude: 53.5975668
 longitude: 9.421872500000001
 postcode: 21682
 city: Stade
-street: Drosselstieg
+street: "Drosselstieg"
 housenumber: 54
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off"

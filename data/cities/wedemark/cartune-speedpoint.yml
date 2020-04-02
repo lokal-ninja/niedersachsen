@@ -5,7 +5,7 @@ latitude: 52.536715400000006
 longitude: 9.719513500000001
 postcode: 30900
 city: Wedemark
-street: Andreas-Haselbacher-Straße
+street: "Andreas-Haselbacher-Straße"
 housenumber: 61-63
 phone: ""
 opening_hours: ""

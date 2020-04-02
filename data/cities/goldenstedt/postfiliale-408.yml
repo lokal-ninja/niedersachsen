@@ -5,7 +5,7 @@ latitude: 52.7873475
 longitude: 8.4308805
 postcode: 49424
 city: Goldenstedt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 71
 phone: ""
 opening_hours: ""

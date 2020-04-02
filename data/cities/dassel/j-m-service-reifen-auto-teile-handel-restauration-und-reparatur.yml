@@ -5,7 +5,7 @@ latitude: 51.8369336
 longitude: 9.7614254
 postcode: 37586
 city: Dassel
-street: Allerbachstraße
+street: "Allerbachstraße"
 housenumber: 1
 phone: "+49 5562 914272"
 opening_hours: ""

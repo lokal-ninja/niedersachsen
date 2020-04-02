@@ -5,7 +5,7 @@ latitude: 52.256374400000006
 longitude: 10.251749
 postcode: 31246
 city: Ilsede
-street: Oberger Hauptstraße
+street: "Oberger Hauptstraße"
 housenumber: 30
 phone: "+49 5172 1289602"
 opening_hours: "Mo-Fr 07:00-20:00"

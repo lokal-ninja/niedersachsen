@@ -5,7 +5,7 @@ latitude: 52.3136512
 longitude: 9.7609829
 postcode: 30966
 city: Hemmingen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

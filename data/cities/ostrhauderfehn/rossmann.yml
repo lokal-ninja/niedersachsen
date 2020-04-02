@@ -5,7 +5,7 @@ latitude: 53.139602700000005
 longitude: 7.6082855
 postcode: 26842
 city: Ostrhauderfehn
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 48
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su off; PH off"

@@ -5,7 +5,7 @@ latitude: 51.830083300000005
 longitude: 9.4211842
 postcode: 37671
 city: Höxter
-street: Stahler Weg
+street: "Stahler Weg"
 housenumber: 7
 phone: ""
 opening_hours: ""

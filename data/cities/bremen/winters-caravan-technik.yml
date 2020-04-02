@@ -5,7 +5,7 @@ latitude: 53.062859
 longitude: 8.7439423
 postcode: 28259
 city: Bremen
-street: Wardamm
+street: "Wardamm"
 housenumber: 
 phone: ""
 opening_hours: ""

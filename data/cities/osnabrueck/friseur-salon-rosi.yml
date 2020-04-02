@@ -5,7 +5,7 @@ latitude: 52.278442000000005
 longitude: 8.0778193
 postcode: 49084
 city: Osnabrück
-street: Tannenburgstraße
+street: "Tannenburgstraße"
 housenumber: 70
 phone: ""
 opening_hours: ""

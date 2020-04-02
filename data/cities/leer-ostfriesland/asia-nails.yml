@@ -5,7 +5,7 @@ latitude: 53.229423700000005
 longitude: 7.4528235
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 09:00-18:00"

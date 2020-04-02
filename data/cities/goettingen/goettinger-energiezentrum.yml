@@ -5,7 +5,7 @@ latitude: 51.5477113
 longitude: 9.903141
 postcode: 37079
 city: Göttingen
-street: Robert-Bosch-Breite
+street: "Robert-Bosch-Breite"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00; PH off"

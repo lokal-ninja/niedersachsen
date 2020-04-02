@@ -5,7 +5,7 @@ latitude: 52.4470176
 longitude: 10.0094045
 postcode: 31303
 city: Burgdorf
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 43
 phone: ""
 opening_hours: ""

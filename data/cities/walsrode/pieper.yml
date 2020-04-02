@@ -5,7 +5,7 @@ latitude: 52.8620012
 longitude: 9.5922835
 postcode: 29664
 city: Walsrode
-street: Moorstraße
+street: "Moorstraße"
 housenumber: 34-36
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00"

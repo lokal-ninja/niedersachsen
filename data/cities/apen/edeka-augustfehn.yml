@@ -5,7 +5,7 @@ latitude: 53.21846600000001
 longitude: 7.7620329
 postcode: 26689
 city: Apen
-street: Stahlwerkstraße
+street: "Stahlwerkstraße"
 housenumber: 15
 phone: "+49 4489 941480"
 opening_hours: "Mo-Sa 08:00-20:00"

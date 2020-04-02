@@ -5,7 +5,7 @@ latitude: 52.271288000000006
 longitude: 10.5349188
 postcode: 38106
 city: Braunschweig
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 106
 phone: ""
 opening_hours: "Mo-Tu 07:00-18:30; We 07:00-14:00; Th-Fr 07:00-18:30; Sa 8:00-14:00; Su 10:00-12:00"

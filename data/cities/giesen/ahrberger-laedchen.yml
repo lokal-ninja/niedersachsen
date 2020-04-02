@@ -5,7 +5,7 @@ latitude: 52.2217895
 longitude: 9.878034000000001
 postcode: 31180
 city: Giesen
-street: Hildesheimer Straße
+street: "Hildesheimer Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 07:00-12:00,15:00-18:00; Sa 07:00-12:00"

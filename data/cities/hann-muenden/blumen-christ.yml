@@ -5,7 +5,7 @@ latitude: 51.411329800000004
 longitude: 9.644488800000001
 postcode: 34346
 city: Hann. Münden
-street: Wilhelmshäuser Straße
+street: "Wilhelmshäuser Straße"
 housenumber: 39
 phone: "+49 5541 7019898"
 opening_hours: "mo-fr 08:00-18:00; sa 08:00-13:00; su 10:00-12:00"

@@ -5,7 +5,7 @@ latitude: 52.274840100000006
 longitude: 8.0444598
 postcode: 49074
 city: Osnabrück
-street: Kamp
+street: "Kamp"
 housenumber: 76
 phone: "+49 541 380 922 55"
 opening_hours: "Mo-Su 10:00-19:00; Sa 10:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.3049808
 longitude: 8.120485500000001
 postcode: 49191
 city: Belm
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 3-5
 phone: ""
 opening_hours: ""

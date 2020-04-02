@@ -5,7 +5,7 @@ latitude: 51.605575900000005
 longitude: 10.201666600000001
 postcode: 
 city: Gieboldehausen
-street: Ludwig-Erhard-Straße
+street: "Ludwig-Erhard-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 07:00-13:00,14:00-18:00; Sa 09:30-13:00; PH off"

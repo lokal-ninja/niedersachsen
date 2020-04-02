@@ -5,7 +5,7 @@ latitude: 52.6558204
 longitude: 9.1575095
 postcode: 31608
 city: Marklohe
-street: Heinrich-Büssing-Straße
+street: "Heinrich-Büssing-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"

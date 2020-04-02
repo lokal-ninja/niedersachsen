@@ -5,7 +5,7 @@ latitude: 51.555686900000005
 longitude: 9.9401059
 postcode: 37075
 city: Göttingen
-street: An der Lutter
+street: "An der Lutter"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

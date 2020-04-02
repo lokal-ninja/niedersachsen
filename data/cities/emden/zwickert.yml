@@ -5,7 +5,7 @@ latitude: 53.3625605
 longitude: 7.199061800000001
 postcode: 26723
 city: Emden
-street: Hansastraße
+street: "Hansastraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

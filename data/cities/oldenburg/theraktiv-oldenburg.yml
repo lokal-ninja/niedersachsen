@@ -5,7 +5,7 @@ latitude: 53.187908
 longitude: 8.223525500000001
 postcode: 26125
 city: Oldenburg
-street: Bollmannsweg
+street: "Bollmannsweg"
 housenumber: 33
 phone: ""
 opening_hours: ""

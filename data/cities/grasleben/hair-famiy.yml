@@ -5,7 +5,7 @@ latitude: 52.306603700000004
 longitude: 11.0146101
 postcode: 
 city: Grasleben
-street: Helmstedter Straße
+street: "Helmstedter Straße"
 housenumber: 9
 phone: "+49 5357 269"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

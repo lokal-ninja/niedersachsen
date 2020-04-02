@@ -5,7 +5,7 @@ latitude: 52.592535500000004
 longitude: 8.220039400000001
 postcode: 49439
 city: Steinfeld
-street: Lohner Straße
+street: "Lohner Straße"
 housenumber: 4D
 phone: ""
 opening_hours: ""

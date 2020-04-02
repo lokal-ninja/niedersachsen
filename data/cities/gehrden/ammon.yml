@@ -5,7 +5,7 @@ latitude: 52.3117157
 longitude: 9.6006772
 postcode: 30989
 city: Gehrden
-street: Dammstraße
+street: "Dammstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

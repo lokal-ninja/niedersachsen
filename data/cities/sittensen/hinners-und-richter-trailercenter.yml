@@ -5,7 +5,7 @@ latitude: 53.2933103
 longitude: 9.4983834
 postcode: 27419
 city: Sittensen
-street: Karl-Benz-Straße
+street: "Karl-Benz-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.54399960000001
 longitude: 9.902894100000001
 postcode: 37079
 city: Göttingen
-street: Rudolf-Winkel-Straße
+street: "Rudolf-Winkel-Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off"

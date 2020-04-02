@@ -5,7 +5,7 @@ latitude: 53.095099700000006
 longitude: 8.7965365
 postcode: 28215
 city: Bremen
-street: Bayreuther Straße
+street: "Bayreuther Straße"
 housenumber: 2a
 phone: "+49 421 353033"
 opening_hours: ""

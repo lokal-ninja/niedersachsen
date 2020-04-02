@@ -5,7 +5,7 @@ latitude: 52.6791184
 longitude: 7.9498576000000005
 postcode: 49610
 city: Quakenbrück
-street: Bürgerstraße
+street: "Bürgerstraße"
 housenumber: 2-4
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00; PH off"

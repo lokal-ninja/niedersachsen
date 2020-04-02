@@ -5,7 +5,7 @@ latitude: 52.359619
 longitude: 9.755334000000001
 postcode: 
 city: Hannover
-street: Rehbergstraße
+street: "Rehbergstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-17:00; Su 08:00-17:00"

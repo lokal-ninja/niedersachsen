@@ -5,7 +5,7 @@ latitude: 52.5510056
 longitude: 9.684818
 postcode: 30900
 city: Wedemark
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 
 phone: ""
 opening_hours: "Tu,Fr 08:30-12:30,15:00-18:00; Sa 08:30-12:30"

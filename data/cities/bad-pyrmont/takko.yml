@@ -5,7 +5,7 @@ latitude: 51.978833200000004
 longitude: 9.282860900000001
 postcode: 31812
 city: Bad Pyrmont
-street: An der Schwage
+street: "An der Schwage"
 housenumber: 8
 phone: "+49 5281 160528"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.2513572
 longitude: 7.505413600000001
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Fettpottsweg
+street: "Fettpottsweg"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-13:00; Su off; PH off"

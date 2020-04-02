@@ -5,7 +5,7 @@ latitude: 53.32701470000001
 longitude: 9.873185000000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

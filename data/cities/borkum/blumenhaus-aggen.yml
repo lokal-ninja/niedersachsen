@@ -5,7 +5,7 @@ latitude: 53.5844236
 longitude: 6.666565
 postcode: 26757
 city: Borkum
-street: Deichstraße
+street: "Deichstraße"
 housenumber: 11
 phone: "+49 4922 2385"
 opening_hours: ""

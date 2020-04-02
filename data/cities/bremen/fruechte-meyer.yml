@@ -5,7 +5,7 @@ latitude: 53.0860045
 longitude: 8.8518643
 postcode: 28213
 city: Bremen
-street: Schwachhauser Heerstraße
+street: "Schwachhauser Heerstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

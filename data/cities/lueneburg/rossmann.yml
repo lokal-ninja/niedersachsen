@@ -5,7 +5,7 @@ latitude: 53.260386100000005
 longitude: 10.4375414
 postcode: 21337
 city: Lüneburg
-street: Wulf-Werum-Straße
+street: "Wulf-Werum-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.398471900000004
 longitude: 10.836829400000001
 postcode: 38446
 city: Wolfsburg
-street: Hehlinger Straße
+street: "Hehlinger Straße"
 housenumber: 21
 phone: "+49 5363 942500"
 opening_hours: "Mo-Sa 07:00-22:00"

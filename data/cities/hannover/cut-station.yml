@@ -5,7 +5,7 @@ latitude: 52.34669
 longitude: 9.820849500000001
 postcode: 30539
 city: Hannover
-street: Lange-Hop-Straße
+street: "Lange-Hop-Straße"
 housenumber: 156
 phone: "+49 511 8511288"
 opening_hours: ""

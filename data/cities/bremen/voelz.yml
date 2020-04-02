@@ -5,7 +5,7 @@ latitude: 53.066992400000004
 longitude: 8.8637865
 postcode: 28207
 city: Bremen
-street: Hastedter Heerstraße
+street: "Hastedter Heerstraße"
 housenumber: 121
 phone: ""
 opening_hours: ""

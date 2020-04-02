@@ -5,7 +5,7 @@ latitude: 53.3152453
 longitude: 7.276379100000001
 postcode: 26844
 city: Jemgum
-street: Pogumer Straße
+street: "Pogumer Straße"
 housenumber: 1a
 phone: "+49 4902 566"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 08:00-11:00"

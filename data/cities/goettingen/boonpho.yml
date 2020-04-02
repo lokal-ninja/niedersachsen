@@ -5,7 +5,7 @@ latitude: 51.531688200000005
 longitude: 9.9294208
 postcode: 
 city: Göttingen
-street: Angerstraße
+street: "Angerstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; PH off"

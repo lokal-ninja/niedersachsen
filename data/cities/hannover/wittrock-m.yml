@@ -5,7 +5,7 @@ latitude: 52.377925600000005
 longitude: 9.8029565
 postcode: 
 city: Hannover
-street: Berckhusenstraße
+street: "Berckhusenstraße"
 housenumber: 119
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.0747944
 longitude: 8.601183800000001
 postcode: 27777
 city: Ganderkesee
-street: Schierbroker Straße
+street: "Schierbroker Straße"
 housenumber: 77
 phone: "+49 42 21 48 93"
 opening_hours: "Mo-Sa 08:00-19:00"

@@ -5,7 +5,7 @@ latitude: 53.3608929
 longitude: 10.2056231
 postcode: 21423
 city: Winsen (Luhe)
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-17:00"

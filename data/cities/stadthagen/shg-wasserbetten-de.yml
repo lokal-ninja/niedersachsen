@@ -5,7 +5,7 @@ latitude: 52.3262724
 longitude: 9.2037776
 postcode: 31655
 city: Stadthagen
-street: Krumme Straße
+street: "Krumme Straße"
 housenumber: 41
 phone: "+49 5721 91572"
 opening_hours: "We,Fr 14:00-18:00, Sa 10:00-13:00||nach Vereinbarung"

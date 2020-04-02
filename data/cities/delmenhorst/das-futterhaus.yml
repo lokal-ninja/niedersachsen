@@ -5,7 +5,7 @@ latitude: 53.0301575
 longitude: 8.6592827
 postcode: 27755
 city: Delmenhorst
-street: Seestraße
+street: "Seestraße"
 housenumber: 5
 phone: "+49 4221 9743366"
 opening_hours: "Mo-Sa 09:30-19:00"

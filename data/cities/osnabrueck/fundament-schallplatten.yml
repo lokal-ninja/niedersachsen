@@ -5,7 +5,7 @@ latitude: 52.2799436
 longitude: 8.043369
 postcode: 49074
 city: Osnabrück
-street: Hasestraße
+street: "Hasestraße"
 housenumber: 15
 phone: "+49541 44020204"
 opening_hours: "Tu-Sa 09:00-11:00"

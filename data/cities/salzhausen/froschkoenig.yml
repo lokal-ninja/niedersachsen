@@ -5,7 +5,7 @@ latitude: 53.224322300000004
 longitude: 10.1718241
 postcode: 
 city: Salzhausen
-street: Lüneburger Straße
+street: "Lüneburger Straße"
 housenumber: 2
 phone: "+49 4172 988120"
 opening_hours: ""

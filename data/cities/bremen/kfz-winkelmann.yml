@@ -5,7 +5,7 @@ latitude: 53.099378800000004
 longitude: 8.924023400000001
 postcode: 28355
 city: Bremen
-street: Oberneulander Landstraße
+street: "Oberneulander Landstraße"
 housenumber: 125C
 phone: "+49 421 256666"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.117338000000004
 longitude: 9.7915595
 postcode: 29640
 city: Schneverdingen
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.437955300000006
 longitude: 7.066756000000001
 postcode: 48529
 city: Nordhorn
-street: Stadtring
+street: "Stadtring"
 housenumber: 60
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.8091209
 longitude: 8.1170326
 postcode: 49692
 city: Cappeln (Oldenburg)
-street: Tenstedter Straße
+street: "Tenstedter Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo 08:00-09:30,09:45-17:00; Sa 08:00-13:00"

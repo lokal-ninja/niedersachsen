@@ -5,7 +5,7 @@ latitude: 53.3920618
 longitude: 7.2060849000000005
 postcode: 26721
 city: Emden
-street: Kreuzstraße
+street: "Kreuzstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00"

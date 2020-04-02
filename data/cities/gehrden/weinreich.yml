@@ -5,7 +5,7 @@ latitude: 52.3134419
 longitude: 9.600484
 postcode: 30989
 city: Gehrden
-street: Steinweg
+street: "Steinweg"
 housenumber: 21
 phone: "+49 5108 642426"
 opening_hours: ""

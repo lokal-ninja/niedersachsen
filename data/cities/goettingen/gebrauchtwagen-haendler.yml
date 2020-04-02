@@ -5,7 +5,7 @@ latitude: 51.5381402
 longitude: 9.9113702
 postcode: 37081
 city: Göttingen
-street: Königsstieg
+street: "Königsstieg"
 housenumber: 33
 phone: ""
 opening_hours: ""

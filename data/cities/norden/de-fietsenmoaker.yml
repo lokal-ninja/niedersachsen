@@ -5,7 +5,7 @@ latitude: 53.59508640000001
 longitude: 7.2056804
 postcode: 26506
 city: Norden
-street: Am Markt
+street: "Am Markt"
 housenumber: 12
 phone: "+49 4931 15810"
 opening_hours: "Mo-Fr 14:00-18:00; Sa 10:00-13:00"

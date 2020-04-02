@@ -5,7 +5,7 @@ latitude: 52.59276800000001
 longitude: 10.5375634
 postcode: 29392
 city: Wesendorf
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.383014900000006
 longitude: 9.9732482
 postcode: 31275
 city: Lehrte
-street: Stackmannstraße
+street: "Stackmannstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

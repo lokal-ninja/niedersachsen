@@ -5,7 +5,7 @@ latitude: 52.86602980000001
 longitude: 9.696386500000001
 postcode: 29683
 city: Bad Fallingbostel
-street: Vogteistraße
+street: "Vogteistraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3215711
 longitude: 10.2417868
 postcode: 31224
 city: Peine
-street: Hans-Gallinis-Straße
+street: "Hans-Gallinis-Straße"
 housenumber: 4
 phone: "+49 5171 14444"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

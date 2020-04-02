@@ -5,7 +5,7 @@ latitude: 52.700518300000006
 longitude: 7.273072000000001
 postcode: 49716
 city: Meppen
-street: Esterfelder Stiege
+street: "Esterfelder Stiege"
 housenumber: 113
 phone: "+49 5931 4099202"
 opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-17:00"

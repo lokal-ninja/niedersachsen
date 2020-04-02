@@ -5,7 +5,7 @@ latitude: 53.1896677
 longitude: 8.2037282
 postcode: 26125
 city: Oldenburg
-street: Paul-Tantzen-Straße
+street: "Paul-Tantzen-Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

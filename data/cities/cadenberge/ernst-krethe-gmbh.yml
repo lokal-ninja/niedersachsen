@@ -5,7 +5,7 @@ latitude: 53.7669858
 longitude: 9.066355100000001
 postcode: 21781
 city: Cadenberge
-street: Stader Straße
+street: "Stader Straße"
 housenumber: 53
 phone: "+49 4777-9342-0"
 opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-12:00; Su 14:00-17:00"

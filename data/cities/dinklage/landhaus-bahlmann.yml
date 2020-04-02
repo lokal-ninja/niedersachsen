@@ -5,7 +5,7 @@ latitude: 52.6606236
 longitude: 8.1163054
 postcode: 49413
 city: Dinklage
-street: Drostestraße
+street: "Drostestraße"
 housenumber: 4
 phone: "+4944434877"
 opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-13:00, Su off"

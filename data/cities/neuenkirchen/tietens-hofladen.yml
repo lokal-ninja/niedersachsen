@@ -5,7 +5,7 @@ latitude: 53.065590900000004
 longitude: 9.7380736
 postcode: 29643
 city: Neuenkirchen
-street: Sprengeler Dorfstraße
+street: "Sprengeler Dorfstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

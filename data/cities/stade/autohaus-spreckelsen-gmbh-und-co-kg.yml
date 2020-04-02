@@ -5,7 +5,7 @@ latitude: 53.602220700000004
 longitude: 9.4691056
 postcode: 21682
 city: Stade
-street: Schiffertorsstraße
+street: "Schiffertorsstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su off"

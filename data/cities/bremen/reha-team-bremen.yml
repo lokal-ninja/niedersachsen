@@ -5,7 +5,7 @@ latitude: 53.0474472
 longitude: 8.8369852
 postcode: 28279
 city: Bremen
-street: Borgwardstraße
+street: "Borgwardstraße"
 housenumber: 12a
 phone: ""
 opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:30"

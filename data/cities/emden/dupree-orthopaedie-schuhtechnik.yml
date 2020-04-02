@@ -5,7 +5,7 @@ latitude: 53.353345700000006
 longitude: 7.1921846
 postcode: 26723
 city: Emden
-street: Nesserlander Straße
+street: "Nesserlander Straße"
 housenumber: 84
 phone: ""
 opening_hours: ""

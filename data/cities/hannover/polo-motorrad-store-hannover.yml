@@ -5,7 +5,7 @@ latitude: 52.40552
 longitude: 9.7127307
 postcode: 30165
 city: Hannover
-street: Schulenburger Landstraße
+street: "Schulenburger Landstraße"
 housenumber: 120
 phone: "+49 511 3886403"
 opening_hours: "Mo-Sa 09:00-20:00; Th,Fr 09:00-21:00"

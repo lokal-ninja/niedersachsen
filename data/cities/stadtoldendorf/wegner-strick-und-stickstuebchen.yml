@@ -5,7 +5,7 @@ latitude: 51.8830516
 longitude: 9.623257200000001
 postcode: 37627
 city: Stadtoldendorf
-street: Teichtorstraße
+street: "Teichtorstraße"
 housenumber: 14
 phone: "+49 5532 994421"
 opening_hours: ""

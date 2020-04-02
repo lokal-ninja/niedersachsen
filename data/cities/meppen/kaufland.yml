@@ -5,7 +5,7 @@ latitude: 52.691683000000005
 longitude: 7.288935400000001
 postcode: 49716
 city: Meppen
-street: Am Neuen Markt
+street: "Am Neuen Markt"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

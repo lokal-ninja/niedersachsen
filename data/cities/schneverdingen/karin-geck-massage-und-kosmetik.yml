@@ -5,7 +5,7 @@ latitude: 53.11639580000001
 longitude: 9.7851665
 postcode: 29640
 city: Schneverdingen
-street: Bruchstraße
+street: "Bruchstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

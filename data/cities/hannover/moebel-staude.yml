@@ -5,7 +5,7 @@ latitude: 52.406673100000006
 longitude: 9.7042708
 postcode: 30165
 city: Hannover
-street: Meelbaumstraße
+street: "Meelbaumstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3863537
 longitude: 10.258657600000001
 postcode: 31234
 city: Edemissen
-street: Peiner Straße
+street: "Peiner Straße"
 housenumber: 30a
 phone: "+49 5176 5553371"
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"

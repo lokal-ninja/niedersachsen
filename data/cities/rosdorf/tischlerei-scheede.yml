@@ -5,7 +5,7 @@ latitude: 51.4912451
 longitude: 9.8731725
 postcode: 
 city: Rosdorf
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

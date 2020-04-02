@@ -5,7 +5,7 @@ latitude: 52.485587100000004
 longitude: 10.0089433
 postcode: 31303
 city: Burgdorf
-street: Burgdorfer Straße
+street: "Burgdorfer Straße"
 housenumber: 38
 phone: ""
 opening_hours: ""

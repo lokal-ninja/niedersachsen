@@ -5,7 +5,7 @@ latitude: 53.265826100000005
 longitude: 7.937375200000001
 postcode: 26655
 city: Westerstede
-street: Langebrügger Straße
+street: "Langebrügger Straße"
 housenumber: 2a
 phone: "+49 4488 84090"
 opening_hours: ""

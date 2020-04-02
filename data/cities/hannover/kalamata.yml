@@ -5,7 +5,7 @@ latitude: 52.398868900000004
 longitude: 9.7558744
 postcode: 30163
 city: Hannover
-street: Lister Damm
+street: "Lister Damm"
 housenumber: 17A
 phone: "+49 511 54552630"
 opening_hours: ""

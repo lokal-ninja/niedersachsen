@@ -5,7 +5,7 @@ latitude: 52.2687138
 longitude: 10.528436600000001
 postcode: 38100
 city: Braunschweig
-street: Fallersleber Straße
+street: "Fallersleber Straße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Fr 08:00-22:00; Sa 10:00-22:00; Su 09:00-22:00"

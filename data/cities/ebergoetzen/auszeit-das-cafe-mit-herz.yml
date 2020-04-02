@@ -5,7 +5,7 @@ latitude: 51.5685244
 longitude: 10.1000367
 postcode: 37136
 city: Ebergötzen
-street: Göttinger Straße
+street: "Göttinger Straße"
 housenumber: 7c
 phone: ""
 opening_hours: "Tu-Su 9:00-17:30"

@@ -5,7 +5,7 @@ latitude: 53.45305930000001
 longitude: 9.503522
 postcode: 21698
 city: Harsefeld
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00"

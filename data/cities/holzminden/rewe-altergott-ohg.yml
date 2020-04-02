@@ -5,7 +5,7 @@ latitude: 51.828596000000005
 longitude: 9.46988
 postcode: 37603
 city: Holzminden
-street: Sollingstraße
+street: "Sollingstraße"
 housenumber: 54
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.721779100000006
 longitude: 10.608222300000001
 postcode: 38700
 city: Braunlage
-street: Lauterberger Straße
+street: "Lauterberger Straße"
 housenumber: 17
 phone: "+49 5520 92266"
 opening_hours: ""

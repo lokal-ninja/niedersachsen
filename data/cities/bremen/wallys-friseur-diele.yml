@@ -5,7 +5,7 @@ latitude: 53.183255100000004
 longitude: 8.5981954
 postcode: 28755
 city: Bremen
-street: Löhstraße
+street: "Löhstraße"
 housenumber: 49
 phone: ""
 opening_hours: ""

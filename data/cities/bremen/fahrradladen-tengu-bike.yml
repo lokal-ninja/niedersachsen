@@ -5,7 +5,7 @@ latitude: 53.0627702
 longitude: 8.8826137
 postcode: 28309
 city: Bremen
-street: Zum Sebaldsbrücker Bahnhof
+street: "Zum Sebaldsbrücker Bahnhof"
 housenumber: 1
 phone: "+49 421 40896986"
 opening_hours: "Mo-Fr 11:00-18:00"

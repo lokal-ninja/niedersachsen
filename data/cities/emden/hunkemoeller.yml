@@ -5,7 +5,7 @@ latitude: 53.3683628
 longitude: 7.205257100000001
 postcode: 26721
 city: Emden
-street: Zwischen Beiden Sielen
+street: "Zwischen Beiden Sielen"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"

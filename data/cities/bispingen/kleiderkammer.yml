@@ -5,7 +5,7 @@ latitude: 53.0846407
 longitude: 9.9973328
 postcode: 29646
 city: Bispingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo,Fr 10:00-12:00,16:00-18:00"

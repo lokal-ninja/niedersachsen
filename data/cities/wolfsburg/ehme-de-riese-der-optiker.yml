@@ -5,7 +5,7 @@ latitude: 52.423474600000006
 longitude: 10.786792400000001
 postcode: 38440
 city: Wolfsburg
-street: Kaufhofpassage
+street: "Kaufhofpassage"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:00"

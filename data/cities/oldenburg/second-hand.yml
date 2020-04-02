@@ -5,7 +5,7 @@ latitude: 53.1371399
 longitude: 8.181683900000001
 postcode: 26131
 city: Oldenburg
-street: Eichenstraße
+street: "Eichenstraße"
 housenumber: 49
 phone: ""
 opening_hours: ""

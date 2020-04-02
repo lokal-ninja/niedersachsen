@@ -5,7 +5,7 @@ latitude: 53.0602948
 longitude: 9.026997
 postcode: 28876
 city: Oyten
-street: Wehlacker
+street: "Wehlacker"
 housenumber: 6
 phone: "+49 4207 909818"
 opening_hours: "Mo-Sa 8:00-22:00"

@@ -5,7 +5,7 @@ latitude: 52.2277861
 longitude: 10.9027826
 postcode: 38373
 city: Süpplingen
-street: Steinweg
+street: "Steinweg"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

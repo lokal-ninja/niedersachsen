@@ -5,7 +5,7 @@ latitude: 53.231337700000005
 longitude: 8.7847425
 postcode: 27711
 city: Osterholz-Scharmbeck
-street: Poststraße
+street: "Poststraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

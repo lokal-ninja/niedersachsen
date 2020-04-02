@@ -5,7 +5,7 @@ latitude: 52.4477641
 longitude: 9.988285900000001
 postcode: 31303
 city: Burgdorf
-street: Mönkeburgstraße
+street: "Mönkeburgstraße"
 housenumber: 98
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00"

@@ -5,7 +5,7 @@ latitude: 52.9420195
 longitude: 8.3751984
 postcode: 27801
 city: Dötlingen
-street: Rittrumer Kirchweg
+street: "Rittrumer Kirchweg"
 housenumber: 5
 phone: "+49 4433 446"
 opening_hours: ""

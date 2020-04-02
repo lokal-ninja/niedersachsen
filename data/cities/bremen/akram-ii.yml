@@ -5,7 +5,7 @@ latitude: 53.170111600000006
 longitude: 8.6284329
 postcode: 28757
 city: Bremen
-street: Vegesacker Bahnhofsplatz
+street: "Vegesacker Bahnhofsplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-19:00"

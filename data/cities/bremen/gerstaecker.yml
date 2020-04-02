@@ -5,7 +5,7 @@ latitude: 53.0952107
 longitude: 8.7728559
 postcode: 28217
 city: Bremen
-street: Überseetor
+street: "Überseetor"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00; Su,PH off"

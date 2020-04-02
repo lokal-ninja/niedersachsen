@@ -5,7 +5,7 @@ latitude: 53.386854500000005
 longitude: 7.953778400000001
 postcode: 26340
 city: Zetel
-street: Westersteder Straße
+street: "Westersteder Straße"
 housenumber: 8-14a
 phone: ""
 opening_hours: ""

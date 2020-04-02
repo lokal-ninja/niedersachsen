@@ -5,7 +5,7 @@ latitude: 52.6706055
 longitude: 7.9353943000000005
 postcode: 49610
 city: Quakenbrück
-street: Artlandstraße
+street: "Artlandstraße"
 housenumber: 41-43
 phone: ""
 opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-14:00; Su 08:00-11:00; PH off"

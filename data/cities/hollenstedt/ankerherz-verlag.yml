@@ -5,7 +5,7 @@ latitude: 53.3689388
 longitude: 9.718347300000001
 postcode: 21279
 city: Hollenstedt
-street: Estetalstraße
+street: "Estetalstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:30-12:00,14:30-17:30"

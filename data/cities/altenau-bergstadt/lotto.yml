@@ -5,7 +5,7 @@ latitude: 51.801476300000004
 longitude: 10.4480866
 postcode: 38707
 city: Altenau (Bergstadt)
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

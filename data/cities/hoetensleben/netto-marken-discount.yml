@@ -5,7 +5,7 @@ latitude: 52.115020200000004
 longitude: 11.021981100000001
 postcode: 
 city: Hötensleben
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

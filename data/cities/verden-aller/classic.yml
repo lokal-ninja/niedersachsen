@@ -5,7 +5,7 @@ latitude: 52.917426600000006
 longitude: 9.2522853
 postcode: 27283
 city: Verden (Aller)
-street: Berliner Ring
+street: "Berliner Ring"
 housenumber: 1
 phone: "+49 4231 961670"
 opening_hours: "Mo-Fr 06:00-22:00, Sa 08:00-22:00, Su 08:00-22:00"

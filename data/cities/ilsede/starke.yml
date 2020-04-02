@@ -5,7 +5,7 @@ latitude: 52.278620700000005
 longitude: 10.198288600000001
 postcode: 31241
 city: Ilsede
-street: Schützenstraße
+street: "Schützenstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

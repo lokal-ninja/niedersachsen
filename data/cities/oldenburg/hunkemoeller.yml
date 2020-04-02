@@ -5,7 +5,7 @@ latitude: 53.1413388
 longitude: 8.2135903
 postcode: 26122
 city: Oldenburg
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 23
 phone: ""
 opening_hours: ""

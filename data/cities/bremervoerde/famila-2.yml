@@ -5,7 +5,7 @@ latitude: 53.484653300000005
 longitude: 9.1447964
 postcode: 27432
 city: Bremervörde
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 12-16
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

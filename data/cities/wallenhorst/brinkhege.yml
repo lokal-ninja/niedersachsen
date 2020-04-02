@@ -5,7 +5,7 @@ latitude: 52.335168700000004
 longitude: 8.022240700000001
 postcode: 49134
 city: Wallenhorst
-street: Osnabrücker Straße
+street: "Osnabrücker Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:00; So 07:00-17:00"

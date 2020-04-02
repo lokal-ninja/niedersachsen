@@ -5,7 +5,7 @@ latitude: 51.525972100000004
 longitude: 9.942094200000001
 postcode: 
 city: Göttingen
-street: Sternstraße
+street: "Sternstraße"
 housenumber: 19
 phone: ""
 opening_hours: "off"

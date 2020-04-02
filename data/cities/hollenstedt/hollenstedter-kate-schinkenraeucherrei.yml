@@ -5,7 +5,7 @@ latitude: 53.362221100000006
 longitude: 9.7160423
 postcode: 21279
 city: Hollenstedt
-street: Am Glockenberg
+street: "Am Glockenberg"
 housenumber: 1
 phone: "+49 4165 8315"
 opening_hours: "We-Fr 08:30-12:30,15:00-18:00; Sa 08:30-12:30"

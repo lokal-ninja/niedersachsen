@@ -5,7 +5,7 @@ latitude: 52.165258400000006
 longitude: 9.970025300000001
 postcode: 31135
 city: Hildesheim
-street: Herbert-Quandt-Straße
+street: "Herbert-Quandt-Straße"
 housenumber: 6-8
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

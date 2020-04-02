@@ -5,7 +5,7 @@ latitude: 53.2369289
 longitude: 8.459758800000001
 postcode: 26931
 city: Elsfleth
-street: Hafenstraße
+street: "Hafenstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00"

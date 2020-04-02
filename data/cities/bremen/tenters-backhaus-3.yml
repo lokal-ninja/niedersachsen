@@ -5,7 +5,7 @@ latitude: 53.108579500000005
 longitude: 8.8906878
 postcode: 28357
 city: Bremen
-street: Kopernikusstraße
+street: "Kopernikusstraße"
 housenumber: 33-35
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

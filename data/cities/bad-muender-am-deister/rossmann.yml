@@ -5,7 +5,7 @@ latitude: 52.194037900000005
 longitude: 9.465549900000001
 postcode: 31848
 city: Bad Münder am Deister
-street: Am Rohmel-Center
+street: "Am Rohmel-Center"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

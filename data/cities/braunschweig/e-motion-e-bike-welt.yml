@@ -5,7 +5,7 @@ latitude: 52.265888700000005
 longitude: 10.5274374
 postcode: 38100
 city: Braunschweig
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 1
 phone: "+49 531 47230024"
 opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00; Mo Beratung nach Terminvereinbarung"

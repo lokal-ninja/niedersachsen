@@ -5,7 +5,7 @@ latitude: 53.123863400000005
 longitude: 9.806603500000001
 postcode: 29640
 city: Schneverdingen
-street: Hoornsfeld
+street: "Hoornsfeld"
 housenumber: 3
 phone: ""
 opening_hours: ""

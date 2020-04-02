@@ -5,7 +5,7 @@ latitude: 52.106697100000005
 longitude: 9.357600300000001
 postcode: 31785
 city: Hameln
-street: Emmernstraße
+street: "Emmernstraße"
 housenumber: 21
 phone: "+49 5151 27271"
 opening_hours: "Sa 10:00-13:00"

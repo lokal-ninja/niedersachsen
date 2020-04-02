@@ -5,7 +5,7 @@ latitude: 53.141349500000004
 longitude: 11.249607600000001
 postcode: 19303
 city: Dömitz
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 1
 phone: "+49 38758 356 614"
 opening_hours: ""

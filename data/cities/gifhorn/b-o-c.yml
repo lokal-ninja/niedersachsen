@@ -5,7 +5,7 @@ latitude: 52.4582386
 longitude: 10.5401644
 postcode: 38518
 city: Gifhorn
-street: Gerhard-Fieseler-Straße
+street: "Gerhard-Fieseler-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

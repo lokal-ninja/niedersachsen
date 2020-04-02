@@ -5,7 +5,7 @@ latitude: 52.3385137
 longitude: 10.242024500000001
 postcode: 31228
 city: Peine
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 3a
 phone: ""
 opening_hours: ""

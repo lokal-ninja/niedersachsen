@@ -5,7 +5,7 @@ latitude: 53.581384400000005
 longitude: 6.691307500000001
 postcode: 26757
 city: Borkum
-street: Specksniederstrate
+street: "Specksniederstrate"
 housenumber: 15
 phone: "+49 4922 640"
 opening_hours: ""

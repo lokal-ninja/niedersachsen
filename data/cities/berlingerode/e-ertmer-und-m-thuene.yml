@@ -5,7 +5,7 @@ latitude: 51.4596005
 longitude: 10.237524500000001
 postcode: 37339
 city: Berlingerode
-street: Friedhofstraße
+street: "Friedhofstraße"
 housenumber: 5
 phone: "+49 36071 96328"
 opening_hours: ""

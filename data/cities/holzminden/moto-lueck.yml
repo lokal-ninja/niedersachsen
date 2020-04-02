@@ -5,7 +5,7 @@ latitude: 51.8270837
 longitude: 9.4782507
 postcode: 37603
 city: Holzminden
-street: Sollingstraße
+street: "Sollingstraße"
 housenumber: 5
 phone: "+49 5531 5657"
 opening_hours: ""

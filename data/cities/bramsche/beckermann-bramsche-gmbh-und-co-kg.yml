@@ -5,7 +5,7 @@ latitude: 52.403566100000006
 longitude: 7.9883581
 postcode: 49565
 city: Bramsche
-street: Osnabrücker Straße
+street: "Osnabrücker Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

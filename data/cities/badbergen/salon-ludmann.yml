@@ -5,7 +5,7 @@ latitude: 52.633162000000006
 longitude: 7.978946700000001
 postcode: 49635
 city: Badbergen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

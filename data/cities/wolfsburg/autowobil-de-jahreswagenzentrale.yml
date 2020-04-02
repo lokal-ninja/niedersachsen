@@ -5,7 +5,7 @@ latitude: 52.4239747
 longitude: 10.743403200000001
 postcode: 38442
 city: Wolfsburg
-street: Major-Hirst-Straße
+street: "Major-Hirst-Straße"
 housenumber: 11
 phone: "+49 5361 290000"
 opening_hours: "Mo-Fr 09:00-12:00,14:00-17:00"

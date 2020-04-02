@@ -5,7 +5,7 @@ latitude: 51.541734600000005
 longitude: 9.891914100000001
 postcode: 
 city: Göttingen
-street: Martin-Luther-Straße
+street: "Martin-Luther-Straße"
 housenumber: 41
 phone: ""
 opening_hours: "Feb-Dec Mo-Fr 08:00-18:00; Feb-Dec Sa 08:00-13:00; PH off"

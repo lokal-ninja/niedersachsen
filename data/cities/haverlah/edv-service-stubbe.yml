@@ -5,7 +5,7 @@ latitude: 52.0531993
 longitude: 10.332061000000001
 postcode: 38275
 city: Haverlah
-street: Backhausweg
+street: "Backhausweg"
 housenumber: 5
 phone: "+49 5341 8335005"
 opening_hours: ""

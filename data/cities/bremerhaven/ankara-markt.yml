@@ -5,7 +5,7 @@ latitude: 53.556204300000005
 longitude: 8.5839982
 postcode: 27576
 city: Bremerhaven
-street: Hafenstraße
+street: "Hafenstraße"
 housenumber: 93
 phone: "+49 471 9615983"
 opening_hours: ""

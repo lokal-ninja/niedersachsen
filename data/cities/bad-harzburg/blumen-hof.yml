@@ -5,7 +5,7 @@ latitude: 51.891904100000005
 longitude: 10.547021
 postcode: 38667
 city: Bad Harzburg
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 18a
 phone: "+49 5322 3333"
 opening_hours: ""

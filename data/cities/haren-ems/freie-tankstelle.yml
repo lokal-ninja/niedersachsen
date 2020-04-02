@@ -5,7 +5,7 @@ latitude: 52.8422065
 longitude: 7.1074852
 postcode: 49733
 city: Haren (Ems)
-street: Bürgermeister-Esders-Straße
+street: "Bürgermeister-Esders-Straße"
 housenumber: 1
 phone: "+49 5934 1764"
 opening_hours: "Mo-Fr 7:30-19:00;Sa 7:30-18:00;Su 9:30-18:00"

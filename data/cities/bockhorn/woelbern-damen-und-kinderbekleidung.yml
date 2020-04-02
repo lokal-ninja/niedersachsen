@@ -5,7 +5,7 @@ latitude: 53.39359760000001
 longitude: 8.016479
 postcode: 26345
 city: Bockhorn
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 13
 phone: "+49 4453 7377"
 opening_hours: ""

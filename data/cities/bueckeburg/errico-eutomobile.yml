@@ -5,7 +5,7 @@ latitude: 52.263041400000006
 longitude: 9.0326901
 postcode: 31675
 city: Bückeburg
-street: Wilhelm-Raabe-Straße
+street: "Wilhelm-Raabe-Straße"
 housenumber: 1
 phone: "+49 5722 9549040"
 opening_hours: ""

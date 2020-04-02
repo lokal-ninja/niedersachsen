@@ -5,7 +5,7 @@ latitude: 52.8477595
 longitude: 8.1521272
 postcode: 49685
 city: Emstek
-street: Soestenstraße
+street: "Soestenstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-12:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 51.7275678
 longitude: 10.241965700000002
 postcode: 37520
 city: Osterode am Harz
-street: Seesener Straße
+street: "Seesener Straße"
 housenumber: 25b
 phone: ""
 opening_hours: ""

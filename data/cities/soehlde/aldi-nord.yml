@@ -5,7 +5,7 @@ latitude: 52.2127387
 longitude: 10.195038100000001
 postcode: 31185
 city: Söhlde
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 4
 phone: "+49 800 7234870"
 opening_hours: "Mo-Sa 08:00-20:00"

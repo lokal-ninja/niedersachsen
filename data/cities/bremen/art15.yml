@@ -5,7 +5,7 @@ latitude: 53.072883700000006
 longitude: 8.8096651
 postcode: 28195
 city: Bremen
-street: Schnoor
+street: "Schnoor"
 housenumber: 15
 phone: ""
 opening_hours: "Tu-Fr 14:00-18:00; Sa-Su 12:00-18:00"

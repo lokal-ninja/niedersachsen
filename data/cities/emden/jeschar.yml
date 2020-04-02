@@ -5,7 +5,7 @@ latitude: 53.370523500000004
 longitude: 7.2179975
 postcode: 26725
 city: Emden
-street: Wolthuser Straße
+street: "Wolthuser Straße"
 housenumber: 22
 phone: "+49 4921 23449"
 opening_hours: ""

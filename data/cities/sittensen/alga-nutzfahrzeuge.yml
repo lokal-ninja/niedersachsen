@@ -5,7 +5,7 @@ latitude: 53.290884600000005
 longitude: 9.506145700000001
 postcode: 27419
 city: Sittensen
-street: Molkereistraße
+street: "Molkereistraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

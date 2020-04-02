@@ -5,7 +5,7 @@ latitude: 52.6844478
 longitude: 8.8112954
 postcode: 27232
 city: Sulingen
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 7
 phone: "+49 4271 2348"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

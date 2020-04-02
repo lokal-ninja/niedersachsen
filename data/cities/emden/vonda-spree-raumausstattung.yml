@@ -5,7 +5,7 @@ latitude: 53.3650856
 longitude: 7.2103754
 postcode: 26725
 city: Emden
-street: Kranstraße
+street: "Kranstraße"
 housenumber: 4
 phone: "+49 4921 26363"
 opening_hours: "Mo-Fr 10:00-13:00,15:30-18:00; Sa off"

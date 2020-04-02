@@ -5,7 +5,7 @@ latitude: 52.661872300000006
 longitude: 8.1237201
 postcode: 
 city: Dinklage
-street: Am Markt
+street: "Am Markt"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

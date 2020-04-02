@@ -5,7 +5,7 @@ latitude: 51.974285900000005
 longitude: 9.269628800000001
 postcode: 31812
 city: Bad Pyrmont
-street: Lügder Straße
+street: "Lügder Straße"
 housenumber: 18c
 phone: "+49 5281 2068"
 opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"

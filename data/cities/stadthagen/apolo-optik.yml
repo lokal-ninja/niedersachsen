@@ -5,7 +5,7 @@ latitude: 52.3236962
 longitude: 9.2047513
 postcode: 31655
 city: Stadthagen
-street: Am Markt
+street: "Am Markt"
 housenumber: 18
 phone: "+49 5721 9333943"
 opening_hours: "Mo-Sa 09:00-18:00"

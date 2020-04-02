@@ -5,7 +5,7 @@ latitude: 52.263032100000004
 longitude: 8.0715553
 postcode: 49084
 city: Osnabrück
-street: Großer Fledderweg
+street: "Großer Fledderweg"
 housenumber: 27
 phone: "+49 541 99879563"
 opening_hours: "Mo,Th,Fr 09:00-18:00 Nach Vereinbarung; PH off"

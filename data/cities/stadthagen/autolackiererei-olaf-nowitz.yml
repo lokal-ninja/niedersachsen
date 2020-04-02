@@ -5,7 +5,7 @@ latitude: 52.3221198
 longitude: 9.1795307
 postcode: 31655
 city: Stadthagen
-street: Enzer Straße
+street: "Enzer Straße"
 housenumber: 115-117
 phone: "+49 5721 75459"
 opening_hours: ""

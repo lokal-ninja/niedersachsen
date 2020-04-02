@@ -5,7 +5,7 @@ latitude: 53.2479403
 longitude: 8.197862
 postcode: 26180
 city: Rastede
-street: Oldenburger Straße
+street: "Oldenburger Straße"
 housenumber: 247
 phone: "+49 4402 2276"
 opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-13:00"

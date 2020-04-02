@@ -5,7 +5,7 @@ latitude: 51.7361616
 longitude: 10.2384555
 postcode: 37520
 city: Osterode am Harz
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

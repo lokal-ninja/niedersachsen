@@ -5,7 +5,7 @@ latitude: 52.732125800000006
 longitude: 10.606645100000001
 postcode: 29386
 city: Hankensbüttel
-street: Wittinger Straße
+street: "Wittinger Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"

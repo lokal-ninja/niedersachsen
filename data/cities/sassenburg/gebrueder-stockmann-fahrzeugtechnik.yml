@@ -5,7 +5,7 @@ latitude: 52.5076844
 longitude: 10.5952394
 postcode: 38524
 city: Sassenburg
-street: Fehringstraße
+street: "Fehringstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

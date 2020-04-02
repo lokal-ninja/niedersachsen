@@ -5,7 +5,7 @@ latitude: 53.017119400000006
 longitude: 8.353191500000001
 postcode: 26209
 city: Hatten
-street: Rittrumer Straße
+street: "Rittrumer Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

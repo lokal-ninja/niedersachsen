@@ -5,7 +5,7 @@ latitude: 51.9799498
 longitude: 9.260203800000001
 postcode: 31812
 city: Bad Pyrmont
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

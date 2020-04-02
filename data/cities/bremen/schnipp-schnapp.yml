@@ -5,7 +5,7 @@ latitude: 53.073080000000004
 longitude: 8.8115393
 postcode: 28195
 city: Bremen
-street: Marterburg
+street: "Marterburg"
 housenumber: 8
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"

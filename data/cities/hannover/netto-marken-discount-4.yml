@@ -5,7 +5,7 @@ latitude: 52.362751100000004
 longitude: 9.8569688
 postcode: 30559
 city: Hannover
-street: Am Tiergarten
+street: "Am Tiergarten"
 housenumber: 1
 phone: ""
 opening_hours: ""

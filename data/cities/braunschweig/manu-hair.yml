@@ -5,7 +5,7 @@ latitude: 52.2966393
 longitude: 10.538798700000001
 postcode: 38108
 city: Braunschweig
-street: Mergesstraße
+street: "Mergesstraße"
 housenumber: 15
 phone: "+49 531353666"
 opening_hours: ""

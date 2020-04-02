@@ -5,7 +5,7 @@ latitude: 53.156830400000004
 longitude: 8.9184888
 postcode: 28865
 city: Lilienthal
-street: Heidloge
+street: "Heidloge"
 housenumber: 2
 phone: ""
 opening_hours: ""

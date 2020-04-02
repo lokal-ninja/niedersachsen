@@ -5,7 +5,7 @@ latitude: 53.374458700000005
 longitude: 7.236052900000001
 postcode: 26725
 city: Emden
-street: Folkmar-Allena-Straße
+street: "Folkmar-Allena-Straße"
 housenumber: 2A
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.2596089
 longitude: 10.5432251
 postcode: 38102
 city: Braunschweig
-street: Herderstraße
+street: "Herderstraße"
 housenumber: 30a
 phone: "+49 531 48287530"
 opening_hours: "Mo-Fr 10:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.673813100000004
 longitude: 7.486864100000001
 postcode: 49740
 city: Haselünne
-street: Markt
+street: "Markt"
 housenumber: 4-6
 phone: "+49 5961 4142"
 opening_hours: "Mo-Su 07:00-18:00"

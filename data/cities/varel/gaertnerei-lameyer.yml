@@ -5,7 +5,7 @@ latitude: 53.3982134
 longitude: 8.129742700000001
 postcode: 26316
 city: Varel
-street: Hagenstraße
+street: "Hagenstraße"
 housenumber: 27
 phone: "+49 4451 5708"
 opening_hours: ""

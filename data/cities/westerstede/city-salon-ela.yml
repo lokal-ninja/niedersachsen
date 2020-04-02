@@ -5,7 +5,7 @@ latitude: 53.2561729
 longitude: 7.928573300000001
 postcode: 26655
 city: Westerstede
-street: Gaststraße
+street: "Gaststraße"
 housenumber: 3
 phone: "+49 4488 4422"
 opening_hours: ""

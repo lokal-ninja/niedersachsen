@@ -5,7 +5,7 @@ latitude: 52.247225
 longitude: 10.5104558
 postcode: 38122
 city: Braunschweig
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 243d
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

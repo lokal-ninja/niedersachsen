@@ -5,7 +5,7 @@ latitude: 52.591177800000004
 longitude: 8.2160262
 postcode: 49439
 city: Steinfeld
-street: Im Krimpel
+street: "Im Krimpel"
 housenumber: 39
 phone: "+49 5492 98680"
 opening_hours: ""

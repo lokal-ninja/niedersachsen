@@ -5,7 +5,7 @@ latitude: 51.9367675
 longitude: 10.335996100000001
 postcode: 38685
 city: Langelsheim
-street: Freiheitsstraße
+street: "Freiheitsstraße"
 housenumber: 8
 phone: "+49 5326 2596"
 opening_hours: ""

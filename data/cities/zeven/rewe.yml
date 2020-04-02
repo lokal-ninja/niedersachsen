@@ -5,7 +5,7 @@ latitude: 53.299818900000005
 longitude: 9.275794900000001
 postcode: 27404
 city: Zeven
-street: Labesstraße
+street: "Labesstraße"
 housenumber: 26.28
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

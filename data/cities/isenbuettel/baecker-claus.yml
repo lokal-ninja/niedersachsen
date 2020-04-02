@@ -5,7 +5,7 @@ latitude: 52.4348833
 longitude: 10.5778475
 postcode: 38550
 city: Isenbüttel
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

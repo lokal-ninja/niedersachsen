@@ -5,7 +5,7 @@ latitude: 52.325234200000004
 longitude: 10.5136541
 postcode: 38110
 city: Braunschweig
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Tu-Sa 08:00-13:00, Tu-Th 15:00-18:00, We 15:00-17:30, Fr 08:00-18:00; Su-Mo off"

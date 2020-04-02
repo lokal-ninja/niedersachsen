@@ -5,7 +5,7 @@ latitude: 52.9665602
 longitude: 10.552622000000001
 postcode: 29525
 city: Uelzen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 6:15-21:00"

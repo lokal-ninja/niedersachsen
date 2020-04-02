@@ -5,7 +5,7 @@ latitude: 52.551752500000006
 longitude: 8.5901592
 postcode: 49419
 city: Wagenfeld
-street: Maschweg
+street: "Maschweg"
 housenumber: 9
 phone: ""
 opening_hours: ""

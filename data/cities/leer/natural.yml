@@ -5,7 +5,7 @@ latitude: 53.252876300000004
 longitude: 7.463176700000001
 postcode: 26789
 city: Leer
-street: Riedweg
+street: "Riedweg"
 housenumber: 15
 phone: ""
 opening_hours: ""

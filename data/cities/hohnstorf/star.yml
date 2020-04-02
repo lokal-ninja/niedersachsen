@@ -5,7 +5,7 @@ latitude: 53.364284600000005
 longitude: 10.5499703
 postcode: 21522
 city: Hohnstorf
-street: Adolf-Lüchau-Weg
+street: "Adolf-Lüchau-Weg"
 housenumber: 1a
 phone: "+49 4139 695362"
 opening_hours: "Mo-Fr 06:00-22:00; Sa,Su 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 52.4337406
 longitude: 10.848323
 postcode: 38448
 city: Wolfsburg
-street: Klingemannstraße
+street: "Klingemannstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

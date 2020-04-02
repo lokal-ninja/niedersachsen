@@ -5,7 +5,7 @@ latitude: 53.323247800000004
 longitude: 9.815321
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Ritscherstraße
+street: "Ritscherstraße"
 housenumber: 9a
 phone: "+49 4181 4063538"
 opening_hours: ""

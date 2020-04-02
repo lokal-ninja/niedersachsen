@@ -5,7 +5,7 @@ latitude: 51.509069700000005
 longitude: 9.9497911
 postcode: 37083
 city: Göttingen
-street: Fäutlingsgasse
+street: "Fäutlingsgasse"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"

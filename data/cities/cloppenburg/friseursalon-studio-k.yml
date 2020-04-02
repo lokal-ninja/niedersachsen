@@ -5,7 +5,7 @@ latitude: 52.845282100000006
 longitude: 8.0439574
 postcode: 49661
 city: Cloppenburg
-street: Sevelter Straße
+street: "Sevelter Straße"
 housenumber: 1
 phone: "+49 4471 8847060"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:30"

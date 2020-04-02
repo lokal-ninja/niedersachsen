@@ -5,7 +5,7 @@ latitude: 51.461254600000004
 longitude: 9.9153368
 postcode: 
 city: Rosdorf
-street: Steintorstraße
+street: "Steintorstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00; PH off"

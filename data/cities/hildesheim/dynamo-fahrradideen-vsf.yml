@@ -5,7 +5,7 @@ latitude: 52.147010900000005
 longitude: 9.954745800000001
 postcode: 31134
 city: Hildesheim
-street: Goschenstraße
+street: "Goschenstraße"
 housenumber: 69-70
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-13:00"

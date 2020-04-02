@@ -5,7 +5,7 @@ latitude: 53.071557000000006
 longitude: 8.8232841
 postcode: 28203
 city: Bremen
-street: Körnerwall
+street: "Körnerwall"
 housenumber: 1
 phone: "+49 421 69506090"
 opening_hours: "Di-Fr 13:00-18:30; Sa 11:00-16:00; Su, PH off"

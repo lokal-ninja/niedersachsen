@@ -5,7 +5,7 @@ latitude: 53.397661600000006
 longitude: 8.453020800000001
 postcode: 26935
 city: Stadland
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 10B
 phone: "+49 4732 918170"
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"

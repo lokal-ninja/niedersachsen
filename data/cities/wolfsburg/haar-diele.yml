@@ -5,7 +5,7 @@ latitude: 52.397789100000004
 longitude: 10.6967542
 postcode: 38442
 city: Wolfsburg
-street: Bossengang
+street: "Bossengang"
 housenumber: 2
 phone: ""
 opening_hours: ""

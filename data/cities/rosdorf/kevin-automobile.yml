@@ -5,7 +5,7 @@ latitude: 51.509702100000005
 longitude: 9.907740800000001
 postcode: 37124
 city: Rosdorf
-street: Göttinger Straße
+street: "Göttinger Straße"
 housenumber: 50
 phone: ""
 opening_hours: ""

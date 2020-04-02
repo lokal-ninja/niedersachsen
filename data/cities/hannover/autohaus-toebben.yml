@@ -5,7 +5,7 @@ latitude: 52.4125578
 longitude: 9.7044083
 postcode: 30165
 city: Hannover
-street: Schulenburger Landstraße
+street: "Schulenburger Landstraße"
 housenumber: 139A
 phone: ""
 opening_hours: ""

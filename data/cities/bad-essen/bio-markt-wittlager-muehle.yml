@@ -5,7 +5,7 @@ latitude: 52.3228559
 longitude: 8.3747687
 postcode: 49152
 city: Bad Essen
-street: Osnabrücker Straße
+street: "Osnabrücker Straße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"

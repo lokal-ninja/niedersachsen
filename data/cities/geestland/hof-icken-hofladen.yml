@@ -5,7 +5,7 @@ latitude: 53.647987400000005
 longitude: 8.5987304
 postcode: 27607
 city: Geestland
-street: Hörn
+street: "Hörn"
 housenumber: 4
 phone: "+49 4743 1038"
 opening_hours: "Tu 09:00-12:00,14:00-17:00; Fr 09:00-12:00,14:00-17:00; Sa 10:00-12:00"

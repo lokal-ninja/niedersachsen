@@ -5,7 +5,7 @@ latitude: 53.0809331
 longitude: 8.770716700000001
 postcode: 28197
 city: Bremen
-street: Dötlinger Straße
+street: "Dötlinger Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

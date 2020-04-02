@@ -5,7 +5,7 @@ latitude: 53.166102800000004
 longitude: 7.7471996
 postcode: 
 city: Barßel
-street: Soestestraße
+street: "Soestestraße"
 housenumber: 57
 phone: ""
 opening_hours: ""

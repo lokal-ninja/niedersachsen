@@ -5,7 +5,7 @@ latitude: 52.317646800000006
 longitude: 9.728221900000001
 postcode: 30966
 city: Hemmingen
-street: Göttinger Landstraße
+street: "Göttinger Landstraße"
 housenumber: 75
 phone: ""
 opening_hours: ""

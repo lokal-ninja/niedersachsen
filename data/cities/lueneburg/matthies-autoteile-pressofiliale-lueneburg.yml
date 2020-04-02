@@ -5,7 +5,7 @@ latitude: 53.237803500000005
 longitude: 10.459718200000001
 postcode: 21337
 city: Lüneburg
-street: August-Wellenkamp-Straße
+street: "August-Wellenkamp-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

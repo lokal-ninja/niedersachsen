@@ -5,7 +5,7 @@ latitude: 53.39599990000001
 longitude: 10.041732300000001
 postcode: 21220
 city: Seevetal
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 36a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

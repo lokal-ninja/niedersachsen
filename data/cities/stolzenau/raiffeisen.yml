@@ -5,7 +5,7 @@ latitude: 52.525960000000005
 longitude: 9.0746088
 postcode: 31592
 city: Stolzenau
-street: Am See
+street: "Am See"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr: 09.00-18.30 Uhr, Sa: 09.00-14.00 Uhr"

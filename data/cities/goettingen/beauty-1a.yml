@@ -5,7 +5,7 @@ latitude: 51.562748000000006
 longitude: 9.9325162
 postcode: 37077
 city: Göttingen
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

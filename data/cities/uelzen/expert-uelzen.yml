@@ -5,7 +5,7 @@ latitude: 52.9885382
 longitude: 10.547426900000001
 postcode: 29525
 city: Uelzen
-street: Meisterweg
+street: "Meisterweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

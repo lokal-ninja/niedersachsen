@@ -5,7 +5,7 @@ latitude: 52.2040116
 longitude: 9.541660100000001
 postcode: 31832
 city: Springe
-street: Hamelner Straße
+street: "Hamelner Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

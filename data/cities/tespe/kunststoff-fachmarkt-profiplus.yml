@@ -5,7 +5,7 @@ latitude: 53.405774900000004
 longitude: 10.405722
 postcode: 21395
 city: Tespe
-street: Elbuferstraße
+street: "Elbuferstraße"
 housenumber: 184
 phone: ""
 opening_hours: ""

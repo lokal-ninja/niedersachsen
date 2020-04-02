@@ -5,7 +5,7 @@ latitude: 51.9250039
 longitude: 10.431192000000001
 postcode: 38642
 city: Goslar
-street: Danziger Straße
+street: "Danziger Straße"
 housenumber: 28
 phone: "+49 5321 81806"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.727872100000006
 longitude: 10.250188600000001
 postcode: 37520
 city: Osterode am Harz
-street: Kornmarkt
+street: "Kornmarkt"
 housenumber: 19
 phone: ""
 opening_hours: ""

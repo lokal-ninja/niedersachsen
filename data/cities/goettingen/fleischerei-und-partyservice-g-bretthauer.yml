@@ -5,7 +5,7 @@ latitude: 51.5609966
 longitude: 9.9041554
 postcode: 
 city: Göttingen
-street: Genfstraße
+street: "Genfstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

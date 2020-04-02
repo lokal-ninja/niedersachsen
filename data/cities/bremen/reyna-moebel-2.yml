@@ -5,7 +5,7 @@ latitude: 53.095464400000004
 longitude: 8.7861464
 postcode: 28217
 city: Bremen
-street: Bassumer Straße
+street: "Bassumer Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

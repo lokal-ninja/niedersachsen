@@ -5,7 +5,7 @@ latitude: 52.992008500000004
 longitude: 7.628778400000001
 postcode: 26897
 city: Esterwegen
-street: Poststraße
+street: "Poststraße"
 housenumber: 30
 phone: "+495955935267"
 opening_hours: "Mo-Sa 06:00-19:00"

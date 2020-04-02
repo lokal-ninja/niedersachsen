@@ -5,7 +5,7 @@ latitude: 53.0781999
 longitude: 8.8069506
 postcode: 28195
 city: Bremen
-street: Carl-Ronning-Straße
+street: "Carl-Ronning-Straße"
 housenumber: 4-6
 phone: ""
 opening_hours: "Mo-Fr 9:00-13:00; 14:00-18:00"

@@ -5,7 +5,7 @@ latitude: 53.401937200000006
 longitude: 7.6071178
 postcode: 26629
 city: Großefehn
-street: Kanalstraße Nord
+street: "Kanalstraße Nord"
 housenumber: 89
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Th 09:00-12:30,14:00-20:00; Sa 09:00-13:00"

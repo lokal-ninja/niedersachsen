@@ -5,7 +5,7 @@ latitude: 53.168204300000006
 longitude: 7.3573389
 postcode: 26826
 city: Weener
-street: Norderstraße
+street: "Norderstraße"
 housenumber: 54-60
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00;Sa 07:30-12:30"

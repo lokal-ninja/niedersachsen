@@ -5,7 +5,7 @@ latitude: 53.485431500000004
 longitude: 9.1605132
 postcode: 27432
 city: Bremervörde
-street: Stader Straße
+street: "Stader Straße"
 housenumber: 29
 phone: ""
 opening_hours: ""

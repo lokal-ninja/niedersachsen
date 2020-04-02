@@ -5,7 +5,7 @@ latitude: 53.0626048
 longitude: 8.5845517
 postcode: 27777
 city: Ganderkesee
-street: Elmeloher Straße
+street: "Elmeloher Straße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"

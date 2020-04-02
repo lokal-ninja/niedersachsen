@@ -5,7 +5,7 @@ latitude: 52.678789900000005
 longitude: 7.957906500000001
 postcode: 49610
 city: Quakenbrück
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 65
 phone: ""
 opening_hours: ""

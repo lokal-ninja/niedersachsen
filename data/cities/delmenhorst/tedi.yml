@@ -5,7 +5,7 @@ latitude: 53.0410145
 longitude: 8.595166
 postcode: 27753
 city: Delmenhorst
-street: Hannah-Arendt-Straße
+street: "Hannah-Arendt-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.600599100000004
 longitude: 9.473978
 postcode: 21682
 city: Stade
-street: Steile Straße
+street: "Steile Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"

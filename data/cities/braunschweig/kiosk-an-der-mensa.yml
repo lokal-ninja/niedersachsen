@@ -5,7 +5,7 @@ latitude: 52.275568500000006
 longitude: 10.5261911
 postcode: 38106
 city: Braunschweig
-street: Rebenring
+street: "Rebenring"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 06:00-21:00, Su,PH 09:00-20:00"

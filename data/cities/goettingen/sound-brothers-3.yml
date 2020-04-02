@@ -5,7 +5,7 @@ latitude: 51.532070700000006
 longitude: 9.9019732
 postcode: 37081
 city: Göttingen
-street: Kasseler Landstraße
+street: "Kasseler Landstraße"
 housenumber: 44a
 phone: ""
 opening_hours: ""

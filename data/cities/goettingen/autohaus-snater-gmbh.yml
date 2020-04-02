@@ -5,7 +5,7 @@ latitude: 51.564170700000005
 longitude: 9.9215338
 postcode: 37077
 city: Göttingen
-street: Reinhard-Rube-Straße
+street: "Reinhard-Rube-Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:30-13:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.229661300000004
 longitude: 10.3988148
 postcode: 21335
 city: Lüneburg
-street: Scharnhorststraße
+street: "Scharnhorststraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Th 12:00-18:00; Fr 12:00-16:00"

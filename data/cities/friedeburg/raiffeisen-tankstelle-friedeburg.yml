@@ -5,7 +5,7 @@ latitude: 53.450419800000006
 longitude: 7.841679200000001
 postcode: 26446
 city: Friedeburg
-street: Friedeburger Hauptstraße
+street: "Friedeburger Hauptstraße"
 housenumber: 48
 phone: ""
 opening_hours: "24/7"

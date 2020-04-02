@@ -5,7 +5,7 @@ latitude: 53.0798805
 longitude: 8.8936621
 postcode: 28327
 city: Bremen
-street: Berliner Freiheit
+street: "Berliner Freiheit"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

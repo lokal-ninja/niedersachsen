@@ -5,7 +5,7 @@ latitude: 51.792386300000004
 longitude: 9.976670200000001
 postcode: 37574
 city: Einbeck
-street: Ahlshäuser Endestraße
+street: "Ahlshäuser Endestraße"
 housenumber: 16
 phone: "+49 5553 1863"
 opening_hours: "Tu-Fr 14:00-18:30, Sa 08:00-13:00"

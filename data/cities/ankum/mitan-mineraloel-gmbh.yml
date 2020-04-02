@@ -5,7 +5,7 @@ latitude: 52.540832800000004
 longitude: 7.8856111
 postcode: 49577
 city: Ankum
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

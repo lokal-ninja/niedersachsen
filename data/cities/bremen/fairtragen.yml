@@ -5,7 +5,7 @@ latitude: 53.0726378
 longitude: 8.821058200000001
 postcode: 28203
 city: Bremen
-street: Ostertorsteinweg
+street: "Ostertorsteinweg"
 housenumber: 90
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-17:00"

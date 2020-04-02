@@ -5,7 +5,7 @@ latitude: 52.845928400000005
 longitude: 8.0475556
 postcode: 49661
 city: Cloppenburg
-street: Pingel-Anton
+street: "Pingel-Anton"
 housenumber: 7
 phone: "+49 4471 2010"
 opening_hours: "Tu,We,Fr 08:30-18:00; Th 08:30-19:00; Sa 08:00-14:00"

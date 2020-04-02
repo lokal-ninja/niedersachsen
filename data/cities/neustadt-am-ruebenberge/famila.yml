@@ -5,7 +5,7 @@ latitude: 52.512227200000005
 longitude: 9.477257100000001
 postcode: 31535
 city: Neustadt am Rübenberge
-street: Rudolf-Diesel-Ring
+street: "Rudolf-Diesel-Ring"
 housenumber: 30
 phone: "+49 5032 9650"
 opening_hours: "Mo-Sa 08:00-21:00"

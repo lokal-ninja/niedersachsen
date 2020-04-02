@@ -5,7 +5,7 @@ latitude: 52.362654000000006
 longitude: 9.7164079
 postcode: 30449
 city: Hannover
-street: Deisterstraße
+street: "Deisterstraße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00"

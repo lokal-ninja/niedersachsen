@@ -5,7 +5,7 @@ latitude: 53.0848804
 longitude: 8.799561200000001
 postcode: 28195
 city: Bremen
-street: Doventorsteinweg
+street: "Doventorsteinweg"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-16:30; Su,PH 08:00-17:00"

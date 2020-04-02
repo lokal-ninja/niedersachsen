@@ -5,7 +5,7 @@ latitude: 53.539317800000006
 longitude: 7.956797000000001
 postcode: 26419
 city: Schortens
-street: Im Gewerbegebiet
+street: "Im Gewerbegebiet"
 housenumber: 4
 phone: ""
 opening_hours: ""

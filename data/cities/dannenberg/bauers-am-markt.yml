@@ -5,7 +5,7 @@ latitude: 53.0988544
 longitude: 11.0961868
 postcode: 29451
 city: Dannenberg
-street: Am Markt
+street: "Am Markt"
 housenumber: 3
 phone: ""
 opening_hours: "Mo,Th 09:30-22:00; Fr-Su 11:30-22:00; Tu-We off"

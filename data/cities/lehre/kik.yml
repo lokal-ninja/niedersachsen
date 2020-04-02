@@ -5,7 +5,7 @@ latitude: 52.3304886
 longitude: 10.673168700000002
 postcode: 38165
 city: Lehre
-street: Campenstraße
+street: "Campenstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

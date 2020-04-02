@@ -5,7 +5,7 @@ latitude: 53.2616334
 longitude: 7.645628100000001
 postcode: 26849
 city: Filsum
-street: Herrenmoorweg
+street: "Herrenmoorweg"
 housenumber: 25
 phone: "+49 4957 927280"
 opening_hours: "Th, Fr 09:00-19:00, Sa 09:00-14:00"

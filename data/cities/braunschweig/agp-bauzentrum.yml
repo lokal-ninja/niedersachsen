@@ -5,7 +5,7 @@ latitude: 52.2145115
 longitude: 10.4993131
 postcode: 38122
 city: Braunschweig
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 3
 phone: "+49 531 234420"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-13:00"

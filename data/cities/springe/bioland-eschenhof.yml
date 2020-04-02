@@ -5,7 +5,7 @@ latitude: 52.215988200000005
 longitude: 9.5549768
 postcode: 31832
 city: Springe
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 15
 phone: "+49 5041 971626"
 opening_hours: ""

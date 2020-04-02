@@ -5,7 +5,7 @@ latitude: 52.434261400000004
 longitude: 7.1072408000000005
 postcode: 48531
 city: Nordhorn
-street: Dahlskamp
+street: "Dahlskamp"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1315954
 longitude: 7.8105302000000005
 postcode: 26676
 city: Barßel
-street: Königstraße
+street: "Königstraße"
 housenumber: 4
 phone: "+49 4497 8641"
 opening_hours: ""

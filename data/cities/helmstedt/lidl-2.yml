@@ -5,7 +5,7 @@ latitude: 52.2208802
 longitude: 11.021145800000001
 postcode: 38350
 city: Helmstedt
-street: Magdeburger Tor
+street: "Magdeburger Tor"
 housenumber: 15b
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

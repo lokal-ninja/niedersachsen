@@ -5,7 +5,7 @@ latitude: 53.050828
 longitude: 8.841413600000001
 postcode: 28279
 city: Bremen
-street: Habenhauser Landstraße
+street: "Habenhauser Landstraße"
 housenumber: 170
 phone: ""
 opening_hours: ""

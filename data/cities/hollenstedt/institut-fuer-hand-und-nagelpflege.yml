@@ -5,7 +5,7 @@ latitude: 53.3621508
 longitude: 9.714558400000001
 postcode: 21279
 city: Hollenstedt
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 3
 phone: "+49 4165 2214916"
 opening_hours: ""

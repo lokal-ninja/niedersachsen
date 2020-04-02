@@ -5,7 +5,7 @@ latitude: 52.0679164
 longitude: 10.5766851
 postcode: 38312
 city: Börßum
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 100
 phone: ""
 opening_hours: ""

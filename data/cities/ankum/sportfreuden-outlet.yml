@@ -5,7 +5,7 @@ latitude: 52.543479100000006
 longitude: 7.868627900000001
 postcode: 49577
 city: Ankum
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

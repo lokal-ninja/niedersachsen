@@ -5,7 +5,7 @@ latitude: 52.0687007
 longitude: 9.585174700000001
 postcode: 31020
 city: Salzhemmendorf
-street: Hemmendorfer Landstraße
+street: "Hemmendorfer Landstraße"
 housenumber: 2-6
 phone: "+49 5153 9070"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-13:00"

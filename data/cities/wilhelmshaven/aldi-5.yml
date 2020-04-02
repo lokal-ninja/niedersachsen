@@ -5,7 +5,7 @@ latitude: 53.5356996
 longitude: 8.1254959
 postcode: 26384
 city: Wilhelmshaven
-street: Gökerstraße
+street: "Gökerstraße"
 housenumber: 109
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

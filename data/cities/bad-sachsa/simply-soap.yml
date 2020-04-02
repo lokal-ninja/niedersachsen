@@ -5,7 +5,7 @@ latitude: 51.5735047
 longitude: 10.5835205
 postcode: 37441
 city: Bad Sachsa
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 09:30-12:30"

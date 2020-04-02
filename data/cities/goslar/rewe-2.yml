@@ -5,7 +5,7 @@ latitude: 51.931055
 longitude: 10.4314655
 postcode: 38644
 city: Goslar
-street: Marienburger Straße
+street: "Marienburger Straße"
 housenumber: 67
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

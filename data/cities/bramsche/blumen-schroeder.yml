@@ -5,7 +5,7 @@ latitude: 52.40934360000001
 longitude: 7.976505100000001
 postcode: 49565
 city: Bramsche
-street: Breuelstraße
+street: "Breuelstraße"
 housenumber: 10
 phone: "+4954614281"
 opening_hours: "Mo-Fr 08:00-13:00,14:30-18:00; Sa 08:30-13:00; Su 10:00-12:00"

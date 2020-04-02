@@ -5,7 +5,7 @@ latitude: 53.120074200000005
 longitude: 9.7887093
 postcode: 29640
 city: Schneverdingen
-street: Rathauspassage
+street: "Rathauspassage"
 housenumber: 6
 phone: "+49 5193 972168"
 opening_hours: ""

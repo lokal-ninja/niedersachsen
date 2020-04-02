@@ -5,7 +5,7 @@ latitude: 53.291989300000004
 longitude: 9.4964898
 postcode: 27419
 city: Sittensen
-street: August-Otto-Straße
+street: "August-Otto-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

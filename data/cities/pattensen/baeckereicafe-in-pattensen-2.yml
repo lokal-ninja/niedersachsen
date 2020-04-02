@@ -5,7 +5,7 @@ latitude: 52.2646699
 longitude: 9.7698987
 postcode: 30982
 city: Pattensen
-street: Johann-Koch-Straße
+street: "Johann-Koch-Straße"
 housenumber: 2
 phone: "+49 5101 9920490"
 opening_hours: "Mo-Sa 07:00-20:30"

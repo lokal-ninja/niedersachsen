@@ -5,7 +5,7 @@ latitude: 53.560326200000006
 longitude: 7.9161361
 postcode: 26441
 city: Jever
-street: An der alten Bundesstraße
+street: "An der alten Bundesstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Su 06:00-24:00"

@@ -5,7 +5,7 @@ latitude: 53.07977270000001
 longitude: 8.8039602
 postcode: 28195
 city: Bremen
-street: Am Wall
+street: "Am Wall"
 housenumber: 113
 phone: ""
 opening_hours: "Tu 11:00-19:00; We 14:00-19:00; Th 11:00-19:00; Fr 11:00-19:00; Sa 11:00-18:00; Su,Mo off"

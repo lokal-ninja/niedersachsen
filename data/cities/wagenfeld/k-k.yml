@@ -5,7 +5,7 @@ latitude: 52.5521783
 longitude: 8.5852033
 postcode: 49419
 city: Wagenfeld
-street: Sparkassenweg
+street: "Sparkassenweg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

@@ -5,7 +5,7 @@ latitude: 52.3560503
 longitude: 7.9739656000000005
 postcode: 49134
 city: Wallenhorst
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 10
 phone: "+49 5407 822010"
 opening_hours: ""

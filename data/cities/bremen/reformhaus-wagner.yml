@@ -5,7 +5,7 @@ latitude: 53.097571200000004
 longitude: 8.870483700000001
 postcode: 28359
 city: Bremen
-street: Berckstraße
+street: "Berckstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.394731300000004
 longitude: 9.6317395
 postcode: 30926
 city: Seelze
-street: Lange-Feld-Straße
+street: "Lange-Feld-Straße"
 housenumber: 68
 phone: ""
 opening_hours: ""

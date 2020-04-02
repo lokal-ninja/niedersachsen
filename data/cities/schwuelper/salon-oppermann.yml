@@ -5,7 +5,7 @@ latitude: 52.353254400000004
 longitude: 10.4388074
 postcode: 38179
 city: Schwülper
-street: Höben
+street: "Höben"
 housenumber: 58
 phone: ""
 opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-14:00"

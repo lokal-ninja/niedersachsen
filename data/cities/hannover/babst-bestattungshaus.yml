@@ -5,7 +5,7 @@ latitude: 52.363005900000005
 longitude: 9.7550951
 postcode: 30171
 city: Hannover
-street: Oesterleystraße
+street: "Oesterleystraße"
 housenumber: 14
 phone: "+49 511 980610"
 opening_hours: ""

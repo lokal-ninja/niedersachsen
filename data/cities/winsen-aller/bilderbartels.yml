@@ -5,7 +5,7 @@ latitude: 52.68195540000001
 longitude: 9.9098469
 postcode: 29308
 city: Winsen (Aller)
-street: Poststraße
+street: "Poststraße"
 housenumber: 22
 phone: ""
 opening_hours: "Tu-Fr 10:00-12:00,16:00-18:00; Sa 10:00-12:00"

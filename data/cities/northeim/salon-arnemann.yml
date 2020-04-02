@@ -5,7 +5,7 @@ latitude: 51.7380634
 longitude: 9.9395254
 postcode: 37154
 city: Northeim
-street: Victoria-Luise-Straße
+street: "Victoria-Luise-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

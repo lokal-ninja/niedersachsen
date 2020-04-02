@@ -5,7 +5,7 @@ latitude: 52.251391000000005
 longitude: 10.8166311
 postcode: 38154
 city: Königslutter am Elm
-street: Westernstraße
+street: "Westernstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

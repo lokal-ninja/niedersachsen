@@ -5,7 +5,7 @@ latitude: 52.5513089
 longitude: 8.582712200000001
 postcode: 49419
 city: Wagenfeld
-street: Oppenweher Straße
+street: "Oppenweher Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Tu 16:00-17:30; Th 10:30-12:00"

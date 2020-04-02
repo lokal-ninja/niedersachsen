@@ -5,7 +5,7 @@ latitude: 52.0547175
 longitude: 10.0025603
 postcode: 31162
 city: Bad Salzdetfurth
-street: Bodenburger Straße
+street: "Bodenburger Straße"
 housenumber: 8
 phone: "+49 5063 270825"
 opening_hours: "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00"

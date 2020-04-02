@@ -5,7 +5,7 @@ latitude: 52.464020500000004
 longitude: 10.1989283
 postcode: 31311
 city: Uetze
-street: Burgdorfer Straße
+street: "Burgdorfer Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 10:00 - 19:00; Sa 10:00 - 14:00"

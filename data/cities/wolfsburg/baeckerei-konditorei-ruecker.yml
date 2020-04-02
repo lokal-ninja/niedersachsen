@@ -5,7 +5,7 @@ latitude: 52.421176100000004
 longitude: 10.752897200000001
 postcode: 38440
 city: Wolfsburg
-street: Grauhorststraße
+street: "Grauhorststraße"
 housenumber: 48
 phone: "+49-5361-32659"
 opening_hours: ""

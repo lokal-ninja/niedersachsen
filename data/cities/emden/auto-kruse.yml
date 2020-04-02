@@ -5,7 +5,7 @@ latitude: 53.3638917
 longitude: 7.18114
 postcode: 26723
 city: Emden
-street: Zweiter Polderweg
+street: "Zweiter Polderweg"
 housenumber: 10
 phone: "+49 4921 6036"
 opening_hours: ""

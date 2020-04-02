@@ -5,7 +5,7 @@ latitude: 52.493205100000004
 longitude: 6.879305700000001
 postcode: 49843
 city: Uelsen
-street: Itterbecker Straße
+street: "Itterbecker Straße"
 housenumber: 43
 phone: "+49-800-2662400"
 opening_hours: ""

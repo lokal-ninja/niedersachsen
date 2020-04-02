@@ -5,7 +5,7 @@ latitude: 53.07924920000001
 longitude: 8.8052452
 postcode: 28195
 city: Bremen
-street: Wegesende
+street: "Wegesende"
 housenumber: 9
 phone: ""
 opening_hours: ""

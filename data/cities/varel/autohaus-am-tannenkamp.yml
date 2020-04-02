@@ -5,7 +5,7 @@ latitude: 53.368906800000005
 longitude: 8.1266276
 postcode: 26316
 city: Varel
-street: Am Tannenkamp
+street: "Am Tannenkamp"
 housenumber: 91
 phone: "+49 4451 9110-0"
 opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 52.163729100000005
 longitude: 10.5373788
 postcode: 38300
 city: Wolfenbüttel
-street: Lange Herzogstraße
+street: "Lange Herzogstraße"
 housenumber: 16
 phone: "+49 53319062960"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 07:30-15:00"

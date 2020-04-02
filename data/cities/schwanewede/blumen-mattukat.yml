@@ -5,7 +5,7 @@ latitude: 53.220105200000006
 longitude: 8.588326
 postcode: 28790
 city: Schwanewede
-street: Insterburger Weg
+street: "Insterburger Weg"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.504287700000006
 longitude: 9.900220500000001
 postcode: 
 city: Rosdorf
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Tu-Fr 10:30-18:00; PH off"

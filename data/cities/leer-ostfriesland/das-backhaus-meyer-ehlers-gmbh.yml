@@ -5,7 +5,7 @@ latitude: 53.2208033
 longitude: 7.4754218
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Osseweg
+street: "Osseweg"
 housenumber: 87
 phone: "+49 491 15221"
 opening_hours: "Mo-Sa 08:00-21:00"

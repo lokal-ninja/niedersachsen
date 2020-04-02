@@ -5,7 +5,7 @@ latitude: 52.58755360000001
 longitude: 9.727247
 postcode: 30900
 city: Wedemark
-street: Auf dem Farnkamp
+street: "Auf dem Farnkamp"
 housenumber: 2
 phone: "+49 5130 9288517"
 opening_hours: "Mo-Sa 07:00-21:00"

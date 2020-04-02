@@ -5,7 +5,7 @@ latitude: 52.3902031
 longitude: 9.8544485
 postcode: 30629
 city: Hannover
-street: Hannoversche Straße
+street: "Hannoversche Straße"
 housenumber: 1
 phone: "+49 511 588011"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-13:00"

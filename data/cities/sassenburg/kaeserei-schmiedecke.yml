@@ -5,7 +5,7 @@ latitude: 52.518277600000005
 longitude: 10.5881985
 postcode: 38524
 city: Sassenburg
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 18a
 phone: ""
 opening_hours: ""

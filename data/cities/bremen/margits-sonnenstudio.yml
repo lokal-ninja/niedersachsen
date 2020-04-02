@@ -5,7 +5,7 @@ latitude: 53.0452913
 longitude: 8.858598500000001
 postcode: 28279
 city: Bremen
-street: Habenhauser Windmühlenberg
+street: "Habenhauser Windmühlenberg"
 housenumber: 66
 phone: ""
 opening_hours: ""

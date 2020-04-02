@@ -5,7 +5,7 @@ latitude: 52.846528500000005
 longitude: 8.727618000000001
 postcode: 27211
 city: Bassum
-street: Sulinger Straße
+street: "Sulinger Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su off"

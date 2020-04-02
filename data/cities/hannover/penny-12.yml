@@ -5,7 +5,7 @@ latitude: 52.4170322
 longitude: 9.797556
 postcode: 30659
 city: Hannover
-street: Puritzweg
+street: "Puritzweg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"

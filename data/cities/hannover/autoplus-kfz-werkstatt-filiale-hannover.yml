@@ -5,7 +5,7 @@ latitude: 52.359505600000006
 longitude: 9.711334
 postcode: 30449
 city: Hannover
-street: Marianne-Baecker-Allee
+street: "Marianne-Baecker-Allee"
 housenumber: 3
 phone: "+49 511 213 53 81"
 opening_hours: "Mo-Fr 07:30-18:30; Sa 08:30-14:00"

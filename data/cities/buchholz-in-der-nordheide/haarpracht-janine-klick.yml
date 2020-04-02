@@ -5,7 +5,7 @@ latitude: 53.3113862
 longitude: 9.787283500000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Alte Bahnhofstraße
+street: "Alte Bahnhofstraße"
 housenumber: 18
 phone: "+49 4186 2471492"
 opening_hours: ""

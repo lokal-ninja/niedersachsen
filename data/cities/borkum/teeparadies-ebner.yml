@@ -5,7 +5,7 @@ latitude: 53.588210200000006
 longitude: 6.6626598
 postcode: 26757
 city: Borkum
-street: Strandstraße
+street: "Strandstraße"
 housenumber: 23
 phone: "+49 4922 990727"
 opening_hours: ""

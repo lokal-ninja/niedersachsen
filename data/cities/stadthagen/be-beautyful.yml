@@ -5,7 +5,7 @@ latitude: 52.3248582
 longitude: 9.2040133
 postcode: 31655
 city: Stadthagen
-street: Echternstraße
+street: "Echternstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

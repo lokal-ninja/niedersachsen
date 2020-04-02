@@ -5,7 +5,7 @@ latitude: 53.06247260000001
 longitude: 8.195906500000001
 postcode: 26203
 city: Wardenburg
-street: Friedrichsstraße
+street: "Friedrichsstraße"
 housenumber: 7
 phone: "+49 4407 927978"
 opening_hours: ""

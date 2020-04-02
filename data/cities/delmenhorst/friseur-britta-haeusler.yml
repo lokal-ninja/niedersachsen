@@ -5,7 +5,7 @@ latitude: 53.046923500000005
 longitude: 8.6353691
 postcode: 27749
 city: Delmenhorst
-street: Cramerstraße
+street: "Cramerstraße"
 housenumber: 187
 phone: "+49 4221 17155"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; PH off"

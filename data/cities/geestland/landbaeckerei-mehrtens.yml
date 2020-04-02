@@ -5,7 +5,7 @@ latitude: 53.617702400000006
 longitude: 8.6295836
 postcode: 27607
 city: Geestland
-street: Langener Straße
+street: "Langener Straße"
 housenumber: 53
 phone: "+49 4743913517"
 opening_hours: "Mo-Sa 06:00-12:00, Su 08:00-10:00"

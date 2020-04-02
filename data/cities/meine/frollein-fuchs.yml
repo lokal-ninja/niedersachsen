@@ -5,7 +5,7 @@ latitude: 52.381126800000004
 longitude: 10.5404323
 postcode: 38527
 city: Meine
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo 10:00-13:00; Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"

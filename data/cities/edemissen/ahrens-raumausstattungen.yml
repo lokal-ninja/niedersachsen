@@ -5,7 +5,7 @@ latitude: 52.3846465
 longitude: 10.263741900000001
 postcode: 31234
 city: Edemissen
-street: Eichenweg
+street: "Eichenweg"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Fr 11:00-13:00, Mo,Tu,Th,Fr 15:00-18:00"

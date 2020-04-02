@@ -5,7 +5,7 @@ latitude: 52.327373800000004
 longitude: 9.7810088
 postcode: 30519
 city: Hannover
-street: Hildesheimer Straße
+street: "Hildesheimer Straße"
 housenumber: 393
 phone: ""
 opening_hours: ""

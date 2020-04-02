@@ -5,7 +5,7 @@ latitude: 52.328586200000004
 longitude: 8.3262377
 postcode: 49152
 city: Bad Essen
-street: Im Felde
+street: "Im Felde"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

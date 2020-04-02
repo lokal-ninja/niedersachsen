@@ -5,7 +5,7 @@ latitude: 52.154326700000006
 longitude: 10.5872183
 postcode: 38300
 city: Wolfenbüttel
-street: Leipziger Allee
+street: "Leipziger Allee"
 housenumber: 4
 phone: "+49-5331-6799509"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.343745500000004
 longitude: 10.029081000000001
 postcode: 21220
 city: Seevetal GT Ramelsloh
-street: Ohlendorfer Straße
+street: "Ohlendorfer Straße"
 housenumber: 3
 phone: "+4941852300"
 opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-15:30"

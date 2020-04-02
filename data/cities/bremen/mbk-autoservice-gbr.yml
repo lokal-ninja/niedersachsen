@@ -5,7 +5,7 @@ latitude: 53.067978100000005
 longitude: 8.8669089
 postcode: 28207
 city: Bremen
-street: Alfred-Nobel-Straße
+street: "Alfred-Nobel-Straße"
 housenumber: 1a
 phone: "+49 421 4985186"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.5420335
 longitude: 8.578472900000001
 postcode: 27568
 city: Bremerhaven
-street: Obere Bürger
+street: "Obere Bürger"
 housenumber: 12
 phone: "+49 471 9413690"
 opening_hours: ""

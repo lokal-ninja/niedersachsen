@@ -5,7 +5,7 @@ latitude: 53.266077300000006
 longitude: 7.934646600000001
 postcode: 26655
 city: Westerstede
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.8327953
 longitude: 10.675025600000001
 postcode: 29389
 city: Bad Bodenteich
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

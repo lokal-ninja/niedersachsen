@@ -5,7 +5,7 @@ latitude: 52.4814736
 longitude: 10.5413335
 postcode: 38518
 city: Gifhorn
-street: Oldaustraße
+street: "Oldaustraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 08:00-13:00,14:30-18:00; Sa 08:00-13:00"

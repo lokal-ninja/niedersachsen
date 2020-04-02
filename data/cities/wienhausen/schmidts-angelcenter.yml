@@ -5,7 +5,7 @@ latitude: 52.57989250000001
 longitude: 10.1909694
 postcode: 29342
 city: Wienhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo,Sa 09:00-12:00; Tu-Fr 09:00-13:00,15:00-18:00"

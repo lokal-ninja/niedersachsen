@@ -5,7 +5,7 @@ latitude: 52.3302251
 longitude: 9.2019
 postcode: 31655
 city: Stadthagen
-street: Teichstraße
+street: "Teichstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 10:00-13:00, 15:00-18:00; We,Sa 10:00-13:00"

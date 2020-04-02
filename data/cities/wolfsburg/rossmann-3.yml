@@ -5,7 +5,7 @@ latitude: 52.439196700000004
 longitude: 10.838985000000001
 postcode: 38448
 city: Wolfsburg
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-14:00; Su off; PH off"

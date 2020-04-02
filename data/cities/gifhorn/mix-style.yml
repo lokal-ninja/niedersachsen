@@ -5,7 +5,7 @@ latitude: 52.479281
 longitude: 10.544038700000002
 postcode: 38518
 city: Gifhorn
-street: Braunschweiger Straße
+street: "Braunschweiger Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

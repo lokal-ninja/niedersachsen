@@ -5,7 +5,7 @@ latitude: 53.374688500000005
 longitude: 10.722222200000001
 postcode: 19258
 city: Boizenburg/Elbe
-street: Königstraße
+street: "Königstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Tu-Fr 11:00-18:00; Sa10:00-16:00"

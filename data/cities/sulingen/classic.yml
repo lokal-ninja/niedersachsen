@@ -5,7 +5,7 @@ latitude: 52.6815021
 longitude: 8.798475700000001
 postcode: 27232
 city: Sulingen
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 71
 phone: ""
 opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"

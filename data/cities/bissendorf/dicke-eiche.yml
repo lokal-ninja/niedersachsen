@@ -5,7 +5,7 @@ latitude: 52.2785844
 longitude: 8.2681953
 postcode: 49143
 city: Bissendorf
-street: Dicke Eiche
+street: "Dicke Eiche"
 housenumber: 9
 phone: ""
 opening_hours: "Tu 15:00-18:30; Fr 09:00-12:30,15:00-18:30; Sa 09:00-13:00"

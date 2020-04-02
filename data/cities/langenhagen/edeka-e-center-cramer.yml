@@ -5,7 +5,7 @@ latitude: 52.451970700000004
 longitude: 9.7457284
 postcode: 30853
 city: Langenhagen
-street: Walsroder Straße
+street: "Walsroder Straße"
 housenumber: 165
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

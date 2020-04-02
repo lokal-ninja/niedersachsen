@@ -5,7 +5,7 @@ latitude: 52.737158300000004
 longitude: 7.752371800000001
 postcode: 49624
 city: Löningen
-street: Bernhard-Remmers-Straße
+street: "Bernhard-Remmers-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

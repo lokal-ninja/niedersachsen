@@ -5,7 +5,7 @@ latitude: 52.229829300000006
 longitude: 8.3109692
 postcode: 49324
 city: Melle
-street: Betonstraße
+street: "Betonstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

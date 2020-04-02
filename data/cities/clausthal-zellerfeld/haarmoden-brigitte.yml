@@ -5,7 +5,7 @@ latitude: 51.8180722
 longitude: 10.336510800000001
 postcode: 38678
 city: Clausthal-Zellerfeld
-street: Bäckerstraße
+street: "Bäckerstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

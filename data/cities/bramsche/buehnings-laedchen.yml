@@ -5,7 +5,7 @@ latitude: 52.3856605
 longitude: 8.0169154
 postcode: 49565
 city: Bramsche
-street: Schleptruper Strang
+street: "Schleptruper Strang"
 housenumber: 89
 phone: "+49 5468 925460"
 opening_hours: "Mo-Su 08:00-20:00"

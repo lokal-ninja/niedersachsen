@@ -5,7 +5,7 @@ latitude: 53.594811400000005
 longitude: 7.212330100000001
 postcode: 26506
 city: Norden
-street: Glückauf
+street: "Glückauf"
 housenumber: 15
 phone: ""
 opening_hours: ""

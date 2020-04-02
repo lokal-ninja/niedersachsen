@@ -5,7 +5,7 @@ latitude: 52.282172800000005
 longitude: 9.578005300000001
 postcode: 30974
 city: Wennigsen (Deister)
-street: Albert-Einstein-Straße
+street: "Albert-Einstein-Straße"
 housenumber: 2i
 phone: "+49 5105 6080 100"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.002433200000006
 longitude: 8.032384
 postcode: 26219
 city: Bösel
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

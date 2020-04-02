@@ -5,7 +5,7 @@ latitude: 52.68119840000001
 longitude: 7.9602263
 postcode: 49610
 city: Quakenbrück
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo- Sa 09:00-20:00; PH off"

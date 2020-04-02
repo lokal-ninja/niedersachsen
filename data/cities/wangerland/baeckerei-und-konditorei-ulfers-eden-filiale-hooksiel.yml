@@ -5,7 +5,7 @@ latitude: 53.634243100000006
 longitude: 8.0334424
 postcode: 26434
 city: Wangerland
-street: Robbenplate
+street: "Robbenplate"
 housenumber: 22
 phone: "+49 4425 991769"
 opening_hours: "Mo-Sa 06:30-10:30, Su 07:30-10:30"

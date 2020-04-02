@@ -5,7 +5,7 @@ latitude: 53.6780198
 longitude: 6.993083400000001
 postcode: 26571
 city: Juist
-street: Friesenstraße
+street: "Friesenstraße"
 housenumber: 4a
 phone: ""
 opening_hours: "Mo-Fr 08:00-13:00,15:00-18:30, Sa 08:00-14:00"

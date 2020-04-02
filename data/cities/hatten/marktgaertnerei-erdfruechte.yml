@@ -5,7 +5,7 @@ latitude: 53.0405852
 longitude: 8.2537442
 postcode: 26209
 city: Hatten
-street: Landschulheimweg
+street: "Landschulheimweg"
 housenumber: 14
 phone: "+49 4481 7651"
 opening_hours: "Mo,We,Fr 15:30-19:30"

@@ -5,7 +5,7 @@ latitude: 52.2170702
 longitude: 10.641101800000001
 postcode: 38173
 city: Sickte
-street: Tiefe Straße
+street: "Tiefe Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 08:00-16:30"

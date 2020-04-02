@@ -5,7 +5,7 @@ latitude: 52.850937300000005
 longitude: 7.6777284
 postcode: 49757
 city: Werlte
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 22
 phone: "+49 5951 2918"
 opening_hours: ""

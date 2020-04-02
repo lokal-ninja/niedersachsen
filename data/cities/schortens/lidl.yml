@@ -5,7 +5,7 @@ latitude: 53.540197400000004
 longitude: 7.9500463
 postcode: 26419
 city: Schortens
-street: Jadestraße
+street: "Jadestraße"
 housenumber: 7-9
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

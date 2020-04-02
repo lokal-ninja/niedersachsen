@@ -5,7 +5,7 @@ latitude: 52.221085200000005
 longitude: 10.6199153
 postcode: 38173
 city: Sickte
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo,We-Fr 09:00-12:00,14:00-18:00; Tu 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 52.495238500000006
 longitude: 7.228617900000001
 postcode: 49835
 city: Wietmarschen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

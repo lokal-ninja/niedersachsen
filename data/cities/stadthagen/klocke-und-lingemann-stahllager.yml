@@ -5,7 +5,7 @@ latitude: 52.3335444
 longitude: 9.1891656
 postcode: 31655
 city: Stadthagen
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Th 07:00-16:00, Fr 07:00-12:00"

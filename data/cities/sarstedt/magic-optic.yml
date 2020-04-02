@@ -5,7 +5,7 @@ latitude: 52.2340286
 longitude: 9.8545212
 postcode: 31157
 city: Sarstedt
-street: Hahnenstein
+street: "Hahnenstein"
 housenumber: 2
 phone: "+49 5066 65000"
 opening_hours: "Tu-Su 09:00-13:30,14:30-18:00; Sa 09:30-13:00"

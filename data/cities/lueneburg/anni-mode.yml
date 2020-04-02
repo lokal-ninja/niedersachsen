@@ -5,7 +5,7 @@ latitude: 53.247328700000004
 longitude: 10.404583500000001
 postcode: 21335
 city: Lüneburg
-street: Grapengießerstraße
+street: "Grapengießerstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

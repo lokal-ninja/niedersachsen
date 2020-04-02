@@ -5,7 +5,7 @@ latitude: 52.309465700000004
 longitude: 10.4911788
 postcode: 38112
 city: Braunschweig
-street: Sandhofenstraße
+street: "Sandhofenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 53.294243400000006
 longitude: 9.5529422
 postcode: 27419
 city: Kalbe
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

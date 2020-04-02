@@ -5,7 +5,7 @@ latitude: 53.2719402
 longitude: 9.7304204
 postcode: 21255
 city: Tostedt
-street: Poststraße
+street: "Poststraße"
 housenumber: 87
 phone: "+49 4182 404319"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00"

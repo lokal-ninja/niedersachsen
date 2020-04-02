@@ -5,7 +5,7 @@ latitude: 53.066758500000006
 longitude: 8.854845300000001
 postcode: 28207
 city: Bremen
-street: Auf der Hohwisch
+street: "Auf der Hohwisch"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Su 07:00-22:00"

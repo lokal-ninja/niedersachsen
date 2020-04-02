@@ -5,7 +5,7 @@ latitude: 53.0864023
 longitude: 8.716087400000001
 postcode: 28197
 city: Bremen
-street: Ludwig-Erhard-Straße
+street: "Ludwig-Erhard-Straße"
 housenumber: 17
 phone: "+49 421 5262442"
 opening_hours: "Mo-Fr 04:30-18:00; PH off"

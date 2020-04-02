@@ -5,7 +5,7 @@ latitude: 52.3650049
 longitude: 9.6842894
 postcode: 30453
 city: Hannover
-street: Davenstedter Straße
+street: "Davenstedter Straße"
 housenumber: 153
 phone: "+49511313230"
 opening_hours: "Mo - Fr: 11 - 18 Uhr und Sa: 10 - 13 Uhr"

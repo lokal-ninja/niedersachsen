@@ -5,7 +5,7 @@ latitude: 51.8817244
 longitude: 10.559667000000001
 postcode: 38667
 city: Bad Harzburg
-street: Herzog-Wilhelm-Straße
+street: "Herzog-Wilhelm-Straße"
 housenumber: 60
 phone: ""
 opening_hours: ""

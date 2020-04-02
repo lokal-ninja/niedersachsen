@@ -5,7 +5,7 @@ latitude: 53.07267
 longitude: 8.8789321
 postcode: 
 city: Bremen
-street: Wilseder-Berg-Straße
+street: "Wilseder-Berg-Straße"
 housenumber: 19a
 phone: ""
 opening_hours: "Mo-Tu 10:00-13:00, 14:30-18:30, We 10:00-13:00, Th-Fr 10:00-13:00, 14:30-18:30, Sa 10:00-13:00"

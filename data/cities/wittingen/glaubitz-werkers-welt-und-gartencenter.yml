@@ -5,7 +5,7 @@ latitude: 52.7291783
 longitude: 10.710793
 postcode: 29378
 city: Wittingen
-street: Lessingstraße
+street: "Lessingstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"

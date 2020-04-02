@@ -5,7 +5,7 @@ latitude: 53.100827
 longitude: 8.2305769
 postcode: 26133
 city: Oldenburg
-street: Harreweg
+street: "Harreweg"
 housenumber: 153b
 phone: "+49 441 361 981 50"
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00, Sa 09:00-13:00"

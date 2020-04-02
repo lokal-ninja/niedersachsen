@@ -5,7 +5,7 @@ latitude: 52.1538673
 longitude: 10.3441583
 postcode: 38226
 city: Salzgitter
-street: Konrad-Adenauer-Straße
+street: "Konrad-Adenauer-Straße"
 housenumber: 111
 phone: "+49-5341-84950"
 opening_hours: "Mo-We 07:00-20:00; Th-Sa 07:00-22:00"

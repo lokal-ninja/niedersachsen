@@ -5,7 +5,7 @@ latitude: 51.5868176
 longitude: 10.6655128
 postcode: 99755
 city: Ellrich
-street: Am Markt
+street: "Am Markt"
 housenumber: 13
 phone: "+49 36332 20323"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00"

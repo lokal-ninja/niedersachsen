@@ -5,7 +5,7 @@ latitude: 51.534749100000006
 longitude: 9.9352453
 postcode: 37073
 city: Göttingen
-street: Göttingen
+street: "Göttingen"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00; PH off"

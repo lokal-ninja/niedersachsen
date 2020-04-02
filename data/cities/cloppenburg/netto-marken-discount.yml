@@ -5,7 +5,7 @@ latitude: 52.8305092
 longitude: 8.0318881
 postcode: 49661
 city: Cloppenburg
-street: Freesienstraße
+street: "Freesienstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

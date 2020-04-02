@@ -5,7 +5,7 @@ latitude: 52.6414568
 longitude: 9.935479800000001
 postcode: 29313
 city: Hambühren
-street: Wiesenweg
+street: "Wiesenweg"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su 10:00-12:00"

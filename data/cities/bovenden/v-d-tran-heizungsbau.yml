@@ -5,7 +5,7 @@ latitude: 51.5840833
 longitude: 9.8797171
 postcode: 
 city: Bovenden
-street: Angerstraße
+street: "Angerstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

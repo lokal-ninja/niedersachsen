@@ -5,7 +5,7 @@ latitude: 52.8298896
 longitude: 8.113475600000001
 postcode: 49685
 city: Emstek
-street: Justus-von-Liebig-Straße
+street: "Justus-von-Liebig-Straße"
 housenumber: 1
 phone: "+49 4473 926880"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off"

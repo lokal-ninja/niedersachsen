@@ -5,7 +5,7 @@ latitude: 53.0132344
 longitude: 9.069995800000001
 postcode: 28832
 city: Achim
-street: Herbert-Ludwig-Straße
+street: "Herbert-Ludwig-Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

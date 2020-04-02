@@ -5,7 +5,7 @@ latitude: 53.129113100000005
 longitude: 8.8669572
 postcode: 28357
 city: Bremen
-street: Am Lehester Deich
+street: "Am Lehester Deich"
 housenumber: 159
 phone: ""
 opening_hours: "Fr,Su 13:00-16:00; Sa 10:00-13:00"

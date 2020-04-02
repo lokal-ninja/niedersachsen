@@ -5,7 +5,7 @@ latitude: 53.52021920000001
 longitude: 8.1129114
 postcode: 26382
 city: Wilhelmshaven
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 58
 phone: ""
 opening_hours: ""

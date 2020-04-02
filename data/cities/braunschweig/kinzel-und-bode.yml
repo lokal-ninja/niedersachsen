@@ -5,7 +5,7 @@ latitude: 52.26329500000001
 longitude: 10.5443282
 postcode: 38102
 city: Braunschweig
-street: Kastanienallee
+street: "Kastanienallee"
 housenumber: 20
 phone: "+49 531 2339991"
 opening_hours: "Mo-Fr 10:00-17:00"

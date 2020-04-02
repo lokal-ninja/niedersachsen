@@ -5,7 +5,7 @@ latitude: 52.010500900000004
 longitude: 10.133288100000001
 postcode: 31167
 city: Bockenem
-street: Thornburyplatz
+street: "Thornburyplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

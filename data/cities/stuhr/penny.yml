@@ -5,7 +5,7 @@ latitude: 53.0029066
 longitude: 8.778459100000001
 postcode: 28816
 city: Stuhr
-street: Jupiterstraße
+street: "Jupiterstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

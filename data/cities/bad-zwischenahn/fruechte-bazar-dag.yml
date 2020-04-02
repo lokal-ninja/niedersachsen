@@ -5,7 +5,7 @@ latitude: 53.1827662
 longitude: 8.0089431
 postcode: 26160
 city: Bad Zwischenahn
-street: Georgstraße
+street: "Georgstraße"
 housenumber: 4
 phone: "+49 4403 916113"
 opening_hours: ""

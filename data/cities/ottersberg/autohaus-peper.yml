@@ -5,7 +5,7 @@ latitude: 53.125556100000004
 longitude: 9.0577181
 postcode: 28870
 city: Ottersberg
-street: Lilienthaler Straße
+street: "Lilienthaler Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

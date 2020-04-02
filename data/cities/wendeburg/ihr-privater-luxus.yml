@@ -5,7 +5,7 @@ latitude: 52.327175600000004
 longitude: 10.3923503
 postcode: 38176
 city: Wendeburg
-street: Peiner Straße
+street: "Peiner Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

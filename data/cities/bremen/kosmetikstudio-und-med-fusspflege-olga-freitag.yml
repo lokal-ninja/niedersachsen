@@ -5,7 +5,7 @@ latitude: 53.044011100000006
 longitude: 8.7402613
 postcode: 28259
 city: Bremen
-street: Hohenhorster Weg
+street: "Hohenhorster Weg"
 housenumber: 30
 phone: ""
 opening_hours: ""

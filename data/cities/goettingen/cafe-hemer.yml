@@ -5,7 +5,7 @@ latitude: 51.5260383
 longitude: 9.929881400000001
 postcode: 37073
 city: Göttingen
-street: Böttingerstraße
+street: "Böttingerstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 7:30-18:00; Su 13:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.3849615
 longitude: 9.952520900000001
 postcode: 31275
 city: Lehrte
-street: Straßburger Straße
+street: "Straßburger Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

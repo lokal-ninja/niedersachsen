@@ -5,7 +5,7 @@ latitude: 51.9793377
 longitude: 9.5179813
 postcode: 37619
 city: Bodenwerder
-street: Homburgstraße
+street: "Homburgstraße"
 housenumber: 3
 phone: "+49 5533 3641"
 opening_hours: ""

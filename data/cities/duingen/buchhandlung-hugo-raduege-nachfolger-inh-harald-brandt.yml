@@ -5,7 +5,7 @@ latitude: 52.0052144
 longitude: 9.697575200000001
 postcode: 31089
 city: Duingen
-street: Dr.-Bock-Brücke
+street: "Dr.-Bock-Brücke"
 housenumber: 3
 phone: "+49 5185 1444"
 opening_hours: ""

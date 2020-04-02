@@ -5,7 +5,7 @@ latitude: 52.193167300000006
 longitude: 10.323734700000001
 postcode: 38268
 city: Lengede
-street: Carl-Zeiss-Straße
+street: "Carl-Zeiss-Straße"
 housenumber: 2
 phone: "+49-5344-9595516"
 opening_hours: ""

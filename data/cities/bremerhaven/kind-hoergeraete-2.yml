@@ -5,7 +5,7 @@ latitude: 53.542158400000005
 longitude: 8.5807839
 postcode: 27568
 city: Bremerhaven
-street: Bürgermeister-Smidt-Straße
+street: "Bürgermeister-Smidt-Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off"

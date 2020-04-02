@@ -5,7 +5,7 @@ latitude: 52.302655300000005
 longitude: 9.469688900000001
 postcode: 30890
 city: Barsinghausen
-street: Siegfried-Lehmann-Straße
+street: "Siegfried-Lehmann-Straße"
 housenumber: 13
 phone: "+49 5105 779900"
 opening_hours: ""

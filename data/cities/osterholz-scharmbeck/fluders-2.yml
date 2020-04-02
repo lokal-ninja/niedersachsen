@@ -5,7 +5,7 @@ latitude: 53.229463100000004
 longitude: 8.785198300000001
 postcode: 27711
 city: Osterholz-Scharmbeck
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

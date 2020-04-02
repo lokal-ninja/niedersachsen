@@ -5,7 +5,7 @@ latitude: 53.139651
 longitude: 8.2121539
 postcode: 26122
 city: Oldenburg
-street: Gaststraße
+street: "Gaststraße"
 housenumber: 7
 phone: "+49 441 998 41 42"
 opening_hours: "Mo-Fr 12:00-19:00; Sa 10:00-18:00"

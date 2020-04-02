@@ -5,7 +5,7 @@ latitude: 52.411755500000005
 longitude: 9.7502562
 postcode: 30179
 city: Hannover
-street: Vahrenheider Markt
+street: "Vahrenheider Markt"
 housenumber: 19
 phone: "+49 511 89 95 750"
 opening_hours: ""

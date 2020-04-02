@@ -5,7 +5,7 @@ latitude: 52.461262600000005
 longitude: 10.5359788
 postcode: 38518
 city: Gifhorn
-street: Eyßelheideweg
+street: "Eyßelheideweg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

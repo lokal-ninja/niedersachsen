@@ -5,7 +5,7 @@ latitude: 53.728259200000004
 longitude: 7.375063300000001
 postcode: 26579
 city: Baltrum
-street: Westdorf
+street: "Westdorf"
 housenumber: 224a
 phone: ""
 opening_hours: "Mar-Sep Mo-Sa 10:30-18:00"

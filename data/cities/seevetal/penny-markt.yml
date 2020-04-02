@@ -5,7 +5,7 @@ latitude: 53.39117400000001
 longitude: 9.9828139
 postcode: 21218
 city: Seevetal
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

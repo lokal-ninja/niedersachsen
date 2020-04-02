@@ -5,7 +5,7 @@ latitude: 52.8669128
 longitude: 9.635876900000001
 postcode: 29664
 city: Walsrode
-street: Goldweg
+street: "Goldweg"
 housenumber: 2
 phone: "+49 5161 4811211"
 opening_hours: ""

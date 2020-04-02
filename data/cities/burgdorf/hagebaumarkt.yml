@@ -5,7 +5,7 @@ latitude: 52.4607175
 longitude: 9.9930369
 postcode: 31303
 city: Burgdorf
-street: Lise-Meitner-Straße
+street: "Lise-Meitner-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"

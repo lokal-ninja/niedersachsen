@@ -5,7 +5,7 @@ latitude: 52.149827
 longitude: 10.542352300000001
 postcode: 38304
 city: Wolfenbüttel
-street: Am Wasserwerk
+street: "Am Wasserwerk"
 housenumber: 3
 phone: "+49-5331-40070"
 opening_hours: "Mo-Sa 07:00-22:00"

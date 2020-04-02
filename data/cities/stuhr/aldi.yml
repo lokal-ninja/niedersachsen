@@ -5,7 +5,7 @@ latitude: 53.026750400000005
 longitude: 8.754407800000001
 postcode: 28816
 city: Stuhr
-street: Stuhrer Landstraße
+street: "Stuhrer Landstraße"
 housenumber: 142b
 phone: ""
 opening_hours: ""

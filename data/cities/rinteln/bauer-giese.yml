@@ -5,7 +5,7 @@ latitude: 52.1676379
 longitude: 9.0980997
 postcode: 31737
 city: Rinteln
-street: Uchtdorfer Straße
+street: "Uchtdorfer Straße"
 housenumber: 1
 phone: "+49 5751 9245308"
 opening_hours: "Tu-Fr 08:00-13:00,15:00-18:00; Sa 08:00-13:00"

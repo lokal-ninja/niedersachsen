@@ -5,7 +5,7 @@ latitude: 52.635411000000005
 longitude: 7.0584521
 postcode: 49767
 city: Twist
-street: Am Marktplatz
+street: "Am Marktplatz"
 housenumber: 10
 phone: ""
 opening_hours: ""

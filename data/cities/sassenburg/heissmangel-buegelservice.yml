@@ -5,7 +5,7 @@ latitude: 52.512536700000005
 longitude: 10.6323301
 postcode: 38524
 city: Sassenburg
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 40
 phone: ""
 opening_hours: "Tu,We 09:00-11:00,15:00-17:00"

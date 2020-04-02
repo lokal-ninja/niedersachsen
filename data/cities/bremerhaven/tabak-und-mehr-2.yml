@@ -5,7 +5,7 @@ latitude: 53.53579190000001
 longitude: 8.5971078
 postcode: 27570
 city: Bremerhaven
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 06:00-21:00, Sa 07:00-21:00, Su,PH 08:00-21:00"

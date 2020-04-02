@@ -5,7 +5,7 @@ latitude: 52.2588328
 longitude: 10.5279938
 postcode: 38100
 city: Braunschweig
-street: Auguststraße
+street: "Auguststraße"
 housenumber: 15
 phone: "+49 531 61 28 17 99"
 opening_hours: ""

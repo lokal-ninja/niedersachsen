@@ -5,7 +5,7 @@ latitude: 53.678784500000006
 longitude: 6.995728300000001
 postcode: 26571
 city: Juist
-street: Strandstraße
+street: "Strandstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

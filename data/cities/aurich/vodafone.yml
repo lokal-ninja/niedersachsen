@@ -5,7 +5,7 @@ latitude: 53.4694045
 longitude: 7.483375700000001
 postcode: 26603
 city: Aurich
-street: Osterstraße
+street: "Osterstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"

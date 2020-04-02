@@ -5,7 +5,7 @@ latitude: 53.073002800000005
 longitude: 8.8199401
 postcode: 28203
 city: Bremen
-street: Wulwesstraße
+street: "Wulwesstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

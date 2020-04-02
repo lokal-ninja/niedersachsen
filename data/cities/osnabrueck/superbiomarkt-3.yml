@@ -5,7 +5,7 @@ latitude: 52.255659200000004
 longitude: 7.9915047
 postcode: 49078
 city: Osnabrück
-street: Lengericher Landstraße
+street: "Lengericher Landstraße"
 housenumber: 34a
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

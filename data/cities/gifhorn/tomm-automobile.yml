@@ -5,7 +5,7 @@ latitude: 52.468712000000004
 longitude: 10.5753239
 postcode: 38518
 city: Gifhorn
-street: Adam-Riese-Straße
+street: "Adam-Riese-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

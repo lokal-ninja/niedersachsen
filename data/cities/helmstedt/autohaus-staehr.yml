@@ -5,7 +5,7 @@ latitude: 52.2431812
 longitude: 10.982274
 postcode: 38350
 city: Helmstedt
-street: Porschestraße
+street: "Porschestraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

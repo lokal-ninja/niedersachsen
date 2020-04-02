@@ -5,7 +5,7 @@ latitude: 53.3703299
 longitude: 9.8018668
 postcode: 21629
 city: Neu Wulmstorf
-street: Schlepelsberg
+street: "Schlepelsberg"
 housenumber: 2
 phone: "+49 4165 221410"
 opening_hours: "24/7"

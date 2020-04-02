@@ -5,7 +5,7 @@ latitude: 53.173449100000006
 longitude: 8.6454046
 postcode: 
 city: Bremen
-street: Vegesacker Heerstraße
+street: "Vegesacker Heerstraße"
 housenumber: 115
 phone: ""
 opening_hours: ""

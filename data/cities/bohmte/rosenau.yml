@@ -5,7 +5,7 @@ latitude: 52.367019500000005
 longitude: 8.3082958
 postcode: 49163
 city: Bohmte
-street: Am Feuerwehrhaus
+street: "Am Feuerwehrhaus"
 housenumber: 6
 phone: "+49 5471 953880"
 opening_hours: ""

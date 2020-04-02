@@ -5,7 +5,7 @@ latitude: 52.4063048
 longitude: 10.9314485
 postcode: 38458
 city: Velpke
-street: Weideweg
+street: "Weideweg"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

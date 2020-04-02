@@ -5,7 +5,7 @@ latitude: 51.5112031
 longitude: 10.2592537
 postcode: 
 city: Duderstadt
-street: Haberstraße
+street: "Haberstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

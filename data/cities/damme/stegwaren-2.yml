@@ -5,7 +5,7 @@ latitude: 52.520872100000005
 longitude: 8.199889500000001
 postcode: 49401
 city: Damme
-street: Hunteburger Straße
+street: "Hunteburger Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

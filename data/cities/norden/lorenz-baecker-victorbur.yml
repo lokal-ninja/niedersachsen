@@ -5,7 +5,7 @@ latitude: 53.5951382
 longitude: 7.2090082
 postcode: 26506
 city: Norden
-street: Neuer Weg
+street: "Neuer Weg"
 housenumber: 112
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-14:00"

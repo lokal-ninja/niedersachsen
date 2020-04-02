@@ -5,7 +5,7 @@ latitude: 52.9850621
 longitude: 9.8384874
 postcode: 29614
 city: Soltau
-street: Hagen
+street: "Hagen"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su off; PH off"

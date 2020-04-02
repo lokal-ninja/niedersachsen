@@ -5,7 +5,7 @@ latitude: 53.2331117
 longitude: 7.462447600000001
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Bahnhofsring
+street: "Bahnhofsring"
 housenumber: 28
 phone: "+49 491 2029"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su off; PH off"

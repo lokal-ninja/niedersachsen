@@ -5,7 +5,7 @@ latitude: 53.793781100000004
 longitude: 8.909805200000001
 postcode: 21762
 city: Otterndorf
-street: Scholien
+street: "Scholien"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.2921738
 longitude: 8.2433263
 postcode: 26180
 city: Rastede
-street: Dörpstraat
+street: "Dörpstraat"
 housenumber: 136
 phone: "+49 4402 983699"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1749379
 longitude: 8.202079000000001
 postcode: 26127
 city: Oldenburg
-street: Bürgerbuschweg
+street: "Bürgerbuschweg"
 housenumber: 
 phone: ""
 opening_hours: ""

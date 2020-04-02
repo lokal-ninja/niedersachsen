@@ -5,7 +5,7 @@ latitude: 51.5349098
 longitude: 9.894250300000001
 postcode: 37081
 city: Göttingen
-street: Heinrich-Warnecke-Straße
+street: "Heinrich-Warnecke-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,15:30-17:30"

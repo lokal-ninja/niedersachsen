@@ -5,7 +5,7 @@ latitude: 52.393418600000004
 longitude: 9.2677747
 postcode: 31553
 city: Sachsenhagen
-street: Obere Straße
+street: "Obere Straße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

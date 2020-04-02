@@ -5,7 +5,7 @@ latitude: 53.52835940000001
 longitude: 8.098649
 postcode: 26382
 city: Wilhelmshaven
-street: Werftstraße
+street: "Werftstraße"
 housenumber: 161
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.2858846
 longitude: 9.5144751
 postcode: 27419
 city: Sittensen
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

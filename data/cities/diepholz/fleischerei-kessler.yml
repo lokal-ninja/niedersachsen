@@ -5,7 +5,7 @@ latitude: 52.6071442
 longitude: 8.3694779
 postcode: 49356
 city: Diepholz
-street: Kolkstraße
+street: "Kolkstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo 07:00-14:00; Tu-Fr 07:00-18:00; Sa 08:00-13:00"

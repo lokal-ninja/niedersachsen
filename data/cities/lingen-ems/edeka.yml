@@ -5,7 +5,7 @@ latitude: 52.5329817
 longitude: 7.322476900000001
 postcode: 49808
 city: Lingen (Ems)
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 71
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

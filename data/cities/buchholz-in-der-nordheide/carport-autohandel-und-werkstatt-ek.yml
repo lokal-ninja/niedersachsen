@@ -5,7 +5,7 @@ latitude: 53.3470686
 longitude: 9.863377900000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Maurerstraße
+street: "Maurerstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:30"

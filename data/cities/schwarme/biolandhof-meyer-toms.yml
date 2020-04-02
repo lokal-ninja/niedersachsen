@@ -5,7 +5,7 @@ latitude: 52.881197300000004
 longitude: 9.015872700000001
 postcode: 27327
 city: Schwarme
-street: Kiebitzheideweg
+street: "Kiebitzheideweg"
 housenumber: 6
 phone: "+49 4258 241"
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00"

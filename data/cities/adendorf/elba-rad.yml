@@ -5,7 +5,7 @@ latitude: 53.297482800000004
 longitude: 10.4299599
 postcode: 21365
 city: Adendorf
-street: Elba
+street: "Elba"
 housenumber: 4a
 phone: "+49 4131 187458"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 53.184273100000006
 longitude: 8.9806114
 postcode: 28879
 city: Grasberg
-street: Am Langenmoor
+street: "Am Langenmoor"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.3601042
 longitude: 9.765319700000001
 postcode: 30173
 city: Hannover
-street: Jordanstraße
+street: "Jordanstraße"
 housenumber: 26
 phone: "+49 511 807070"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

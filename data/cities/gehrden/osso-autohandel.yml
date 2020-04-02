@@ -5,7 +5,7 @@ latitude: 52.3351769
 longitude: 9.5789047
 postcode: 30989
 city: Gehrden
-street: Bundesstraße
+street: "Bundesstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

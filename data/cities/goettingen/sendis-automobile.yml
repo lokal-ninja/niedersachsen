@@ -5,7 +5,7 @@ latitude: 51.534470400000004
 longitude: 9.9106255
 postcode: 
 city: Göttingen
-street: Posthof
+street: "Posthof"
 housenumber: 14-16
 phone: ""
 opening_hours: ""

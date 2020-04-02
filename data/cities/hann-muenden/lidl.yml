@@ -5,7 +5,7 @@ latitude: 51.4183147
 longitude: 9.6697106
 postcode: 34346
 city: Hann. Münden
-street: Hedemündener Straße
+street: "Hedemündener Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su off"

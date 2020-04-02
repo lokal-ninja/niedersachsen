@@ -5,7 +5,7 @@ latitude: 52.3819913
 longitude: 9.393254800000001
 postcode: 31559
 city: Haste
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 63a
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

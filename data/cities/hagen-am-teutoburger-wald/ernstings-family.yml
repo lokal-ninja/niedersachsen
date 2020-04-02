@@ -5,7 +5,7 @@ latitude: 52.1969525
 longitude: 7.981679300000001
 postcode: 49170
 city: Hagen am Teutoburger Wald
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00"

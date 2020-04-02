@@ -5,7 +5,7 @@ latitude: 53.601000000000006
 longitude: 7.2522025
 postcode: 26524
 city: Lütetsburg
-street: Landstraße
+street: "Landstraße"
 housenumber: 68
 phone: ""
 opening_hours: ""

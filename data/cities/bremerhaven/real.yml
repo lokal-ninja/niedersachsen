@@ -5,7 +5,7 @@ latitude: 53.572459900000005
 longitude: 8.5998134
 postcode: 27580
 city: Bremerhaven
-street: Pferdebade
+street: "Pferdebade"
 housenumber: 6
 phone: "+49 471 984020"
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 53.576171200000005
 longitude: 8.358524000000001
 postcode: 26969
 city: Butjadingen
-street: Butjadinger Straße
+street: "Butjadinger Straße"
 housenumber: 85
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

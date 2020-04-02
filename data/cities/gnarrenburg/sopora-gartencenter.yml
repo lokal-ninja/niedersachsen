@@ -5,7 +5,7 @@ latitude: 53.377431200000004
 longitude: 9.0058095
 postcode: 27442
 city: Gnarrenburg
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

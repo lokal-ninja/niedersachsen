@@ -5,7 +5,7 @@ latitude: 52.4313269
 longitude: 9.622873
 postcode: 30827
 city: Garbsen
-street: Flemmingstraße
+street: "Flemmingstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

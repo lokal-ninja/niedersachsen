@@ -5,7 +5,7 @@ latitude: 53.304490900000005
 longitude: 7.7471217
 postcode: 26670
 city: Uplengen
-street: Ostertorstraße
+street: "Ostertorstraße"
 housenumber: 62
 phone: "+49 4956 1078"
 opening_hours: "Mo-Sa 08:00-21:00"

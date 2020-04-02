@@ -5,7 +5,7 @@ latitude: 53.0408045
 longitude: 8.6776692
 postcode: 27755
 city: Delmenhorst
-street: Nienburger Straße
+street: "Nienburger Straße"
 housenumber: 4
 phone: "+49 4221 978131"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"

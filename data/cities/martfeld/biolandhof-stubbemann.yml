@@ -5,7 +5,7 @@ latitude: 52.8654157
 longitude: 9.0283406
 postcode: 27327
 city: Martfeld
-street: Hollen
+street: "Hollen"
 housenumber: 43
 phone: "+49 4255 384"
 opening_hours: ""

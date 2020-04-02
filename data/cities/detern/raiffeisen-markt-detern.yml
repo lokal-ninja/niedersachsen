@@ -5,7 +5,7 @@ latitude: 53.216247700000004
 longitude: 7.654381300000001
 postcode: 26847
 city: Detern
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 7
 phone: "+49 4957 927813"
 opening_hours: "Mo-Fr 08:00-12:30, 13:030-17:00, Sa 08:00-12:00"

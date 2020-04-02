@@ -5,7 +5,7 @@ latitude: 52.5233597
 longitude: 9.0747444
 postcode: 31592
 city: Stolzenau
-street: Auf dem Weinberge
+street: "Auf dem Weinberge"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00 Uhr"

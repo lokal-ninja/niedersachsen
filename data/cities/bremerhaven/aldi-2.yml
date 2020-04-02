@@ -5,7 +5,7 @@ latitude: 53.492522900000004
 longitude: 8.5963744
 postcode: 27572
 city: Bremerhaven
-street: Bohmsiel
+street: "Bohmsiel"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

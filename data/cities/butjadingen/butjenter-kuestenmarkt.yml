@@ -5,7 +5,7 @@ latitude: 53.5766745
 longitude: 8.248485800000001
 postcode: 26969
 city: Butjadingen
-street: Nordseeallee
+street: "Nordseeallee"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Su 11:00-18:00"

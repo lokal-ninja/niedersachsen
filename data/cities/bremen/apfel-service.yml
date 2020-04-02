@@ -5,7 +5,7 @@ latitude: 53.082700800000005
 longitude: 8.807744000000001
 postcode: 28195
 city: Bremen
-street: Bürgermeister-Smidt-Straße
+street: "Bürgermeister-Smidt-Straße"
 housenumber: 123
 phone: ""
 opening_hours: "Mo-Fr 10:30-18:30"

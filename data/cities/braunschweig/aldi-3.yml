@@ -5,7 +5,7 @@ latitude: 52.213125700000006
 longitude: 10.522885200000001
 postcode: 38124
 city: Braunschweig
-street: Stöckheimer Markt
+street: "Stöckheimer Markt"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

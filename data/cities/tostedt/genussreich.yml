@@ -5,7 +5,7 @@ latitude: 53.280586400000004
 longitude: 9.7131044
 postcode: 21255
 city: Tostedt
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo 14:00-18:00; Tu-Th 09:30-12:30,14:00-18:00; Fr 09:30-18:00; Sa 09:00-13:00"

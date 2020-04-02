@@ -5,7 +5,7 @@ latitude: 52.4512708
 longitude: 9.758069500000001
 postcode: 30853
 city: Langenhagen
-street: Theodor-Heuss-Straße
+street: "Theodor-Heuss-Straße"
 housenumber: 18
 phone: "+49 5117638560"
 opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-15:00"

@@ -5,7 +5,7 @@ latitude: 52.8472893
 longitude: 8.0426322
 postcode: 49661
 city: Cloppenburg
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 26
 phone: "+49 4471 2204"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

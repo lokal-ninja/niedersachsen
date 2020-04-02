@@ -5,7 +5,7 @@ latitude: 52.602033000000006
 longitude: 8.514970400000001
 postcode: 49453
 city: Hemsloh
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo 08:00-12:30; Tu-Fr 08:00-12:30,14:00-18:00; Sa 08:30-13:00; Su off"

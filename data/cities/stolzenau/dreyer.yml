@@ -5,7 +5,7 @@ latitude: 52.5111202
 longitude: 9.0708198
 postcode: 31592
 city: Stolzenau
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00"

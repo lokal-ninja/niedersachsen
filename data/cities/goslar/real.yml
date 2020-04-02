@@ -5,7 +5,7 @@ latitude: 51.9172038
 longitude: 10.448324900000001
 postcode: 38640
 city: Goslar
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 2
 phone: "+49 5321 38230"
 opening_hours: ""

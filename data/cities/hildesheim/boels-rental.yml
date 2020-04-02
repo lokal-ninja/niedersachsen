@@ -5,7 +5,7 @@ latitude: 52.171292400000006
 longitude: 9.9389991
 postcode: 31137
 city: Hildesheim
-street: Lerchenkamp
+street: "Lerchenkamp"
 housenumber: 38
 phone: "+49 5121 2063400"
 opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:30"

@@ -5,7 +5,7 @@ latitude: 53.412577500000005
 longitude: 7.375592
 postcode: 26632
 city: Ihlow
-street: Friesenstraße
+street: "Friesenstraße"
 housenumber: 21b
 phone: ""
 opening_hours: "Mo-Sa 06:00-12:30,15:00-18:00;Su 07:30-10:30"

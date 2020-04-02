@@ -5,7 +5,7 @@ latitude: 53.3824498
 longitude: 10.1153014
 postcode: 21435
 city: Stelle
-street: Lüneburger Straße
+street: "Lüneburger Straße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:30"

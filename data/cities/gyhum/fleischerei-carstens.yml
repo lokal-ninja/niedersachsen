@@ -5,7 +5,7 @@ latitude: 53.204136000000005
 longitude: 9.251974500000001
 postcode: 27404
 city: Gyhum
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 24
 phone: "+49 - (0) 42 88 - 266"
 opening_hours: ""

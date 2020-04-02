@@ -5,7 +5,7 @@ latitude: 53.3604222
 longitude: 9.7049109
 postcode: 21279
 city: Hollenstedt
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 23
 phone: "+49 4165 81511"
 opening_hours: ""

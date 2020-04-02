@@ -5,7 +5,7 @@ latitude: 52.2740103
 longitude: 8.0468084
 postcode: 49074
 city: Osnabrück
-street: Große Hamkenstraße
+street: "Große Hamkenstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"

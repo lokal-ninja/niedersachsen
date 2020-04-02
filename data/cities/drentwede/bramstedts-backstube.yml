@@ -5,7 +5,7 @@ latitude: 52.737237900000004
 longitude: 8.563450000000001
 postcode: 49406
 city: Drentwede
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Tu-Sa 05:30-12:30"

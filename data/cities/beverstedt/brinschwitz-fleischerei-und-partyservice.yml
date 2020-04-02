@@ -5,7 +5,7 @@ latitude: 53.4415817
 longitude: 8.736239300000001
 postcode: 27616
 city: Beverstedt
-street: Westerbeverstedter Straße
+street: "Westerbeverstedter Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

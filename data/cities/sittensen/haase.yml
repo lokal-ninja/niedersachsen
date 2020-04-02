@@ -5,7 +5,7 @@ latitude: 53.280675200000005
 longitude: 9.4945049
 postcode: 27419
 city: Sittensen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 1
 phone: "+49 4282 9420"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:30"

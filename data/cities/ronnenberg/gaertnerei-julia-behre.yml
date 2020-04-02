@@ -5,7 +5,7 @@ latitude: 52.345619600000006
 longitude: 9.633799600000001
 postcode: 30952
 city: Ronnenberg
-street: Salinenstraße
+street: "Salinenstraße"
 housenumber: 40
 phone: "+49 5108 4093"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.453879
 longitude: 9.3587103
 postcode: 31515
 city: Wunstorf
-street: Leinenweberstraße
+street: "Leinenweberstraße"
 housenumber: 14
 phone: "+49 5033 912869"
 opening_hours: "Mo-Sa 07:00-20:00;Su,PH 06:30-13:00"

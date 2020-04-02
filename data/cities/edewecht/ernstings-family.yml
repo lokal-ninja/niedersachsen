@@ -5,7 +5,7 @@ latitude: 53.126792300000005
 longitude: 7.983790000000001
 postcode: 26188
 city: Edewecht
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 62
 phone: ""
 opening_hours: ""

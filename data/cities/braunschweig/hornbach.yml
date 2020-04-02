@@ -5,7 +5,7 @@ latitude: 52.2495356
 longitude: 10.5114172
 postcode: 38122
 city: Braunschweig
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

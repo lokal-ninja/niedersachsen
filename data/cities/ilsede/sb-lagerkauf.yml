@@ -5,7 +5,7 @@ latitude: 52.2463247
 longitude: 10.2278319
 postcode: 31246
 city: Ilsede
-street: An der Bundesstraße
+street: "An der Bundesstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

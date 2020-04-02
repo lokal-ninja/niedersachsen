@@ -5,7 +5,7 @@ latitude: 52.969782900000006
 longitude: 9.8120273
 postcode: 29614
 city: Soltau
-street: Am Westerfeld
+street: "Am Westerfeld"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.9863943
 longitude: 10.0640122
 postcode: 29633
 city: Munster
-street: Emminger Weg
+street: "Emminger Weg"
 housenumber: 
 phone: "+49 5192887568"
 opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-13:00"

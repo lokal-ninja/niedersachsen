@@ -5,7 +5,7 @@ latitude: 53.178274900000005
 longitude: 8.6190383
 postcode: 28757
 city: Bremen
-street: Georg-Gleistein-Straße
+street: "Georg-Gleistein-Straße"
 housenumber: 47
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1073493
 longitude: 8.456285000000001
 postcode: 27798
 city: Hude
-street: Ulmenstraße
+street: "Ulmenstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

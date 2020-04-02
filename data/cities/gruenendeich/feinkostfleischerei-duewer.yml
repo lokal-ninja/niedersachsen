@@ -5,7 +5,7 @@ latitude: 53.569270200000005
 longitude: 9.6120018
 postcode: 21720
 city: Grünendeich
-street: Kurze Straße
+street: "Kurze Straße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo,Tu,Th 07:00-12:00,14:00-18:00; Fr 07:00-18:00; We,Sa 07:00-12:00; Su,PH off"

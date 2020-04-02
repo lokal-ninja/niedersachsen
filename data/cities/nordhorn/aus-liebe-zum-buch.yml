@@ -5,7 +5,7 @@ latitude: 52.4256478
 longitude: 7.050084300000001
 postcode: 48527
 city: Nordhorn
-street: Lindenallee
+street: "Lindenallee"
 housenumber: 30
 phone: ""
 opening_hours: ""

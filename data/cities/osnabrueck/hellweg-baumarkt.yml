@@ -5,7 +5,7 @@ latitude: 52.291501100000005
 longitude: 8.037199000000001
 postcode: 49090
 city: Osnabrück
-street: Hansastraße
+street: "Hansastraße"
 housenumber: 81
 phone: "+49 541 609450"
 opening_hours: "Mo-Sa 08:00-20:00"

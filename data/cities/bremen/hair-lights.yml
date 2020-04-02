@@ -5,7 +5,7 @@ latitude: 53.1198508
 longitude: 8.759237200000001
 postcode: 28239
 city: Bremen
-street: Halmerweg
+street: "Halmerweg"
 housenumber: 4
 phone: ""
 opening_hours: ""

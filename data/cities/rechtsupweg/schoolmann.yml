@@ -5,7 +5,7 @@ latitude: 53.528407300000005
 longitude: 7.319838900000001
 postcode: 26529
 city: Rechtsupweg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

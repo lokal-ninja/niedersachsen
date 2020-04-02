@@ -5,7 +5,7 @@ latitude: 52.848303200000004
 longitude: 7.6651502
 postcode: 49757
 city: Werlte
-street: Sögeler Straße
+street: "Sögeler Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 52.5558491
 longitude: 7.9364375
 postcode: 49593
 city: Bersenbrück
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 2a
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off; PH off"

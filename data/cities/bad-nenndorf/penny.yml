@@ -5,7 +5,7 @@ latitude: 52.336556800000004
 longitude: 9.3791765
 postcode: 31542
 city: Bad Nenndorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

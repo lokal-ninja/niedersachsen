@@ -5,7 +5,7 @@ latitude: 53.191658100000005
 longitude: 8.6334357
 postcode: 28755
 city: Bremen
-street: Lerchenstraße
+street: "Lerchenstraße"
 housenumber: 65
 phone: "+49421666117"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"

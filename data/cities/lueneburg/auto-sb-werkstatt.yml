@@ -5,7 +5,7 @@ latitude: 53.2731572
 longitude: 10.4133574
 postcode: 21339
 city: Lüneburg
-street: In der Marsch
+street: "In der Marsch"
 housenumber: 15
 phone: "+49 4131 33263"
 opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-13:00"

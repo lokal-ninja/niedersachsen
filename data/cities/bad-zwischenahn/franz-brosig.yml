@@ -5,7 +5,7 @@ latitude: 53.1848479
 longitude: 7.9985596
 postcode: 26160
 city: Bad Zwischenahn
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:30,14:30-18:00; Th 07:30-12:30; Sa 07:30-13:00;Su,PH closed"

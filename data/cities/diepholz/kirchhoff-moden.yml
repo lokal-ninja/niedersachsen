@@ -5,7 +5,7 @@ latitude: 52.607037000000005
 longitude: 8.370138
 postcode: 49356
 city: Diepholz
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

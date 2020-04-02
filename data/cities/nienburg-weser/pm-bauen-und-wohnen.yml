@@ -5,7 +5,7 @@ latitude: 52.639228200000005
 longitude: 9.204730000000001
 postcode: 31582
 city: Nienburg/Weser
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 3
 phone: ""
 opening_hours: "persönlichen Beratungstermin vereinbaren"

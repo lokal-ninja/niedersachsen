@@ -5,7 +5,7 @@ latitude: 52.3292337
 longitude: 9.784127900000001
 postcode: 30519
 city: Hannover
-street: Am Eisenwerk
+street: "Am Eisenwerk"
 housenumber: 35/2
 phone: ""
 opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-12:30"

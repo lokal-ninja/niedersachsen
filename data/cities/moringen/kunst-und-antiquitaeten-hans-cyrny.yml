@@ -5,7 +5,7 @@ latitude: 51.735669200000004
 longitude: 9.7882955
 postcode: 37186
 city: Moringen
-street: Solingstraße
+street: "Solingstraße"
 housenumber: 56
 phone: "+49 5555 665"
 opening_hours: ""

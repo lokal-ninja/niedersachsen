@@ -5,7 +5,7 @@ latitude: 52.781401900000006
 longitude: 9.372263400000001
 postcode: 27336
 city: Rethem
-street: Stöckener Straße
+street: "Stöckener Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

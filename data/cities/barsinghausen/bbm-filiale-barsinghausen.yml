@@ -5,7 +5,7 @@ latitude: 52.307816900000006
 longitude: 9.4889223
 postcode: 30890
 city: Barsinghausen
-street: Bunsenstraße
+street: "Bunsenstraße"
 housenumber: 31
 phone: "+49 5105 52840"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"

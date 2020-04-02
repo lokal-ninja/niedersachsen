@@ -5,7 +5,7 @@ latitude: 53.6129443
 longitude: 9.309712000000001
 postcode: 21709
 city: Himmelpforten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr: 9:00-18:30h; Sa: 9:00-16:00h"

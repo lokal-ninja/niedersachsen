@@ -5,7 +5,7 @@ latitude: 53.365845300000004
 longitude: 7.208114800000001
 postcode: 26725
 city: Emden
-street: Faldernstraße
+street: "Faldernstraße"
 housenumber: 24
 phone: "+49 4921 29300"
 opening_hours: "Mo-Sa 10:00-13:00; Mo,Tu,Th,Fr 14:30-18:00"

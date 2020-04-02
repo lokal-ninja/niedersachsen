@@ -5,7 +5,7 @@ latitude: 51.92450650000001
 longitude: 10.4305897
 postcode: 38642
 city: Goslar
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

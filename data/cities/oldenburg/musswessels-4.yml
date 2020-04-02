@@ -5,7 +5,7 @@ latitude: 53.141408600000005
 longitude: 8.2081888
 postcode: 26122
 city: Oldenburg
-street: Friedensplatz
+street: "Friedensplatz"
 housenumber: 1
 phone: "+49 441 25636"
 opening_hours: "Mo-Sa 06:00-18:00; Su 08:00-17:00"

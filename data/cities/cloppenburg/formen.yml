@@ -5,7 +5,7 @@ latitude: 52.844708000000004
 longitude: 8.0367998
 postcode: 49661
 city: Cloppenburg
-street: Soestenstraße
+street: "Soestenstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

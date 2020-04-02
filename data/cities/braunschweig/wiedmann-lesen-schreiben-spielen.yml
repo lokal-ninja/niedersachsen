@@ -5,7 +5,7 @@ latitude: 52.2739575
 longitude: 10.479079200000001
 postcode: 38116
 city: Braunschweig
-street: Sulzbacher Straße
+street: "Sulzbacher Straße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:30,14:30-18:00; Sa 09:00-13:00; Su off"

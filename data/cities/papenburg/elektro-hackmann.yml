@@ -5,7 +5,7 @@ latitude: 53.052342200000005
 longitude: 7.332319900000001
 postcode: 26871
 city: Papenburg
-street: Große Straße
+street: "Große Straße"
 housenumber: 39
 phone: "+49 4962 91130"
 opening_hours: ""

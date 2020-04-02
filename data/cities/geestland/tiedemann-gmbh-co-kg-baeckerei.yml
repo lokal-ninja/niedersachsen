@@ -5,7 +5,7 @@ latitude: 53.606955000000006
 longitude: 8.595611100000001
 postcode: 27607
 city: Geestland
-street: Leher Landstraße
+street: "Leher Landstraße"
 housenumber: 6
 phone: "+49 47433445534"
 opening_hours: ""

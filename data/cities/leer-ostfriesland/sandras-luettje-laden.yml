@@ -5,7 +5,7 @@ latitude: 53.233428700000005
 longitude: 7.465702100000001
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

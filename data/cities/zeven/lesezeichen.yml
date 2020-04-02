@@ -5,7 +5,7 @@ latitude: 53.2920084
 longitude: 9.278038800000001
 postcode: 27404
 city: Zeven
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 36-38
 phone: ""
 opening_hours: ""

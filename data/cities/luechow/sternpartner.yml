@@ -5,7 +5,7 @@ latitude: 52.9678685
 longitude: 11.1451092
 postcode: 29439
 city: Lüchow
-street: Dannenberger Straße
+street: "Dannenberger Straße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"

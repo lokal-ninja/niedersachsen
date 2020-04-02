@@ -5,7 +5,7 @@ latitude: 53.5376757
 longitude: 7.593884
 postcode: 26607
 city: Aurich
-street: Hengstforderweg
+street: "Hengstforderweg"
 housenumber: 2
 phone: "+49 4947 5088840"
 opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-16:00"

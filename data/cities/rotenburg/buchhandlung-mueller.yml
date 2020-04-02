@@ -5,7 +5,7 @@ latitude: 53.1091539
 longitude: 9.404051500000001
 postcode: 27356
 city: Rotenburg
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.639014700000004
 longitude: 9.2064021
 postcode: 31582
 city: Nienburg/Weser
-street: Alte Schulstraße
+street: "Alte Schulstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Tu-Sa 09:30-13:00, Th,Fr 15:00-18:00; PH off"

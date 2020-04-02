@@ -5,7 +5,7 @@ latitude: 52.367477900000004
 longitude: 9.7550509
 postcode: 30171
 city: Hannover
-street: Lutherstraße
+street: "Lutherstraße"
 housenumber: 61
 phone: ""
 opening_hours: "Tu-Fr 08:00-18:00; Sa 09:00-14:00; Su 10:00-13:00"

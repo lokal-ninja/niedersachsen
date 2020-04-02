@@ -5,7 +5,7 @@ latitude: 53.0781142
 longitude: 8.820709800000001
 postcode: 28203
 city: Bremen
-street: Fedelhören
+street: "Fedelhören"
 housenumber: 43
 phone: "+49 421 94406477"
 opening_hours: "Tu-Fr 12:00-18:00; Sa 12:00-16:00"

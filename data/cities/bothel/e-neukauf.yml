@@ -5,7 +5,7 @@ latitude: 53.075652700000006
 longitude: 9.5020016
 postcode: 
 city: Bothel
-street: Wiedaustraße
+street: "Wiedaustraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

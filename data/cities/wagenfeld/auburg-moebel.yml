@@ -5,7 +5,7 @@ latitude: 52.556125300000005
 longitude: 8.581871300000001
 postcode: 49419
 city: Wagenfeld
-street: Am Reuterhof
+street: "Am Reuterhof"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:00"

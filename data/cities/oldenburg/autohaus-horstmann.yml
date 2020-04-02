@@ -5,7 +5,7 @@ latitude: 53.1026023
 longitude: 8.2075557
 postcode: 26133
 city: Oldenburg
-street: Sandkruger Straße
+street: "Sandkruger Straße"
 housenumber: 15
 phone: "+49 441 949990"
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"

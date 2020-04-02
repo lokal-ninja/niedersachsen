@@ -5,7 +5,7 @@ latitude: 53.3267377
 longitude: 7.525912000000001
 postcode: 26802
 city: Moormerland
-street: Westerwieke
+street: "Westerwieke"
 housenumber: 51
 phone: ""
 opening_hours: "Mo-Tu,Th-Fr 08:00-12:00,14:00-18:00; We,Sa 08:00-13:00; PH off"

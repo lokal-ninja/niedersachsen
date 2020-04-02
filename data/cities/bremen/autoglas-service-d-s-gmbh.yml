@@ -5,7 +5,7 @@ latitude: 53.0634948
 longitude: 8.7705031
 postcode: 28199
 city: Bremen
-street: Duckwitzstraße
+street: "Duckwitzstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.4198144
 longitude: 9.8335405
 postcode: 30659
 city: Hannover
-street: Rendsburger Straße
+street: "Rendsburger Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"

@@ -5,7 +5,7 @@ latitude: 52.1553808
 longitude: 9.955401700000001
 postcode: 31134
 city: Hildesheim
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Th-Fr 14:00-19:00; Sa 11:00-16:00"

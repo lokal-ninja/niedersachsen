@@ -5,7 +5,7 @@ latitude: 53.088483200000006
 longitude: 8.8090138
 postcode: 28215
 city: Bremen
-street: Findorffstraße
+street: "Findorffstraße"
 housenumber: 46,48
 phone: "+49 421 68558420"
 opening_hours: "Mo,Th 12:00-19:00; Tu,We,Fr 12:00-18:00; Sa 10:00-16:00"

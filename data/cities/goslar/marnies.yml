@@ -5,7 +5,7 @@ latitude: 51.8593708
 longitude: 10.3404495
 postcode: 38644
 city: Goslar
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

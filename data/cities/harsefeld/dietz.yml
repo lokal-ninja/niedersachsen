@@ -5,7 +5,7 @@ latitude: 53.4554314
 longitude: 9.512755700000001
 postcode: 21698
 city: Harsefeld
-street: Paschberg
+street: "Paschberg"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 51.530387600000005
 longitude: 9.9382211
 postcode: 
 city: Göttingen
-street: Kurze-Geismar-Straße
+street: "Kurze-Geismar-Straße"
 housenumber: 3-5
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su,PH 08:00-17:00; Jan 1 off; May 1 off"

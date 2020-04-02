@@ -5,7 +5,7 @@ latitude: 52.608425000000004
 longitude: 8.3693843
 postcode: 49356
 city: Diepholz
-street: Lappenberger Rott
+street: "Lappenberger Rott"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su off; PH off"

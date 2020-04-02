@@ -5,7 +5,7 @@ latitude: 53.4163421
 longitude: 7.9730962000000005
 postcode: 26340
 city: Zetel
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

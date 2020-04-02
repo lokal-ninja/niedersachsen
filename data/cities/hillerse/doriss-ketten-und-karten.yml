@@ -5,7 +5,7 @@ latitude: 52.4170541
 longitude: 10.3974443
 postcode: 38543
 city: Hillerse
-street: Poststraße
+street: "Poststraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5449446
 longitude: 8.5901671
 postcode: 49419
 city: Wagenfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 65
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa-Su,PH off"

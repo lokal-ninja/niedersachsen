@@ -5,7 +5,7 @@ latitude: 53.227113800000005
 longitude: 10.1605831
 postcode: 21376
 city: Salzhausen
-street: Alte Baumschule
+street: "Alte Baumschule"
 housenumber: 2
 phone: "+49 4172 7474"
 opening_hours: "Mo-Sa 08:00-20:00"

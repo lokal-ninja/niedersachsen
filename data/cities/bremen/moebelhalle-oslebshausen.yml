@@ -5,7 +5,7 @@ latitude: 53.1339679
 longitude: 8.7362175
 postcode: 28239
 city: Bremen
-street: Oslebshauser Heerstraße
+street: "Oslebshauser Heerstraße"
 housenumber: 125
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00; Su,PH off"

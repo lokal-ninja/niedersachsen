@@ -5,7 +5,7 @@ latitude: 53.1419785
 longitude: 8.2564238
 postcode: 26135
 city: Oldenburg
-street: Werrastraße
+street: "Werrastraße"
 housenumber: 3
 phone: "+49 441 209622 0"
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.5282379
 longitude: 8.109697500000001
 postcode: 26382
 city: Wilhelmshaven
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 10
 phone: "+49 4421 23424"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; PH off"

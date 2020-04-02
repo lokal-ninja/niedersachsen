@@ -5,7 +5,7 @@ latitude: 52.1522486
 longitude: 10.3290503
 postcode: 38226
 city: Salzgitter
-street: Albert-Schweitzer-Straße
+street: "Albert-Schweitzer-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

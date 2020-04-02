@@ -5,7 +5,7 @@ latitude: 52.5229019
 longitude: 9.0774652
 postcode: 31592
 city: Stolzenau
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

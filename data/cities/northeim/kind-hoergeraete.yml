@@ -5,7 +5,7 @@ latitude: 51.7059903
 longitude: 9.9999371
 postcode: 
 city: Northeim
-street: Markt
+street: "Markt"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"

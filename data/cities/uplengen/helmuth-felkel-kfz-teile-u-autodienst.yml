@@ -5,7 +5,7 @@ latitude: 53.2644529
 longitude: 7.7541688
 postcode: 26670
 city: Uplengen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 7
 phone: "+49 4956 3238"
 opening_hours: ""

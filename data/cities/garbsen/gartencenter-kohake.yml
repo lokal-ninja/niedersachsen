@@ -5,7 +5,7 @@ latitude: 52.42308190000001
 longitude: 9.5919979
 postcode: 30823
 city: Garbsen
-street: Berenbosteler Straße
+street: "Berenbosteler Straße"
 housenumber: 76
 phone: ""
 opening_hours: ""

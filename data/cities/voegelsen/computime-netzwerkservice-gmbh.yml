@@ -5,7 +5,7 @@ latitude: 53.2725042
 longitude: 10.3528379
 postcode: 21360
 city: Vögelsen
-street: Eichenweg
+street: "Eichenweg"
 housenumber: 1
 phone: "+49 4131 799070"
 opening_hours: "Mo-Fr 09:00-18:00"

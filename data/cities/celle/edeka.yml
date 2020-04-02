@@ -5,7 +5,7 @@ latitude: 52.6006274
 longitude: 10.1097482
 postcode: 29227
 city: Celle
-street: Lärchenweg
+street: "Lärchenweg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 06:30-21:00"

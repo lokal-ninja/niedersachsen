@@ -5,7 +5,7 @@ latitude: 52.631873500000005
 longitude: 10.044971400000001
 postcode: 29223
 city: Celle
-street: Witzlebenstraße
+street: "Witzlebenstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00"

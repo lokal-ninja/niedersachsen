@@ -5,7 +5,7 @@ latitude: 52.272003500000004
 longitude: 8.0383745
 postcode: 49080
 city: Osnabrück
-street: Martinistraße
+street: "Martinistraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo 10:00-18:00; Tu 10:00-19:00; We 10:00-18:00; Th-Fr 10:00-20:00; Sa 10:00-15:00"

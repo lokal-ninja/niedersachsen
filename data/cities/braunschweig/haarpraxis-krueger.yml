@@ -5,7 +5,7 @@ latitude: 52.263344800000006
 longitude: 10.5209928
 postcode: 38100
 city: Braunschweig
-street: Schuhstraße
+street: "Schuhstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-13:00"

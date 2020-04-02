@@ -5,7 +5,7 @@ latitude: 52.265152
 longitude: 10.2059429
 postcode: 31241
 city: Ilsede
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 12
 phone: "+49 5172 6263"
 opening_hours: ""

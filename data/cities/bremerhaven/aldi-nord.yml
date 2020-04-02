@@ -5,7 +5,7 @@ latitude: 53.580312600000006
 longitude: 8.5984915
 postcode: 27580
 city: Bremerhaven
-street: Langener Landstraße
+street: "Langener Landstraße"
 housenumber: 160
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

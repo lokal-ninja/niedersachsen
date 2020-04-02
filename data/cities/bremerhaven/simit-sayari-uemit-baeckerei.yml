@@ -5,7 +5,7 @@ latitude: 53.558967700000004
 longitude: 8.5855776
 postcode: 27576
 city: Bremerhaven
-street: Hafenstraße
+street: "Hafenstraße"
 housenumber: 131
 phone: ""
 opening_hours: ""

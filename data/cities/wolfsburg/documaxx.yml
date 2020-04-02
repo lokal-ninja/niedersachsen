@@ -5,7 +5,7 @@ latitude: 52.41781760000001
 longitude: 10.787803100000001
 postcode: 38440
 city: Wolfsburg
-street: Bebelstraße
+street: "Bebelstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 9:00-18:00; Sa 10:00-13:00"

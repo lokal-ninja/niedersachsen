@@ -5,7 +5,7 @@ latitude: 52.914651500000005
 longitude: 9.2336428
 postcode: 27283
 city: Verden
-street: Eitzer Straße
+street: "Eitzer Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00; Su off"

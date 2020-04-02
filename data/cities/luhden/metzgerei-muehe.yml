@@ -5,7 +5,7 @@ latitude: 52.2291955
 longitude: 9.0945245
 postcode: 31711
 city: Luhden
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 1a
 phone: "+49 5772 981611"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 06:00-13:00"

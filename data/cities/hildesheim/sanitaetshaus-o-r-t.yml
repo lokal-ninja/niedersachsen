@@ -5,7 +5,7 @@ latitude: 52.158861200000004
 longitude: 9.966420600000001
 postcode: 31135
 city: Hildesheim
-street: Bismarckplatz
+street: "Bismarckplatz"
 housenumber: 10-11
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-13:00; PH off"

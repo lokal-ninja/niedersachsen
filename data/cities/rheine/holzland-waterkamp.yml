@@ -5,7 +5,7 @@ latitude: 52.3148203
 longitude: 7.434120600000001
 postcode: 48432
 city: Rheine
-street: Röntgenstraße
+street: "Röntgenstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

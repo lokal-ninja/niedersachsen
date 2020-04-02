@@ -5,7 +5,7 @@ latitude: 52.525952100000005
 longitude: 10.3636838
 postcode: 38539
 city: Müden (Aller)
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

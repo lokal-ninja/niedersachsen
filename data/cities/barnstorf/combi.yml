@@ -5,7 +5,7 @@ latitude: 52.7064188
 longitude: 8.4936357
 postcode: 49406
 city: Barnstorf
-street: Poggenkuhle
+street: "Poggenkuhle"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

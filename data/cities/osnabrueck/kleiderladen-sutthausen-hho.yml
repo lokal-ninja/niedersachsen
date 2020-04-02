@@ -5,7 +5,7 @@ latitude: 52.2319091
 longitude: 8.0306957
 postcode: 49082
 city: Osnabrück
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

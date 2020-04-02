@@ -5,7 +5,7 @@ latitude: 53.108086
 longitude: 9.142151700000001
 postcode: 28870
 city: Ottersberg
-street: Große Straße
+street: "Große Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

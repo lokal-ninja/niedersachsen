@@ -5,7 +5,7 @@ latitude: 52.133627700000005
 longitude: 10.292628800000001
 postcode: 38228
 city: Salzgitter
-street: Burgbergstraße
+street: "Burgbergstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

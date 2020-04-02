@@ -5,7 +5,7 @@ latitude: 53.191121100000004
 longitude: 11.0482109
 postcode: 19273
 city: Amt Neuhaus
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

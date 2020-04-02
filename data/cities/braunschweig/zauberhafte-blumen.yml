@@ -5,7 +5,7 @@ latitude: 52.26915880000001
 longitude: 10.5389721
 postcode: 38106
 city: Braunschweig
-street: Hagenring
+street: "Hagenring"
 housenumber: 4
 phone: "+49 531 39078299"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"

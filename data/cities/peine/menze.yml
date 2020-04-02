@@ -5,7 +5,7 @@ latitude: 52.305037500000005
 longitude: 10.3131459
 postcode: 31224
 city: Peine
-street: Stegmannstraße
+street: "Stegmannstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2955364
 longitude: 8.063974400000001
 postcode: 49088
 city: Osnabrück
-street: Haster Weg
+street: "Haster Weg"
 housenumber: 133
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1116851
 longitude: 8.4499069
 postcode: 27798
 city: Hude
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

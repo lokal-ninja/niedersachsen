@@ -5,7 +5,7 @@ latitude: 52.8873163
 longitude: 10.8921303
 postcode: 29465
 city: Schnega
-street: Gartenweg
+street: "Gartenweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

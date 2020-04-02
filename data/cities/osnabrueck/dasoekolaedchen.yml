@@ -5,7 +5,7 @@ latitude: 52.2743405
 longitude: 8.0439378
 postcode: 49074
 city: Osnabrück
-street: Redlingerstraße
+street: "Redlingerstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 11:00-18:00"

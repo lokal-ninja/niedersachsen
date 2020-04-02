@@ -5,7 +5,7 @@ latitude: 52.4377453
 longitude: 10.0104092
 postcode: 31303
 city: Burgdorf
-street: Depenauerweg
+street: "Depenauerweg"
 housenumber: 
 phone: ""
 opening_hours: ""

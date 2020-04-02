@@ -5,7 +5,7 @@ latitude: 51.908636800000004
 longitude: 10.4285829
 postcode: 38640
 city: Goslar
-street: Vogelsang
+street: "Vogelsang"
 housenumber: 8
 phone: ""
 opening_hours: "We-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00 || Nach Vereinbarung"

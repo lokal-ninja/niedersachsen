@@ -5,7 +5,7 @@ latitude: 52.4173325
 longitude: 7.9783727
 postcode: 49565
 city: Bramsche
-street: Nordtangente
+street: "Nordtangente"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:30"

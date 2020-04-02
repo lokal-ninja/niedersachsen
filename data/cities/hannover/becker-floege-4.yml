@@ -5,7 +5,7 @@ latitude: 52.3614162
 longitude: 9.8272578
 postcode: 30559
 city: Hannover
-street: Tiergartenstraße
+street: "Tiergartenstraße"
 housenumber: 118
 phone: ""
 opening_hours: "08:30 - 18:00"

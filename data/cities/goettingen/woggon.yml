@@ -5,7 +5,7 @@ latitude: 51.533813800000004
 longitude: 9.9375149
 postcode: 37073
 city: Göttingen
-street: Barfüßerstraße
+street: "Barfüßerstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off"

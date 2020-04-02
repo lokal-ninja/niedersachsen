@@ -5,7 +5,7 @@ latitude: 52.6236897
 longitude: 10.086179300000001
 postcode: 29221
 city: Celle
-street: Altencellertorstraße
+street: "Altencellertorstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-16:00"

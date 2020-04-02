@@ -5,7 +5,7 @@ latitude: 52.0207168
 longitude: 10.4321757
 postcode: 38704
 city: Liebenburg
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo 9:00-13:00; Tu-Fr 9:00-13:00, 16:00-18:00; Sa 9:00-13:00"

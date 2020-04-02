@@ -5,7 +5,7 @@ latitude: 52.413902
 longitude: 9.797584
 postcode: 30659
 city: Hannover
-street: Sutelstraße
+street: "Sutelstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

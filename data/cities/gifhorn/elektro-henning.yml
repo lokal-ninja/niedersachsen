@@ -5,7 +5,7 @@ latitude: 52.468792300000004
 longitude: 10.5465157
 postcode: 38518
 city: Gifhorn
-street: Sonnenweg
+street: "Sonnenweg"
 housenumber: 3
 phone: ""
 opening_hours: ""

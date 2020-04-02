@@ -5,7 +5,7 @@ latitude: 53.4924382
 longitude: 8.5979221
 postcode: 27572
 city: Bremerhaven
-street: Carsten-Börger-Straße
+street: "Carsten-Börger-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

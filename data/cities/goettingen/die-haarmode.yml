@@ -5,7 +5,7 @@ latitude: 51.5289543
 longitude: 9.9294543
 postcode: 37073
 city: Göttingen
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

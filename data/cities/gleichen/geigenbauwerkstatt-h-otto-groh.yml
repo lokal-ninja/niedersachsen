@@ -5,7 +5,7 @@ latitude: 51.4735121
 longitude: 9.980875300000001
 postcode: 
 city: Gleichen
-street: Marienburger Weg
+street: "Marienburger Weg"
 housenumber: 15
 phone: ""
 opening_hours: "off nur nach Vereinbarung"

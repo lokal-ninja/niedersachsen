@@ -5,7 +5,7 @@ latitude: 52.382262700000005
 longitude: 10.5343006
 postcode: 38527
 city: Meine
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"

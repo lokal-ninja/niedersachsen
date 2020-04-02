@@ -5,7 +5,7 @@ latitude: 52.522786700000005
 longitude: 7.316055700000001
 postcode: 49808
 city: Lingen (Ems)
-street: Große Straße
+street: "Große Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 09:30-18:30; PH off"

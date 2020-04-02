@@ -5,7 +5,7 @@ latitude: 52.372232700000005
 longitude: 9.7377562
 postcode: 30159
 city: Hannover
-street: Karmarschstraße
+street: "Karmarschstraße"
 housenumber: 31
 phone: "+49 1805 577678 49"
 opening_hours: "Mo-Sa 10:00-19:00"

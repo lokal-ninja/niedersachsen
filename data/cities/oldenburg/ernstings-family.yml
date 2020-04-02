@@ -5,7 +5,7 @@ latitude: 53.1686835
 longitude: 8.215238600000001
 postcode: 26127
 city: Oldenburg
-street: Scheideweg
+street: "Scheideweg"
 housenumber: 100
 phone: "+49 2546 9899998"
 opening_hours: "Mo-Sa 09:00-21:00"

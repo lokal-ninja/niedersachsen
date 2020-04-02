@@ -5,7 +5,7 @@ latitude: 51.572397800000005
 longitude: 9.935275800000001
 postcode: 37077
 city: Göttingen
-street: Ludwig-Prandtl-Straße
+street: "Ludwig-Prandtl-Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-11:00; PH off"

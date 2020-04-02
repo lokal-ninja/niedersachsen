@@ -5,7 +5,7 @@ latitude: 53.1795333
 longitude: 10.3498947
 postcode: 21409
 city: Embsen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-13:30"

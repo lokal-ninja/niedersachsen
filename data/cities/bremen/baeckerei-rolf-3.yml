@@ -5,7 +5,7 @@ latitude: 53.069306000000005
 longitude: 8.8706701
 postcode: 28207
 city: Bremen
-street: Legienstraße
+street: "Legienstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"

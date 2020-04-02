@@ -5,7 +5,7 @@ latitude: 53.099288900000005
 longitude: 9.9781209
 postcode: 29646
 city: Bispingen
-street: Behringer Straße
+street: "Behringer Straße"
 housenumber: 63
 phone: "+49 5194 9707084"
 opening_hours: "24/7"

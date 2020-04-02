@@ -5,7 +5,7 @@ latitude: 53.091577300000004
 longitude: 8.807407000000001
 postcode: 28215
 city: Bremen
-street: Herbststraße
+street: "Herbststraße"
 housenumber: 97
 phone: ""
 opening_hours: ""

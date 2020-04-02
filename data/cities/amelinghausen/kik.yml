@@ -5,7 +5,7 @@ latitude: 53.129730800000004
 longitude: 10.2145673
 postcode: 21385
 city: Amelinghausen
-street: Grenzweg
+street: "Grenzweg"
 housenumber: 2c
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"

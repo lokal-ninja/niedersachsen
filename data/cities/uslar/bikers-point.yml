@@ -5,7 +5,7 @@ latitude: 51.655971
 longitude: 9.656207100000001
 postcode: 37170
 city: Uslar
-street: Ernst-Reuter-Straße
+street: "Ernst-Reuter-Straße"
 housenumber: 6b
 phone: "+49 5571 912093"
 opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-15:00; Su 11:00-18:00"

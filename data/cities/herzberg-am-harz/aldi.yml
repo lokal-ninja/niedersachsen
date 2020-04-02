@@ -5,7 +5,7 @@ latitude: 51.6498476
 longitude: 10.331895900000001
 postcode: 37412
 city: Herzberg am Harz
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

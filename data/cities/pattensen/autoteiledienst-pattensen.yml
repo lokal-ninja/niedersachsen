@@ -5,7 +5,7 @@ latitude: 52.259318400000005
 longitude: 9.76345
 postcode: 30982
 city: Pattensen
-street: Braunschweiger Straße
+street: "Braunschweiger Straße"
 housenumber: 11
 phone: "+49 5101 128 91"
 opening_hours: ""

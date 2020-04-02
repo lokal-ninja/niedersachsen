@@ -5,7 +5,7 @@ latitude: 51.6253625
 longitude: 10.160554600000001
 postcode: 
 city: Bilshausen
-street: Kapellenweg
+street: "Kapellenweg"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00; PH off"

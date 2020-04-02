@@ -5,7 +5,7 @@ latitude: 53.1685858
 longitude: 7.349379000000001
 postcode: 26826
 city: Weener
-street: Neue Feldstraße
+street: "Neue Feldstraße"
 housenumber: 4
 phone: "+49 4951 912043"
 opening_hours: "Mo-Sa 07:30-21:00"

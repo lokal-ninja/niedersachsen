@@ -5,7 +5,7 @@ latitude: 53.2182139
 longitude: 8.2350369
 postcode: 26180
 city: Rastede
-street: Tannenkrugstraße
+street: "Tannenkrugstraße"
 housenumber: 31
 phone: "+49 4402 82247"
 opening_hours: ""

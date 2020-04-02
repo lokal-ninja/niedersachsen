@@ -5,7 +5,7 @@ latitude: 52.7312894
 longitude: 8.270291
 postcode: 49377
 city: Vechta
-street: Falkenrotter Straße
+street: "Falkenrotter Straße"
 housenumber: 151
 phone: "+49 4441 91440"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

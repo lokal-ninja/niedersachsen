@@ -5,7 +5,7 @@ latitude: 53.172611
 longitude: 8.1575966
 postcode: 26160
 city: Bad Zwischenahn
-street: August-Hinrichs-Straße
+street: "August-Hinrichs-Straße"
 housenumber: 47
 phone: ""
 opening_hours: "Tu-Fr 08:30-13:00,14:00-18:00; Sa 08:00-12:00"

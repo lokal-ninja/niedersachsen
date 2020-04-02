@@ -5,7 +5,7 @@ latitude: 52.34542870000001
 longitude: 8.2259218
 postcode: 49179
 city: Ostercappeln
-street: Venner Straße
+street: "Venner Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

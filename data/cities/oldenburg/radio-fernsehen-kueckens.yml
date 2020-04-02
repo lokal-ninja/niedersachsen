@@ -5,7 +5,7 @@ latitude: 53.111690100000004
 longitude: 8.210055500000001
 postcode: 26133
 city: Oldenburg
-street: Cloppenburger Straße
+street: "Cloppenburger Straße"
 housenumber: 302
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00"

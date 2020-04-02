@@ -5,7 +5,7 @@ latitude: 53.367870700000005
 longitude: 7.2040636000000005
 postcode: 26721
 city: Emden
-street: Neuer Markt
+street: "Neuer Markt"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

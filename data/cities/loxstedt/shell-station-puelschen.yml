@@ -5,7 +5,7 @@ latitude: 53.4825493
 longitude: 8.6869105
 postcode: 27612
 city: Loxstedt
-street: Bundesstraße
+street: "Bundesstraße"
 housenumber: 27a
 phone: "+49 4703 921920"
 opening_hours: "24/7"

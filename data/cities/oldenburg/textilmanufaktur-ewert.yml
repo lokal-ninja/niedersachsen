@@ -5,7 +5,7 @@ latitude: 53.147912600000005
 longitude: 8.2158957
 postcode: 26123
 city: Oldenburg
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 8
 phone: "+49 441 36102992"
 opening_hours: ""

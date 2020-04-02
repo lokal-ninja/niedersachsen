@@ -5,7 +5,7 @@ latitude: 52.152821700000004
 longitude: 9.9539431
 postcode: 31134
 city: Hildesheim
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 23
 phone: "+49 5121 2829747"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.6026948
 longitude: 9.486321400000001
 postcode: 21680
 city: Stade
-street: Altländer Straße
+street: "Altländer Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.318574000000005
 longitude: 9.6643313
 postcode: 21258
 city: Heidenau
-street: Hollenstedter Straße
+street: "Hollenstedter Straße"
 housenumber: 12
 phone: "+49 4182 288929"
 opening_hours: "Mo-Fr 11:00-12:45,14:00-18:00"

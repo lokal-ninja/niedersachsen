@@ -5,7 +5,7 @@ latitude: 53.146226500000004
 longitude: 8.2113414
 postcode: 26121
 city: Oldenburg
-street: Pferdemarkt
+street: "Pferdemarkt"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

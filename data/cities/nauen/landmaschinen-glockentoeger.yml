@@ -5,7 +5,7 @@ latitude: 51.9780614
 longitude: 10.234462
 postcode: 38729
 city: Nauen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 8:00-12:15, 13:00-17:00"

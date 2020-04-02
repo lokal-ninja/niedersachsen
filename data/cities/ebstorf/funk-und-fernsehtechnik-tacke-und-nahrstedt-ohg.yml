@@ -5,7 +5,7 @@ latitude: 53.028283
 longitude: 10.412601800000001
 postcode: 29574
 city: Ebstorf
-street: Uelzener Straße
+street: "Uelzener Straße"
 housenumber: 32
 phone: "+49 5822 1311"
 opening_hours: ""

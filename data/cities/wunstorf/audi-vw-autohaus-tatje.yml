@@ -5,7 +5,7 @@ latitude: 52.4509808
 longitude: 9.355839900000001
 postcode: 31515
 city: Wunstorf
-street: Im Sandbrinke
+street: "Im Sandbrinke"
 housenumber: 1a
 phone: "+49 5033 8000"
 opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-13:00"

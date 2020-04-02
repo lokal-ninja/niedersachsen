@@ -5,7 +5,7 @@ latitude: 53.541085200000005
 longitude: 7.9484564
 postcode: 26419
 city: Schortens
-street: Menkestraße
+street: "Menkestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

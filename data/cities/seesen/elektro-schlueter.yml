@@ -5,7 +5,7 @@ latitude: 51.941042
 longitude: 10.127251900000001
 postcode: 38723
 city: Seesen
-street: Schlackenstraße
+street: "Schlackenstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

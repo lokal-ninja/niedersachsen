@@ -5,7 +5,7 @@ latitude: 52.319430700000005
 longitude: 9.7860834
 postcode: 30880
 city: Laatzen
-street: Hildesheimer Straße
+street: "Hildesheimer Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

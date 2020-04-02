@@ -5,7 +5,7 @@ latitude: 52.4259276
 longitude: 9.593800400000001
 postcode: 30823
 city: Garbsen
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 2
 phone: "+49 5131 4870211"
 opening_hours: ""

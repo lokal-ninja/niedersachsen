@@ -5,7 +5,7 @@ latitude: 53.088767100000005
 longitude: 8.832881
 postcode: 28209
 city: Bremen
-street: Otto-Gildemeister-Straße
+street: "Otto-Gildemeister-Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

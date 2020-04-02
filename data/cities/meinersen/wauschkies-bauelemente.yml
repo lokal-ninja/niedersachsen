@@ -5,7 +5,7 @@ latitude: 52.4814018
 longitude: 10.3595349
 postcode: 38536
 city: Meinersen
-street: Auf der Schafweide
+street: "Auf der Schafweide"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Th 07:00-12:00,14:00-17:00, Fr 07:00-15:00"

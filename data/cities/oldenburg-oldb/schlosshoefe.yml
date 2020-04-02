@@ -5,7 +5,7 @@ latitude: 53.1389888
 longitude: 8.2166197
 postcode: 
 city: Oldenburg (Oldb)
-street: Schloßplatz
+street: "Schloßplatz"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

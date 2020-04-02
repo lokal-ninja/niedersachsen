@@ -5,7 +5,7 @@ latitude: 53.290655900000004
 longitude: 9.731648900000001
 postcode: 21255
 city: Tostedt
-street: Friedrich-Vorwerk-Straße
+street: "Friedrich-Vorwerk-Straße"
 housenumber: 8
 phone: "+49 4182 287883"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.515332900000004
 longitude: 7.317084
 postcode: 49808
 city: Lingen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

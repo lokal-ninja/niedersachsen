@@ -5,7 +5,7 @@ latitude: 52.438873
 longitude: 9.738265700000001
 postcode: 30853
 city: Langenhagen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

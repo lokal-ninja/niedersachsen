@@ -5,7 +5,7 @@ latitude: 52.226603000000004
 longitude: 10.538127000000001
 postcode: 38124
 city: Braunschweig
-street: Stettinstraße
+street: "Stettinstraße"
 housenumber: 3 A
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su off"

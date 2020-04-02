@@ -5,7 +5,7 @@ latitude: 53.5740993
 longitude: 8.0905108
 postcode: 26388
 city: Wilhelmshaven
-street: Posener Straße
+street: "Posener Straße"
 housenumber: 56
 phone: "+49 4421 52085"
 opening_hours: ""

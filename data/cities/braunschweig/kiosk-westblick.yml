@@ -5,7 +5,7 @@ latitude: 52.247627
 longitude: 10.4869783
 postcode: 38120
 city: Braunschweig
-street: Donaustraße
+street: "Donaustraße"
 housenumber: 1 A
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 10:00-19:00"

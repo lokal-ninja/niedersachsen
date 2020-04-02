@@ -5,7 +5,7 @@ latitude: 52.6392529
 longitude: 10.0768869
 postcode: 29223
 city: Celle
-street: Telefunkenstraße
+street: "Telefunkenstraße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-We 08:00-20:00; Th-Sa 08:00-21:00"

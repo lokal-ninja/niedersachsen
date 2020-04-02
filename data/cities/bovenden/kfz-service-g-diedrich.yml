@@ -5,7 +5,7 @@ latitude: 51.5872456
 longitude: 9.9243571
 postcode: 
 city: Bovenden
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

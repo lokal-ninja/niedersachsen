@@ -5,7 +5,7 @@ latitude: 51.5931178
 longitude: 9.926744900000001
 postcode: 
 city: Bovenden
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

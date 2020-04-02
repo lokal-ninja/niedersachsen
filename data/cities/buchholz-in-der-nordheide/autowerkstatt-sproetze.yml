@@ -5,7 +5,7 @@ latitude: 53.3085144
 longitude: 9.8030807
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Hannoversche Straße
+street: "Hannoversche Straße"
 housenumber: 1
 phone: "+49 4186 222"
 opening_hours: ""

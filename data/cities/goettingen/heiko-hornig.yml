@@ -5,7 +5,7 @@ latitude: 51.5388127
 longitude: 9.9425504
 postcode: 37073
 city: Göttingen
-street: Bühlstraße
+street: "Bühlstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"

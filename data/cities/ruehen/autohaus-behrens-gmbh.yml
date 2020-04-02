@@ -5,7 +5,7 @@ latitude: 52.477993700000006
 longitude: 10.8741301
 postcode: 38471
 city: Rühen
-street: Vorsfelder Straße
+street: "Vorsfelder Straße"
 housenumber: 3
 phone: "+49 5367978060"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00"

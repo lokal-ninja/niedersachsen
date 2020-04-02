@@ -5,7 +5,7 @@ latitude: 53.1412254
 longitude: 8.211294200000001
 postcode: 26122
 city: Oldenburg
-street: Kurwickstraße
+street: "Kurwickstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

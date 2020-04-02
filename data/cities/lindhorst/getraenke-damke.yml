@@ -5,7 +5,7 @@ latitude: 52.3537515
 longitude: 9.2891221
 postcode: 31698
 city: Lindhorst
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 3a
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

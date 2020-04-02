@@ -5,7 +5,7 @@ latitude: 52.938142500000005
 longitude: 10.5283651
 postcode: 29525
 city: Uelzen
-street: Celler Straße
+street: "Celler Straße"
 housenumber: 138
 phone: "+49 581 2910"
 opening_hours: ""

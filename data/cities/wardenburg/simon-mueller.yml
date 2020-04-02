@@ -5,7 +5,7 @@ latitude: 53.049185300000005
 longitude: 8.210989900000001
 postcode: 26203
 city: Wardenburg
-street: Hardenbergstraße
+street: "Hardenbergstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

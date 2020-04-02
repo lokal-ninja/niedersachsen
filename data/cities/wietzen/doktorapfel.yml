@@ -5,7 +5,7 @@ latitude: 52.712442200000005
 longitude: 9.0823984
 postcode: 31613
 city: Wietzen
-street: Kirchplatz
+street: "Kirchplatz"
 housenumber: 33
 phone: "+49 50229448747"
 opening_hours: ""

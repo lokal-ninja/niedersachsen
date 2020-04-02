@@ -5,7 +5,7 @@ latitude: 53.12706
 longitude: 8.902829
 postcode: 28357
 city: Bremen
-street: Borgfelder Heerstraße
+street: "Borgfelder Heerstraße"
 housenumber: 
 phone: "+49 421 2769676"
 opening_hours: "Mo-Sa 09:00-13:00; Mo,Tu,Th,Fr 15:00-18:00; PH off"

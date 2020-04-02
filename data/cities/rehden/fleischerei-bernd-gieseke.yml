@@ -5,7 +5,7 @@ latitude: 52.6111433
 longitude: 8.482226
 postcode: 49453
 city: Rehden
-street: Dickeler Straße
+street: "Dickeler Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo 05:30-13:00; Tu-Fr 05:30-18:00; Sa 05:30-12:30"

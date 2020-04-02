@@ -5,7 +5,7 @@ latitude: 53.2253431
 longitude: 8.5915649
 postcode: 28790
 city: Schwanewede
-street: Hospitalstraße
+street: "Hospitalstraße"
 housenumber: 8
 phone: "+49 4209 9869333"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"

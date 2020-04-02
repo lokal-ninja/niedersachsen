@@ -5,7 +5,7 @@ latitude: 53.1795825
 longitude: 7.983463700000001
 postcode: 26160
 city: Bad Zwischenahn
-street: Diekweg
+street: "Diekweg"
 housenumber: 56
 phone: "+49 4403 3341"
 opening_hours: ""

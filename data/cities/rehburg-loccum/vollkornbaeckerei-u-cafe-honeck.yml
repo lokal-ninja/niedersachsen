@@ -5,7 +5,7 @@ latitude: 52.4470352
 longitude: 9.260480900000001
 postcode: 31547
 city: Rehburg-Loccum
-street: Südstraße
+street: "Südstraße"
 housenumber: 14
 phone: "+49 5037 5433"
 opening_hours: "Apr-Sep Sa,Su,PH 11:00-18:00"

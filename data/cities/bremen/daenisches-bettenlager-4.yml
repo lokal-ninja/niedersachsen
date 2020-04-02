@@ -5,7 +5,7 @@ latitude: 53.1012986
 longitude: 8.787099000000001
 postcode: 28219
 city: Bremen
-street: Waller Heerstraße
+street: "Waller Heerstraße"
 housenumber: 101
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

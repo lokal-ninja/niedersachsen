@@ -5,7 +5,7 @@ latitude: 52.987086600000005
 longitude: 10.7519307
 postcode: 29571
 city: Rosche
-street: Bevensener Straße
+street: "Bevensener Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

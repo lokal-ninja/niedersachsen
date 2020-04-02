@@ -5,7 +5,7 @@ latitude: 53.5373503
 longitude: 7.9394055
 postcode: 26419
 city: Schortens
-street: Mühlenweg
+street: "Mühlenweg"
 housenumber: 61
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

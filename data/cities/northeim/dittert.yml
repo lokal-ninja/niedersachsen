@@ -5,7 +5,7 @@ latitude: 51.705927700000004
 longitude: 10.002054900000001
 postcode: 
 city: Northeim
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 44
 phone: ""
 opening_hours: ""

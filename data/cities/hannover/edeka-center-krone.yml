@@ -5,7 +5,7 @@ latitude: 52.384885600000004
 longitude: 9.6701677
 postcode: 30453
 city: Hannover
-street: Am Bahndamm
+street: "Am Bahndamm"
 housenumber: 17
 phone: "+49 511 3576980"
 opening_hours: "Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00"

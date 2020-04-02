@@ -5,7 +5,7 @@ latitude: 52.409323900000004
 longitude: 10.402747900000001
 postcode: 38543
 city: Hillerse
-street: Rolfsbütteler Straße
+street: "Rolfsbütteler Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

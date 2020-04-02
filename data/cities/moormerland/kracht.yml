@@ -5,7 +5,7 @@ latitude: 53.3210635
 longitude: 7.4866435000000005
 postcode: 
 city: Moormerland
-street: Dr.-Warsing-Straße
+street: "Dr.-Warsing-Straße"
 housenumber: 73
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00;Sa 09:00-13:00"

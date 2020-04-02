@@ -5,7 +5,7 @@ latitude: 52.522521100000006
 longitude: 7.3184718
 postcode: 49808
 city: Lingen (Ems)
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.549329
 longitude: 8.574566500000001
 postcode: 27568
 city: Bremerhaven
-street: Grazer Straße
+street: "Grazer Straße"
 housenumber: 76
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.1527175
 longitude: 9.9633479
 postcode: 31141
 city: Hildesheim
-street: Steingrube
+street: "Steingrube"
 housenumber: 18A
 phone: ""
 opening_hours: "Mo-Th 08:30-17:00; Fr 08:30-12:00+"

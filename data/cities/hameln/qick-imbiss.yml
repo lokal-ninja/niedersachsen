@@ -5,7 +5,7 @@ latitude: 52.1018343
 longitude: 9.363057300000001
 postcode: 
 city: Hameln
-street: Wilhelmsplatz
+street: "Wilhelmsplatz"
 housenumber: 11
 phone: ""
 opening_hours: ""

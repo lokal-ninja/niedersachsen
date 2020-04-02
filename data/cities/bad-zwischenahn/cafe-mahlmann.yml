@@ -5,7 +5,7 @@ latitude: 53.2143857
 longitude: 8.0211286
 postcode: 26160
 city: Bad Zwischenahn
-street: Dreiberger Straße
+street: "Dreiberger Straße"
 housenumber: 8
 phone: "+49 4403 8350"
 opening_hours: ""

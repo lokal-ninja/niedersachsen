@@ -5,7 +5,7 @@ latitude: 52.315043200000005
 longitude: 9.6135255
 postcode: 30989
 city: Gehrden
-street: Nikolaus-Otto-Straße
+street: "Nikolaus-Otto-Straße"
 housenumber: 7
 phone: "+49 5108 9127842"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.9879776
 longitude: 9.833908300000001
 postcode: 29614
 city: Soltau
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 14:00-18:00"

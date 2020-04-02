@@ -5,7 +5,7 @@ latitude: 52.106216100000005
 longitude: 9.357423
 postcode: 31785
 city: Hameln
-street: Baustraße
+street: "Baustraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

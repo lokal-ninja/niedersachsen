@@ -5,7 +5,7 @@ latitude: 52.1928617
 longitude: 8.5253285
 postcode: 32257
 city: Bünde
-street: Osnabrücker Straße
+street: "Osnabrücker Straße"
 housenumber: 269-271
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

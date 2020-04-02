@@ -5,7 +5,7 @@ latitude: 53.394538100000005
 longitude: 8.1417088
 postcode: 26316
 city: Varel
-street: Haferkampstraße
+street: "Haferkampstraße"
 housenumber: 2b
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.9387151
 longitude: 8.4207632
 postcode: 27801
 city: Dötlingen
-street: Wildeshauser Straße
+street: "Wildeshauser Straße"
 housenumber: 8
 phone: "+49 4433500"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.446446200000004
 longitude: 10.0044082
 postcode: 31303
 city: Burgdorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

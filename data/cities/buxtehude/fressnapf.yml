@@ -5,7 +5,7 @@ latitude: 53.476337300000004
 longitude: 9.7088408
 postcode: 21614
 city: Buxtehude
-street: Harburger Straße
+street: "Harburger Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

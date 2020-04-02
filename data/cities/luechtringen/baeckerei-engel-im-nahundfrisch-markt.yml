@@ -5,7 +5,7 @@ latitude: 51.7954353
 longitude: 9.426575300000001
 postcode: 37671
 city: Lüchtringen
-street: Braunschweiger Straße
+street: "Braunschweiger Straße"
 housenumber: 2
 phone: "+49 5271 6946929"
 opening_hours: ""

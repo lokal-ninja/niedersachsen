@@ -5,7 +5,7 @@ latitude: 53.361419500000004
 longitude: 7.1677118
 postcode: 26723
 city: Emden
-street: Thüringer Straße
+street: "Thüringer Straße"
 housenumber: 9
 phone: "+49 4921 587543"
 opening_hours: "Mo-Sa 09:00-20:00"

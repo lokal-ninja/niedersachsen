@@ -5,7 +5,7 @@ latitude: 51.5083404
 longitude: 10.250376800000002
 postcode: 37115
 city: Duderstadt
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 3
 phone: "+49 5527 846300"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.710214300000004
 longitude: 8.505038500000001
 postcode: 49406
 city: Barnstorf
-street: Brinkstraße
+street: "Brinkstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

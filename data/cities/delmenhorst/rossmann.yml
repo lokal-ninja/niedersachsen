@@ -5,7 +5,7 @@ latitude: 53.054351700000005
 longitude: 8.629819900000001
 postcode: 27753
 city: Delmenhorst
-street: Weberstraße
+street: "Weberstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"

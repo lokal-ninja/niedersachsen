@@ -5,7 +5,7 @@ latitude: 52.9955949
 longitude: 10.5395768
 postcode: 29525
 city: Uelzen
-street: Ludwig-Erhard-Straße
+street: "Ludwig-Erhard-Straße"
 housenumber: 4
 phone: "+49 581 3897450"
 opening_hours: "24/7"

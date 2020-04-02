@@ -5,7 +5,7 @@ latitude: 53.2998199
 longitude: 9.5081085
 postcode: 27419
 city: Lengenbostel
-street: Schmiedestraße
+street: "Schmiedestraße"
 housenumber: 2a
 phone: "+49 4282 594100"
 opening_hours: ""

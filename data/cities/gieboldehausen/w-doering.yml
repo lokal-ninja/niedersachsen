@@ -5,7 +5,7 @@ latitude: 51.6097205
 longitude: 10.214887300000001
 postcode: 
 city: Gieboldehausen
-street: Obertorstraße
+street: "Obertorstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

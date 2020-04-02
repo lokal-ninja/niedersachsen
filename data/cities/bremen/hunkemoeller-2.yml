@@ -5,7 +5,7 @@ latitude: 53.078047100000006
 longitude: 8.8078705
 postcode: 28195
 city: Bremen
-street: Sögestraße
+street: "Sögestraße"
 housenumber: 48
 phone: "+49 421 16886717"
 opening_hours: "Mo-Sa 10:00-20:00; PH off"

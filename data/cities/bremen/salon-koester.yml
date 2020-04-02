@@ -5,7 +5,7 @@ latitude: 53.1936863
 longitude: 8.5438174
 postcode: 28777
 city: Bremen
-street: Bahnstraße
+street: "Bahnstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Tu-Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 53.5697538
 longitude: 7.889653200000001
 postcode: 26441
 city: Jever
-street: Ladestraße
+street: "Ladestraße"
 housenumber: 2
 phone: "+49 4461 2900"
 opening_hours: ""

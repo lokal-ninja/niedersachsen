@@ -5,7 +5,7 @@ latitude: 51.8180276
 longitude: 9.449012
 postcode: 37603
 city: Holzminden
-street: Lindenhof
+street: "Lindenhof"
 housenumber: 9
 phone: "+49 5531 3248"
 opening_hours: ""

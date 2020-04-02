@@ -5,7 +5,7 @@ latitude: 53.510477300000005
 longitude: 9.729799100000001
 postcode: 
 city: Jork
-street: Steinweg
+street: "Steinweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

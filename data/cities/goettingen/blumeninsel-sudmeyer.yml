@@ -5,7 +5,7 @@ latitude: 51.523908600000006
 longitude: 9.9465026
 postcode: 37083
 city: Göttingen
-street: Immanuel-Kant-Straße
+street: "Immanuel-Kant-Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 10:00-12:00; PH off"

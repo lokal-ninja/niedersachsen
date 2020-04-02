@@ -5,7 +5,7 @@ latitude: 52.2756891
 longitude: 8.0447883
 postcode: 49074
 city: Osnabrück
-street: Nikolaiort
+street: "Nikolaiort"
 housenumber: 6-9
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

@@ -5,7 +5,7 @@ latitude: 53.0620509
 longitude: 9.1657697
 postcode: 28870
 city: Ottersberg
-street: Posthausen
+street: "Posthausen"
 housenumber: 2
 phone: "+49 4297 4442441"
 opening_hours: "Mo-Sa 08:00-20:00"

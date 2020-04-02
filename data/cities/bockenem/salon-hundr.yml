@@ -5,7 +5,7 @@ latitude: 52.0098707
 longitude: 10.128820900000001
 postcode: 31167
 city: Bockenem
-street: Lange Burgstraße
+street: "Lange Burgstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Tu-Th 9:00-18:00; Fr 9:00-19:00; Sa 9:00-14:00"

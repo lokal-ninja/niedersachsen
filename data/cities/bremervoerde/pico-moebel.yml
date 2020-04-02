@@ -5,7 +5,7 @@ latitude: 53.4846524
 longitude: 9.1380248
 postcode: 27432
 city: Bremervörde
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 46
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.509563
 longitude: 9.957374300000001
 postcode: 37083
 city: Göttingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

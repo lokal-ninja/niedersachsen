@@ -5,7 +5,7 @@ latitude: 53.29065000000001
 longitude: 9.2794675
 postcode: 27404
 city: Zeven
-street: Vitus-Platz
+street: "Vitus-Platz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 52.4242476
 longitude: 8.7313174
 postcode: 31603
 city: Diepenau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 24
 phone: "+49 5775 381"
 opening_hours: ""

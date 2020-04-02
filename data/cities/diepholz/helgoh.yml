@@ -5,7 +5,7 @@ latitude: 52.650600600000004
 longitude: 8.3613581
 postcode: 49356
 city: Diepholz
-street: Aschener Straße
+street: "Aschener Straße"
 housenumber: 59
 phone: ""
 opening_hours: "Tu,Th,Fr 14:00-18:00; Sa 09:00-13:00"

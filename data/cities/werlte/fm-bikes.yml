@@ -5,7 +5,7 @@ latitude: 52.857221900000006
 longitude: 7.6506936
 postcode: 49757
 city: Werlte
-street: Schlosserstraße
+street: "Schlosserstraße"
 housenumber: 36
 phone: "+49 5951 9893590"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:30"

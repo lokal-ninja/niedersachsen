@@ -5,7 +5,7 @@ latitude: 52.3724738
 longitude: 9.785331000000001
 postcode: 30625
 city: Hannover
-street: Kirchröder Straße
+street: "Kirchröder Straße"
 housenumber: 107
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-13:00, Su 08:00-11:00"

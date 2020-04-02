@@ -5,7 +5,7 @@ latitude: 52.551224700000006
 longitude: 9.216493400000001
 postcode: 31628
 city: Landesbergen
-street: Brokeloher Hauptstraße
+street: "Brokeloher Hauptstraße"
 housenumber: 37
 phone: "+49 5027 1566"
 opening_hours: "Apr-May Sa,Su 10:00-18:00, Jun-Sep Mo-Su 10:00-18:00, Oct Sa,Su 10:00-18:00"

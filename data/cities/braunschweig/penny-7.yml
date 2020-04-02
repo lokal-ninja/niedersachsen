@@ -5,7 +5,7 @@ latitude: 52.3114866
 longitude: 10.5988357
 postcode: 38108
 city: Braunschweig
-street: Troppaustraße
+street: "Troppaustraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

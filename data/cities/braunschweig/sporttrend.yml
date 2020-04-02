@@ -5,7 +5,7 @@ latitude: 52.2667505
 longitude: 10.5140322
 postcode: 38100
 city: Braunschweig
-street: Güldenstraße
+street: "Güldenstraße"
 housenumber: 41
 phone: "+49 531 6183637"
 opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"

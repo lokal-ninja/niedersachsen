@@ -5,7 +5,7 @@ latitude: 52.407619800000006
 longitude: 10.931355400000001
 postcode: 38458
 city: Velpke
-street: An der Bascheriede
+street: "An der Bascheriede"
 housenumber: 4
 phone: ""
 opening_hours: "07:00-20:00"

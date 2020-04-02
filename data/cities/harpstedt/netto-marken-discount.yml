@@ -5,7 +5,7 @@ latitude: 52.9107046
 longitude: 8.5987232
 postcode: 27243
 city: Harpstedt
-street: Amtsfreiheit
+street: "Amtsfreiheit"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

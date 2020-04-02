@@ -5,7 +5,7 @@ latitude: 51.535162
 longitude: 9.9269672
 postcode: 
 city: Göttingen
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Tu-Th 15:00-18:00; PH off"

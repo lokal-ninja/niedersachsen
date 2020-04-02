@@ -5,7 +5,7 @@ latitude: 51.535000000000004
 longitude: 9.9337867
 postcode: 37073
 city: Göttingen
-street: Stumpfebiel
+street: "Stumpfebiel"
 housenumber: 4
 phone: ""
 opening_hours: "Mo,Sa 10:00-15:00; Tu,We 10:00-18:00; Th,Fr 10:00-20:00; PH off"

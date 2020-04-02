@@ -5,7 +5,7 @@ latitude: 51.6101619
 longitude: 10.213022500000001
 postcode: 
 city: Gieboldehausen
-street: Hahlestraße
+street: "Hahlestraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

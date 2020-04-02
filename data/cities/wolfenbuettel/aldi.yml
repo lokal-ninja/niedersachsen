@@ -5,7 +5,7 @@ latitude: 52.164107400000006
 longitude: 10.5138402
 postcode: 38304
 city: Wolfenbüttel
-street: Grauhofstraße
+street: "Grauhofstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

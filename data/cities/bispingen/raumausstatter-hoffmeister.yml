@@ -5,7 +5,7 @@ latitude: 53.0991816
 longitude: 10.033726900000001
 postcode: 29646
 city: Bispingen
-street: Steinbecker Straße
+street: "Steinbecker Straße"
 housenumber: 15
 phone: "+49 5194 2604"
 opening_hours: ""

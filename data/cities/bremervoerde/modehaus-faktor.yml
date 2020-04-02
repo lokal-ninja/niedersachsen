@@ -5,7 +5,7 @@ latitude: 53.485737900000004
 longitude: 9.1438746
 postcode: 27432
 city: Bremervörde
-street: Alte Straße
+street: "Alte Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

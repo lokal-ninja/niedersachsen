@@ -5,7 +5,7 @@ latitude: 53.2472203
 longitude: 8.2013549
 postcode: 26180
 city: Rastede
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-We 09:00-19:00;Th 09:00-20:00;Fr 09:00-19:00;Sa 09:00-13:00"

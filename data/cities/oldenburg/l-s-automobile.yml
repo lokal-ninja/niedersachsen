@@ -5,7 +5,7 @@ latitude: 53.1241356
 longitude: 8.162358600000001
 postcode: 26131
 city: Oldenburg
-street: An der Fuchsbäke
+street: "An der Fuchsbäke"
 housenumber: 9
 phone: ""
 opening_hours: ""

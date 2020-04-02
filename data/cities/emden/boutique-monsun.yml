@@ -5,7 +5,7 @@ latitude: 53.3668727
 longitude: 7.203862600000001
 postcode: 26721
 city: Emden
-street: Große Straße
+street: "Große Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

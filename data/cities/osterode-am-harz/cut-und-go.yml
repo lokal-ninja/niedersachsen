@@ -5,7 +5,7 @@ latitude: 51.7294393
 longitude: 10.252063000000001
 postcode: 37520
 city: Osterode am Harz
-street: Eisensteinstraße
+street: "Eisensteinstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

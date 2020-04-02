@@ -5,7 +5,7 @@ latitude: 53.5232948
 longitude: 8.5871689
 postcode: 27572
 city: Bremerhaven
-street: Nansenstraße
+street: "Nansenstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

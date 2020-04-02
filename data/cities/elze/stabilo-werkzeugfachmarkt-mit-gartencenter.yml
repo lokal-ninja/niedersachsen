@@ -5,7 +5,7 @@ latitude: 52.11241020000001
 longitude: 9.7297692
 postcode: 31008
 city: Elze
-street: Heilswannenweg
+street: "Heilswannenweg"
 housenumber: 52
 phone: "+49 5068 93254 0"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"

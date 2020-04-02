@@ -5,7 +5,7 @@ latitude: 53.0491201
 longitude: 10.5391204
 postcode: 29576
 city: Barum
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

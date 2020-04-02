@@ -5,7 +5,7 @@ latitude: 53.1007557
 longitude: 8.878297700000001
 postcode: 28359
 city: Bremen
-street: Leher Heerstraße
+street: "Leher Heerstraße"
 housenumber: 107
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

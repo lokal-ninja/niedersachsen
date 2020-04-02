@@ -5,7 +5,7 @@ latitude: 53.169512100000006
 longitude: 7.742173500000001
 postcode: 26676
 city: Barßel
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

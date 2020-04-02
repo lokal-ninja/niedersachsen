@@ -5,7 +5,7 @@ latitude: 52.318848200000005
 longitude: 8.3469949
 postcode: 49152
 city: Bad Essen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 60
 phone: "+49 5472 5613"
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00"

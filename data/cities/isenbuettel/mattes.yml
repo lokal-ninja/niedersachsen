@@ -5,7 +5,7 @@ latitude: 52.436753800000005
 longitude: 10.571138600000001
 postcode: 38550
 city: Isenbüttel
-street: Liststraße
+street: "Liststraße"
 housenumber: 
 phone: ""
 opening_hours: ""

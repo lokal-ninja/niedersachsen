@@ -5,7 +5,7 @@ latitude: 51.888666900000004
 longitude: 10.5520709
 postcode: 38667
 city: Bad Harzburg
-street: Dr.-Heinrich-Jasper-Straße
+street: "Dr.-Heinrich-Jasper-Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

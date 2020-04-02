@@ -5,7 +5,7 @@ latitude: 52.040237600000005
 longitude: 9.255897800000001
 postcode: 31855
 city: Aerzen
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

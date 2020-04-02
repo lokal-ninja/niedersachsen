@@ -5,7 +5,7 @@ latitude: 53.5598887
 longitude: 8.5657226
 postcode: 27568
 city: Bremerhaven
-street: Rudloffstraße
+street: "Rudloffstraße"
 housenumber: 148
 phone: ""
 opening_hours: "Mo-Sa 06:00-20:00; PH off"

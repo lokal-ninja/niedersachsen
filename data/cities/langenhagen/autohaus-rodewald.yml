@@ -5,7 +5,7 @@ latitude: 52.4774393
 longitude: 9.743917000000001
 postcode: 30855
 city: Langenhagen
-street: Hainhäuser Weg
+street: "Hainhäuser Weg"
 housenumber: 97-99
 phone: ""
 opening_hours: ""

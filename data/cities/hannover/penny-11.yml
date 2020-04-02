@@ -5,7 +5,7 @@ latitude: 52.4099402
 longitude: 9.6632862
 postcode: 30419
 city: Hannover
-street: Hogrefestraße
+street: "Hogrefestraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

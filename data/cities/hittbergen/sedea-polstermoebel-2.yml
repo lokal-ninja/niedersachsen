@@ -5,7 +5,7 @@ latitude: 53.3441593
 longitude: 10.5854441
 postcode: 21522
 city: Hittbergen
-street: Schulweg
+street: "Schulweg"
 housenumber: 1
 phone: "+49 4139 695066"
 opening_hours: ""

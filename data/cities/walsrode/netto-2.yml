@@ -5,7 +5,7 @@ latitude: 52.865229600000006
 longitude: 9.6062083
 postcode: 29664
 city: Walsrode
-street: Quintusstraße
+street: "Quintusstraße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

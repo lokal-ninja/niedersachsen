@@ -5,7 +5,7 @@ latitude: 52.843572200000004
 longitude: 7.516041400000001
 postcode: 49751
 city: Sögel
-street: Wahner Straße
+street: "Wahner Straße"
 housenumber: 19
 phone: "+49 5952 98902"
 opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:30; Sa 09:00-14:00; Su,PH off"

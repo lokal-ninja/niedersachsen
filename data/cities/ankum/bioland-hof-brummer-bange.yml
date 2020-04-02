@@ -5,7 +5,7 @@ latitude: 52.546563000000006
 longitude: 7.866112500000001
 postcode: 49577
 city: Ankum
-street: Loxtener Straße
+street: "Loxtener Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Tu,We,Th,Sa 09:00-13:00, Tu,We,Th 14:30-18:30, Fr 09:00-18:30"

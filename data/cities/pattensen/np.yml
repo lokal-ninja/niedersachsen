@@ -5,7 +5,7 @@ latitude: 52.196545500000006
 longitude: 9.780652100000001
 postcode: 30982
 city: Pattensen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 30a
 phone: "+49 5069 96221"
 opening_hours: ""

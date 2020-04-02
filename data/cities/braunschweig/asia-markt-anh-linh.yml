@@ -5,7 +5,7 @@ latitude: 52.275447500000006
 longitude: 10.5232284
 postcode: 38106
 city: Braunschweig
-street: Rebenring
+street: "Rebenring"
 housenumber: 6/7
 phone: "+49 531 3489621"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

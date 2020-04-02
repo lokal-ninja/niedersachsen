@@ -5,7 +5,7 @@ latitude: 52.3231103
 longitude: 10.2230539
 postcode: 31224
 city: Peine
-street: Damm
+street: "Damm"
 housenumber: 46
 phone: "+49 5171 6051"
 opening_hours: ""

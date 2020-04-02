@@ -5,7 +5,7 @@ latitude: 52.3620109
 longitude: 9.2382171
 postcode: 31702
 city: Lüdersfeld
-street: Schachtstraße
+street: "Schachtstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"

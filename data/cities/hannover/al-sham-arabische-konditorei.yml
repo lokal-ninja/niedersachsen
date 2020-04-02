@@ -5,7 +5,7 @@ latitude: 52.3749003
 longitude: 9.7296248
 postcode: 30159
 city: Hannover
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 10
 phone: "+4951145007030"
 opening_hours: "Mo-Su 10:00-22:00"

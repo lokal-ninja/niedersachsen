@@ -5,7 +5,7 @@ latitude: 53.6464507
 longitude: 7.6090917000000005
 postcode: 26427
 city: Esens
-street: Herdestraße
+street: "Herdestraße"
 housenumber: 20
 phone: ""
 opening_hours: "9:00 -18:00"

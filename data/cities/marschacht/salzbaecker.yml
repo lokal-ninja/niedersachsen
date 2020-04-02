@@ -5,7 +5,7 @@ latitude: 53.4186215
 longitude: 10.3624983
 postcode: 21436
 city: Marschacht
-street: Elbuferstraße
+street: "Elbuferstraße"
 housenumber: 124
 phone: "+49 4176 9494575"
 opening_hours: "Mo-Sa 05:30-20:00; Su 08:00-11:00"

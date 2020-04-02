@@ -5,7 +5,7 @@ latitude: 53.0606097
 longitude: 8.7995526
 postcode: 28201
 city: Bremen
-street: Gottfried-Menken-Straße
+street: "Gottfried-Menken-Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 53.0805816
 longitude: 9.9953684
 postcode: 29646
 city: Bispingen
-street: Töpinger Straße
+street: "Töpinger Straße"
 housenumber: 10
 phone: "+49 5194 974766"
 opening_hours: "Mo-Sa 08:00-20:00"

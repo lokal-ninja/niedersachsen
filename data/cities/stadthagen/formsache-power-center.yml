@@ -5,7 +5,7 @@ latitude: 52.321425700000006
 longitude: 9.205
 postcode: 31655
 city: Stadthagen
-street: Obernstraße
+street: "Obernstraße"
 housenumber: 24
 phone: "+49 5721 9374174"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.705788600000005
 longitude: 9.993326600000001
 postcode: 37154
 city: Northeim
-street: Breiter Weg
+street: "Breiter Weg"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1715852
 longitude: 8.6206485
 postcode: 28757
 city: Bremen
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-15:00; Su 08:00-12:00"

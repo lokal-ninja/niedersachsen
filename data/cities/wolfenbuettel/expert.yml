@@ -5,7 +5,7 @@ latitude: 52.158380400000006
 longitude: 10.5324615
 postcode: 38304
 city: Wolfenbüttel
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.0282123
 longitude: 8.861834100000001
 postcode: 28279
 city: Bremen
-street: Arster Hemm
+street: "Arster Hemm"
 housenumber: 50
 phone: "+49 421 244000"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-16:00 open Schautag"

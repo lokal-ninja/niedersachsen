@@ -5,7 +5,7 @@ latitude: 53.5228917
 longitude: 8.6667963
 postcode: 27619
 city: Schiffdorf
-street: Sellstedter Straße
+street: "Sellstedter Straße"
 housenumber: 56
 phone: "+49 4706 412800"
 opening_hours: ""

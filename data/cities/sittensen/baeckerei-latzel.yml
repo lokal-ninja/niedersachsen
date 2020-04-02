@@ -5,7 +5,7 @@ latitude: 53.2789207
 longitude: 9.505315600000001
 postcode: 27419
 city: Sittensen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

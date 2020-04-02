@@ -5,7 +5,7 @@ latitude: 52.4406156
 longitude: 10.565945800000001
 postcode: 38550
 city: Isenbüttel
-street: Reuteranger
+street: "Reuteranger"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

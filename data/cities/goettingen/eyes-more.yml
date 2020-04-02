@@ -5,7 +5,7 @@ latitude: 51.53201120000001
 longitude: 9.9355027
 postcode: 37073
 city: Göttingen
-street: Kornmarkt
+street: "Kornmarkt"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"

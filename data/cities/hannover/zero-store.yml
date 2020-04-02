@@ -5,7 +5,7 @@ latitude: 52.373845700000004
 longitude: 9.737965200000001
 postcode: 30159
 city: Hannover
-street: Karmarschstraße
+street: "Karmarschstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

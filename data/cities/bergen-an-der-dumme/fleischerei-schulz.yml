@@ -5,7 +5,7 @@ latitude: 52.8903964
 longitude: 10.9610933
 postcode: 29468
 city: Bergen an der Dumme
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 30
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.3095841
 longitude: 7.4823523000000005
 postcode: 26802
 city: Moormerland
-street: Theodor-Heuss-Straße
+street: "Theodor-Heuss-Straße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 05:00-19:00; Su 08:00-18:00"

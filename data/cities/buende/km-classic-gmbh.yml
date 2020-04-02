@@ -5,7 +5,7 @@ latitude: 52.1930745
 longitude: 8.5090661
 postcode: 32257
 city: Bünde
-street: Heuerlingsstraße
+street: "Heuerlingsstraße"
 housenumber: 73
 phone: "+49 5223 6909991"
 opening_hours: ""

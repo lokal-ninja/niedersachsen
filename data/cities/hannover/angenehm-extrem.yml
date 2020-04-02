@@ -5,7 +5,7 @@ latitude: 52.3709931
 longitude: 9.7121277
 postcode: 30451
 city: Hannover
-street: Fössestraße
+street: "Fössestraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

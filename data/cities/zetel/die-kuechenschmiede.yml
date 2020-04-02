@@ -5,7 +5,7 @@ latitude: 53.421950800000005
 longitude: 7.9852445
 postcode: 26340
 city: Zetel
-street: Weberstraße
+street: "Weberstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

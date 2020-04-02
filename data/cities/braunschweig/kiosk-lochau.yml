@@ -5,7 +5,7 @@ latitude: 52.2623187
 longitude: 10.5129452
 postcode: 38100
 city: Braunschweig
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 05:30-19:00; Sa 06:30-18:30; Su off"

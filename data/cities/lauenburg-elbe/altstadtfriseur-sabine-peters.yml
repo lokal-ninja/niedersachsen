@@ -5,7 +5,7 @@ latitude: 53.370733200000004
 longitude: 10.5577202
 postcode: 21481
 city: Lauenburg/Elbe
-street: Elbstraße
+street: "Elbstraße"
 housenumber: 121
 phone: "+49 4153 2182"
 opening_hours: ""

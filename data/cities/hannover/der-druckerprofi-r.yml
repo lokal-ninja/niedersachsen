@@ -5,7 +5,7 @@ latitude: 52.369446200000006
 longitude: 9.7533407
 postcode: 30171
 city: Hannover
-street: Detmoldstraße
+street: "Detmoldstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

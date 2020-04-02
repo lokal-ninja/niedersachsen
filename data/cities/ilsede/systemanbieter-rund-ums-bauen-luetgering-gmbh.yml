@@ -5,7 +5,7 @@ latitude: 52.255857400000004
 longitude: 10.249466
 postcode: 31246
 city: Ilsede
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 4
 phone: "+49 5172 4033"
 opening_hours: ""

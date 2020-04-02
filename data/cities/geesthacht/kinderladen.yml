@@ -5,7 +5,7 @@ latitude: 53.431095000000006
 longitude: 10.3767832
 postcode: 21502
 city: Geesthacht
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 10:00-13:00, 14:30-18:00;We 10:00-13:00"

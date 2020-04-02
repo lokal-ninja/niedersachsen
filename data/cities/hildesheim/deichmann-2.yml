@@ -5,7 +5,7 @@ latitude: 52.1515251
 longitude: 9.9510026
 postcode: 31134
 city: Hildesheim
-street: Hoher Weg
+street: "Hoher Weg"
 housenumber: 12
 phone: ""
 opening_hours: ""

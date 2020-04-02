@@ -5,7 +5,7 @@ latitude: 51.530035600000005
 longitude: 9.8812064
 postcode: 37079
 city: Göttingen
-street: Am Kauf Park
+street: "Am Kauf Park"
 housenumber: 2
 phone: ""
 opening_hours: ""

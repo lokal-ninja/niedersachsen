@@ -5,7 +5,7 @@ latitude: 53.060182700000006
 longitude: 9.016283600000001
 postcode: 28876
 city: Oyten
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00; Su 10:00-12:00"

@@ -5,7 +5,7 @@ latitude: 53.087637300000004
 longitude: 7.3991056
 postcode: 26871
 city: Papenburg
-street: Winkelstraße
+street: "Winkelstraße"
 housenumber: 2
 phone: "+49 4961 76065"
 opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 53.5222154
 longitude: 8.582600600000001
 postcode: 27572
 city: Bremerhaven
-street: Fischkai
+street: "Fischkai"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 06:30-15:30"

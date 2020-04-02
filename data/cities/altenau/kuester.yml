@@ -5,7 +5,7 @@ latitude: 51.803625600000004
 longitude: 10.445178
 postcode: 38707
 city: Altenau
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

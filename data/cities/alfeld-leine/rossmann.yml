@@ -5,7 +5,7 @@ latitude: 51.9855528
 longitude: 9.824531
 postcode: 31061
 city: Alfeld (Leine)
-street: Leinstraße
+street: "Leinstraße"
 housenumber: 33-34
 phone: "+49 5181 805724"
 opening_hours: "Mo 08:30-18:30; Tu 08:30-18:30; We 08:30-18:30; Th 08:30-18:30; Fr 08:30-18:30; Sa 08:30-14:00"

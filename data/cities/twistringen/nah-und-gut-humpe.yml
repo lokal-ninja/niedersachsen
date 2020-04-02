@@ -5,7 +5,7 @@ latitude: 52.773361
 longitude: 8.5465728
 postcode: 27239
 city: Twistringen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 30
 phone: "+49 4246 95014"
 opening_hours: "Mo-Fr 06:30-19:00,Sa 6:30-18:00"

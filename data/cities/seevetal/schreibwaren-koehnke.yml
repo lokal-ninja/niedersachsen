@@ -5,7 +5,7 @@ latitude: 53.396246500000004
 longitude: 10.040586900000001
 postcode: 21220
 city: Seevetal
-street: Seevestraße
+street: "Seevestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

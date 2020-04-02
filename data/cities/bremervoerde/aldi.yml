@@ -5,7 +5,7 @@ latitude: 53.481142600000005
 longitude: 9.1399887
 postcode: 27432
 city: Bremervörde
-street: Am Bahnhof-Süd
+street: "Am Bahnhof-Süd"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

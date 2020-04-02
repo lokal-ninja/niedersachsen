@@ -5,7 +5,7 @@ latitude: 52.248136800000005
 longitude: 8.063056600000001
 postcode: 49082
 city: Osnabrück
-street: Iburger Straße
+street: "Iburger Straße"
 housenumber: 223
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

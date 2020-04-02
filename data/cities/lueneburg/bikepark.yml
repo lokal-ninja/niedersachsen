@@ -5,7 +5,7 @@ latitude: 53.231055600000005
 longitude: 10.447415300000001
 postcode: 21337
 city: Lüneburg
-street: Käthe-Krüger-Straße
+street: "Käthe-Krüger-Straße"
 housenumber: 8
 phone: "+49 4131 853030"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"

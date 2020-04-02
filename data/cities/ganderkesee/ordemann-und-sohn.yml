@@ -5,7 +5,7 @@ latitude: 53.0193443
 longitude: 8.5194729
 postcode: 27777
 city: Ganderkesee
-street: Ganderkeseer Weg
+street: "Ganderkeseer Weg"
 housenumber: 24
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.075455600000005
 longitude: 8.1538444
 postcode: 26203
 city: Wardenburg
-street: Ziegeleiweg
+street: "Ziegeleiweg"
 housenumber: 29
 phone: "+49 4407 8413"
 opening_hours: "Th,Fr 09:00-12:00,15:00-18:00; Tu,We,Sa 09:00-12:00; PH off"

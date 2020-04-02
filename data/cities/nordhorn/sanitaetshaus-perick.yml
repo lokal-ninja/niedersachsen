@@ -5,7 +5,7 @@ latitude: 52.439674100000005
 longitude: 7.066325300000001
 postcode: 48529
 city: Nordhorn
-street: Neuenhauser Straße
+street: "Neuenhauser Straße"
 housenumber: 33
 phone: "+49 5921 83999"
 opening_hours: ""

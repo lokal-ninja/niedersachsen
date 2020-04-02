@@ -5,7 +5,7 @@ latitude: 53.3441952
 longitude: 10.586071800000001
 postcode: 21522
 city: Hittbergen
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 26
 phone: "+49 4139 7739614"
 opening_hours: "Tu-Fr 09:00-19:00, Sa 08:00-14:00,"

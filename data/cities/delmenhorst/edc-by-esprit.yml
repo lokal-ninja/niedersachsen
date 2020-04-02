@@ -5,7 +5,7 @@ latitude: 53.0499736
 longitude: 8.6274193
 postcode: 27749
 city: Delmenhorst
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 123
 phone: ""
 opening_hours: ""

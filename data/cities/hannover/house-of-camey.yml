@@ -5,7 +5,7 @@ latitude: 52.3668245
 longitude: 9.7134212
 postcode: 30449
 city: Hannover
-street: Egestorffstraße
+street: "Egestorffstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

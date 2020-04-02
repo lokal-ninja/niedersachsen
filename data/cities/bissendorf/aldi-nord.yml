@@ -5,7 +5,7 @@ latitude: 52.2621295
 longitude: 8.2110977
 postcode: 49143
 city: Bissendorf
-street: Mindener Straße
+street: "Mindener Straße"
 housenumber: 81
 phone: ""
 opening_hours: "Mo-Sa 8:00-20:00"

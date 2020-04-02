@@ -5,7 +5,7 @@ latitude: 52.154070000000004
 longitude: 9.950081200000001
 postcode: 
 city: Hildesheim
-street: Almsstraße
+street: "Almsstraße"
 housenumber: 10
 phone: "+49 5121 9990199"
 opening_hours: ""

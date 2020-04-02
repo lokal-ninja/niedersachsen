@@ -5,7 +5,7 @@ latitude: 52.3484604
 longitude: 10.318848200000001
 postcode: 38176
 city: Wendeburg
-street: Duttenstedter Straße
+street: "Duttenstedter Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo 07:30-13:00; Tu-Th 07:30-13:00, 15:00-18:00; Fr 07:30-18:00; Sa 07:00-13:00"

@@ -5,7 +5,7 @@ latitude: 53.709807600000005
 longitude: 7.1492575
 postcode: 26548
 city: Norderney
-street: Benekestraße
+street: "Benekestraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

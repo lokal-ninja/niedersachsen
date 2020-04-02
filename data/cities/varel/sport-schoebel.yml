@@ -5,7 +5,7 @@ latitude: 53.394918700000005
 longitude: 8.1379588
 postcode: 26316
 city: Varel
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 13
 phone: "+49 4451 959010"
 opening_hours: ""

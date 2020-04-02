@@ -5,7 +5,7 @@ latitude: 52.484185700000005
 longitude: 10.3360926
 postcode: 38536
 city: Meinersen
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo,Sa 05:30-12:00; Tu-Fr 05:30-12:00,14:30-18:00; Su 07:30-10:30"

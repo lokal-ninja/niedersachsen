@@ -5,7 +5,7 @@ latitude: 53.229258800000004
 longitude: 7.4514294
 postcode: 26789
 city: Leer
-street: Brunnenstraße
+street: "Brunnenstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.048450900000006
 longitude: 11.3510319
 postcode: 29475
 city: Gorleben
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Tu-Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:30,14:00-17:00"

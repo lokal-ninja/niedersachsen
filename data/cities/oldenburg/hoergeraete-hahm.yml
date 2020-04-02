@@ -5,7 +5,7 @@ latitude: 53.1333381
 longitude: 8.197377600000001
 postcode: 
 city: Oldenburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 42
 phone: "+49 441 502050"
 opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:30-12:30"

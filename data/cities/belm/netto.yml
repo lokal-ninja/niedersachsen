@@ -5,7 +5,7 @@ latitude: 52.3063432
 longitude: 8.124598
 postcode: 49191
 city: Belm
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Sa 06:45-21:00"

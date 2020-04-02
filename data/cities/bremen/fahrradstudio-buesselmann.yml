@@ -5,7 +5,7 @@ latitude: 53.0412132
 longitude: 8.850168700000001
 postcode: 28279
 city: Bremen
-street: Karl-Marx-Straße
+street: "Karl-Marx-Straße"
 housenumber: 168c
 phone: "+49 421 832584"
 opening_hours: "Mo-Fr 09:05-13:00,15:00-18:00"

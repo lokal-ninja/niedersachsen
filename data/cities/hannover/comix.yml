@@ -5,7 +5,7 @@ latitude: 52.3779252
 longitude: 9.7327294
 postcode: 30159
 city: Hannover
-street: Goseriede
+street: "Goseriede"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

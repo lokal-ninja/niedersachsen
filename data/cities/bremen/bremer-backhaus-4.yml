@@ -5,7 +5,7 @@ latitude: 53.09989100000001
 longitude: 8.9023933
 postcode: 28355
 city: Bremen
-street: Oberneulander Heerstraße
+street: "Oberneulander Heerstraße"
 housenumber: 35a
 phone: ""
 opening_hours: ""

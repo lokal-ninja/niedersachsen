@@ -5,7 +5,7 @@ latitude: 53.1700596
 longitude: 8.6245308
 postcode: 28757
 city: Bremen
-street: Reeder-Bischoff-Straße
+street: "Reeder-Bischoff-Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-10:30"

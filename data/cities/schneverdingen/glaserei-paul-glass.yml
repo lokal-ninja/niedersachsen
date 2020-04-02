@@ -5,7 +5,7 @@ latitude: 53.121996
 longitude: 9.792113
 postcode: 29640
 city: Schneverdingen
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

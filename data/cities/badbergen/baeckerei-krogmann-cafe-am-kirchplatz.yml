@@ -5,7 +5,7 @@ latitude: 52.633809400000004
 longitude: 7.981803800000001
 postcode: 49635
 city: Badbergen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 64
 phone: "+49 5433 3069212"
 opening_hours: ""

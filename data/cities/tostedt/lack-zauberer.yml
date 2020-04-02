@@ -5,7 +5,7 @@ latitude: 53.270400800000004
 longitude: 9.7273128
 postcode: 21255
 city: Tostedt
-street: Am Bahnhof
+street: "Am Bahnhof"
 housenumber: 3
 phone: "+49 4182 285838"
 opening_hours: ""

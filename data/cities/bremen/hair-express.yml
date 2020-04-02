@@ -5,7 +5,7 @@ latitude: 53.078653100000004
 longitude: 8.8066492
 postcode: 28195
 city: Bremen
-street: Knochenhauerstraße
+street: "Knochenhauerstraße"
 housenumber: 36
 phone: "+49 421 1633884"
 opening_hours: "Mo-Sa 09:00-19:00"

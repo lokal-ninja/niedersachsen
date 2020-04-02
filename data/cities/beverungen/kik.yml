@@ -5,7 +5,7 @@ latitude: 51.673615000000005
 longitude: 9.373654100000001
 postcode: 37688
 city: Beverungen
-street: Blankenauer Straße
+street: "Blankenauer Straße"
 housenumber: 3a
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"

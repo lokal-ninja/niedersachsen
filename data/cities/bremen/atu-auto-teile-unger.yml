@@ -5,7 +5,7 @@ latitude: 53.158045200000004
 longitude: 8.705125
 postcode: 28719
 city: Bremen
-street: Steindamm
+street: "Steindamm"
 housenumber: 71
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:30; Sa 08:30-14:00"

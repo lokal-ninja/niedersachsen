@@ -5,7 +5,7 @@ latitude: 51.7343277
 longitude: 9.787235800000001
 postcode: 37186
 city: Moringen
-street: Deichstraße
+street: "Deichstraße"
 housenumber: 14
 phone: "+49 5555 441"
 opening_hours: "Mo-Fr 10:00-12:30,13:00-16:30; Sa,Su 12:00-16:00"

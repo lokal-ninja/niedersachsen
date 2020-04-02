@@ -5,7 +5,7 @@ latitude: 53.281563600000005
 longitude: 9.8714718
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Niedersachsenweg
+street: "Niedersachsenweg"
 housenumber: 34
 phone: "+49 4187 575"
 opening_hours: ""

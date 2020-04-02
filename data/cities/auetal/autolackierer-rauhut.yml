@@ -5,7 +5,7 @@ latitude: 52.2376099
 longitude: 9.244114600000001
 postcode: 31749
 city: Auetal
-street: Sandstraße
+street: "Sandstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

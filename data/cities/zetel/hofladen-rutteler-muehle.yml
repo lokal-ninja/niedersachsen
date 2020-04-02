@@ -5,7 +5,7 @@ latitude: 53.3913134
 longitude: 7.9316721
 postcode: 26340
 city: Zetel
-street: Friedeburger Straße
+street: "Friedeburger Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

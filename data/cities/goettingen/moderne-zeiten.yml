@@ -5,7 +5,7 @@ latitude: 51.532184300000004
 longitude: 9.934461200000001
 postcode: 37073
 city: Göttingen
-street: Zindelstraße
+street: "Zindelstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 14:00-18:00; Sa 11:00-16:00; PH off"

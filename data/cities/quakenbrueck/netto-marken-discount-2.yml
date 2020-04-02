@@ -5,7 +5,7 @@ latitude: 52.6820012
 longitude: 7.946877700000001
 postcode: 49610
 city: Quakenbrück
-street: Oldenburger Straße
+street: "Oldenburger Straße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

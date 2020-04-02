@@ -5,7 +5,7 @@ latitude: 53.5031149
 longitude: 8.0112936
 postcode: 26452
 city: Sande
-street: Am Markt
+street: "Am Markt"
 housenumber: 10
 phone: "+49 4422 986210"
 opening_hours: "Mo-Sa 08:00-20:00"

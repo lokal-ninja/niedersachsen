@@ -5,7 +5,7 @@ latitude: 53.3713125
 longitude: 7.2059736
 postcode: 26721
 city: Emden
-street: Neutorstraße
+street: "Neutorstraße"
 housenumber: 75
 phone: "+49 4921 93930"
 opening_hours: ""

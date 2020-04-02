@@ -5,7 +5,7 @@ latitude: 53.6531054
 longitude: 9.482741500000001
 postcode: 21683
 city: Stade
-street: Obstmarschenweg
+street: "Obstmarschenweg"
 housenumber: 326
 phone: "+49-4146-5483"
 opening_hours: "Mo 05:00-12:00; Tu-Fr 05:00-13:00; Tu-Fr 14:00-18:00; Sa 05:30-12:00; Su 07:30-10:30"

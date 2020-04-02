@@ -5,7 +5,7 @@ latitude: 52.808194500000006
 longitude: 9.963994900000001
 postcode: 29303
 city: Bergen
-street: Celler Straße
+street: "Celler Straße"
 housenumber: 10
 phone: "+49 5051 915959"
 opening_hours: "Mo-Th 09:00-12:30,14:30-18:00, Fr 09:00-18:00, Sa 09:00-13:00"

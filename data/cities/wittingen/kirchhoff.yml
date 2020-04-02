@@ -5,7 +5,7 @@ latitude: 52.678741200000005
 longitude: 10.701177000000001
 postcode: 29379
 city: Wittingen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

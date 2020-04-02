@@ -5,7 +5,7 @@ latitude: 51.66025380000001
 longitude: 9.6282124
 postcode: 37170
 city: Uslar
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 27a
 phone: ""
 opening_hours: ""

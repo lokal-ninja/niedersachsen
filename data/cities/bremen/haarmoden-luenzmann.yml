@@ -5,7 +5,7 @@ latitude: 53.0685258
 longitude: 8.846493800000001
 postcode: 28205
 city: Bremen
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 214
 phone: "+49 421 4989554"
 opening_hours: "Tu,We 09:00-18:00; Th 09:00-19:00; Fr 08:00-18:30; Sa 08:00-13:00"

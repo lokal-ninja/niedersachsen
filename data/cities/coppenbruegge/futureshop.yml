@@ -5,7 +5,7 @@ latitude: 52.0846796
 longitude: 9.5013238
 postcode: 31863
 city: Coppenbrügge
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

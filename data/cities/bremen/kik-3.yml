@@ -5,7 +5,7 @@ latitude: 53.037696000000004
 longitude: 8.726723900000001
 postcode: 28259
 city: Bremen
-street: Dovemoorstraße
+street: "Dovemoorstraße"
 housenumber: 10a
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

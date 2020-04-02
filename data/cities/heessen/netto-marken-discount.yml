@@ -5,7 +5,7 @@ latitude: 52.231783300000004
 longitude: 9.095050500000001
 postcode: 31707
 city: Heeßen
-street: Eilser Straße
+street: "Eilser Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

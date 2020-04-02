@@ -5,7 +5,7 @@ latitude: 51.50235910000001
 longitude: 9.7155713
 postcode: 
 city: Niemetal
-street: Mitteldorfstraße
+street: "Mitteldorfstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo,We 10:00-12:30; Fr 15:30-18:00; PH off; jeden 1. Mittwoch im Monat 19:30-21:00"

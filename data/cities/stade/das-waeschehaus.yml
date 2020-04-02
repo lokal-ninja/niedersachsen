@@ -5,7 +5,7 @@ latitude: 53.600067
 longitude: 9.476900500000001
 postcode: 21682
 city: Stade
-street: Große Schmiedestraße
+street: "Große Schmiedestraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

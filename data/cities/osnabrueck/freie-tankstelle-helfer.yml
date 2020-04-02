@@ -5,7 +5,7 @@ latitude: 52.286577300000005
 longitude: 8.0409238
 postcode: 49090
 city: Osnabrück
-street: Wachsbleiche
+street: "Wachsbleiche"
 housenumber: 59-61
 phone: "+49 541 63770"
 opening_hours: ""

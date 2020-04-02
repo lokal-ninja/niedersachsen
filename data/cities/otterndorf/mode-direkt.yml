@@ -5,7 +5,7 @@ latitude: 53.807304
 longitude: 8.896056
 postcode: 21762
 city: Otterndorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1
 phone: "+49 4751 3375"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

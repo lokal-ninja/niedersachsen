@@ -5,7 +5,7 @@ latitude: 51.9069638
 longitude: 10.4305074
 postcode: 38640
 city: Goslar
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

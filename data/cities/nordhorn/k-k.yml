@@ -5,7 +5,7 @@ latitude: 52.427471700000005
 longitude: 7.0370467
 postcode: 48527
 city: Nordhorn
-street: Ootmarsumer Weg
+street: "Ootmarsumer Weg"
 housenumber: 130
 phone: "+49 5921 75000"
 opening_hours: "Mo-Sa 08:00-21:00"

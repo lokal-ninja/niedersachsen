@@ -5,7 +5,7 @@ latitude: 53.6988746
 longitude: 7.6957735000000005
 postcode: 26427
 city: Neuharlingersiel
-street: Nordseestraße
+street: "Nordseestraße"
 housenumber: 4
 phone: "+49 4974 914646"
 opening_hours: "Mo-Su 09:00-18:00"

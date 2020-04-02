@@ -5,7 +5,7 @@ latitude: 52.2596733
 longitude: 10.538418400000001
 postcode: 38102
 city: Braunschweig
-street: Leonhardstraße
+street: "Leonhardstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

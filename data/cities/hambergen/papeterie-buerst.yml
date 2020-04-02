@@ -5,7 +5,7 @@ latitude: 53.3101428
 longitude: 8.828025
 postcode: 27729
 city: Hambergen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

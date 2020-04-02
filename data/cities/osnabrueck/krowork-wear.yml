@@ -5,7 +5,7 @@ latitude: 52.2786337
 longitude: 8.0387901
 postcode: 49074
 city: Osnabrück
-street: Bierstraße
+street: "Bierstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

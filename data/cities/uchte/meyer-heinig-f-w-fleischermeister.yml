@@ -5,7 +5,7 @@ latitude: 52.4983604
 longitude: 8.905171000000001
 postcode: 31600
 city: Uchte
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

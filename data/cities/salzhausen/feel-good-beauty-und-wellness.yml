@@ -5,7 +5,7 @@ latitude: 53.226401300000006
 longitude: 10.162293400000001
 postcode: 21376
 city: Salzhausen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 21
 phone: "+49 4172 5354"
 opening_hours: ""

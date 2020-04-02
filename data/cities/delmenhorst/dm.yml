@@ -5,7 +5,7 @@ latitude: 53.030052000000005
 longitude: 8.661248200000001
 postcode: 27755
 city: Delmenhorst
-street: Seestraße
+street: "Seestraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

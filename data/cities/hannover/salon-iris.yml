@@ -5,7 +5,7 @@ latitude: 52.3699522
 longitude: 9.7267966
 postcode: 30169
 city: Hannover
-street: Calenberger Straße
+street: "Calenberger Straße"
 housenumber: 15
 phone: "+495111318840"
 opening_hours: ""

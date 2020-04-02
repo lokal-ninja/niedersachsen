@@ -5,7 +5,7 @@ latitude: 53.583103400000006
 longitude: 6.6832257
 postcode: 26757
 city: Borkum
-street: Wilhelm-Feldhoff-Straße
+street: "Wilhelm-Feldhoff-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00, Su 08:00-15:00"

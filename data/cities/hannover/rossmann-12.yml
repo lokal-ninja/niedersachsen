@@ -5,7 +5,7 @@ latitude: 52.340437800000004
 longitude: 9.693107900000001
 postcode: 30457
 city: Hannover
-street: Am Langen Berge
+street: "Am Langen Berge"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; PH off"

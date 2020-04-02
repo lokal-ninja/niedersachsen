@@ -5,7 +5,7 @@ latitude: 52.702178700000005
 longitude: 8.492976800000001
 postcode: 49406
 city: Barnstorf
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

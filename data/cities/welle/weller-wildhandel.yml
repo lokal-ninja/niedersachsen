@@ -5,7 +5,7 @@ latitude: 53.2400901
 longitude: 9.800959500000001
 postcode: 21261
 city: Welle
-street: Tostedter Straße
+street: "Tostedter Straße"
 housenumber: 1
 phone: "+49 4188 888153"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3292968
 longitude: 7.242576000000001
 postcode: 48465
 city: Schüttorf
-street: Werkstraße
+street: "Werkstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3598178
 longitude: 9.2844709
 postcode: 31698
 city: Lindhorst
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 39
 phone: "+49 5725 913320"
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"

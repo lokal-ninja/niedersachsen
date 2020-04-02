@@ -5,7 +5,7 @@ latitude: 52.35061
 longitude: 9.6682302
 postcode: 30455
 city: Hannover
-street: Empelder Straße
+street: "Empelder Straße"
 housenumber: 96c
 phone: "+49 322 2828 332"
 opening_hours: ""

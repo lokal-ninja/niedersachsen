@@ -5,7 +5,7 @@ latitude: 53.86888810000001
 longitude: 8.7024088
 postcode: 27472
 city: Cuxhaven
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

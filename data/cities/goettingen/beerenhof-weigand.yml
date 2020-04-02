@@ -5,7 +5,7 @@ latitude: 51.5498369
 longitude: 9.867700800000001
 postcode: 
 city: Göttingen
-street: Diedershäuser Straße
+street: "Diedershäuser Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

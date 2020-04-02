@@ -5,7 +5,7 @@ latitude: 52.1658807
 longitude: 9.9628276
 postcode: 31135
 city: Hildesheim
-street: Kennedydamm
+street: "Kennedydamm"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"

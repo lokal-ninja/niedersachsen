@@ -5,7 +5,7 @@ latitude: 52.9180038
 longitude: 10.520344600000001
 postcode: 29525
 city: Uelzen
-street: Schlossstraße
+street: "Schlossstraße"
 housenumber: 12A
 phone: ""
 opening_hours: ""

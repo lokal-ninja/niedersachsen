@@ -5,7 +5,7 @@ latitude: 53.3944448
 longitude: 8.138756200000001
 postcode: 26316
 city: Varel
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

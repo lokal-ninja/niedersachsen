@@ -5,7 +5,7 @@ latitude: 53.09090440000001
 longitude: 8.936874000000001
 postcode: 28355
 city: Bremen
-street: Rockwinkeler Heerstraße
+street: "Rockwinkeler Heerstraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Tu 09:00-13:00,15:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,15:00-18:00; Sa 10:00-13:00"

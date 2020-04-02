@@ -5,7 +5,7 @@ latitude: 53.078081700000006
 longitude: 8.801244
 postcode: 28195
 city: Bremen
-street: Martinistraße
+street: "Martinistraße"
 housenumber: 68-70
 phone: "+49 421 1690917"
 opening_hours: "Mo-Sa 09:30-19:00"

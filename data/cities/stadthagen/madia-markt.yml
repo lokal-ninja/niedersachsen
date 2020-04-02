@@ -5,7 +5,7 @@ latitude: 52.3304727
 longitude: 9.217162100000001
 postcode: 31655
 city: Stadthagen
-street: Am Helweg
+street: "Am Helweg"
 housenumber: 4
 phone: "+49 5721 93320"
 opening_hours: "Mo-Sa 09:00-20:00"

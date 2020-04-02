@@ -5,7 +5,7 @@ latitude: 52.266494400000006
 longitude: 8.0498382
 postcode: 49080
 city: Osnabrück
-street: Spindelstraße
+street: "Spindelstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.535862900000005
 longitude: 10.8921144
 postcode: 
 city: Parsau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 20
 phone: ""
 opening_hours: "24/7"

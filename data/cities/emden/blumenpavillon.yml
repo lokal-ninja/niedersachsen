@@ -5,7 +5,7 @@ latitude: 53.375221200000006
 longitude: 7.210082600000001
 postcode: 26721
 city: Emden
-street: Bolardusstraße
+street: "Bolardusstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00; Su 10:00-12:00"

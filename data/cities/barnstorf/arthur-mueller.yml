@@ -5,7 +5,7 @@ latitude: 52.709604500000005
 longitude: 8.505209200000001
 postcode: 49406
 city: Barnstorf
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; We,Sa 09:00-12:30"

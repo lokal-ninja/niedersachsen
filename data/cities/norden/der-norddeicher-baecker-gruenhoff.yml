@@ -5,7 +5,7 @@ latitude: 53.61318240000001
 longitude: 7.1535273
 postcode: 26506
 city: Norden
-street: Dörper Weg
+street: "Dörper Weg"
 housenumber: 7a
 phone: "+49 4931 8433"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su,PH 07:00-17:00"

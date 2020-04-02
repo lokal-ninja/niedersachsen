@@ -5,7 +5,7 @@ latitude: 51.8878088
 longitude: 10.5579877
 postcode: 38667
 city: Bad Harzburg
-street: Am Güterbahnhof
+street: "Am Güterbahnhof"
 housenumber: 6
 phone: "+49 5322 2210"
 opening_hours: ""

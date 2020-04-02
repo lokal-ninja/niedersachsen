@@ -5,7 +5,7 @@ latitude: 52.4501532
 longitude: 10.010078
 postcode: 31303
 city: Burgdorf
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

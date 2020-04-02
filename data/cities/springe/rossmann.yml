@@ -5,7 +5,7 @@ latitude: 52.2095295
 longitude: 9.554761000000001
 postcode: 31832
 city: Springe
-street: Fünfhausenstraße
+street: "Fünfhausenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00; PH off"

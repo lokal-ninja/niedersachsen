@@ -5,7 +5,7 @@ latitude: 52.327324000000004
 longitude: 7.4315053
 postcode: 48499
 city: Salzbergen
-street: An der Landesgrenze
+street: "An der Landesgrenze"
 housenumber: 3
 phone: "+49 5971 94741 0"
 opening_hours: ""

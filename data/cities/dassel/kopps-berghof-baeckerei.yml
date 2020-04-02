@@ -5,7 +5,7 @@ latitude: 51.8141794
 longitude: 9.7702563
 postcode: 37586
 city: Dassel
-street: Ilmebahnstraße
+street: "Ilmebahnstraße"
 housenumber: 10
 phone: "+49 5562 9309614"
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-19:00"

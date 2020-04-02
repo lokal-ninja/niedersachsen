@@ -5,7 +5,7 @@ latitude: 52.376818400000005
 longitude: 9.7961612
 postcode: 30625
 city: Hannover
-street: Pertzstraße
+street: "Pertzstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

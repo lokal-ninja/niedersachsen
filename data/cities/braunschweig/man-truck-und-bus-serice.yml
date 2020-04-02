@@ -5,7 +5,7 @@ latitude: 52.3172761
 longitude: 10.4761083
 postcode: 38112
 city: Braunschweig
-street: Christian-Pommer-Straße
+street: "Christian-Pommer-Straße"
 housenumber: 8
 phone: "+49 531 230930"
 opening_hours: ""

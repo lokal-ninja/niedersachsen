@@ -5,7 +5,7 @@ latitude: 53.0914269
 longitude: 11.4743352
 postcode: 19309
 city: Lenzen (Elbe)
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 35
 phone: "+49 38792 7282"
 opening_hours: ""

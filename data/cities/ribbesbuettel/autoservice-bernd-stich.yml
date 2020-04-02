@@ -5,7 +5,7 @@ latitude: 52.429964500000004
 longitude: 10.5343684
 postcode: 38551
 city: Ribbesbüttel
-street: Gifhorner Straße
+street: "Gifhorner Straße"
 housenumber: 2
 phone: "+49 5374 2312"
 opening_hours: ""

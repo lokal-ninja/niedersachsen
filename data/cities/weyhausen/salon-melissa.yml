@@ -5,7 +5,7 @@ latitude: 52.46311420000001
 longitude: 10.7198823
 postcode: 38554
 city: Weyhausen
-street: Laischeweg
+street: "Laischeweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"

@@ -5,7 +5,7 @@ latitude: 52.860523400000005
 longitude: 9.5913328
 postcode: 29664
 city: Walsrode
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

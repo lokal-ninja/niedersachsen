@@ -5,7 +5,7 @@ latitude: 53.456699300000004
 longitude: 9.6704073
 postcode: 21614
 city: Buxtehude
-street: Eckdahl
+street: "Eckdahl"
 housenumber: 96
 phone: ""
 opening_hours: "Mo-Sa 06:00-22:00; PH off"

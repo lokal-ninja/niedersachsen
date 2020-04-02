@@ -5,7 +5,7 @@ latitude: 51.7194061
 longitude: 10.6163834
 postcode: 38700
 city: Braunlage
-street: Am Buchholzplatz
+street: "Am Buchholzplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00+"

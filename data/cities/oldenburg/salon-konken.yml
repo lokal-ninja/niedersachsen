@@ -5,7 +5,7 @@ latitude: 53.135487000000005
 longitude: 8.2176478
 postcode: 26135
 city: Oldenburg
-street: Damm
+street: "Damm"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.307142500000005
 longitude: 8.019077300000001
 postcode: 49090
 city: Osnabrück
-street: Fürstenauer Weg
+street: "Fürstenauer Weg"
 housenumber: 103
 phone: ""
 opening_hours: ""

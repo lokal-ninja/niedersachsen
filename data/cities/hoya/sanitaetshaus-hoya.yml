@@ -5,7 +5,7 @@ latitude: 52.8059628
 longitude: 9.142505700000001
 postcode: 27318
 city: Hoya
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 12
 phone: ""
 opening_hours: "erfragen"

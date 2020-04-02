@@ -5,7 +5,7 @@ latitude: 53.6832487
 longitude: 9.160326900000001
 postcode: 21745
 city: Hemmoor
-street: Otto-Peschel-Straße
+street: "Otto-Peschel-Straße"
 housenumber: 10-16
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

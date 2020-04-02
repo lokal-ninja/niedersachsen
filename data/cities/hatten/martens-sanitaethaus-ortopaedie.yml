@@ -5,7 +5,7 @@ latitude: 53.0527517
 longitude: 8.257421800000001
 postcode: 26209
 city: Hatten
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

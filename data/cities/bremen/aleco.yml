@@ -5,7 +5,7 @@ latitude: 53.056720500000004
 longitude: 8.8000266
 postcode: 28199
 city: Bremen
-street: Kirchweg
+street: "Kirchweg"
 housenumber: 204
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su off"

@@ -5,7 +5,7 @@ latitude: 52.453224600000006
 longitude: 9.358155
 postcode: 31515
 city: Wunstorf
-street: Braustraße
+street: "Braustraße"
 housenumber: 5
 phone: "+49 5033 5326"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1871748
 longitude: 8.6387722
 postcode: 28755
 city: Bremen
-street: Borchshöher Straße
+street: "Borchshöher Straße"
 housenumber: 134
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:30"

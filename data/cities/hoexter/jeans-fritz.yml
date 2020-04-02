@@ -5,7 +5,7 @@ latitude: 51.775084400000004
 longitude: 9.381725000000001
 postcode: 37671
 city: Höxter
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

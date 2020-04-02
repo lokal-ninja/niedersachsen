@@ -5,7 +5,7 @@ latitude: 53.035839300000006
 longitude: 8.8408972
 postcode: 28279
 city: Bremen
-street: Arsterdamm
+street: "Arsterdamm"
 housenumber: 144
 phone: ""
 opening_hours: ""

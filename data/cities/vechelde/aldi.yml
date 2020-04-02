@@ -5,7 +5,7 @@ latitude: 52.26452930000001
 longitude: 10.3642745
 postcode: 38159
 city: Vechelde
-street: Bodelschwinghstraße
+street: "Bodelschwinghstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

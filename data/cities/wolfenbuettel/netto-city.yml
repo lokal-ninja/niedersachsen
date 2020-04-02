@@ -5,7 +5,7 @@ latitude: 52.1725111
 longitude: 10.5547131
 postcode: 38302
 city: Wolfenbüttel
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 48
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

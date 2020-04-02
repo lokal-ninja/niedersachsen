@@ -5,7 +5,7 @@ latitude: 52.432495700000004
 longitude: 10.848809000000001
 postcode: 38448
 city: Wolfsburg
-street: Neuhäuser Straße
+street: "Neuhäuser Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

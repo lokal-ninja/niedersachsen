@@ -5,7 +5,7 @@ latitude: 52.3586839
 longitude: 9.8589447
 postcode: 30559
 city: Hannover
-street: Lehrter Straße
+street: "Lehrter Straße"
 housenumber: 61
 phone: ""
 opening_hours: ""

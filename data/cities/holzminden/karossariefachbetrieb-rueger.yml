@@ -5,7 +5,7 @@ latitude: 51.8204458
 longitude: 9.469919800000001
 postcode: 37603
 city: Holzminden
-street: Rumohrtalstraße
+street: "Rumohrtalstraße"
 housenumber: 71
 phone: "+49 5531 7166"
 opening_hours: ""

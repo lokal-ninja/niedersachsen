@@ -5,7 +5,7 @@ latitude: 52.3365668
 longitude: 9.4907403
 postcode: 30890
 city: Barsinghausen
-street: Mindener Straße
+street: "Mindener Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:30"

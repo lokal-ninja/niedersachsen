@@ -5,7 +5,7 @@ latitude: 52.290121600000006
 longitude: 10.5567346
 postcode: 38108
 city: Braunschweig
-street: Westfalenplatz
+street: "Westfalenplatz"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

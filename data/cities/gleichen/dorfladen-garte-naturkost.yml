@@ -5,7 +5,7 @@ latitude: 51.4857656
 longitude: 9.976212400000001
 postcode: 37130
 city: Gleichen
-street: Reinhäuser Straße
+street: "Reinhäuser Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

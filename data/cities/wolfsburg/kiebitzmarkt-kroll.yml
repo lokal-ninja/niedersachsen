@@ -5,7 +5,7 @@ latitude: 52.431808600000004
 longitude: 10.856401400000001
 postcode: 38448
 city: Wolfsburg
-street: Am Bahnhof
+street: "Am Bahnhof"
 housenumber: 17
 phone: "+49 53631081"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

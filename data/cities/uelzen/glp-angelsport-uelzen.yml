@@ -5,7 +5,7 @@ latitude: 52.963493400000004
 longitude: 10.551514200000002
 postcode: 29525
 city: Uelzen
-street: Dieterichsstraße
+street: "Dieterichsstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 10:00-13:00,14:30-18:00; Tu off; Sa 09:30-13:00"

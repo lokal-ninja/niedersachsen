@@ -5,7 +5,7 @@ latitude: 51.734353500000005
 longitude: 10.264341400000001
 postcode: 37520
 city: Osterode am Harz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 137
 phone: ""
 opening_hours: ""

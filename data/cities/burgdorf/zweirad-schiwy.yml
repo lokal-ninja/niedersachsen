@@ -5,7 +5,7 @@ latitude: 52.4473452
 longitude: 10.00608
 postcode: 31303
 city: Burgdorf
-street: Schmiedestraße
+street: "Schmiedestraße"
 housenumber: 49
 phone: ""
 opening_hours: ""

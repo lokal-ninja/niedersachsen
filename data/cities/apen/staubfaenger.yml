@@ -5,7 +5,7 @@ latitude: 53.2205693
 longitude: 7.7853916000000005
 postcode: 26689
 city: Apen
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 19
 phone: "+49 4489 935400"
 opening_hours: "Mo,Tu,Th,Fr 14:00-18:00"

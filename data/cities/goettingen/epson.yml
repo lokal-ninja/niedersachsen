@@ -5,7 +5,7 @@ latitude: 51.541470600000004
 longitude: 9.9155806
 postcode: 
 city: Göttingen
-street: Königsallee
+street: "Königsallee"
 housenumber: 64
 phone: ""
 opening_hours: "Mo-Th 08:00-16:30; Fr 08:00-15:30; PH off"

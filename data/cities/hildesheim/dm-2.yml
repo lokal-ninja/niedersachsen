@@ -5,7 +5,7 @@ latitude: 52.163195900000005
 longitude: 9.9711271
 postcode: 31135
 city: Hildesheim
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

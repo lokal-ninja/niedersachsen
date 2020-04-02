@@ -5,7 +5,7 @@ latitude: 52.975556000000005
 longitude: 7.5178098
 postcode: 26903
 city: Surwold
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 128
 phone: ""
 opening_hours: ""

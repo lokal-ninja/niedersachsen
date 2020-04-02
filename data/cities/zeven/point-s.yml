@@ -5,7 +5,7 @@ latitude: 53.306514400000005
 longitude: 9.2687723
 postcode: 27404
 city: Zeven
-street: Nord-West-Ring
+street: "Nord-West-Ring"
 housenumber: 12
 phone: ""
 opening_hours: ""

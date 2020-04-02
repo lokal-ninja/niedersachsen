@@ -5,7 +5,7 @@ latitude: 53.0537343
 longitude: 8.659339300000001
 postcode: 27751
 city: Delmenhorst
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 170
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.0785136
 longitude: 8.802187400000001
 postcode: 28195
 city: Bremen
-street: Hutfilterstraße
+street: "Hutfilterstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00;Sa 10:00-19:00"

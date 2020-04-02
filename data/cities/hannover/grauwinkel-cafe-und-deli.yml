@@ -5,7 +5,7 @@ latitude: 52.382695700000006
 longitude: 9.753110900000001
 postcode: 30163
 city: Hannover
-street: Bödekerstraße
+street: "Bödekerstraße"
 housenumber: 27
 phone: "+49 511 89765607"
 opening_hours: "Tu-Sa 09:00-18:00; Su 10:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.5228734
 longitude: 9.066569300000001
 postcode: 31592
 city: Stolzenau
-street: Große Geest
+street: "Große Geest"
 housenumber: 61
 phone: "+49 5761-595"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5127615
 longitude: 10.581806400000001
 postcode: 38524
 city: Sassenburg
-street: Zum Holzplatz
+street: "Zum Holzplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-16:00; Su 07:30-17:00"

@@ -5,7 +5,7 @@ latitude: 52.3035105
 longitude: 8.1244037
 postcode: 49191
 city: Belm
-street: Waterloostraße
+street: "Waterloostraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

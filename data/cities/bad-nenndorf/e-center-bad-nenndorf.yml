@@ -5,7 +5,7 @@ latitude: 52.33674430000001
 longitude: 9.4057624
 postcode: 31542
 city: Bad Nenndorf
-street: Piepmühle
+street: "Piepmühle"
 housenumber: 11
 phone: "+49 5723 74770"
 opening_hours: "Mo-Sa 08:00-21:00"

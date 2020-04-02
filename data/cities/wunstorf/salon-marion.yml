@@ -5,7 +5,7 @@ latitude: 52.425071900000006
 longitude: 9.4840546
 postcode: 31515
 city: Wunstorf
-street: Königsberger Straße
+street: "Königsberger Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2284134
 longitude: 10.526073400000001
 postcode: 38124
 city: Braunschweig
-street: Görlitzstraße
+street: "Görlitzstraße"
 housenumber: 8
 phone: "+49 531 123 3744"
 opening_hours: "Mo-Fr 06:30-18:00;Sa 06:30-13:00;Su 08:00-11:00"

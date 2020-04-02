@@ -5,7 +5,7 @@ latitude: 51.5350029
 longitude: 9.9307747
 postcode: 37073
 city: Göttingen
-street: Obere-Masch-Straße
+street: "Obere-Masch-Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1064657
 longitude: 8.8652785
 postcode: 28359
 city: Bremen
-street: Spittaler Straße
+street: "Spittaler Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

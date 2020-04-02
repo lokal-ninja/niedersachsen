@@ -5,7 +5,7 @@ latitude: 53.1844538
 longitude: 7.267844500000001
 postcode: 26831
 city: Bunde
-street: Blinke
+street: "Blinke"
 housenumber: 3
 phone: ""
 opening_hours: ""

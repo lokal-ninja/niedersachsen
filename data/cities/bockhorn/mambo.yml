@@ -5,7 +5,7 @@ latitude: 53.3877224
 longitude: 8.0178385
 postcode: 26345
 city: Bockhorn
-street: Hilgenholter Straße
+street: "Hilgenholter Straße"
 housenumber: 49
 phone: "+49 4453 979360"
 opening_hours: ""

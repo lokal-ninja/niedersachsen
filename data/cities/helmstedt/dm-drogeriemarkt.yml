@@ -5,7 +5,7 @@ latitude: 52.240821600000004
 longitude: 10.9955364
 postcode: 38350
 city: Helmstedt
-street: Emmerstedter Straße
+street: "Emmerstedter Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

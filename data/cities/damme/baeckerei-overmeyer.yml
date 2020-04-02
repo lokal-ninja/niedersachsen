@@ -5,7 +5,7 @@ latitude: 52.521798800000006
 longitude: 8.2666701
 postcode: 49401
 city: Damme
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 35
 phone: "+49 5491 906948"
 opening_hours: "Mo-Fr 05:30-13:00,14:30-18:30, Sa 05:30-13:00, Su 08:00-11:00"

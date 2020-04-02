@@ -5,7 +5,7 @@ latitude: 53.0448187
 longitude: 8.9525383
 postcode: 28307
 city: Bremen
-street: Hans-Bredow-Straße
+street: "Hans-Bredow-Straße"
 housenumber: 57
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.555227800000004
 longitude: 9.8941984
 postcode: 37079
 city: Göttingen
-street: Rudolf-Wissell-Straße
+street: "Rudolf-Wissell-Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

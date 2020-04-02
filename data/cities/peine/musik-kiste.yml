@@ -5,7 +5,7 @@ latitude: 52.325977800000004
 longitude: 10.225815800000001
 postcode: 31224
 city: Peine
-street: Rosenhagen
+street: "Rosenhagen"
 housenumber: 15
 phone: "+49 5171 16555"
 opening_hours: ""

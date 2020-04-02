@@ -5,7 +5,7 @@ latitude: 53.286297100000006
 longitude: 9.553229400000001
 postcode: 27419
 city: Tiste
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 58
 phone: ""
 opening_hours: ""

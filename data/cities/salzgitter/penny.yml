@@ -5,7 +5,7 @@ latitude: 52.138787
 longitude: 10.2868042
 postcode: 38228
 city: Salzgitter
-street: Theodor-Heuss-Straße
+street: "Theodor-Heuss-Straße"
 housenumber: 57-59
 phone: ""
 opening_hours: "07:00-21:00"

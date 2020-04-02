@@ -5,7 +5,7 @@ latitude: 52.9013398
 longitude: 8.4486369
 postcode: 27793
 city: Wildeshausen
-street: Harpstedter Straße
+street: "Harpstedter Straße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"

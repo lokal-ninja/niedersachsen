@@ -5,7 +5,7 @@ latitude: 53.0725324
 longitude: 8.8626321
 postcode: 28207
 city: Bremen
-street: Stresemannstraße
+street: "Stresemannstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00;Su, PH off"

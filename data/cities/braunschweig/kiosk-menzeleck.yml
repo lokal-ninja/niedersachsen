@@ -5,7 +5,7 @@ latitude: 52.276251800000004
 longitude: 10.546576
 postcode: 38106
 city: Braunschweig
-street: Menzelstraße
+street: "Menzelstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-21:00"

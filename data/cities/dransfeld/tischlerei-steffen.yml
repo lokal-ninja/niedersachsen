@@ -5,7 +5,7 @@ latitude: 51.503792000000004
 longitude: 9.7614205
 postcode: 37127
 city: Dransfeld
-street: Gerlandstraße
+street: "Gerlandstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-14:00; PH off"

@@ -5,7 +5,7 @@ latitude: 51.5246806
 longitude: 9.944035900000001
 postcode: 37083
 city: Göttingen
-street: Leibnizstraße
+street: "Leibnizstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00; PH off"

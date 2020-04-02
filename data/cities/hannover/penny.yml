@@ -5,7 +5,7 @@ latitude: 52.33622080000001
 longitude: 9.761492
 postcode: 30519
 city: Hannover
-street: Landwehrstraße
+street: "Landwehrstraße"
 housenumber: 91
 phone: ""
 opening_hours: ""

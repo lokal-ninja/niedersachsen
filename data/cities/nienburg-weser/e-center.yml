@@ -5,7 +5,7 @@ latitude: 52.653835900000004
 longitude: 9.2167856
 postcode: 31582
 city: Nienburg/Weser
-street: Verdener Landstraße
+street: "Verdener Landstraße"
 housenumber: 55
 phone: "+49 5021 922850"
 opening_hours: "Mo-Sa 07:00-21:00"

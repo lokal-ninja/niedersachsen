@@ -5,7 +5,7 @@ latitude: 53.290448600000005
 longitude: 10.9479412
 postcode: 19273
 city: Amt Neuhaus
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 31c
 phone: "+49 3884120766"
 opening_hours: ""

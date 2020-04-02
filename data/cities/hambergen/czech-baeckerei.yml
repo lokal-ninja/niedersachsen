@@ -5,7 +5,7 @@ latitude: 53.3098856
 longitude: 8.826320500000001
 postcode: 27729
 city: Hambergen
-street: Alte Schulstraße
+street: "Alte Schulstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

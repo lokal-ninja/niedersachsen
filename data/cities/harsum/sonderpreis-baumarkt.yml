@@ -5,7 +5,7 @@ latitude: 52.2070926
 longitude: 9.9711171
 postcode: 31177
 city: Harsum
-street: Morgenstern
+street: "Morgenstern"
 housenumber: 34
 phone: "+49 5127 9024955"
 opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-16:00"

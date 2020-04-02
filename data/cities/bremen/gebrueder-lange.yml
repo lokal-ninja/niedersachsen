@@ -5,7 +5,7 @@ latitude: 53.077242500000004
 longitude: 8.8092795
 postcode: 28195
 city: Bremen
-street: Schüsselkorb
+street: "Schüsselkorb"
 housenumber: 35
 phone: ""
 opening_hours: ""

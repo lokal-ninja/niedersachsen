@@ -5,7 +5,7 @@ latitude: 52.2784023
 longitude: 8.0756295
 postcode: 49084
 city: Osnabrück
-street: Schützenstraße
+street: "Schützenstraße"
 housenumber: 51
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-19:00"

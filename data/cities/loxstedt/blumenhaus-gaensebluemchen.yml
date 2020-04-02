@@ -5,7 +5,7 @@ latitude: 53.4678309
 longitude: 8.644552800000001
 postcode: 27612
 city: Loxstedt
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 73
 phone: "+49 4744 821641"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-13:00; Su 10:30-12:00"

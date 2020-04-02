@@ -5,7 +5,7 @@ latitude: 52.359996200000005
 longitude: 9.8273209
 postcode: 30559
 city: Hannover
-street: Brabeckstraße
+street: "Brabeckstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

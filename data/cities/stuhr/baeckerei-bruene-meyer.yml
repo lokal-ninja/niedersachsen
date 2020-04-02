@@ -5,7 +5,7 @@ latitude: 52.997856500000005
 longitude: 8.705199700000001
 postcode: 28816
 city: Stuhr
-street: Delmenhorster Straße
+street: "Delmenhorster Straße"
 housenumber: 133
 phone: "+49 4206 3055412"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 08:00-11:00"

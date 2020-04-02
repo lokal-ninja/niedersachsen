@@ -5,7 +5,7 @@ latitude: 52.147177500000005
 longitude: 9.399110100000001
 postcode: 31787
 city: Hameln
-street: Ortsfeld
+street: "Ortsfeld"
 housenumber: 2
 phone: ""
 opening_hours: ""

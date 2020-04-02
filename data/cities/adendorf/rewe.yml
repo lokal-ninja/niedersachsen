@@ -5,7 +5,7 @@ latitude: 53.2795865
 longitude: 10.436858800000001
 postcode: 21365
 city: Adendorf
-street: Kirchweg
+street: "Kirchweg"
 housenumber: 19a
 phone: "+49 4131 7895561"
 opening_hours: "Mo-Sa 07:00-22:00"

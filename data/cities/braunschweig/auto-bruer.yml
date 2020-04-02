@@ -5,7 +5,7 @@ latitude: 52.3187529
 longitude: 10.5339553
 postcode: 38110
 city: Braunschweig
-street: Pappelallee
+street: "Pappelallee"
 housenumber: 6
 phone: "+49 5307 7340"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

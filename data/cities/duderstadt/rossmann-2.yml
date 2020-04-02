@@ -5,7 +5,7 @@ latitude: 51.5110553
 longitude: 10.251255
 postcode: 37115
 city: Duderstadt
-street: Sachsenring
+street: "Sachsenring"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

@@ -5,7 +5,7 @@ latitude: 51.5854057
 longitude: 9.869885400000001
 postcode: 
 city: Bovenden
-street: Graseweg
+street: "Graseweg"
 housenumber: 18
 phone: ""
 opening_hours: ""

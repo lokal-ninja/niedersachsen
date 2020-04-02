@@ -5,7 +5,7 @@ latitude: 52.9858064
 longitude: 10.5465186
 postcode: 29525
 city: Uelzen
-street: Fischerhofstraße
+street: "Fischerhofstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00;Sa 08:00-12:00"

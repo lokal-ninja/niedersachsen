@@ -5,7 +5,7 @@ latitude: 52.505717800000006
 longitude: 9.1141685
 postcode: 31633
 city: Leese
-street: Stolzenauer Straße
+street: "Stolzenauer Straße"
 housenumber: 3
 phone: "+49 5761 2254"
 opening_hours: ""

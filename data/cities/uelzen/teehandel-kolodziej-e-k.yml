@@ -5,7 +5,7 @@ latitude: 52.963997400000004
 longitude: 10.5585737
 postcode: 29525
 city: Uelzen
-street: Turmstraße
+street: "Turmstraße"
 housenumber: 2
 phone: "+49 581 16684"
 opening_hours: "Mo-Fr 10:00-12:30"

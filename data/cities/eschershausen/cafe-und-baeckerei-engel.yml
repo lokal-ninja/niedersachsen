@@ -5,7 +5,7 @@ latitude: 51.9272446
 longitude: 9.6388029
 postcode: 37632
 city: Eschershausen
-street: Steinweg
+street: "Steinweg"
 housenumber: 29
 phone: "+49 5534 2032"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.727499300000005
 longitude: 10.252273500000001
 postcode: 37520
 city: Osterode am Harz
-street: Martin-Luther-Platz
+street: "Martin-Luther-Platz"
 housenumber: 5
 phone: ""
 opening_hours: ""

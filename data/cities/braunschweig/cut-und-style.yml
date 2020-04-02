@@ -5,7 +5,7 @@ latitude: 52.2583556
 longitude: 10.5445042
 postcode: 38102
 city: Braunschweig
-street: Helmstedter Straße
+street: "Helmstedter Straße"
 housenumber: 134
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

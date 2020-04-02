@@ -5,7 +5,7 @@ latitude: 51.5876341
 longitude: 9.9266153
 postcode: 37120
 city: Bovenden
-street: Göttinger Straße
+street: "Göttinger Straße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Sa 06:00-18:00; Su 07:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.323234500000005
 longitude: 10.2246664
 postcode: 31224
 city: Peine
-street: Rosenthaler Straße
+street: "Rosenthaler Straße"
 housenumber: 14
 phone: "+49 5171 5874716"
 opening_hours: ""

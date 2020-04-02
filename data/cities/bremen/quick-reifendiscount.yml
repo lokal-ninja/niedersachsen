@@ -5,7 +5,7 @@ latitude: 53.173284800000005
 longitude: 8.7187417
 postcode: 28719
 city: Bremen
-street: Stader Landstraße
+street: "Stader Landstraße"
 housenumber: 92
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-13:00"

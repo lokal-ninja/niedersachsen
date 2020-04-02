@@ -5,7 +5,7 @@ latitude: 52.227578400000006
 longitude: 11.010907600000001
 postcode: 38350
 city: Helmstedt
-street: Papenberg
+street: "Papenberg"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"

@@ -5,7 +5,7 @@ latitude: 53.275603000000004
 longitude: 9.737541700000001
 postcode: 
 city: Tostedt
-street: Am Raiffeisenplatz
+street: "Am Raiffeisenplatz"
 housenumber: 1
 phone: "+49 4182 296124"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00"

@@ -5,7 +5,7 @@ latitude: 52.1878624
 longitude: 9.080395900000001
 postcode: 31737
 city: Rinteln
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 20
 phone: "+49 5751 3098"
 opening_hours: ""

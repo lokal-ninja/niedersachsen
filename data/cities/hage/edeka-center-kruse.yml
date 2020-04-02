@@ -5,7 +5,7 @@ latitude: 53.6022413
 longitude: 7.2832327
 postcode: 26524
 city: Hage
-street: Baantjebur
+street: "Baantjebur"
 housenumber: 4
 phone: "+49 4931 94090"
 opening_hours: "Mo-Sa 08:00-21:00"

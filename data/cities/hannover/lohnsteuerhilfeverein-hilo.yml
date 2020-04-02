@@ -5,7 +5,7 @@ latitude: 52.3418502
 longitude: 9.8265695
 postcode: 30539
 city: Hannover
-street: Hinter dem Dorfe
+street: "Hinter dem Dorfe"
 housenumber: 4
 phone: "+49 511 5441820"
 opening_hours: ""

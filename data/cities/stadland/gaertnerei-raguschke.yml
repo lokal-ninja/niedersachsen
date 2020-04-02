@@ -5,7 +5,7 @@ latitude: 53.457001500000004
 longitude: 8.3451435
 postcode: 26937
 city: Stadland
-street: Deichstraße
+street: "Deichstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

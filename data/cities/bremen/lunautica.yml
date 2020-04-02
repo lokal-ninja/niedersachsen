@@ -5,7 +5,7 @@ latitude: 53.169489600000006
 longitude: 8.6228792
 postcode: 28757
 city: Bremen
-street: Rohrstraße
+street: "Rohrstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.001316700000004
 longitude: 10.089824700000001
 postcode: 29633
 city: Munster
-street: Breloher Straße
+street: "Breloher Straße"
 housenumber: 103
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

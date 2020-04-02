@@ -5,7 +5,7 @@ latitude: 52.547895800000006
 longitude: 8.5927594
 postcode: 49419
 city: Wagenfeld
-street: Mindener Straße
+street: "Mindener Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

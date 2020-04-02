@@ -5,7 +5,7 @@ latitude: 52.35680970000001
 longitude: 9.7523975
 postcode: 30173
 city: Hannover
-street: Mozartstraße
+street: "Mozartstraße"
 housenumber: 14-16
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

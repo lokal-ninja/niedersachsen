@@ -5,7 +5,7 @@ latitude: 52.112096900000004
 longitude: 10.353672000000001
 postcode: 38229
 city: Salzgitter
-street: Reichenberger Straße
+street: "Reichenberger Straße"
 housenumber: 59-61
 phone: ""
 opening_hours: ""

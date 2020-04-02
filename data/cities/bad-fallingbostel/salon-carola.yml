@@ -5,7 +5,7 @@ latitude: 52.865374200000005
 longitude: 9.6975548
 postcode: 29683
 city: Bad Fallingbostel
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

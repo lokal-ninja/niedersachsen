@@ -5,7 +5,7 @@ latitude: 52.2761629
 longitude: 8.0422227
 postcode: 49074
 city: Osnabrück
-street: Dielingerstraße
+street: "Dielingerstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

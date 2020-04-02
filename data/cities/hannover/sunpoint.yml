@@ -5,7 +5,7 @@ latitude: 52.3795937
 longitude: 9.740045700000001
 postcode: 30161
 city: Hannover
-street: Hamburger Allee
+street: "Hamburger Allee"
 housenumber: 19a
 phone: ""
 opening_hours: ""

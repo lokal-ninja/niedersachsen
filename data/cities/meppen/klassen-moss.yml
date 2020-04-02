@@ -5,7 +5,7 @@ latitude: 52.6876253
 longitude: 7.290362600000001
 postcode: 49716
 city: Meppen
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

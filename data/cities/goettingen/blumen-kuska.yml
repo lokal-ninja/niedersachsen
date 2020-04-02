@@ -5,7 +5,7 @@ latitude: 51.5480188
 longitude: 9.9349892
 postcode: 37075
 city: Göttingen
-street: Goßlerstraße
+street: "Goßlerstraße"
 housenumber: 69
 phone: ""
 opening_hours: ""

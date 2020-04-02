@@ -5,7 +5,7 @@ latitude: 53.533809000000005
 longitude: 9.679953300000001
 postcode: 21635
 city: Jork
-street: Altländer Markt
+street: "Altländer Markt"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00; PH off"

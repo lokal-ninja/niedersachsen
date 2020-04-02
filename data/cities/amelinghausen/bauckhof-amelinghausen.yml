@@ -5,7 +5,7 @@ latitude: 53.132164
 longitude: 10.218245300000001
 postcode: 21385
 city: Amelinghausen
-street: Triangel
+street: "Triangel"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-13:00; Su,PH off"

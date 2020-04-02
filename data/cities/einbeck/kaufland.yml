@@ -5,7 +5,7 @@ latitude: 51.8195896
 longitude: 9.8511369
 postcode: 37574
 city: Einbeck
-street: Walter-Poser-Straße
+street: "Walter-Poser-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

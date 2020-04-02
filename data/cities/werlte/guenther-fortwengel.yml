@@ -5,7 +5,7 @@ latitude: 52.851646200000005
 longitude: 7.674015300000001
 postcode: 49757
 city: Werlte
-street: Kleiner Weg
+street: "Kleiner Weg"
 housenumber: 1
 phone: "+49 5951 1278"
 opening_hours: ""

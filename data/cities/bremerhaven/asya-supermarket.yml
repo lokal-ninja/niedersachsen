@@ -5,7 +5,7 @@ latitude: 53.52018150000001
 longitude: 8.6054826
 postcode: 27574
 city: Bremerhaven
-street: Boschstraße
+street: "Boschstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

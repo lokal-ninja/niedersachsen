@@ -5,7 +5,7 @@ latitude: 53.353523800000005
 longitude: 9.874054800000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Brauerstraße
+street: "Brauerstraße"
 housenumber: 14
 phone: "+49 4181 28950"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"

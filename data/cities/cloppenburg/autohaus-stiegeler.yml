@@ -5,7 +5,7 @@ latitude: 52.8388118
 longitude: 8.070261200000001
 postcode: 49661
 city: Cloppenburg
-street: Max-Planck-Straße
+street: "Max-Planck-Straße"
 housenumber: 8
 phone: "+49 4471 932787"
 opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-12:00; Su,PH off"

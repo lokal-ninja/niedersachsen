@@ -5,7 +5,7 @@ latitude: 51.583395800000005
 longitude: 9.9268628
 postcode: 
 city: Bovenden
-street: Sonnenberg
+street: "Sonnenberg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:30; PH off"

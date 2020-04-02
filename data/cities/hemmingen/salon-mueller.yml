@@ -5,7 +5,7 @@ latitude: 52.299063000000004
 longitude: 9.7412948
 postcode: 30966
 city: Hemmingen
-street: Göttinger Straße
+street: "Göttinger Straße"
 housenumber: 111
 phone: ""
 opening_hours: ""

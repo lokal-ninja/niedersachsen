@@ -5,7 +5,7 @@ latitude: 53.115917100000004
 longitude: 9.788872600000001
 postcode: 29640
 city: Schneverdingen
-street: Verdener Straße
+street: "Verdener Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

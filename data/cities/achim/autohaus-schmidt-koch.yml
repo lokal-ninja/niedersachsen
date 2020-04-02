@@ -5,7 +5,7 @@ latitude: 53.0037808
 longitude: 9.0495854
 postcode: 28832
 city: Achim
-street: Obernstraße
+street: "Obernstraße"
 housenumber: 153
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3716281
 longitude: 9.7332634
 postcode: 30159
 city: Hannover
-street: Kramerstraße
+street: "Kramerstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2742367
 longitude: 9.9512607
 postcode: 31191
 city: Algermissen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 22a
 phone: ""
 opening_hours: ""

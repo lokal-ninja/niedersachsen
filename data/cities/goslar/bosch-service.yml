@@ -5,7 +5,7 @@ latitude: 51.9269904
 longitude: 10.4224025
 postcode: 38644
 city: Goslar
-street: Ottostraße
+street: "Ottostraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

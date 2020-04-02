@@ -5,7 +5,7 @@ latitude: 53.0346282
 longitude: 8.5441109
 postcode: 27777
 city: Ganderkesee
-street: Markt
+street: "Markt"
 housenumber: 7
 phone: "+49 4222 2926"
 opening_hours: "Mo, Tu, Th, Fr 09:00-12:30, 14:30-18:00; We, Sa 09:00-12:30; Su, PH off"

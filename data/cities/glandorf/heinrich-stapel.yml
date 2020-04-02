@@ -5,7 +5,7 @@ latitude: 52.0811392
 longitude: 8.001767300000001
 postcode: 49219
 city: Glandorf
-street: Kolpingstraße
+street: "Kolpingstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.398287200000006
 longitude: 8.1236362
 postcode: 26316
 city: Varel
-street: Gertrud-Barthel-Straße
+street: "Gertrud-Barthel-Straße"
 housenumber: 3
 phone: "+49 4451 951320"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"

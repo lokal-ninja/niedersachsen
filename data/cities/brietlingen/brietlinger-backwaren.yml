@@ -5,7 +5,7 @@ latitude: 53.327079600000005
 longitude: 10.443169000000001
 postcode: 21382
 city: Brietlingen
-street: Bundesstraße
+street: "Bundesstraße"
 housenumber: 48a
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:30; Su 08:00-11:00"

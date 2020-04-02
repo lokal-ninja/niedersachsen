@@ -5,7 +5,7 @@ latitude: 53.058460700000005
 longitude: 8.7908588
 postcode: 28199
 city: Bremen
-street: Georg-Wulf-Straße
+street: "Georg-Wulf-Straße"
 housenumber: 13
 phone: "+49 421 54988486"
 opening_hours: "Mo-Tu 10:00-13:00, 15:00-18:00; We off; Th-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00"

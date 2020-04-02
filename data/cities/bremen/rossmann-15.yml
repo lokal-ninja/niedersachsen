@@ -5,7 +5,7 @@ latitude: 53.065270500000004
 longitude: 8.9509592
 postcode: 28325
 city: Bremen
-street: Walliser Straße
+street: "Walliser Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

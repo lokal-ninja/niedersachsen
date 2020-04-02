@@ -5,7 +5,7 @@ latitude: 52.4473714
 longitude: 9.607892300000001
 postcode: 30827
 city: Garbsen
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 21A
 phone: ""
 opening_hours: ""

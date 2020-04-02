@@ -5,7 +5,7 @@ latitude: 53.16341490000001
 longitude: 8.220742600000001
 postcode: 26121
 city: Oldenburg
-street: Deelweg
+street: "Deelweg"
 housenumber: 17a
 phone: ""
 opening_hours: ""

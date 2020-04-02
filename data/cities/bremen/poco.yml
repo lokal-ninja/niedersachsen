@@ -5,7 +5,7 @@ latitude: 53.0468089
 longitude: 8.8504898
 postcode: 28279
 city: Bremen
-street: Steinsetzerstraße
+street: "Steinsetzerstraße"
 housenumber: 17
 phone: "+49 421 87 85 040"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 51.5364128
 longitude: 9.9081577
 postcode: 
 city: Göttingen
-street: Salinenweg
+street: "Salinenweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

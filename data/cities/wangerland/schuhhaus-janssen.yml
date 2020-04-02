@@ -5,7 +5,7 @@ latitude: 53.6858948
 longitude: 8.0134532
 postcode: 26434
 city: Wangerland
-street: Goldstraße
+street: "Goldstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 10:00-12:30, Mo,Tu,Th,Fr 14:30-17:00; Sa,Su 10:00-16:00"

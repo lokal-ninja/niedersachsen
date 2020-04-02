@@ -5,7 +5,7 @@ latitude: 52.459031
 longitude: 9.990988300000001
 postcode: 31303
 city: Burgdorf
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

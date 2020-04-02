@@ -5,7 +5,7 @@ latitude: 53.194855600000004
 longitude: 8.464155400000001
 postcode: 27804
 city: Berne
-street: Schlüter Straße
+street: "Schlüter Straße"
 housenumber: 55
 phone: "+49 4406 6552"
 opening_hours: ""

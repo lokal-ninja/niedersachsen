@@ -5,7 +5,7 @@ latitude: 52.4456581
 longitude: 9.419712200000001
 postcode: 31515
 city: Wunstorf
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 1
 phone: "+49 5031 5160044"
 opening_hours: "Mo-Sa 07:00-12:00"

@@ -5,7 +5,7 @@ latitude: 53.0829686
 longitude: 7.386559500000001
 postcode: 26871
 city: Papenburg
-street: Am Stadtpark
+street: "Am Stadtpark"
 housenumber: 45
 phone: "+49 4961 664290"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 51.8177109
 longitude: 9.865892500000001
 postcode: 37574
 city: Einbeck
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 24
 phone: "+49 5561 927380"
 opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-14:00"

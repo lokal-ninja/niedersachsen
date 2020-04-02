@@ -5,7 +5,7 @@ latitude: 52.988815800000005
 longitude: 8.811936900000001
 postcode: 28844
 city: Weyhe
-street: Alte Poststraße
+street: "Alte Poststraße"
 housenumber: 9A
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

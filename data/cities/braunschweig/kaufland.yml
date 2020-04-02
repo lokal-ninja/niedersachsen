@@ -5,7 +5,7 @@ latitude: 52.217325100000004
 longitude: 10.528257700000001
 postcode: 38124
 city: Braunschweig
-street: Senefelderstraße
+street: "Senefelderstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

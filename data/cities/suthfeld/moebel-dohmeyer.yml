@@ -5,7 +5,7 @@ latitude: 52.3504573
 longitude: 9.405852600000001
 postcode: 31555
 city: Suthfeld
-street: Auf der Riehe
+street: "Auf der Riehe"
 housenumber: 25
 phone: "+49 5723 94310"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

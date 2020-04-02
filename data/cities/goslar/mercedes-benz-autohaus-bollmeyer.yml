@@ -5,7 +5,7 @@ latitude: 51.9247066
 longitude: 10.4139947
 postcode: 38644
 city: Goslar
-street: Bornhardtstraße
+street: "Bornhardtstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

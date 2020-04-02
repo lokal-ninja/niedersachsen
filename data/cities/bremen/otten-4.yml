@@ -5,7 +5,7 @@ latitude: 53.100042
 longitude: 8.8863502
 postcode: 28357
 city: Bremen
-street: Wilhelm-Röntgen-Straße
+street: "Wilhelm-Röntgen-Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:30; Su 08:00-11:00"

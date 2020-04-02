@@ -5,7 +5,7 @@ latitude: 53.1201353
 longitude: 9.4259754
 postcode: 27356
 city: Rotenburg (Wümme)
-street: Brockeler Straße
+street: "Brockeler Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

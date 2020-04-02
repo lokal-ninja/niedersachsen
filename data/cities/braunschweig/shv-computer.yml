@@ -5,7 +5,7 @@ latitude: 52.2743662
 longitude: 10.5342038
 postcode: 38106
 city: Braunschweig
-street: Bültenweg
+street: "Bültenweg"
 housenumber: 81
 phone: "+49 531 2335134"
 opening_hours: "Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 15:30-18:00"

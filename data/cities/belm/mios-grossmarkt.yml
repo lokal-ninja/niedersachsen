@@ -5,7 +5,7 @@ latitude: 52.3018457
 longitude: 8.113782200000001
 postcode: 49191
 city: Belm
-street: Weberstraße
+street: "Weberstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

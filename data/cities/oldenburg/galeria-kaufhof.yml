@@ -5,7 +5,7 @@ latitude: 53.139078000000005
 longitude: 8.215248
 postcode: 26122
 city: Oldenburg
-street: Ritterstraße
+street: "Ritterstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 09:30-19:00"

@@ -5,7 +5,7 @@ latitude: 53.3951884
 longitude: 8.1142152
 postcode: 26316
 city: Varel
-street: Hans-Schütte-Straße
+street: "Hans-Schütte-Straße"
 housenumber: 20
 phone: "+49 4451 91839-0"
 opening_hours: ""

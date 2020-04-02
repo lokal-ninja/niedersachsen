@@ -5,7 +5,7 @@ latitude: 53.366116000000005
 longitude: 9.7132159
 postcode: 21279
 city: Hollenstedt
-street: Am Stinnberg
+street: "Am Stinnberg"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-16:00; Su 08:00-11:00"

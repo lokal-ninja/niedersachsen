@@ -5,7 +5,7 @@ latitude: 52.209961400000005
 longitude: 9.555956100000001
 postcode: 31832
 city: Springe
-street: Nordwall
+street: "Nordwall"
 housenumber: 16
 phone: "+49 5041 4311"
 opening_hours: "Mo,Tu,Th,Fr 9:00-18:00;Sa 10:00-13:00"

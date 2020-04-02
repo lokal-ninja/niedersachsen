@@ -5,7 +5,7 @@ latitude: 52.20549320000001
 longitude: 10.0055332
 postcode: 31177
 city: Harsum
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

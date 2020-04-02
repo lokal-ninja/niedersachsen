@@ -5,7 +5,7 @@ latitude: 53.068969300000006
 longitude: 7.418019200000001
 postcode: 26871
 city: Papenburg
-street: Gutshofstraße
+street: "Gutshofstraße"
 housenumber: 30
 phone: "+49 4961 9424975"
 opening_hours: ""

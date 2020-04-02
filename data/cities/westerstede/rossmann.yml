@@ -5,7 +5,7 @@ latitude: 53.255333900000004
 longitude: 7.9293193
 postcode: 26655
 city: Westerstede
-street: Meinardusstraße
+street: "Meinardusstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-19:00; PH off"

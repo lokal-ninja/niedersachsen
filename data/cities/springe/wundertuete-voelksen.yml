@@ -5,7 +5,7 @@ latitude: 52.2171359
 longitude: 9.626776000000001
 postcode: 31832
 city: Springe
-street: Steinhauerstraße
+street: "Steinhauerstraße"
 housenumber: 50
 phone: "+49 5041 748746"
 opening_hours: "Th-Fr,Mo-Tu 08:30-13:00,15:00-18:00; We,Sa 08:30-13:00; Su,PH off"

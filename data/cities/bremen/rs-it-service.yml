@@ -5,7 +5,7 @@ latitude: 53.0973405
 longitude: 8.784690000000001
 postcode: 28217
 city: Bremen
-street: Vegesacker Straße
+street: "Vegesacker Straße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo,Th 15:00-18:30; Tu,Fr 10:00-14:00; We 10:00-14:00,15:00-18:30"

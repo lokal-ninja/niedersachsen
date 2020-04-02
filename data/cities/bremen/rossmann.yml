@@ -5,7 +5,7 @@ latitude: 53.080334300000004
 longitude: 8.8105129
 postcode: 28195
 city: Bremen
-street: Herdentorsteinweg
+street: "Herdentorsteinweg"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; PH off"

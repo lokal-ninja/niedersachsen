@@ -5,7 +5,7 @@ latitude: 52.19621
 longitude: 9.0876117
 postcode: 31737
 city: Rinteln
-street: Konrad-Adenauer-Straße
+street: "Konrad-Adenauer-Straße"
 housenumber: 37
 phone: ""
 opening_hours: ""

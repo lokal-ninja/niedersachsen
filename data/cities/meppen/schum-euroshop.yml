@@ -5,7 +5,7 @@ latitude: 52.692307500000005
 longitude: 7.2910506
 postcode: 49716
 city: Meppen
-street: Hasestraße
+street: "Hasestraße"
 housenumber: 2
 phone: "+49 931 90004390"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

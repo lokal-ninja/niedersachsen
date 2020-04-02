@@ -5,7 +5,7 @@ latitude: 52.86078740000001
 longitude: 7.315558800000001
 postcode: 49762
 city: Lathen
-street: Kolpingplatz
+street: "Kolpingplatz"
 housenumber: 7
 phone: "+49 5933 9246790"
 opening_hours: ""

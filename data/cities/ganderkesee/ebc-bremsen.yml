@@ -5,7 +5,7 @@ latitude: 53.0617287
 longitude: 8.5698288
 postcode: 27777
 city: Ganderkesee
-street: Almsloher Straße
+street: "Almsloher Straße"
 housenumber: 6a
 phone: "+49171 8654111"
 opening_hours: ""

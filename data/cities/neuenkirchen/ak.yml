@@ -5,7 +5,7 @@ latitude: 53.085720200000004
 longitude: 9.6643694
 postcode: 29643
 city: Neuenkirchen
-street: Moorstraße
+street: "Moorstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo - Fr 09:00-12:00, 13:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 53.163409400000006
 longitude: 7.353137
 postcode: 26826
 city: Weener
-street: Süderstraße
+street: "Süderstraße"
 housenumber: 39
 phone: "+4949518095"
 opening_hours: "Mo 06:00-12:30;Tu-Th 06:00-12:30,14:30-18:00;Fr 06:00-18:00;Sa 06:00-12:00"

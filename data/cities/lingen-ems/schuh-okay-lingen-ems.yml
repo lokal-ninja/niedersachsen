@@ -5,7 +5,7 @@ latitude: 52.5203915
 longitude: 7.316945700000001
 postcode: 49808
 city: Lingen (Ems)
-street: Lookenstraße
+street: "Lookenstraße"
 housenumber: 18
 phone: "+49 591 53080"
 opening_hours: "Mo-Sa 09:30-19:00; PH off"

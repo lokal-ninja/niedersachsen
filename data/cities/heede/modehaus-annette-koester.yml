@@ -5,7 +5,7 @@ latitude: 52.9934754
 longitude: 7.303716400000001
 postcode: 26892
 city: Heede
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: "+49 4963 8982"
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-13:00"

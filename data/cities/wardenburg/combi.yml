@@ -5,7 +5,7 @@ latitude: 53.0529105
 longitude: 8.2020952
 postcode: 26203
 city: Wardenburg
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 4
 phone: "+49 4407 979903"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.395344300000005
 longitude: 8.1394915
 postcode: 26316
 city: Varel
-street: Obernstraße
+street: "Obernstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

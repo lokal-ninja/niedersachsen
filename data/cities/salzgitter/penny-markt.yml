@@ -5,7 +5,7 @@ latitude: 52.1664435
 longitude: 10.3296118
 postcode: 38226
 city: Salzgitter
-street: Reppnersche Straße
+street: "Reppnersche Straße"
 housenumber: 1b
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:30"

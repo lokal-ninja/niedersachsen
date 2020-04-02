@@ -5,7 +5,7 @@ latitude: 51.5194537
 longitude: 9.951521900000001
 postcode: 
 city: Göttingen
-street: Geismar Landstraße
+street: "Geismar Landstraße"
 housenumber: 89
 phone: ""
 opening_hours: ""

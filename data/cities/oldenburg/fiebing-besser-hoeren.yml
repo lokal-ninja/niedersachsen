@@ -5,7 +5,7 @@ latitude: 53.146481400000006
 longitude: 8.220889600000001
 postcode: 26123
 city: Oldenburg
-street: Neue Donnerschweer Straße
+street: "Neue Donnerschweer Straße"
 housenumber: 30
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.275964
 longitude: 8.0457395
 postcode: 49074
 city: Osnabrück
-street: Herrenteichsstraße
+street: "Herrenteichsstraße"
 housenumber: 15-16
 phone: "+49 30 39022222"
 opening_hours: "Mo-Sa 10:00-19:00"

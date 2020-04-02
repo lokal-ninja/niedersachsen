@@ -5,7 +5,7 @@ latitude: 52.7278189
 longitude: 10.7411724
 postcode: 29378
 city: Wittingen
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 47
 phone: ""
 opening_hours: ""

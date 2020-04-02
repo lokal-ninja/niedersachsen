@@ -5,7 +5,7 @@ latitude: 52.342506300000004
 longitude: 9.1447727
 postcode: 31715
 city: Meerbeck
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 1
 phone: "+49 5721 2526"
 opening_hours: "Mo-Fr 06:00-13:00; Mo-Fr 15:00-18:00; Sa 06:00-13:00; Su 08:00-11:00"

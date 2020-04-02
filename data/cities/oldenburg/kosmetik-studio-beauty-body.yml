@@ -5,7 +5,7 @@ latitude: 53.1201103
 longitude: 8.2186049
 postcode: 26133
 city: Oldenburg
-street: Schützenhofstraße
+street: "Schützenhofstraße"
 housenumber: 154
 phone: "+49 441 486686"
 opening_hours: ""

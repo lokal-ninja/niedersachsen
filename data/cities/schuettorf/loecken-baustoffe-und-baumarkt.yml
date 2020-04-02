@@ -5,7 +5,7 @@ latitude: 52.33772080000001
 longitude: 7.2489490000000005
 postcode: 48465
 city: Schüttorf
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 22
 phone: "+49 5923 9884940"
 opening_hours: ""

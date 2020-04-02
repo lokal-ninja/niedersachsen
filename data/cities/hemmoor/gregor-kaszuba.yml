@@ -5,7 +5,7 @@ latitude: 53.6968121
 longitude: 9.1447871
 postcode: 21745
 city: Hemmoor
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 69
 phone: ""
 opening_hours: ""

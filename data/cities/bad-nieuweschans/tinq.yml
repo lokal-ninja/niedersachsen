@@ -5,7 +5,7 @@ latitude: 53.1835682
 longitude: 7.207811800000001
 postcode: 
 city: Bad Nieuweschans
-street: H.F.Dresselhuisstraat
+street: "H.F.Dresselhuisstraat"
 housenumber: 26
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.324667600000005
 longitude: 9.7235641
 postcode: 30966
 city: Hemmingen
-street: Deveser Straße
+street: "Deveser Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00, Sa 09:00-13:00"

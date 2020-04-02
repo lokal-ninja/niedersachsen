@@ -5,7 +5,7 @@ latitude: 51.595459700000006
 longitude: 10.554849200000001
 postcode: 37441
 city: Bad Sachsa
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

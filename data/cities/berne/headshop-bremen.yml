@@ -5,7 +5,7 @@ latitude: 53.1792828
 longitude: 8.4904717
 postcode: 27804
 city: Berne
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

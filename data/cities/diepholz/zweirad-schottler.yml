@@ -5,7 +5,7 @@ latitude: 52.6185793
 longitude: 8.380099900000001
 postcode: 49356
 city: Diepholz
-street: Stauffenbergstraße
+street: "Stauffenbergstraße"
 housenumber: 64
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:30-14:00"

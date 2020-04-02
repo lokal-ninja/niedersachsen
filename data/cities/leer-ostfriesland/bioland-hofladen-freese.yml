@@ -5,7 +5,7 @@ latitude: 53.233651200000004
 longitude: 7.4568520000000005
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Friesenstraße
+street: "Friesenstraße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-13:00; Su off; PH off"

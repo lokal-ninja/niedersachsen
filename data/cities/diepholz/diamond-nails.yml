@@ -5,7 +5,7 @@ latitude: 52.605477300000004
 longitude: 8.3651508
 postcode: 49356
 city: Diepholz
-street: Steinstraße
+street: "Steinstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

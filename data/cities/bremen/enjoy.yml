@@ -5,7 +5,7 @@ latitude: 53.174493600000005
 longitude: 8.6151044
 postcode: 28757
 city: Bremen
-street: Bermpohlstraße
+street: "Bermpohlstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

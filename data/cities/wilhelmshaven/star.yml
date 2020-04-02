@@ -5,7 +5,7 @@ latitude: 53.527371800000004
 longitude: 8.0932331
 postcode: 26389
 city: Wilhelmshaven
-street: Banter Weg
+street: "Banter Weg"
 housenumber: 175
 phone: "+49 4421 759255"
 opening_hours: "24/7"

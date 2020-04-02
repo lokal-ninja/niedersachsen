@@ -5,7 +5,7 @@ latitude: 53.150544100000005
 longitude: 8.2277202
 postcode: 26123
 city: Oldenburg
-street: Klosterstraße
+street: "Klosterstraße"
 housenumber: 6
 phone: "+49 441 86842"
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00; PH off"

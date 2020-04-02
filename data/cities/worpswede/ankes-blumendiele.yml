@@ -5,7 +5,7 @@ latitude: 53.2926051
 longitude: 8.985548300000001
 postcode: 27726
 city: Worpswede
-street: Heudorfer Straße
+street: "Heudorfer Straße"
 housenumber: 16
 phone: "+49 47 94 - 244"
 opening_hours: "Mo-Su"

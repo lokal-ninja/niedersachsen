@@ -5,7 +5,7 @@ latitude: 53.247724000000005
 longitude: 10.401947
 postcode: 21335
 city: Lüneburg
-street: Obere Ohlingerstraße
+street: "Obere Ohlingerstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Tu,Th,Fr 09:00-18:00; We 14:30-18:00; Sa 08:00-13:00; Su,Mo,PH off"

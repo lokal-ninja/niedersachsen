@@ -5,7 +5,7 @@ latitude: 52.43702630000001
 longitude: 10.8616241
 postcode: 38448
 city: Wolfsburg
-street: Sudammsbreite
+street: "Sudammsbreite"
 housenumber: 43
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:00"

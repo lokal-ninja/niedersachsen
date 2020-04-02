@@ -5,7 +5,7 @@ latitude: 53.57507390000001
 longitude: 7.9836042
 postcode: 26419
 city: Schortens
-street: Sögestraße
+street: "Sögestraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

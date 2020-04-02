@@ -5,7 +5,7 @@ latitude: 52.976423100000005
 longitude: 8.8512442
 postcode: 28844
 city: Weyhe
-street: Fasanenweg
+street: "Fasanenweg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su,PH off || oder nach Vereinbarung"

@@ -5,7 +5,7 @@ latitude: 52.627283000000006
 longitude: 10.0992729
 postcode: 
 city: Celle
-street: Wittinger Straße
+street: "Wittinger Straße"
 housenumber: 103
 phone: ""
 opening_hours: ""

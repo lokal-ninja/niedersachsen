@@ -5,7 +5,7 @@ latitude: 53.590835600000005
 longitude: 8.6196123
 postcode: 27578
 city: Bremerhaven
-street: Wilhelm-Leuschner-Straße
+street: "Wilhelm-Leuschner-Straße"
 housenumber: 7
 phone: "+49 471 4834806"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

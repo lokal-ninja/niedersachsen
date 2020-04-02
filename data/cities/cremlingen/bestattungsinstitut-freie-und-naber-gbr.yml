@@ -5,7 +5,7 @@ latitude: 52.248088900000006
 longitude: 10.655681000000001
 postcode: 38162
 city: Cremlingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 
 phone: "+49 5306 2564"
 opening_hours: ""

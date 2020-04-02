@@ -5,7 +5,7 @@ latitude: 51.554443600000006
 longitude: 9.9293622
 postcode: 37075
 city: Göttingen
-street: Hannoversche Straße
+street: "Hannoversche Straße"
 housenumber: 53c
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00; PH off"

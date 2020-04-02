@@ -5,7 +5,7 @@ latitude: 52.278160500000006
 longitude: 10.9850329
 postcode: 38368
 city: Mariental
-street: Siedlung
+street: "Siedlung"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 06:00-21:00; Sa 08:00-18:00; Su 09:00-18:00"

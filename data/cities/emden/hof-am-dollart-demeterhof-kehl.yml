@@ -5,7 +5,7 @@ latitude: 53.3503132
 longitude: 7.1081061000000005
 postcode: 26723
 city: Emden
-street: Kloster-Langen-Straße
+street: "Kloster-Langen-Straße"
 housenumber: 19
 phone: "+49 4921 65454"
 opening_hours: "We 10:00-17:00; Fr 10:00-17:00"

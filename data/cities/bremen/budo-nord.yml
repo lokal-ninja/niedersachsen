@@ -5,7 +5,7 @@ latitude: 53.1906291
 longitude: 8.5555299
 postcode: 28777
 city: Bremen
-street: Striekenkamp
+street: "Striekenkamp"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Th 10:00-14:00, 15:00-18:00;Fr 09:00-13:00"

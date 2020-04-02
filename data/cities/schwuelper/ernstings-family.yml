@@ -5,7 +5,7 @@ latitude: 52.354803700000005
 longitude: 10.4414602
 postcode: 38179
 city: Schwülper
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 1b
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

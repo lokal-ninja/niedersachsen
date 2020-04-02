@@ -5,7 +5,7 @@ latitude: 52.1197479
 longitude: 9.7362053
 postcode: 
 city: Elze
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

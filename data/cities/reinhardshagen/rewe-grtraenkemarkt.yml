@@ -5,7 +5,7 @@ latitude: 51.489228100000005
 longitude: 9.606684300000001
 postcode: 34359
 city: Reinhardshagen
-street: Vaaker Weg
+street: "Vaaker Weg"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

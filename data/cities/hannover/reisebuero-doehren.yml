@@ -5,7 +5,7 @@ latitude: 52.340175200000004
 longitude: 9.7640588
 postcode: 30519
 city: Hannover
-street: Bernwardstraße
+street: "Bernwardstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

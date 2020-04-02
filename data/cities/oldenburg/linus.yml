@@ -5,7 +5,7 @@ latitude: 53.140171
 longitude: 8.2132216
 postcode: 26122
 city: Oldenburg
-street: Schüttingstraße
+street: "Schüttingstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00"

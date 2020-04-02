@@ -5,7 +5,7 @@ latitude: 53.389821000000005
 longitude: 7.2108897
 postcode: 26721
 city: Emden
-street: Fritz-Reuter-Straße
+street: "Fritz-Reuter-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

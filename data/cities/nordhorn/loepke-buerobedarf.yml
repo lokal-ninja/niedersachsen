@@ -5,7 +5,7 @@ latitude: 52.429816800000005
 longitude: 7.0725778
 postcode: 48529
 city: Nordhorn
-street: Bentheimer Straße
+street: "Bentheimer Straße"
 housenumber: 75-77
 phone: "+49 5921 8088-0"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.0167762
 longitude: 8.878627
 postcode: 28844
 city: Weyhe
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:30-12:00; Su 14:00-18:00"

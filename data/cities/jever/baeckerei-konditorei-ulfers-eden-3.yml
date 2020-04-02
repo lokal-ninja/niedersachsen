@@ -5,7 +5,7 @@ latitude: 53.5612548
 longitude: 7.9135343
 postcode: 26441
 city: Jever
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 72
 phone: "+49 4461 917534"
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 53.247754
 longitude: 8.1876241
 postcode: 26180
 city: Rastede
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 44
 phone: "+49 4402 69626-0"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00"

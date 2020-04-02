@@ -5,7 +5,7 @@ latitude: 52.364636100000006
 longitude: 9.762623000000001
 postcode: 30171
 city: Hannover
-street: Spielhagenstraße
+street: "Spielhagenstraße"
 housenumber: 23a
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:30"

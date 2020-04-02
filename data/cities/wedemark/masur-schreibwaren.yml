@@ -5,7 +5,7 @@ latitude: 52.524916000000005
 longitude: 9.7545531
 postcode: 30900
 city: Wedemark
-street: Mellendorfer Straße
+street: "Mellendorfer Straße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Tu 07:30-13:00,15:00-18:00, We 07:30-13:00,Th-Fr 07:30-13:00,15:00-18:00, Sa 07:30-13:00"

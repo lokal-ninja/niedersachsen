@@ -5,7 +5,7 @@ latitude: 52.6047257
 longitude: 10.078460300000001
 postcode: 29227
 city: Celle
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo 08:00-13:00, Tu-Fr 08:00-18:00, Sa 08:00-13:00, Su 10:00-12:00"

@@ -5,7 +5,7 @@ latitude: 52.083609900000006
 longitude: 9.5000142
 postcode: 31863
 city: Coppenbrügge
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

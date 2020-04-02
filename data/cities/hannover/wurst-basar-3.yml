@@ -5,7 +5,7 @@ latitude: 52.3358184
 longitude: 9.768236
 postcode: 30519
 city: Hannover
-street: Innstraße
+street: "Innstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Th 08:00-13:00,14:30-18:00, Fr 08:00-18:00, Sa 08:00-13:00"

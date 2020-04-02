@@ -5,7 +5,7 @@ latitude: 53.202907700000004
 longitude: 7.8838083
 postcode: 26655
 city: Westerstede
-street: Westring
+street: "Westring"
 housenumber: 4A
 phone: "+49 4409 970172"
 opening_hours: "Mo-Fr 07:30-20:00, Sa 07:30-19:00"

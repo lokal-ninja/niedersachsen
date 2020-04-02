@@ -5,7 +5,7 @@ latitude: 53.435459200000004
 longitude: 8.8212917
 postcode: 27616
 city: Beverstedt
-street: Poststraße
+street: "Poststraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

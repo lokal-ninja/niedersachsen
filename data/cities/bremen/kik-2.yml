@@ -5,7 +5,7 @@ latitude: 53.136831400000005
 longitude: 8.7419294
 postcode: 28239
 city: Bremen
-street: Schragestraße
+street: "Schragestraße"
 housenumber: 5d
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

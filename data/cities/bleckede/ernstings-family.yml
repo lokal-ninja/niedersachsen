@@ -5,7 +5,7 @@ latitude: 53.2866257
 longitude: 10.7343661
 postcode: 21354
 city: Bleckede
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-15:00; PH off"

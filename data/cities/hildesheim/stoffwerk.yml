@@ -5,7 +5,7 @@ latitude: 52.154161200000004
 longitude: 9.9556242
 postcode: 31134
 city: Hildesheim
-street: Ostertor
+street: "Ostertor"
 housenumber: 12
 phone: "+49 5121 2814150"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

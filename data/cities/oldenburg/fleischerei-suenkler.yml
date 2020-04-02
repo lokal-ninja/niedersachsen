@@ -5,7 +5,7 @@ latitude: 53.1333861
 longitude: 8.2296835
 postcode: 26135
 city: Oldenburg
-street: Dedestraße
+street: "Dedestraße"
 housenumber: 43
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.986868400000006
 longitude: 10.087254300000001
 postcode: 29633
 city: Munster
-street: Wilhelm-Bockelmann-Straße
+street: "Wilhelm-Bockelmann-Straße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-15:00; Su off; PH off"

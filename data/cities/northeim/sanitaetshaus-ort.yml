@@ -5,7 +5,7 @@ latitude: 51.7074337
 longitude: 10.0004503
 postcode: 
 city: Northeim
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00; Mo,Tu,Th,Fr 14:00-18:00; PH off"

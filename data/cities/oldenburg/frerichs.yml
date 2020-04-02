@@ -5,7 +5,7 @@ latitude: 53.1347193
 longitude: 8.1678198
 postcode: 
 city: Oldenburg
-street: Osterkampsweg
+street: "Osterkampsweg"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00"

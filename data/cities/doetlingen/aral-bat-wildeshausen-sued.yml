@@ -5,7 +5,7 @@ latitude: 52.913870100000004
 longitude: 8.4237277
 postcode: 27801
 city: Dötlingen
-street: Hunteweg
+street: "Hunteweg"
 housenumber: 13
 phone: ""
 opening_hours: "24/7"

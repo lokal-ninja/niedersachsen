@@ -5,7 +5,7 @@ latitude: 52.7088856
 longitude: 8.506952700000001
 postcode: 49406
 city: Barnstorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Tu, Th-Fr 08:30-12:30, 14:00-18:00; We 08:30-12:30; Sa 08:30-12:30"

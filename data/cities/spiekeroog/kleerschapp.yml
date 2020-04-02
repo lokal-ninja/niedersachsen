@@ -5,7 +5,7 @@ latitude: 53.770864
 longitude: 7.693901
 postcode: 26474
 city: Spiekeroog
-street: Noorderpad
+street: "Noorderpad"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 09:30-12:30, Mo-Fr 15:00-18:00"

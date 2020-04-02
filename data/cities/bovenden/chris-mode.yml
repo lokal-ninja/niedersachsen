@@ -5,7 +5,7 @@ latitude: 51.586198
 longitude: 9.929792800000001
 postcode: 37120
 city: Bovenden
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 7a
 phone: ""
 opening_hours: "Mo-Sa 10:00-13:00; Mo-Fr 15:00-18:00; PH off"

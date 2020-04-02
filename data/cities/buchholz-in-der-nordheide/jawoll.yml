@@ -5,7 +5,7 @@ latitude: 53.3488795
 longitude: 9.857491000000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Tischlerstraße
+street: "Tischlerstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

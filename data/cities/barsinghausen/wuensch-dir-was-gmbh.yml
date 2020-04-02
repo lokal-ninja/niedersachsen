@@ -5,7 +5,7 @@ latitude: 52.2804574
 longitude: 9.5156176
 postcode: 30890
 city: Barsinghausen
-street: Wennigser Straße
+street: "Wennigser Straße"
 housenumber: 73
 phone: "+49 5105-7784690"
 opening_hours: ""

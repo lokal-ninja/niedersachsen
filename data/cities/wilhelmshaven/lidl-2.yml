@@ -5,7 +5,7 @@ latitude: 53.521171800000005
 longitude: 8.0711025
 postcode: 26389
 city: Wilhelmshaven
-street: Güterstraße
+street: "Güterstraße"
 housenumber: 86
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

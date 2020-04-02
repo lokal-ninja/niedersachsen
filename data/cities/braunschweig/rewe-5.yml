@@ -5,7 +5,7 @@ latitude: 52.30438650000001
 longitude: 10.4656973
 postcode: 38112
 city: Braunschweig
-street: Hans-Jürgen-Straße
+street: "Hans-Jürgen-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 06:15-21:45"

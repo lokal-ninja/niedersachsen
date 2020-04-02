@@ -5,7 +5,7 @@ latitude: 51.8341822
 longitude: 9.460595900000001
 postcode: 37603
 city: Holzminden
-street: Allersheimer Straße
+street: "Allersheimer Straße"
 housenumber: 38
 phone: "+49 800 4353361"
 opening_hours: ""

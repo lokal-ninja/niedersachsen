@@ -5,7 +5,7 @@ latitude: 51.8424695
 longitude: 9.466971000000001
 postcode: 37603
 city: Holzminden
-street: Lilienthalstraße
+street: "Lilienthalstraße"
 housenumber: 4
 phone: "+49 5531 9310 0"
 opening_hours: ""

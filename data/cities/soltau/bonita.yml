@@ -5,7 +5,7 @@ latitude: 52.985511200000005
 longitude: 9.8396015
 postcode: 29614
 city: Soltau
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

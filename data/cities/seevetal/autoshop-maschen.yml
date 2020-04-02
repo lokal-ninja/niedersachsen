@@ -5,7 +5,7 @@ latitude: 53.390419900000005
 longitude: 10.033618800000001
 postcode: 21220
 city: Seevetal
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

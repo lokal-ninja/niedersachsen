@@ -5,7 +5,7 @@ latitude: 53.079952500000005
 longitude: 8.8090577
 postcode: 
 city: Bremen
-street: Loriotplatz
+street: "Loriotplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00; Su,Mo,PH off"

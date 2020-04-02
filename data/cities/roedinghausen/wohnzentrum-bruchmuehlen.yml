@@ -5,7 +5,7 @@ latitude: 52.200380200000005
 longitude: 8.459171600000001
 postcode: 32289
 city: Rödinghausen
-street: Großer Ort
+street: "Großer Ort"
 housenumber: 16
 phone: "+49 5226 98200"
 opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-18:00"

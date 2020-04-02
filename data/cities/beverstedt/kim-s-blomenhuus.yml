@@ -5,7 +5,7 @@ latitude: 53.3893628
 longitude: 8.7660487
 postcode: 27616
 city: Beverstedt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 97
 phone: "+49 4748 7022"
 opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,14:00-18:00; We 09:00-12:00; Sa 08:00-12:00"

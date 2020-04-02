@@ -5,7 +5,7 @@ latitude: 53.31476910000001
 longitude: 9.649349800000001
 postcode: 21258
 city: Heidenau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25a
 phone: ""
 opening_hours: ""

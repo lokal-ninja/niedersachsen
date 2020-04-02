@@ -5,7 +5,7 @@ latitude: 52.6088749
 longitude: 10.0751332
 postcode: 29227
 city: Celle
-street: Hannoversche Heerstraße
+street: "Hannoversche Heerstraße"
 housenumber: 52a;52b;52c
 phone: ""
 opening_hours: ""

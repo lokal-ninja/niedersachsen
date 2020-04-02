@@ -5,7 +5,7 @@ latitude: 53.561901000000006
 longitude: 9.6066838
 postcode: 21720
 city: Steinkirchen
-street: Bürgerei
+street: "Bürgerei"
 housenumber: 5
 phone: "+49 41428129201"
 opening_hours: "Mo-Sa 07:00-22:00"

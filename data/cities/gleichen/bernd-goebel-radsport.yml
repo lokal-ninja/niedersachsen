@@ -5,7 +5,7 @@ latitude: 51.5099632
 longitude: 10.031466700000001
 postcode: 37130
 city: Gleichen
-street: Jendelstraße
+street: "Jendelstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

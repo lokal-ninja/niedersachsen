@@ -5,7 +5,7 @@ latitude: 52.655418100000006
 longitude: 9.8248152
 postcode: 29323
 city: Wietze
-street: DEA-Straße
+street: "DEA-Straße"
 housenumber: 1
 phone: "+49 5146 92086"
 opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"

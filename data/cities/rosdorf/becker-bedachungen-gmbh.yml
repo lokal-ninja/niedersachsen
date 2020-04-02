@@ -5,7 +5,7 @@ latitude: 51.5110633
 longitude: 9.9109364
 postcode: 37124
 city: Rosdorf
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

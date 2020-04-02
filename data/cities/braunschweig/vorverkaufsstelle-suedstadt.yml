@@ -5,7 +5,7 @@ latitude: 52.233018300000005
 longitude: 10.5587237
 postcode: 38126
 city: Braunschweig
-street: Retemeyerstraße
+street: "Retemeyerstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-14:00; Su off"

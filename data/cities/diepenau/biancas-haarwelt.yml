@@ -5,7 +5,7 @@ latitude: 52.4213856
 longitude: 8.733030000000001
 postcode: 31603
 city: Diepenau
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

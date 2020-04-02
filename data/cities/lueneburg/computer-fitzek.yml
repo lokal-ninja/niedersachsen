@@ -5,7 +5,7 @@ latitude: 53.245101000000005
 longitude: 10.4418184
 postcode: 21337
 city: Lüneburg
-street: Dahlenburger Landstraße
+street: "Dahlenburger Landstraße"
 housenumber: 26
 phone: "+49 4131 850969"
 opening_hours: "Mo-Fr 10:00-14:00,15:00-19:00; Sa 10:00-14:00; PH off"

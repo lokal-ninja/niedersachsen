@@ -5,7 +5,7 @@ latitude: 53.414855800000005
 longitude: 7.731107100000001
 postcode: 26639
 city: Wiesmoor
-street: Dahlienstraße
+street: "Dahlienstraße"
 housenumber: 6
 phone: "+49 4944 2236"
 opening_hours: ""

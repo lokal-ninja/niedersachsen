@@ -5,7 +5,7 @@ latitude: 53.367337000000006
 longitude: 9.715724600000001
 postcode: 21279
 city: Hollenstedt
-street: Moisburger Straße
+street: "Moisburger Straße"
 housenumber: 4
 phone: "+49 4165 222411"
 opening_hours: ""

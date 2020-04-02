@@ -5,7 +5,7 @@ latitude: 51.544123600000006
 longitude: 9.8864239
 postcode: 37079
 city: Göttingen
-street: Karl-Arnold-Straße
+street: "Karl-Arnold-Straße"
 housenumber: 6e
 phone: ""
 opening_hours: ""

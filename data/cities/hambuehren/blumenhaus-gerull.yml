@@ -5,7 +5,7 @@ latitude: 52.633963800000004
 longitude: 9.9321006
 postcode: 29313
 city: Hambühren
-street: Celler Straße
+street: "Celler Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo 15:00-18:00; Tu-Fr 10:00-18:00; Sa 10:00-14:00; Su 10:00-12:30"

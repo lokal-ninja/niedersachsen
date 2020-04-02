@@ -5,7 +5,7 @@ latitude: 52.684591100000006
 longitude: 8.835117
 postcode: 27232
 city: Sulingen
-street: Nienburger Straße
+street: "Nienburger Straße"
 housenumber: 135
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

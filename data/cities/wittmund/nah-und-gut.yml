@@ -5,7 +5,7 @@ latitude: 53.5994253
 longitude: 7.7066607000000005
 postcode: 26409
 city: Wittmund
-street: Kirchweg
+street: "Kirchweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-We 06:30-12:30, 15:00-18:00; Th-Fr 06:30-19:00; Sa 06:30-13:00"

@@ -5,7 +5,7 @@ latitude: 52.355803900000005
 longitude: 10.7057354
 postcode: 38165
 city: Lehre
-street: Alte Braunschweiger Straße
+street: "Alte Braunschweiger Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

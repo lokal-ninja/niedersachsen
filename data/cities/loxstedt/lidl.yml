@@ -5,7 +5,7 @@ latitude: 53.474912100000005
 longitude: 8.65105
 postcode: 27612
 city: Loxstedt
-street: Parkstraße
+street: "Parkstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

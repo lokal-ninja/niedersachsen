@@ -5,7 +5,7 @@ latitude: 52.5924509
 longitude: 7.2317767
 postcode: 49744
 city: Geeste
-street: Meppener Straße
+street: "Meppener Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

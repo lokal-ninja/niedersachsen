@@ -5,7 +5,7 @@ latitude: 52.6240219
 longitude: 10.0816888
 postcode: 29221
 city: Celle
-street: Stechbahn
+street: "Stechbahn"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-18:00"

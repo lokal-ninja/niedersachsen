@@ -5,7 +5,7 @@ latitude: 51.6114358
 longitude: 10.212499600000001
 postcode: 37434
 city: Gieboldehausen
-street: Knickgasse
+street: "Knickgasse"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

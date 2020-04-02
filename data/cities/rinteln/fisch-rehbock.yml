@@ -5,7 +5,7 @@ latitude: 52.1860816
 longitude: 9.079124400000001
 postcode: 31737
 city: Rinteln
-street: Klosterstraße
+street: "Klosterstraße"
 housenumber: 16
 phone: "+49 5751 2607"
 opening_hours: "Tu-Fr 10:30-18:30; Mo,Sa 10:30-15:00"

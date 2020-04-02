@@ -5,7 +5,7 @@ latitude: 52.1988032
 longitude: 9.0153488
 postcode: 32457
 city: Porta Westfalica
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 4
 phone: "+49 5751 982030"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"

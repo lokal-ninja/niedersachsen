@@ -5,7 +5,7 @@ latitude: 51.50955140000001
 longitude: 9.9536996
 postcode: 
 city: Göttingen
-street: Kampstraße
+street: "Kampstraße"
 housenumber: 21a
 phone: ""
 opening_hours: "Mo-Sa 10:00-13:00; Mo-Fr 15:00-18:00; PH off"

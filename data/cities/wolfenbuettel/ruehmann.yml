@@ -5,7 +5,7 @@ latitude: 52.1339016
 longitude: 10.446401100000001
 postcode: 38304
 city: Wolfenbüttel
-street: Bäckerstraße
+street: "Bäckerstraße"
 housenumber: 2
 phone: "+49 5341 25321"
 opening_hours: ""

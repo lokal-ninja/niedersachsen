@@ -5,7 +5,7 @@ latitude: 53.0620951
 longitude: 7.2764737
 postcode: 26899
 city: Rhede
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 14
 phone: "+49 4964 604827"
 opening_hours: "Mo-Sa 07:00-19:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.641147700000005
 longitude: 9.2118362
 postcode: 31582
 city: Nienburg/Weser
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"

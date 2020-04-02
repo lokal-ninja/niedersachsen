@@ -5,7 +5,7 @@ latitude: 52.394342900000005
 longitude: 9.6889909
 postcode: 30419
 city: Hannover
-street: Bussilliatweg
+street: "Bussilliatweg"
 housenumber: 12
 phone: "+49 511 794667"
 opening_hours: "Mo-Sa 06:30-13:00, Tu-Fr 15:00-18:00"

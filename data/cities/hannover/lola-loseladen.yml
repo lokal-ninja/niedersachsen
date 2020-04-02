@@ -5,7 +5,7 @@ latitude: 52.361777700000005
 longitude: 9.7551544
 postcode: 30171
 city: Hannover
-street: Stephansplatz
+street: "Stephansplatz"
 housenumber: 13
 phone: "+49 511 79029010"
 opening_hours: "Mo-Th 10:00-19:00; Fr 09:00-19:00; Sa 10:00-16:00; PH off"

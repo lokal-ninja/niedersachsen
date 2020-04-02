@@ -5,7 +5,7 @@ latitude: 52.8507152
 longitude: 7.6787862
 postcode: 49757
 city: Werlte
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 30-32
 phone: ""
 opening_hours: ""

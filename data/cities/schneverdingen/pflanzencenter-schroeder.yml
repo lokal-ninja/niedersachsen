@@ -5,7 +5,7 @@ latitude: 53.123825200000006
 longitude: 9.801601100000001
 postcode: 29640
 city: Schneverdingen
-street: Am Holzfeld
+street: "Am Holzfeld"
 housenumber: 38
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.5855478
 longitude: 9.872115
 postcode: 
 city: Bovenden
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 11 Eingang Graseweg
 phone: ""
 opening_hours: "Tu-Sa 08:00-13:00; Tu,Th,Fr 15:00-18:00; PH off"

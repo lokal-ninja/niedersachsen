@@ -5,7 +5,7 @@ latitude: 53.3254188
 longitude: 10.442625000000001
 postcode: 21382
 city: Brietlingen
-street: Erster Wulfshagenweg
+street: "Erster Wulfshagenweg"
 housenumber: 2
 phone: "+49 4133-8640"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"

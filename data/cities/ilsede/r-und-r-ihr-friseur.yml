@@ -5,7 +5,7 @@ latitude: 52.2650074
 longitude: 10.218733400000001
 postcode: 31241
 city: Ilsede
-street: Eichstraße
+street: "Eichstraße"
 housenumber: 12
 phone: "+49 5172 2526"
 opening_hours: ""

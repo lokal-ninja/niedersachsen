@@ -5,7 +5,7 @@ latitude: 51.550539300000004
 longitude: 9.885078400000001
 postcode: 37079
 city: Göttingen
-street: Willi-Eichler-Straße
+street: "Willi-Eichler-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

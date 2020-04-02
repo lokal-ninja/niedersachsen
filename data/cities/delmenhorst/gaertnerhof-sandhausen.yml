@@ -5,7 +5,7 @@ latitude: 53.094619300000005
 longitude: 8.646850500000001
 postcode: 27751
 city: Delmenhorst
-street: Stedinger Landstraße
+street: "Stedinger Landstraße"
 housenumber: 101
 phone: ""
 opening_hours: "Mo,We 11:00-18:00; Fr 11:00-18:30"

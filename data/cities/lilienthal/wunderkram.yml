@@ -5,7 +5,7 @@ latitude: 53.1410725
 longitude: 8.907225
 postcode: 28865
 city: Lilienthal
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 51
 phone: ""
 opening_hours: "Mo-Fr 09:30-13:00,14:30-18:00; Sa 10:00-14:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 53.140590200000005
 longitude: 8.9067951
 postcode: 28865
 city: Lilienthal
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 60
 phone: "+49 4298 2110;+49 4298 6088"
 opening_hours: ""

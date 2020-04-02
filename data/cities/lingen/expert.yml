@@ -5,7 +5,7 @@ latitude: 52.5213316
 longitude: 7.332774400000001
 postcode: 49809
 city: Lingen
-street: Georgstraße
+street: "Georgstraße"
 housenumber: 47
 phone: ""
 opening_hours: ""

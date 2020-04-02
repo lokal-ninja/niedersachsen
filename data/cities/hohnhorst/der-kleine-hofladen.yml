@@ -5,7 +5,7 @@ latitude: 52.368558
 longitude: 9.372400500000001
 postcode: 31559
 city: Hohnhorst
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25
 phone: "+49 5723 79 80 666"
 opening_hours: "Tu-Sa 09:00-13:00,15:00-18:00"

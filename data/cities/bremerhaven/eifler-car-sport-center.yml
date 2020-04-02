@@ -5,7 +5,7 @@ latitude: 53.5459194
 longitude: 8.594936200000001
 postcode: 27570
 city: Bremerhaven
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 106
 phone: ""
 opening_hours: ""

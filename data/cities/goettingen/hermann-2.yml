@@ -5,7 +5,7 @@ latitude: 51.53464090000001
 longitude: 9.9449155
 postcode: 37085
 city: Göttingen
-street: Herzberger Landstraße
+street: "Herzberger Landstraße"
 housenumber: 2a
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-15:00; Su 08:00-11:00; PH off"

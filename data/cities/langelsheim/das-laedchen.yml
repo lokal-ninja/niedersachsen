@@ -5,7 +5,7 @@ latitude: 51.93665420000001
 longitude: 10.3361338
 postcode: 38685
 city: Langelsheim
-street: Oberer Schmiedekamp
+street: "Oberer Schmiedekamp"
 housenumber: 2
 phone: ""
 opening_hours: ""

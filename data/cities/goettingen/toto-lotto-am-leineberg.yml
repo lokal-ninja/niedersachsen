@@ -5,7 +5,7 @@ latitude: 51.527089200000006
 longitude: 9.915723100000001
 postcode: 
 city: Göttingen
-street: Allerstraße
+street: "Allerstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00; PH off"

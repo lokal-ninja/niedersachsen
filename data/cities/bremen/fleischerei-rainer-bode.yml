@@ -5,7 +5,7 @@ latitude: 53.0450487
 longitude: 8.858889600000001
 postcode: 28279
 city: Bremen
-street: Baumhauser Weg
+street: "Baumhauser Weg"
 housenumber: 12
 phone: ""
 opening_hours: ""

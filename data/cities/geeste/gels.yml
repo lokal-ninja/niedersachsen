@@ -5,7 +5,7 @@ latitude: 52.5868357
 longitude: 7.227884700000001
 postcode: 49744
 city: Geeste
-street: Erlenweg
+street: "Erlenweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

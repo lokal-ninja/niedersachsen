@@ -5,7 +5,7 @@ latitude: 52.430262600000006
 longitude: 9.717131700000001
 postcode: 30851
 city: Langenhagen
-street: Hans-Böckler-Straße
+street: "Hans-Böckler-Straße"
 housenumber: 60-66
 phone: "+49 511 97823030"
 opening_hours: "Mo-Sa 08:00-20:00; PH Off"

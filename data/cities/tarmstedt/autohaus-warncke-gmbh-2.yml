@@ -5,7 +5,7 @@ latitude: 53.222673
 longitude: 9.075847000000001
 postcode: 27412
 city: Tarmstedt
-street: Bremer Landstraße
+street: "Bremer Landstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

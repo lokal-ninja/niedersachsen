@@ -5,7 +5,7 @@ latitude: 53.3675665
 longitude: 7.188032400000001
 postcode: 26723
 city: Emden
-street: Teutonenstraße
+street: "Teutonenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

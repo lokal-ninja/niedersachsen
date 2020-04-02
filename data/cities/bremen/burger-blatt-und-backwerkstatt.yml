@@ -5,7 +5,7 @@ latitude: 53.154972400000005
 longitude: 8.704476900000001
 postcode: 28719
 city: Bremen
-street: Burger Heerstraße
+street: "Burger Heerstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

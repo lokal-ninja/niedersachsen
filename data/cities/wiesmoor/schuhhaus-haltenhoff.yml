@@ -5,7 +5,7 @@ latitude: 53.4160035
 longitude: 7.737400500000001
 postcode: 26639
 city: Wiesmoor
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 152
 phone: "+49 4944 912103"
 opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00"

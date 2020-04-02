@@ -5,7 +5,7 @@ latitude: 53.057069000000006
 longitude: 8.9605951
 postcode: 28307
 city: Bremen
-street: Osterholzer Heerstraße
+street: "Osterholzer Heerstraße"
 housenumber: 215
 phone: "+49 421 4681929"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-14:00"

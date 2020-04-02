@@ -5,7 +5,7 @@ latitude: 53.418469400000006
 longitude: 7.972482100000001
 postcode: 26340
 city: Zetel
-street: Bohlenberger Straße
+street: "Bohlenberger Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-13:00"

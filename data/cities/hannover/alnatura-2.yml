@@ -5,7 +5,7 @@ latitude: 52.3614928
 longitude: 9.7638847
 postcode: 30173
 city: Hannover
-street: An der Weide
+street: "An der Weide"
 housenumber: 27-31
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

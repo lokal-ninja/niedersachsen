@@ -5,7 +5,7 @@ latitude: 52.5931677
 longitude: 8.351509700000001
 postcode: 49356
 city: Diepholz
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 20
 phone: ""
 opening_hours: "24/7"

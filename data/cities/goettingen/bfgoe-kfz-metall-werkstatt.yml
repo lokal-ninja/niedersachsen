@@ -5,7 +5,7 @@ latitude: 51.542692800000005
 longitude: 9.9061623
 postcode: 
 city: Göttingen
-street: Grätzelstraße
+street: "Grätzelstraße"
 housenumber: 14a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.4897633
 longitude: 9.8648013
 postcode: 
 city: Rosdorf
-street: Waldweg
+street: "Waldweg"
 housenumber: 13
 phone: ""
 opening_hours: ""

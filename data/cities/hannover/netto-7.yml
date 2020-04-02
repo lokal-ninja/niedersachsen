@@ -5,7 +5,7 @@ latitude: 52.4088658
 longitude: 9.693089
 postcode: 30419
 city: Hannover
-street: Am Fuhrenkampe
+street: "Am Fuhrenkampe"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

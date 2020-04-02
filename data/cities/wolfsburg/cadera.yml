@@ -5,7 +5,7 @@ latitude: 52.4374788
 longitude: 10.844562600000001
 postcode: 38448
 city: Wolfsburg
-street: Helmstedter Straße
+street: "Helmstedter Straße"
 housenumber: 9A
 phone: ""
 opening_hours: "Mo-Fr 05:00-18:00; Sa 05:30-14:00; Su 07:30-12:00"

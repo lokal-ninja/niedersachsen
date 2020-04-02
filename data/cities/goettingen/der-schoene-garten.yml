@@ -5,7 +5,7 @@ latitude: 51.553484100000006
 longitude: 9.881731100000001
 postcode: 37079
 city: Göttingen
-street: Hans-Böckler-Straße
+street: "Hans-Böckler-Straße"
 housenumber: 2b
 phone: ""
 opening_hours: ""

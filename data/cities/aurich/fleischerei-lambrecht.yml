@@ -5,7 +5,7 @@ latitude: 53.4711659
 longitude: 7.4828976
 postcode: 26603
 city: Aurich
-street: Norderstraße
+street: "Norderstraße"
 housenumber: 16
 phone: "+4949413166"
 opening_hours: ""

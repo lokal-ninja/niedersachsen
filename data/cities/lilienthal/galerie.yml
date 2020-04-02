@@ -5,7 +5,7 @@ latitude: 53.20278750000001
 longitude: 8.93272
 postcode: 28865
 city: Lilienthal
-street: Worphauser Landstraße
+street: "Worphauser Landstraße"
 housenumber: 85
 phone: ""
 opening_hours: ""

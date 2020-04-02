@@ -5,7 +5,7 @@ latitude: 52.539678
 longitude: 10.894563600000001
 postcode: 38470
 city: Parsau
-street: Schmiedestraße
+street: "Schmiedestraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

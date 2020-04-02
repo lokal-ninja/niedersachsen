@@ -5,7 +5,7 @@ latitude: 53.24319740000001
 longitude: 7.457012700000001
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Heisfelder Straße
+street: "Heisfelder Straße"
 housenumber: 156
 phone: ""
 opening_hours: "Mo off; Tu-Fr 06:00-13:00,14:30-18:00; Sa 06:00-13:00; Su 07:30-11:00; PH off"

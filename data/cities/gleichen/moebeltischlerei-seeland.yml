@@ -5,7 +5,7 @@ latitude: 51.467625000000005
 longitude: 9.986127600000001
 postcode: 
 city: Gleichen
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

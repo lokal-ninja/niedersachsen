@@ -5,7 +5,7 @@ latitude: 52.2736687
 longitude: 10.486322300000001
 postcode: 38116
 city: Braunschweig
-street: Saarstraße
+street: "Saarstraße"
 housenumber: 139
 phone: ""
 opening_hours: "Tu-Th 07:30-13:00, 15:00-18:00; Fr 07:30-13:00; Sa 07:00-13:00; PH off"

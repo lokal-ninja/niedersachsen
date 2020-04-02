@@ -5,7 +5,7 @@ latitude: 52.3253889
 longitude: 9.206084
 postcode: 31655
 city: Stadthagen
-street: Niedernstraße
+street: "Niedernstraße"
 housenumber: 38
 phone: "+49 5721 936022"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00"

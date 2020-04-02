@@ -5,7 +5,7 @@ latitude: 53.61672840000001
 longitude: 8.5965015
 postcode: 27607
 city: Geestland
-street: Schmidtkuhlsweg
+street: "Schmidtkuhlsweg"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

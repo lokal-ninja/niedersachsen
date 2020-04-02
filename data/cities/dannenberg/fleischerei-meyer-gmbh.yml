@@ -5,7 +5,7 @@ latitude: 53.0982928
 longitude: 11.0943714
 postcode: 29451
 city: Dannenberg
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 40
 phone: ""
 opening_hours: "Tu-Fr 08:00-18:00, Mo,Sa 08:00-13:00"

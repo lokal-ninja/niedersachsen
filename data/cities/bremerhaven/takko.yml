@@ -5,7 +5,7 @@ latitude: 53.540731
 longitude: 8.5896811
 postcode: 27570
 city: Bremerhaven
-street: Elbestraße
+street: "Elbestraße"
 housenumber: 91
 phone: "+49 471 1701002"
 opening_hours: "Mo-Sa 09:00-20:00; PH off"

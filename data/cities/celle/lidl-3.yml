@@ -5,7 +5,7 @@ latitude: 52.5993277
 longitude: 10.105994
 postcode: 29227
 city: Celle
-street: Baumschulenweg
+street: "Baumschulenweg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

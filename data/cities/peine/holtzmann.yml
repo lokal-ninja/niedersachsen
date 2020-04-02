@@ -5,7 +5,7 @@ latitude: 52.315605000000005
 longitude: 10.2596168
 postcode: 31224
 city: Peine
-street: Woltorfer Straße
+street: "Woltorfer Straße"
 housenumber: 116a
 phone: "+49 5171 70830"
 opening_hours: ""

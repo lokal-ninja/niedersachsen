@@ -5,7 +5,7 @@ latitude: 53.0958562
 longitude: 8.7893855
 postcode: 28217
 city: Bremen
-street: Grenzstraße
+street: "Grenzstraße"
 housenumber: 9
 phone: "+49 421 381363"
 opening_hours: "Tu-Fr 08:30-17:30;Sa 07:00-12:30"

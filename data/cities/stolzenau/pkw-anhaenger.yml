@@ -5,7 +5,7 @@ latitude: 52.4894479
 longitude: 9.028122900000001
 postcode: 31592
 city: Stolzenau
-street: Müsleringer Straße
+street: "Müsleringer Straße"
 housenumber: 29
 phone: "+49 5761 3433"
 opening_hours: ""

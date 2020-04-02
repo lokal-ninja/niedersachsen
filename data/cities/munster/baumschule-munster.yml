@@ -5,7 +5,7 @@ latitude: 53.0004402
 longitude: 10.059857300000001
 postcode: 29633
 city: Munster
-street: Soltauer Straße
+street: "Soltauer Straße"
 housenumber: 106
 phone: ""
 opening_hours: ""

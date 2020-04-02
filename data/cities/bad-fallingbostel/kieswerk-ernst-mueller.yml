@@ -5,7 +5,7 @@ latitude: 52.857117
 longitude: 9.711601
 postcode: 29683
 city: Bad Fallingbostel
-street: Konrad-Zuse-Straße
+street: "Konrad-Zuse-Straße"
 housenumber: 11
 phone: "+49 5162 90 468 74"
 opening_hours: "Mo-Fr 07:00-17:00"

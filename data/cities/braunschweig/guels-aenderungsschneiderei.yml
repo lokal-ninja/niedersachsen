@@ -5,7 +5,7 @@ latitude: 52.25126950000001
 longitude: 10.535499900000001
 postcode: 38102
 city: Braunschweig
-street: Berliner Platz
+street: "Berliner Platz"
 housenumber: 1d
 phone: "+49 176 48347678"
 opening_hours: "Mo-Fr 10:00-18:00; We,Sa 10:00-14:00"

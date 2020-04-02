@@ -5,7 +5,7 @@ latitude: 52.5797935
 longitude: 10.175661700000001
 postcode: 29342
 city: Wienhausen
-street: Storchenweg
+street: "Storchenweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

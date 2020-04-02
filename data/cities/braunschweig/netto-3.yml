@@ -5,7 +5,7 @@ latitude: 52.3179358
 longitude: 10.5340846
 postcode: 38110
 city: Braunschweig
-street: Waggumer Straße
+street: "Waggumer Straße"
 housenumber: 8 c
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

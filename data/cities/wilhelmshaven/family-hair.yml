@@ -5,7 +5,7 @@ latitude: 53.5290692
 longitude: 8.092070600000001
 postcode: 26389
 city: Wilhelmshaven
-street: Friedrich-Paffrath-Straße
+street: "Friedrich-Paffrath-Straße"
 housenumber: 2
 phone: "+49 4421 7780381"
 opening_hours: "Mo-Sa 08:00-19:00"

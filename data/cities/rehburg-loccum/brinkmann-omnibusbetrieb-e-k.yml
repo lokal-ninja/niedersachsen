@@ -5,7 +5,7 @@ latitude: 52.443075
 longitude: 9.184888200000001
 postcode: 31547
 city: Rehburg-Loccum
-street: Loccumer Straße
+street: "Loccumer Straße"
 housenumber: 20
 phone: "+49 5037 2259"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2120515
 longitude: 10.5225781
 postcode: 38124
 city: Braunschweig
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 210
 phone: "+49 531 4811846"
 opening_hours: ""

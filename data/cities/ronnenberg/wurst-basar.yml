@@ -5,7 +5,7 @@ latitude: 52.345314900000005
 longitude: 9.6725387
 postcode: 30952
 city: Ronnenberg
-street: Chemnitzer Straße
+street: "Chemnitzer Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

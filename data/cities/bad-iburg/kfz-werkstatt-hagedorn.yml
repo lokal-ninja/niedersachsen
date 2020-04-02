@@ -5,7 +5,7 @@ latitude: 52.151890800000004
 longitude: 8.038258200000001
 postcode: 49186
 city: Bad Iburg
-street: Münsterstraße
+street: "Münsterstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

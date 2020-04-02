@@ -5,7 +5,7 @@ latitude: 53.365945100000005
 longitude: 7.2094579
 postcode: 26725
 city: Emden
-street: Faldernstraße
+street: "Faldernstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.274550700000006
 longitude: 10.4789422
 postcode: 38116
 city: Braunschweig
-street: Saarplatz
+street: "Saarplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.1098847
 longitude: 9.4141141
 postcode: 27356
 city: Rotenburg (Wümme)
-street: Fuhrenstraße
+street: "Fuhrenstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2730261
 longitude: 8.0488316
 postcode: 49074
 city: Osnabrück
-street: Neumarkt
+street: "Neumarkt"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 09:30-18:00"

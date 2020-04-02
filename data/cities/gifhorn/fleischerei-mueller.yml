@@ -5,7 +5,7 @@ latitude: 52.511388600000004
 longitude: 10.4776532
 postcode: 38518
 city: Gifhorn
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo,Sa 07:30-12:30; Tu-Fr 07:30-12:30,14:30-18:00"

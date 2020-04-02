@@ -5,7 +5,7 @@ latitude: 53.0702355
 longitude: 8.8348901
 postcode: 28205
 city: Bremen
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Sa 12:00-17:00"

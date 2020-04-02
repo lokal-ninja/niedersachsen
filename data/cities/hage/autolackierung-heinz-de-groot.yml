@@ -5,7 +5,7 @@ latitude: 53.6037168
 longitude: 7.2889201
 postcode: 26524
 city: Hage
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 12
 phone: "+49 4931 7058"
 opening_hours: ""

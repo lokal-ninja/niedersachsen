@@ -5,7 +5,7 @@ latitude: 52.2689808
 longitude: 10.576036400000001
 postcode: 38104
 city: Braunschweig
-street: Klostergang
+street: "Klostergang"
 housenumber: 62a
 phone: ""
 opening_hours: ""

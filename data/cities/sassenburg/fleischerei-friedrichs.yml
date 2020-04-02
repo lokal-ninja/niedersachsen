@@ -5,7 +5,7 @@ latitude: 52.511386200000004
 longitude: 10.5803621
 postcode: 38524
 city: Sassenburg
-street: Gifhorner Straße
+street: "Gifhorner Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 07:00-12:00"

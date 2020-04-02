@@ -5,7 +5,7 @@ latitude: 52.526658700000006
 longitude: 10.365047500000001
 postcode: 38539
 city: Müden (Aller)
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 9
 phone: "+49 5375 9750"
 opening_hours: ""

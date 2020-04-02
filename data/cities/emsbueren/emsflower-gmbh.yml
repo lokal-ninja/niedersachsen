@@ -5,7 +5,7 @@ latitude: 52.362332200000004
 longitude: 7.269889500000001
 postcode: 48488
 city: Emsbüren
-street: Carl-von-Linné-Straße
+street: "Carl-von-Linné-Straße"
 housenumber: 1
 phone: "+49 5903 935530"
 opening_hours: "Mo-Su 10:00-18:00"

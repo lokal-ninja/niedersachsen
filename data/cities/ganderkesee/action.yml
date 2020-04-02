@@ -5,7 +5,7 @@ latitude: 53.0320958
 longitude: 8.543578700000001
 postcode: 27777
 city: Ganderkesee
-street: Bergedorfer Straße
+street: "Bergedorfer Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; Su off"

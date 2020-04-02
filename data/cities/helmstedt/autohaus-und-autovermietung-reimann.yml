@@ -5,7 +5,7 @@ latitude: 52.241990300000005
 longitude: 10.985043300000001
 postcode: 38350
 city: Helmstedt
-street: Von-Guericke-Straße
+street: "Von-Guericke-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

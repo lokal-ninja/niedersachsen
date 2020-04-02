@@ -5,7 +5,7 @@ latitude: 53.8102443
 longitude: 8.888669700000001
 postcode: 21762
 city: Otterndorf
-street: Ackerstraße
+street: "Ackerstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

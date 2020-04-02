@@ -5,7 +5,7 @@ latitude: 52.4516737
 longitude: 10.4298464
 postcode: 38542
 city: Leiferde
-street: Schwarzer Weg
+street: "Schwarzer Weg"
 housenumber: 3a
 phone: ""
 opening_hours: ""

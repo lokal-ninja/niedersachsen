@@ -5,7 +5,7 @@ latitude: 52.645188100000006
 longitude: 8.4766099
 postcode: 49453
 city: Dickel
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

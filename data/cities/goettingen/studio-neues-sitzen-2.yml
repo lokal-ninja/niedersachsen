@@ -5,7 +5,7 @@ latitude: 51.5667072
 longitude: 9.927369200000001
 postcode: 
 city: Göttingen
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 26
 phone: ""
 opening_hours: "off nur nach Vereinbarung"

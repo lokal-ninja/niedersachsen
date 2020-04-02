@@ -5,7 +5,7 @@ latitude: 52.346769200000004
 longitude: 9.828511500000001
 postcode: 30539
 city: Hannover
-street: Bemeroder Rathausplatz
+street: "Bemeroder Rathausplatz"
 housenumber: 4
 phone: "+49 511 522067"
 opening_hours: "Mo off; Tu-Fr 09:00-18:30; Sa 08:00-13:30"

@@ -5,7 +5,7 @@ latitude: 52.2655535
 longitude: 8.0537112
 postcode: 49074
 city: Osnabrück
-street: Rosenplatz
+street: "Rosenplatz"
 housenumber: 24
 phone: "+49 541 804680"
 opening_hours: ""

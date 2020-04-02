@@ -5,7 +5,7 @@ latitude: 52.6381001
 longitude: 9.2084772
 postcode: 31582
 city: Nienburg/Weser
-street: Leinstraße
+street: "Leinstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 15:00-19:00; Sa 09:00-13:00; PH off"

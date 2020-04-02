@@ -5,7 +5,7 @@ latitude: 52.105425200000006
 longitude: 9.3561987
 postcode: 31785
 city: Hameln
-street: Pferdemarkt
+street: "Pferdemarkt"
 housenumber: 3
 phone: ""
 opening_hours: ""

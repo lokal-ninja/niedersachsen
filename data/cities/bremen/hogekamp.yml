@@ -5,7 +5,7 @@ latitude: 53.0786486
 longitude: 8.8394876
 postcode: 28211
 city: Bremen
-street: Elsasser Straße
+street: "Elsasser Straße"
 housenumber: 77
 phone: "+49 421 43268 0"
 opening_hours: ""

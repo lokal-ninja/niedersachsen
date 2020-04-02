@@ -5,7 +5,7 @@ latitude: 53.327656600000005
 longitude: 9.8795759
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 16
 phone: "+49 4181 9416003"
 opening_hours: "Mo-Sa 09:30-19:00"

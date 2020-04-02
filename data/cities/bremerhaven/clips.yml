@@ -5,7 +5,7 @@ latitude: 53.506655800000004
 longitude: 8.5982445
 postcode: 27572
 city: Bremerhaven
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 85
 phone: "+49 471 73540"
 opening_hours: ""

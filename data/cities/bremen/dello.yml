@@ -5,7 +5,7 @@ latitude: 53.069084600000004
 longitude: 8.8550626
 postcode: 28205
 city: Bremen
-street: Georg-Bitter-Straße
+street: "Georg-Bitter-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.8659047
 longitude: 9.6930151
 postcode: 29683
 city: Bad Fallingbostel
-street: Walsroder Straße
+street: "Walsroder Straße"
 housenumber: 4
 phone: "+49 5162 900571"
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:30; Su 06:00-11:00"

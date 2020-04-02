@@ -5,7 +5,7 @@ latitude: 52.354548900000005
 longitude: 10.432247
 postcode: 38179
 city: Schwülper
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 6a
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00"

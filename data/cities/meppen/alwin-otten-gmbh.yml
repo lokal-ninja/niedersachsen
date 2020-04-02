@@ -5,7 +5,7 @@ latitude: 52.6620404
 longitude: 7.3021115000000005
 postcode: 49716
 city: Meppen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 22
 phone: "+49 5931 495950"
 opening_hours: ""

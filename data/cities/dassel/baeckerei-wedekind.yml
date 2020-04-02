@@ -5,7 +5,7 @@ latitude: 51.7698187
 longitude: 9.6565306
 postcode: 37586
 city: Dassel
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 2
 phone: "+49 5564 681"
 opening_hours: ""

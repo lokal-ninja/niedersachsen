@@ -5,7 +5,7 @@ latitude: 53.348768400000004
 longitude: 7.2219733
 postcode: 26725
 city: Emden
-street: Petkumer Straße
+street: "Petkumer Straße"
 housenumber: 209
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

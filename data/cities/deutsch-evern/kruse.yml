@@ -5,7 +5,7 @@ latitude: 53.201955000000005
 longitude: 10.432744900000001
 postcode: 21407
 city: Deutsch Evern
-street: Tiergartenstraße
+street: "Tiergartenstraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 06:15-20:00; Su 08:00-11:00"

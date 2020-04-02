@@ -5,7 +5,7 @@ latitude: 52.691683000000005
 longitude: 7.2929664
 postcode: 49716
 city: Meppen
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 3-8
 phone: ""
 opening_hours: ""

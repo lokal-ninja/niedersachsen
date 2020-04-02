@@ -5,7 +5,7 @@ latitude: 53.328639100000004
 longitude: 8.141442
 postcode: 26180
 city: Rastede
-street: Spohler Straße
+street: "Spohler Straße"
 housenumber: 111
 phone: "+49 4454 577"
 opening_hours: ""

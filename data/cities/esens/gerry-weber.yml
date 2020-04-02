@@ -5,7 +5,7 @@ latitude: 53.6454834
 longitude: 7.613110000000001
 postcode: 26427
 city: Esens
-street: Steinstraße
+street: "Steinstraße"
 housenumber: 19a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.351780700000006
 longitude: 9.870252200000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Innungsstraße
+street: "Innungsstraße"
 housenumber: 6
 phone: "+49 4181 923440"
 opening_hours: "Mo,Tu 08:00-16:00; We 08:00-12:00; Th 08:00-17:00; Fr 08:00-12:00"

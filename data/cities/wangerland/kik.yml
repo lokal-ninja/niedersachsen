@@ -5,7 +5,7 @@ latitude: 53.665019300000004
 longitude: 7.912261300000001
 postcode: 26434
 city: Wangerland
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

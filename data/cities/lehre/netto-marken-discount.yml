@@ -5,7 +5,7 @@ latitude: 52.3566486
 longitude: 10.699657
 postcode: 38165
 city: Lehre
-street: Alte Berliner Straße
+street: "Alte Berliner Straße"
 housenumber: 1 - 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

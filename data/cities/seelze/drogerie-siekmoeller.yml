@@ -5,7 +5,7 @@ latitude: 52.3950359
 longitude: 9.6365998
 postcode: 30926
 city: Seelze
-street: Fritz-Erler-Straße
+street: "Fritz-Erler-Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

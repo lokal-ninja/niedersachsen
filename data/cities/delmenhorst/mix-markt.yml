@@ -5,7 +5,7 @@ latitude: 53.0487909
 longitude: 8.610153200000001
 postcode: 27753
 city: Delmenhorst
-street: Oldenburger Straße
+street: "Oldenburger Straße"
 housenumber: 65
 phone: "+49 4221 8008590"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"

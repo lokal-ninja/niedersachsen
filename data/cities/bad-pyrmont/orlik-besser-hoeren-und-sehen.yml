@@ -5,7 +5,7 @@ latitude: 51.984966
 longitude: 9.2578644
 postcode: 31812
 city: Bad Pyrmont
-street: Postweg
+street: "Postweg"
 housenumber: 4
 phone: "+49 5281 607725"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.864759600000006
 longitude: 9.690981500000001
 postcode: 29683
 city: Bad Fallingbostel
-street: Düshorner Straße
+street: "Düshorner Straße"
 housenumber: 5a
 phone: "+49 5162 9861535"
 opening_hours: ""

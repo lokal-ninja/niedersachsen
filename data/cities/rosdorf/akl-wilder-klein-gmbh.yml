@@ -5,7 +5,7 @@ latitude: 51.513493700000005
 longitude: 9.9115178
 postcode: 37124
 city: Rosdorf
-street: Götzenbreite
+street: "Götzenbreite"
 housenumber: 8
 phone: ""
 opening_hours: ""

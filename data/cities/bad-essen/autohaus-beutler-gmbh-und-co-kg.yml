@@ -5,7 +5,7 @@ latitude: 52.3234391
 longitude: 8.337128700000001
 postcode: 49152
 city: Bad Essen
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 61
 phone: "+49 5472 94050"
 opening_hours: "Mo- Fr 08:00-18:00; Sa 09:00-12:30"

@@ -5,7 +5,7 @@ latitude: 52.232153200000006
 longitude: 9.236529800000001
 postcode: 31749
 city: Auetal
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 2
 phone: ""
 opening_hours: ""

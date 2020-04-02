@@ -5,7 +5,7 @@ latitude: 53.542638800000006
 longitude: 8.5752079
 postcode: 27568
 city: Bremerhaven
-street: Am Längengrad
+street: "Am Längengrad"
 housenumber: 12
 phone: "+49 471 9241533"
 opening_hours: "Mo-Sa 10:00-19:00"

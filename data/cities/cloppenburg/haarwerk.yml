@@ -5,7 +5,7 @@ latitude: 52.8586393
 longitude: 8.059307
 postcode: 49661
 city: Cloppenburg
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 2
 phone: "+49 4471 958 7880"
 opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-15:00"

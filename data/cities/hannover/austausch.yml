@@ -5,7 +5,7 @@ latitude: 52.3892801
 longitude: 9.742783600000001
 postcode: 30161
 city: Hannover
-street: Voßstraße
+street: "Voßstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"

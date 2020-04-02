@@ -5,7 +5,7 @@ latitude: 52.36547770000001
 longitude: 9.747135
 postcode: 30171
 city: Hannover
-street: Schlägerstraße
+street: "Schlägerstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr: 6:00-18:30  Sa: 6:00-13:00"

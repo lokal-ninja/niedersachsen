@@ -5,7 +5,7 @@ latitude: 53.585836300000004
 longitude: 7.219368500000001
 postcode: 26506
 city: Norden
-street: Addinggaster Weg
+street: "Addinggaster Weg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-19:00"

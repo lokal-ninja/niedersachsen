@@ -5,7 +5,7 @@ latitude: 52.2607731
 longitude: 10.5183762
 postcode: 38100
 city: Braunschweig
-street: Am Bruchtor
+street: "Am Bruchtor"
 housenumber: 4
 phone: "+49 531 18371"
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:15-16:00"

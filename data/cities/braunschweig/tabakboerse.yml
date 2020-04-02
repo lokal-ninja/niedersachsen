@@ -5,7 +5,7 @@ latitude: 52.2421786
 longitude: 10.4812632
 postcode: 38120
 city: Braunschweig
-street: Illerstraße
+street: "Illerstraße"
 housenumber: 61
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.186609000000004
 longitude: 8.4852021
 postcode: 27804
 city: Berne
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 07:00-19:00"

@@ -5,7 +5,7 @@ latitude: 52.44609500000001
 longitude: 10.8448276
 postcode: 38448
 city: Wolfsburg
-street: Meinstraße
+street: "Meinstraße"
 housenumber: 71
 phone: "+49 5363 2141"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:30"

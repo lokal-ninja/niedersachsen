@@ -5,7 +5,7 @@ latitude: 52.42955490000001
 longitude: 10.7979239
 postcode: 38440
 city: Wolfsburg
-street: An der Vorburg
+street: "An der Vorburg"
 housenumber: 1
 phone: ""
 opening_hours: ""

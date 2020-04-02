@@ -5,7 +5,7 @@ latitude: 52.5638026
 longitude: 9.027388
 postcode: 31595
 city: Steyerberg
-street: Stolzenauer Straße
+street: "Stolzenauer Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"

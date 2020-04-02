@@ -5,7 +5,7 @@ latitude: 52.4230826
 longitude: 10.723756600000002
 postcode: 38442
 city: Wolfsburg
-street: Wolfsburger Landstraße
+street: "Wolfsburger Landstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.169944
 longitude: 9.6496569
 postcode: 31832
 city: Springe
-street: Schützenstraße
+street: "Schützenstraße"
 housenumber: 11
 phone: "+49 5044 309"
 opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00"

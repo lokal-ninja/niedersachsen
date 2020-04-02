@@ -5,7 +5,7 @@ latitude: 52.340814800000004
 longitude: 9.702036000000001
 postcode: 30459
 city: Hannover
-street: WP-Eberhard-Eggers-Platz
+street: "WP-Eberhard-Eggers-Platz"
 housenumber: 123
 phone: "+49 511 655 125 35"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

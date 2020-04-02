@@ -5,7 +5,7 @@ latitude: 52.2637225
 longitude: 9.0491721
 postcode: 31675
 city: Bückeburg
-street: Unterwallweg
+street: "Unterwallweg"
 housenumber: 11
 phone: ""
 opening_hours: ""

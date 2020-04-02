@@ -5,7 +5,7 @@ latitude: 52.534359900000005
 longitude: 7.304135100000001
 postcode: 49808
 city: Lingen
-street: Meppener Straße
+street: "Meppener Straße"
 housenumber: 129
 phone: ""
 opening_hours: ""

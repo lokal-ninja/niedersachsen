@@ -5,7 +5,7 @@ latitude: 52.998143400000004
 longitude: 9.920968100000001
 postcode: 29614
 city: Soltau
-street: Gottlieb-Daimler-Straße
+street: "Gottlieb-Daimler-Straße"
 housenumber: 2c
 phone: "+49 5191 602640"
 opening_hours: ""

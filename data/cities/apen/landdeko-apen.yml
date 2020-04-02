@@ -5,7 +5,7 @@ latitude: 53.220740600000006
 longitude: 7.803232700000001
 postcode: 26689
 city: Apen
-street: Streichenstraße
+street: "Streichenstraße"
 housenumber: 13
 phone: "+49 4489 4048560"
 opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:00-12:00; PH off"

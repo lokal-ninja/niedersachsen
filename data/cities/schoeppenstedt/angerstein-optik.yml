@@ -5,7 +5,7 @@ latitude: 52.144983700000004
 longitude: 10.7747577
 postcode: 38170
 city: Schöppenstedt
-street: Braunschweiger Straße
+street: "Braunschweiger Straße"
 housenumber: 56
 phone: ""
 opening_hours: ""

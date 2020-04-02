@@ -5,7 +5,7 @@ latitude: 51.8865672
 longitude: 10.558591600000002
 postcode: 38667
 city: Bad Harzburg
-street: Herzog-Julius-Straße
+street: "Herzog-Julius-Straße"
 housenumber: 9
 phone: "+49 5322 558800"
 opening_hours: ""

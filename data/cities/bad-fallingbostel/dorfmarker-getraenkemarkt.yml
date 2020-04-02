@@ -5,7 +5,7 @@ latitude: 52.9078578
 longitude: 9.757624
 postcode: 29683
 city: Bad Fallingbostel
-street: Winkelhäuser Weg
+street: "Winkelhäuser Weg"
 housenumber: 9
 phone: ""
 opening_hours: ""

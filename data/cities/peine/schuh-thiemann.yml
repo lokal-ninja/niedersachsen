@@ -5,7 +5,7 @@ latitude: 52.335686
 longitude: 10.182894600000001
 postcode: 31228
 city: Peine
-street: Herrenfeldstraße
+street: "Herrenfeldstraße"
 housenumber: 37
 phone: "+49 5171 25706"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.368852100000005
 longitude: 7.2097439
 postcode: 26725
 city: Emden
-street: Bollwerkstraße
+street: "Bollwerkstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

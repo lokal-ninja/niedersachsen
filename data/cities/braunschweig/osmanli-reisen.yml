@@ -5,7 +5,7 @@ latitude: 52.27042470000001
 longitude: 10.5235281
 postcode: 38100
 city: Braunschweig
-street: Wendenstraße
+street: "Wendenstraße"
 housenumber: 43-44
 phone: ""
 opening_hours: ""

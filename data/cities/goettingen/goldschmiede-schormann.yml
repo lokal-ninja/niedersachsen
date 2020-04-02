@@ -5,7 +5,7 @@ latitude: 51.532964400000004
 longitude: 9.9362901
 postcode: 37073
 city: Göttingen
-street: Rote Straße
+street: "Rote Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

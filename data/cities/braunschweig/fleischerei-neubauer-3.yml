@@ -5,7 +5,7 @@ latitude: 52.2487963
 longitude: 10.478955500000001
 postcode: 38120
 city: Braunschweig
-street: Elbestraße
+street: "Elbestraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00, Sa 07:00-13:00"

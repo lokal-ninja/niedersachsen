@@ -5,7 +5,7 @@ latitude: 52.7291979
 longitude: 10.725426200000001
 postcode: 29378
 city: Wittingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 49
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.948786500000004
 longitude: 10.5410336
 postcode: 38690
 city: Goslar
-street: Okerstraße
+street: "Okerstraße"
 housenumber: 45
 phone: "+49 5324 7869060"
 opening_hours: ""

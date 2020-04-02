@@ -5,7 +5,7 @@ latitude: 52.3910725
 longitude: 9.8543015
 postcode: 30629
 city: Hannover
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"

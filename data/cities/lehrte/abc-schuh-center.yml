@@ -5,7 +5,7 @@ latitude: 52.3762162
 longitude: 9.979869
 postcode: 31275
 city: Lehrte
-street: Zuckerpassage
+street: "Zuckerpassage"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00"

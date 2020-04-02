@@ -5,7 +5,7 @@ latitude: 52.348441300000005
 longitude: 9.690362400000001
 postcode: 30453
 city: Hannover
-street: Nenndorfer Chaussee
+street: "Nenndorfer Chaussee"
 housenumber: 13
 phone: ""
 opening_hours: ""

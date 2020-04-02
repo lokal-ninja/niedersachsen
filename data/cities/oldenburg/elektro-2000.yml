@@ -5,7 +5,7 @@ latitude: 53.144001900000006
 longitude: 8.192064
 postcode: 
 city: Oldenburg
-street: Ammerländer Heerstraße
+street: "Ammerländer Heerstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3564529
 longitude: 9.853010600000001
 postcode: 30559
 city: Hannover
-street: Ohefeldweg
+street: "Ohefeldweg"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

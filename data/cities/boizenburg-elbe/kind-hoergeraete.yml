@@ -5,7 +5,7 @@ latitude: 53.3739501
 longitude: 10.723326700000001
 postcode: 19258
 city: Boizenburg/Elbe
-street: Markt
+street: "Markt"
 housenumber: 8
 phone: "+493884733278"
 opening_hours: "Mo-Tu 09:00-13:00, 14:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00, 14:00-18:00"

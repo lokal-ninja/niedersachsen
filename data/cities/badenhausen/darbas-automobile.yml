@@ -5,7 +5,7 @@ latitude: 51.7710219
 longitude: 10.204407100000001
 postcode: 37539
 city: Badenhausen
-street: Unterdorf
+street: "Unterdorf"
 housenumber: 9a
 phone: "+49 5522 5077833"
 opening_hours: ""

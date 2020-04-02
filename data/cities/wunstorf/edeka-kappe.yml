@@ -5,7 +5,7 @@ latitude: 52.4238239
 longitude: 9.4383859
 postcode: 31515
 city: Wunstorf
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

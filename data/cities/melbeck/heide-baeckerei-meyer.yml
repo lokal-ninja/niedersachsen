@@ -5,7 +5,7 @@ latitude: 53.178033000000006
 longitude: 10.413689000000002
 postcode: 21406
 city: Melbeck
-street: Uelzener Straße
+street: "Uelzener Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Sa 06:00-21:00; Su 07:30-17:00"

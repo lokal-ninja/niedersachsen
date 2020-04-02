@@ -5,7 +5,7 @@ latitude: 52.3209552
 longitude: 7.222899000000001
 postcode: 48465
 city: Schüttorf
-street: Steinstraße
+street: "Steinstraße"
 housenumber: 6
 phone: "+49 5923 6616"
 opening_hours: ""

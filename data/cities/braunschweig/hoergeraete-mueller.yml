@@ -5,7 +5,7 @@ latitude: 52.2640024
 longitude: 10.5259202
 postcode: 38100
 city: Braunschweig
-street: Langer Hof
+street: "Langer Hof"
 housenumber: 4
 phone: "+49 531 44139"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

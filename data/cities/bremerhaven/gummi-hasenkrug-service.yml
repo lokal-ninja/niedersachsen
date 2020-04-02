@@ -5,7 +5,7 @@ latitude: 53.5268214
 longitude: 8.6032825
 postcode: 27574
 city: Bremerhaven
-street: Feldstraße
+street: "Feldstraße"
 housenumber: 24
 phone: "+494 7139090"
 opening_hours: ""

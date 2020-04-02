@@ -5,7 +5,7 @@ latitude: 51.5287662
 longitude: 9.9336756
 postcode: 
 city: Göttingen
-street: Bürgerstraße
+street: "Bürgerstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

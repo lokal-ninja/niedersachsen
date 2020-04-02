@@ -5,7 +5,7 @@ latitude: 53.0236917
 longitude: 7.860589200000001
 postcode: 26169
 city: Friesoythe
-street: Europastraße
+street: "Europastraße"
 housenumber: 6-8
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off; PH off"

@@ -5,7 +5,7 @@ latitude: 52.2642365
 longitude: 8.0588414
 postcode: 49084
 city: Osnabrück
-street: Meller Straße
+street: "Meller Straße"
 housenumber: 45
 phone: "+49 541 76089691"
 opening_hours: "Tu 13:00-18:00; We 13:00-18:00; Th 13:00-18:00; Fr 11:00-19:00; Sa 11:00-15:00; PH off"

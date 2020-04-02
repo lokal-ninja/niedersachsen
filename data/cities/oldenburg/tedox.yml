@@ -5,7 +5,7 @@ latitude: 53.183703900000005
 longitude: 8.2307392
 postcode: 26125
 city: Oldenburg
-street: Stubbenweg
+street: "Stubbenweg"
 housenumber: 29
 phone: "+49 441 209833810"
 opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-19:00"

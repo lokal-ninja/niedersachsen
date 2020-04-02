@@ -5,7 +5,7 @@ latitude: 53.521981200000006
 longitude: 9.396416700000001
 postcode: 21717
 city: Fredenbeck
-street: Dinghorner Straße
+street: "Dinghorner Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

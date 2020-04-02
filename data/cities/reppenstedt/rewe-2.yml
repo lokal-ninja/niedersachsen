@@ -5,7 +5,7 @@ latitude: 53.2481829
 longitude: 10.355554600000001
 postcode: 21391
 city: Reppenstedt
-street: Lüneburger Landstraße
+street: "Lüneburger Landstraße"
 housenumber: 5
 phone: "+49 (4131) 670001"
 opening_hours: "Mo-Sa 07:00-22:00"

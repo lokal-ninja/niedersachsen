@@ -5,7 +5,7 @@ latitude: 52.3554784
 longitude: 9.7203216
 postcode: 30449
 city: Hannover
-street: Ricklinger Straße
+street: "Ricklinger Straße"
 housenumber: 99
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

@@ -5,7 +5,7 @@ latitude: 52.1556152
 longitude: 9.970079400000001
 postcode: 31135
 city: Hildesheim
-street: Frankenstraße
+street: "Frankenstraße"
 housenumber: 2B
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:30"

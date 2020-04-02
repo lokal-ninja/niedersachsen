@@ -5,7 +5,7 @@ latitude: 53.29610400000001
 longitude: 7.49166
 postcode: 26802
 city: Moormerland
-street: Koloniestraße
+street: "Koloniestraße"
 housenumber: 56
 phone: ""
 opening_hours: "Mo 17:00-18:30, Th 10:00-12:00"

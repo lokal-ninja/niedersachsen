@@ -5,7 +5,7 @@ latitude: 53.2285784
 longitude: 8.7874943
 postcode: 27711
 city: Osterholz-Scharmbeck
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00; PH off"

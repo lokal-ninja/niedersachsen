@@ -5,7 +5,7 @@ latitude: 52.510729500000004
 longitude: 9.9942493
 postcode: 31303
 city: Burgdorf
-street: Grüne Allee
+street: "Grüne Allee"
 housenumber: 7
 phone: ""
 opening_hours: "Fr 14:00-18:00; Sa 10:00-12:00"

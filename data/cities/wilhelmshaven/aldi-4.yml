@@ -5,7 +5,7 @@ latitude: 53.51576360000001
 longitude: 8.1014403
 postcode: 26382
 city: Wilhelmshaven
-street: Rüderstraße
+street: "Rüderstraße"
 housenumber: 3 a
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

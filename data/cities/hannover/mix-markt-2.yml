@@ -5,7 +5,7 @@ latitude: 52.399969000000006
 longitude: 9.828713500000001
 postcode: 30655
 city: Hannover
-street: Schierholzstraße
+street: "Schierholzstraße"
 housenumber: 128
 phone: "+49 511 5859848"
 opening_hours: "Mo-Sa 09:00-20:00"

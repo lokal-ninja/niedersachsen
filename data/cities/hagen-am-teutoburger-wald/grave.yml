@@ -5,7 +5,7 @@ latitude: 52.204364000000005
 longitude: 7.928645400000001
 postcode: 49170
 city: Hagen am Teutoburger Wald
-street: Natruper Straße
+street: "Natruper Straße"
 housenumber: 85
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.073762900000006
 longitude: 8.7988699
 postcode: 28199
 city: Bremen
-street: Westerstraße
+street: "Westerstraße"
 housenumber: 19-31
 phone: ""
 opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30; Su,PH off"

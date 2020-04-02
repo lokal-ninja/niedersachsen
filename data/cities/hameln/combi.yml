@@ -5,7 +5,7 @@ latitude: 52.103181500000005
 longitude: 9.3371007
 postcode: 31787
 city: Hameln
-street: Klütstraße
+street: "Klütstraße"
 housenumber: 72
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

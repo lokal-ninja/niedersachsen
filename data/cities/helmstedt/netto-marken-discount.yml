@@ -5,7 +5,7 @@ latitude: 52.239023200000005
 longitude: 11.0106414
 postcode: 38350
 city: Helmstedt
-street: Walbecker Straße
+street: "Walbecker Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

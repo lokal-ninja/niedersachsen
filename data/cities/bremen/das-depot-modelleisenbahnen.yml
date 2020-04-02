@@ -5,7 +5,7 @@ latitude: 53.069819800000005
 longitude: 8.8416823
 postcode: 28205
 city: Bremen
-street: Verdener Straße
+street: "Verdener Straße"
 housenumber: 37
 phone: "+49 421 43689888"
 opening_hours: "Mo 16:00-19:00; Tu,Th,Fr 10:00-12:30,15:00-18:30; Sa 10:00-13:00"

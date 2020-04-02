@@ -5,7 +5,7 @@ latitude: 52.2911617
 longitude: 9.5193255
 postcode: 30890
 city: Barsinghausen
-street: Schmiedestraße
+street: "Schmiedestraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

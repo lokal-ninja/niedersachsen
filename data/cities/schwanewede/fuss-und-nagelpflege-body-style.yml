@@ -5,7 +5,7 @@ latitude: 53.224919400000005
 longitude: 8.590472400000001
 postcode: 28790
 city: Schwanewede
-street: Hospitalstraße
+street: "Hospitalstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3039241
 longitude: 9.534661900000001
 postcode: 30890
 city: Barsinghausen
-street: Suhlenstraße
+street: "Suhlenstraße"
 housenumber: 7
 phone: "+49 5105 8955"
 opening_hours: "Mo,Tu,Th,Fr 06:00-12:30,15:00-18:00; We,Sa 06:00-12:30; PH off"

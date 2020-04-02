@@ -5,7 +5,7 @@ latitude: 53.1858609
 longitude: 8.2217032
 postcode: 26125
 city: Oldenburg
-street: Langenweg
+street: "Langenweg"
 housenumber: 20
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2647728
 longitude: 10.5285027
 postcode: 38100
 city: Braunschweig
-street: Platz am Ritterbrunnen
+street: "Platz am Ritterbrunnen"
 housenumber: 1
 phone: "+49 531 2194060"
 opening_hours: "Mo-Sa 09:30-20:00"

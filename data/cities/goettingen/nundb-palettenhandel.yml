@@ -5,7 +5,7 @@ latitude: 51.55103750000001
 longitude: 9.9154955
 postcode: 37081
 city: Göttingen
-street: Hagenweg
+street: "Hagenweg"
 housenumber: 2g
 phone: ""
 opening_hours: ""

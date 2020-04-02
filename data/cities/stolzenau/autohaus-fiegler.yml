@@ -5,7 +5,7 @@ latitude: 52.5267173
 longitude: 9.0777242
 postcode: 31592
 city: Stolzenau
-street: Große Brinkstraße
+street: "Große Brinkstraße"
 housenumber: 1
 phone: "+49 5761 92090"
 opening_hours: ""

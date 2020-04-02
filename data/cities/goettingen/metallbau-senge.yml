@@ -5,7 +5,7 @@ latitude: 51.5621938
 longitude: 9.927202000000001
 postcode: 37077
 city: Göttingen
-street: Wagenstieg
+street: "Wagenstieg"
 housenumber: 10a
 phone: ""
 opening_hours: ""

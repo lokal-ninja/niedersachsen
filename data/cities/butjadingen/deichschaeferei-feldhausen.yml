@@ -5,7 +5,7 @@ latitude: 53.6072958
 longitude: 8.3210067
 postcode: 26969
 city: Butjadingen
-street: Feldhauser Straße
+street: "Feldhauser Straße"
 housenumber: 2
 phone: "+49 4733 1455"
 opening_hours: "Please call or try"

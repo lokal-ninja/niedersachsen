@@ -5,7 +5,7 @@ latitude: 53.845511300000005
 longitude: 8.6907969
 postcode: 27472
 city: Cuxhaven
-street: Abschnede
+street: "Abschnede"
 housenumber: 210
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-18:00; PH off"

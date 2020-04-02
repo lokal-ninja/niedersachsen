@@ -5,7 +5,7 @@ latitude: 52.2696686
 longitude: 8.0412367
 postcode: 49080
 city: Osnabrück
-street: Rehmstraße
+street: "Rehmstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:00-13:00, Mo,We-Fr 15:00-18:00, Sa 08:00-13:00"

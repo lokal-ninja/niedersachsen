@@ -5,7 +5,7 @@ latitude: 51.9540329
 longitude: 10.5577191
 postcode: 38690
 city: Goslar
-street: Goslarer Straße
+street: "Goslarer Straße"
 housenumber: 22a
 phone: ""
 opening_hours: "Mo 09:00-12:30; Tu-Fr 09:00-12:30,15:00-18:00; Sa 09:00-12:30; Su off; PH off"

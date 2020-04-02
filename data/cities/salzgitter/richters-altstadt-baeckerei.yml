@@ -5,7 +5,7 @@ latitude: 52.186725700000004
 longitude: 10.484576
 postcode: 38239
 city: Salzgitter
-street: Wolfenbütteler Straße
+street: "Wolfenbütteler Straße"
 housenumber: 3
 phone: "+49 5341 848798"
 opening_hours: "Mo-Fr 05:45-13:00,14:30-18:00; Sa 05:45-12:30; Su 08:00-11:00"

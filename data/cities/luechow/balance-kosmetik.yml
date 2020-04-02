@@ -5,7 +5,7 @@ latitude: 52.963278100000004
 longitude: 11.143178800000001
 postcode: 29439
 city: Lüchow
-street: Spötzingstraße
+street: "Spötzingstraße"
 housenumber: 6
 phone: "+49 5841 4754"
 opening_hours: ""

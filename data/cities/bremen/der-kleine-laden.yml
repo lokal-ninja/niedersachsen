@@ -5,7 +5,7 @@ latitude: 53.0795961
 longitude: 8.8134463
 postcode: 28195
 city: Bremen
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Th 06:00-15:30; Fr 06:00-15:00"

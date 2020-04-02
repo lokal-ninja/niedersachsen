@@ -5,7 +5,7 @@ latitude: 52.3575655
 longitude: 7.4713266
 postcode: 48480
 city: Spelle
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 7
 phone: "+49 5977 1470"
 opening_hours: ""

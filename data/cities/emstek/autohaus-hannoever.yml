@@ -5,7 +5,7 @@ latitude: 52.8287403
 longitude: 8.1163103
 postcode: 49685
 city: Emstek
-street: Cappelner Straße
+street: "Cappelner Straße"
 housenumber: 1
 phone: "+49 4473 92820"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off"

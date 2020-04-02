@@ -5,7 +5,7 @@ latitude: 53.057307900000005
 longitude: 9.1689714
 postcode: 28869
 city: Posthausen
-street: Posthausen
+street: "Posthausen"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

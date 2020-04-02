@@ -5,7 +5,7 @@ latitude: 53.113737
 longitude: 9.793628100000001
 postcode: 29640
 city: Schneverdingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 28
 phone: "+49 5193 982835"
 opening_hours: ""

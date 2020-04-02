@@ -5,7 +5,7 @@ latitude: 52.137558500000004
 longitude: 10.954745
 postcode: 38364
 city: Schöningen
-street: Hoiersdorfer Straße
+street: "Hoiersdorfer Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

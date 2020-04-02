@@ -5,7 +5,7 @@ latitude: 52.1518795
 longitude: 9.9524226
 postcode: 31134
 city: Hildesheim
-street: Scheelenstraße
+street: "Scheelenstraße"
 housenumber: 25
 phone: "+49 5121 34048"
 opening_hours: ""

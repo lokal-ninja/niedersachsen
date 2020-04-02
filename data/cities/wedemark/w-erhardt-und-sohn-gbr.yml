@@ -5,7 +5,7 @@ latitude: 52.559806900000005
 longitude: 9.7340557
 postcode: 30900
 city: Wedemark
-street: Sommerbosteler Straße
+street: "Sommerbosteler Straße"
 housenumber: 27
 phone: "+49 5130 3401"
 opening_hours: "Mo-Tu 08:00-18:00; We 08:00-13:00; Th-Fr 08:00-18:00; Sa 09:00-13:00"

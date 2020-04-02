@@ -5,7 +5,7 @@ latitude: 52.321410900000004
 longitude: 7.2216572
 postcode: 48465
 city: Schüttorf
-street: Markt
+street: "Markt"
 housenumber: 12
 phone: "+49 5923 2490"
 opening_hours: ""

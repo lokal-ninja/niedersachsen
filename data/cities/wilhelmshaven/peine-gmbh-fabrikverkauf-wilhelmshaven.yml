@@ -5,7 +5,7 @@ latitude: 53.5171671
 longitude: 8.1296193
 postcode: 26382
 city: Wilhelmshaven
-street: Ebertstraße
+street: "Ebertstraße"
 housenumber: 58b
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"

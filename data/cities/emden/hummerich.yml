@@ -5,7 +5,7 @@ latitude: 53.3683047
 longitude: 7.1896183
 postcode: 26723
 city: Emden
-street: Ubierstraße
+street: "Ubierstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

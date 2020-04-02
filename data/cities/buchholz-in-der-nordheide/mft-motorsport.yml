@@ -5,7 +5,7 @@ latitude: 53.325117000000006
 longitude: 9.814516600000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Hanomagstraße
+street: "Hanomagstraße"
 housenumber: 20
 phone: "+49 4186 5890186"
 opening_hours: ""

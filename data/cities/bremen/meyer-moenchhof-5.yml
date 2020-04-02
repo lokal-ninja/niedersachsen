@@ -5,7 +5,7 @@ latitude: 53.095015800000006
 longitude: 8.8500599
 postcode: 28213
 city: Bremen
-street: Kulenkampffallee
+street: "Kulenkampffallee"
 housenumber: 184
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 52.6096683
 longitude: 6.8530812
 postcode: 49824
 city: Emlichheim
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo,Tu,We,Fr 09:00-18:30; Th 09:00-19:00; Sa 09:00-16:00; PH off"

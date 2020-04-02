@@ -5,7 +5,7 @@ latitude: 52.1659693
 longitude: 9.995701700000001
 postcode: 31135
 city: Hildesheim
-street: Daimlerring
+street: "Daimlerring"
 housenumber: 12
 phone: ""
 opening_hours: ""

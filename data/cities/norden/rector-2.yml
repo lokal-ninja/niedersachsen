@@ -5,7 +5,7 @@ latitude: 53.5960722
 longitude: 7.2075348
 postcode: 26506
 city: Norden
-street: Osterstraße
+street: "Osterstraße"
 housenumber: 133
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2525734
 longitude: 9.967047200000001
 postcode: 31191
 city: Algermissen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 09:00-12:00; Tu-Fr 15:00-18:00"

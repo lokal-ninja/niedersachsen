@@ -5,7 +5,7 @@ latitude: 52.934091
 longitude: 7.3331423000000004
 postcode: 26892
 city: Kluse
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

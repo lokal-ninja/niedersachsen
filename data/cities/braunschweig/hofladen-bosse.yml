@@ -5,7 +5,7 @@ latitude: 52.2400718
 longitude: 10.5880503
 postcode: 38126
 city: Braunschweig
-street: Kleegasse
+street: "Kleegasse"
 housenumber: 1
 phone: ""
 opening_hours: "Tu 10:00-12:00,17:00-19:00; Fr 10:00-12:00,15:00-18:00; Sa 09:00-13:00; PH off"

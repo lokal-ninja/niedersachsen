@@ -5,7 +5,7 @@ latitude: 52.981470400000006
 longitude: 8.847195300000001
 postcode: 28844
 city: Weyhe
-street: Handelsweg
+street: "Handelsweg"
 housenumber: 15
 phone: ""
 opening_hours: ""

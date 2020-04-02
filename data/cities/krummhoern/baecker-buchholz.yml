@@ -5,7 +5,7 @@ latitude: 53.379708400000005
 longitude: 7.036493200000001
 postcode: 26736
 city: Krummhörn
-street: Emsstraße
+street: "Emsstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

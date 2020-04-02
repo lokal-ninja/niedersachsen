@@ -5,7 +5,7 @@ latitude: 52.274042900000005
 longitude: 9.3677848
 postcode: 31867
 city: Lauenau
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 3
 phone: "+49 (0) 5043 / 22 51"
 opening_hours: ""

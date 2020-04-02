@@ -5,7 +5,7 @@ latitude: 53.245937000000005
 longitude: 8.1828363
 postcode: 26180
 city: Rastede
-street: Pantinenweg
+street: "Pantinenweg"
 housenumber: 6
 phone: ""
 opening_hours: "Tu-Fr 09:00-12:30,14:30-18:00; Sa 08:30-12:30,14:30-18:00"

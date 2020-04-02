@@ -5,7 +5,7 @@ latitude: 52.6136836
 longitude: 10.602884900000001
 postcode: 29399
 city: Wahrenholz
-street: Försterweg
+street: "Försterweg"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-18:00; Su 07:00-17:00"

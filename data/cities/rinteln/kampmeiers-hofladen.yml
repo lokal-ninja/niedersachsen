@@ -5,7 +5,7 @@ latitude: 52.149538400000004
 longitude: 9.0980263
 postcode: 31737
 city: Rinteln
-street: Kasseler Landstraße
+street: "Kasseler Landstraße"
 housenumber: 22
 phone: ""
 opening_hours: "We-Fr 09:00-18:00; Sa 08:00-13:00"

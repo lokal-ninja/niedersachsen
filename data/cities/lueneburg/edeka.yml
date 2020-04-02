@@ -5,7 +5,7 @@ latitude: 53.244456500000005
 longitude: 10.401872000000001
 postcode: 21335
 city: Lüneburg
-street: Sülztorstraße
+street: "Sülztorstraße"
 housenumber: 18
 phone: "+49 4131 74950"
 opening_hours: "Mo-Sa 07:30-21:00"

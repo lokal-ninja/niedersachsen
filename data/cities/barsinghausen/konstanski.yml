@@ -5,7 +5,7 @@ latitude: 52.289969400000004
 longitude: 9.498821900000001
 postcode: 30890
 city: Barsinghausen
-street: Stoppstraße
+street: "Stoppstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"

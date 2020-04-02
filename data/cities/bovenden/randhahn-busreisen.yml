@@ -5,7 +5,7 @@ latitude: 51.5882888
 longitude: 9.9274483
 postcode: 
 city: Bovenden
-street: Feldtorweg
+street: "Feldtorweg"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; PH off"

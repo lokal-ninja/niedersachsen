@@ -5,7 +5,7 @@ latitude: 52.464063900000006
 longitude: 10.2025261
 postcode: 31311
 city: Uetze
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Tu-Fr 9:30-13:15, 15:00-18:00; Sa 9:30-13:00"

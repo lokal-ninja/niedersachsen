@@ -5,7 +5,7 @@ latitude: 52.058965400000005
 longitude: 10.5687771
 postcode: 38312
 city: Börßum
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 11
 phone: "+49 5334 948451"
 opening_hours: ""

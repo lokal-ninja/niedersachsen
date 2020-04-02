@@ -5,7 +5,7 @@ latitude: 52.912653600000006
 longitude: 9.260762600000001
 postcode: 27283
 city: Verden
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

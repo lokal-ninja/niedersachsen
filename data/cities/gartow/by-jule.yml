@@ -5,7 +5,7 @@ latitude: 53.026789
 longitude: 11.457911800000002
 postcode: 29471
 city: Gartow
-street: Springstraße
+street: "Springstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.426833200000004
 longitude: 9.4326136
 postcode: 31515
 city: Wunstorf
-street: Stiftsstraße
+street: "Stiftsstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

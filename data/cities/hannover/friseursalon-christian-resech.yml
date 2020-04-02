@@ -5,7 +5,7 @@ latitude: 52.3725109
 longitude: 9.7876814
 postcode: 30625
 city: Hannover
-street: Breithauptstraße
+street: "Breithauptstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Tu-Fr 08:30-17:30, Sa 08:00-12:00"

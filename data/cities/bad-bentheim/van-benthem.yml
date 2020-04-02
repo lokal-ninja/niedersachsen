@@ -5,7 +5,7 @@ latitude: 52.301722700000006
 longitude: 7.158557900000001
 postcode: 48455
 city: Bad Bentheim
-street: Am Bismarckplatz
+street: "Am Bismarckplatz"
 housenumber: 1a
 phone: ""
 opening_hours: "11:00-18:00"

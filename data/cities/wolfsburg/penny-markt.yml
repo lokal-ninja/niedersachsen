@@ -5,7 +5,7 @@ latitude: 52.419439600000004
 longitude: 10.806229
 postcode: 38446
 city: Wolfsburg
-street: Anemonenweg
+street: "Anemonenweg"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.258361900000004
 longitude: 7.929177
 postcode: 26655
 city: Westerstede
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 6
 phone: "+49 4488 2513"
 opening_hours: ""

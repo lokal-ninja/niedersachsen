@@ -5,7 +5,7 @@ latitude: 53.468656100000004
 longitude: 7.459839700000001
 postcode: 26605
 city: Aurich
-street: Dreekamp
+street: "Dreekamp"
 housenumber: 16
 phone: "+49 4941 9811-0"
 opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00"

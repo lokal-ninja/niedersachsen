@@ -5,7 +5,7 @@ latitude: 53.667672200000005
 longitude: 7.9098683
 postcode: 26434
 city: Wangerland
-street: Heinrich-Steinberg-Straße
+street: "Heinrich-Steinberg-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.44904450000001
 longitude: 10.585095200000001
 postcode: 38550
 city: Isenbüttel
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

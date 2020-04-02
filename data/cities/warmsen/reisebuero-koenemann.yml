@@ -5,7 +5,7 @@ latitude: 52.453016500000004
 longitude: 8.851469100000001
 postcode: 31606
 city: Warmsen
-street: Kreuzkruger Straße
+street: "Kreuzkruger Straße"
 housenumber: 5
 phone: "+49 5767 93030"
 opening_hours: ""

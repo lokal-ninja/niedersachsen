@@ -5,7 +5,7 @@ latitude: 52.400455400000006
 longitude: 10.748538700000001
 postcode: 38444
 city: Wolfsburg
-street: Erfurter Ring
+street: "Erfurter Ring"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 08:30-22:30; Sa 10:00-18:00; Su 10:00-14:00"

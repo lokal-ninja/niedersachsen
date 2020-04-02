@@ -5,7 +5,7 @@ latitude: 53.1162864
 longitude: 9.779756200000001
 postcode: 29640
 city: Schneverdingen
-street: Lehmstieg
+street: "Lehmstieg"
 housenumber: 7
 phone: ""
 opening_hours: ""

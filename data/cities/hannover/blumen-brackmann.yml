@@ -5,7 +5,7 @@ latitude: 52.4002958
 longitude: 9.668458900000001
 postcode: 30419
 city: Hannover
-street: Stöckener Straße
+street: "Stöckener Straße"
 housenumber: 65
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 10:00-12:00"

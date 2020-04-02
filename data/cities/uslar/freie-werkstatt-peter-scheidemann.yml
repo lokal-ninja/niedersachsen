@@ -5,7 +5,7 @@ latitude: 51.626981400000005
 longitude: 9.661224200000001
 postcode: 
 city: Uslar
-street: Landstraße
+street: "Landstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

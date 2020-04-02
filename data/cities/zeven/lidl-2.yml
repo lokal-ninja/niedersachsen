@@ -5,7 +5,7 @@ latitude: 53.29873490000001
 longitude: 9.2755004
 postcode: 27404
 city: Zeven
-street: Kivinanstraße
+street: "Kivinanstraße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

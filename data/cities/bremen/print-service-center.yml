@@ -5,7 +5,7 @@ latitude: 53.063959800000006
 longitude: 8.9489634
 postcode: 28325
 city: Bremen
-street: Sankt-Gotthard-Straße
+street: "Sankt-Gotthard-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:30,14:30-18:00;Sa 09:00-13:00; Su,PH off"

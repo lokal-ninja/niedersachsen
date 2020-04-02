@@ -5,7 +5,7 @@ latitude: 52.610638200000004
 longitude: 8.4811035
 postcode: 49453
 city: Rehden
-street: Nienburger Straße
+street: "Nienburger Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Tu,Th 09:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 52.313715900000005
 longitude: 10.2281847
 postcode: 31226
 city: Peine
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 11
 phone: "+49 221 20199959"
 opening_hours: "Mo-Sa 08:00-21:00"

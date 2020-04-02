@@ -5,7 +5,7 @@ latitude: 52.418288100000005
 longitude: 9.6031958
 postcode: 30823
 city: Garbsen
-street: Orionhof
+street: "Orionhof"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

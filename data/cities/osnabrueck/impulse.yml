@@ -5,7 +5,7 @@ latitude: 52.273937000000004
 longitude: 8.0459466
 postcode: 49074
 city: Osnabrück
-street: Kleine Hamkenstraße
+street: "Kleine Hamkenstraße"
 housenumber: 5-7
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

@@ -5,7 +5,7 @@ latitude: 51.7279586
 longitude: 10.254356300000001
 postcode: 37520
 city: Osterode am Harz
-street: Hoelemannpromenade
+street: "Hoelemannpromenade"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.6158397
 longitude: 7.8590552
 postcode: 49638
 city: Nortrup
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00; PH off"

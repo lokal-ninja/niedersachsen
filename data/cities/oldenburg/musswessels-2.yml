@@ -5,7 +5,7 @@ latitude: 53.13373970000001
 longitude: 8.2028031
 postcode: 26122
 city: Oldenburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-16:00; Su 07:30-18:00"

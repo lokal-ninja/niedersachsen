@@ -5,7 +5,7 @@ latitude: 52.265485700000006
 longitude: 10.5291288
 postcode: 38100
 city: Braunschweig
-street: Steinweg
+street: "Steinweg"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Tu 10:00-13:30,14:30-16:30; We 10:00-13:30; Th-Fr 10:00-13:30,14:30-16:30; Sa 10:00-13:00; Su off; PH off"

@@ -5,7 +5,7 @@ latitude: 52.393776800000005
 longitude: 10.711231600000001
 postcode: 38442
 city: Wolfsburg
-street: Mörser Straße
+street: "Mörser Straße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Tu,Th-Fr 09:00-18:00; We,Sa 09:00-13:00"

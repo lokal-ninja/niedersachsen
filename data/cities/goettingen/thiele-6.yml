@@ -5,7 +5,7 @@ latitude: 51.5493801
 longitude: 9.900119
 postcode: 37079
 city: Göttingen
-street: Elliehäuser Weg
+street: "Elliehäuser Weg"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

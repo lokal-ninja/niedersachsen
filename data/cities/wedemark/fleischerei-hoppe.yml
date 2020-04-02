@@ -5,7 +5,7 @@ latitude: 52.5466678
 longitude: 9.7392239
 postcode: 30900
 city: Wedemark
-street: Wedemarkstraße
+street: "Wedemarkstraße"
 housenumber: 67
 phone: ""
 opening_hours: "Mo 08:00-12:30; Tu 08:00-12:30,15:00-18:00;We 08:00-12:30;Tu 08:00-12:30,15:00-18:00;Fr 08:00-12:30,15:00-18:00;Sa 08:00-12:30"

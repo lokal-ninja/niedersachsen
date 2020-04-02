@@ -5,7 +5,7 @@ latitude: 51.461405000000006
 longitude: 9.9235441
 postcode: 37124
 city: Rosdorf
-street: Zuckerfabrik
+street: "Zuckerfabrik"
 housenumber: 17
 phone: "+49 5509 469"
 opening_hours: ""

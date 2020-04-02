@@ -5,7 +5,7 @@ latitude: 52.363622500000005
 longitude: 9.8537166
 postcode: 30559
 city: Hannover
-street: Eisteichweg
+street: "Eisteichweg"
 housenumber: 3
 phone: ""
 opening_hours: ""

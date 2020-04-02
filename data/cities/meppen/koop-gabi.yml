@@ -5,7 +5,7 @@ latitude: 52.692325100000005
 longitude: 7.2768383000000005
 postcode: 49716
 city: Meppen
-street: Matthias-Claudius-Straße
+street: "Matthias-Claudius-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

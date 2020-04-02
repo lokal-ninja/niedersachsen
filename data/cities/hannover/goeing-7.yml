@@ -5,7 +5,7 @@ latitude: 52.376323600000006
 longitude: 9.756404400000001
 postcode: 30175
 city: Hannover
-street: Ellernstraße
+street: "Ellernstraße"
 housenumber: 10
 phone: "+49511 60024979"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-14:00; Su 08:00-17:00"

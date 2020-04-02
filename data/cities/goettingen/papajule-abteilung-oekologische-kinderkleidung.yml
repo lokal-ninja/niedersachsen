@@ -5,7 +5,7 @@ latitude: 51.5328834
 longitude: 9.9325852
 postcode: 37073
 city: Göttingen
-street: Johannisstraße
+street: "Johannisstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH off"

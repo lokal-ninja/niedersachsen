@@ -5,7 +5,7 @@ latitude: 52.4204407
 longitude: 9.7996473
 postcode: 30659
 city: Hannover
-street: Kurze-Kamp-Straße
+street: "Kurze-Kamp-Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

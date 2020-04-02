@@ -5,7 +5,7 @@ latitude: 51.6437461
 longitude: 9.4548482
 postcode: 34385
 city: Bad Karlshafen
-street: Mündener Straße
+street: "Mündener Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-19:00"

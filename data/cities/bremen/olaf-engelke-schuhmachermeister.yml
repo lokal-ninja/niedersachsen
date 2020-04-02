@@ -5,7 +5,7 @@ latitude: 53.077665700000004
 longitude: 8.8088038
 postcode: 28195
 city: Bremen
-street: Katharinenklosterhof
+street: "Katharinenklosterhof"
 housenumber: 7
 phone: ""
 opening_hours: ""

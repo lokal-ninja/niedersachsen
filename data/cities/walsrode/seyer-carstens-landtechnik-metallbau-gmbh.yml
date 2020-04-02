@@ -5,7 +5,7 @@ latitude: 52.8325564
 longitude: 9.635184800000001
 postcode: 29664
 city: Walsrode
-street: Sophienstraße
+street: "Sophienstraße"
 housenumber: 3
 phone: "+49 5161 3265"
 opening_hours: ""

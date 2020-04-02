@@ -5,7 +5,7 @@ latitude: 52.102174100000006
 longitude: 9.3542891
 postcode: 31785
 city: Hameln
-street: Papenstraße
+street: "Papenstraße"
 housenumber: 6
 phone: "+49 5151 4502300"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:30-15:00"

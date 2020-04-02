@@ -5,7 +5,7 @@ latitude: 52.3767828
 longitude: 9.6931639
 postcode: 30453
 city: Hannover
-street: Wunstorfer Straße
+street: "Wunstorfer Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 07:00-23:00"

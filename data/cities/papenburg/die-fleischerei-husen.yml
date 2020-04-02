@@ -5,7 +5,7 @@ latitude: 53.0769266
 longitude: 7.3898184
 postcode: 26871
 city: Papenburg
-street: Friederikenstraße
+street: "Friederikenstraße"
 housenumber: 43
 phone: "+49 4961 667836"
 opening_hours: ""

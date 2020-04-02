@@ -5,7 +5,7 @@ latitude: 51.5122219
 longitude: 10.2607085
 postcode: 
 city: Duderstadt
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH off"

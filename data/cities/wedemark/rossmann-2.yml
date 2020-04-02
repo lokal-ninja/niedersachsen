@@ -5,7 +5,7 @@ latitude: 52.5292539
 longitude: 9.752890500000001
 postcode: 30900
 city: Wedemark
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

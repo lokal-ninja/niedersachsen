@@ -5,7 +5,7 @@ latitude: 52.177064300000005
 longitude: 9.9640647
 postcode: 31135
 city: Hildesheim
-street: Peiner Landstraße
+street: "Peiner Landstraße"
 housenumber: 213
 phone: ""
 opening_hours: ""

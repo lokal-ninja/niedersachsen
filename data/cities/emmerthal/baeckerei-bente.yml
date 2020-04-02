@@ -5,7 +5,7 @@ latitude: 52.001701600000004
 longitude: 9.4364114
 postcode: 31860
 city: Emmerthal
-street: Thingstraße
+street: "Thingstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

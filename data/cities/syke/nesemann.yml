@@ -5,7 +5,7 @@ latitude: 52.914951900000005
 longitude: 8.8145109
 postcode: 28857
 city: Syke
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

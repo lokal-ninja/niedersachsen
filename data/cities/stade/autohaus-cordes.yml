@@ -5,7 +5,7 @@ latitude: 53.590436100000005
 longitude: 9.485669300000001
 postcode: 21680
 city: Stade
-street: Harburger Straße
+street: "Harburger Straße"
 housenumber: 80
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5163603
 longitude: 10.5398299
 postcode: 38518
 city: Gifhorn
-street: Henschelstraße
+street: "Henschelstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Tu-Fr 08:30-18:00; Sa 07:30-13:00"

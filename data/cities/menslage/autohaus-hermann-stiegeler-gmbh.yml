@@ -5,7 +5,7 @@ latitude: 52.673642300000004
 longitude: 7.823591800000001
 postcode: 49637
 city: Menslage
-street: Quakenbrücker Straße
+street: "Quakenbrücker Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

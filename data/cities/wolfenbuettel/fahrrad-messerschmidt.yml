@@ -5,7 +5,7 @@ latitude: 52.170380800000004
 longitude: 10.5993879
 postcode: 38302
 city: Wolfenbüttel
-street: Adenemer Weg
+street: "Adenemer Weg"
 housenumber: 27
 phone: "+49-5331-33688"
 opening_hours: "Mo-Fr 17:15-19:00; Sa 09:00-14:00"

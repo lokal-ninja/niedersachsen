@@ -5,7 +5,7 @@ latitude: 53.373188500000005
 longitude: 10.5495751
 postcode: 21481
 city: Lauenburg/Elbe
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 33-35
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

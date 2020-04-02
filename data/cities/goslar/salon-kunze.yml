@@ -5,7 +5,7 @@ latitude: 51.9057996
 longitude: 10.4273515
 postcode: 
 city: Goslar
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

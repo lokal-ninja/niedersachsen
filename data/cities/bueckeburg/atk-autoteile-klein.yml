@@ -5,7 +5,7 @@ latitude: 52.265626100000006
 longitude: 9.0683063
 postcode: 31675
 city: Bückeburg
-street: Kreuzbreite
+street: "Kreuzbreite"
 housenumber: 11
 phone: "+49 5722 3653"
 opening_hours: ""

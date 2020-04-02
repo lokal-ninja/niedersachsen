@@ -5,7 +5,7 @@ latitude: 51.50117100000001
 longitude: 9.9073103
 postcode: 37124
 city: Rosdorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

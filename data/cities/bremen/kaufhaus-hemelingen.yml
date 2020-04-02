@@ -5,7 +5,7 @@ latitude: 53.0598079
 longitude: 8.8861266
 postcode: 28309
 city: Bremen
-street: Hemelinger Bahnhofstraße
+street: "Hemelinger Bahnhofstraße"
 housenumber: 21
 phone: "+49 421 48541756"
 opening_hours: ""

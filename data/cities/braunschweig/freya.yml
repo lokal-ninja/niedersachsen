@@ -5,7 +5,7 @@ latitude: 52.26443020000001
 longitude: 10.5230911
 postcode: 38100
 city: Braunschweig
-street: Vor der Burg
+street: "Vor der Burg"
 housenumber: 1
 phone: "+49 531 1233288"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

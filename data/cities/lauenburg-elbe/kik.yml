@@ -5,7 +5,7 @@ latitude: 53.3750219
 longitude: 10.5605855
 postcode: 21481
 city: Lauenburg/Elbe
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

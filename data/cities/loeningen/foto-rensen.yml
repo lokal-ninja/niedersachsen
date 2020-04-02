@@ -5,7 +5,7 @@ latitude: 52.734566400000006
 longitude: 7.7586076
 postcode: 49624
 city: Löningen
-street: Poststraße
+street: "Poststraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

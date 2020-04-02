@@ -5,7 +5,7 @@ latitude: 52.380330900000004
 longitude: 9.7287082
 postcode: 30159
 city: Hannover
-street: Postkamp
+street: "Postkamp"
 housenumber: 18
 phone: "+49 511 85979038"
 opening_hours: ""

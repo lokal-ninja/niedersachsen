@@ -5,7 +5,7 @@ latitude: 52.363058200000005
 longitude: 8.3099041
 postcode: 49163
 city: Bohmte
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 19
 phone: "+49 5471 9558250"
 opening_hours: "Mo-Sa 07:00-21:00"

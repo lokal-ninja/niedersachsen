@@ -5,7 +5,7 @@ latitude: 51.488562300000005
 longitude: 10.0472173
 postcode: 
 city: Gleichen
-street: Waterloostraße
+street: "Waterloostraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

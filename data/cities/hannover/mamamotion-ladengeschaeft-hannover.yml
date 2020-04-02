@@ -5,7 +5,7 @@ latitude: 52.387393
 longitude: 9.7202876
 postcode: 30167
 city: Hannover
-street: Rehbockstraße
+street: "Rehbockstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"

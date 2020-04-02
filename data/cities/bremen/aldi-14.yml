@@ -5,7 +5,7 @@ latitude: 53.068189800000006
 longitude: 8.8649971
 postcode: 28207
 city: Bremen
-street: Emil-von-Behring-Straße
+street: "Emil-von-Behring-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

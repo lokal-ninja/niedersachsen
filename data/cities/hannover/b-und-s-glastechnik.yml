@@ -5,7 +5,7 @@ latitude: 52.387485500000004
 longitude: 9.7163333
 postcode: 30167
 city: Hannover
-street: Glünderstraße
+street: "Glünderstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

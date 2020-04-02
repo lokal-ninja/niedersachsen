@@ -5,7 +5,7 @@ latitude: 53.10282410000001
 longitude: 9.3984175
 postcode: 27356
 city: Rotenburg (Wümme)
-street: Brauerstraße
+street: "Brauerstraße"
 housenumber: 3-9a
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

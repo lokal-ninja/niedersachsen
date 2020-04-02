@@ -5,7 +5,7 @@ latitude: 52.2617452
 longitude: 10.5305902
 postcode: 38100
 city: Braunschweig
-street: Ritterstraße
+street: "Ritterstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Tu-Fr 11:00-18:00, Sa 11:00-16:00"

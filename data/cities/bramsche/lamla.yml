@@ -5,7 +5,7 @@ latitude: 52.413597300000006
 longitude: 8.0989547
 postcode: 49565
 city: Bramsche
-street: Neustädter Straße
+street: "Neustädter Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

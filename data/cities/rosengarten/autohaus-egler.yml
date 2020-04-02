@@ -5,7 +5,7 @@ latitude: 53.4063299
 longitude: 9.9259666
 postcode: 21224
 city: Rosengarten
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

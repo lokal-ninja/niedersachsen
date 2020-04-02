@@ -5,7 +5,7 @@ latitude: 52.416008500000004
 longitude: 7.0716973
 postcode: 48529
 city: Nordhorn
-street: Mathildenstraße
+street: "Mathildenstraße"
 housenumber: 10
 phone: "+49 - 5921 - 4671"
 opening_hours: ""

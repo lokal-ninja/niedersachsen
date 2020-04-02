@@ -5,7 +5,7 @@ latitude: 51.5451336
 longitude: 9.936844800000001
 postcode: 37075
 city: Göttingen
-street: Beyerstraße
+street: "Beyerstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Su 09:00-24:00"

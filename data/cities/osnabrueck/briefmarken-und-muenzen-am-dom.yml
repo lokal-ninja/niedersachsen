@@ -5,7 +5,7 @@ latitude: 52.2787955
 longitude: 8.0436064
 postcode: 49074
 city: Osnabrück
-street: Hasestraße
+street: "Hasestraße"
 housenumber: 47
 phone: ""
 opening_hours: ""

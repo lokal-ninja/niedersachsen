@@ -5,7 +5,7 @@ latitude: 53.1409402
 longitude: 11.2517147
 postcode: 19303
 city: Dömitz
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

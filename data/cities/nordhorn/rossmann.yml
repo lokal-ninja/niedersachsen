@@ -5,7 +5,7 @@ latitude: 52.4105191
 longitude: 7.0680499
 postcode: 48529
 city: Nordhorn
-street: Gildehauser Weg
+street: "Gildehauser Weg"
 housenumber: 95
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-20:00; Su off; PH off"

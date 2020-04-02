@@ -5,7 +5,7 @@ latitude: 53.488622400000004
 longitude: 9.138792500000001
 postcode: 27432
 city: Bremervörde
-street: Dammstraße
+street: "Dammstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

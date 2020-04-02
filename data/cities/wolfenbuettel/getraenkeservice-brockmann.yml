@@ -5,7 +5,7 @@ latitude: 52.156740400000004
 longitude: 10.4974995
 postcode: 38304
 city: Wolfenbüttel
-street: Heinrich-Eberhardt-Straße
+street: "Heinrich-Eberhardt-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

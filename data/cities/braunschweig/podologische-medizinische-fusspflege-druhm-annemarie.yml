@@ -5,7 +5,7 @@ latitude: 52.2545477
 longitude: 10.5359642
 postcode: 38102
 city: Braunschweig
-street: Kurt-Schumacher-Straße
+street: "Kurt-Schumacher-Straße"
 housenumber: 9
 phone: "+49 531 799 238"
 opening_hours: ""

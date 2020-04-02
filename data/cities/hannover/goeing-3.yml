@@ -5,7 +5,7 @@ latitude: 52.3620212
 longitude: 9.759250600000001
 postcode: 30171
 city: Hannover
-street: Sallstraße
+street: "Sallstraße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Th 06:00-18:00; Fr 06:00-17:00; Sa 06:30-12:30; Su,PH 08:00-11:00"

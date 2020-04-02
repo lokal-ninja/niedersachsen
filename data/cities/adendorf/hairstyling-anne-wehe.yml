@@ -5,7 +5,7 @@ latitude: 53.2818264
 longitude: 10.432860900000001
 postcode: 21365
 city: Adendorf
-street: Weinbergsweg
+street: "Weinbergsweg"
 housenumber: 8 F
 phone: "+49 4131 188889"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-13:00"

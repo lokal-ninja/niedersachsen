@@ -5,7 +5,7 @@ latitude: 52.399629000000004
 longitude: 9.7647844
 postcode: 30177
 city: Hannover
-street: Immengarten
+street: "Immengarten"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

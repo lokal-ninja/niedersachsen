@@ -5,7 +5,7 @@ latitude: 52.116016300000005
 longitude: 9.4190919
 postcode: 31789
 city: Hameln
-street: Carl-Wilhelm-Niemeyer-Straße
+street: "Carl-Wilhelm-Niemeyer-Straße"
 housenumber: 10
 phone: "+49 5151 923560"
 opening_hours: ""

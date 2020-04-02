@@ -5,7 +5,7 @@ latitude: 52.322050600000004
 longitude: 7.224884800000001
 postcode: 48465
 city: Schüttorf
-street: Färberstraße
+street: "Färberstraße"
 housenumber: 1
 phone: "+49 5923 99330"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"

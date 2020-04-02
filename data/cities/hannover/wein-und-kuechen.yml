@@ -5,7 +5,7 @@ latitude: 52.400520900000004
 longitude: 9.7766658
 postcode: 30177
 city: Hannover
-street: Klopstockstraße
+street: "Klopstockstraße"
 housenumber: 14
 phone: ""
 opening_hours: "We-Fr 15:00-19:00; Sa 10:00-14:00"

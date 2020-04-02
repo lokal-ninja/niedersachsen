@@ -5,7 +5,7 @@ latitude: 53.2830315
 longitude: 9.7150812
 postcode: 21255
 city: Tostedt
-street: Buxtehuder Straße
+street: "Buxtehuder Straße"
 housenumber: 1
 phone: "+49 4182 21950"
 opening_hours: "Mo-Fr 08:00-15:00; Sa 09:00-12:00"

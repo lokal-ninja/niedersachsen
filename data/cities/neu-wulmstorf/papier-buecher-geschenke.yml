@@ -5,7 +5,7 @@ latitude: 53.4656712
 longitude: 9.7927508
 postcode: 21629
 city: Neu Wulmstorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 25b
 phone: "+49 40 700 189 0"
 opening_hours: ""

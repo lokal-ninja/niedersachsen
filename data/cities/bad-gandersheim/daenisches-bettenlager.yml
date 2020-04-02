@@ -5,7 +5,7 @@ latitude: 51.867406
 longitude: 10.0121883
 postcode: 37581
 city: Bad Gandersheim
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 51E
 phone: ""
 opening_hours: ""

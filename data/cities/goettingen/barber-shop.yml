@@ -5,7 +5,7 @@ latitude: 51.5305606
 longitude: 9.9362255
 postcode: 37073
 city: Göttingen
-street: Kurze Straße
+street: "Kurze Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

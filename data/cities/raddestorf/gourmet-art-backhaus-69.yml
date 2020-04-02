@@ -5,7 +5,7 @@ latitude: 52.453830100000005
 longitude: 8.9557072
 postcode: 31604
 city: Raddestorf
-street: Raddestorf
+street: "Raddestorf"
 housenumber: 69
 phone: "+49 5765 208447"
 opening_hours: ""

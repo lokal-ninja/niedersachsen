@@ -5,7 +5,7 @@ latitude: 52.277472100000004
 longitude: 8.0433844
 postcode: 49074
 city: Osnabrück
-street: Domhof
+street: "Domhof"
 housenumber: 2
 phone: ""
 opening_hours: ""

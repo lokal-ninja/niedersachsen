@@ -5,7 +5,7 @@ latitude: 51.971013600000006
 longitude: 9.516095400000001
 postcode: 37619
 city: Bodenwerder
-street: Rühler Straße
+street: "Rühler Straße"
 housenumber: 21
 phone: "+49 5533 2630"
 opening_hours: "Mo-Sa 06:00-20:00; Su, PH 08:00-20:00"

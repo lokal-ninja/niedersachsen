@@ -5,7 +5,7 @@ latitude: 51.8593246
 longitude: 9.496030000000001
 postcode: 37639
 city: Bevern
-street: Hasenstieg
+street: "Hasenstieg"
 housenumber: 2
 phone: "+49 5531 8819"
 opening_hours: ""

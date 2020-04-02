@@ -5,7 +5,7 @@ latitude: 53.6775736
 longitude: 6.988833700000001
 postcode: 26571
 city: Juist
-street: Dellertstraße
+street: "Dellertstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

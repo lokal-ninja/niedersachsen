@@ -5,7 +5,7 @@ latitude: 53.586716300000006
 longitude: 6.663147400000001
 postcode: 
 city: Borkum
-street: Franz-Habich-Straße
+street: "Franz-Habich-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

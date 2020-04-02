@@ -5,7 +5,7 @@ latitude: 52.814324500000005
 longitude: 8.2337796
 postcode: 49685
 city: Emstek
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 4
 phone: "+49 4447 802-0"
 opening_hours: ""

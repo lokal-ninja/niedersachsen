@@ -5,7 +5,7 @@ latitude: 52.670131600000005
 longitude: 8.114847000000001
 postcode: 49413
 city: Dinklage
-street: Quakenbrücker Straße
+street: "Quakenbrücker Straße"
 housenumber: 45
 phone: "+494443514856"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.357040000000005
 longitude: 9.2844461
 postcode: 31698
 city: Lindhorst
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

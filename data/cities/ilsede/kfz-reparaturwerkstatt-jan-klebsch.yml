@@ -5,7 +5,7 @@ latitude: 52.2567681
 longitude: 10.2416706
 postcode: 31246
 city: Ilsede
-street: Ilseder Weg
+street: "Ilseder Weg"
 housenumber: 3
 phone: "+49 5172 8877"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.4556261
 longitude: 9.503938100000001
 postcode: 21698
 city: Harsefeld
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

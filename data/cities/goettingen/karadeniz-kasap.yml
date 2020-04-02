@@ -5,7 +5,7 @@ latitude: 51.5440046
 longitude: 9.915381100000001
 postcode: 
 city: Göttingen
-street: Asternweg
+street: "Asternweg"
 housenumber: 52
 phone: ""
 opening_hours: ""

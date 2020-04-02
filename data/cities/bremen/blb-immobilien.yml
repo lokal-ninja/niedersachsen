@@ -5,7 +5,7 @@ latitude: 53.0764416
 longitude: 8.8058636
 postcode: 28195
 city: Bremen
-street: Kleine Waagestraße
+street: "Kleine Waagestraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

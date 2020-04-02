@@ -5,7 +5,7 @@ latitude: 52.3685076
 longitude: 9.711939300000001
 postcode: 30449
 city: Hannover
-street: Lichtenbergplatz
+street: "Lichtenbergplatz"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.9379228
 longitude: 8.4248128
 postcode: 27801
 city: Dötlingen
-street: Iserloyer Straße
+street: "Iserloyer Straße"
 housenumber: 2
 phone: "+49 4433 919100"
 opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su, PH off"

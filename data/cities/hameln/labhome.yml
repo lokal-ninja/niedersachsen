@@ -5,7 +5,7 @@ latitude: 52.104364000000004
 longitude: 9.360507
 postcode: 31785
 city: Hameln
-street: Osterstraße
+street: "Osterstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

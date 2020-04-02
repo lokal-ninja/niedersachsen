@@ -5,7 +5,7 @@ latitude: 53.093497400000004
 longitude: 8.7984414
 postcode: 28215
 city: Bremen
-street: Kastanienstraße
+street: "Kastanienstraße"
 housenumber: 78-80
 phone: ""
 opening_hours: ""

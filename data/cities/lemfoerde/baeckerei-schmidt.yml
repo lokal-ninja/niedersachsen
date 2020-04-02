@@ -5,7 +5,7 @@ latitude: 52.4706836
 longitude: 8.3741781
 postcode: 49448
 city: Lemförde
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Fr 05:30-19:00; Sa 05:30-18:00; Su 07:30-16:00"

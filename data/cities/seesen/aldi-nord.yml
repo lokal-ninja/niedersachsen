@@ -5,7 +5,7 @@ latitude: 51.897101600000006
 longitude: 10.1825209
 postcode: 38723
 city: Seesen
-street: Braunschweiger Straße
+street: "Braunschweiger Straße"
 housenumber: 36
 phone: ""
 opening_hours: ""

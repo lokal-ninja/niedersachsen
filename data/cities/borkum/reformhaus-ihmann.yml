@@ -5,7 +5,7 @@ latitude: 53.5879789
 longitude: 6.6675418
 postcode: 26757
 city: Borkum
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 2
 phone: "+49 4922 817"
 opening_hours: "Mo-Sa 09:00-12:30, Mo-Fr 15:00-18:30"

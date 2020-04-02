@@ -5,7 +5,7 @@ latitude: 52.4188698
 longitude: 10.7162819
 postcode: 38442
 city: Wolfsburg
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

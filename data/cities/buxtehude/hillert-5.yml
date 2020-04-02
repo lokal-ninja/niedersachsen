@@ -5,7 +5,7 @@ latitude: 53.474784500000005
 longitude: 9.6936865
 postcode: 21614
 city: Buxtehude
-street: Poststraße
+street: "Poststraße"
 housenumber: 7-9
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:30; Sa 06:00-16:00; PH off"

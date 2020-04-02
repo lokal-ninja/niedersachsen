@@ -5,7 +5,7 @@ latitude: 53.2377042
 longitude: 10.3841789
 postcode: 21339
 city: Lüneburg
-street: Auf der Höhe
+street: "Auf der Höhe"
 housenumber: 69
 phone: "+49 4131 220697"
 opening_hours: "Mo-Fr 09:00-18:00;Sa 08:00-13:00"

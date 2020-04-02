@@ -5,7 +5,7 @@ latitude: 52.4304835
 longitude: 9.4180772
 postcode: 31515
 city: Wunstorf
-street: Hagenburger Straße
+street: "Hagenburger Straße"
 housenumber: 20
 phone: "+49 5031 9570"
 opening_hours: "Mo-Sa 08:00-22:00"

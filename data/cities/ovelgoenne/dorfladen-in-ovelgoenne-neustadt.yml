@@ -5,7 +5,7 @@ latitude: 53.346551700000006
 longitude: 8.3574161
 postcode: 26939
 city: Ovelgönne
-street: Neustädter Straße
+street: "Neustädter Straße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Fr 06:00-12:30, 16:00-20:00; Sa-Su 06:00-09:30, 16:00-20:00"

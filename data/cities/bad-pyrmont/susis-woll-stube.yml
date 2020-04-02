@@ -5,7 +5,7 @@ latitude: 51.9852283
 longitude: 9.263160500000001
 postcode: 31812
 city: Bad Pyrmont
-street: Lortzingstraße
+street: "Lortzingstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.329760400000005
 longitude: 9.788688
 postcode: 30519
 city: Hannover
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

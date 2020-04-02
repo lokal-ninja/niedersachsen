@@ -5,7 +5,7 @@ latitude: 52.26726540000001
 longitude: 7.9595758000000005
 postcode: 49205
 city: Hasbergen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 103
 phone: ""
 opening_hours: ""

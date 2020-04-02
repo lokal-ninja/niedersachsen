@@ -5,7 +5,7 @@ latitude: 52.308786500000004
 longitude: 9.729121800000001
 postcode: 30966
 city: Hemmingen
-street: Hans-Theismann-Weg
+street: "Hans-Theismann-Weg"
 housenumber: 3
 phone: "+49 5101 4242"
 opening_hours: "Mo-Fr 08:00-17:00"

@@ -5,7 +5,7 @@ latitude: 53.0294826
 longitude: 8.969336400000001
 postcode: 28832
 city: Achim
-street: Uphuser Heerstraße
+street: "Uphuser Heerstraße"
 housenumber: 53
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00, Mo-Fr 14:00-18:00, Sa 10:00-15:00"

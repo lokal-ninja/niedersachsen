@@ -5,7 +5,7 @@ latitude: 52.2011374
 longitude: 9.917543
 postcode: 31180
 city: Giesen
-street: Hannoversche Straße
+street: "Hannoversche Straße"
 housenumber: 86
 phone: "+49 5121 62780"
 opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-15:00"

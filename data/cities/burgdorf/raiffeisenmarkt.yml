@@ -5,7 +5,7 @@ latitude: 52.450378300000004
 longitude: 10.004752100000001
 postcode: 31303
 city: Burgdorf
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

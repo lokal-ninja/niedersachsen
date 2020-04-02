@@ -5,7 +5,7 @@ latitude: 52.2717053
 longitude: 10.0119346
 postcode: 31191
 city: Algermissen
-street: Leineweberstraße
+street: "Leineweberstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,15:00-18:00"

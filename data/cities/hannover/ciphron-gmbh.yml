@@ -5,7 +5,7 @@ latitude: 52.387221800000006
 longitude: 9.741455700000001
 postcode: 30161
 city: Hannover
-street: Kriegerstraße
+street: "Kriegerstraße"
 housenumber: 44
 phone: "+49 511 515133-0"
 opening_hours: ""

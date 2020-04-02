@@ -5,7 +5,7 @@ latitude: 52.4307731
 longitude: 10.9858203
 postcode: 39646
 city: Oebisfelde
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 39
 phone: "+49 39002 81035"
 opening_hours: ""

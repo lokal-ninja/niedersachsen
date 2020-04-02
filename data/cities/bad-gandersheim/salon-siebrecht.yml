@@ -5,7 +5,7 @@ latitude: 51.8718961
 longitude: 10.029480000000001
 postcode: 37581
 city: Bad Gandersheim
-street: Hagenmühlenweg
+street: "Hagenmühlenweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

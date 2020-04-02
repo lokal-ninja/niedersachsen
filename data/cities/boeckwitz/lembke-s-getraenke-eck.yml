@@ -5,7 +5,7 @@ latitude: 52.57047540000001
 longitude: 10.944853100000001
 postcode: 38486
 city: Böckwitz
-street: Steimker Straße
+street: "Steimker Straße"
 housenumber: 2
 phone: "+49 39008 82194"
 opening_hours: ""

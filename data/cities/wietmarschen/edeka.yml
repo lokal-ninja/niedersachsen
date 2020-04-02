@@ -5,7 +5,7 @@ latitude: 52.49598760000001
 longitude: 7.227780800000001
 postcode: 49835
 city: Wietmarschen
-street: Schützenplatz
+street: "Schützenplatz"
 housenumber: 4
 phone: "+49 5908 82 02"
 opening_hours: "Mo-Sa 7:00-20:00"

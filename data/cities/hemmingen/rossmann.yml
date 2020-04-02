@@ -5,7 +5,7 @@ latitude: 52.30232650000001
 longitude: 9.7407822
 postcode: 30966
 city: Hemmingen
-street: Wilkenburger Straße
+street: "Wilkenburger Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-14:00; PH off"

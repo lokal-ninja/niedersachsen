@@ -5,7 +5,7 @@ latitude: 52.3890365
 longitude: 9.812068
 postcode: 30627
 city: Hannover
-street: Roderbruchmarkt
+street: "Roderbruchmarkt"
 housenumber: 11B
 phone: "+49 511 6478161"
 opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-16:00, Su 08:00-16:00"

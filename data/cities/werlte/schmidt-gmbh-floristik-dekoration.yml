@@ -5,7 +5,7 @@ latitude: 52.836287000000006
 longitude: 7.5820205000000005
 postcode: 49757
 city: Werlte
-street: Ostenwalder Straße
+street: "Ostenwalder Straße"
 housenumber: 56
 phone: ""
 opening_hours: ""

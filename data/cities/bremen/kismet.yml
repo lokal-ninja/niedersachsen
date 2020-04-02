@@ -5,7 +5,7 @@ latitude: 53.114812300000004
 longitude: 8.757168400000001
 postcode: 28237
 city: Bremen
-street: Lindenhofstraße
+street: "Lindenhofstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

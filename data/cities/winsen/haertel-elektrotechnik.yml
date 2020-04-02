@@ -5,7 +5,7 @@ latitude: 53.374101700000004
 longitude: 10.2280887
 postcode: 21423
 city: Winsen
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 07:30-16:15; Sa-Su off"

@@ -5,7 +5,7 @@ latitude: 53.3158691
 longitude: 10.008397700000002
 postcode: 21439
 city: Marxen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 68
 phone: ""
 opening_hours: ""

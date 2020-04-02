@@ -5,7 +5,7 @@ latitude: 53.0666354
 longitude: 8.794301200000001
 postcode: 28201
 city: Bremen
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 146-150
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

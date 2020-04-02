@@ -5,7 +5,7 @@ latitude: 52.2340651
 longitude: 10.5586801
 postcode: 38126
 city: Braunschweig
-street: Welfenplatz
+street: "Welfenplatz"
 housenumber: 12
 phone: "+49 531 63119"
 opening_hours: "Mo-Fr 10:00-13:00 • 15:00-18:00, Sa 10:00-13:00"

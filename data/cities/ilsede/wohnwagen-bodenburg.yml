@@ -5,7 +5,7 @@ latitude: 52.228335900000005
 longitude: 10.2517203
 postcode: 31246
 city: Ilsede
-street: Bierstraße
+street: "Bierstraße"
 housenumber: 118
 phone: "+49 5174 800880"
 opening_hours: ""

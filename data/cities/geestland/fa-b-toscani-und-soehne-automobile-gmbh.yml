@@ -5,7 +5,7 @@ latitude: 53.612209400000005
 longitude: 8.615462800000001
 postcode: 27607
 city: Geestland
-street: Debstedter Straße
+street: "Debstedter Straße"
 housenumber: 89-91
 phone: ""
 opening_hours: ""

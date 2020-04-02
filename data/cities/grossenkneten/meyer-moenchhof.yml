@@ -5,7 +5,7 @@ latitude: 52.900396400000005
 longitude: 8.2144036
 postcode: 26197
 city: Großenkneten
-street: Wildeshauser Straße
+street: "Wildeshauser Straße"
 housenumber: 8-10
 phone: "+49 4435 916 294"
 opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-20:00; Su 08:00-11:00"

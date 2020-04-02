@@ -5,7 +5,7 @@ latitude: 51.888810400000004
 longitude: 9.624636200000001
 postcode: 37627
 city: Stadtoldendorf
-street: Ginsterweg
+street: "Ginsterweg"
 housenumber: 8
 phone: "+49 5532 5553"
 opening_hours: "Mo-Fr 09:00-20:00"

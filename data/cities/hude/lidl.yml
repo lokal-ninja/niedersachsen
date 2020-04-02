@@ -5,7 +5,7 @@ latitude: 53.1121065
 longitude: 8.456633100000001
 postcode: 27798
 city: Hude
-street: Dr.-Gustav-Thye-Straße
+street: "Dr.-Gustav-Thye-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

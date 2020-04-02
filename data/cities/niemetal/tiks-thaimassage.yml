@@ -5,7 +5,7 @@ latitude: 51.5200145
 longitude: 9.7082542
 postcode: 
 city: Niemetal
-street: Niemetalstraße
+street: "Niemetalstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

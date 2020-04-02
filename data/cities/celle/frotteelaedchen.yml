@@ -5,7 +5,7 @@ latitude: 52.6249267
 longitude: 10.082797000000001
 postcode: 29221
 city: Celle
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

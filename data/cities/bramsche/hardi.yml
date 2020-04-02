@@ -5,7 +5,7 @@ latitude: 52.4046187
 longitude: 7.9865469000000004
 postcode: 49565
 city: Bramsche
-street: Alte Engterstraße
+street: "Alte Engterstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00; PH off"

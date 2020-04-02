@@ -5,7 +5,7 @@ latitude: 52.27991230000001
 longitude: 10.4965645
 postcode: 38114
 city: Braunschweig
-street: Sudetenstraße
+street: "Sudetenstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

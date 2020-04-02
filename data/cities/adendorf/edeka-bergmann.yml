@@ -5,7 +5,7 @@ latitude: 53.2825696
 longitude: 10.441063600000001
 postcode: 21365
 city: Adendorf
-street: Von-Stauffenberg-Straße
+street: "Von-Stauffenberg-Straße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

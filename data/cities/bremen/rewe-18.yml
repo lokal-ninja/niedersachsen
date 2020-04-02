@@ -5,7 +5,7 @@ latitude: 53.0655821
 longitude: 8.857764300000001
 postcode: 28207
 city: Bremen
-street: Auf der Hohwisch
+street: "Auf der Hohwisch"
 housenumber: 42
 phone: "+49 421 440071"
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 52.3405533
 longitude: 10.240346500000001
 postcode: 31228
 city: Peine
-street: Wilhelm-Rausch-Straße
+street: "Wilhelm-Rausch-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

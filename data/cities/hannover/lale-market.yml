@@ -5,7 +5,7 @@ latitude: 52.3748458
 longitude: 9.7290299
 postcode: 30159
 city: Hannover
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

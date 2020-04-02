@@ -5,7 +5,7 @@ latitude: 53.0877253
 longitude: 8.7847199
 postcode: 28217
 city: Bremen
-street: Hansator
+street: "Hansator"
 housenumber: 7
 phone: ""
 opening_hours: "24/7"

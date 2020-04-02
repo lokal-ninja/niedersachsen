@@ -5,7 +5,7 @@ latitude: 52.3425133
 longitude: 9.7193131
 postcode: 30459
 city: Hannover
-street: Friedländer Weg
+street: "Friedländer Weg"
 housenumber: 7
 phone: "+49 511 420240"
 opening_hours: ""

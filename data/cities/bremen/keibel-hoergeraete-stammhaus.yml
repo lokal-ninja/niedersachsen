@@ -5,7 +5,7 @@ latitude: 53.080514300000004
 longitude: 8.818152900000001
 postcode: 28195
 city: Bremen
-street: An der Weide
+street: "An der Weide"
 housenumber: 35
 phone: "+49 421 320433"
 opening_hours: "Mo-Sa 9:00-13:00; 14:00-18:00"

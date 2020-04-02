@@ -5,7 +5,7 @@ latitude: 53.034859700000005
 longitude: 9.708369600000001
 postcode: 29643
 city: Neuenkirchen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Tu-Fr 10:00-18:00; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 52.320160200000004
 longitude: 9.934040600000001
 postcode: 31319
 city: Sehnde
-street: Rethener Straße
+street: "Rethener Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

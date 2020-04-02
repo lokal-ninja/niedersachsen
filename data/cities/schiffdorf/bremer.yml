@@ -5,7 +5,7 @@ latitude: 53.5312555
 longitude: 8.642531400000001
 postcode: 27619
 city: Schiffdorf
-street: Bohlenstraße
+street: "Bohlenstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.363409600000004
 longitude: 9.694332300000001
 postcode: 30453
 city: Hannover
-street: Bauweg
+street: "Bauweg"
 housenumber: 28
 phone: "+49 511 2108076"
 opening_hours: ""

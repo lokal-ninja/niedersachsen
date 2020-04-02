@@ -5,7 +5,7 @@ latitude: 51.8563072
 longitude: 9.4933373
 postcode: 37639
 city: Bevern
-street: Holzmindener Straße
+street: "Holzmindener Straße"
 housenumber: 12
 phone: "+49 5531 8908"
 opening_hours: ""

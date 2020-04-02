@@ -5,7 +5,7 @@ latitude: 53.500157300000005
 longitude: 7.0944839
 postcode: 26736
 city: Krummhörn
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

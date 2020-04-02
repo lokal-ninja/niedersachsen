@@ -5,7 +5,7 @@ latitude: 52.843566900000006
 longitude: 8.3906313
 postcode: 49429
 city: Visbek
-street: Broamkamp
+street: "Broamkamp"
 housenumber: 21
 phone: "+49 4445 7572"
 opening_hours: ""

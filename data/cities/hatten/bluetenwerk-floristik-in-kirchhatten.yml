@@ -5,7 +5,7 @@ latitude: 53.02142490000001
 longitude: 8.3492023
 postcode: 26209
 city: Hatten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: "+49 4482 273"
 opening_hours: ""

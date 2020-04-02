@@ -5,7 +5,7 @@ latitude: 51.548598500000004
 longitude: 9.9239601
 postcode: 
 city: Göttingen
-street: Maschmühlenweg
+street: "Maschmühlenweg"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00; PH off"

@@ -5,7 +5,7 @@ latitude: 51.9065548
 longitude: 10.4305503
 postcode: 
 city: Goslar
-street: Charley-Jacob-Straße
+street: "Charley-Jacob-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

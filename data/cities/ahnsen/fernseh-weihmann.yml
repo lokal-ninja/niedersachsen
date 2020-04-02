@@ -5,7 +5,7 @@ latitude: 52.2535323
 longitude: 9.090545500000001
 postcode: 31708
 city: Ahnsen
-street: Bückeburger Straße
+street: "Bückeburger Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.1655637
 longitude: 10.5487578
 postcode: 38302
 city: Wolfenbüttel
-street: Leopoldstraße
+street: "Leopoldstraße"
 housenumber: 11b
 phone: "+49 5331 30070"
 opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-15:00; PH off"

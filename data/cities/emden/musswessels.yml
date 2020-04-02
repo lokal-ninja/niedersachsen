@@ -5,7 +5,7 @@ latitude: 53.381273400000005
 longitude: 7.2128655
 postcode: 26721
 city: Emden
-street: Geibelstraße
+street: "Geibelstraße"
 housenumber: 27
 phone: "+49 4921 9369107"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.165162200000005
 longitude: 7.351424000000001
 postcode: 26826
 city: Weener
-street: Westerstraße
+street: "Westerstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2923593
 longitude: 8.965238000000001
 postcode: 32423
 city: Minden
-street: Dankerser Straße
+street: "Dankerser Straße"
 housenumber: 147
 phone: "+49 571 31749"
 opening_hours: "Mo-Fr 06:30-13:00, Mo,Tu,Th,Fr 15:00-18:00, Sa 06:00-13:00"

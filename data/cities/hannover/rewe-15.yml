@@ -5,7 +5,7 @@ latitude: 52.3352498
 longitude: 9.7733326
 postcode: 30519
 city: Hannover
-street: An der Wollebahn
+street: "An der Wollebahn"
 housenumber: 4
 phone: "+49 511 8483826"
 opening_hours: "Mo-Sa 07:00-22:00"

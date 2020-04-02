@@ -5,7 +5,7 @@ latitude: 52.164700700000004
 longitude: 9.9786383
 postcode: 31135
 city: Hildesheim
-street: Porschestraße
+street: "Porschestraße"
 housenumber: 1
 phone: "+49 5121 5070"
 opening_hours: ""

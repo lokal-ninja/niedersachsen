@@ -5,7 +5,7 @@ latitude: 53.10985410000001
 longitude: 8.7713055
 postcode: 28237
 city: Bremen
-street: Gröpelinger Heerstraße
+street: "Gröpelinger Heerstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

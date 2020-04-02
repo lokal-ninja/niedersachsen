@@ -5,7 +5,7 @@ latitude: 53.120780800000006
 longitude: 8.1936876
 postcode: 26131
 city: Oldenburg
-street: Hundsmühler Straße
+street: "Hundsmühler Straße"
 housenumber: 135-143
 phone: "+49 441 68413730"
 opening_hours: "Mo-Sa 08:00-20:00"

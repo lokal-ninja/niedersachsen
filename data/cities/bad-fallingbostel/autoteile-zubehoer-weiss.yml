@@ -5,7 +5,7 @@ latitude: 52.8996037
 longitude: 9.7572182
 postcode: 29683
 city: Bad Fallingbostel
-street: Am Steinkamp
+street: "Am Steinkamp"
 housenumber: 3
 phone: "+49 5163 8209865"
 opening_hours: "Mo,Tu,Th,Fr 9:30-17:30; We 9:30-14:00; Sa,Su,PH off"

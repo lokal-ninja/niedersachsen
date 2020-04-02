@@ -5,7 +5,7 @@ latitude: 53.318045600000005
 longitude: 9.6438403
 postcode: 21258
 city: Heidenau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 42
 phone: "+49 4182 4283"
 opening_hours: ""

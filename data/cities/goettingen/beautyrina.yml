@@ -5,7 +5,7 @@ latitude: 51.5273175
 longitude: 9.950015800000001
 postcode: 
 city: Göttingen
-street: Am Steinsgraben
+street: "Am Steinsgraben"
 housenumber: 19
 phone: ""
 opening_hours: "off nur nach Vereinbarung"

@@ -5,7 +5,7 @@ latitude: 52.590098000000005
 longitude: 8.2045954
 postcode: 49439
 city: Steinfeld
-street: Handwerkshof
+street: "Handwerkshof"
 housenumber: 7
 phone: ""
 opening_hours: ""

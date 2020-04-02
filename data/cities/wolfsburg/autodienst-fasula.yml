@@ -5,7 +5,7 @@ latitude: 52.4186277
 longitude: 10.721638500000001
 postcode: 38442
 city: Wolfsburg
-street: Hinterm Hagen
+street: "Hinterm Hagen"
 housenumber: 2
 phone: ""
 opening_hours: ""

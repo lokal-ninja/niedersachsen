@@ -5,7 +5,7 @@ latitude: 52.251634800000005
 longitude: 10.817123200000001
 postcode: 38154
 city: Königslutter am Elm
-street: Am Markt
+street: "Am Markt"
 housenumber: 17
 phone: "+49 5353 8525"
 opening_hours: "Mo-We,Fr 09:00-13:00,14:30-18:00; Th 08:30-13:00,14:30-18:00; Sa 09:00-13:00"

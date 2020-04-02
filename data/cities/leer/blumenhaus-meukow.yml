@@ -5,7 +5,7 @@ latitude: 53.2329055
 longitude: 7.4648691000000005
 postcode: 26789
 city: Leer
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 142
 phone: "+49 491 2201"
 opening_hours: "Mo-Fr 07:30-13:00,14:30-18:00; Sa 07:30-13:00; Su 09:30-12:30; PH 09:30-12:30"

@@ -5,7 +5,7 @@ latitude: 52.4130849
 longitude: 9.451894000000001
 postcode: 31515
 city: Wunstorf
-street: Emanuel-Grund-Straße
+street: "Emanuel-Grund-Straße"
 housenumber: 2
 phone: "+49 5031 5159176"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; So 07:30-17:00"

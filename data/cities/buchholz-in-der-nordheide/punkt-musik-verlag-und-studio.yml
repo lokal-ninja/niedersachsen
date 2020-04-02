@@ -5,7 +5,7 @@ latitude: 53.3158826
 longitude: 9.793211000000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: An der Post
+street: "An der Post"
 housenumber: 2
 phone: ""
 opening_hours: ""

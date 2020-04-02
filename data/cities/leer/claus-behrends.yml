@@ -5,7 +5,7 @@ latitude: 53.225863800000006
 longitude: 7.4502236
 postcode: 
 city: Leer
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

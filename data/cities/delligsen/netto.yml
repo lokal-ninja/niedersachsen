@@ -5,7 +5,7 @@ latitude: 51.9401366
 longitude: 9.812635400000001
 postcode: 31073
 city: Delligsen
-street: Dr.-Jasper-Straße
+street: "Dr.-Jasper-Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

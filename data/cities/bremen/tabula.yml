@@ -5,7 +5,7 @@ latitude: 53.0704452
 longitude: 8.8361335
 postcode: 28205
 city: Bremen
-street: Myrtenstraße
+street: "Myrtenstraße"
 housenumber: 28
 phone: "+49 421 4308240"
 opening_hours: ""

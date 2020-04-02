@@ -5,7 +5,7 @@ latitude: 52.6912323
 longitude: 7.291652300000001
 postcode: 49716
 city: Meppen
-street: Markt
+street: "Markt"
 housenumber: 8
 phone: "+49 5931 4985830"
 opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"

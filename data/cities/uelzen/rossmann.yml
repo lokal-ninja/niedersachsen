@@ -5,7 +5,7 @@ latitude: 52.964832400000006
 longitude: 10.561026400000001
 postcode: 29525
 city: Uelzen
-street: Veerßer Straße
+street: "Veerßer Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Tu 08:30-19:00; We 08:00-19:00; Th-Fr 08:30-19:00; Sa 08:00-18:00; Su off; PH off"

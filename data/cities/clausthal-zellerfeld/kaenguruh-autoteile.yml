@@ -5,7 +5,7 @@ latitude: 51.8189058
 longitude: 10.345
 postcode: 38678
 city: Clausthal-Zellerfeld
-street: Schalker Weg
+street: "Schalker Weg"
 housenumber: 6a
 phone: ""
 opening_hours: ""

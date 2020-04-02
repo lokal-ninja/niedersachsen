@@ -5,7 +5,7 @@ latitude: 52.150566500000004
 longitude: 9.9299792
 postcode: 31137
 city: Hildesheim
-street: Phoenixstraße
+street: "Phoenixstraße"
 housenumber: 6
 phone: "+49 5121 2810277"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"

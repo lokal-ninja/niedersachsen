@@ -5,7 +5,7 @@ latitude: 52.2276899
 longitude: 11.0051983
 postcode: 38350
 city: Helmstedt
-street: Juliusstraße
+street: "Juliusstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.708722200000004
 longitude: 8.5051474
 postcode: 49406
 city: Barnstorf
-street: Friedrich-Plate-Straße
+street: "Friedrich-Plate-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

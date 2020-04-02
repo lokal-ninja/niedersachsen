@@ -5,7 +5,7 @@ latitude: 53.0540384
 longitude: 9.0454212
 postcode: 28876
 city: Oyten
-street: An der Autobahn
+street: "An der Autobahn"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 9:00-12:30; Mo-Fr 13:00-18:00"

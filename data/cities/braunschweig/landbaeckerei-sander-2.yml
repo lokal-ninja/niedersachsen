@@ -5,7 +5,7 @@ latitude: 52.2870289
 longitude: 10.526671700000001
 postcode: 38106
 city: Braunschweig
-street: Nibelungenplatz
+street: "Nibelungenplatz"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-16:30; Su 08:00-16:30"

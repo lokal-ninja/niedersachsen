@@ -5,7 +5,7 @@ latitude: 52.642148600000006
 longitude: 9.2091104
 postcode: 31582
 city: Nienburg/Weser
-street: Hafenstraße
+street: "Hafenstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

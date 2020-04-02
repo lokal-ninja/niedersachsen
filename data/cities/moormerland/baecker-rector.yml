@@ -5,7 +5,7 @@ latitude: 53.3090807
 longitude: 7.504949300000001
 postcode: 
 city: Moormerland
-street: Dr.-von-Jhering-Straße
+street: "Dr.-von-Jhering-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-16:00; Su 07:30-11:30; PH 07:30-11:30; Jan 01 off; Dec 25 off; Dec 26 off"

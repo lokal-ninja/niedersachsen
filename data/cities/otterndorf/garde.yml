@@ -5,7 +5,7 @@ latitude: 53.8072972
 longitude: 8.9057802
 postcode: 21762
 city: Otterndorf
-street: Liebesweg
+street: "Liebesweg"
 housenumber: 2
 phone: "+49 4751 3029"
 opening_hours: "Mo-Sa 08:00-20:00"

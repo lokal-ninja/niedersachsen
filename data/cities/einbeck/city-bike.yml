@@ -5,7 +5,7 @@ latitude: 51.821103
 longitude: 9.8536886
 postcode: 37574
 city: Einbeck
-street: Kohnser Weg
+street: "Kohnser Weg"
 housenumber: 7
 phone: "+49 5561 972333"
 opening_hours: ""

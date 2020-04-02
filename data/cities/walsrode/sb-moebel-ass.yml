@@ -5,7 +5,7 @@ latitude: 52.8513074
 longitude: 9.5958925
 postcode: 29664
 city: Walsrode
-street: Ernst-August-Straße
+street: "Ernst-August-Straße"
 housenumber: 7b
 phone: "+49 5161 74289"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

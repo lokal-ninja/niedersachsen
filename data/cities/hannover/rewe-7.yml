@@ -5,7 +5,7 @@ latitude: 52.3305408
 longitude: 9.787903700000001
 postcode: 30519
 city: Hannover
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 2
 phone: "+49 511 87654741"
 opening_hours: "Mo-Sa 07:00-21:30"

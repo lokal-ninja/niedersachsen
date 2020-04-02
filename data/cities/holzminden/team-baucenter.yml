@@ -5,7 +5,7 @@ latitude: 51.8377721
 longitude: 9.460990200000001
 postcode: 37603
 city: Holzminden
-street: Burgbergblick
+street: "Burgbergblick"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off"

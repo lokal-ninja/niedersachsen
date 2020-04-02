@@ -5,7 +5,7 @@ latitude: 53.053391700000006
 longitude: 8.958503
 postcode: 28307
 city: Bremen
-street: Werner-Steenken-Straße
+street: "Werner-Steenken-Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

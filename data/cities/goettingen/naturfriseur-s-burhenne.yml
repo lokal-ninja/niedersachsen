@@ -5,7 +5,7 @@ latitude: 51.5308773
 longitude: 9.933189800000001
 postcode: 
 city: Göttingen
-street: Düstere Straße
+street: "Düstere Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Th,Fr 17:00-21:00; PH off"

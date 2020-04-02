@@ -5,7 +5,7 @@ latitude: 53.39165860000001
 longitude: 7.952143700000001
 postcode: 26340
 city: Zetel
-street: Zeteler Straße
+street: "Zeteler Straße"
 housenumber: 12
 phone: "+49 4452 94859-0"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:30-13:00"

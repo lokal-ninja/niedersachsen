@@ -5,7 +5,7 @@ latitude: 52.2636642
 longitude: 9.0425181
 postcode: 31675
 city: Bückeburg
-street: Maschstraße
+street: "Maschstraße"
 housenumber: 8
 phone: "+49 5722 3724"
 opening_hours: ""

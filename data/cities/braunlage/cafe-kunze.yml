@@ -5,7 +5,7 @@ latitude: 51.7105095
 longitude: 10.518120900000001
 postcode: 37444
 city: Braunlage
-street: Danielstraße
+street: "Danielstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-18:00; Su 07:30-10:00, 13:00-18:00"

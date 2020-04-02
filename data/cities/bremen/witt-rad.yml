@@ -5,7 +5,7 @@ latitude: 53.0689244
 longitude: 8.786197900000001
 postcode: 28199
 city: Bremen
-street: Langemarckstraße
+street: "Langemarckstraße"
 housenumber: 232
 phone: "+49 421 59606445"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-15:00; Su,PH off"

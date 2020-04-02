@@ -5,7 +5,7 @@ latitude: 52.0295083
 longitude: 10.6054402
 postcode: 38315
 city: Schladen-Werla
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 13
 phone: "+49 5334 948848"
 opening_hours: ""

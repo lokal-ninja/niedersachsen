@@ -5,7 +5,7 @@ latitude: 52.2032948
 longitude: 8.336387400000001
 postcode: 49324
 city: Melle
-street: Markt
+street: "Markt"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH closed"

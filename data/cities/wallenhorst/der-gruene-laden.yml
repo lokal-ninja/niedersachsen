@@ -5,7 +5,7 @@ latitude: 52.3342576
 longitude: 8.0225828
 postcode: 49134
 city: Wallenhorst
-street: Wessels Straße
+street: "Wessels Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 53.04865220000001
 longitude: 8.9570989
 postcode: 28307
 city: Bremen
-street: Hans-Bredow-Straße
+street: "Hans-Bredow-Straße"
 housenumber: 19
 phone: "+49 421 42785214"
 opening_hours: "Mo-Sa 09:30-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.15317580000001
 longitude: 10.3314465
 postcode: 38226
 city: Salzgitter
-street: Fischzug
+street: "Fischzug"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.300866400000004
 longitude: 8.060496500000001
 postcode: 49088
 city: Osnabrück
-street: Mönkedieckstraße
+street: "Mönkedieckstraße"
 housenumber: 3-9
 phone: ""
 opening_hours: ""

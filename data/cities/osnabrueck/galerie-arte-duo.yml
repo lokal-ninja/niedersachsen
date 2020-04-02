@@ -5,7 +5,7 @@ latitude: 52.276496800000004
 longitude: 8.0398546
 postcode: 49074
 city: Osnabrück
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

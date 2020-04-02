@@ -5,7 +5,7 @@ latitude: 52.227301100000005
 longitude: 11.0069826
 postcode: 38350
 city: Helmstedt
-street: Bauernstraße
+street: "Bauernstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

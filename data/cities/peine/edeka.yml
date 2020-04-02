@@ -5,7 +5,7 @@ latitude: 52.343159
 longitude: 10.1854761
 postcode: 31228
 city: Peine
-street: Kirchvordener Straße
+street: "Kirchvordener Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.238456500000005
 longitude: 7.4437642
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Burfehner Weg
+street: "Burfehner Weg"
 housenumber: 98
 phone: ""
 opening_hours: ""

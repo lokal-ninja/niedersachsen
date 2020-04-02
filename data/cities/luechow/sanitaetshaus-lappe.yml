@@ -5,7 +5,7 @@ latitude: 52.9677438
 longitude: 11.1612611
 postcode: 29439
 city: Lüchow
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

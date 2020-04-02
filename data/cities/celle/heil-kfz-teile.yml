@@ -5,7 +5,7 @@ latitude: 52.610017500000005
 longitude: 10.1009174
 postcode: 
 city: Celle
-street: Albert-Köhler-Straße
+street: "Albert-Köhler-Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

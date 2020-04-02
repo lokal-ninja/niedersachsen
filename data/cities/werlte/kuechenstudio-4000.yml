@@ -5,7 +5,7 @@ latitude: 52.8517376
 longitude: 7.6562083
 postcode: 49757
 city: Werlte
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 66
 phone: "+49 5951 2916"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"

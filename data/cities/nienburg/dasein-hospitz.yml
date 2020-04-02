@@ -5,7 +5,7 @@ latitude: 52.637368200000004
 longitude: 9.215654
 postcode: 31582
 city: Nienburg
-street: Stettiner Straße
+street: "Stettiner Straße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

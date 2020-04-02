@@ -5,7 +5,7 @@ latitude: 53.2564366
 longitude: 8.115315800000001
 postcode: 26215
 city: Wiefelstede
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

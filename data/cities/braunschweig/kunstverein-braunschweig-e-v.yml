@@ -5,7 +5,7 @@ latitude: 52.257842600000004
 longitude: 10.5251608
 postcode: 38100
 city: Braunschweig
-street: Lessingplatz
+street: "Lessingplatz"
 housenumber: 12
 phone: "+49 531 49556"
 opening_hours: ""

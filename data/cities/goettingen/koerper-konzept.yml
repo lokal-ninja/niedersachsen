@@ -5,7 +5,7 @@ latitude: 51.5356582
 longitude: 9.894041000000001
 postcode: 
 city: Göttingen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.2628866
 longitude: 7.922318700000001
 postcode: 26655
 city: Westerstede
-street: Norderstraße
+street: "Norderstraße"
 housenumber: 25
 phone: "+49 4488 9836699"
 opening_hours: "Mo-Fr 06:00-22:00, Sa-Su,PH 08:00-22:00"

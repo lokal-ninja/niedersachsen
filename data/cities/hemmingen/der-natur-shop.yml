@@ -5,7 +5,7 @@ latitude: 52.3212971
 longitude: 9.7210418
 postcode: 30966
 city: Hemmingen
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

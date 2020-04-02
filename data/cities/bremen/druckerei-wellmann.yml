@@ -5,7 +5,7 @@ latitude: 53.075472000000005
 longitude: 8.781542
 postcode: 28197
 city: Bremen
-street: Simon-Bolivar-Straße
+street: "Simon-Bolivar-Straße"
 housenumber: 24-26
 phone: ""
 opening_hours: ""

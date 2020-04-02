@@ -5,7 +5,7 @@ latitude: 52.579130400000004
 longitude: 9.4305781
 postcode: 31535
 city: Neustadt am Rübenberge
-street: Pflasterweg
+street: "Pflasterweg"
 housenumber: 8
 phone: ""
 opening_hours: ""

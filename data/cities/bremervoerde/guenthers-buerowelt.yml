@@ -5,7 +5,7 @@ latitude: 53.4877205
 longitude: 9.146116600000001
 postcode: 27432
 city: Bremervörde
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

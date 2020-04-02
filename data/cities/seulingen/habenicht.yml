@@ -5,7 +5,7 @@ latitude: 51.5421994
 longitude: 10.161310400000001
 postcode: 37136
 city: Seulingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

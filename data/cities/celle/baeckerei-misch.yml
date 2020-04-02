@@ -5,7 +5,7 @@ latitude: 52.625854700000005
 longitude: 10.081042700000001
 postcode: 29221
 city: Celle
-street: Hehlentorstraße
+street: "Hehlentorstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.3976198
 longitude: 8.1233316
 postcode: 26316
 city: Varel
-street: Panzerstraße
+street: "Panzerstraße"
 housenumber: 3
 phone: "+49 4451 9678-0"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"

@@ -5,7 +5,7 @@ latitude: 52.2729878
 longitude: 10.5436657
 postcode: 38106
 city: Braunschweig
-street: Wilhelm-Bode-Straße
+street: "Wilhelm-Bode-Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

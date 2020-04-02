@@ -5,7 +5,7 @@ latitude: 52.4466473
 longitude: 10.7810871
 postcode: 38448
 city: Wolfsburg
-street: Jembker Straße
+street: "Jembker Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-14:00"

@@ -5,7 +5,7 @@ latitude: 53.3737281
 longitude: 8.140538300000001
 postcode: 26316
 city: Varel
-street: Flachsweg
+street: "Flachsweg"
 housenumber: 40
 phone: "+49 4451 959710"
 opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-13:00"

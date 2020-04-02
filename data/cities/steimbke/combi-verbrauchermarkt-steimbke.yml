@@ -5,7 +5,7 @@ latitude: 52.65485760000001
 longitude: 9.4026416
 postcode: 31634
 city: Steimbke
-street: Altes Ölfeld
+street: "Altes Ölfeld"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

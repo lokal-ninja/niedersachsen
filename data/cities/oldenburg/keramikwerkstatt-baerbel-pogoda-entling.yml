@@ -5,7 +5,7 @@ latitude: 53.2020555
 longitude: 8.2103129
 postcode: 26125
 city: Oldenburg
-street: Nordring
+street: "Nordring"
 housenumber: 49
 phone: "+49 441 9609027"
 opening_hours: ""

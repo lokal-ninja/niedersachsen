@@ -5,7 +5,7 @@ latitude: 53.4623147
 longitude: 9.7930537
 postcode: 21629
 city: Neu Wulmstorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 64a
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-18:00; Saisonbedingte Änderungen möglich"

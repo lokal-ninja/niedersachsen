@@ -5,7 +5,7 @@ latitude: 53.039841700000004
 longitude: 8.948853600000001
 postcode: 28307
 city: Bremen
-street: Zum Falsch
+street: "Zum Falsch"
 housenumber: 2
 phone: ""
 opening_hours: ""

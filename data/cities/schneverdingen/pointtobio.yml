@@ -5,7 +5,7 @@ latitude: 53.1197164
 longitude: 9.7880056
 postcode: 29640
 city: Schneverdingen
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 6
 phone: "+49 5193 986059"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

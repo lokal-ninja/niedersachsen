@@ -5,7 +5,7 @@ latitude: 52.658118900000005
 longitude: 9.145376800000001
 postcode: 31608
 city: Marklohe
-street: Sulinger Straße
+street: "Sulinger Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

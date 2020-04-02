@@ -5,7 +5,7 @@ latitude: 53.0256459
 longitude: 11.461945400000001
 postcode: 29471
 city: Gartow
-street: Hahnenberger Straße
+street: "Hahnenberger Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

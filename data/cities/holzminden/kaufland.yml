@@ -5,7 +5,7 @@ latitude: 51.8407847
 longitude: 9.4657205
 postcode: 37603
 city: Holzminden
-street: Bülte
+street: "Bülte"
 housenumber: 4
 phone: "+49 5531 81080"
 opening_hours: "Mo-Sa 07:00-22:00"

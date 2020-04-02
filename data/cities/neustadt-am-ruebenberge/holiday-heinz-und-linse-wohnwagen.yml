@@ -5,7 +5,7 @@ latitude: 52.5062852
 longitude: 9.4735528
 postcode: 31535
 city: Neustadt am Rübenberge
-street: Ernst-Abbe-Ring
+street: "Ernst-Abbe-Ring"
 housenumber: 15
 phone: "+49 5032 9667910"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"

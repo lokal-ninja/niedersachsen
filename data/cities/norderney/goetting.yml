@@ -5,7 +5,7 @@ latitude: 53.7080433
 longitude: 7.1434248
 postcode: 26548
 city: Norderney
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

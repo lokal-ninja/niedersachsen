@@ -5,7 +5,7 @@ latitude: 52.320455300000006
 longitude: 10.226895200000001
 postcode: 31224
 city: Peine
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 43
 phone: "+49 5171 15728"
 opening_hours: ""

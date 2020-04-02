@@ -5,7 +5,7 @@ latitude: 53.108104700000005
 longitude: 9.1465856
 postcode: 28870
 city: Ottersberg
-street: Große Straße
+street: "Große Straße"
 housenumber: 22
 phone: "+49  4205 8083"
 opening_hours: ""

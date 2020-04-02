@@ -5,7 +5,7 @@ latitude: 53.284972
 longitude: 10.9291373
 postcode: 19273
 city: Amt Neuhaus
-street: Parkstraße
+street: "Parkstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

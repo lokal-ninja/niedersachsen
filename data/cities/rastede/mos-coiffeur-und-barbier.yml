@@ -5,7 +5,7 @@ latitude: 53.247345300000006
 longitude: 8.1976575
 postcode: 26180
 city: Rastede
-street: Anton-Günther-Straße
+street: "Anton-Günther-Straße"
 housenumber: 1
 phone: "+49 4402 9646805"
 opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-16:00"

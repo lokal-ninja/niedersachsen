@@ -5,7 +5,7 @@ latitude: 53.4234991
 longitude: 7.9543604000000006
 postcode: 26340
 city: Zetel
-street: Eschstraße
+street: "Eschstraße"
 housenumber: 10a
 phone: "+49 4453 2190"
 opening_hours: ""

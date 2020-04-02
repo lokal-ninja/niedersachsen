@@ -5,7 +5,7 @@ latitude: 53.32705180000001
 longitude: 9.8809657
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 17
 phone: "+49 1805 833033"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"

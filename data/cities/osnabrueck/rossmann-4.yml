@@ -5,7 +5,7 @@ latitude: 52.270162500000005
 longitude: 8.0874552
 postcode: 49084
 city: Osnabrück
-street: Mindener Straße
+street: "Mindener Straße"
 housenumber: 114
 phone: ""
 opening_hours: ""

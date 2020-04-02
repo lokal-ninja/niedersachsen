@@ -5,7 +5,7 @@ latitude: 52.394239500000005
 longitude: 10.0569524
 postcode: 31275
 city: Lehrte
-street: Lehrter Straße
+street: "Lehrter Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

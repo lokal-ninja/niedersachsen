@@ -5,7 +5,7 @@ latitude: 51.926163200000005
 longitude: 9.494180400000001
 postcode: 37619
 city: Pegestorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 73
 phone: "+49 5533 3710"
 opening_hours: "Th 10:00-13:00; Fr 08:00-13:00, 15:00-18:00; Sa 08:00-13:00"

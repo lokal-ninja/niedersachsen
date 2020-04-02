@@ -5,7 +5,7 @@ latitude: 53.3294329
 longitude: 9.881747800000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

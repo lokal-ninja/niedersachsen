@@ -5,7 +5,7 @@ latitude: 52.3407549
 longitude: 10.249388300000001
 postcode: 31228
 city: Peine
-street: Hesebergweg
+street: "Hesebergweg"
 housenumber: 45
 phone: ""
 opening_hours: ""

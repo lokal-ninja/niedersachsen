@@ -5,7 +5,7 @@ latitude: 52.365125000000006
 longitude: 7.470206200000001
 postcode: 48480
 city: Spelle
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

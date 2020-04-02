@@ -5,7 +5,7 @@ latitude: 53.486836800000006
 longitude: 8.598063400000001
 postcode: 27572
 city: Bremerhaven
-street: Seeborg
+street: "Seeborg"
 housenumber: 7
 phone: "+49 471 80997514"
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.124586300000004
 longitude: 8.2503968
 postcode: 26135
 city: Oldenburg
-street: Herrenweg
+street: "Herrenweg"
 housenumber: 173
 phone: ""
 opening_hours: ""

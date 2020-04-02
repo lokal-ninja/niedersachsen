@@ -5,7 +5,7 @@ latitude: 53.2797483
 longitude: 9.5001912
 postcode: 27419
 city: Sittensen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

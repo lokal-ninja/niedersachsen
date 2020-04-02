@@ -5,7 +5,7 @@ latitude: 53.2254451
 longitude: 10.1658179
 postcode: 21376
 city: Salzhausen
-street: Eyendorfer Straße
+street: "Eyendorfer Straße"
 housenumber: 6
 phone: "+49 4172 7168"
 opening_hours: ""

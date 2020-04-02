@@ -5,7 +5,7 @@ latitude: 53.1507529
 longitude: 8.2377961
 postcode: 26123
 city: Oldenburg
-street: Wehdestraße
+street: "Wehdestraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

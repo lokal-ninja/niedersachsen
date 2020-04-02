@@ -5,7 +5,7 @@ latitude: 53.0787422
 longitude: 8.905220700000001
 postcode: 28327
 city: Bremen
-street: Geschwister-Scholl-Straße
+street: "Geschwister-Scholl-Straße"
 housenumber: 6a
 phone: ""
 opening_hours: ""

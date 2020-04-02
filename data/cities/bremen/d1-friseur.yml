@@ -5,7 +5,7 @@ latitude: 53.080572000000004
 longitude: 8.8390456
 postcode: 28211
 city: Bremen
-street: Lothringer Straße
+street: "Lothringer Straße"
 housenumber: 38
 phone: ""
 opening_hours: ""

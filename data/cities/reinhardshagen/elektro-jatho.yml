@@ -5,7 +5,7 @@ latitude: 51.494954
 longitude: 9.6010649
 postcode: 34359
 city: Reinhardshagen
-street: Amtsstraße
+street: "Amtsstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30; Mo,Tu,Th,Fr 15:00-18:00; Sa 09:00-12:00"

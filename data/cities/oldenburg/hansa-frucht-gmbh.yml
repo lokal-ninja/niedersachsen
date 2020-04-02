@@ -5,7 +5,7 @@ latitude: 53.182394800000004
 longitude: 8.200623100000001
 postcode: 26127
 city: Oldenburg
-street: Großmarktstraße
+street: "Großmarktstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

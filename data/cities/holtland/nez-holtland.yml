@@ -5,7 +5,7 @@ latitude: 53.278912500000004
 longitude: 7.575176000000001
 postcode: 26835
 city: Holtland
-street: Süderstraße
+street: "Süderstraße"
 housenumber: 2
 phone: "+49 4950 937100"
 opening_hours: "Mo-Sa 07:30-19:00"

@@ -5,7 +5,7 @@ latitude: 52.362872800000005
 longitude: 10.5261791
 postcode: 38533
 city: Vordorf
-street: Am Stadtweg
+street: "Am Stadtweg"
 housenumber: 8
 phone: ""
 opening_hours: ""

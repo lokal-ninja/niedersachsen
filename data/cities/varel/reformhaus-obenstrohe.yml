@@ -5,7 +5,7 @@ latitude: 53.372097000000004
 longitude: 8.0976845
 postcode: 26316
 city: Varel
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 6-8
 phone: ""
 opening_hours: ""

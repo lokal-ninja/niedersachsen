@@ -5,7 +5,7 @@ latitude: 53.239042100000006
 longitude: 8.1991922
 postcode: 26180
 city: Rastede
-street: Oldenburger Straße
+street: "Oldenburger Straße"
 housenumber: 159
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-13:00"

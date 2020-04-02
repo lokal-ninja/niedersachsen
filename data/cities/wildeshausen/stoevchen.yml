@@ -5,7 +5,7 @@ latitude: 52.898134000000006
 longitude: 8.431761100000001
 postcode: 27793
 city: Wildeshausen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 06:00-10:00,16:00-18:00"

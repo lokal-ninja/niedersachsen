@@ -5,7 +5,7 @@ latitude: 51.5367953
 longitude: 9.9351258
 postcode: 37073
 city: Göttingen
-street: Untere Karspüle
+street: "Untere Karspüle"
 housenumber: 7
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.1193151
 longitude: 9.781845800000001
 postcode: 29640
 city: Schneverdingen
-street: Weststraße
+street: "Weststraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

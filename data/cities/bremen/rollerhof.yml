@@ -5,7 +5,7 @@ latitude: 53.075682400000005
 longitude: 8.844072
 postcode: 28205
 city: Bremen
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 250
 phone: "+49 421 5786827"
 opening_hours: "Mo-Fr 10:00-18:00;Sa 10:00-13:00"

@@ -5,7 +5,7 @@ latitude: 52.1998339
 longitude: 8.4535599
 postcode: 
 city: Melle
-street: Spenger Straße
+street: "Spenger Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

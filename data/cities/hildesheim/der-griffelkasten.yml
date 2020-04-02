@@ -5,7 +5,7 @@ latitude: 52.134287400000005
 longitude: 9.9737144
 postcode: 31141
 city: Hildesheim
-street: Marienburger Platz
+street: "Marienburger Platz"
 housenumber: 12
 phone: "+49 5121 1 77 43 93"
 opening_hours: ""

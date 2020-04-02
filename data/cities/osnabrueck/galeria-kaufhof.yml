@@ -5,7 +5,7 @@ latitude: 52.2739033
 longitude: 8.0498834
 postcode: 49074
 city: Osnabrück
-street: Wittekindstraße
+street: "Wittekindstraße"
 housenumber: 
 phone: "+49 541 - 33 07-0"
 opening_hours: "Mo-Sa 09:30-19:00"

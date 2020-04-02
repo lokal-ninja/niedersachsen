@@ -5,7 +5,7 @@ latitude: 52.923144900000004
 longitude: 10.522400000000001
 postcode: 29525
 city: Uelzen
-street: Ulmenweg
+street: "Ulmenweg"
 housenumber: 8
 phone: ""
 opening_hours: ""

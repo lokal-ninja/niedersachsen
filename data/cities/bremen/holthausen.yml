@@ -5,7 +5,7 @@ latitude: 53.056431
 longitude: 8.883341300000001
 postcode: 28309
 city: Bremen
-street: An der Grenzpappel
+street: "An der Grenzpappel"
 housenumber: 36
 phone: ""
 opening_hours: ""

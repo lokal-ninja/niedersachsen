@@ -5,7 +5,7 @@ latitude: 52.3910197
 longitude: 9.8522461
 postcode: 30629
 city: Hannover
-street: Buchholzer Straße
+street: "Buchholzer Straße"
 housenumber: 4
 phone: "+49 511 5421772"
 opening_hours: "Mo-Fr 09:30-13:30,14:30-18:00; Sa 09:30-13:00"

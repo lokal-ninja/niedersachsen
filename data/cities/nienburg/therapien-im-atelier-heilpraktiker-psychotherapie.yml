@@ -5,7 +5,7 @@ latitude: 52.6412131
 longitude: 9.212219900000001
 postcode: 31582
 city: Nienburg
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

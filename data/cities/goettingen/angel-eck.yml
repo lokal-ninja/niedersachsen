@@ -5,7 +5,7 @@ latitude: 51.520352800000005
 longitude: 9.9372355
 postcode: 
 city: Göttingen
-street: Stettiner Straße
+street: "Stettiner Straße"
 housenumber: 44
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.423740800000004
 longitude: 10.7317266
 postcode: 38442
 city: Wolfsburg
-street: Westerlinge
+street: "Westerlinge"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2738102
 longitude: 10.539502
 postcode: 38106
 city: Braunschweig
-street: Gliesmaroder Straße
+street: "Gliesmaroder Straße"
 housenumber: 107
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"

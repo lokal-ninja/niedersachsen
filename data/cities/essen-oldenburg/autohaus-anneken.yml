@@ -5,7 +5,7 @@ latitude: 52.715932
 longitude: 7.9391176
 postcode: 49632
 city: Essen (Oldenburg)
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 89
 phone: "+49 5434 8071950"
 opening_hours: ""

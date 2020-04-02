@@ -5,7 +5,7 @@ latitude: 53.141048600000005
 longitude: 11.251937300000002
 postcode: 19303
 city: Dömitz
-street: Friedrich-Franz-Straße
+street: "Friedrich-Franz-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.375568200000004
 longitude: 9.736298900000001
 postcode: 30159
 city: Hannover
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

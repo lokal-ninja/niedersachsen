@@ -5,7 +5,7 @@ latitude: 53.471458500000004
 longitude: 7.468114000000001
 postcode: 26603
 city: Aurich
-street: Wallster Weg
+street: "Wallster Weg"
 housenumber: 3a
 phone: "+49 4941 24 77"
 opening_hours: "Mo-Fr 08:30-18:30, Sa 9:00-14:00"

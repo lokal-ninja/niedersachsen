@@ -5,7 +5,7 @@ latitude: 51.5028197
 longitude: 9.9104337
 postcode: 37124
 city: Rosdorf
-street: Grabenbreite
+street: "Grabenbreite"
 housenumber: 10
 phone: ""
 opening_hours: "Tu,Th,Fr 09:30-18:00; PH off"

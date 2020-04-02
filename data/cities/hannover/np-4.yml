@@ -5,7 +5,7 @@ latitude: 52.329014300000004
 longitude: 9.6911862
 postcode: 30457
 city: Hannover
-street: An der Kirche
+street: "An der Kirche"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

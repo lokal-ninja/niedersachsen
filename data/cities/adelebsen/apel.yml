@@ -5,7 +5,7 @@ latitude: 51.5857241
 longitude: 9.758570200000001
 postcode: 37139
 city: Adelebsen
-street: Lödingser Straße
+street: "Lödingser Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"

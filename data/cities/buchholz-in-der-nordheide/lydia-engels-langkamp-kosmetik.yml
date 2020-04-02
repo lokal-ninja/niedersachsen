@@ -5,7 +5,7 @@ latitude: 53.3262921
 longitude: 9.876187400000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 9
 phone: "+49 4181 294831"
 opening_hours: ""

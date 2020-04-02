@@ -5,7 +5,7 @@ latitude: 53.019972100000004
 longitude: 9.787032400000001
 postcode: 29614
 city: Soltau
-street: Ellingen
+street: "Ellingen"
 housenumber: 15
 phone: "+49 5191 14297"
 opening_hours: "We-Su 14:00-18:00"

@@ -5,7 +5,7 @@ latitude: 53.083928900000004
 longitude: 9.9956496
 postcode: 29646
 city: Bispingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: "+49 5194 7372"
 opening_hours: "Mo-Sa 07:30-21:00"

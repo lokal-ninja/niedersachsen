@@ -5,7 +5,7 @@ latitude: 52.590686600000005
 longitude: 8.124981100000001
 postcode: 49451
 city: Holdorf
-street: Steinfelder Straße
+street: "Steinfelder Straße"
 housenumber: 5a
 phone: "+49 162 4958161"
 opening_hours: "Mo, Tu 15:30-19:30; We Off; Th, Fr 15:30-19:30; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 51.5476444
 longitude: 9.914695100000001
 postcode: 37081
 city: Göttingen
-street: Pfalz-Grona-Breite
+street: "Pfalz-Grona-Breite"
 housenumber: 86
 phone: ""
 opening_hours: ""

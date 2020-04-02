@@ -5,7 +5,7 @@ latitude: 52.361381300000005
 longitude: 9.716951700000001
 postcode: 30449
 city: Hannover
-street: Ilse-ter-Meer-Weg
+street: "Ilse-ter-Meer-Weg"
 housenumber: 5
 phone: "+495118973391"
 opening_hours: ""

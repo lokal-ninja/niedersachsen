@@ -5,7 +5,7 @@ latitude: 53.240526
 longitude: 8.165801700000001
 postcode: 26180
 city: Rastede
-street: Königstraße
+street: "Königstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

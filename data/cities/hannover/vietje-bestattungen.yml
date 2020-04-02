@@ -5,7 +5,7 @@ latitude: 52.340323500000004
 longitude: 9.760106200000001
 postcode: 30519
 city: Hannover
-street: Wichmannstraße
+street: "Wichmannstraße"
 housenumber: 11A
 phone: ""
 opening_hours: ""

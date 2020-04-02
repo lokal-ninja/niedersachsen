@@ -5,7 +5,7 @@ latitude: 52.9077245
 longitude: 8.5883558
 postcode: 27243
 city: Harpstedt
-street: 2. Kirchstraße
+street: "2. Kirchstraße"
 housenumber: 1
 phone: "+49 4244 523"
 opening_hours: ""

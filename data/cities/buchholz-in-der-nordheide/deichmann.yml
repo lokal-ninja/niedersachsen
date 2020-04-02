@@ -5,7 +5,7 @@ latitude: 53.327498000000006
 longitude: 9.881069
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Adolfstraße
+street: "Adolfstraße"
 housenumber: 20
 phone: "+49 4181 934625"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

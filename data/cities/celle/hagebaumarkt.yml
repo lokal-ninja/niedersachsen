@@ -5,7 +5,7 @@ latitude: 52.60738550000001
 longitude: 10.061884200000001
 postcode: 29221
 city: Celle
-street: Vor den Fuhren
+street: "Vor den Fuhren"
 housenumber: 2
 phone: ""
 opening_hours: ""

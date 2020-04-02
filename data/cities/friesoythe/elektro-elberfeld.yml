@@ -5,7 +5,7 @@ latitude: 52.960811400000004
 longitude: 7.920171900000001
 postcode: 26169
 city: Friesoythe
-street: Kurfürstendamm
+street: "Kurfürstendamm"
 housenumber: 11
 phone: "+49 4495 68955 0"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off"

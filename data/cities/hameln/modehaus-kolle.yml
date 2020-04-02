@@ -5,7 +5,7 @@ latitude: 52.1054217
 longitude: 9.3559432
 postcode: 31785
 city: Hameln
-street: Ritterstraße
+street: "Ritterstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

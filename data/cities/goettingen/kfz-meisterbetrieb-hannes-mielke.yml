@@ -5,7 +5,7 @@ latitude: 51.554673400000006
 longitude: 9.9334941
 postcode: 37075
 city: Göttingen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Th 08:00-17:30, Fr 08:00-16:00; PH off"

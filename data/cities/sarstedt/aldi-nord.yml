@@ -5,7 +5,7 @@ latitude: 52.23743090000001
 longitude: 9.8743187
 postcode: 31157
 city: Sarstedt
-street: Moorberg
+street: "Moorberg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

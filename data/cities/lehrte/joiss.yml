@@ -5,7 +5,7 @@ latitude: 52.3984284
 longitude: 9.9732228
 postcode: 31275
 city: Lehrte
-street: Dammfeldstraße
+street: "Dammfeldstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

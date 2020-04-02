@@ -5,7 +5,7 @@ latitude: 52.324362900000004
 longitude: 10.5132694
 postcode: 38110
 city: Braunschweig
-street: Veltenhöfer Straße
+street: "Veltenhöfer Straße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

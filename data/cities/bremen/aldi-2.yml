@@ -5,7 +5,7 @@ latitude: 53.10116420000001
 longitude: 8.815357
 postcode: 28215
 city: Bremen
-street: Hemmstraße
+street: "Hemmstraße"
 housenumber: 353-357
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

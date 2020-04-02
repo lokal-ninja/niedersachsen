@@ -5,7 +5,7 @@ latitude: 53.4192479
 longitude: 7.7366964000000005
 postcode: 26639
 city: Wiesmoor
-street: Amaryllisweg
+street: "Amaryllisweg"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

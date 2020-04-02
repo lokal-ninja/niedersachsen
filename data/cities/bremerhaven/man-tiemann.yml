@@ -5,7 +5,7 @@ latitude: 53.4977297
 longitude: 8.624495000000001
 postcode: 
 city: Bremerhaven
-street: Frederikshavner Straße
+street: "Frederikshavner Straße"
 housenumber: 99
 phone: "+49 471 984000"
 opening_hours: ""

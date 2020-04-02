@@ -5,7 +5,7 @@ latitude: 52.163438000000006
 longitude: 10.528885500000001
 postcode: 38304
 city: Wolfenbüttel
-street: Dr.-Heinrich-Jasper-Straße
+street: "Dr.-Heinrich-Jasper-Straße"
 housenumber: 2
 phone: "+49 5331 1368"
 opening_hours: ""

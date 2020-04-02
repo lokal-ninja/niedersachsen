@@ -5,7 +5,7 @@ latitude: 53.748744800000004
 longitude: 7.4817276
 postcode: 26465
 city: Langeoog
-street: Barkhausenstraße
+street: "Barkhausenstraße"
 housenumber: 22
 phone: ""
 opening_hours: "closed"

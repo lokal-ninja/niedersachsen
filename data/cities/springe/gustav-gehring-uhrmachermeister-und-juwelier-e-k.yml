@@ -5,7 +5,7 @@ latitude: 52.208887100000005
 longitude: 9.548960000000001
 postcode: 31832
 city: Springe
-street: Ellernstraße
+street: "Ellernstraße"
 housenumber: 10
 phone: "+49 5041 970066"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.5239788
 longitude: 9.9465018
 postcode: 37083
 city: Göttingen
-street: Königsberger Straße
+street: "Königsberger Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Th,Fr 13:00-18:00; PH off"

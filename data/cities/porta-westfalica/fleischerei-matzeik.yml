@@ -5,7 +5,7 @@ latitude: 52.200845300000005
 longitude: 9.0141171
 postcode: 32457
 city: Porta Westfalica
-street: Eisberger Straße
+street: "Eisberger Straße"
 housenumber: 436
 phone: "+49 5751 9239275"
 opening_hours: "Mo-Fr 06:00-14:00, Th 15:00-18:00"

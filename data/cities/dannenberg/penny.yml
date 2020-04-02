@@ -5,7 +5,7 @@ latitude: 53.10127670000001
 longitude: 11.097382000000001
 postcode: 29451
 city: Dannenberg
-street: Werder
+street: "Werder"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

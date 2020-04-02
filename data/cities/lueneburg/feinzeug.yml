@@ -5,7 +5,7 @@ latitude: 53.24998840000001
 longitude: 10.4071029
 postcode: 21335
 city: Lüneburg
-street: Waagestraße
+street: "Waagestraße"
 housenumber: 1A
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"

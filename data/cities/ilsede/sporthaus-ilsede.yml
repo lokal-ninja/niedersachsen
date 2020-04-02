@@ -5,7 +5,7 @@ latitude: 52.264482400000006
 longitude: 10.220991000000001
 postcode: 31241
 city: Ilsede
-street: Gerhardstraße
+street: "Gerhardstraße"
 housenumber: 46
 phone: "+49 5172 370479"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00"

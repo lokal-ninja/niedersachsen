@@ -5,7 +5,7 @@ latitude: 52.367775800000004
 longitude: 9.7146889
 postcode: 30449
 city: Hannover
-street: Stephanusstraße
+street: "Stephanusstraße"
 housenumber: 2
 phone: "+49-511-453222"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

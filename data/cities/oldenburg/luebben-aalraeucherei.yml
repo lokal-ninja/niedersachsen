@@ -5,7 +5,7 @@ latitude: 53.1640316
 longitude: 8.2518141
 postcode: 26125
 city: Oldenburg
-street: Donnerschweer Straße
+street: "Donnerschweer Straße"
 housenumber: 406
 phone: "+49 441 31710"
 opening_hours: "Tu-Th 09:00-13:00, 14:30-18:00; Fr 09:00-18:00; Sa 08:00-13:00"

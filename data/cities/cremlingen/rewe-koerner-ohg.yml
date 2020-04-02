@@ -5,7 +5,7 @@ latitude: 52.2514589
 longitude: 10.6433257
 postcode: 38162
 city: Cremlingen
-street: Im Moorbusche
+street: "Im Moorbusche"
 housenumber: 2
 phone: "+49 5306 932857"
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

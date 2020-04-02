@@ -5,7 +5,7 @@ latitude: 52.324093000000005
 longitude: 10.233732400000001
 postcode: 31224
 city: Peine
-street: Kantstraße
+street: "Kantstraße"
 housenumber: 34
 phone: "+49 5171 9080"
 opening_hours: ""

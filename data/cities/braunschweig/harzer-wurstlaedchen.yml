@@ -5,7 +5,7 @@ latitude: 52.2783882
 longitude: 10.557516300000001
 postcode: 38104
 city: Braunschweig
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 101
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.5820091
 longitude: 6.6769786
 postcode: 
 city: Borkum
-street: Deichstraße
+street: "Deichstraße"
 housenumber: 54A
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-16:00"

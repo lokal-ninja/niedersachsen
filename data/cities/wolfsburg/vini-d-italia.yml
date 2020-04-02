@@ -5,7 +5,7 @@ latitude: 52.421653400000004
 longitude: 10.78466
 postcode: 38440
 city: Wolfsburg
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 25
 phone: "+49 5361 15446"
 opening_hours: ""

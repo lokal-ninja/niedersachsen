@@ -5,7 +5,7 @@ latitude: 52.541653000000004
 longitude: 7.861307000000001
 postcode: 49577
 city: Ankum
-street: Alfons-Schulte-Straße
+street: "Alfons-Schulte-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

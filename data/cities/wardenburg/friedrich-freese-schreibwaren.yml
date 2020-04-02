@@ -5,7 +5,7 @@ latitude: 53.064348200000005
 longitude: 8.1950403
 postcode: 26203
 city: Wardenburg
-street: Oldenburger Straße
+street: "Oldenburger Straße"
 housenumber: 230
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.577573
 longitude: 10.5472496
 postcode: 37441
 city: Bad Sachsa
-street: Steinlohstraße
+street: "Steinlohstraße"
 housenumber: 1-7
 phone: "+49 5523 30080"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"

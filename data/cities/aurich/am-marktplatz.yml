@@ -5,7 +5,7 @@ latitude: 53.4693763
 longitude: 7.4807886
 postcode: 26603
 city: Aurich
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 14
 phone: "+494941994384"
 opening_hours: ""

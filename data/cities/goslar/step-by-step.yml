@@ -5,7 +5,7 @@ latitude: 51.9084713
 longitude: 10.4286942
 postcode: 38640
 city: Goslar
-street: Wohldenbergerstraße
+street: "Wohldenbergerstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"

@@ -5,7 +5,7 @@ latitude: 53.258978500000005
 longitude: 7.9203428
 postcode: 26655
 city: Westerstede
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 45
 phone: "+49 4488 2254"
 opening_hours: ""

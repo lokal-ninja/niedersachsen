@@ -5,7 +5,7 @@ latitude: 52.374099400000006
 longitude: 9.7327075
 postcode: 
 city: Hannover
-street: Am Marstall
+street: "Am Marstall"
 housenumber: 9
 phone: ""
 opening_hours: ""

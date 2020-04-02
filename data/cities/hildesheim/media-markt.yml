@@ -5,7 +5,7 @@ latitude: 52.1647583
 longitude: 9.9711435
 postcode: 31135
 city: Hildesheim
-street: Bavenstedter Straße
+street: "Bavenstedter Straße"
 housenumber: 65
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

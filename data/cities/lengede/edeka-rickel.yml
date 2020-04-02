@@ -5,7 +5,7 @@ latitude: 52.191881900000006
 longitude: 10.327698400000001
 postcode: 38268
 city: Lengede
-street: Barbecker Straße
+street: "Barbecker Straße"
 housenumber: 2
 phone: "+49-5344-8039482"
 opening_hours: "Mo-Sa 07:00-21:00"

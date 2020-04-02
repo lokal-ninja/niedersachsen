@@ -5,7 +5,7 @@ latitude: 52.217928900000004
 longitude: 10.644330400000001
 postcode: 38173
 city: Sickte
-street: Schöninger Straße
+street: "Schöninger Straße"
 housenumber: 7
 phone: ""
 opening_hours: "We 09:00-12:00,14:00-18:00; Th,Fr 09:00-12:00"

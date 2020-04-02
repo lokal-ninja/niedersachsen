@@ -5,7 +5,7 @@ latitude: 53.6385639
 longitude: 7.842541300000001
 postcode: 26434
 city: Wangerland
-street: Christianshof
+street: "Christianshof"
 housenumber: 1
 phone: "+49 4463 9389358"
 opening_hours: ""

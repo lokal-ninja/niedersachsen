@@ -5,7 +5,7 @@ latitude: 53.1692241
 longitude: 8.6898025
 postcode: 
 city: Bremen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.5042642
 longitude: 7.888299600000001
 postcode: 26446
 city: Friedeburg
-street: Frieslandstraße
+street: "Frieslandstraße"
 housenumber: 57
 phone: "+49 4468 1255"
 opening_hours: ""

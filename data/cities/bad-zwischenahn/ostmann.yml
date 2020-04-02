@@ -5,7 +5,7 @@ latitude: 53.18381350000001
 longitude: 7.996341900000001
 postcode: 26160
 city: Bad Zwischenahn
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 5-7
 phone: "+49 4403 62583 0"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2764095
 longitude: 8.0420444
 postcode: 49074
 city: Osnabrück
-street: Krahnstraße
+street: "Krahnstraße"
 housenumber: 11
 phone: "+49 541 7609542"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

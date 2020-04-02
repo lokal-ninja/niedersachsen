@@ -5,7 +5,7 @@ latitude: 53.073619300000004
 longitude: 10.5790466
 postcode: 29549
 city: Bad Bevensen
-street: Kurze Bülten
+street: "Kurze Bülten"
 housenumber: 10
 phone: "+49 5821-9923066"
 opening_hours: "Mo-Sa 08:00-20:00"

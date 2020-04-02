@@ -5,7 +5,7 @@ latitude: 53.1834415
 longitude: 8.1789463
 postcode: 26215
 city: Wiefelstede
-street: Schwarzer Weg
+street: "Schwarzer Weg"
 housenumber: 1
 phone: ""
 opening_hours: ""

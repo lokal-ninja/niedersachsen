@@ -5,7 +5,7 @@ latitude: 51.887346
 longitude: 10.554784000000001
 postcode: 38667
 city: Bad Harzburg
-street: Am Bahnhofsplatz
+street: "Am Bahnhofsplatz"
 housenumber: 2
 phone: "+49 5322 9506313"
 opening_hours: ""

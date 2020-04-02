@@ -5,7 +5,7 @@ latitude: 53.0847053
 longitude: 7.3820991000000005
 postcode: 26871
 city: Papenburg
-street: Deverweg
+street: "Deverweg"
 housenumber: 
 phone: "+49 4961 8342877"
 opening_hours: ""

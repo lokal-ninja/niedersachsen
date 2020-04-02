@@ -5,7 +5,7 @@ latitude: 52.896041000000004
 longitude: 8.4356086
 postcode: 27793
 city: Wildeshausen
-street: Westerstraße
+street: "Westerstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

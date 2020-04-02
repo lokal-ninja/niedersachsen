@@ -5,7 +5,7 @@ latitude: 52.3335523
 longitude: 9.360365400000001
 postcode: 31542
 city: Bad Nenndorf
-street: Schwefelweg
+street: "Schwefelweg"
 housenumber: 29
 phone: "+49 5723 708128"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 10:00-16:00; Su,PH off"

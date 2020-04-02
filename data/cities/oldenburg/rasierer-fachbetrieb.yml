@@ -5,7 +5,7 @@ latitude: 53.1414124
 longitude: 8.2091261
 postcode: 26122
 city: Oldenburg
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"

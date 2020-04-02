@@ -5,7 +5,7 @@ latitude: 52.228503
 longitude: 11.005725700000001
 postcode: 38350
 city: Helmstedt
-street: Gröpern
+street: "Gröpern"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

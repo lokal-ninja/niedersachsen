@@ -5,7 +5,7 @@ latitude: 53.0125807
 longitude: 8.788739000000001
 postcode: 28816
 city: Stuhr
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 9:30-18:00"

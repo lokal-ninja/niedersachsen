@@ -5,7 +5,7 @@ latitude: 52.6274263
 longitude: 9.2238852
 postcode: 31582
 city: Nienburg
-street: Hannoversche Straße
+street: "Hannoversche Straße"
 housenumber: 96
 phone: "+49 5021 2633"
 opening_hours: "Mo-Sa 07:00-13:00, Tu-Fr 15:00-18:00"

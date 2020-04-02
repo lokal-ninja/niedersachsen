@@ -5,7 +5,7 @@ latitude: 52.270595300000004
 longitude: 8.0313611
 postcode: 49080
 city: Osnabrück
-street: Weidenstraße
+street: "Weidenstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

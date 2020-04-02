@@ -5,7 +5,7 @@ latitude: 53.071861600000005
 longitude: 7.384437900000001
 postcode: 26871
 city: Papenburg
-street: Von-Herz-Straße
+street: "Von-Herz-Straße"
 housenumber: 9
 phone: "+49 4961 992245"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

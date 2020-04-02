@@ -5,7 +5,7 @@ latitude: 53.306179300000004
 longitude: 9.946848800000001
 postcode: 21266
 city: Jesteburg
-street: Allerbeeksring
+street: "Allerbeeksring"
 housenumber: 2
 phone: "+49 4183 9330"
 opening_hours: ""

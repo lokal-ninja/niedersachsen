@@ -5,7 +5,7 @@ latitude: 52.0989073
 longitude: 9.361955400000001
 postcode: 
 city: Hameln
-street: Hafenstraße
+street: "Hafenstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

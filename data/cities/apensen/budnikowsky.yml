@@ -5,7 +5,7 @@ latitude: 53.4299174
 longitude: 9.6128461
 postcode: 21641
 city: Apensen
-street: Beckdorfer Straße
+street: "Beckdorfer Straße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

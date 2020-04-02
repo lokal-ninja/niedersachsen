@@ -5,7 +5,7 @@ latitude: 52.7326026
 longitude: 10.233851600000001
 postcode: 29348
 city: Eschede
-street: Celler Straße
+street: "Celler Straße"
 housenumber: 8a
 phone: "+49 5142 416861"
 opening_hours: ""

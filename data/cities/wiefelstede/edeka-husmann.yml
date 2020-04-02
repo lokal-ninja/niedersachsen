@@ -5,7 +5,7 @@ latitude: 53.185963300000004
 longitude: 8.1728789
 postcode: 26215
 city: Wiefelstede
-street: Ofenerfelder Straße
+street: "Ofenerfelder Straße"
 housenumber: 1A
 phone: "+49 441 21719968"
 opening_hours: "Mo-Sa 08:00-21:00"

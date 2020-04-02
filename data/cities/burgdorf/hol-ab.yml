@@ -5,7 +5,7 @@ latitude: 52.4442108
 longitude: 10.020225
 postcode: 31303
 city: Burgdorf
-street: Uetzer Straße
+street: "Uetzer Straße"
 housenumber: 65
 phone: ""
 opening_hours: ""

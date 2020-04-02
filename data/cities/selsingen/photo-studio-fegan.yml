@@ -5,7 +5,7 @@ latitude: 53.3711357
 longitude: 9.214459900000001
 postcode: 27446
 city: Selsingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 20
 phone: "+49 4284 8256"
 opening_hours: ""

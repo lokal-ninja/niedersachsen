@@ -5,7 +5,7 @@ latitude: 52.1952391
 longitude: 9.4649266
 postcode: 31848
 city: Bad Münder am Deister
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 12
 phone: "+49 221 20199959"
 opening_hours: "Mo-Sa 07:00-21:00"

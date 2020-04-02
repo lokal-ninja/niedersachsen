@@ -5,7 +5,7 @@ latitude: 52.5046952
 longitude: 9.452549900000001
 postcode: 31535
 city: Neustadt am Rübenberge
-street: Landwehr
+street: "Landwehr"
 housenumber: 9
 phone: "+49 800 4353361"
 opening_hours: "Mo-Sa 08:00-21:00"

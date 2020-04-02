@@ -5,7 +5,7 @@ latitude: 52.003655
 longitude: 9.6934657
 postcode: 31089
 city: Duingen
-street: Triftstraße
+street: "Triftstraße"
 housenumber: 16
 phone: "+49 5185 247"
 opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"

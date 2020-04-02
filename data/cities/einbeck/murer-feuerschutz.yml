@@ -5,7 +5,7 @@ latitude: 51.8538919
 longitude: 9.933038600000001
 postcode: 37574
 city: Einbeck
-street: Greener Neue Reihe
+street: "Greener Neue Reihe"
 housenumber: 15
 phone: "+49 5563 9505-0"
 opening_hours: "Mo 07:30-20:30; Tu-Th 07:30-16:30; Fr 07:30-13:00"

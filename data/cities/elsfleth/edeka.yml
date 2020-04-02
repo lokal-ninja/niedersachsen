@@ -5,7 +5,7 @@ latitude: 53.228149900000005
 longitude: 8.3713022
 postcode: 26931
 city: Elsfleth
-street: Georgstraße
+street: "Georgstraße"
 housenumber: 2b
 phone: ""
 opening_hours: ""

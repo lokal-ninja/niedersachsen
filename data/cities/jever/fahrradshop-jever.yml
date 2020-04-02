@@ -5,7 +5,7 @@ latitude: 53.573236300000005
 longitude: 7.898043800000001
 postcode: 26441
 city: Jever
-street: Große Wasserpfortstraße
+street: "Große Wasserpfortstraße"
 housenumber: 12A
 phone: "+49 4461 73598"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 9:00-13:00"

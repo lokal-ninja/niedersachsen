@@ -5,7 +5,7 @@ latitude: 52.6779335
 longitude: 9.912726300000001
 postcode: 29308
 city: Winsen (Aller)
-street: Celler Straße
+street: "Celler Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:30, 14:30-18:00; Sa 08:30-13:00"

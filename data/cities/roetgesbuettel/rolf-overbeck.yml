@@ -5,7 +5,7 @@ latitude: 52.423545000000004
 longitude: 10.5330361
 postcode: 38531
 city: Rötgesbüttel
-street: Altes Hohes Feld
+street: "Altes Hohes Feld"
 housenumber: 3
 phone: "+49 5304 4900"
 opening_hours: ""

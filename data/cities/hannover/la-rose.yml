@@ -5,7 +5,7 @@ latitude: 52.3997344
 longitude: 9.778927900000001
 postcode: 30177
 city: Hannover
-street: Podbielskistraße
+street: "Podbielskistraße"
 housenumber: 197-199
 phone: "+49 511 32 93 78"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"

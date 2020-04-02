@@ -5,7 +5,7 @@ latitude: 52.374185600000004
 longitude: 9.7075182
 postcode: 30451
 city: Hannover
-street: Leinaustraße
+street: "Leinaustraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.367591100000006
 longitude: 7.204909000000001
 postcode: 26721
 city: Emden
-street: Zwischen Beiden Märkten
+street: "Zwischen Beiden Märkten"
 housenumber: 2-4
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-14:00"

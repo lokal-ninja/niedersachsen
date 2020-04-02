@@ -5,7 +5,7 @@ latitude: 53.395901800000004
 longitude: 8.145339400000001
 postcode: 26316
 city: Varel
-street: Gaststraße
+street: "Gaststraße"
 housenumber: 17
 phone: "+49 4451 4710"
 opening_hours: ""

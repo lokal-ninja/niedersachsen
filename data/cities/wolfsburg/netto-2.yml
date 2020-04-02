@@ -5,7 +5,7 @@ latitude: 52.352178800000004
 longitude: 10.7736654
 postcode: 38444
 city: Wolfsburg
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

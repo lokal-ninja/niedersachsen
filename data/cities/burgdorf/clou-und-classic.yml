@@ -5,7 +5,7 @@ latitude: 52.450176500000005
 longitude: 10.0443704
 postcode: 31303
 city: Burgdorf
-street: Tuchmacherweg
+street: "Tuchmacherweg"
 housenumber: 16
 phone: ""
 opening_hours: ""

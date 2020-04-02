@@ -5,7 +5,7 @@ latitude: 51.733597
 longitude: 10.2442989
 postcode: 37520
 city: Osterode am Harz
-street: Westpreußenstraße
+street: "Westpreußenstraße"
 housenumber: 8
 phone: "+49 5522 71046"
 opening_hours: ""

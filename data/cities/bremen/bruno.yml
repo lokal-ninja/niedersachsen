@@ -5,7 +5,7 @@ latitude: 53.0574
 longitude: 8.8081337
 postcode: 28201
 city: Bremen
-street: Volkmannstraße
+street: "Volkmannstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-12:00"

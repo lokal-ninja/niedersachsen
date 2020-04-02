@@ -5,7 +5,7 @@ latitude: 52.301579800000006
 longitude: 9.465042700000001
 postcode: 30890
 city: Barsinghausen
-street: Deisterstraße
+street: "Deisterstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

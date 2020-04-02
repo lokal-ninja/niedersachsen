@@ -5,7 +5,7 @@ latitude: 52.300025500000004
 longitude: 9.8168866
 postcode: 30880
 city: Laatzen
-street: Kastanienweg
+street: "Kastanienweg"
 housenumber: 2
 phone: "+49 511 821142"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00; Su 10:00-12:00"

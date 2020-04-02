@@ -5,7 +5,7 @@ latitude: 51.903271700000005
 longitude: 10.4820157
 postcode: 38642
 city: Goslar
-street: Wehrdamm
+street: "Wehrdamm"
 housenumber: 10
 phone: ""
 opening_hours: ""

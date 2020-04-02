@@ -5,7 +5,7 @@ latitude: 53.3311829
 longitude: 9.8824301
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 14
 phone: "+49 4181 999099"
 opening_hours: ""

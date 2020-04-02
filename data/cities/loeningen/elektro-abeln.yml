@@ -5,7 +5,7 @@ latitude: 52.733527800000005
 longitude: 7.764563900000001
 postcode: 49624
 city: Löningen
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.5320082
 longitude: 9.9247897
 postcode: 
 city: Göttingen
-street: Schiefer Weg
+street: "Schiefer Weg"
 housenumber: 6e
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3242856
 longitude: 10.4839173
 postcode: 38179
 city: Schwülper
-street: Waller See
+street: "Waller See"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 07:00-16:30"

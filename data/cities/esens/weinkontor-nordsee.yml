@@ -5,7 +5,7 @@ latitude: 53.646179700000005
 longitude: 7.608977200000001
 postcode: 26427
 city: Esens
-street: Herdetor
+street: "Herdetor"
 housenumber: 22
 phone: "+49 4971 9248248"
 opening_hours: "We-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"

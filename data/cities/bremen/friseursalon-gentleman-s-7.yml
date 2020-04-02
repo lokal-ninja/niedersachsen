@@ -5,7 +5,7 @@ latitude: 53.06093370000001
 longitude: 8.8864101
 postcode: 28309
 city: Bremen
-street: Hemelinger Bahnhofstraße
+street: "Hemelinger Bahnhofstraße"
 housenumber: 7
 phone: "+49 1525 9136675"
 opening_hours: "Mo-Sa 10:00-19:00"

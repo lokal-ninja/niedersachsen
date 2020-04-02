@@ -5,7 +5,7 @@ latitude: 52.407975
 longitude: 9.8014545
 postcode: 30659
 city: Hannover
-street: Adolf-Emmelmann-Straße
+street: "Adolf-Emmelmann-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"

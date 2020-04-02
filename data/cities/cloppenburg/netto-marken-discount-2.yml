@@ -5,7 +5,7 @@ latitude: 52.854925200000004
 longitude: 8.0324936
 postcode: 49661
 city: Cloppenburg
-street: Inselstraße
+street: "Inselstraße"
 housenumber: 72
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

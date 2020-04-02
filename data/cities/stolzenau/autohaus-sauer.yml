@@ -5,7 +5,7 @@ latitude: 52.52043260000001
 longitude: 9.075210100000001
 postcode: 31592
 city: Stolzenau
-street: Schinnaer Landstraße
+street: "Schinnaer Landstraße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-16:15; Sa 08:30-12:30"

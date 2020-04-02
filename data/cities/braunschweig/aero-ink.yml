@@ -5,7 +5,7 @@ latitude: 52.260731500000006
 longitude: 10.5248775
 postcode: 38100
 city: Braunschweig
-street: Rosenhagen
+street: "Rosenhagen"
 housenumber: 4
 phone: "+49 531 48113856"
 opening_hours: "Tu-Sa 12:00-18:00"

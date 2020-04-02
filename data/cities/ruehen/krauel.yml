@@ -5,7 +5,7 @@ latitude: 52.487426000000006
 longitude: 10.884501700000001
 postcode: 38471
 city: Rühen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

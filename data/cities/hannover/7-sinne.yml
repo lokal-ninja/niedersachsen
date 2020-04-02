@@ -5,7 +5,7 @@ latitude: 52.3824557
 longitude: 9.745349200000001
 postcode: 30161
 city: Hannover
-street: Lister Meile
+street: "Lister Meile"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 11:00-19:00"

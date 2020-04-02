@@ -5,7 +5,7 @@ latitude: 52.3114142
 longitude: 11.0138985
 postcode: 38368
 city: Grasleben
-street: Vorsfelder Straße
+street: "Vorsfelder Straße"
 housenumber: 1
 phone: "+495357 311"
 opening_hours: "Mo-Fr 07:00-17:00"

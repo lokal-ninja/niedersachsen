@@ -5,7 +5,7 @@ latitude: 53.249879500000006
 longitude: 8.1932147
 postcode: 26180
 city: Rastede
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

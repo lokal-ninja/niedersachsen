@@ -5,7 +5,7 @@ latitude: 51.8644747
 longitude: 10.5559163
 postcode: 38667
 city: Bad Harzburg
-street: Nordhäuser Straße
+street: "Nordhäuser Straße"
 housenumber: 20
 phone: "+49 5322 2804"
 opening_hours: ""

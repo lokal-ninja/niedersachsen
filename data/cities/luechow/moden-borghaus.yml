@@ -5,7 +5,7 @@ latitude: 52.966635100000005
 longitude: 11.155050200000002
 postcode: 29439
 city: Lüchow
-street: Junkerstraße
+street: "Junkerstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

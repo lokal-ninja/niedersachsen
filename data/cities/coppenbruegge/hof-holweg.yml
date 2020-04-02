@@ -5,7 +5,7 @@ latitude: 52.1345344
 longitude: 9.5653957
 postcode: 31863
 city: Coppenbrügge
-street: Dörper Straße
+street: "Dörper Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

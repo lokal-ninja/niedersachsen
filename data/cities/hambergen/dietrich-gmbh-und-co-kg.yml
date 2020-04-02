@@ -5,7 +5,7 @@ latitude: 53.285617
 longitude: 8.8101547
 postcode: 27729
 city: Hambergen
-street: Ohlenstedter Straße
+street: "Ohlenstedter Straße"
 housenumber: 1
 phone: "+49 4793 9307-0"
 opening_hours: "Mo-Fr 07:00-17:30, Sa 07:30-13:00"

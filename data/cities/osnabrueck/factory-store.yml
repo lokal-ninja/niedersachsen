@@ -5,7 +5,7 @@ latitude: 52.2659615
 longitude: 8.0640219
 postcode: 49084
 city: Osnabrück
-street: Neulandstraße
+street: "Neulandstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

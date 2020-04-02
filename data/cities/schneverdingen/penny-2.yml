@@ -5,7 +5,7 @@ latitude: 53.118578600000006
 longitude: 9.7844998
 postcode: 29640
 city: Schneverdingen
-street: Rotenburger Straße
+street: "Rotenburger Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

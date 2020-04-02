@@ -5,7 +5,7 @@ latitude: 52.419103
 longitude: 10.753809
 postcode: 38440
 city: Wolfsburg
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 45
 phone: ""
 opening_hours: ""

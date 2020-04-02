@@ -5,7 +5,7 @@ latitude: 51.82531
 longitude: 9.4504794
 postcode: 37603
 city: Holzminden
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 5A
 phone: "+49 800 4646446"
 opening_hours: ""

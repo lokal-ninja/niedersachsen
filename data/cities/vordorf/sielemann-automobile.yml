@@ -5,7 +5,7 @@ latitude: 52.364185000000006
 longitude: 10.5218418
 postcode: 38533
 city: Vordorf
-street: Kastanienallee
+street: "Kastanienallee"
 housenumber: 1a
 phone: ""
 opening_hours: ""

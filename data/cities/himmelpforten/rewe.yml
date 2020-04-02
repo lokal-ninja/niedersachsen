@@ -5,7 +5,7 @@ latitude: 53.614339300000005
 longitude: 9.311287700000001
 postcode: 21709
 city: Himmelpforten
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00;PH closed"

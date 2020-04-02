@@ -5,7 +5,7 @@ latitude: 53.2827932
 longitude: 9.714082600000001
 postcode: 21255
 city: Tostedt
-street: Eichhofstraße
+street: "Eichhofstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

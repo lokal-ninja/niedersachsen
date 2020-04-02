@@ -5,7 +5,7 @@ latitude: 52.548305400000004
 longitude: 10.179494100000001
 postcode: 29358
 city: Eicklingen
-street: Braunschweiger Straße
+street: "Braunschweiger Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

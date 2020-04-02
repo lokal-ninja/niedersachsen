@@ -5,7 +5,7 @@ latitude: 53.083360600000006
 longitude: 10.005661700000001
 postcode: 29646
 city: Bispingen
-street: Gillenmoor
+street: "Gillenmoor"
 housenumber: 21
 phone: "+49 5194 2014"
 opening_hours: ""

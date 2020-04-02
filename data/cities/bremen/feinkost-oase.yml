@@ -5,7 +5,7 @@ latitude: 53.123792800000004
 longitude: 8.7586822
 postcode: 28239
 city: Bremen
-street: Greifswalder Straße
+street: "Greifswalder Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

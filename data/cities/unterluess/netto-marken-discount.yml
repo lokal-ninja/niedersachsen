@@ -5,7 +5,7 @@ latitude: 52.835714900000006
 longitude: 10.299247000000001
 postcode: 29345
 city: Unterlüß
-street: Müdener Straße
+street: "Müdener Straße"
 housenumber: 1b
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.1399544
 longitude: 8.2147834
 postcode: 26122
 city: Oldenburg
-street: Achternstraße
+street: "Achternstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

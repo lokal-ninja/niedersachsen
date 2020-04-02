@@ -5,7 +5,7 @@ latitude: 51.5034214
 longitude: 9.896600900000001
 postcode: 
 city: Rosdorf
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 3a
 phone: ""
 opening_hours: "Tu-Th 15:00-18:00; PH off"

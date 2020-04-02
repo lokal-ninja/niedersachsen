@@ -5,7 +5,7 @@ latitude: 52.509880300000006
 longitude: 9.0799392
 postcode: 31592
 city: Stolzenau
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"

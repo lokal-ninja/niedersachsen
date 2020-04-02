@@ -5,7 +5,7 @@ latitude: 52.6660793
 longitude: 7.9067062
 postcode: 49635
 city: Badbergen
-street: Vortmanns Weg
+street: "Vortmanns Weg"
 housenumber: 23
 phone: ""
 opening_hours: "We-Fr 10:00-18:00, Sa 09:00-13:00; PH off"

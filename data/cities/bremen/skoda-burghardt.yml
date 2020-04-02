@@ -5,7 +5,7 @@ latitude: 53.106920300000006
 longitude: 8.8788918
 postcode: 28357
 city: Bremen
-street: Haferwende
+street: "Haferwende"
 housenumber: 45
 phone: ""
 opening_hours: ""

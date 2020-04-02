@@ -5,7 +5,7 @@ latitude: 53.24990330000001
 longitude: 10.407854200000001
 postcode: 21335
 city: Lüneburg
-street: Am Markt
+street: "Am Markt"
 housenumber: 2
 phone: "+49 800 7386323"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

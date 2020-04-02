@@ -5,7 +5,7 @@ latitude: 53.3093562
 longitude: 9.958035800000001
 postcode: 21266
 city: Jesteburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

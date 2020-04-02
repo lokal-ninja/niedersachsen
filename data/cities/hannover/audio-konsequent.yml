@@ -5,7 +5,7 @@ latitude: 52.3828095
 longitude: 9.722872200000001
 postcode: 30167
 city: Hannover
-street: Warstraße
+street: "Warstraße"
 housenumber: 12a
 phone: "+49 511 70 97 26"
 opening_hours: ""

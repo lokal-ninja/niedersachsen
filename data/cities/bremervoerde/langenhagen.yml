@@ -5,7 +5,7 @@ latitude: 53.4862254
 longitude: 9.144650500000001
 postcode: 27432
 city: Bremervörde
-street: Brunnenstraße
+street: "Brunnenstraße"
 housenumber: 10
 phone: "+49-4761-2520"
 opening_hours: ""

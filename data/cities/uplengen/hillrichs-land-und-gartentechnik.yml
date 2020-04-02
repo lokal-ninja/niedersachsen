@@ -5,7 +5,7 @@ latitude: 53.267715700000004
 longitude: 7.751495200000001
 postcode: 26670
 city: Uplengen
-street: Kürvenweg
+street: "Kürvenweg"
 housenumber: 44
 phone: "+49 4956 9269118"
 opening_hours: ""

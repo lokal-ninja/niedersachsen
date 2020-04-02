@@ -5,7 +5,7 @@ latitude: 53.6776276
 longitude: 6.996569300000001
 postcode: 26571
 city: Juist
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

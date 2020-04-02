@@ -5,7 +5,7 @@ latitude: 52.8980316
 longitude: 8.441330800000001
 postcode: 27793
 city: Wildeshausen
-street: Zwischenbrücken
+street: "Zwischenbrücken"
 housenumber: 11
 phone: ""
 opening_hours: ""

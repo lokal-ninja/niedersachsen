@@ -5,7 +5,7 @@ latitude: 53.1488857
 longitude: 8.209224500000001
 postcode: 26121
 city: Oldenburg
-street: Humboldtstraße
+street: "Humboldtstraße"
 housenumber: 2
 phone: "+49 163 7494194"
 opening_hours: ""

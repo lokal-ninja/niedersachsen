@@ -5,7 +5,7 @@ latitude: 53.071730200000005
 longitude: 8.8511851
 postcode: 28205
 city: Bremen
-street: Stader Straße
+street: "Stader Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

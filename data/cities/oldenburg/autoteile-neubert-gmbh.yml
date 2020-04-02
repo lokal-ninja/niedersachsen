@@ -5,7 +5,7 @@ latitude: 53.178495000000005
 longitude: 8.229591600000001
 postcode: 26125
 city: Oldenburg
-street: Wilhelmshavener Heerstraße
+street: "Wilhelmshavener Heerstraße"
 housenumber: 95
 phone: ""
 opening_hours: ""

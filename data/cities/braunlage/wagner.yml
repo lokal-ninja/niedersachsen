@@ -5,7 +5,7 @@ latitude: 51.72773230000001
 longitude: 10.6102831
 postcode: 38700
 city: Braunlage
-street: Herzog-Wilhelm-Straße
+street: "Herzog-Wilhelm-Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

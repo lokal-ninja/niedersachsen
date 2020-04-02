@@ -5,7 +5,7 @@ latitude: 52.152702500000004
 longitude: 9.954163000000001
 postcode: 31134
 city: Hildesheim
-street: Osterstraße
+street: "Osterstraße"
 housenumber: 57
 phone: ""
 opening_hours: ""

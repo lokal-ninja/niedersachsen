@@ -5,7 +5,7 @@ latitude: 51.990297500000004
 longitude: 9.2342332
 postcode: 31812
 city: Bad Pyrmont
-street: Grießemer Straße
+street: "Grießemer Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

@@ -5,7 +5,7 @@ latitude: 52.464817700000005
 longitude: 10.20236
 postcode: 31311
 city: Uetze
-street: Bentestraße
+street: "Bentestraße"
 housenumber: 2
 phone: "+49 5173 9836 11"
 opening_hours: "Mo-Fr 8:30-18:00; Sa 8:30-13:00"

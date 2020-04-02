@@ -5,7 +5,7 @@ latitude: 52.3187738
 longitude: 10.5329306
 postcode: 38110
 city: Braunschweig
-street: Maschweg
+street: "Maschweg"
 housenumber: 18
 phone: ""
 opening_hours: ""

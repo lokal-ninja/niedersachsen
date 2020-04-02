@@ -5,7 +5,7 @@ latitude: 52.1651637
 longitude: 9.943218400000001
 postcode: 31137
 city: Hildesheim
-street: Steuerwalder Straße
+street: "Steuerwalder Straße"
 housenumber: 100
 phone: "+49 5121 297094"
 opening_hours: ""

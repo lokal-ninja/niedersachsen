@@ -5,7 +5,7 @@ latitude: 52.4708072
 longitude: 10.531972900000001
 postcode: 38518
 city: Gifhorn
-street: Im Freitagsmoor
+street: "Im Freitagsmoor"
 housenumber: 42
 phone: "+49-5371-4746"
 opening_hours: "Mo-Th 08:00-13:00,14:00-17:00; Fr 08:00-13:30"

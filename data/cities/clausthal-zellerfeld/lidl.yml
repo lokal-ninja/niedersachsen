@@ -5,7 +5,7 @@ latitude: 51.8124011
 longitude: 10.3407595
 postcode: 38678
 city: Clausthal-Zellerfeld
-street: Bauhofstraße
+street: "Bauhofstraße"
 housenumber: 21-25
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

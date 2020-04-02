@@ -5,7 +5,7 @@ latitude: 52.1027981
 longitude: 9.355968800000001
 postcode: 31785
 city: Hameln
-street: Bäckerstraße
+street: "Bäckerstraße"
 housenumber: 48
 phone: "+49 5151 9563200"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

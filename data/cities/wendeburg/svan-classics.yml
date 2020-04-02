@@ -5,7 +5,7 @@ latitude: 52.3602537
 longitude: 10.3642608
 postcode: 38176
 city: Wendeburg
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

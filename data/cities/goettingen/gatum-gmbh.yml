@@ -5,7 +5,7 @@ latitude: 51.5469036
 longitude: 9.8839577
 postcode: 37079
 city: Göttingen
-street: Gustav-Bielefeld-Straße
+street: "Gustav-Bielefeld-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

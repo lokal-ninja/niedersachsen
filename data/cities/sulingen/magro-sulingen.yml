@@ -5,7 +5,7 @@ latitude: 52.6819713
 longitude: 8.8097031
 postcode: 27232
 city: Sulingen
-street: Obere Straße
+street: "Obere Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

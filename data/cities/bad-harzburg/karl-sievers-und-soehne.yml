@@ -5,7 +5,7 @@ latitude: 51.8861422
 longitude: 10.5614839
 postcode: 38667
 city: Bad Harzburg
-street: Ilsenburger Straße
+street: "Ilsenburger Straße"
 housenumber: 3
 phone: "+49 5322 2243"
 opening_hours: ""

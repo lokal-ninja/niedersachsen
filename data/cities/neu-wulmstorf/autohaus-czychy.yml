@@ -5,7 +5,7 @@ latitude: 53.464450500000005
 longitude: 9.8012102
 postcode: 21629
 city: Neu Wulmstorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.5990126
 longitude: 9.9281392
 postcode: 37120
 city: Bovenden
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Th 08:30-16:30; Fr 08:30-13:45"

@@ -5,7 +5,7 @@ latitude: 52.8944812
 longitude: 8.431706400000001
 postcode: 27793
 city: Wildeshausen
-street: Visbeker Straße
+street: "Visbeker Straße"
 housenumber: 2
 phone: "+49 4431 9485"
 opening_hours: ""

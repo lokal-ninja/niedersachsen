@@ -5,7 +5,7 @@ latitude: 51.9429018
 longitude: 10.1234631
 postcode: 38723
 city: Seesen
-street: Wilhelm-Busch-Straße
+street: "Wilhelm-Busch-Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

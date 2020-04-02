@@ -5,7 +5,7 @@ latitude: 53.528642500000004
 longitude: 8.1153364
 postcode: 26384
 city: Wilhelmshaven
-street: Kopperhörner Straße
+street: "Kopperhörner Straße"
 housenumber: 5
 phone: "+49 4421 34069"
 opening_hours: ""

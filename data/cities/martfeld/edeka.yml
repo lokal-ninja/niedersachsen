@@ -5,7 +5,7 @@ latitude: 52.876293600000004
 longitude: 9.0632395
 postcode: 27327
 city: Martfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

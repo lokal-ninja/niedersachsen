@@ -5,7 +5,7 @@ latitude: 53.0876467
 longitude: 8.780737100000001
 postcode: 28217
 city: Bremen
-street: Konsul-Smidt-Straße
+street: "Konsul-Smidt-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 52.26293750000001
 longitude: 10.5467113
 postcode: 38102
 city: Braunschweig
-street: Hopfengarten
+street: "Hopfengarten"
 housenumber: 3
 phone: "+49 531 7999574"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.0852894
 longitude: 8.8783916
 postcode: 28329
 city: Bremen
-street: Philipp-Scheidemann-Straße
+street: "Philipp-Scheidemann-Straße"
 housenumber: 11
 phone: "+49 421 8782588"
 opening_hours: "Mo-Sa 06:00-22:00"

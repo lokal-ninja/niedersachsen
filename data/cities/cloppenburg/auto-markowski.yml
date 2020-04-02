@@ -5,7 +5,7 @@ latitude: 52.8469684
 longitude: 8.0696527
 postcode: 
 city: Cloppenburg
-street: Werner-Eckart-Ring
+street: "Werner-Eckart-Ring"
 housenumber: 34
 phone: "+49 4471 7138"
 opening_hours: "Mo-Fr 08:00-17:00, Sa 08:00-12:00"

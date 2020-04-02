@@ -5,7 +5,7 @@ latitude: 51.533874600000004
 longitude: 9.935139600000001
 postcode: 37073
 city: Göttingen
-street: Weender Straße
+street: "Weender Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

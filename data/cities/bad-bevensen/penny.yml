@@ -5,7 +5,7 @@ latitude: 53.0748618
 longitude: 10.5818063
 postcode: 29549
 city: Bad Bevensen
-street: Fritz-Reuter-Weg
+street: "Fritz-Reuter-Weg"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:30; Su 10:00-18:00"

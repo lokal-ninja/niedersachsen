@@ -5,7 +5,7 @@ latitude: 53.0802628
 longitude: 8.590288000000001
 postcode: 27777
 city: Ganderkesee
-street: Sahrener Weg
+street: "Sahrener Weg"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-13:00"

@@ -5,7 +5,7 @@ latitude: 53.074618
 longitude: 8.8068576
 postcode: 28195
 city: Bremen
-street: Wachtstraße
+street: "Wachtstraße"
 housenumber: 22
 phone: "+49 421 325878"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00"

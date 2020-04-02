@@ -5,7 +5,7 @@ latitude: 53.276017
 longitude: 10.352572
 postcode: 21360
 city: Vögelsen
-street: Lüneburger Straße
+street: "Lüneburger Straße"
 housenumber: 12
 phone: "+49 4131 12770"
 opening_hours: "Mo-Fr 07:30-19:00; Sa 07:00-13:30"

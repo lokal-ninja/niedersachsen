@@ -5,7 +5,7 @@ latitude: 52.333953900000004
 longitude: 9.5824508
 postcode: 30989
 city: Gehrden
-street: Böschstraße
+street: "Böschstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

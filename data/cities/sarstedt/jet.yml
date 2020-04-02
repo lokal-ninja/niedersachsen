@@ -5,7 +5,7 @@ latitude: 52.234810800000005
 longitude: 9.870124200000001
 postcode: 31157
 city: Sarstedt
-street: Hildesheimer Straße
+street: "Hildesheimer Straße"
 housenumber: 114a
 phone: "+49 5066 900 2675"
 opening_hours: "Mo-Su 06:00-22:00"

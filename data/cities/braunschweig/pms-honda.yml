@@ -5,7 +5,7 @@ latitude: 52.312677400000005
 longitude: 10.5103079
 postcode: 38112
 city: Braunschweig
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 5
 phone: "+49 531 23 17 02 88"
 opening_hours: ""

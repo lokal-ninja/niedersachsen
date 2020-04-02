@@ -5,7 +5,7 @@ latitude: 52.0072108
 longitude: 10.379297300000001
 postcode: 38704
 city: Liebenburg
-street: Am Mühlenwege
+street: "Am Mühlenwege"
 housenumber: 1
 phone: "+49 5346 9467979"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"

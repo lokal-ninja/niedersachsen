@@ -5,7 +5,7 @@ latitude: 53.3070126
 longitude: 9.7639209
 postcode: 21255
 city: Kakenstorf
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 35
 phone: "+49 4186 892898"
 opening_hours: ""

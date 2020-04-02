@@ -5,7 +5,7 @@ latitude: 53.449858400000004
 longitude: 8.502481300000001
 postcode: 27612
 city: Loxstedt
-street: Landwürder Straße
+street: "Landwürder Straße"
 housenumber: 35
 phone: "+49 4740 1216"
 opening_hours: ""

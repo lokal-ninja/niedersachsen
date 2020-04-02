@@ -5,7 +5,7 @@ latitude: 53.862106000000004
 longitude: 8.708681
 postcode: 27472
 city: Cuxhaven
-street: Neufelder Straße
+street: "Neufelder Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 09:00-15:00"

@@ -5,7 +5,7 @@ latitude: 53.0520136
 longitude: 8.8925924
 postcode: 28309
 city: Bremen
-street: Kleine Westerholzstraße
+street: "Kleine Westerholzstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

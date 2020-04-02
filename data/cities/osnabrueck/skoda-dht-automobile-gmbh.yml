@@ -5,7 +5,7 @@ latitude: 52.2729347
 longitude: 8.0678658
 postcode: 49084
 city: Osnabrück
-street: Franz-Lenz-Straße
+street: "Franz-Lenz-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

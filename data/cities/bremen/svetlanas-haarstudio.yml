@@ -5,7 +5,7 @@ latitude: 53.0722175
 longitude: 8.9506764
 postcode: 28325
 city: Bremen
-street: Graubündener Straße
+street: "Graubündener Straße"
 housenumber: 88
 phone: ""
 opening_hours: ""

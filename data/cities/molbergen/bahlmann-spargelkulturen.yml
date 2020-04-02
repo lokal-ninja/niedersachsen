@@ -5,7 +5,7 @@ latitude: 52.861411700000005
 longitude: 7.913259600000001
 postcode: 49696
 city: Molbergen
-street: Peheimer Straße
+street: "Peheimer Straße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00, 16:00-19:00; Sa 09:00-12:00, 16:00-17:00; Su,PH 09:00-12:00"

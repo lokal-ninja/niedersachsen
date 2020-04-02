@@ -5,7 +5,7 @@ latitude: 53.748072400000005
 longitude: 7.484560800000001
 postcode: 26465
 city: Langeoog
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Tu-Su 09:00-18:00"

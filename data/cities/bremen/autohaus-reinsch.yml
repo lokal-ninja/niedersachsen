@@ -5,7 +5,7 @@ latitude: 53.0587755
 longitude: 8.7274498
 postcode: 28259
 city: Bremen
-street: Bauerland
+street: "Bauerland"
 housenumber: 2
 phone: "+49 421 584155"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.66307930000001
 longitude: 7.297466300000001
 postcode: 49716
 city: Meppen
-street: Lilienthalstraße
+street: "Lilienthalstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

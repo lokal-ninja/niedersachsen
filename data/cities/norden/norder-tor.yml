@@ -5,7 +5,7 @@ latitude: 53.5901828
 longitude: 7.2147516000000005
 postcode: 26506
 city: Norden
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

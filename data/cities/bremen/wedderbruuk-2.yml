@@ -5,7 +5,7 @@ latitude: 53.0743592
 longitude: 8.8259472
 postcode: 28203
 city: Bremen
-street: Fehrfeld
+street: "Fehrfeld"
 housenumber: 25
 phone: ""
 opening_hours: "Th 15:00-18:00; Sa 11:00-16:00"

@@ -5,7 +5,7 @@ latitude: 53.2808755
 longitude: 9.713261600000001
 postcode: 21255
 city: Tostedt
-street: Kastanienallee
+street: "Kastanienallee"
 housenumber: 2
 phone: "+49 4182 28150"
 opening_hours: "Mo-Sa 08:00-20:00"

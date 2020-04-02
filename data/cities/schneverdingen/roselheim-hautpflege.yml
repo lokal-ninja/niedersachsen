@@ -5,7 +5,7 @@ latitude: 53.114753400000005
 longitude: 9.803150500000001
 postcode: 29640
 city: Schneverdingen
-street: Bockheberer Weg
+street: "Bockheberer Weg"
 housenumber: 19
 phone: ""
 opening_hours: ""

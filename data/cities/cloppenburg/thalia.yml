@@ -5,7 +5,7 @@ latitude: 52.8452514
 longitude: 8.0409243
 postcode: 49661
 city: Cloppenburg
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 25
 phone: "+49 4471 184 4977"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00; Su, PH off"

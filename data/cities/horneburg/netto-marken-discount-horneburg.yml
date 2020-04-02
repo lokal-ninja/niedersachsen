@@ -5,7 +5,7 @@ latitude: 53.5094453
 longitude: 9.5793447
 postcode: 21640
 city: Horneburg
-street: Otto-Balzer-Straße
+street: "Otto-Balzer-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

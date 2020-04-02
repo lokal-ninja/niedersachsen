@@ -5,7 +5,7 @@ latitude: 51.50835360000001
 longitude: 9.834563300000001
 postcode: 
 city: Rosdorf
-street: Osterbergstraße
+street: "Osterbergstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

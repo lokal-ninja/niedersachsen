@@ -5,7 +5,7 @@ latitude: 53.093958900000004
 longitude: 11.088960100000001
 postcode: 29451
 city: Dannenberg
-street: Lüchower Straße
+street: "Lüchower Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

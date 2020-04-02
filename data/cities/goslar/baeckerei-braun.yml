@@ -5,7 +5,7 @@ latitude: 51.9040279
 longitude: 10.4206616
 postcode: 38640
 city: Goslar
-street: Frankenberger Straße
+street: "Frankenberger Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

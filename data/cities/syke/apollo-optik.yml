@@ -5,7 +5,7 @@ latitude: 52.9121984
 longitude: 8.824092
 postcode: 28857
 city: Syke
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"

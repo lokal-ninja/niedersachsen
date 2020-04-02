@@ -5,7 +5,7 @@ latitude: 52.314860700000004
 longitude: 9.607040000000001
 postcode: 
 city: Gehrden
-street: Ronnenberger Straße
+street: "Ronnenberger Straße"
 housenumber: 2
 phone: "+49 800 4353361"
 opening_hours: "Mo-Sa 07:00-21:00"

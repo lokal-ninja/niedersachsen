@@ -5,7 +5,7 @@ latitude: 53.476258400000006
 longitude: 7.3971347000000005
 postcode: 26624
 city: Südbrookmerland
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

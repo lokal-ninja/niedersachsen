@@ -5,7 +5,7 @@ latitude: 52.529499400000006
 longitude: 10.3168424
 postcode: 38539
 city: Müden (Aller)
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 52.3735081
 longitude: 9.7352278
 postcode: 30159
 city: Hannover
-street: Osterstraße
+street: "Osterstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

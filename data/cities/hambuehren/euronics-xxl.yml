@@ -5,7 +5,7 @@ latitude: 52.6336719
 longitude: 9.958053900000001
 postcode: 29313
 city: Hambühren
-street: Sudermannstraße
+street: "Sudermannstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"

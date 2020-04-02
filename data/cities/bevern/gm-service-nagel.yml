@@ -5,7 +5,7 @@ latitude: 51.8595923
 longitude: 9.5031418
 postcode: 37639
 city: Bevern
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 67
 phone: "+4955319964097"
 opening_hours: "08:00-18:00"

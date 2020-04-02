@@ -5,7 +5,7 @@ latitude: 53.3568262
 longitude: 7.983004800000001
 postcode: 26345
 city: Bockhorn
-street: Melkstraat
+street: "Melkstraat"
 housenumber: 4
 phone: "+49 4452 513"
 opening_hours: ""

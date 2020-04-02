@@ -5,7 +5,7 @@ latitude: 53.02400960000001
 longitude: 8.638014
 postcode: 27755
 city: Delmenhorst
-street: Brendelweg
+street: "Brendelweg"
 housenumber: 148
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-14:00"

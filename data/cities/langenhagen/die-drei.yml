@@ -5,7 +5,7 @@ latitude: 52.4529937
 longitude: 9.7577946
 postcode: 30853
 city: Langenhagen
-street: Reuterdamm
+street: "Reuterdamm"
 housenumber: 77
 phone: "+49 511 21562528"
 opening_hours: ""

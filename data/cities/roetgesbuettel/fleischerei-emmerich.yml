@@ -5,7 +5,7 @@ latitude: 52.4135338
 longitude: 10.5309443
 postcode: 38531
 city: Rötgesbüttel
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo 06:00-12:30; Tu-Th 06:00-12:30, 14:30-18:00; Fr 06:00-18:00; Sa 06:00-12:00"

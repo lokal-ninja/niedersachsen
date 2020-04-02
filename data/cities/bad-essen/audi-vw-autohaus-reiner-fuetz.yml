@@ -5,7 +5,7 @@ latitude: 52.3190704
 longitude: 8.3975373
 postcode: 49152
 city: Bad Essen
-street: Mindener Straße
+street: "Mindener Straße"
 housenumber: 27
 phone: "+49 5472 7700 0"
 opening_hours: ""

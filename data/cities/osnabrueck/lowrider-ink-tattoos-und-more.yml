@@ -5,7 +5,7 @@ latitude: 52.257540500000005
 longitude: 8.0718099
 postcode: 49082
 city: Osnabrück
-street: Neelmeyerstraße
+street: "Neelmeyerstraße"
 housenumber: 2
 phone: "+49 541 40761271"
 opening_hours: "Mo nur Besprechungen (nach Termin); Tu-Fr 10:00-18:30; Sa 11:00-17:00; PH off"

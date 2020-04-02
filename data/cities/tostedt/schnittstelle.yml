@@ -5,7 +5,7 @@ latitude: 53.2810749
 longitude: 9.7076749
 postcode: 21255
 city: Tostedt
-street: Unter den Linden
+street: "Unter den Linden"
 housenumber: 22
 phone: "+49 4182 2884078"
 opening_hours: "Tu-Fr 08:30-19:00; Sa 08:30-13:00"

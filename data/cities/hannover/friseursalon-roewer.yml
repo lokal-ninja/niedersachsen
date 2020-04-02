@@ -5,7 +5,7 @@ latitude: 52.375825400000004
 longitude: 9.760388500000001
 postcode: 30175
 city: Hannover
-street: Plathnerstraße
+street: "Plathnerstraße"
 housenumber: 48
 phone: "+49 511 814279"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5338233
 longitude: 9.4081615
 postcode: 31535
 city: Neustadt am Rübenberge
-street: Blaubeerweg
+street: "Blaubeerweg"
 housenumber: 1
 phone: "+49 5032 4034"
 opening_hours: ""

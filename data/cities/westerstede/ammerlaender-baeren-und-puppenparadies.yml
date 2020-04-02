@@ -5,7 +5,7 @@ latitude: 53.255966300000004
 longitude: 7.922154000000001
 postcode: 26655
 city: Westerstede
-street: Kuhlenstraße
+street: "Kuhlenstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

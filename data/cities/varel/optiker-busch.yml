@@ -5,7 +5,7 @@ latitude: 53.3966873
 longitude: 8.139701200000001
 postcode: 26316
 city: Varel
-street: Nebbsallee
+street: "Nebbsallee"
 housenumber: 10
 phone: ""
 opening_hours: ""

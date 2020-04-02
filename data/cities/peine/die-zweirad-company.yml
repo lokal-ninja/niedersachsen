@@ -5,7 +5,7 @@ latitude: 52.3240263
 longitude: 10.2257251
 postcode: 31224
 city: Peine
-street: Stederdorfer Straße
+street: "Stederdorfer Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 52.504686400000004
 longitude: 9.4601666
 postcode: 31535
 city: Neustadt am Rübenberge
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

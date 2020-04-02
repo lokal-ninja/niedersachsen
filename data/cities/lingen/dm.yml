@@ -5,7 +5,7 @@ latitude: 52.520700600000005
 longitude: 7.3169782
 postcode: 49808
 city: Lingen
-street: Lookenstraße
+street: "Lookenstraße"
 housenumber: 14a
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"

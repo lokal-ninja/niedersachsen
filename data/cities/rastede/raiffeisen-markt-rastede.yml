@@ -5,7 +5,7 @@ latitude: 53.24551820000001
 longitude: 8.191182600000001
 postcode: 26180
 city: Rastede
-street: Ladestraße
+street: "Ladestraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:30,13:30-18:00; Sa 08:00-12:30"

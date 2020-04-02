@@ -5,7 +5,7 @@ latitude: 52.991452300000006
 longitude: 10.0997023
 postcode: 29633
 city: Munster
-street: Wagnerstraße
+street: "Wagnerstraße"
 housenumber: 10-18
 phone: ""
 opening_hours: ""

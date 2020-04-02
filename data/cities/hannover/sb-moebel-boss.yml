@@ -5,7 +5,7 @@ latitude: 52.362157700000004
 longitude: 9.6925282
 postcode: 30453
 city: Hannover
-street: Badenstedter Straße
+street: "Badenstedter Straße"
 housenumber: 58a
 phone: "+49 511 921650"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; PH off"

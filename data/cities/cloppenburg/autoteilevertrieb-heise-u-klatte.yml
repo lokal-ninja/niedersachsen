@@ -5,7 +5,7 @@ latitude: 52.8373793
 longitude: 8.0752842
 postcode: 49661
 city: Cloppenburg
-street: Philipp-Reis-Straße
+street: "Philipp-Reis-Straße"
 housenumber: 11a
 phone: "+49 4471 88209-0"
 opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-12:00"

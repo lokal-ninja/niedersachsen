@@ -5,7 +5,7 @@ latitude: 52.850771
 longitude: 7.657830400000001
 postcode: 49757
 city: Werlte
-street: Unfriedstraße
+street: "Unfriedstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

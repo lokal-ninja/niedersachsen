@@ -5,7 +5,7 @@ latitude: 52.5418469
 longitude: 7.8701499
 postcode: 49577
 city: Ankum
-street: Alfred-Eymann-Straße
+street: "Alfred-Eymann-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

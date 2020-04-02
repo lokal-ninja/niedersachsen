@@ -5,7 +5,7 @@ latitude: 53.528966100000005
 longitude: 7.960207700000001
 postcode: 26419
 city: Schortens
-street: Klein-Ostiemer-Weg
+street: "Klein-Ostiemer-Weg"
 housenumber: 86
 phone: ""
 opening_hours: "Mo-Th 10:00-13:00; Fr 9:00-18:30; Sa 9:00-14:00"

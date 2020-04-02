@@ -5,7 +5,7 @@ latitude: 52.42036340000001
 longitude: 9.7081245
 postcode: 30419
 city: Hannover
-street: Beneckeallee
+street: "Beneckeallee"
 housenumber: 30
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1056461
 longitude: 9.8010535
 postcode: 29640
 city: Schneverdingen
-street: Heidkampsweg
+street: "Heidkampsweg"
 housenumber: 25
 phone: ""
 opening_hours: ""

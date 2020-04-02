@@ -5,7 +5,7 @@ latitude: 52.235385900000004
 longitude: 8.1682796
 postcode: 49143
 city: Bissendorf
-street: Osnabrücker Straße
+street: "Osnabrücker Straße"
 housenumber: 1
 phone: "+49 5402 607 94 55"
 opening_hours: "Tu,Th 16:30-20:00; Sa 14:00-18:00"

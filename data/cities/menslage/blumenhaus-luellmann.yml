@@ -5,7 +5,7 @@ latitude: 52.676375900000004
 longitude: 7.817802400000001
 postcode: 49637
 city: Menslage
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

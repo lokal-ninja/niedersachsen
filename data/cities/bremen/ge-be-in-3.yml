@@ -5,7 +5,7 @@ latitude: 53.0894272
 longitude: 8.7847329
 postcode: 28217
 city: Bremen
-street: Nordstraße
+street: "Nordstraße"
 housenumber: 5-11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.43189520000001
 longitude: 9.6450466
 postcode: 34346
 city: Hann. Münden
-street: Auefeld
+street: "Auefeld"
 housenumber: 9
 phone: "+49 5541 91200"
 opening_hours: "Mo-Sa 07:00-21:00"

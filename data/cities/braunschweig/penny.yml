@@ -5,7 +5,7 @@ latitude: 52.267452000000006
 longitude: 10.5228093
 postcode: 38100
 city: Braunschweig
-street: Hagenbrücke
+street: "Hagenbrücke"
 housenumber: 8/9
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

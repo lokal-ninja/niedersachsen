@@ -5,7 +5,7 @@ latitude: 51.7725385
 longitude: 9.380528400000001
 postcode: 37671
 city: Höxter
-street: Stummrigestraße
+street: "Stummrigestraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 09:30-12:30,14:30-18:00; Sa 09:30-13:00"

@@ -5,7 +5,7 @@ latitude: 52.330871800000004
 longitude: 10.6693197
 postcode: 38165
 city: Lehre
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 6a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.2238496
 longitude: 10.404722000000001
 postcode: 21335
 city: Lüneburg
-street: Universitätsallee
+street: "Universitätsallee"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"

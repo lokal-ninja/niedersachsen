@@ -5,7 +5,7 @@ latitude: 51.805678900000004
 longitude: 10.3501844
 postcode: 38678
 city: Clausthal-Zellerfeld
-street: Am Ostbahnhof
+street: "Am Ostbahnhof"
 housenumber: 1A
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

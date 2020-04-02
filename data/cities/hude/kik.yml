@@ -5,7 +5,7 @@ latitude: 53.1119665
 longitude: 8.4592481
 postcode: 27798
 city: Hude
-street: Parkstraße
+street: "Parkstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

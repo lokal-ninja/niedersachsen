@@ -5,7 +5,7 @@ latitude: 53.156935600000004
 longitude: 8.221049200000001
 postcode: 26123
 city: Oldenburg
-street: Nadorster Straße
+street: "Nadorster Straße"
 housenumber: 150
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

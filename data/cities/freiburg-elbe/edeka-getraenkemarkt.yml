@@ -5,7 +5,7 @@ latitude: 53.8221295
 longitude: 9.290660500000001
 postcode: 21729
 city: Freiburg (Elbe)
-street: Allwördener Straße
+street: "Allwördener Straße"
 housenumber: 23
 phone: ""
 opening_hours: ""

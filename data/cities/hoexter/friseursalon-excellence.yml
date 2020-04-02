@@ -5,7 +5,7 @@ latitude: 51.7742377
 longitude: 9.3783884
 postcode: 37671
 city: Höxter
-street: Westerbachstraße
+street: "Westerbachstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

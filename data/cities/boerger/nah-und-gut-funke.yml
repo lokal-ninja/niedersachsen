@@ -5,7 +5,7 @@ latitude: 52.9137208
 longitude: 7.532437900000001
 postcode: 26904
 city: Börger
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 7
 phone: "+495953253"
 opening_hours: ""

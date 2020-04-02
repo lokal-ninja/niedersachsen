@@ -5,7 +5,7 @@ latitude: 52.8585992
 longitude: 7.9240216000000006
 postcode: 49696
 city: Molbergen
-street: Cloppenburger Straße
+street: "Cloppenburger Straße"
 housenumber: 11a
 phone: ""
 opening_hours: "Mo-Fr 08:30-13:00, 14:00-18:30; Sa 08:30-13:00; Su, PH off"

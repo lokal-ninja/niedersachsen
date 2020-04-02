@@ -5,7 +5,7 @@ latitude: 52.40101000000001
 longitude: 10.7515485
 postcode: 38444
 city: Wolfsburg
-street: Braunschweiger Straße
+street: "Braunschweiger Straße"
 housenumber: 204
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.473752000000005
 longitude: 10.5465543
 postcode: 38518
 city: Gifhorn
-street: Alter Postweg
+street: "Alter Postweg"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo,Tu 09:00-18:00; We,Sa 09:00-13:00; Th,Fr 09:00-18:00"

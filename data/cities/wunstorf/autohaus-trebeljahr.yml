@@ -5,7 +5,7 @@ latitude: 52.4142189
 longitude: 9.4607727
 postcode: 31515
 city: Wunstorf
-street: Albert-Einstein-Straße
+street: "Albert-Einstein-Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.4212628
 longitude: 8.7388171
 postcode: 31603
 city: Diepenau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: "+49 5775 966097"
 opening_hours: ""

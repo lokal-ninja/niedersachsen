@@ -5,7 +5,7 @@ latitude: 52.424558100000006
 longitude: 10.791767700000001
 postcode: 38440
 city: Wolfsburg
-street: Rothenfelder Straße
+street: "Rothenfelder Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.832843100000005
 longitude: 7.1035363
 postcode: 49733
 city: Haren (Ems)
-street: Lindenallee
+street: "Lindenallee"
 housenumber: 40a
 phone: ""
 opening_hours: "Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:30"

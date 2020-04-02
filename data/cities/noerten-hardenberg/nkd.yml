@@ -5,7 +5,7 @@ latitude: 51.629370900000005
 longitude: 9.9364684
 postcode: 37176
 city: Nörten-Hardenberg
-street: Göttinger Straße
+street: "Göttinger Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

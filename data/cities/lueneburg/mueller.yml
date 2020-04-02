@@ -5,7 +5,7 @@ latitude: 53.2474987
 longitude: 10.407776
 postcode: 21335
 city: Lüneburg
-street: Grapengießerstraße
+street: "Grapengießerstraße"
 housenumber: 7
 phone: "+49 4131 2662190"
 opening_hours: ""

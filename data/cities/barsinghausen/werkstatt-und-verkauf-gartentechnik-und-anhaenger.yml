@@ -5,7 +5,7 @@ latitude: 52.3310412
 longitude: 9.4309892
 postcode: 30890
 city: Barsinghausen
-street: An der Windmühle
+street: "An der Windmühle"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:30"

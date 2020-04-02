@@ -5,7 +5,7 @@ latitude: 53.184099100000005
 longitude: 8.0797431
 postcode: 26160
 city: Bad Zwischenahn
-street: Bertha-Benz-Straße
+street: "Bertha-Benz-Straße"
 housenumber: 24
 phone: "+49 4403 9833533"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00"

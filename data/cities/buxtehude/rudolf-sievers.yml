@@ -5,7 +5,7 @@ latitude: 53.465502300000004
 longitude: 9.7042175
 postcode: 21614
 city: Buxtehude
-street: Alter Postweg
+street: "Alter Postweg"
 housenumber: 2
 phone: "+49 4161 7466"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"

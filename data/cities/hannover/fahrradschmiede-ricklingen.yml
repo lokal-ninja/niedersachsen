@@ -5,7 +5,7 @@ latitude: 52.3476566
 longitude: 9.723515800000001
 postcode: 30459
 city: Hannover
-street: Ricklinger Stadtweg
+street: "Ricklinger Stadtweg"
 housenumber: 47
 phone: ""
 opening_hours: ""

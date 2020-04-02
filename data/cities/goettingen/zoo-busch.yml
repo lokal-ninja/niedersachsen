@@ -5,7 +5,7 @@ latitude: 51.532888500000006
 longitude: 9.9331609
 postcode: 37073
 city: Göttingen
-street: Johanniskirchhof
+street: "Johanniskirchhof"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"

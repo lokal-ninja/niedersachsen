@@ -5,7 +5,7 @@ latitude: 51.688129700000005
 longitude: 9.9821408
 postcode: 37154
 city: Northeim
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

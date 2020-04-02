@@ -5,7 +5,7 @@ latitude: 53.589334300000004
 longitude: 8.6179691
 postcode: 27578
 city: Bremerhaven
-street: Hans-Böckler-Straße
+street: "Hans-Böckler-Straße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

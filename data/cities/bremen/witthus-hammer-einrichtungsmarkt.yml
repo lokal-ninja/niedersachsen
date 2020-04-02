@@ -5,7 +5,7 @@ latitude: 53.1930349
 longitude: 8.5551457
 postcode: 28777
 city: Bremen
-street: Heidlerchenstraße
+street: "Heidlerchenstraße"
 housenumber: 3a
 phone: "+49 421 698980"
 opening_hours: ""

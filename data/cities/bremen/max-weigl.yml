@@ -5,7 +5,7 @@ latitude: 53.102572800000004
 longitude: 8.7943277
 postcode: 28219
 city: Bremen
-street: Holsteiner Straße
+street: "Holsteiner Straße"
 housenumber: 123
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00"

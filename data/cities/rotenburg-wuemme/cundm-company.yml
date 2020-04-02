@@ -5,7 +5,7 @@ latitude: 53.110565
 longitude: 9.4042055
 postcode: 27356
 city: Rotenburg (Wümme)
-street: Große Straße
+street: "Große Straße"
 housenumber: 45
 phone: "+49 4261 6305655"
 opening_hours: ""

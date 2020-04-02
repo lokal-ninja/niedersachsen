@@ -5,7 +5,7 @@ latitude: 52.2762613
 longitude: 8.039154700000001
 postcode: 49074
 city: Osnabrück
-street: Heger Straße
+street: "Heger Straße"
 housenumber: 2 / 3
 phone: "+49 541 20239420"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.801956000000004
 longitude: 9.694069200000001
 postcode: 37586
 city: Dassel
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

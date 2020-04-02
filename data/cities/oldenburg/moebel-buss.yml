@@ -5,7 +5,7 @@ latitude: 53.108163000000005
 longitude: 8.2766991
 postcode: 26135
 city: Oldenburg
-street: Bremer Heerstraße
+street: "Bremer Heerstraße"
 housenumber: 575
 phone: "+49 441 9990400"
 opening_hours: ""

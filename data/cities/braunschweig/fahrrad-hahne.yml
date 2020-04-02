@@ -5,7 +5,7 @@ latitude: 52.2660921
 longitude: 10.5197493
 postcode: 38100
 city: Braunschweig
-street: Meinhardshof
+street: "Meinhardshof"
 housenumber: 2
 phone: "+49 531 44339"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

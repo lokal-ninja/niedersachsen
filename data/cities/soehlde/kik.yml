@@ -5,7 +5,7 @@ latitude: 52.212284100000005
 longitude: 10.1923879
 postcode: 31185
 city: Söhlde
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 84
 phone: ""
 opening_hours: ""

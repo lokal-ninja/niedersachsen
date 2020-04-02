@@ -5,7 +5,7 @@ latitude: 51.9283737
 longitude: 9.9020998
 postcode: 31084
 city: Freden (Leine)
-street: Sonnenbergstraße
+street: "Sonnenbergstraße"
 housenumber: 5
 phone: "+49 5184 429"
 opening_hours: ""

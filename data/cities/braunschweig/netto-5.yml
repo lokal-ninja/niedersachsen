@@ -5,7 +5,7 @@ latitude: 52.240963300000004
 longitude: 10.5379486
 postcode: 38126
 city: Braunschweig
-street: Salzdahlumer Straße
+street: "Salzdahlumer Straße"
 housenumber: 74b
 phone: ""
 opening_hours: "Mo-Sa 00:00-00:00"

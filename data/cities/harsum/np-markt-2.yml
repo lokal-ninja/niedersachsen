@@ -5,7 +5,7 @@ latitude: 52.206769200000004
 longitude: 9.960763700000001
 postcode: 31177
 city: Harsum
-street: Mahnhof
+street: "Mahnhof"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

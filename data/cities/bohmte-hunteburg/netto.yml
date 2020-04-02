@@ -5,7 +5,7 @@ latitude: 52.4366217
 longitude: 8.270621
 postcode: 49163
 city: Bohmte-Hunteburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.3004989
 longitude: 9.534516100000001
 postcode: 27419
 city: Sittensen
-street: Zur Autobahn
+street: "Zur Autobahn"
 housenumber: 1
 phone: "+49 4282 93170"
 opening_hours: "24/7"

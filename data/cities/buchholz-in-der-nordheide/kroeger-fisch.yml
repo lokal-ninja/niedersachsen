@@ -5,7 +5,7 @@ latitude: 53.328400300000006
 longitude: 9.878032000000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 11a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.259312800000004
 longitude: 8.0827539
 postcode: 49084
 city: Osnabrück
-street: Großhandelsring
+street: "Großhandelsring"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.0821593
 longitude: 7.389982000000001
 postcode: 26871
 city: Papenburg
-street: Hauptkanal rechts
+street: "Hauptkanal rechts"
 housenumber: 
 phone: "+49 4961 669931"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"

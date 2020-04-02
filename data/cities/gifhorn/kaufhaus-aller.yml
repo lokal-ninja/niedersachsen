@@ -5,7 +5,7 @@ latitude: 52.488538500000004
 longitude: 10.544404700000001
 postcode: 38518
 city: Gifhorn
-street: Cardenap
+street: "Cardenap"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"

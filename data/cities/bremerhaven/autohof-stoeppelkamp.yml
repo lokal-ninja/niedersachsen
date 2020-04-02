@@ -5,7 +5,7 @@ latitude: 53.55088730000001
 longitude: 8.5953899
 postcode: 27570
 city: Bremerhaven
-street: Reitkamp
+street: "Reitkamp"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 07:30-17:30; Fr 07:30-17:00; Sa 08:00-13:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.3189354
 longitude: 9.432097500000001
 postcode: 30890
 city: Barsinghausen
-street: Heerstraße
+street: "Heerstraße"
 housenumber: 2
 phone: "+49 5105 4350"
 opening_hours: ""

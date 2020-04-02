@@ -5,7 +5,7 @@ latitude: 53.13657490000001
 longitude: 8.6151526
 postcode: 27809
 city: Lemwerder
-street: Werner-von-Siemens-Straße
+street: "Werner-von-Siemens-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-13:00"

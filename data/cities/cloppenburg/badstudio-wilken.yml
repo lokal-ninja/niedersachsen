@@ -5,7 +5,7 @@ latitude: 52.8433129
 longitude: 8.0386407
 postcode: 49661
 city: Cloppenburg
-street: Eschstraße
+street: "Eschstraße"
 housenumber: 38
 phone: "+49 4471 1879 924"
 opening_hours: ""

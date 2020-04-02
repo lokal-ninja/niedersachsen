@@ -5,7 +5,7 @@ latitude: 53.3681355
 longitude: 10.4850709
 postcode: 21380
 city: Artlenburg
-street: Große Straße
+street: "Große Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

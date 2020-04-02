@@ -5,7 +5,7 @@ latitude: 52.279846600000006
 longitude: 8.0411506
 postcode: 49074
 city: Osnabrück
-street: Klingensberg
+street: "Klingensberg"
 housenumber: 7
 phone: "+49 541 20079339"
 opening_hours: ""

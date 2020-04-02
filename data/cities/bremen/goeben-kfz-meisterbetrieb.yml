@@ -5,7 +5,7 @@ latitude: 53.093751100000006
 longitude: 8.7953644
 postcode: 28217
 city: Bremen
-street: Kohlenstraße
+street: "Kohlenstraße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00; Sa,Su,PH off"

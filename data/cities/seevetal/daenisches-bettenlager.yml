@@ -5,7 +5,7 @@ latitude: 53.419647600000005
 longitude: 10.020759
 postcode: 21217
 city: Seevetal
-street: Am Saal
+street: "Am Saal"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00; PH off"

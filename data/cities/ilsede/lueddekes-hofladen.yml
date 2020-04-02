@@ -5,7 +5,7 @@ latitude: 52.226172700000006
 longitude: 10.2384447
 postcode: 31246
 city: Ilsede
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 6
 phone: "+49 5174 460"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2503952
 longitude: 9.859951800000001
 postcode: 31157
 city: Sarstedt
-street: Wiedemannstraße
+street: "Wiedemannstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 11:00-20:00; Sa 09:00-16:00"

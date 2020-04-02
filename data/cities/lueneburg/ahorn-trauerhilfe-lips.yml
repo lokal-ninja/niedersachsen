@@ -5,7 +5,7 @@ latitude: 53.249101700000004
 longitude: 10.410131
 postcode: 21335
 city: Lüneburg
-street: Auf dem Wüstenort
+street: "Auf dem Wüstenort"
 housenumber: 2
 phone: ""
 opening_hours: ""

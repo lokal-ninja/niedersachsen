@@ -5,7 +5,7 @@ latitude: 53.601801
 longitude: 9.475643400000001
 postcode: 21682
 city: Stade
-street: Hökerstraße
+street: "Hökerstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 008:00-16:00; Su PH 10:00-17:00"

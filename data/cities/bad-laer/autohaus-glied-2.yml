@@ -5,7 +5,7 @@ latitude: 52.09478360000001
 longitude: 8.0847736
 postcode: 49196
 city: Bad Laer
-street: Warendorfer Straße
+street: "Warendorfer Straße"
 housenumber: 20
 phone: "+49 5424 396640"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"

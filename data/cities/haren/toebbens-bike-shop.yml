@@ -5,7 +5,7 @@ latitude: 52.7555813
 longitude: 7.2108353
 postcode: 49733
 city: Haren
-street: Czerlitzkastraße
+street: "Czerlitzkastraße"
 housenumber: 7
 phone: "+49 5932 5745"
 opening_hours: "Mo-Fr 14:30-18:30; Sa 09:00-16:00"

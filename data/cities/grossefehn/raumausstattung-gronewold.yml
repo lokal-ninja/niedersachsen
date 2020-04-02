@@ -5,7 +5,7 @@ latitude: 53.403654700000004
 longitude: 7.6039197000000005
 postcode: 26629
 city: Großefehn
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

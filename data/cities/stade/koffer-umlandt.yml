@@ -5,7 +5,7 @@ latitude: 53.5982161
 longitude: 9.4755103
 postcode: 21682
 city: Stade
-street: Holzstraße
+street: "Holzstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

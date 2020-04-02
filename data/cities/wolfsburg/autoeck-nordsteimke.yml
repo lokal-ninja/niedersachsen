@@ -5,7 +5,7 @@ latitude: 52.396404800000006
 longitude: 10.8383401
 postcode: 38446
 city: Wolfsburg
-street: Hehlinger Straße
+street: "Hehlinger Straße"
 housenumber: 48
 phone: ""
 opening_hours: ""

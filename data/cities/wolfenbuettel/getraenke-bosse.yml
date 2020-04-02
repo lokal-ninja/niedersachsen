@@ -5,7 +5,7 @@ latitude: 52.1696478
 longitude: 10.518621600000001
 postcode: 38304
 city: Wolfenbüttel
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

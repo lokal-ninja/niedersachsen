@@ -5,7 +5,7 @@ latitude: 53.2614797
 longitude: 7.938461500000001
 postcode: 26655
 city: Westerstede
-street: Eichendorffstraße
+street: "Eichendorffstraße"
 housenumber: 30
 phone: "+49 4488 2557"
 opening_hours: "Mo 10:00-17:00; We-Th 14:00-19:00; Fr 10:00-17:00; Sa 10:00-14:00"

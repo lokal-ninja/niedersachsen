@@ -5,7 +5,7 @@ latitude: 53.1593668
 longitude: 8.1701865
 postcode: 26129
 city: Oldenburg
-street: Posthalterweg
+street: "Posthalterweg"
 housenumber: 4
 phone: ""
 opening_hours: ""

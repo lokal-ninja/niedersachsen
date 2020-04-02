@@ -5,7 +5,7 @@ latitude: 52.385705200000004
 longitude: 9.7467973
 postcode: 30161
 city: Hannover
-street: Celler Straße
+street: "Celler Straße"
 housenumber: 85
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

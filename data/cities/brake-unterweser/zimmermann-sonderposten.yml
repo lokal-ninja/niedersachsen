@@ -5,7 +5,7 @@ latitude: 53.334959600000005
 longitude: 8.462791000000001
 postcode: 26919
 city: Brake (Unterweser)
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 80
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:30"

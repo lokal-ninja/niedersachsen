@@ -5,7 +5,7 @@ latitude: 52.3461304
 longitude: 9.716667900000001
 postcode: 30459
 city: Hannover
-street: Göttinger Chaussee
+street: "Göttinger Chaussee"
 housenumber: 80
 phone: ""
 opening_hours: "24/7"

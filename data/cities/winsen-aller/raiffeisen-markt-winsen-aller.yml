@@ -5,7 +5,7 @@ latitude: 52.6824218
 longitude: 9.907385000000001
 postcode: 29308
 city: Winsen (Aller)
-street: Am Junkernhof
+street: "Am Junkernhof"
 housenumber: 10
 phone: "+49 5143 666190"
 opening_hours: "Mo-Fr 08:30-18:30;Sa 08:30-14:00"

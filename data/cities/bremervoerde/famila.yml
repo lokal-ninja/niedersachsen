@@ -5,7 +5,7 @@ latitude: 53.484608400000006
 longitude: 9.1504513
 postcode: 27432
 city: Bremervörde
-street: Großer Platz
+street: "Großer Platz"
 housenumber: 5-7
 phone: ""
 opening_hours: ""

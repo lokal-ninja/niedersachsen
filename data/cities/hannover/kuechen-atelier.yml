@@ -5,7 +5,7 @@ latitude: 52.395756000000006
 longitude: 9.762872
 postcode: 30177
 city: Hannover
-street: Matthiasstraße
+street: "Matthiasstraße"
 housenumber: 1
 phone: "+49 511 3970926"
 opening_hours: ""

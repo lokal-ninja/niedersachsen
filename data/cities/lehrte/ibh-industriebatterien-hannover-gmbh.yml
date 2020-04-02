@@ -5,7 +5,7 @@ latitude: 52.3577318
 longitude: 9.9084047
 postcode: 31275
 city: Lehrte
-street: Im Kornfeld
+street: "Im Kornfeld"
 housenumber: 15
 phone: "+49 5132 506446 - 0"
 opening_hours: ""

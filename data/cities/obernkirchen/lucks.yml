@@ -5,7 +5,7 @@ latitude: 52.2724179
 longitude: 9.1311025
 postcode: 31683
 city: Obernkirchen
-street: Neumarktstraße
+street: "Neumarktstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

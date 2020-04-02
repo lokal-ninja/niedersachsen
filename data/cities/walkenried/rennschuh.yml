@@ -5,7 +5,7 @@ latitude: 51.585447300000006
 longitude: 10.6175558
 postcode: 37445
 city: Walkenried
-street: Harzstraße
+street: "Harzstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

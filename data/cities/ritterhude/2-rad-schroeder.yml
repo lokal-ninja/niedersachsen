@@ -5,7 +5,7 @@ latitude: 53.19429280000001
 longitude: 8.758443900000001
 postcode: 27721
 city: Ritterhude
-street: Rohwedderstraße
+street: "Rohwedderstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

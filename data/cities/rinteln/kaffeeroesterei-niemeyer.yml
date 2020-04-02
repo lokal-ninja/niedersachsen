@@ -5,7 +5,7 @@ latitude: 52.1874193
 longitude: 9.0823347
 postcode: 31737
 city: Rinteln
-street: Brennerstraße
+street: "Brennerstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.272005400000005
 longitude: 8.0494675
 postcode: 49074
 city: Osnabrück
-street: Johannisstraße
+street: "Johannisstraße"
 housenumber: 54
 phone: ""
 opening_hours: ""

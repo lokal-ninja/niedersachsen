@@ -5,7 +5,7 @@ latitude: 51.534444400000005
 longitude: 9.9067928
 postcode: 37081
 city: Göttingen
-street: Salinenweg
+street: "Salinenweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Mo-Sa 07:00-08:00,20:00-21:00 Bezahlung über EDEKA-Kassen; PH off"

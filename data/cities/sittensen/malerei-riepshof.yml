@@ -5,7 +5,7 @@ latitude: 53.285057800000004
 longitude: 9.5066634
 postcode: 27419
 city: Sittensen
-street: Stader Straße
+street: "Stader Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

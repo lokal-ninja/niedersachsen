@@ -5,7 +5,7 @@ latitude: 52.1881202
 longitude: 9.080231900000001
 postcode: 31737
 city: Rinteln
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.103287300000005
 longitude: 9.355499
 postcode: 31785
 city: Hameln
-street: Wendenstraße
+street: "Wendenstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

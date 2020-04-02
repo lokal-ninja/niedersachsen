@@ -5,7 +5,7 @@ latitude: 52.985310500000004
 longitude: 9.033228000000001
 postcode: 27321
 city: Thedinghausen
-street: Eißeler Finkenburg
+street: "Eißeler Finkenburg"
 housenumber: 1
 phone: "+49 4204 1497"
 opening_hours: ""

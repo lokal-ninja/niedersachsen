@@ -5,7 +5,7 @@ latitude: 52.302338500000005
 longitude: 9.462188600000001
 postcode: 30890
 city: Barsinghausen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 22
 phone: "+49 5105 522689"
 opening_hours: ""

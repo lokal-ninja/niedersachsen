@@ -5,7 +5,7 @@ latitude: 53.23884090000001
 longitude: 10.435088100000002
 postcode: 21337
 city: Lüneburg
-street: St.-Stephanus-Platz
+street: "St.-Stephanus-Platz"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

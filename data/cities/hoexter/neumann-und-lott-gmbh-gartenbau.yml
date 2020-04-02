@@ -5,7 +5,7 @@ latitude: 51.764063500000006
 longitude: 9.387361400000001
 postcode: 37671
 city: Höxter
-street: Boffzener Straße
+street: "Boffzener Straße"
 housenumber: 81
 phone: "+49 5271 9567 0"
 opening_hours: ""

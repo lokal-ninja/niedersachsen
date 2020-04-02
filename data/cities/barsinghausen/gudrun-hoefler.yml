@@ -5,7 +5,7 @@ latitude: 52.303600200000005
 longitude: 9.4646863
 postcode: 30890
 city: Barsinghausen
-street: Schmiedekampstraße
+street: "Schmiedekampstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

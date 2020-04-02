@@ -5,7 +5,7 @@ latitude: 53.519209800000006
 longitude: 8.1167979
 postcode: 26382
 city: Wilhelmshaven
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"

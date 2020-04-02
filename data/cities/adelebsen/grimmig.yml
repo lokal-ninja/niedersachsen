@@ -5,7 +5,7 @@ latitude: 51.549792800000006
 longitude: 9.777636900000001
 postcode: 
 city: Adelebsen
-street: Ossenfelder Weg
+street: "Ossenfelder Weg"
 housenumber: 1a
 phone: ""
 opening_hours: ""

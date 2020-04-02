@@ -5,7 +5,7 @@ latitude: 51.485947700000004
 longitude: 9.9799146
 postcode: 37130
 city: Gleichen
-street: Schwarze Gasse
+street: "Schwarze Gasse"
 housenumber: 6
 phone: "+49 551 794579"
 opening_hours: "Mo-Sa 09:00-18:00"

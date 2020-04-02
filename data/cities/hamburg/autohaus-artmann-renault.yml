@@ -5,7 +5,7 @@ latitude: 53.425295500000004
 longitude: 9.9902116
 postcode: 21079
 city: Hamburg
-street: Meckelfelder Weg
+street: "Meckelfelder Weg"
 housenumber: 47
 phone: ""
 opening_hours: ""

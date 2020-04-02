@@ -5,7 +5,7 @@ latitude: 52.388911400000005
 longitude: 9.8121712
 postcode: 30627
 city: Hannover
-street: Roderbruchmarkt
+street: "Roderbruchmarkt"
 housenumber: 8
 phone: ""
 opening_hours: "Tu, Th, Fr 14:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.330843900000005
 longitude: 10.2357299
 postcode: 31224
 city: Peine
-street: Schwarzer Weg
+street: "Schwarzer Weg"
 housenumber: 78
 phone: "+49 5171 52259"
 opening_hours: ""

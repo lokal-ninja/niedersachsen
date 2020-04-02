@@ -5,7 +5,7 @@ latitude: 52.5224716
 longitude: 8.1939303
 postcode: 49401
 city: Damme
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 19
 phone: "+49 5491 2988"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

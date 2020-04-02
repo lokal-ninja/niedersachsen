@@ -5,7 +5,7 @@ latitude: 53.285106000000006
 longitude: 9.5355374
 postcode: 27419
 city: Tiste
-street: Alte Dorfstraße
+street: "Alte Dorfstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

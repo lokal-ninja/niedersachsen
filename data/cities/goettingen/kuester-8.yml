@@ -5,7 +5,7 @@ latitude: 51.534348800000004
 longitude: 9.936468300000001
 postcode: 
 city: Göttingen
-street: Jüdenstraße
+street: "Jüdenstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 06:30-17:45; Sa 07:00-13:00; PH off"

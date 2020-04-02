@@ -5,7 +5,7 @@ latitude: 53.425026100000004
 longitude: 9.788684100000001
 postcode: 21629
 city: Neu Wulmstorf
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 2e
 phone: ""
 opening_hours: ""

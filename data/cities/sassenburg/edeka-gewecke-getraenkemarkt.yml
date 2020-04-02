@@ -5,7 +5,7 @@ latitude: 52.5093113
 longitude: 10.6283557
 postcode: 38524
 city: Sassenburg
-street: Dannenbütteler Weg
+street: "Dannenbütteler Weg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

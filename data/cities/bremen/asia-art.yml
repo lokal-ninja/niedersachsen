@@ -5,7 +5,7 @@ latitude: 53.049545300000005
 longitude: 8.8576485
 postcode: 28279
 city: Bremen
-street: Habenhauser Dorfstraße
+street: "Habenhauser Dorfstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

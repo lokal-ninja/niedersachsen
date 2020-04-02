@@ -5,7 +5,7 @@ latitude: 51.5306751
 longitude: 9.9533625
 postcode: 
 city: Göttingen
-street: Merkelstraße
+street: "Merkelstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

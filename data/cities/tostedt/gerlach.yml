@@ -5,7 +5,7 @@ latitude: 53.281916
 longitude: 9.7085489
 postcode: 21255
 city: Tostedt
-street: Himmelsweg
+street: "Himmelsweg"
 housenumber: 9
 phone: "+49 4182 1261"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"

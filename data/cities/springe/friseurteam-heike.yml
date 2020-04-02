@@ -5,7 +5,7 @@ latitude: 52.208368500000006
 longitude: 9.553956900000001
 postcode: 31832
 city: Springe
-street: Am Markt
+street: "Am Markt"
 housenumber: 15
 phone: ""
 opening_hours: ""

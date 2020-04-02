@@ -5,7 +5,7 @@ latitude: 51.907027500000005
 longitude: 10.4284193
 postcode: 38640
 city: Goslar
-street: Fischemäkerstraße
+street: "Fischemäkerstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

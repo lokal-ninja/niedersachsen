@@ -5,7 +5,7 @@ latitude: 53.3101112
 longitude: 9.8089762
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Niedersachsenstraße
+street: "Niedersachsenstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

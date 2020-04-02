@@ -5,7 +5,7 @@ latitude: 53.24959500000001
 longitude: 10.407250000000001
 postcode: 21335
 city: Lüneburg
-street: An der Münze
+street: "An der Münze"
 housenumber: 12
 phone: ""
 opening_hours: ""

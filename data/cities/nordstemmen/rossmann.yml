@@ -5,7 +5,7 @@ latitude: 52.1544475
 longitude: 9.788951200000001
 postcode: 31171
 city: Nordstemmen
-street: Lange Maße
+street: "Lange Maße"
 housenumber: 1
 phone: "+49 5069 8040194"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"

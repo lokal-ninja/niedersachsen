@@ -5,7 +5,7 @@ latitude: 52.399072600000004
 longitude: 9.266181900000001
 postcode: 31553
 city: Sachsenhagen
-street: Bergtrift
+street: "Bergtrift"
 housenumber: 6
 phone: ""
 opening_hours: ""

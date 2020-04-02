@@ -5,7 +5,7 @@ latitude: 51.989561300000005
 longitude: 10.2739619
 postcode: 38729
 city: Lutter am Barenberge
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

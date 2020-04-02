@@ -5,7 +5,7 @@ latitude: 53.368379600000004
 longitude: 7.1343147
 postcode: 26723
 city: Emden
-street: Twixlumer Straße
+street: "Twixlumer Straße"
 housenumber: 70
 phone: "+49 4921 65277"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.354727100000005
 longitude: 9.8697389
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Bäckerstraße
+street: "Bäckerstraße"
 housenumber: 12
 phone: "+49 4181 4211"
 opening_hours: ""

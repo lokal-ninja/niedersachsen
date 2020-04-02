@@ -5,7 +5,7 @@ latitude: 52.847725100000005
 longitude: 7.932618400000001
 postcode: 49696
 city: Molbergen
-street: Ermker Weg
+street: "Ermker Weg"
 housenumber: 15
 phone: "+49 4475 91872-60"
 opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 52.4835475
 longitude: 9.4540035
 postcode: 31535
 city: Neustadt am Rübenberge
-street: Moordorfer Straße
+street: "Moordorfer Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Tu-Fr 10:00-21:00; Sa 09:00-19:00"

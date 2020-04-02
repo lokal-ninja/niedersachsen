@@ -5,7 +5,7 @@ latitude: 52.5608276
 longitude: 10.670486200000001
 postcode: 38524
 city: Sassenburg
-street: Bernsteinallee
+street: "Bernsteinallee"
 housenumber: 5-7
 phone: ""
 opening_hours: "Mo-Su 08:00-20:00"

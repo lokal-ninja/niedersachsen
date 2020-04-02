@@ -5,7 +5,7 @@ latitude: 52.944205000000004
 longitude: 8.2516669
 postcode: 26197
 city: Großenkneten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.049719100000004
 longitude: 8.8921679
 postcode: 28309
 city: Bremen
-street: Schlengstraße
+street: "Schlengstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 52.848606800000006
 longitude: 8.036250500000001
 postcode: 49661
 city: Cloppenburg
-street: Soestenstraße
+street: "Soestenstraße"
 housenumber: 41-43
 phone: "+49 4471 8509830"
 opening_hours: "Mo-Sa 07:00-20:00"

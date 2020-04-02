@@ -5,7 +5,7 @@ latitude: 52.081744900000004
 longitude: 7.999301000000001
 postcode: 49219
 city: Glandorf
-street: Münsterstraße
+street: "Münsterstraße"
 housenumber: 14
 phone: "+49 5426 2271"
 opening_hours: "Mo-Sa 07:00-21:00;Su 09:30-12:00"

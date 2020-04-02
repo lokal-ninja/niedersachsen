@@ -5,7 +5,7 @@ latitude: 53.05963070000001
 longitude: 8.8932686
 postcode: 28309
 city: Bremen
-street: Sebaldsbrücker Heerstraße
+street: "Sebaldsbrücker Heerstraße"
 housenumber: 155
 phone: "+49 421 48997580"
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

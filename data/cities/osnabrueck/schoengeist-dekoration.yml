@@ -5,7 +5,7 @@ latitude: 52.2650036
 longitude: 8.050748
 postcode: 49080
 city: Osnabrück
-street: Sutthauser Straße
+street: "Sutthauser Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-We 10:00-16:00; Th-Fr 14:00-18:00;"

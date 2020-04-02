@@ -5,7 +5,7 @@ latitude: 53.26766730000001
 longitude: 7.3846837
 postcode: 26844
 city: Jemgum
-street: Ziegeleistraße
+street: "Ziegeleistraße"
 housenumber: 2
 phone: "+49 4958 353"
 opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00; Su off; PH off"

@@ -5,7 +5,7 @@ latitude: 53.0285153
 longitude: 9.846882200000001
 postcode: 29614
 city: Soltau
-street: Hubenkamp
+street: "Hubenkamp"
 housenumber: 1
 phone: "+49 5191 9739800"
 opening_hours: ""

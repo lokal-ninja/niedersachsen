@@ -5,7 +5,7 @@ latitude: 52.262885600000004
 longitude: 10.525019
 postcode: 38100
 city: Braunschweig
-street: Schloßpassage
+street: "Schloßpassage"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"

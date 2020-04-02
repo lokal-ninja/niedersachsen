@@ -5,7 +5,7 @@ latitude: 52.356355
 longitude: 9.672723900000001
 postcode: 30455
 city: Hannover
-street: Grünaustraße
+street: "Grünaustraße"
 housenumber: 5A
 phone: "+49 511 260 80 36"
 opening_hours: ""

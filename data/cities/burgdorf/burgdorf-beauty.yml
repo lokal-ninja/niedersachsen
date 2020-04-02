@@ -5,7 +5,7 @@ latitude: 52.4453533
 longitude: 10.0088354
 postcode: 31303
 city: Burgdorf
-street: Braunschweiger Straße
+street: "Braunschweiger Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

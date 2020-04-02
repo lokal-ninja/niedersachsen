@@ -5,7 +5,7 @@ latitude: 52.8643432
 longitude: 9.615407000000001
 postcode: 29664
 city: Walsrode
-street: Heinrich-Hertz-Straße
+street: "Heinrich-Hertz-Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

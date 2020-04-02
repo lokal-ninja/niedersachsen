@@ -5,7 +5,7 @@ latitude: 52.2360824
 longitude: 10.407551900000001
 postcode: 38159
 city: Vechelde
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

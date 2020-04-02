@@ -5,7 +5,7 @@ latitude: 53.139597300000005
 longitude: 8.212086900000001
 postcode: 26122
 city: Oldenburg
-street: Gaststraße
+street: "Gaststraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

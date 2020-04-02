@@ -5,7 +5,7 @@ latitude: 52.6038937
 longitude: 10.9247291
 postcode: 38465
 city: Brome
-street: Wittinger Straße
+street: "Wittinger Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Tu-Th 08:00-11:00"

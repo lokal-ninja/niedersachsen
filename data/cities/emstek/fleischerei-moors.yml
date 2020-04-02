@@ -5,7 +5,7 @@ latitude: 52.8338745
 longitude: 8.1560153
 postcode: 49685
 city: Emstek
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

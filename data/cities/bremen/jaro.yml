@@ -5,7 +5,7 @@ latitude: 53.0577319
 longitude: 8.758447700000001
 postcode: 28259
 city: Bremen
-street: Norderländer Straße
+street: "Norderländer Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

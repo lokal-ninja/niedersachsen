@@ -5,7 +5,7 @@ latitude: 52.2135412
 longitude: 10.5228789
 postcode: 38124
 city: Braunschweig
-street: Annette-Kolb-Straße
+street: "Annette-Kolb-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Th 15:00-19:00; Fr 13:00-19:00; Sa 10:00-16:00"

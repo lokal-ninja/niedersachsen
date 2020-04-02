@@ -5,7 +5,7 @@ latitude: 52.421737900000004
 longitude: 8.7244031
 postcode: 31603
 city: Diepenau
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 21
 phone: "+49 5775 332"
 opening_hours: ""

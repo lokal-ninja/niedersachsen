@@ -5,7 +5,7 @@ latitude: 53.22742950000001
 longitude: 7.4569768000000005
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Am alten Handelshafen
+street: "Am alten Handelshafen"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su off; PH off"

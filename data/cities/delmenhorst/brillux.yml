@@ -5,7 +5,7 @@ latitude: 53.034170800000005
 longitude: 8.6648785
 postcode: 27751
 city: Delmenhorst
-street: Annenheider Allee
+street: "Annenheider Allee"
 housenumber: 102b
 phone: ""
 opening_hours: "Apr-Oct Mo-Th 06:30-16:30;Apr-Oct Fr 06:30-15:00; Nov-Mar Mo-Th 07:00-16:30; Nov-Mar Fr 07:00-15:00; PH off"

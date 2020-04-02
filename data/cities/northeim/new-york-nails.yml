@@ -5,7 +5,7 @@ latitude: 51.7059797
 longitude: 9.9992076
 postcode: 
 city: Northeim
-street: Alte Poststraße
+street: "Alte Poststraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.992894400000004
 longitude: 8.762203600000001
 postcode: 28816
 city: Stuhr
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 30
 phone: "+49 421 890435"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-12:30"

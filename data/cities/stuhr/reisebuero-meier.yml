@@ -5,7 +5,7 @@ latitude: 53.0118914
 longitude: 8.7886834
 postcode: 28816
 city: Stuhr
-street: Bassumer Straße
+street: "Bassumer Straße"
 housenumber: 6
 phone: "+49-421-895608"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"

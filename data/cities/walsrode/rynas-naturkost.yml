@@ -5,7 +5,7 @@ latitude: 52.86332530000001
 longitude: 9.587248
 postcode: 29664
 city: Walsrode
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 3
 phone: "+49 5161 910808"
 opening_hours: "Mo-Th 09:00-18:00; Fr 08:30-18:00; Sa 08:30-13:00"

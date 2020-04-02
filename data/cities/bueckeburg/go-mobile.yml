@@ -5,7 +5,7 @@ latitude: 52.2612455
 longitude: 9.0524374
 postcode: 31675
 city: Bückeburg
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 79
 phone: ""
 opening_hours: ""

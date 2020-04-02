@@ -5,7 +5,7 @@ latitude: 52.630394300000006
 longitude: 7.0562578
 postcode: 49767
 city: Twist
-street: Koppelweg
+street: "Koppelweg"
 housenumber: 
 phone: ""
 opening_hours: ""

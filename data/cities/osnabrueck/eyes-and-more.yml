@@ -5,7 +5,7 @@ latitude: 52.2760139
 longitude: 8.043411200000001
 postcode: 49074
 city: Osnabrück
-street: Krahnstraße
+street: "Krahnstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

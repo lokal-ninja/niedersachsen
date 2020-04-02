@@ -5,7 +5,7 @@ latitude: 53.556065200000006
 longitude: 8.589639700000001
 postcode: 27576
 city: Bremerhaven
-street: Melchior-Schwoon-Straße
+street: "Melchior-Schwoon-Straße"
 housenumber: 3
 phone: "+49 471 9412980; +49 471 94129811"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.671112
 longitude: 7.301028400000001
 postcode: 49716
 city: Meppen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2-4
 phone: ""
 opening_hours: ""

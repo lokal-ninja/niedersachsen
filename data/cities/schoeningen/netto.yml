@@ -5,7 +5,7 @@ latitude: 52.1318872
 longitude: 10.966830600000002
 postcode: 38364
 city: Schöningen
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 52.2083
 longitude: 10.323000400000002
 postcode: 38268
 city: Lengede
-street: Vallstedter Weg
+street: "Vallstedter Weg"
 housenumber: 95 a
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 52.9676228
 longitude: 11.1557969
 postcode: 29439
 city: Lüchow
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 20
 phone: "+49 5841 5758"
 opening_hours: ""

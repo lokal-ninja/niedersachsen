@@ -5,7 +5,7 @@ latitude: 51.9606684
 longitude: 10.0118714
 postcode: 31195
 city: Lamspringe
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

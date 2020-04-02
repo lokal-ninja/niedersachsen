@@ -5,7 +5,7 @@ latitude: 52.374264600000004
 longitude: 9.7055187
 postcode: 30451
 city: Hannover
-street: Pfarrlandstraße
+street: "Pfarrlandstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

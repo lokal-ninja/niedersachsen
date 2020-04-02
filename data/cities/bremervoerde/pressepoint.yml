@@ -5,7 +5,7 @@ latitude: 53.4880847
 longitude: 9.1432348
 postcode: 27432
 city: Bremervörde
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

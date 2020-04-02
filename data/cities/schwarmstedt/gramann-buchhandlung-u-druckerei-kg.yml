@@ -5,7 +5,7 @@ latitude: 52.6767782
 longitude: 9.619833700000001
 postcode: 29690
 city: Schwarmstedt
-street: Moorstraße
+street: "Moorstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

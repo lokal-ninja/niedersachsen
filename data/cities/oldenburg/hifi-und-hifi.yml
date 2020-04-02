@@ -5,7 +5,7 @@ latitude: 53.1799577
 longitude: 8.231367800000001
 postcode: 26125
 city: Oldenburg
-street: Haseler Weg
+street: "Haseler Weg"
 housenumber: 2
 phone: ""
 opening_hours: ""

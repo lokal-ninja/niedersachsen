@@ -5,7 +5,7 @@ latitude: 52.3795628
 longitude: 9.976286400000001
 postcode: 31275
 city: Lehrte
-street: Burgdorfer Straße
+street: "Burgdorfer Straße"
 housenumber: 32
 phone: ""
 opening_hours: ""

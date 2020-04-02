@@ -5,7 +5,7 @@ latitude: 52.989421500000006
 longitude: 10.105931400000001
 postcode: 29633
 city: Munster
-street: Söhlstraße
+street: "Söhlstraße"
 housenumber: 23
 phone: "+49 5192 2458"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

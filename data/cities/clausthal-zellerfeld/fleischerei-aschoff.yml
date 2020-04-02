@@ -5,7 +5,7 @@ latitude: 51.8173108
 longitude: 10.336701300000001
 postcode: 38678
 city: Clausthal-Zellerfeld
-street: Goslarsche Straße
+street: "Goslarsche Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo,Sa 07:30-12:30; Tu-Fr 07:30-12:30,14:30-18:00"

@@ -5,7 +5,7 @@ latitude: 52.233986800000004
 longitude: 9.8520055
 postcode: 31157
 city: Sarstedt
-street: Steinstraße
+street: "Steinstraße"
 housenumber: 12
 phone: "+49 05066 62660"
 opening_hours: "Mo-Fr 09:30-13:00,14:00-18:00; Sa 10:00-13:00"

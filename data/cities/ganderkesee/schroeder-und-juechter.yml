@@ -5,7 +5,7 @@ latitude: 53.0192369
 longitude: 8.574221300000001
 postcode: 27777
 city: Ganderkesee
-street: Auf dem Berge
+street: "Auf dem Berge"
 housenumber: 72
 phone: "+49 4222 2688"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.4255755
 longitude: 10.791490600000001
 postcode: 38440
 city: Wolfsburg
-street: Alessandro-Volta-Straße
+street: "Alessandro-Volta-Straße"
 housenumber: 20
 phone: "+49 5361 29560"
 opening_hours: ""

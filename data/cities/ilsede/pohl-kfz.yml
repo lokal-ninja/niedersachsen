@@ -5,7 +5,7 @@ latitude: 52.286478
 longitude: 10.226766300000001
 postcode: 31241
 city: Ilsede
-street: Wehrstraße
+street: "Wehrstraße"
 housenumber: 5
 phone: "+49 5171 51515"
 opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:30"

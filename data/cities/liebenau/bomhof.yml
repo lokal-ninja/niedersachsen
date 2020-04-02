@@ -5,7 +5,7 @@ latitude: 52.604518500000005
 longitude: 9.093786
 postcode: 31618
 city: Liebenau
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

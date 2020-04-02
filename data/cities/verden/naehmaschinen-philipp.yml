@@ -5,7 +5,7 @@ latitude: 52.9207429
 longitude: 9.2289528
 postcode: 27283
 city: Verden
-street: Große Straße
+street: "Große Straße"
 housenumber: 68
 phone: "+49 4231 3531"
 opening_hours: "Mo-Fr 9:30-18:00; Sa 9:30-14:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.466293300000004
 longitude: 10.198753700000001
 postcode: 31311
 city: Uetze
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

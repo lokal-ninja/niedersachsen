@@ -5,7 +5,7 @@ latitude: 53.369875500000006
 longitude: 7.192651100000001
 postcode: 26723
 city: Emden
-street: Normannenstraße
+street: "Normannenstraße"
 housenumber: 10
 phone: "+49 4921 916131"
 opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-14:00"

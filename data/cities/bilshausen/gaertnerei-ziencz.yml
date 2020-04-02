@@ -5,7 +5,7 @@ latitude: 51.628696600000005
 longitude: 10.152307500000001
 postcode: 37434
 city: Bilshausen
-street: Hoher Weg
+street: "Hoher Weg"
 housenumber: 19
 phone: "+49 5528 8855"
 opening_hours: ""

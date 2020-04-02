@@ -5,7 +5,7 @@ latitude: 52.388307100000006
 longitude: 10.2611402
 postcode: 31234
 city: Edemissen
-street: Eltzer Drift
+street: "Eltzer Drift"
 housenumber: 6
 phone: ""
 opening_hours: "Tu-Th 08:00-13:30,15:00-18:00; Fr 08:00-18:00; Sa 07:00-12:00"

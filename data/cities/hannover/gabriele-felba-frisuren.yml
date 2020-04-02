@@ -5,7 +5,7 @@ latitude: 52.375167100000006
 longitude: 9.7010707
 postcode: 30451
 city: Hannover
-street: Limmerstraße
+street: "Limmerstraße"
 housenumber: 99
 phone: "+49 511 -2106983"
 opening_hours: ""

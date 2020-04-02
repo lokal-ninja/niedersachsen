@@ -5,7 +5,7 @@ latitude: 53.11453830000001
 longitude: 9.7920101
 postcode: 29640
 city: Schneverdingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

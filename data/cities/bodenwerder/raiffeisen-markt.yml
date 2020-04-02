@@ -5,7 +5,7 @@ latitude: 51.9812188
 longitude: 9.5042013
 postcode: 37619
 city: Bodenwerder
-street: Ernst-Reuter-Straße
+street: "Ernst-Reuter-Straße"
 housenumber: 4
 phone: "+49 5533 409573 0"
 opening_hours: ""

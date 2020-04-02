@@ -5,7 +5,7 @@ latitude: 52.6174417
 longitude: 10.0732272
 postcode: 29221
 city: Celle
-street: Jägerstraße
+street: "Jägerstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:30"

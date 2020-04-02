@@ -5,7 +5,7 @@ latitude: 52.2541001
 longitude: 10.5311468
 postcode: 38102
 city: Braunschweig
-street: Leisewitzstraße
+street: "Leisewitzstraße"
 housenumber: 8
 phone: "+49 531 70189970"
 opening_hours: ""

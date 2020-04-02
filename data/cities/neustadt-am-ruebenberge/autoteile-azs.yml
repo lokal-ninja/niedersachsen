@@ -5,7 +5,7 @@ latitude: 52.493461
 longitude: 9.456325900000001
 postcode: 31535
 city: Neustadt am Rübenberge
-street: Wunstorfer Straße
+street: "Wunstorfer Straße"
 housenumber: 92
 phone: "+49 5032 6 60 55"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

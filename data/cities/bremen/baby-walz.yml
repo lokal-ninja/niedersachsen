@@ -5,7 +5,7 @@ latitude: 53.0468641
 longitude: 8.7443605
 postcode: 28259
 city: Bremen
-street: Alter Dorfweg
+street: "Alter Dorfweg"
 housenumber: 30-50
 phone: "+49 421 8410810"
 opening_hours: "Mo-Sa 10:00-20:00; PH off"

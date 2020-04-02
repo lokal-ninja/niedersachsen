@@ -5,7 +5,7 @@ latitude: 53.713621100000005
 longitude: 9.377284600000001
 postcode: 21706
 city: Drochtersen
-street: Sietwender Straße
+street: "Sietwender Straße"
 housenumber: 64
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.17450770000001
 longitude: 8.718080200000001
 postcode: 28719
 city: Bremen
-street: Stockholmer Straße
+street: "Stockholmer Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

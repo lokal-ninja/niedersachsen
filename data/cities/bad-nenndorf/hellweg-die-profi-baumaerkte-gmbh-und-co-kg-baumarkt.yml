@@ -5,7 +5,7 @@ latitude: 52.334963
 longitude: 9.4018005
 postcode: 31542
 city: Bad Nenndorf
-street: Bückethaler Straße
+street: "Bückethaler Straße"
 housenumber: 2
 phone: "+49 5723 798090"
 opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.3012797
 longitude: 7.1563995
 postcode: 48455
 city: Bad Bentheim
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

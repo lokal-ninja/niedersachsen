@@ -5,7 +5,7 @@ latitude: 52.3377179
 longitude: 9.834281500000001
 postcode: 30539
 city: Hannover
-street: Wülferoder Straße
+street: "Wülferoder Straße"
 housenumber: 40
 phone: "+49 511 510 97 99"
 opening_hours: ""

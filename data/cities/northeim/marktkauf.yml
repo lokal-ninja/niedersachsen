@@ -5,7 +5,7 @@ latitude: 51.690711900000004
 longitude: 9.9835224
 postcode: 37154
 city: Northeim
-street: Hillerser Straße
+street: "Hillerser Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; PH off"

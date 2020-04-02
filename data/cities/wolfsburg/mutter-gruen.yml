@@ -5,7 +5,7 @@ latitude: 52.4407452
 longitude: 10.8353707
 postcode: 38448
 city: Wolfsburg
-street: Amtsstraße
+street: "Amtsstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

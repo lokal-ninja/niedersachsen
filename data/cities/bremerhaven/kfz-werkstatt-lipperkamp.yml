@@ -5,7 +5,7 @@ latitude: 53.576894200000005
 longitude: 8.598748
 postcode: 27580
 city: Bremerhaven
-street: Lipperkamp
+street: "Lipperkamp"
 housenumber: 29
 phone: "+49471 85051"
 opening_hours: ""

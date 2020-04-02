@@ -5,7 +5,7 @@ latitude: 52.890711100000004
 longitude: 10.654608900000001
 postcode: 29559
 city: Wrestedt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 21
 phone: "+49 5825 407"
 opening_hours: ""

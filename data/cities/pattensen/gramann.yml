@@ -5,7 +5,7 @@ latitude: 52.263305800000005
 longitude: 9.7613398
 postcode: 30982
 city: Pattensen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

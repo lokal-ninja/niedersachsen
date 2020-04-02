@@ -5,7 +5,7 @@ latitude: 52.3890874
 longitude: 9.7511235
 postcode: 30163
 city: Hannover
-street: Podbielskistraße
+street: "Podbielskistraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

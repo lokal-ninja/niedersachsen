@@ -5,7 +5,7 @@ latitude: 52.317880900000006
 longitude: 7.225270500000001
 postcode: 48465
 city: Schüttorf
-street: Ohner Straße
+street: "Ohner Straße"
 housenumber: 14
 phone: "+49 5923 5087"
 opening_hours: ""

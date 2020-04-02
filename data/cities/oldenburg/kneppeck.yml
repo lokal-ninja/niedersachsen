@@ -5,7 +5,7 @@ latitude: 53.1397935
 longitude: 8.2110728
 postcode: 26122
 city: Oldenburg
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

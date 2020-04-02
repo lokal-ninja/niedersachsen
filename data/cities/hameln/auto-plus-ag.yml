@@ -5,7 +5,7 @@ latitude: 52.1027331
 longitude: 9.384273400000001
 postcode: 31785
 city: Hameln
-street: Hastenbecker Weg
+street: "Hastenbecker Weg"
 housenumber: 31a
 phone: "+49 5151 8208111"
 opening_hours: "Mo-Fr 07:30-18:30; Sa 08:30-14:00"

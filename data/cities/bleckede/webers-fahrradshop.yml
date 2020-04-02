@@ -5,7 +5,7 @@ latitude: 53.291681000000004
 longitude: 10.7321858
 postcode: 21354
 city: Bleckede
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 6
 phone: "+49 5852 9587964"
 opening_hours: ""

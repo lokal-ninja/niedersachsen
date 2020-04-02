@@ -5,7 +5,7 @@ latitude: 51.906018800000005
 longitude: 10.5176405
 postcode: 38667
 city: Bad Harzburg
-street: Landstraße
+street: "Landstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

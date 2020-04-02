@@ -5,7 +5,7 @@ latitude: 52.346983800000004
 longitude: 9.7225683
 postcode: 30459
 city: Hannover
-street: Pfarrstraße
+street: "Pfarrstraße"
 housenumber: 41
 phone: "+49 511 9436815"
 opening_hours: "Mo-Fr 07:00-21:00"

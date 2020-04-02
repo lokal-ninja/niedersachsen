@@ -5,7 +5,7 @@ latitude: 53.1487604
 longitude: 11.038509900000001
 postcode: 29456
 city: Hitzacker
-street: Lüneburger Straße
+street: "Lüneburger Straße"
 housenumber: 32
 phone: ""
 opening_hours: ""

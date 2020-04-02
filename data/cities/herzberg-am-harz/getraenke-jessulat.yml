@@ -5,7 +5,7 @@ latitude: 51.641252800000004
 longitude: 10.3198448
 postcode: 37412
 city: Herzberg am Harz
-street: Boschstraße
+street: "Boschstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

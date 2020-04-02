@@ -5,7 +5,7 @@ latitude: 53.098263700000004
 longitude: 8.8391628
 postcode: 28213
 city: Bremen
-street: Crüsemannallee
+street: "Crüsemannallee"
 housenumber: 82
 phone: "+49 421 2467737"
 opening_hours: "Mo-Fr 08:30-18:30, Sa09:30-13:00"

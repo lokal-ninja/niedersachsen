@@ -5,7 +5,7 @@ latitude: 52.443316800000005
 longitude: 9.6920207
 postcode: 30855
 city: Langenhagen
-street: Bayernstraße
+street: "Bayernstraße"
 housenumber: 35
 phone: "+49 511 54555710"
 opening_hours: ""

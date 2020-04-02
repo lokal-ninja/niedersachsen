@@ -5,7 +5,7 @@ latitude: 53.326708700000005
 longitude: 9.8786752
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Poststraße
+street: "Poststraße"
 housenumber: 5
 phone: "+49 4181 212623"
 opening_hours: "Mo-Sa 09:00-19:00"

@@ -5,7 +5,7 @@ latitude: 53.484868000000006
 longitude: 8.436958200000001
 postcode: 26954
 city: Nordenham
-street: Butjadinger Straße
+street: "Butjadinger Straße"
 housenumber: 86
 phone: "+49 4731 21202"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-12:00"

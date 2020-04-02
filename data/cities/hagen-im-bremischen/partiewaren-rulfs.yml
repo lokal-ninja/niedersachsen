@@ -5,7 +5,7 @@ latitude: 53.3556341
 longitude: 8.641841300000001
 postcode: 27628
 city: Hagen im Bremischen
-street: Amtsdamm
+street: "Amtsdamm"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"

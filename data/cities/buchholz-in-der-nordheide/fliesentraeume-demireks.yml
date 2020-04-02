@@ -5,7 +5,7 @@ latitude: 53.363865000000004
 longitude: 9.8715036
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Harburger Straße
+street: "Harburger Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.172628200000005
 longitude: 8.6191662
 postcode: 28757
 city: Bremen
-street: Gerhard-Rohlfs-Straße
+street: "Gerhard-Rohlfs-Straße"
 housenumber: 17-18
 phone: ""
 opening_hours: "Mo.-Fr. 09:00-19:00, Sa. 09:00-18:00"

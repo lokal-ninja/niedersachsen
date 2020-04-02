@@ -5,7 +5,7 @@ latitude: 52.384085500000005
 longitude: 9.745844
 postcode: 30161
 city: Hannover
-street: Gretchenstraße
+street: "Gretchenstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

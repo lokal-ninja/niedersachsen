@@ -5,7 +5,7 @@ latitude: 53.476893600000004
 longitude: 9.7072363
 postcode: 21614
 city: Buxtehude
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

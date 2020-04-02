@@ -5,7 +5,7 @@ latitude: 53.315542900000004
 longitude: 7.279210900000001
 postcode: 26844
 city: Jemgum
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

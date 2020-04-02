@@ -5,7 +5,7 @@ latitude: 51.540475400000005
 longitude: 9.8958572
 postcode: 37079
 city: Göttingen
-street: Abich-Thiele-Straße
+street: "Abich-Thiele-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

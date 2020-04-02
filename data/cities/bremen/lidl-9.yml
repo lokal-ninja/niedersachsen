@@ -5,7 +5,7 @@ latitude: 53.0390196
 longitude: 8.911053800000001
 postcode: 28307
 city: Bremen
-street: Arberger Heerstraße
+street: "Arberger Heerstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"

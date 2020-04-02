@@ -5,7 +5,7 @@ latitude: 52.519141700000006
 longitude: 8.1978793
 postcode: 49401
 city: Damme
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 9
 phone: "+49 5491 9996880"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"

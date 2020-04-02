@@ -5,7 +5,7 @@ latitude: 52.164838800000005
 longitude: 10.5551682
 postcode: 38302
 city: Wolfenbüttel
-street: Elmweg
+street: "Elmweg"
 housenumber: 15
 phone: "+49 5331 9045061"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 07:00-17:00"

@@ -5,7 +5,7 @@ latitude: 52.854407300000005
 longitude: 7.931212
 postcode: 49696
 city: Molbergen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2
 phone: "+49 171 2812438"
 opening_hours: "24/7"

@@ -5,7 +5,7 @@ latitude: 53.533560300000005
 longitude: 8.079026500000001
 postcode: 26389
 city: Wilhelmshaven
-street: Lautshof
+street: "Lautshof"
 housenumber: 22
 phone: "+49 4421 809180"
 opening_hours: ""

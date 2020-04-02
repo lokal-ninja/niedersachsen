@@ -5,7 +5,7 @@ latitude: 52.4461184
 longitude: 10.039810600000001
 postcode: 31303
 city: Burgdorf
-street: Leineweberstraße
+street: "Leineweberstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

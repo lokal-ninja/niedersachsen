@@ -5,7 +5,7 @@ latitude: 51.53518630000001
 longitude: 9.891827300000001
 postcode: 37081
 city: Göttingen
-street: Garbenstraße
+street: "Garbenstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

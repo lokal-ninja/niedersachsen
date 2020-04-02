@@ -5,7 +5,7 @@ latitude: 52.497479000000006
 longitude: 6.890632900000001
 postcode: 49843
 city: Uelsen
-street: Gölenkamper Straße
+street: "Gölenkamper Straße"
 housenumber: 
 phone: "+49 5942 922561"
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; Su 08:00-18:00"

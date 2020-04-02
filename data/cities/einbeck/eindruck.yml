@@ -5,7 +5,7 @@ latitude: 51.8183115
 longitude: 9.8752217
 postcode: 37574
 city: Einbeck
-street: Dr.-Friedrich-Uhde-Straße
+street: "Dr.-Friedrich-Uhde-Straße"
 housenumber: 24
 phone: "+49-5561-9415311"
 opening_hours: "Mo-Fr,Sa[1],Sa[3] 09:00-13:00,14:00-18:00; We,Sa[1],Sa[3] 09:00-13:00"

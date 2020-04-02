@@ -5,7 +5,7 @@ latitude: 51.7100639
 longitude: 10.518365800000002
 postcode: 
 city: Sankt Andreasberg
-street: Dr.-Willi-Bergmann-Straße
+street: "Dr.-Willi-Bergmann-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

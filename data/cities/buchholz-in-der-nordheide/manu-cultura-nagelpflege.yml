@@ -5,7 +5,7 @@ latitude: 53.327994600000004
 longitude: 9.8822329
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

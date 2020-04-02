@@ -5,7 +5,7 @@ latitude: 53.0613322
 longitude: 8.8813634
 postcode: 28207
 city: Bremen
-street: Alter Postweg
+street: "Alter Postweg"
 housenumber: 174c
 phone: ""
 opening_hours: ""

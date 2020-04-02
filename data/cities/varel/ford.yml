@@ -5,7 +5,7 @@ latitude: 53.400102000000004
 longitude: 8.1208238
 postcode: 26316
 city: Varel
-street: Torhegenhausstraße
+street: "Torhegenhausstraße"
 housenumber: 1a
 phone: "+49 4451 961080"
 opening_hours: ""

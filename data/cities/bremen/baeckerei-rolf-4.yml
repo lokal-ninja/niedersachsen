@@ -5,7 +5,7 @@ latitude: 53.0981594
 longitude: 8.8391327
 postcode: 28213
 city: Bremen
-street: Crüsemannallee
+street: "Crüsemannallee"
 housenumber: 80
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:30; Su 08:00-11:00"

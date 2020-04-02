@@ -5,7 +5,7 @@ latitude: 52.408292900000006
 longitude: 7.0546385
 postcode: 48529
 city: Nordhorn
-street: Enschedestraße
+street: "Enschedestraße"
 housenumber: 28
 phone: "+49592180800"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.04602800000001
 longitude: 8.8944387
 postcode: 28309
 city: Bremen
-street: Hemelinger Heerstraße
+street: "Hemelinger Heerstraße"
 housenumber: 
 phone: "+49 421 48406998"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.9672721
 longitude: 11.1559769
 postcode: 29439
 city: Lüchow
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

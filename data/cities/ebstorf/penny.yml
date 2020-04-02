@@ -5,7 +5,7 @@ latitude: 53.0198788
 longitude: 10.421355700000001
 postcode: 29574
 city: Ebstorf
-street: Kiebitzkamp
+street: "Kiebitzkamp"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

@@ -5,7 +5,7 @@ latitude: 51.977527800000004
 longitude: 9.5160131
 postcode: 37619
 city: Bodenwerder
-street: Große Straße
+street: "Große Straße"
 housenumber: 52
 phone: "+49 5533 979142"
 opening_hours: ""

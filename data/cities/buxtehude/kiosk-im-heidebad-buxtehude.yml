@@ -5,7 +5,7 @@ latitude: 53.4585134
 longitude: 9.686595800000001
 postcode: 21614
 city: Buxtehude
-street: Estetalstraße
+street: "Estetalstraße"
 housenumber: 44
 phone: "+49 4161 83677"
 opening_hours: ""

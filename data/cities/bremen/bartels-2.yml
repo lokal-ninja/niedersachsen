@@ -5,7 +5,7 @@ latitude: 53.0888737
 longitude: 8.9372191
 postcode: 28355
 city: Bremen
-street: Mühlenfeldstraße
+street: "Mühlenfeldstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; Su,Mo off"

@@ -5,7 +5,7 @@ latitude: 52.3612672
 longitude: 9.7574387
 postcode: 30173
 city: Hannover
-street: Geibelstraße
+street: "Geibelstraße"
 housenumber: 18
 phone: "+49 511 53400417"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

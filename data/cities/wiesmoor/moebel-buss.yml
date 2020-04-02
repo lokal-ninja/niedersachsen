@@ -5,7 +5,7 @@ latitude: 53.394637800000005
 longitude: 7.702855100000001
 postcode: 26639
 city: Wiesmoor
-street: Kanalstraße II
+street: "Kanalstraße II"
 housenumber: 1a
 phone: "+49 4944 9600"
 opening_hours: ""

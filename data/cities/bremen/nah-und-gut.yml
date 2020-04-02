@@ -5,7 +5,7 @@ latitude: 53.094709300000005
 longitude: 8.8013046
 postcode: 28215
 city: Bremen
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 66,68,70,72
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

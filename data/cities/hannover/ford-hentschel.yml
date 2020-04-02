@@ -5,7 +5,7 @@ latitude: 52.3983812
 longitude: 9.734271900000001
 postcode: 
 city: Hannover
-street: Vahrenwalder Straße
+street: "Vahrenwalder Straße"
 housenumber: 141
 phone: ""
 opening_hours: ""

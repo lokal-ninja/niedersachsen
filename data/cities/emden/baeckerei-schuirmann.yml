@@ -5,7 +5,7 @@ latitude: 53.363573900000006
 longitude: 7.1918993
 postcode: 26723
 city: Emden
-street: Althusiusstraße
+street: "Althusiusstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

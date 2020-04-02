@@ -5,7 +5,7 @@ latitude: 53.05988970000001
 longitude: 8.738401300000001
 postcode: 28259
 city: Bremen
-street: Alte Heerstraße
+street: "Alte Heerstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

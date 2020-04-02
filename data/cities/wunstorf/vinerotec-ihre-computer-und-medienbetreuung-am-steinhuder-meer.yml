@@ -5,7 +5,7 @@ latitude: 52.459904300000005
 longitude: 9.368459300000001
 postcode: 31515
 city: Wunstorf
-street: Bleichenstraße
+street: "Bleichenstraße"
 housenumber: 48
 phone: "+49 5033 2255"
 opening_hours: ""

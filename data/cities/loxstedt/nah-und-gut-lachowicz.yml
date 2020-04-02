@@ -5,7 +5,7 @@ latitude: 53.447908700000006
 longitude: 8.6033437
 postcode: 27612
 city: Loxstedt
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 32
 phone: "+49 4744 7303456"
 opening_hours: "Mo-Sa 07:30-21:00; Su 08:30-11:00"

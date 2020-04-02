@@ -5,7 +5,7 @@ latitude: 52.3572609
 longitude: 9.1830934
 postcode: 31717
 city: Nordsehl
-street: Landstraße
+street: "Landstraße"
 housenumber: 78
 phone: "+49 5721 82285"
 opening_hours: "Fr 09:00-18:00"

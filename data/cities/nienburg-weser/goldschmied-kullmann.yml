@@ -5,7 +5,7 @@ latitude: 52.6389933
 longitude: 9.2051411
 postcode: 31582
 city: Nienburg/Weser
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 37
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-14:00"

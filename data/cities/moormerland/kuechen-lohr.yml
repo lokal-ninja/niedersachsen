@@ -5,7 +5,7 @@ latitude: 53.3107746
 longitude: 7.4559348000000005
 postcode: 26802
 city: Moormerland
-street: Borgwardring
+street: "Borgwardring"
 housenumber: 92
 phone: "+49 4954 894091"
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su off; PH off"

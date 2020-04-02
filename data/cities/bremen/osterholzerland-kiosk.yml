@@ -5,7 +5,7 @@ latitude: 53.073798700000005
 longitude: 8.936054
 postcode: 28327
 city: Bremen
-street: Osterholzer Landstraße
+street: "Osterholzer Landstraße"
 housenumber: 112
 phone: ""
 opening_hours: ""

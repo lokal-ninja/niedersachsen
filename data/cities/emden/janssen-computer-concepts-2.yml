@@ -5,7 +5,7 @@ latitude: 53.3753728
 longitude: 7.209681700000001
 postcode: 26721
 city: Emden
-street: Bolardusstraße
+street: "Bolardusstraße"
 housenumber: 8
 phone: "+49 4921 33271"
 opening_hours: ""

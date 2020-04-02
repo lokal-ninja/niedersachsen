@@ -5,7 +5,7 @@ latitude: 53.139625300000006
 longitude: 8.214733
 postcode: 26122
 city: Oldenburg
-street: Baumgartenstraße
+street: "Baumgartenstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 10:00-12:30; 14:00-18:00; Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 52.6582784
 longitude: 8.118867100000001
 postcode: 49413
 city: Dinklage
-street: Webergasse
+street: "Webergasse"
 housenumber: 9-11
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:30, Sa 09:00-18:00, So off"

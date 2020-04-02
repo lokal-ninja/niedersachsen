@@ -5,7 +5,7 @@ latitude: 51.668482100000006
 longitude: 9.374880300000001
 postcode: 37688
 city: Beverungen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

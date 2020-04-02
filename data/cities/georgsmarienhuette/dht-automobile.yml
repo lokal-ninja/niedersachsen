@@ -5,7 +5,7 @@ latitude: 52.2189872
 longitude: 8.0602362
 postcode: 49124
 city: Georgsmarienhütte
-street: Niedersachsenstraße
+street: "Niedersachsenstraße"
 housenumber: 10
 phone: "+49 5401 86 25 25"
 opening_hours: ""

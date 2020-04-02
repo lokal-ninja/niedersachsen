@@ -5,7 +5,7 @@ latitude: 52.150926600000005
 longitude: 9.9489505
 postcode: 
 city: Hildesheim
-street: Andreas-Passage
+street: "Andreas-Passage"
 housenumber: 
 phone: "+49 5121 32666"
 opening_hours: "Mo 09:00-18:00; Tu-Th 08:00-18:30; Fr 08:00-20:00; Sa 08:00-15:00"

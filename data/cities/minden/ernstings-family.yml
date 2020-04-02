@@ -5,7 +5,7 @@ latitude: 52.2860809
 longitude: 8.9516718
 postcode: 32423
 city: Minden
-street: Gneisenaustraße
+street: "Gneisenaustraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

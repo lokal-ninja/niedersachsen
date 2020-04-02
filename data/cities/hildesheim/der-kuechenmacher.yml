@@ -5,7 +5,7 @@ latitude: 52.162690100000006
 longitude: 9.963258900000001
 postcode: 31135
 city: Hildesheim
-street: Drispenstedter Straße
+street: "Drispenstedter Straße"
 housenumber: 8
 phone: "+49 5121 206300"
 opening_hours: ""

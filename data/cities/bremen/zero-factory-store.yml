@@ -5,7 +5,7 @@ latitude: 53.05052920000001
 longitude: 8.838787400000001
 postcode: 28279
 city: Bremen
-street: Scipiostraße
+street: "Scipiostraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

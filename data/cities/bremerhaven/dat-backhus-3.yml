@@ -5,7 +5,7 @@ latitude: 53.5320441
 longitude: 8.591219500000001
 postcode: 27570
 city: Bremerhaven
-street: Grashoffstraße
+street: "Grashoffstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

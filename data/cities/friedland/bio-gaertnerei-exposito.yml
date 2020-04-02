@@ -5,7 +5,7 @@ latitude: 51.4543679
 longitude: 9.9555874
 postcode: 
 city: Friedland
-street: Bauerweg
+street: "Bauerweg"
 housenumber: 26
 phone: ""
 opening_hours: ""

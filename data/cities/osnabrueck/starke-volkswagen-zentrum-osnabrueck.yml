@@ -5,7 +5,7 @@ latitude: 52.2642765
 longitude: 8.0099716
 postcode: 49078
 city: Osnabrück
-street: Blumenhaller Weg
+street: "Blumenhaller Weg"
 housenumber: 153
 phone: ""
 opening_hours: ""

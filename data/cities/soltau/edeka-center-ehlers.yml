@@ -5,7 +5,7 @@ latitude: 52.9879624
 longitude: 9.8614212
 postcode: 29614
 city: Soltau
-street: Lüneburger Straße
+street: "Lüneburger Straße"
 housenumber: 97
 phone: "+49 5191 98680"
 opening_hours: "Mo-Sa 07:30-21:00; PH Off"

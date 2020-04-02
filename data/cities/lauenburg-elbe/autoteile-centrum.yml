@@ -5,7 +5,7 @@ latitude: 53.3739574
 longitude: 10.545638400000001
 postcode: 21481
 city: Lauenburg/Elbe
-street: Glüsinger Weg
+street: "Glüsinger Weg"
 housenumber: 11
 phone: "+49 4153 53884"
 opening_hours: "Mo-Fr 10:00-13:00,14:30-18:30"

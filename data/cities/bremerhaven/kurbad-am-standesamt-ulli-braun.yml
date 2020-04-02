@@ -5,7 +5,7 @@ latitude: 53.550484100000006
 longitude: 8.581404000000001
 postcode: 27576
 city: Bremerhaven
-street: Wilhelm-Busch-Straße
+street: "Wilhelm-Busch-Straße"
 housenumber: 7-6
 phone: "+49 471 43203"
 opening_hours: ""

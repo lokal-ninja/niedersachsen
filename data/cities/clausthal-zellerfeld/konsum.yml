@@ -5,7 +5,7 @@ latitude: 51.827488
 longitude: 10.2837432
 postcode: 38709
 city: Clausthal-Zellerfeld
-street: Bohlweg
+street: "Bohlweg"
 housenumber: 13
 phone: "+49 5323 6283"
 opening_hours: "Mo-Fr 08:00-12:30,15:00-18:00; Sa 08:00-13:00; Su,PH off"

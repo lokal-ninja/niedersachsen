@@ -5,7 +5,7 @@ latitude: 51.535554000000005
 longitude: 9.906397
 postcode: 37081
 city: Göttingen
-street: In der Krümme
+street: "In der Krümme"
 housenumber: 5
 phone: ""
 opening_hours: ""

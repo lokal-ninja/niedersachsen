@@ -5,7 +5,7 @@ latitude: 51.5025927
 longitude: 9.7645502
 postcode: 37127
 city: Dransfeld
-street: Wolfshof
+street: "Wolfshof"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.441249600000006
 longitude: 10.4357857
 postcode: 38542
 city: Leiferde
-street: Gilder Weg
+street: "Gilder Weg"
 housenumber: 72
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

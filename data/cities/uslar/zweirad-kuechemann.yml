@@ -5,7 +5,7 @@ latitude: 51.655798700000005
 longitude: 9.6313724
 postcode: 37170
 city: Uslar
-street: Alleestraße
+street: "Alleestraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

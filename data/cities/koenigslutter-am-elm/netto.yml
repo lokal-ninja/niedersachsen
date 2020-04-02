@@ -5,7 +5,7 @@ latitude: 52.254215900000005
 longitude: 10.8063911
 postcode: 38154
 city: Königslutter am Elm
-street: Braunschweiger Straße
+street: "Braunschweiger Straße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

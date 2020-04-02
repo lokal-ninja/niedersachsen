@@ -5,7 +5,7 @@ latitude: 51.530985
 longitude: 9.9331809
 postcode: 37073
 city: Göttingen
-street: Düstere Straße
+street: "Düstere Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00, Sa 10:00-13:00"

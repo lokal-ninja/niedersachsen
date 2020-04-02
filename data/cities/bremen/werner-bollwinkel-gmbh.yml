@@ -5,7 +5,7 @@ latitude: 53.1067662
 longitude: 8.8776633
 postcode: 28357
 city: Bremen
-street: Kleiner Ort
+street: "Kleiner Ort"
 housenumber: 13
 phone: ""
 opening_hours: ""

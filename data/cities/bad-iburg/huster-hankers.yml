@@ -5,7 +5,7 @@ latitude: 52.1577701
 longitude: 8.0454168
 postcode: 49186
 city: Bad Iburg
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 12
 phone: "+49 5403 2257"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.549491700000004
 longitude: 8.0804797
 postcode: 26389
 city: Wilhelmshaven
-street: Sven-Hedin-Straße
+street: "Sven-Hedin-Straße"
 housenumber: 70
 phone: "+49 4421 998161"
 opening_hours: "Tu,Th,Fr 08:00-18:00; We 08:00-17:00; Sa 08:00-13:00"

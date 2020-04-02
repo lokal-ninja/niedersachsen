@@ -5,7 +5,7 @@ latitude: 52.312904
 longitude: 9.600350500000001
 postcode: 30989
 city: Gehrden
-street: Am Markt
+street: "Am Markt"
 housenumber: 1
 phone: ""
 opening_hours: ""

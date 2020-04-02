@@ -5,7 +5,7 @@ latitude: 53.0817296
 longitude: 8.810236
 postcode: 28195
 city: Bremen
-street: Breitenweg
+street: "Breitenweg"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2501441
 longitude: 10.818255800000001
 postcode: 38154
 city: Königslutter am Elm
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 10
 phone: "+49 5353 3454"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3776256
 longitude: 9.6611068
 postcode: 30453
 city: Hannover
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 30
 phone: "+49 800 43 53 361"
 opening_hours: "Mo-Sa 08:00-21:00"

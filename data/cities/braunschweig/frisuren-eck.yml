@@ -5,7 +5,7 @@ latitude: 52.2702754
 longitude: 10.5403351
 postcode: 38106
 city: Braunschweig
-street: Heinrichstraße
+street: "Heinrichstraße"
 housenumber: 34
 phone: ""
 opening_hours: "Tu,Fr 8:00-18:00; We,Th 8:00-17:00; Sa 8:00-13:00; Su off; PH off"

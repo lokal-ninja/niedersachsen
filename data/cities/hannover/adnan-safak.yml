@@ -5,7 +5,7 @@ latitude: 52.3605274
 longitude: 9.851054000000001
 postcode: 30559
 city: Hannover
-street: Freidingstraße
+street: "Freidingstraße"
 housenumber: 18 a
 phone: ""
 opening_hours: ""

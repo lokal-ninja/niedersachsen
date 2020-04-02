@@ -5,7 +5,7 @@ latitude: 53.392900700000006
 longitude: 7.2085252
 postcode: 26721
 city: Emden
-street: Herderstraße
+street: "Herderstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

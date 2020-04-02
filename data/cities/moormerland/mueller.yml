@@ -5,7 +5,7 @@ latitude: 53.3087681
 longitude: 7.4859575000000005
 postcode: 26802
 city: Moormerland
-street: Rudolf-Eucken-Straße
+street: "Rudolf-Eucken-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:30-20:00; Su off; PH off"

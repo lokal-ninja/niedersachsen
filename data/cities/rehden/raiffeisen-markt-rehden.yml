@@ -5,7 +5,7 @@ latitude: 52.6114365
 longitude: 8.4978203
 postcode: 49453
 city: Rehden
-street: Magirusstraße
+street: "Magirusstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"

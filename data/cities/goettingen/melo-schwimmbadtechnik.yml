@@ -5,7 +5,7 @@ latitude: 51.5370902
 longitude: 9.898397800000001
 postcode: 
 city: Göttingen
-street: Bünne
+street: "Bünne"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00; Mar 15-Sep 15 Sa 09:00-13:00; PH off"

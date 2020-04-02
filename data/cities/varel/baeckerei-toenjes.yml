@@ -5,7 +5,7 @@ latitude: 53.393744600000005
 longitude: 8.138624100000001
 postcode: 26316
 city: Varel
-street: Bürgermeister-Heidenreich-Straße
+street: "Bürgermeister-Heidenreich-Straße"
 housenumber: 9
 phone: "+49 4451 1240060"
 opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 08:00-18:00"

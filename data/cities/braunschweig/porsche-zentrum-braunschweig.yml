@@ -5,7 +5,7 @@ latitude: 52.281497400000006
 longitude: 10.4990254
 postcode: 38114
 city: Braunschweig
-street: Trautenaustraße
+street: "Trautenaustraße"
 housenumber: 
 phone: "+49 531 260260"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

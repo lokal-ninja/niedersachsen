@@ -5,7 +5,7 @@ latitude: 53.429047600000004
 longitude: 7.101903600000001
 postcode: 26736
 city: Krummhörn
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

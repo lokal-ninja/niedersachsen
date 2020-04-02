@@ -5,7 +5,7 @@ latitude: 51.5515297
 longitude: 9.970619000000001
 postcode: 37075
 city: Göttingen
-street: Luttertal
+street: "Luttertal"
 housenumber: 35a
 phone: ""
 opening_hours: "Su 10:00-12:00"

@@ -5,7 +5,7 @@ latitude: 51.954935400000004
 longitude: 9.742524900000001
 postcode: 31073
 city: Delligsen
-street: Untere Hilsstraße
+street: "Untere Hilsstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00"

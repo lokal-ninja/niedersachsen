@@ -5,7 +5,7 @@ latitude: 52.495550200000004
 longitude: 6.8858274
 postcode: 49843
 city: Uelsen
-street: Kappenberghof
+street: "Kappenberghof"
 housenumber: 4
 phone: "+49 5942 2110"
 opening_hours: ""

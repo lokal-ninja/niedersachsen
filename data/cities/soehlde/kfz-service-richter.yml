@@ -5,7 +5,7 @@ latitude: 52.1769073
 longitude: 10.173250000000001
 postcode: 31185
 city: Söhlde
-street: Oberdorf
+street: "Oberdorf"
 housenumber: 9
 phone: "+495123407362"
 opening_hours: ""

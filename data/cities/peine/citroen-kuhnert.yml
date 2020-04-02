@@ -5,7 +5,7 @@ latitude: 52.3153075
 longitude: 10.212977200000001
 postcode: 31226
 city: Peine
-street: Werner-Nordmeyer-Straße
+street: "Werner-Nordmeyer-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.116989700000005
 longitude: 9.3426866
 postcode: 31787
 city: Hameln
-street: Fischbecker Landstraße
+street: "Fischbecker Landstraße"
 housenumber: 86
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

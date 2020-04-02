@@ -5,7 +5,7 @@ latitude: 53.0533439
 longitude: 8.885608300000001
 postcode: 28309
 city: Bremen
-street: Hannoversche Straße
+street: "Hannoversche Straße"
 housenumber: 49
 phone: "+49 421 485438–0"
 opening_hours: ""

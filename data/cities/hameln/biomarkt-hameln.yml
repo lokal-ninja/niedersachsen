@@ -5,7 +5,7 @@ latitude: 52.1029496
 longitude: 9.3777136
 postcode: 31785
 city: Hameln
-street: Deisterstraße
+street: "Deisterstraße"
 housenumber: 90
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

@@ -5,7 +5,7 @@ latitude: 53.5934485
 longitude: 6.6758404
 postcode: 26757
 city: Borkum
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 114
 phone: ""
 opening_hours: ""

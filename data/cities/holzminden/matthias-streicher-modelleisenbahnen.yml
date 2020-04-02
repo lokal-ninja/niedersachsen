@@ -5,7 +5,7 @@ latitude: 51.8238914
 longitude: 9.4552347
 postcode: 37603
 city: Holzminden
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Tu 10:00-13:00, 15:00-18:00; We 10:00-13:00; Th-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00"

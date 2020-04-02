@@ -5,7 +5,7 @@ latitude: 52.3753759
 longitude: 9.740934000000001
 postcode: 30159
 city: Hannover
-street: Ernst-August-Platz
+street: "Ernst-August-Platz"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-20:00; PH off"

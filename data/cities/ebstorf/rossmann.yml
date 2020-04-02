@@ -5,7 +5,7 @@ latitude: 53.026940800000006
 longitude: 10.419362900000001
 postcode: 29574
 city: Ebstorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00; Su off; PH off"

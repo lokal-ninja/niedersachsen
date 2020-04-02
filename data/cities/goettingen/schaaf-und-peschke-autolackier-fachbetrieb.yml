@@ -5,7 +5,7 @@ latitude: 51.5201311
 longitude: 9.8844785
 postcode: 37081
 city: Göttingen
-street: Anna-Vandenhoeck-Ring
+street: "Anna-Vandenhoeck-Ring"
 housenumber: 32
 phone: ""
 opening_hours: ""

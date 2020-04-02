@@ -5,7 +5,7 @@ latitude: 53.1871409
 longitude: 8.1805208
 postcode: 26215
 city: Wiefelstede
-street: Karl-Fischer-Straße
+street: "Karl-Fischer-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

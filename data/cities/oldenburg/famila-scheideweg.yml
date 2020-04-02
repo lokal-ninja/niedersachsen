@@ -5,7 +5,7 @@ latitude: 53.1681521
 longitude: 8.2148006
 postcode: 26127
 city: Oldenburg
-street: Scheideweg
+street: "Scheideweg"
 housenumber: 100
 phone: ""
 opening_hours: ""

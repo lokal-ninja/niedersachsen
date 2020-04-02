@@ -5,7 +5,7 @@ latitude: 52.548104800000004
 longitude: 10.6992439
 postcode: 38524
 city: Sassenburg
-street: Alte Landstraße
+street: "Alte Landstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

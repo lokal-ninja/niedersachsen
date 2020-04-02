@@ -5,7 +5,7 @@ latitude: 52.735124600000006
 longitude: 7.757555000000001
 postcode: 49624
 city: Löningen
-street: Tabbenstraße
+street: "Tabbenstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

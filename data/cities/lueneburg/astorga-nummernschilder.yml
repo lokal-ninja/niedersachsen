@@ -5,7 +5,7 @@ latitude: 53.249906800000005
 longitude: 10.398911
 postcode: 21339
 city: Lüneburg
-street: Neuetorstraße
+street: "Neuetorstraße"
 housenumber: 3
 phone: "+49 4131 789067"
 opening_hours: ""

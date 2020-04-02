@@ -5,7 +5,7 @@ latitude: 52.8354294
 longitude: 8.023770200000001
 postcode: 49661
 city: Cloppenburg
-street: Warthestraße
+street: "Warthestraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su Off"

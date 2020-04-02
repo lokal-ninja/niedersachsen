@@ -5,7 +5,7 @@ latitude: 53.332698300000004
 longitude: 10.447255400000001
 postcode: 21382
 city: Brietlingen
-street: Bundesstraße
+street: "Bundesstraße"
 housenumber: 12
 phone: "+49 4133-3313"
 opening_hours: ""

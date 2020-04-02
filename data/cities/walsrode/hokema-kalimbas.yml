@@ -5,7 +5,7 @@ latitude: 52.867557000000005
 longitude: 9.6359556
 postcode: 29664
 city: Walsrode
-street: Silberweg
+street: "Silberweg"
 housenumber: 3
 phone: "+49 5161 949980"
 opening_hours: ""

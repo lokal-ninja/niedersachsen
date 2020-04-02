@@ -5,7 +5,7 @@ latitude: 51.6326308
 longitude: 9.9372077
 postcode: 
 city: Nörten-Hardenberg
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 06:30-13:00; Mo,Th,Th,Fr 15:00-18:00; PH off"

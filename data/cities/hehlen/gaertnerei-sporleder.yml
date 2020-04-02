@@ -5,7 +5,7 @@ latitude: 51.984130300000004
 longitude: 9.480302700000001
 postcode: 37619
 city: Hehlen
-street: Am Weißen Bach
+street: "Am Weißen Bach"
 housenumber: 2
 phone: "+49 5533 5354"
 opening_hours: ""

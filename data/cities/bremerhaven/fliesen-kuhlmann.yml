@@ -5,7 +5,7 @@ latitude: 53.547691500000006
 longitude: 8.580456
 postcode: 27568
 city: Bremerhaven
-street: Uferstraße
+street: "Uferstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

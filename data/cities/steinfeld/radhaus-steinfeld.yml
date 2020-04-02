@@ -5,7 +5,7 @@ latitude: 52.586311
 longitude: 8.2108193
 postcode: 49439
 city: Steinfeld
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 3
 phone: "+49 5492 557985"
 opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:00-13:00; Su, PH Off"

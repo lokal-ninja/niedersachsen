@@ -5,7 +5,7 @@ latitude: 53.543001000000004
 longitude: 7.948860900000001
 postcode: 26419
 city: Schortens
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

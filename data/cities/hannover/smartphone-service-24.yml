@@ -5,7 +5,7 @@ latitude: 52.39309780000001
 longitude: 9.6850333
 postcode: 30419
 city: Hannover
-street: Herrenhäuser Straße
+street: "Herrenhäuser Straße"
 housenumber: 65
 phone: ""
 opening_hours: ""

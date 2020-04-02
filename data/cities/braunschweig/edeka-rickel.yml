@@ -5,7 +5,7 @@ latitude: 52.259689200000004
 longitude: 10.508379600000001
 postcode: 38118
 city: Braunschweig
-street: Juliusstraße
+street: "Juliusstraße"
 housenumber: 2a
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

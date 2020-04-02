@@ -5,7 +5,7 @@ latitude: 52.315642600000004
 longitude: 7.226737000000001
 postcode: 48465
 city: Schüttorf
-street: Dollenweg
+street: "Dollenweg"
 housenumber: 5
 phone: "+49 5923 8020"
 opening_hours: ""

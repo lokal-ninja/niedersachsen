@@ -5,7 +5,7 @@ latitude: 51.72746840000001
 longitude: 10.251041800000001
 postcode: 37520
 city: Osterode
-street: Kornmarkt
+street: "Kornmarkt"
 housenumber: 7
 phone: ""
 opening_hours: ""

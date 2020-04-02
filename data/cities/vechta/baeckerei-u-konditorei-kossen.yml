@@ -5,7 +5,7 @@ latitude: 52.763243300000006
 longitude: 8.2622248
 postcode: 49377
 city: Vechta
-street: Bakumer Straße
+street: "Bakumer Straße"
 housenumber: 9
 phone: "+49-4441-2549"
 opening_hours: ""

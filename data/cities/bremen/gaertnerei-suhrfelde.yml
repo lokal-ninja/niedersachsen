@@ -5,7 +5,7 @@ latitude: 53.064037400000004
 longitude: 8.856369
 postcode: 28207
 city: Bremen
-street: Im Suhrfelde
+street: "Im Suhrfelde"
 housenumber: 5
 phone: ""
 opening_hours: "Jul-Mar: Mo-Th 08:00-16:00; Fr 08:00-14:00; Apr-Jun: Mo-Fr 08:00-18:00; Sa 08:00-13:00"

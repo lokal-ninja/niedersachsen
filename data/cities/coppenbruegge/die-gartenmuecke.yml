@@ -5,7 +5,7 @@ latitude: 52.135691300000005
 longitude: 9.567094500000001
 postcode: 
 city: Coppenbrügge
-street: Dörper Straße
+street: "Dörper Straße"
 housenumber: 54
 phone: ""
 opening_hours: ""

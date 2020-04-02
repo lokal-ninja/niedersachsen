@@ -5,7 +5,7 @@ latitude: 52.3245486
 longitude: 9.205413100000001
 postcode: 31655
 city: Stadthagen
-street: Rathauspassage
+street: "Rathauspassage"
 housenumber: 3
 phone: "+49 5721 77400"
 opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-13:00"

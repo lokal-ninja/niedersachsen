@@ -5,7 +5,7 @@ latitude: 51.593912100000004
 longitude: 10.560334600000001
 postcode: 37441
 city: Bad Sachsa
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 35
 phone: "+4955232187"
 opening_hours: ""

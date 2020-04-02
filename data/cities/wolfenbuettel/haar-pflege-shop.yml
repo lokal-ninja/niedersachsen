@@ -5,7 +5,7 @@ latitude: 52.1641179
 longitude: 10.537847000000001
 postcode: 38300
 city: Wolfenbüttel
-street: Okerstraße
+street: "Okerstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

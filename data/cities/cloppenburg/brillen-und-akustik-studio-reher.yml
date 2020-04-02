@@ -5,7 +5,7 @@ latitude: 52.84547190000001
 longitude: 8.0440857
 postcode: 49661
 city: Cloppenburg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: "+49 4471 3788"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00; Su,PH off"

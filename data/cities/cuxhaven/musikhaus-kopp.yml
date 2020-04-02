@@ -5,7 +5,7 @@ latitude: 53.86835060000001
 longitude: 8.699262300000001
 postcode: 27472
 city: Cuxhaven
-street: Grüner Weg
+street: "Grüner Weg"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"

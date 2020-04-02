@@ -5,7 +5,7 @@ latitude: 52.3630663
 longitude: 9.7535141
 postcode: 30171
 city: Hannover
-street: Krausenstraße
+street: "Krausenstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

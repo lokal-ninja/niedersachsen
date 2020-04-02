@@ -5,7 +5,7 @@ latitude: 52.2467443
 longitude: 10.508957200000001
 postcode: 38122
 city: Braunschweig
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 243
 phone: "+49 531 28019624"
 opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 51.5212245
 longitude: 9.9404485
 postcode: 
 city: Göttingen
-street: Reinhäuser Landstraße
+street: "Reinhäuser Landstraße"
 housenumber: 88
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00; Mo,We,Fr 15:00-18:00; PH off"

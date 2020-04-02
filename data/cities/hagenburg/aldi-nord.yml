@@ -5,7 +5,7 @@ latitude: 52.4358158
 longitude: 9.3563434
 postcode: 31558
 city: Hagenburg
-street: Bergmannstraße
+street: "Bergmannstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

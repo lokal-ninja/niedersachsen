@@ -5,7 +5,7 @@ latitude: 53.4744626
 longitude: 9.6985015
 postcode: 21614
 city: Buxtehude
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 39-45
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su,PH off"

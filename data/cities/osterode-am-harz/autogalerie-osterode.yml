@@ -5,7 +5,7 @@ latitude: 51.757906000000006
 longitude: 10.2132001
 postcode: 37520
 city: Osterode am Harz
-street: An der Bahn
+street: "An der Bahn"
 housenumber: 104
 phone: ""
 opening_hours: ""

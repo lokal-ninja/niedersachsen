@@ -5,7 +5,7 @@ latitude: 53.6871364
 longitude: 9.1601671
 postcode: 21745
 city: Hemmoor
-street: Am Schulzentrum
+street: "Am Schulzentrum"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

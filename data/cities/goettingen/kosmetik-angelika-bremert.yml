@@ -5,7 +5,7 @@ latitude: 51.5521243
 longitude: 9.907416000000001
 postcode: 37079
 city: Göttingen
-street: Holtenser Landstraße
+street: "Holtenser Landstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

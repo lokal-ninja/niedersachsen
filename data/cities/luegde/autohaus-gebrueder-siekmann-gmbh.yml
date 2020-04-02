@@ -5,7 +5,7 @@ latitude: 51.9701752
 longitude: 9.252913600000001
 postcode: 32676
 city: Lügde
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 20
 phone: "+49 5281 93980"
 opening_hours: ""

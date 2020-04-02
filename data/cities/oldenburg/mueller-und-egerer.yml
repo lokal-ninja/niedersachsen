@@ -5,7 +5,7 @@ latitude: 53.130152200000005
 longitude: 8.2255382
 postcode: 26135
 city: Oldenburg
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-16:00; Su 08:00-17:00"

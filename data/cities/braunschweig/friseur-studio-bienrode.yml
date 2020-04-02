@@ -5,7 +5,7 @@ latitude: 52.317549500000005
 longitude: 10.5286741
 postcode: 38110
 city: Braunschweig
-street: Altmarkstraße
+street: "Altmarkstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

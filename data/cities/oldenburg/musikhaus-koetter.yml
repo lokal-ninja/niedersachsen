@@ -5,7 +5,7 @@ latitude: 53.142940800000005
 longitude: 8.2125459
 postcode: 26122
 city: Oldenburg
-street: Heiligengeistwall
+street: "Heiligengeistwall"
 housenumber: 2
 phone: ""
 opening_hours: ""

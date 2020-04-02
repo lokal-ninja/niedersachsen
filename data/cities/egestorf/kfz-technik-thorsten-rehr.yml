@@ -5,7 +5,7 @@ latitude: 53.1947265
 longitude: 10.074276900000001
 postcode: 21272
 city: Egestorf
-street: Buchenring
+street: "Buchenring"
 housenumber: 4
 phone: "+49 4175 808855"
 opening_hours: "Mo - Fr 08:00-17:00"

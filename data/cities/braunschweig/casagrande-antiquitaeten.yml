@@ -5,7 +5,7 @@ latitude: 52.2603676
 longitude: 10.527815
 postcode: 38100
 city: Braunschweig
-street: Kuhstraße
+street: "Kuhstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

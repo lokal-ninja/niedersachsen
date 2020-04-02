@@ -5,7 +5,7 @@ latitude: 53.4144288
 longitude: 7.968410400000001
 postcode: 26340
 city: Zetel
-street: Neuenburger Straße
+street: "Neuenburger Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.5071025
 longitude: 7.3225693000000005
 postcode: 49809
 city: Lingen (Ems)
-street: Rheiner Straße
+street: "Rheiner Straße"
 housenumber: 110a
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:30; PH off"

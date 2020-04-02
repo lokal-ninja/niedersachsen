@@ -5,7 +5,7 @@ latitude: 52.269576
 longitude: 8.0267874
 postcode: 49080
 city: Osnabrück
-street: Schreberstraße
+street: "Schreberstraße"
 housenumber: 2
 phone: "+49 541 47058496"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-15:00"

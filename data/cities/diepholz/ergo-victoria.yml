@@ -5,7 +5,7 @@ latitude: 52.606601600000005
 longitude: 8.367395400000001
 postcode: 49356
 city: Diepholz
-street: Lohgerberweg
+street: "Lohgerberweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.809407900000004
 longitude: 8.2423185
 postcode: 49685
 city: Emstek
-street: Hansestraße
+street: "Hansestraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

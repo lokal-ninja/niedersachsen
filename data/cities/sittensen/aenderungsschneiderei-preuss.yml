@@ -5,7 +5,7 @@ latitude: 53.275801300000005
 longitude: 9.503112100000001
 postcode: 27419
 city: Sittensen
-street: Ladisweg
+street: "Ladisweg"
 housenumber: 3
 phone: ""
 opening_hours: ""

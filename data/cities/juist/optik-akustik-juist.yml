@@ -5,7 +5,7 @@ latitude: 53.677686
 longitude: 7.0039347
 postcode: 26571
 city: Juist
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo 09:00-12:00,15:00-17:00"

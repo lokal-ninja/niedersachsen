@@ -5,7 +5,7 @@ latitude: 53.113889900000004
 longitude: 8.756717
 postcode: 28237
 city: Bremen
-street: Pastorenweg
+street: "Pastorenweg"
 housenumber: 210
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00;Sa 06:00-13:00;Su 08:00-11:00"

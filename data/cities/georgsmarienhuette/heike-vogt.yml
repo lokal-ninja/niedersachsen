@@ -5,7 +5,7 @@ latitude: 52.206051800000004
 longitude: 8.0252608
 postcode: 49124
 city: Georgsmarienhütte
-street: Falkenstraße
+street: "Falkenstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

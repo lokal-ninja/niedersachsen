@@ -5,7 +5,7 @@ latitude: 53.581095100000006
 longitude: 6.6910897
 postcode: 26757
 city: Borkum
-street: Ostfriesenstraße
+street: "Ostfriesenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-16:00"

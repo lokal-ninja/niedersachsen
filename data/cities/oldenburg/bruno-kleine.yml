@@ -5,7 +5,7 @@ latitude: 53.1562489
 longitude: 8.1700659
 postcode: 26129
 city: Oldenburg
-street: Ammerländer Heerstraße
+street: "Ammerländer Heerstraße"
 housenumber: 259
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"

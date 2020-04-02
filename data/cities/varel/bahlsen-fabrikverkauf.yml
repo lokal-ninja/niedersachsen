@@ -5,7 +5,7 @@ latitude: 53.407290700000004
 longitude: 8.165100200000001
 postcode: 26316
 city: Varel
-street: Kohlhof
+street: "Kohlhof"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

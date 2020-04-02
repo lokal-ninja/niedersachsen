@@ -5,7 +5,7 @@ latitude: 52.441745600000004
 longitude: 9.6866423
 postcode: 30855
 city: Langenhagen
-street: Frankenring
+street: "Frankenring"
 housenumber: 11
 phone: "+49 511 782526"
 opening_hours: "Mo-Fr 08:00-17:00"

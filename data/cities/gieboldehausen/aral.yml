@@ -5,7 +5,7 @@ latitude: 51.6156476
 longitude: 10.2185743
 postcode: 37434
 city: Gieboldehausen
-street: Herzberger Landstraße
+street: "Herzberger Landstraße"
 housenumber: 3
 phone: "+49 5528 200891"
 opening_hours: "24/7"

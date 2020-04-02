@@ -5,7 +5,7 @@ latitude: 52.802773900000005
 longitude: 8.6443212
 postcode: 27239
 city: Twistringen
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 06:30-20:00; So 07:30-11:00"

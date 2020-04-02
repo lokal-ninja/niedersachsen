@@ -5,7 +5,7 @@ latitude: 52.305609200000006
 longitude: 10.4658716
 postcode: 38112
 city: Braunschweig
-street: Celler Heerstraße
+street: "Celler Heerstraße"
 housenumber: 355
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-10:30"

@@ -5,7 +5,7 @@ latitude: 53.192843100000005
 longitude: 7.979930800000001
 postcode: 26160
 city: Bad Zwischenahn
-street: Westersteder Straße
+street: "Westersteder Straße"
 housenumber: 10
 phone: ""
 opening_hours: "24/7"

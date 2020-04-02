@@ -5,7 +5,7 @@ latitude: 53.698942300000006
 longitude: 7.695284000000001
 postcode: 26427
 city: Neuharlingersiel
-street: Nordseestraße
+street: "Nordseestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

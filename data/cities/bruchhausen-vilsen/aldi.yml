@@ -5,7 +5,7 @@ latitude: 52.8294074
 longitude: 8.99113
 postcode: 27305
 city: Bruchhausen-Vilsen
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

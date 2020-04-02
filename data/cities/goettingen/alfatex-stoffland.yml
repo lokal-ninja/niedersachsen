@@ -5,7 +5,7 @@ latitude: 51.5590777
 longitude: 9.9265506
 postcode: 37077
 city: Göttingen
-street: Lutteranger
+street: "Lutteranger"
 housenumber: 4a
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off"

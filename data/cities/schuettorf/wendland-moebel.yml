@@ -5,7 +5,7 @@ latitude: 52.323143400000006
 longitude: 7.218621400000001
 postcode: 48465
 city: Schüttorf
-street: Föhnstraße
+street: "Föhnstraße"
 housenumber: 39
 phone: "+49 5923 955500"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 10:00-15:00"

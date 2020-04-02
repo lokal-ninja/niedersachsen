@@ -5,7 +5,7 @@ latitude: 52.117905400000005
 longitude: 9.542137100000001
 postcode: 31863
 city: Coppenbrügge
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00"

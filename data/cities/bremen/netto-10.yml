@@ -5,7 +5,7 @@ latitude: 53.185314500000004
 longitude: 8.605052200000001
 postcode: 28755
 city: Bremen
-street: Hammersbecker Straße
+street: "Hammersbecker Straße"
 housenumber: 167
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

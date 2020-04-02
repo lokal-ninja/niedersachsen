@@ -5,7 +5,7 @@ latitude: 53.2873347
 longitude: 9.8707398
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Buchholzer Landstraße
+street: "Buchholzer Landstraße"
 housenumber: 62
 phone: "+49 4187 609090"
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-13:30"

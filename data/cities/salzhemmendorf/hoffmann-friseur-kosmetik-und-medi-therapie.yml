@@ -5,7 +5,7 @@ latitude: 52.089477
 longitude: 9.634123
 postcode: 31020
 city: Salzhemmendorf
-street: Heerstraße
+street: "Heerstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

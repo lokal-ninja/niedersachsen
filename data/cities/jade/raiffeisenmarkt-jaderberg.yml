@@ -5,7 +5,7 @@ latitude: 53.339245000000005
 longitude: 8.183166400000001
 postcode: 26349
 city: Jade
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 13
 phone: "+49 4454 346"
 opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:30; Sa 08:30-12:00"

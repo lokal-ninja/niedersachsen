@@ -5,7 +5,7 @@ latitude: 52.640754400000006
 longitude: 9.2073215
 postcode: 31582
 city: Nienburg/Weser
-street: Friedrich-Ludwig-Jahn-Straße
+street: "Friedrich-Ludwig-Jahn-Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 09:00-16:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 52.2232622
 longitude: 10.643774800000001
 postcode: 38173
 city: Sickte
-street: Am Bockshorn
+street: "Am Bockshorn"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Th 08:00-13:00,14:00-17:00; Fr 08:00-13:00,14:00-15:00"

@@ -5,7 +5,7 @@ latitude: 53.1700578
 longitude: 8.635075800000001
 postcode: 
 city: Bremen
-street: Hermann-Fortmann-Straße
+street: "Hermann-Fortmann-Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

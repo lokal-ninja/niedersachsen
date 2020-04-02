@@ -5,7 +5,7 @@ latitude: 52.824850600000005
 longitude: 8.4797946
 postcode: 27243
 city: Colnrade
-street: Harpstedter Straße
+street: "Harpstedter Straße"
 housenumber: 2
 phone: "+49 4434328"
 opening_hours: ""

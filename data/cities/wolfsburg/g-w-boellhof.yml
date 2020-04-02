@@ -5,7 +5,7 @@ latitude: 52.4184235
 longitude: 10.7157245
 postcode: 38442
 city: Wolfsburg
-street: Denkmalplatz
+street: "Denkmalplatz"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.248021900000005
 longitude: 10.4051095
 postcode: 21335
 city: Lüneburg
-street: Obere Schrangenstraße
+street: "Obere Schrangenstraße"
 housenumber: 7
 phone: "+49 (0)4131 403304"
 opening_hours: "Mo-Fr 09:30-18:00, Sa 10:00-16:00"

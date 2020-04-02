@@ -5,7 +5,7 @@ latitude: 52.520283400000004
 longitude: 7.301227000000001
 postcode: 49808
 city: Lingen
-street: Emsanger
+street: "Emsanger"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

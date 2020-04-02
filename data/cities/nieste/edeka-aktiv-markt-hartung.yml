@@ -5,7 +5,7 @@ latitude: 51.312448100000005
 longitude: 9.6704354
 postcode: 34329
 city: Nieste
-street: Kaufunger Straße
+street: "Kaufunger Straße"
 housenumber: 9a
 phone: "+49 5605 2420"
 opening_hours: "Mo-Sa 07:00-20:00"

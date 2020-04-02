@@ -5,7 +5,7 @@ latitude: 52.15917150000001
 longitude: 10.336273
 postcode: 38226
 city: Salzgitter
-street: Neißestraße
+street: "Neißestraße"
 housenumber: 121
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 52.217601900000005
 longitude: 9.792547500000001
 postcode: 30982
 city: Pattensen
-street: Ippenstedter Straße
+street: "Ippenstedter Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

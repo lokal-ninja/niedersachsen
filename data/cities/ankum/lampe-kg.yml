@@ -5,7 +5,7 @@ latitude: 52.544194100000006
 longitude: 7.8791463
 postcode: 49577
 city: Ankum
-street: Wilhelm-Hardebeck-Straße
+street: "Wilhelm-Hardebeck-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

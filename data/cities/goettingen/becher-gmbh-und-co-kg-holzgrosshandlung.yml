@@ -5,7 +5,7 @@ latitude: 51.5503853
 longitude: 9.888211
 postcode: 37079
 city: Göttingen
-street: Carl-Giesecke-Straße
+street: "Carl-Giesecke-Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 07:00-17:00; Sa 09:00-13:00; PH off"

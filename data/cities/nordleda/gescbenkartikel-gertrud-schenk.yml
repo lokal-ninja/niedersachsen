@@ -5,7 +5,7 @@ latitude: 53.76207350000001
 longitude: 8.832920900000001
 postcode: 21765
 city: Nordleda
-street: Bremerhavener Straße
+street: "Bremerhavener Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

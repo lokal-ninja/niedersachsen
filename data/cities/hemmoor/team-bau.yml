@@ -5,7 +5,7 @@ latitude: 53.683384100000005
 longitude: 9.1522985
 postcode: 21745
 city: Hemmoor
-street: Am Baumarkt
+street: "Am Baumarkt"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; PH off"

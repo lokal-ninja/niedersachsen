@@ -5,7 +5,7 @@ latitude: 52.988170100000005
 longitude: 8.786076900000001
 postcode: 28844
 city: Weyhe
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 50
 phone: ""
 opening_hours: ""

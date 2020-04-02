@@ -5,7 +5,7 @@ latitude: 52.9866936
 longitude: 10.0942127
 postcode: 29633
 city: Munster
-street: Lüneburger Straße
+street: "Lüneburger Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

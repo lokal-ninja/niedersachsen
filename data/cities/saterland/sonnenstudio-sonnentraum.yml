@@ -5,7 +5,7 @@ latitude: 53.0459006
 longitude: 7.737382500000001
 postcode: 26683
 city: Saterland
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 70
 phone: ""
 opening_hours: ""

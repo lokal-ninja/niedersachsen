@@ -5,7 +5,7 @@ latitude: 53.367558200000005
 longitude: 9.7138729
 postcode: 21279
 city: Hollenstedt
-street: Alte Dorfstraße
+street: "Alte Dorfstraße"
 housenumber: 10a
 phone: "+49 4165 9987477"
 opening_hours: "Tu-Fr 12:00-15:00"

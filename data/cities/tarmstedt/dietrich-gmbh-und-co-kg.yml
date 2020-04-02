@@ -5,7 +5,7 @@ latitude: 53.2209681
 longitude: 9.080764100000001
 postcode: 27412
 city: Tarmstedt
-street: Wilstedter Straße
+street: "Wilstedter Straße"
 housenumber: 21
 phone: "+49 4283 9308 0"
 opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-13:00"

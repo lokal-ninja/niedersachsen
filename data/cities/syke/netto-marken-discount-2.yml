@@ -5,7 +5,7 @@ latitude: 52.94951270000001
 longitude: 8.8364439
 postcode: 28857
 city: Syke
-street: Handwerkerhof
+street: "Handwerkerhof"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 51.6394491
 longitude: 9.553425500000001
 postcode: 37194
 city: Bodenfelde
-street: Bleekstraße
+street: "Bleekstraße"
 housenumber: 23a
 phone: ""
 opening_hours: "Mo-Sa 08:00-13:00, Mo,Tu,Th,Fr 15:00-18:00"

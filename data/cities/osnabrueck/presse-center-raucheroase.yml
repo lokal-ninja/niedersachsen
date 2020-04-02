@@ -5,7 +5,7 @@ latitude: 52.2743699
 longitude: 8.0449836
 postcode: 49074
 city: Osnabrück
-street: Jürgensort
+street: "Jürgensort"
 housenumber: 7
 phone: ""
 opening_hours: ""

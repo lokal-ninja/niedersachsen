@@ -5,7 +5,7 @@ latitude: 53.083297
 longitude: 8.7644485
 postcode: 28197
 city: Bremen
-street: Auf dem Bohnenkamp
+street: "Auf dem Bohnenkamp"
 housenumber: 69
 phone: ""
 opening_hours: "We 08:00-12:00"

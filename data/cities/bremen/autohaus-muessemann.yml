@@ -5,7 +5,7 @@ latitude: 53.113797100000006
 longitude: 8.752508800000001
 postcode: 28237
 city: Bremen
-street: Stapelfeldtstraße
+street: "Stapelfeldtstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

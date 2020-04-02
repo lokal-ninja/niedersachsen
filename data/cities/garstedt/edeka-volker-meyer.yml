@@ -5,7 +5,7 @@ latitude: 53.293517300000005
 longitude: 10.1435065
 postcode: 21441
 city: Garstedt
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 79
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

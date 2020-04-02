@@ -5,7 +5,7 @@ latitude: 53.37842010000001
 longitude: 9.898059
 postcode: 21224
 city: Rosengarten
-street: Eckeler Straße
+street: "Eckeler Straße"
 housenumber: 7
 phone: "+49 4108 415272"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-18:00; Su 08:00-11:00"

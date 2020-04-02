@@ -5,7 +5,7 @@ latitude: 52.3699529
 longitude: 9.752426100000001
 postcode: 30175
 city: Hannover
-street: Berliner Allee
+street: "Berliner Allee"
 housenumber: 68
 phone: ""
 opening_hours: ""

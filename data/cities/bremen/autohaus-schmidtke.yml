@@ -5,7 +5,7 @@ latitude: 53.0489479
 longitude: 8.8459585
 postcode: 28279
 city: Bremen
-street: Fritz-Thiele-Straße
+street: "Fritz-Thiele-Straße"
 housenumber: 23
 phone: ""
 opening_hours: ""

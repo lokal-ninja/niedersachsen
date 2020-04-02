@@ -5,7 +5,7 @@ latitude: 53.770691400000004
 longitude: 7.696745900000001
 postcode: 26474
 city: Spiekeroog
-street: Noorderloog
+street: "Noorderloog"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 10:00-12:00,15:00-17:00; Sa 10:00-12:00"

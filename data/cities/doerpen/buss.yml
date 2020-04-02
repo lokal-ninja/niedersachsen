@@ -5,7 +5,7 @@ latitude: 52.966447800000005
 longitude: 7.3300495
 postcode: 26892
 city: Dörpen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

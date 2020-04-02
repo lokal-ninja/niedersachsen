@@ -5,7 +5,7 @@ latitude: 53.135885800000004
 longitude: 8.183640500000001
 postcode: 
 city: Oldenburg
-street: Eichenstraße
+street: "Eichenstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

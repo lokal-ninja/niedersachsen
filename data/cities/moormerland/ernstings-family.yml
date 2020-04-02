@@ -5,7 +5,7 @@ latitude: 53.309307800000006
 longitude: 7.4885178
 postcode: 26802
 city: Moormerland
-street: Karl-Carstens-Straße
+street: "Karl-Carstens-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"

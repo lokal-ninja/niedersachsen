@@ -5,7 +5,7 @@ latitude: 51.532208100000005
 longitude: 9.932267900000001
 postcode: 37073
 city: Göttingen
-street: Groner Straße
+street: "Groner Straße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off"

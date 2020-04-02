@@ -5,7 +5,7 @@ latitude: 53.105180000000004
 longitude: 8.885102700000001
 postcode: 28357
 city: Bremen
-street: Lilienthaler Heerstraße
+street: "Lilienthaler Heerstraße"
 housenumber: 105
 phone: ""
 opening_hours: ""

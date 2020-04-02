@@ -5,7 +5,7 @@ latitude: 53.6049486
 longitude: 7.1845265000000005
 postcode: 26506
 city: Norden
-street: Norddeicher Straße
+street: "Norddeicher Straße"
 housenumber: 80
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; Su off"

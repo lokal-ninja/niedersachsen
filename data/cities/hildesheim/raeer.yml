@@ -5,7 +5,7 @@ latitude: 52.161608
 longitude: 9.955363
 postcode: 
 city: Hildesheim
-street: Altes Dorf
+street: "Altes Dorf"
 housenumber: 18-20
 phone: ""
 opening_hours: "Mo-Fr 9:30-13:00, 14:00-18:30;Sa 9:30-16:00"

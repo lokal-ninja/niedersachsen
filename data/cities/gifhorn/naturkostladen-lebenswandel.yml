@@ -5,7 +5,7 @@ latitude: 52.486919400000005
 longitude: 10.545922500000001
 postcode: 38518
 city: Gifhorn
-street: Steinweg
+street: "Steinweg"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00"

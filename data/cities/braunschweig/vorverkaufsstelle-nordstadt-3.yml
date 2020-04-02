@@ -5,7 +5,7 @@ latitude: 52.282665800000004
 longitude: 10.519935700000001
 postcode: 38114
 city: Braunschweig
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 250
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00, Su off"

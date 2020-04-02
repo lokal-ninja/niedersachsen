@@ -5,7 +5,7 @@ latitude: 53.230821500000005
 longitude: 7.464781200000001
 postcode: 26789
 city: Leer
-street: Bahnhofsring
+street: "Bahnhofsring"
 housenumber: 10
 phone: "+49 491 925360"
 opening_hours: "Mo-Th 08:00-12:30,13:00-16:00; Fr 08:00-14:00; PH off"

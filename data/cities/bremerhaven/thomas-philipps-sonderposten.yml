@@ -5,7 +5,7 @@ latitude: 53.489254700000004
 longitude: 8.5994153
 postcode: 27572
 city: Bremerhaven
-street: Am Lunedeich
+street: "Am Lunedeich"
 housenumber: 209
 phone: "+49 471 7004038"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.2110099
 longitude: 9.558162300000001
 postcode: 31832
 city: Springe
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 14
 phone: "+49 5041 8025080"
 opening_hours: ""

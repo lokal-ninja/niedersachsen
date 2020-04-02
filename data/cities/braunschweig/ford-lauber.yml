@@ -5,7 +5,7 @@ latitude: 52.281846400000006
 longitude: 10.5264339
 postcode: 38106
 city: Braunschweig
-street: Weinbergweg
+street: "Weinbergweg"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:30;Sa 08:30-12:30"

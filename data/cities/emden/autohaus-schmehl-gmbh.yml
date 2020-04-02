@@ -5,7 +5,7 @@ latitude: 53.3618741
 longitude: 7.1768374
 postcode: 26723
 city: Emden
-street: Stedinger Straße
+street: "Stedinger Straße"
 housenumber: 14
 phone: "+49 4921 96296"
 opening_hours: ""

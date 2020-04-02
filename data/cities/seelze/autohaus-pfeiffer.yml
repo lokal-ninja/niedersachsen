@@ -5,7 +5,7 @@ latitude: 52.396070800000004
 longitude: 9.6540541
 postcode: 30926
 city: Seelze
-street: Uferstraße
+street: "Uferstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

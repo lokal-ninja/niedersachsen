@@ -5,7 +5,7 @@ latitude: 52.413355800000005
 longitude: 10.5315042
 postcode: 38531
 city: Rötgesbüttel
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 10a
 phone: "+49 5304 931663"
 opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-18:00; Su 07:30-10:30"

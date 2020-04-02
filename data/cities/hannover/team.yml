@@ -5,7 +5,7 @@ latitude: 52.35995380000001
 longitude: 9.6813648
 postcode: 30453
 city: Hannover
-street: Badenstedter Straße
+street: "Badenstedter Straße"
 housenumber: 102
 phone: ""
 opening_hours: ""

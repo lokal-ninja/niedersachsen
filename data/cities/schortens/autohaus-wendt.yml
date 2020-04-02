@@ -5,7 +5,7 @@ latitude: 53.542518
 longitude: 7.952282200000001
 postcode: 26419
 city: Schortens
-street: An der alten Bundesstraße
+street: "An der alten Bundesstraße"
 housenumber: 
 phone: "+49 4461 98440"
 opening_hours: ""

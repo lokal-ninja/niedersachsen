@@ -5,7 +5,7 @@ latitude: 53.4818008
 longitude: 9.6963881
 postcode: 21614
 city: Buxtehude
-street: Westmoor
+street: "Westmoor"
 housenumber: 2c
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

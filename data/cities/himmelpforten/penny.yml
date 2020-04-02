@@ -5,7 +5,7 @@ latitude: 53.61382450000001
 longitude: 9.300607300000001
 postcode: 21709
 city: Himmelpforten
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

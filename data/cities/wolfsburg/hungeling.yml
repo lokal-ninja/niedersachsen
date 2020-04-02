@@ -5,7 +5,7 @@ latitude: 52.4241286
 longitude: 10.7880374
 postcode: 38440
 city: Wolfsburg
-street: Porschestraße
+street: "Porschestraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

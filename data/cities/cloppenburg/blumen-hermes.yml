@@ -5,7 +5,7 @@ latitude: 52.8405252
 longitude: 8.027941700000001
 postcode: 49661
 city: Cloppenburg
-street: Kirchhofstraße
+street: "Kirchhofstraße"
 housenumber: 47
 phone: "+49 4471 2219"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su 10:00-12:00"

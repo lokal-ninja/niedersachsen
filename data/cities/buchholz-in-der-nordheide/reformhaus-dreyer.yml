@@ -5,7 +5,7 @@ latitude: 53.32623220000001
 longitude: 9.877210100000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 12a
 phone: ""
 opening_hours: ""

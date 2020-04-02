@@ -5,7 +5,7 @@ latitude: 52.999785100000004
 longitude: 8.7007221
 postcode: 28816
 city: Stuhr
-street: Mackenstedter Straße
+street: "Mackenstedter Straße"
 housenumber: 26-28
 phone: "+49 4206 7145"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 51.4017198
 longitude: 9.658914000000001
 postcode: 34346
 city: Hann. Münden
-street: Quedlinburger Straße
+street: "Quedlinburger Straße"
 housenumber: 8e
 phone: ""
 opening_hours: "Tu-Fr 08:00-18:00, Sa 08:00-13:00"

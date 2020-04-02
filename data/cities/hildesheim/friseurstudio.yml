@@ -5,7 +5,7 @@ latitude: 52.1491684
 longitude: 9.9404834
 postcode: 31134
 city: Hildesheim
-street: Dammstraße
+street: "Dammstraße"
 housenumber: 43
 phone: "+49 5121 32663"
 opening_hours: ""

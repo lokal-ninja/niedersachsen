@@ -5,7 +5,7 @@ latitude: 52.317477000000004
 longitude: 10.229715
 postcode: 31226
 city: Peine
-street: Friedrich-Ebert-Platz
+street: "Friedrich-Ebert-Platz"
 housenumber: 25
 phone: "+49 5171 9550"
 opening_hours: "Mo-We 08:00-20:00; Th-Sa 08:00-21:00"

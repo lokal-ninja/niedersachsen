@@ -5,7 +5,7 @@ latitude: 52.3695363
 longitude: 9.7423607
 postcode: 30159
 city: Hannover
-street: Georgsplatz
+street: "Georgsplatz"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-18:00"

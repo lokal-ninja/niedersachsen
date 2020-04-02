@@ -5,7 +5,7 @@ latitude: 51.656050500000006
 longitude: 10.340736900000001
 postcode: 37412
 city: Herzberg am Harz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 62
 phone: "+49 5521 3416"
 opening_hours: ""

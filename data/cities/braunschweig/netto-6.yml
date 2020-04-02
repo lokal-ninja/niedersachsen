@@ -5,7 +5,7 @@ latitude: 52.276796600000004
 longitude: 10.5329034
 postcode: 38106
 city: Braunschweig
-street: Nordstraße
+street: "Nordstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

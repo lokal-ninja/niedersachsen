@@ -5,7 +5,7 @@ latitude: 52.52243
 longitude: 8.1940259
 postcode: 49401
 city: Damme
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 2
 phone: "+49 5491 3633"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.429528100000006
 longitude: 9.6217874
 postcode: 30827
 city: Garbsen
-street: Langenhagener Straße
+street: "Langenhagener Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

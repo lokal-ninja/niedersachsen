@@ -5,7 +5,7 @@ latitude: 51.7026781
 longitude: 9.9925884
 postcode: 
 city: Northeim
-street: Göttinger Straße
+street: "Göttinger Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Tu,Th,Fr 08:30-20:00; We 08:30-18:00; PH off"

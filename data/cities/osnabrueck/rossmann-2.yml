@@ -5,7 +5,7 @@ latitude: 52.2742103
 longitude: 8.0480093
 postcode: 49074
 city: Osnabrück
-street: Große Straße
+street: "Große Straße"
 housenumber: 17-19
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; Su off; PH off"

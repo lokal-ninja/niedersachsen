@@ -5,7 +5,7 @@ latitude: 53.191553000000006
 longitude: 9.2856932
 postcode: 27404
 city: Gyhum
-street: Wichernstraße
+street: "Wichernstraße"
 housenumber: 2
 phone: "+49 4281 7120"
 opening_hours: ""

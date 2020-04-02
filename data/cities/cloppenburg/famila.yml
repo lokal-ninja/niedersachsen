@@ -5,7 +5,7 @@ latitude: 52.841759700000004
 longitude: 8.0538902
 postcode: 49661
 city: Cloppenburg
-street: Cappelner Straße
+street: "Cappelner Straße"
 housenumber: 4
 phone: "+49 4471 953 0"
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 51.530258
 longitude: 9.934977400000001
 postcode: 37073
 city: Göttingen
-street: Hospitalstraße
+street: "Hospitalstraße"
 housenumber: 14a;14b;14c
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"

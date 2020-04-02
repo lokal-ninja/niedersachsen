@@ -5,7 +5,7 @@ latitude: 52.8997892
 longitude: 10.1719065
 postcode: 29328
 city: Faßberg
-street: Finkenweg
+street: "Finkenweg"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

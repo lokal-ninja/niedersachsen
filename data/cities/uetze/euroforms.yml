@@ -5,7 +5,7 @@ latitude: 52.467983800000006
 longitude: 10.1976296
 postcode: 31311
 city: Uetze
-street: Nordstraße
+street: "Nordstraße"
 housenumber: 10
 phone: "+49 5173 9808-0"
 opening_hours: ""

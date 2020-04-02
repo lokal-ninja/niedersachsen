@@ -5,7 +5,7 @@ latitude: 52.89813770000001
 longitude: 8.4169212
 postcode: 27793
 city: Wildeshausen
-street: Ahlhorner Straße
+street: "Ahlhorner Straße"
 housenumber: 66
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-18:00; Su, PH off"

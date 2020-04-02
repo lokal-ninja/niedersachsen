@@ -5,7 +5,7 @@ latitude: 52.32565700000001
 longitude: 10.513933300000001
 postcode: 38110
 city: Braunschweig
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 59
 phone: "+49 162 695 47 47"
 opening_hours: "Mo-Th 10:00-16:30, Fr 10:00-15:00, Sa 10:00-13:00"

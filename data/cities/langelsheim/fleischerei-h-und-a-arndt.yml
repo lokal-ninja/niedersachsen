@@ -5,7 +5,7 @@ latitude: 51.937028500000004
 longitude: 10.3353281
 postcode: 38685
 city: Langelsheim
-street: Meisterstraße
+street: "Meisterstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo 07:00-12:30; Tu-Fr 07:00-12:30,14:30-18:00; Sa 07:00-12:00"

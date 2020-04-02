@@ -5,7 +5,7 @@ latitude: 53.0383143
 longitude: 8.1089044
 postcode: 26203
 city: Wardenburg
-street: Böseler Straße
+street: "Böseler Straße"
 housenumber: 416
 phone: "+49 44079149910"
 opening_hours: ""

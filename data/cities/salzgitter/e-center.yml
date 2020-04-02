@@ -5,7 +5,7 @@ latitude: 52.0488227
 longitude: 10.369171900000001
 postcode: 38259
 city: Salzgitter
-street: An der Erzbahn
+street: "An der Erzbahn"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.017351100000006
 longitude: 7.8553521
 postcode: 26169
 city: Friesoythe
-street: Ellerbrocker Straße
+street: "Ellerbrocker Straße"
 housenumber: 5
 phone: "+49441 920700"
 opening_hours: "Mo-Sa 08:00-20:00"

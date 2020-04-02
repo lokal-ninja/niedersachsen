@@ -5,7 +5,7 @@ latitude: 52.3213079
 longitude: 8.372105000000001
 postcode: 49152
 city: Bad Essen
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 
 phone: "+49 5472 - 97 78 10"
 opening_hours: ""

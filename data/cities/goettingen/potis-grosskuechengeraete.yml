@@ -5,7 +5,7 @@ latitude: 51.5498868
 longitude: 9.8929317
 postcode: 37079
 city: Göttingen
-street: August-Spindler-Straße
+street: "August-Spindler-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

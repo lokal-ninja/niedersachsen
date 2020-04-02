@@ -5,7 +5,7 @@ latitude: 52.0196802
 longitude: 10.4298784
 postcode: 38704
 city: Liebenburg
-street: Poststraße
+street: "Poststraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

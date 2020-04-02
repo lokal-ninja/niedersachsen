@@ -5,7 +5,7 @@ latitude: 53.7466007
 longitude: 7.4803481000000005
 postcode: 26465
 city: Langeoog
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Su 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.309893100000004
 longitude: 9.608561400000001
 postcode: 30989
 city: Gehrden
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

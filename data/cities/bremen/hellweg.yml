@@ -5,7 +5,7 @@ latitude: 53.1685662
 longitude: 8.691512300000001
 postcode: 28717
 city: Bremen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 55b
 phone: ""
 opening_hours: "Mo-Fr 06:00-13:00,15:00-18:00; Sa 06:00-12:30; Su 07:30-12:00"

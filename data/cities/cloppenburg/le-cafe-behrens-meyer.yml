@@ -5,7 +5,7 @@ latitude: 52.8459591
 longitude: 8.0483195
 postcode: 49661
 city: Cloppenburg
-street: Museumstraße
+street: "Museumstraße"
 housenumber: 2
 phone: "+49 4471 703617"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-14:00; Su 07:00-18:00"

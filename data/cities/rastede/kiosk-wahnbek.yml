@@ -5,7 +5,7 @@ latitude: 53.206555200000004
 longitude: 8.2410186
 postcode: 26180
 city: Rastede
-street: Elbestraße
+street: "Elbestraße"
 housenumber: 2
 phone: "+49 4402 83824"
 opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"

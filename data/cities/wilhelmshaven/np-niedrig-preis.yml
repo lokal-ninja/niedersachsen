@@ -5,7 +5,7 @@ latitude: 53.5155721
 longitude: 8.115281000000001
 postcode: 26382
 city: Wilhelmshaven
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 94
 phone: "+49 4421 987990"
 opening_hours: "Mo-Sa 07:00-20:00"

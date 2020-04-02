@@ -5,7 +5,7 @@ latitude: 52.420836300000005
 longitude: 10.7099957
 postcode: 38442
 city: Wolfsburg
-street: Westerbreite
+street: "Westerbreite"
 housenumber: 4
 phone: ""
 opening_hours: ""

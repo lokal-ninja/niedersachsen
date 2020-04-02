@@ -5,7 +5,7 @@ latitude: 53.283064
 longitude: 9.7060464
 postcode: 21255
 city: Tostedt
-street: Heidenauer Straße
+street: "Heidenauer Straße"
 housenumber: 11
 phone: "+49 4182 6279"
 opening_hours: "Mo-Fr 08:00-18:00"

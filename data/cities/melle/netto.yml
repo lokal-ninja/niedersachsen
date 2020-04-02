@@ -5,7 +5,7 @@ latitude: 52.1359055
 longitude: 8.3856674
 postcode: 49326
 city: Melle
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1373405
 longitude: 8.2157816
 postcode: 26122
 city: Oldenburg (Oldb)
-street: Schloßplatz
+street: "Schloßplatz"
 housenumber: 25
 phone: "+49 441 99875599"
 opening_hours: "Mo-Fr 10:00-18:30,Sa 10:00-18:00"

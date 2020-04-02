@@ -5,7 +5,7 @@ latitude: 53.113768500000006
 longitude: 9.686352300000001
 postcode: 29640
 city: Schneverdingen
-street: Lünzener Straße
+street: "Lünzener Straße"
 housenumber: 12
 phone: "+49 5193 982263"
 opening_hours: ""

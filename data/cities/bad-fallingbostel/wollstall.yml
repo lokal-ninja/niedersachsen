@@ -5,7 +5,7 @@ latitude: 52.8652937
 longitude: 9.6935704
 postcode: 29683
 city: Bad Fallingbostel
-street: Scharnhorststraße
+street: "Scharnhorststraße"
 housenumber: 4 a
 phone: "+49 5162 9850666"
 opening_hours: "Tu-Fr 14:30-18:00; Sa 10:00-13:00"

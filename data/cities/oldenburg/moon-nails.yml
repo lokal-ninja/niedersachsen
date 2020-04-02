@@ -5,7 +5,7 @@ latitude: 53.144347200000006
 longitude: 8.2127798
 postcode: 26121
 city: Oldenburg
-street: Heiligengeiststraße
+street: "Heiligengeiststraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

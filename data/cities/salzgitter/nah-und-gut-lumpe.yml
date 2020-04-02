@@ -5,7 +5,7 @@ latitude: 52.0622453
 longitude: 10.3708924
 postcode: 38259
 city: Salzgitter
-street: Kattowitzer Platz
+street: "Kattowitzer Platz"
 housenumber: 1
 phone: ""
 opening_hours: ""

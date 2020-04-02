@@ -5,7 +5,7 @@ latitude: 53.5586746
 longitude: 8.1027549
 postcode: 26386
 city: Wilhelmshaven
-street: Freiligrathstraße
+street: "Freiligrathstraße"
 housenumber: 360
 phone: "+49 4421 8080"
 opening_hours: ""

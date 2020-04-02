@@ -5,7 +5,7 @@ latitude: 53.1440429
 longitude: 8.204326400000001
 postcode: 26121
 city: Oldenburg
-street: Katharinenstraße
+street: "Katharinenstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

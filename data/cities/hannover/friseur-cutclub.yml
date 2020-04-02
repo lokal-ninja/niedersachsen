@@ -5,7 +5,7 @@ latitude: 52.34059250000001
 longitude: 9.6921666
 postcode: 30457
 city: Hannover
-street: Mühlenbergzentrum
+street: "Mühlenbergzentrum"
 housenumber: 12
 phone: ""
 opening_hours: ""

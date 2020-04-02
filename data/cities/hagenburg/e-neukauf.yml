@@ -5,7 +5,7 @@ latitude: 52.4341986
 longitude: 9.323250900000001
 postcode: 31558
 city: Hagenburg
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 20
 phone: "+49 5033 971277"
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.319471300000004
 longitude: 10.399242500000001
 postcode: 38176
 city: Wendeburg
-street: Büssingstraße
+street: "Büssingstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

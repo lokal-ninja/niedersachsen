@@ -5,7 +5,7 @@ latitude: 51.7700393
 longitude: 9.9205542
 postcode: 37574
 city: Einbeck
-street: Deichstraße
+street: "Deichstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

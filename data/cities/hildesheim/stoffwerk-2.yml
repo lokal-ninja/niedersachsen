@@ -5,7 +5,7 @@ latitude: 52.153269200000004
 longitude: 9.9475774
 postcode: 31134
 city: Hildesheim
-street: Michaelisstraße
+street: "Michaelisstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

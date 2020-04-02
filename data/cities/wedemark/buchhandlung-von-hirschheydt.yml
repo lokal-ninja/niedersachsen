@@ -5,7 +5,7 @@ latitude: 52.547852400000004
 longitude: 9.7378754
 postcode: 30900
 city: Wedemark
-street: Am Langen Felde
+street: "Am Langen Felde"
 housenumber: 5-7
 phone: "+49 5130 5466"
 opening_hours: "Mo-Fr 07:30-18:30; Sa 08:45-14:00"

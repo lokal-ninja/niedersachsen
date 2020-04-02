@@ -5,7 +5,7 @@ latitude: 51.549657100000005
 longitude: 9.9342223
 postcode: 
 city: Göttingen
-street: Theodor-Heuss-Straße
+street: "Theodor-Heuss-Straße"
 housenumber: 66
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-14:30; PH off"

@@ -5,7 +5,7 @@ latitude: 52.2632818
 longitude: 8.006538200000001
 postcode: 49078
 city: Osnabrück
-street: Kurt-Schumacher-Damm
+street: "Kurt-Schumacher-Damm"
 housenumber: 61
 phone: "+49 541 - 18 11 30"
 opening_hours: "Su 11:00-14:00; Mo-Sa 09:00-19:00"

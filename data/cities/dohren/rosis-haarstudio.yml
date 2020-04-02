@@ -5,7 +5,7 @@ latitude: 53.3050112
 longitude: 9.6980532
 postcode: 21255
 city: Dohren
-street: Lohworthsweg
+street: "Lohworthsweg"
 housenumber: 9
 phone: ""
 opening_hours: ""

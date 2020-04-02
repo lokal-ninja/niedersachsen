@@ -5,7 +5,7 @@ latitude: 52.3366285
 longitude: 9.7623257
 postcode: 30519
 city: Hannover
-street: Abelmannstraße
+street: "Abelmannstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

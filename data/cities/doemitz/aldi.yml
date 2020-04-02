@@ -5,7 +5,7 @@ latitude: 53.1393038
 longitude: 11.2623101
 postcode: 19303
 city: Dömitz
-street: Werderstraße
+street: "Werderstraße"
 housenumber: 25c
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su 12:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.438043400000005
 longitude: 9.6010852
 postcode: 30527
 city: Garbsen
-street: Birkenweg
+street: "Birkenweg"
 housenumber: 36
 phone: ""
 opening_hours: ""

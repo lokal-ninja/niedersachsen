@@ -5,7 +5,7 @@ latitude: 52.831380100000004
 longitude: 10.087430900000001
 postcode: 29320
 city: Südheide
-street: Am Markt
+street: "Am Markt"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-17:00"

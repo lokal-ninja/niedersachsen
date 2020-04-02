@@ -5,7 +5,7 @@ latitude: 51.5090786
 longitude: 10.260398100000002
 postcode: 
 city: Duderstadt
-street: Steintorstraße
+street: "Steintorstraße"
 housenumber: 65
 phone: ""
 opening_hours: ""

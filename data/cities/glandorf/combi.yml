@@ -5,7 +5,7 @@ latitude: 52.0794329
 longitude: 7.999676900000001
 postcode: 49219
 city: Glandorf
-street: Füchtorfer Straße
+street: "Füchtorfer Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

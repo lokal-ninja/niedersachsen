@@ -5,7 +5,7 @@ latitude: 52.205422500000005
 longitude: 9.912031500000001
 postcode: 31180
 city: Giesen
-street: Pankratiusstraße
+street: "Pankratiusstraße"
 housenumber: 15
 phone: "+49 5066 1679"
 opening_hours: ""

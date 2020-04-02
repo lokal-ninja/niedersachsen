@@ -5,7 +5,7 @@ latitude: 51.727584
 longitude: 10.253381000000001
 postcode: 37520
 city: Osterode am Harz
-street: Am Schilde
+street: "Am Schilde"
 housenumber: 9
 phone: "+49 5522 999595"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"

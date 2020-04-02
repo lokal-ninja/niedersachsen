@@ -5,7 +5,7 @@ latitude: 52.8612315
 longitude: 9.615594
 postcode: 29664
 city: Walsrode
-street: Werner-von-Siemens-Straße
+street: "Werner-von-Siemens-Straße"
 housenumber: 6
 phone: "+49 5161 98990"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"

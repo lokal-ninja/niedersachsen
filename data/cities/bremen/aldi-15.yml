@@ -5,7 +5,7 @@ latitude: 53.0322648
 longitude: 8.8109213
 postcode: 28277
 city: Bremen
-street: Kattenturmer Heerstraße
+street: "Kattenturmer Heerstraße"
 housenumber: 326
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

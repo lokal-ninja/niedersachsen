@@ -5,7 +5,7 @@ latitude: 53.5246998
 longitude: 8.1083619
 postcode: 26382
 city: Wilhelmshaven
-street: Mitscherlichstraße
+street: "Mitscherlichstraße"
 housenumber: 29a
 phone: "+49 4421 23727"
 opening_hours: ""

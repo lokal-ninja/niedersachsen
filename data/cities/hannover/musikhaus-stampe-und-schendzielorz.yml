@@ -5,7 +5,7 @@ latitude: 52.3731816
 longitude: 9.702306700000001
 postcode: 30451
 city: Hannover
-street: Bethlehemplatz
+street: "Bethlehemplatz"
 housenumber: 6
 phone: "+49 511 2107643"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"

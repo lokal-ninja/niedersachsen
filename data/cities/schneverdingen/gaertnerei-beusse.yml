@@ -5,7 +5,7 @@ latitude: 53.0654022
 longitude: 9.8591838
 postcode: 29640
 city: Schneverdingen
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-10:00; Su 10:00-12:00"

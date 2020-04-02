@@ -5,7 +5,7 @@ latitude: 52.456091900000004
 longitude: 9.8009564
 postcode: 30916
 city: Isernhagen
-street: Am Ortfelde
+street: "Am Ortfelde"
 housenumber: 65
 phone: ""
 opening_hours: "Mo-Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 51.7061368
 longitude: 9.997049500000001
 postcode: 37154
 city: Northeim
-street: Grafenhof
+street: "Grafenhof"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; PH off"

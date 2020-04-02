@@ -5,7 +5,7 @@ latitude: 52.1402264
 longitude: 9.962157300000001
 postcode: 31141
 city: Hildesheim
-street: Marienburger Straße
+street: "Marienburger Straße"
 housenumber: 140
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

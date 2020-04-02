@@ -5,7 +5,7 @@ latitude: 52.264110200000005
 longitude: 10.2217037
 postcode: 31241
 city: Ilsede
-street: Gerhardstraße
+street: "Gerhardstraße"
 housenumber: 77
 phone: "+49 5172 410488"
 opening_hours: ""

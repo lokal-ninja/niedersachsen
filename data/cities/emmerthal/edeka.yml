@@ -5,7 +5,7 @@ latitude: 52.049094700000005
 longitude: 9.386929700000001
 postcode: 31860
 city: Emmerthal
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 60b
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

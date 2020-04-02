@@ -5,7 +5,7 @@ latitude: 52.3198616
 longitude: 7.2253981000000005
 postcode: 48465
 city: Schüttorf
-street: Graf-Egbert-Straße
+street: "Graf-Egbert-Straße"
 housenumber: 11b
 phone: ""
 opening_hours: ""

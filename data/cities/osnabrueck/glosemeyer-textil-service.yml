@@ -5,7 +5,7 @@ latitude: 52.27224270000001
 longitude: 8.0982327
 postcode: 49084
 city: Osnabrück
-street: Südstraße
+street: "Südstraße"
 housenumber: 39
 phone: ""
 opening_hours: ""

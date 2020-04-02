@@ -5,7 +5,7 @@ latitude: 52.333351900000004
 longitude: 9.664782
 postcode: 30952
 city: Ronnenberg
-street: Ronnenberger Straße
+street: "Ronnenberger Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.9366635
 longitude: 10.328234
 postcode: 38685
 city: Langelsheim
-street: Harzstraße
+street: "Harzstraße"
 housenumber: 21
 phone: "+49532686388"
 opening_hours: ""

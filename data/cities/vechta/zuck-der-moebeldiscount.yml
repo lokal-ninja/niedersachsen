@@ -5,7 +5,7 @@ latitude: 52.7139463
 longitude: 8.2860774
 postcode: 49377
 city: Vechta
-street: Lohner Straße
+street: "Lohner Straße"
 housenumber: 15
 phone: "+49 4441 90670"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

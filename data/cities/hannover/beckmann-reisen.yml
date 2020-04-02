@@ -5,7 +5,7 @@ latitude: 52.3562517
 longitude: 9.6655815
 postcode: 30455
 city: Hannover
-street: Im Reihpiepenfelde
+street: "Im Reihpiepenfelde"
 housenumber: 10
 phone: "+49 511 493951"
 opening_hours: ""

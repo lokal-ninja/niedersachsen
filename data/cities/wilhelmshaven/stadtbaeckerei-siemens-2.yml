@@ -5,7 +5,7 @@ latitude: 53.561092800000004
 longitude: 8.1094887
 postcode: 26386
 city: Wilhelmshaven
-street: Rüstersieler Straße
+street: "Rüstersieler Straße"
 housenumber: 93
 phone: "+49 4421 60258"
 opening_hours: "Mo-Tu 06:00-13:00,15:00-18:00; We 06:00-13:00; Th-Fr 06:00-13:00,15:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"

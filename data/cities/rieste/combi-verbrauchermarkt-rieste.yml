@@ -5,7 +5,7 @@ latitude: 52.480320000000006
 longitude: 8.0089889
 postcode: 49597
 city: Rieste
-street: Roggenkamp
+street: "Roggenkamp"
 housenumber: 1
 phone: "+49 5464 968338"
 opening_hours: "Mo-Sa 07:00-21:00"

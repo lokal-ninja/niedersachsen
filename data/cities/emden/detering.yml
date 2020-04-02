@@ -5,7 +5,7 @@ latitude: 53.3921617
 longitude: 7.210941900000001
 postcode: 26721
 city: Emden
-street: Wilhelm-Raabe-Straße
+street: "Wilhelm-Raabe-Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 10:00-13:00"

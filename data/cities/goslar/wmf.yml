@@ -5,7 +5,7 @@ latitude: 51.9084068
 longitude: 10.4271814
 postcode: 38640
 city: Goslar
-street: Rosentorstraße
+street: "Rosentorstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

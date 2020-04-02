@@ -5,7 +5,7 @@ latitude: 51.890072100000005
 longitude: 10.1762634
 postcode: 38723
 city: Seesen
-street: Jacobsonstraße
+street: "Jacobsonstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

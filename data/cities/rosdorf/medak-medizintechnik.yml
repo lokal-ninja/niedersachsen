@@ -5,7 +5,7 @@ latitude: 51.5141433
 longitude: 9.8972727
 postcode: 37124
 city: Rosdorf
-street: Hinter dem Hamberge
+street: "Hinter dem Hamberge"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-16:00; Sa,Su,PH off"

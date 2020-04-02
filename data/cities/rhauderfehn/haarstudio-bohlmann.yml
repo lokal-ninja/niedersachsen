@@ -5,7 +5,7 @@ latitude: 53.1058395
 longitude: 7.578260200000001
 postcode: 
 city: Rhauderfehn
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

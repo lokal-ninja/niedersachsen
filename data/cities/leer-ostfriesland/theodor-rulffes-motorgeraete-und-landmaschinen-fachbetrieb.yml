@@ -5,7 +5,7 @@ latitude: 53.235933700000004
 longitude: 7.4837370000000005
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 61-63
 phone: "+49 491 4544 789"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.638746100000006
 longitude: 9.2055302
 postcode: 31582
 city: Nienburg/Weser
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:30,15:00-18:00; Sa 09:00-13:30"

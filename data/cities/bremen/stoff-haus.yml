@@ -5,7 +5,7 @@ latitude: 53.1710694
 longitude: 8.6231003
 postcode: 28757
 city: Bremen
-street: Sagerstraße
+street: "Sagerstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"

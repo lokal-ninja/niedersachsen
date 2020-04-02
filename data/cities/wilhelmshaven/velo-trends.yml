@@ -5,7 +5,7 @@ latitude: 53.5435176
 longitude: 8.119209900000001
 postcode: 26386
 city: Wilhelmshaven
-street: Gökerstraße
+street: "Gökerstraße"
 housenumber: 216
 phone: "+49 4421 96880"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.507842200000006
 longitude: 9.9129238
 postcode: 37124
 city: Rosdorf
-street: Am Flüthedamm
+street: "Am Flüthedamm"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00 Büro; Sa 08:00-12:00 Büro; Mo-Fr 07:30-16:15 Wekstatt; PH off; 24/7 Abschleppdienst"

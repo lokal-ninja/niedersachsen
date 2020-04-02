@@ -5,7 +5,7 @@ latitude: 53.087749900000006
 longitude: 9.1765235
 postcode: 27367
 city: Sottrum
-street: Everinghauser Straße
+street: "Everinghauser Straße"
 housenumber: 200
 phone: "+49 4205 491"
 opening_hours: "24/7"

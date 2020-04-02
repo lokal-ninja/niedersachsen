@@ -5,7 +5,7 @@ latitude: 52.397822500000004
 longitude: 9.732392800000001
 postcode: 30165
 city: Hannover
-street: Melanchthonstraße
+street: "Melanchthonstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

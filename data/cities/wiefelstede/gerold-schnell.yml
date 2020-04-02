@@ -5,7 +5,7 @@ latitude: 53.248771500000004
 longitude: 8.120431700000001
 postcode: 26215
 city: Wiefelstede
-street: Eisenstraße
+street: "Eisenstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

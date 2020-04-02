@@ -5,7 +5,7 @@ latitude: 52.4181387
 longitude: 10.6243076
 postcode: 38547
 city: Calberlah
-street: Windmühlenweg
+street: "Windmühlenweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

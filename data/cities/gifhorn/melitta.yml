@@ -5,7 +5,7 @@ latitude: 52.469112
 longitude: 10.547683800000001
 postcode: 38518
 city: Gifhorn
-street: Limbergstraße
+street: "Limbergstraße"
 housenumber: 53
 phone: ""
 opening_hours: ""

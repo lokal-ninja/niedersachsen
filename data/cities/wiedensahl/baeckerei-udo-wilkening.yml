@@ -5,7 +5,7 @@ latitude: 52.389936000000006
 longitude: 9.1181664
 postcode: 31719
 city: Wiedensahl
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 151
 phone: "+49 5726 413"
 opening_hours: "Mo-Fr 07:00-12:30,14:30-18:00; Sa 07:00-12:30"

@@ -5,7 +5,7 @@ latitude: 53.5306033
 longitude: 8.589286000000001
 postcode: 27570
 city: Bremerhaven
-street: Georgstraße
+street: "Georgstraße"
 housenumber: 64
 phone: ""
 opening_hours: "Mo-Su 06:00-22:00"

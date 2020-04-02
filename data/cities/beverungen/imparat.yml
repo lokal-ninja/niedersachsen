@@ -5,7 +5,7 @@ latitude: 51.674452
 longitude: 9.379151100000001
 postcode: 37688
 city: Beverungen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Th 06:30-16:15;Fr 06:30-13:45"

@@ -5,7 +5,7 @@ latitude: 52.35727910000001
 longitude: 9.656313800000001
 postcode: 30455
 city: Hannover
-street: Lenther Chaussee
+street: "Lenther Chaussee"
 housenumber: 7
 phone: ""
 opening_hours: ""

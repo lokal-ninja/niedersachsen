@@ -5,7 +5,7 @@ latitude: 52.32518760000001
 longitude: 10.2104776
 postcode: 31228
 city: Peine
-street: Vöhrumer Straße
+street: "Vöhrumer Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

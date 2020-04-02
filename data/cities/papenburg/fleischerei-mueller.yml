@@ -5,7 +5,7 @@ latitude: 53.068074100000004
 longitude: 7.4293000000000005
 postcode: 26871
 city: Papenburg
-street: Barenbergstraße
+street: "Barenbergstraße"
 housenumber: 51
 phone: "+49 4961 73495"
 opening_hours: ""

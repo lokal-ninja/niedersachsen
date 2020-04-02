@@ -5,7 +5,7 @@ latitude: 52.385522200000004
 longitude: 9.7498626
 postcode: 30161
 city: Hannover
-street: Wedekindplatz
+street: "Wedekindplatz"
 housenumber: 2
 phone: ""
 opening_hours: ""

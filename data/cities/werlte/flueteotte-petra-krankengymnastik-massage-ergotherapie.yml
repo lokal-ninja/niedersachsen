@@ -5,7 +5,7 @@ latitude: 52.85146820000001
 longitude: 7.6780736
 postcode: 49757
 city: Werlte
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 5
 phone: "+49 5951 5211"
 opening_hours: ""

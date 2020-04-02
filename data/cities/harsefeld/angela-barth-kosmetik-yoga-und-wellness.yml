@@ -5,7 +5,7 @@ latitude: 53.4314386
 longitude: 9.4646375
 postcode: 21698
 city: Harsefeld
-street: Buschhornweg
+street: "Buschhornweg"
 housenumber: 8
 phone: "+49 4164 87 57 400"
 opening_hours: "Mo-Fr 09:00-18:30 || nach Vereinbarung"

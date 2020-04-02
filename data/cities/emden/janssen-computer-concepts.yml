@@ -5,7 +5,7 @@ latitude: 53.3843359
 longitude: 7.209339600000001
 postcode: 26721
 city: Emden
-street: Theodor-Storm-Straße
+street: "Theodor-Storm-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

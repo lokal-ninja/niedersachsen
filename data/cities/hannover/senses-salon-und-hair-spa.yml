@@ -5,7 +5,7 @@ latitude: 52.399227800000006
 longitude: 9.7688927
 postcode: 30177
 city: Hannover
-street: Günther-Wagner-Allee
+street: "Günther-Wagner-Allee"
 housenumber: 16
 phone: "+49 511 80761828"
 opening_hours: "Mo off; Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 53.251597600000004
 longitude: 10.412474000000001
 postcode: 21335
 city: Lüneburg
-street: Lüner Straße
+street: "Lüner Straße"
 housenumber: 9A
 phone: ""
 opening_hours: ""

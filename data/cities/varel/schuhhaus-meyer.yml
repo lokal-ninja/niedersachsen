@@ -5,7 +5,7 @@ latitude: 53.374100500000004
 longitude: 8.101605600000001
 postcode: 26316
 city: Varel
-street: Plaggenkrugstraße
+street: "Plaggenkrugstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

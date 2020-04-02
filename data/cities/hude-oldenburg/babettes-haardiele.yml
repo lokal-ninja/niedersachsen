@@ -5,7 +5,7 @@ latitude: 53.110994000000005
 longitude: 8.4640997
 postcode: 27798
 city: Hude (Oldenburg)
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

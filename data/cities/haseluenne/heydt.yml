@@ -5,7 +5,7 @@ latitude: 52.674663200000005
 longitude: 7.489701800000001
 postcode: 49740
 city: Haselünne
-street: Neustadtstraße
+street: "Neustadtstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

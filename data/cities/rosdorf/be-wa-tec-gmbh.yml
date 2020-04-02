@@ -5,7 +5,7 @@ latitude: 51.511092000000005
 longitude: 9.9136182
 postcode: 37124
 city: Rosdorf
-street: Schlachthofstraße
+street: "Schlachthofstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

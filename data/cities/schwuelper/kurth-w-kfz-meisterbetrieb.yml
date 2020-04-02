@@ -5,7 +5,7 @@ latitude: 52.3547463
 longitude: 10.4339218
 postcode: 38179
 city: Schwülper
-street: Poststraße
+street: "Poststraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:30,13:15-16:15"

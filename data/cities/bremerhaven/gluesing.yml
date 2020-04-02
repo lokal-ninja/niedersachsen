@@ -5,7 +5,7 @@ latitude: 53.5387142
 longitude: 8.586721
 postcode: 27570
 city: Bremerhaven
-street: Borriesstraße
+street: "Borriesstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"

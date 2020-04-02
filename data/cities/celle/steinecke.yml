@@ -5,7 +5,7 @@ latitude: 52.622394
 longitude: 10.080842
 postcode: 29221
 city: Celle
-street: Großer Plan
+street: "Großer Plan"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 07:00-18:00"

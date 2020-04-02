@@ -5,7 +5,7 @@ latitude: 53.52077250000001
 longitude: 8.579994000000001
 postcode: 27572
 city: Bremerhaven
-street: Am Fischbahnhof
+street: "Am Fischbahnhof"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 04:30-17:00; Sa 05:00-12:00"

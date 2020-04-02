@@ -5,7 +5,7 @@ latitude: 52.315929000000004
 longitude: 10.226499200000001
 postcode: 31226
 city: Peine
-street: Theodor-Heuss-Straße
+street: "Theodor-Heuss-Straße"
 housenumber: 13
 phone: "+49 5171 591360"
 opening_hours: ""

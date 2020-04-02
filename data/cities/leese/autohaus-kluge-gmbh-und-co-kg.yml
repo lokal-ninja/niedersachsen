@@ -5,7 +5,7 @@ latitude: 52.5010515
 longitude: 9.118905900000001
 postcode: 31633
 city: Leese
-street: Alter Hoop
+street: "Alter Hoop"
 housenumber: 2
 phone: "+49 5761 2786"
 opening_hours: "Mo-Th 08:00-17:30, Fr 08:00-17:00; Sa 09:00-13:00"

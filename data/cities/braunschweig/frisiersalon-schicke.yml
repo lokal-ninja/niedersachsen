@@ -5,7 +5,7 @@ latitude: 52.249012900000004
 longitude: 10.472004400000001
 postcode: 
 city: Braunschweig
-street: Rheinring
+street: "Rheinring"
 housenumber: 65
 phone: ""
 opening_hours: ""

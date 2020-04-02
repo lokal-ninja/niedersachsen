@@ -5,7 +5,7 @@ latitude: 52.1541499
 longitude: 9.9490511
 postcode: 31134
 city: Hildesheim
-street: Arnekenstraße
+street: "Arnekenstraße"
 housenumber: 18
 phone: "+49 5121 157084"
 opening_hours: "Mo-Sa 09:30-19:00"

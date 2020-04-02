@@ -5,7 +5,7 @@ latitude: 53.014873900000005
 longitude: 8.5657289
 postcode: 27777
 city: Ganderkesee
-street: Wildeshauser Landstraße
+street: "Wildeshauser Landstraße"
 housenumber: 76
 phone: "+49 4222 2155"
 opening_hours: ""

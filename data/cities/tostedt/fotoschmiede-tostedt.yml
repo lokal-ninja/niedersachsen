@@ -5,7 +5,7 @@ latitude: 53.275207800000004
 longitude: 9.736224
 postcode: 21255
 city: Tostedt
-street: Am Raiffeisenplatz
+street: "Am Raiffeisenplatz"
 housenumber: 6
 phone: ""
 opening_hours: ""

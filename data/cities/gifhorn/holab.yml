@@ -5,7 +5,7 @@ latitude: 52.493649000000005
 longitude: 10.5197331
 postcode: 38518
 city: Gifhorn
-street: Wilscher Weg
+street: "Wilscher Weg"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

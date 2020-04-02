@@ -5,7 +5,7 @@ latitude: 53.361932700000004
 longitude: 7.176205100000001
 postcode: 26723
 city: Emden
-street: Dithmarscher Straße
+street: "Dithmarscher Straße"
 housenumber: 19
 phone: "+49 4921 5262"
 opening_hours: ""

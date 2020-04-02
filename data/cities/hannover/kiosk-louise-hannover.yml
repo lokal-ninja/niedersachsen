@@ -5,7 +5,7 @@ latitude: 52.38780920000001
 longitude: 9.8295391
 postcode: 30627
 city: Hannover
-street: Louise-Schroeder-Straße
+street: "Louise-Schroeder-Straße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Sa 05:30-21:00"

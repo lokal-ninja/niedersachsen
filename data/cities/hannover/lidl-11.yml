@@ -5,7 +5,7 @@ latitude: 52.337132700000005
 longitude: 9.717747000000001
 postcode: 30459
 city: Hannover
-street: Tillystraße
+street: "Tillystraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

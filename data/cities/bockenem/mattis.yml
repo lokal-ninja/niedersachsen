@@ -5,7 +5,7 @@ latitude: 52.008906100000004
 longitude: 10.131035200000001
 postcode: 31167
 city: Bockenem
-street: Klosterstraße
+street: "Klosterstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 8:00-13:00"

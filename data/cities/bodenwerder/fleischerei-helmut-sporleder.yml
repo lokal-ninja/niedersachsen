@@ -5,7 +5,7 @@ latitude: 51.976573200000004
 longitude: 9.514777
 postcode: 37619
 city: Bodenwerder
-street: Münchhausenstraße
+street: "Münchhausenstraße"
 housenumber: 9
 phone: "+49 5533 6466"
 opening_hours: ""

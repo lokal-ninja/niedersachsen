@@ -5,7 +5,7 @@ latitude: 52.0201968
 longitude: 10.550761000000001
 postcode: 38315
 city: Schladen-Werla
-street: Hermann-Müller-Straße
+street: "Hermann-Müller-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:30; Sa 08:30-18:00; Su off; PH off"

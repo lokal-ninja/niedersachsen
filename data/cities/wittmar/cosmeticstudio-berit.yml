@@ -5,7 +5,7 @@ latitude: 52.129080200000004
 longitude: 10.6400638
 postcode: 38329
 city: Wittmar
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 7
 phone: "+49-5337-948333"
 opening_hours: ""

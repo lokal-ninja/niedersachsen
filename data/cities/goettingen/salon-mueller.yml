@@ -5,7 +5,7 @@ latitude: 51.5344077
 longitude: 9.934755800000001
 postcode: 37073
 city: Göttingen
-street: Prinzenstraße
+street: "Prinzenstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo 10:00-18:00; Fr 09:00-18:00; Tu-Th 08:30-18:00; Sa 09:00-14:00; PH off"

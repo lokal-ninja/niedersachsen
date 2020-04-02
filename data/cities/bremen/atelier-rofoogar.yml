@@ -5,7 +5,7 @@ latitude: 53.0754797
 longitude: 8.8363613
 postcode: 
 city: Bremen
-street: Feldstraße
+street: "Feldstraße"
 housenumber: 160
 phone: "+49 421 67321221"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.5343036
 longitude: 9.9296711
 postcode: 37073
 city: Göttingen
-street: Neustadt
+street: "Neustadt"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; PH off"

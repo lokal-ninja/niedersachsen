@@ -5,7 +5,7 @@ latitude: 53.552190700000004
 longitude: 7.9910889
 postcode: 26419
 city: Schortens
-street: Peter-Grave-Straße
+street: "Peter-Grave-Straße"
 housenumber: 2
 phone: "+49 4423-915810"
 opening_hours: "Mo-Sa 06:30-20:00; Su off"

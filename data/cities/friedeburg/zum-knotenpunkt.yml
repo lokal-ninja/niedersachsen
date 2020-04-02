@@ -5,7 +5,7 @@ latitude: 53.4516974
 longitude: 7.840681900000001
 postcode: 26446
 city: Friedeburg
-street: Friedeburger Hauptstraße
+street: "Friedeburger Hauptstraße"
 housenumber: 59
 phone: "+49 4465 945075"
 opening_hours: ""

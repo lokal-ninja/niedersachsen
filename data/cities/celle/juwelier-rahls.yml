@@ -5,7 +5,7 @@ latitude: 52.624038600000006
 longitude: 10.0818338
 postcode: 29221
 city: Celle
-street: Poststraße
+street: "Poststraße"
 housenumber: 10
 phone: "+49 5141 22639"
 opening_hours: "Mo-Fr 09:30-19:00;Sa 09:00-16:00"

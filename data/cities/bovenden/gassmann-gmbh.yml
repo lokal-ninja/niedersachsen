@@ -5,7 +5,7 @@ latitude: 51.599733400000005
 longitude: 9.930357500000001
 postcode: 37120
 city: Bovenden
-street: Alte Bundesstraße
+street: "Alte Bundesstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

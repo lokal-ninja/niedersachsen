@@ -5,7 +5,7 @@ latitude: 53.117949100000004
 longitude: 8.3463701
 postcode: 27798
 city: Hude (Oldenburg)
-street: Frh.-v.-Münnich-Straße
+street: "Frh.-v.-Münnich-Straße"
 housenumber: 9
 phone: "+49 4484 920 816"
 opening_hours: "07:00-18:00"

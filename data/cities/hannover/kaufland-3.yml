@@ -5,7 +5,7 @@ latitude: 52.409103300000005
 longitude: 9.710336100000001
 postcode: 30165
 city: Hannover
-street: Krepenstraße
+street: "Krepenstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

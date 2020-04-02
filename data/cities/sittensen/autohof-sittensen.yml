@@ -5,7 +5,7 @@ latitude: 53.293195600000004
 longitude: 9.5051967
 postcode: 27419
 city: Sittensen
-street: Hansestraße
+street: "Hansestraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

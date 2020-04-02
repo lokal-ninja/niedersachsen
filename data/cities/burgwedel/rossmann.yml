@@ -5,7 +5,7 @@ latitude: 52.4913723
 longitude: 9.8587106
 postcode: 30938
 city: Burgwedel
-street: Hannoversche Straße
+street: "Hannoversche Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

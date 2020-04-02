@@ -5,7 +5,7 @@ latitude: 51.532811
 longitude: 9.9313982
 postcode: 37073
 city: Göttingen
-street: Papendiek
+street: "Papendiek"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00; PH off"

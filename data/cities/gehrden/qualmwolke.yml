@@ -5,7 +5,7 @@ latitude: 52.30918320000001
 longitude: 9.6001626
 postcode: 30989
 city: Gehrden
-street: Hindenburgallee
+street: "Hindenburgallee"
 housenumber: 2
 phone: "+49 5108 7012"
 opening_hours: "Mo-Fr 13:00-18:00; Sa 10:00-13:00"

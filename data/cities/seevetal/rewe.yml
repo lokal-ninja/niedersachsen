@@ -5,7 +5,7 @@ latitude: 53.4159822
 longitude: 10.019477700000001
 postcode: 21217
 city: Seevetal
-street: Glüsinger Straße
+street: "Glüsinger Straße"
 housenumber: 56
 phone: ""
 opening_hours: "Mo-Sa 06:00-23:00"

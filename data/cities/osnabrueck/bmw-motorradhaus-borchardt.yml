@@ -5,7 +5,7 @@ latitude: 52.26956860000001
 longitude: 8.098218600000001
 postcode: 49084
 city: Osnabrück
-street: Weiße Breite
+street: "Weiße Breite"
 housenumber: 1
 phone: ""
 opening_hours: ""

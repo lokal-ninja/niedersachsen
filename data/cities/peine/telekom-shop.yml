@@ -5,7 +5,7 @@ latitude: 52.3223398
 longitude: 10.2266914
 postcode: 31224
 city: Peine
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

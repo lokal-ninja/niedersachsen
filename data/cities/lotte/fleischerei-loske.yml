@@ -5,7 +5,7 @@ latitude: 52.308219
 longitude: 7.9717859
 postcode: 49504
 city: Lotte
-street: Strotheweg
+street: "Strotheweg"
 housenumber: 52
 phone: "+49 541 126399"
 opening_hours: ""

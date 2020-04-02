@@ -5,7 +5,7 @@ latitude: 52.160726000000004
 longitude: 9.9425608
 postcode: 31137
 city: Hildesheim
-street: Cheruskerring
+street: "Cheruskerring"
 housenumber: 25
 phone: ""
 opening_hours: ""

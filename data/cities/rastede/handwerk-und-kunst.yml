@@ -5,7 +5,7 @@ latitude: 53.228287
 longitude: 8.213298400000001
 postcode: 26180
 city: Rastede
-street: Buchenstraße
+street: "Buchenstraße"
 housenumber: 8
 phone: ""
 opening_hours: "We-Fr 10:00-12:30,15:00-18:00; Sa 10:00-16:00"

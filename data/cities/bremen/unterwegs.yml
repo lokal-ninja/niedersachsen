@@ -5,7 +5,7 @@ latitude: 53.0764943
 longitude: 8.810468400000001
 postcode: 28915
 city: Bremen
-street: Domshof
+street: "Domshof"
 housenumber: 14-15
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su,PH off"

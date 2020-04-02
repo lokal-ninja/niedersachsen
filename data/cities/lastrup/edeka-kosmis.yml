@@ -5,7 +5,7 @@ latitude: 52.795610100000005
 longitude: 7.8594987000000005
 postcode: 49688
 city: Lastrup
-street: Ladestraße
+street: "Ladestraße"
 housenumber: 7
 phone: "+49 4472 950877"
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

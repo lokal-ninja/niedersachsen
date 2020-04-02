@@ -5,7 +5,7 @@ latitude: 52.9670831
 longitude: 11.1569847
 postcode: 29439
 city: Lüchow
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

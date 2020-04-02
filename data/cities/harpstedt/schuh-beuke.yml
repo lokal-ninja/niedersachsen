@@ -5,7 +5,7 @@ latitude: 52.9092483
 longitude: 8.5883299
 postcode: 27243
 city: Harpstedt
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 2
 phone: "+49 4244 469"
 opening_hours: ""

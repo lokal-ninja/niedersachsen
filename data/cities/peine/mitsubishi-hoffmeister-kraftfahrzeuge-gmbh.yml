@@ -5,7 +5,7 @@ latitude: 52.318225600000005
 longitude: 10.2152118
 postcode: 31226
 city: Peine
-street: Horst
+street: "Horst"
 housenumber: 5
 phone: "+49 5171 52357"
 opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-12:00"

@@ -5,7 +5,7 @@ latitude: 53.0727782
 longitude: 8.8090846
 postcode: 28195
 city: Bremen
-street: Stavendamm
+street: "Stavendamm"
 housenumber: 8
 phone: "+49 421 35066 80"
 opening_hours: "Mo 09:30-11:30,12:00-16:30;Tu-Fr 09:30-10:30,11:00-16:30"

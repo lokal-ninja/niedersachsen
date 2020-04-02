@@ -5,7 +5,7 @@ latitude: 53.285906100000005
 longitude: 10.930816100000001
 postcode: 19273
 city: Amt Neuhaus
-street: Poststraße
+street: "Poststraße"
 housenumber: 17
 phone: "+49 1723966001"
 opening_hours: ""

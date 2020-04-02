@@ -5,7 +5,7 @@ latitude: 52.484246000000006
 longitude: 10.526059
 postcode: 38518
 city: Gifhorn
-street: Fischerweg
+street: "Fischerweg"
 housenumber: 35
 phone: ""
 opening_hours: ""

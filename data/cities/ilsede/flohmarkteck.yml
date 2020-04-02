@@ -5,7 +5,7 @@ latitude: 52.270265200000004
 longitude: 10.153701700000001
 postcode: 31241
 city: Ilsede
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 15
 phone: "+49 5172 96861"
 opening_hours: ""

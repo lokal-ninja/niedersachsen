@@ -5,7 +5,7 @@ latitude: 53.5195608
 longitude: 8.116230100000001
 postcode: 26382
 city: Wilhelmshaven
-street: Parkstraße
+street: "Parkstraße"
 housenumber: 2
 phone: "+49 4421 994287"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

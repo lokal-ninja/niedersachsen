@@ -5,7 +5,7 @@ latitude: 52.0073014
 longitude: 9.696893900000001
 postcode: 31089
 city: Duingen
-street: Eckhardtstraße
+street: "Eckhardtstraße"
 housenumber: 8
 phone: "+495185266"
 opening_hours: ""

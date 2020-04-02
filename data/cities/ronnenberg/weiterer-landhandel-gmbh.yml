@@ -5,7 +5,7 @@ latitude: 52.3310625
 longitude: 9.631373
 postcode: 30952
 city: Ronnenberg
-street: Hermann-Löns-Straße
+street: "Hermann-Löns-Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

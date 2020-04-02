@@ -5,7 +5,7 @@ latitude: 53.373873800000005
 longitude: 9.8954046
 postcode: 21224
 city: Rosengarten
-street: Am Hatzberg
+street: "Am Hatzberg"
 housenumber: 7
 phone: "+49 4108 413870"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

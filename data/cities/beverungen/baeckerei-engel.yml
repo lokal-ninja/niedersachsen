@@ -5,7 +5,7 @@ latitude: 51.665516000000004
 longitude: 9.377201000000001
 postcode: 37688
 city: Beverungen
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 17
 phone: "+49 5273 365007"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1404019
 longitude: 8.2152533
 postcode: 26122
 city: Oldenburg
-street: Staustraße
+street: "Staustraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.416165400000004
 longitude: 9.651400800000001
 postcode: 34346
 city: Hann. Münden
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 
 phone: "+49 5541 701524"
 opening_hours: ""

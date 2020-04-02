@@ -5,7 +5,7 @@ latitude: 53.587201500000006
 longitude: 6.6643651
 postcode: 26757
 city: Borkum
-street: Bahnhofspfad
+street: "Bahnhofspfad"
 housenumber: 3
 phone: "+49 4922 990162"
 opening_hours: "Mo-Su 11:00-18:00"

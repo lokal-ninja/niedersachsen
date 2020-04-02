@@ -5,7 +5,7 @@ latitude: 51.9348114
 longitude: 10.407609500000001
 postcode: 38644
 city: Goslar
-street: Gerhard-Weule-Straße
+street: "Gerhard-Weule-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

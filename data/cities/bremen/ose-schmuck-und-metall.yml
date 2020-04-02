@@ -5,7 +5,7 @@ latitude: 53.1719968
 longitude: 8.623218600000001
 postcode: 28757
 city: Bremen
-street: Wilmannsberg
+street: "Wilmannsberg"
 housenumber: 37
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.395850200000005
 longitude: 8.1379256
 postcode: 26316
 city: Varel
-street: Schlossstraße
+street: "Schlossstraße"
 housenumber: 13a
 phone: ""
 opening_hours: ""

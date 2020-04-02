@@ -5,7 +5,7 @@ latitude: 52.238958800000006
 longitude: 9.668034500000001
 postcode: 31832
 city: Springe
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9A
 phone: "+49 5045 6933"
 opening_hours: ""

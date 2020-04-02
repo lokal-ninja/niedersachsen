@@ -5,7 +5,7 @@ latitude: 53.0768252
 longitude: 8.811075500000001
 postcode: 28195
 city: Bremen
-street: Bischofsnadel
+street: "Bischofsnadel"
 housenumber: 5
 phone: "+49 421 3349394"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-16:00; Su,PH off"

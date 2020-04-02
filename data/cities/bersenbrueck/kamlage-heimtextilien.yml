@@ -5,7 +5,7 @@ latitude: 52.552798800000005
 longitude: 7.9396735000000005
 postcode: 49593
 city: Bersenbrück
-street: Bokeler Straße
+street: "Bokeler Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

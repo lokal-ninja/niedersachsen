@@ -5,7 +5,7 @@ latitude: 53.3068643
 longitude: 9.2742048
 postcode: 27404
 city: Zeven
-street: Kastanienweg
+street: "Kastanienweg"
 housenumber: 11
 phone: ""
 opening_hours: ""

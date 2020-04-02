@@ -5,7 +5,7 @@ latitude: 51.4941479
 longitude: 10.006448800000001
 postcode: 
 city: Gleichen
-street: Alte Heerstraße
+street: "Alte Heerstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

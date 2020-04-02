@@ -5,7 +5,7 @@ latitude: 52.7224869
 longitude: 10.594637
 postcode: 29386
 city: Hankensbüttel
-street: Schmiedestraße
+street: "Schmiedestraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

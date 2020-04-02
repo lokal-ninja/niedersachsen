@@ -5,7 +5,7 @@ latitude: 53.5546523
 longitude: 8.095352400000001
 postcode: 26386
 city: Wilhelmshaven
-street: Werdumer Straße
+street: "Werdumer Straße"
 housenumber: 81
 phone: "+49 4421 9839938"
 opening_hours: ""

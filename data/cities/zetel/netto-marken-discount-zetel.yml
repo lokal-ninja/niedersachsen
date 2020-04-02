@@ -5,7 +5,7 @@ latitude: 53.416809
 longitude: 7.972777600000001
 postcode: 26340
 city: Zetel
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 13
 phone: "+49 4453 986061"
 opening_hours: "Mo-Sa 07:00-22:00"

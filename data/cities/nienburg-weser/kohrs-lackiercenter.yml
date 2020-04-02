@@ -5,7 +5,7 @@ latitude: 52.6222415
 longitude: 9.238460100000001
 postcode: 31582
 city: Nienburg/Weser
-street: Vor dem Zoll
+street: "Vor dem Zoll"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-13:00"

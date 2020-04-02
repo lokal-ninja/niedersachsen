@@ -5,7 +5,7 @@ latitude: 52.3647969
 longitude: 9.909890200000001
 postcode: 31275
 city: Lehrte
-street: Zum Großen Freien
+street: "Zum Großen Freien"
 housenumber: 10
 phone: "+49 5132 72 15"
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:00"

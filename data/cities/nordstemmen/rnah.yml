@@ -5,7 +5,7 @@ latitude: 52.182459300000005
 longitude: 9.810381900000001
 postcode: 31171
 city: Nordstemmen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 07:00-12:30,15:30-18:30; Sa 07:00-12:30"

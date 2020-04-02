@@ -5,7 +5,7 @@ latitude: 53.304963400000005
 longitude: 7.4859102
 postcode: 26802
 city: Moormerland
-street: Helgoländer Straße
+street: "Helgoländer Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Tu 09:00-12:00,14:30-18:00; We 09:00-12:00; Th-Fr 09:00-12:00,14:30-18:00; Sa 09:00-12:00; Su off; PH off"

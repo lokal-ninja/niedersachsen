@@ -5,7 +5,7 @@ latitude: 53.348683300000005
 longitude: 10.0288385
 postcode: 21220
 city: Seevetal
-street: Bei den Kämpen
+street: "Bei den Kämpen"
 housenumber: 2
 phone: "+49 4185 7974164"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-14:00; PH off"

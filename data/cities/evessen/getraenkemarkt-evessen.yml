@@ -5,7 +5,7 @@ latitude: 52.1894165
 longitude: 10.7047679
 postcode: 38173
 city: Evessen
-street: Schöppenstedter Straße
+street: "Schöppenstedter Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-21:00"

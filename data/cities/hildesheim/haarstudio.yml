@@ -5,7 +5,7 @@ latitude: 52.1547198
 longitude: 9.9595699
 postcode: 31135
 city: Hildesheim
-street: Einumer Straße
+street: "Einumer Straße"
 housenumber: 93
 phone: ""
 opening_hours: ""

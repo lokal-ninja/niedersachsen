@@ -5,7 +5,7 @@ latitude: 53.236360100000006
 longitude: 7.4857588
 postcode: 
 city: Leer (Ostfriesland)
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 54
 phone: ""
 opening_hours: "off"

@@ -5,7 +5,7 @@ latitude: 52.4880834
 longitude: 10.5435209
 postcode: 38518
 city: Gifhorn
-street: Torstraße
+street: "Torstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

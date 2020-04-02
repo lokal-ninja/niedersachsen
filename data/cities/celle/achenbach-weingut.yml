@@ -5,7 +5,7 @@ latitude: 52.608485400000006
 longitude: 10.032966400000001
 postcode: 29225
 city: Celle
-street: Fuhrberger Straße
+street: "Fuhrberger Straße"
 housenumber: 181
 phone: "+49 5141 44449"
 opening_hours: "Fr 14:00-19:00; Sa 09:00-14:00; PH off"

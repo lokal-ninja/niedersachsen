@@ -5,7 +5,7 @@ latitude: 53.159302100000005
 longitude: 8.2431006
 postcode: 26125
 city: Oldenburg
-street: Großer Kuhlenweg
+street: "Großer Kuhlenweg"
 housenumber: 23
 phone: "+49 441 33931"
 opening_hours: ""

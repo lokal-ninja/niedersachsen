@@ -5,7 +5,7 @@ latitude: 51.502818600000005
 longitude: 9.7597971
 postcode: 37127
 city: Dransfeld
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00; Mo,Tu,Th,Fr 14:30-18:00; PH off"

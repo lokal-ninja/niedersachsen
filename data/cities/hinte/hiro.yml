@@ -5,7 +5,7 @@ latitude: 53.400507700000006
 longitude: 7.207636900000001
 postcode: 26759
 city: Hinte
-street: Hans-Böckler-Allee
+street: "Hans-Böckler-Allee"
 housenumber: 1
 phone: ""
 opening_hours: ""

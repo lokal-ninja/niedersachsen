@@ -5,7 +5,7 @@ latitude: 53.535437200000004
 longitude: 9.6697722
 postcode: 21635
 city: Jork
-street: Westerjork
+street: "Westerjork"
 housenumber: 60
 phone: "+49 4162 942563"
 opening_hours: ""

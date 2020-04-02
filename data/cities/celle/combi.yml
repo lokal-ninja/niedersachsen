@@ -5,7 +5,7 @@ latitude: 52.618080500000005
 longitude: 10.063394800000001
 postcode: 
 city: Celle
-street: Trüllerstraße
+street: "Trüllerstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

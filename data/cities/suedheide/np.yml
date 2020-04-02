@@ -5,7 +5,7 @@ latitude: 52.844055700000006
 longitude: 10.2950769
 postcode: 29345
 city: Südheide
-street: Müdener Straße
+street: "Müdener Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

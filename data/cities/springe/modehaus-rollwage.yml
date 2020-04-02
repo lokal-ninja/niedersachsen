@@ -5,7 +5,7 @@ latitude: 52.17140740000001
 longitude: 9.6593315
 postcode: 31832
 city: Springe
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 59
 phone: ""
 opening_hours: ""

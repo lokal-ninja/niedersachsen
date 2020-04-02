@@ -5,7 +5,7 @@ latitude: 52.3662829
 longitude: 9.7146393
 postcode: 30449
 city: Hannover
-street: Falkenstraße
+street: "Falkenstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 05:30-19:30; Sa 05:30-18:00"

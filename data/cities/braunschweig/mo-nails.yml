@@ -5,7 +5,7 @@ latitude: 52.2266744
 longitude: 10.503847700000001
 postcode: 38122
 city: Braunschweig
-street: Thiedestraße
+street: "Thiedestraße"
 housenumber: 2
 phone: "+49 163 2008384"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.4348195
 longitude: 7.1027386
 postcode: 48531
 city: Nordhorn
-street: Immenweg
+street: "Immenweg"
 housenumber: 23d
 phone: ""
 opening_hours: "Tu-Fr 09:00-19:00; Sa 08:00-13:00"

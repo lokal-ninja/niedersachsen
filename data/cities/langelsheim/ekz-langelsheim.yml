@@ -5,7 +5,7 @@ latitude: 51.9339596
 longitude: 10.349070600000001
 postcode: 38685
 city: Langelsheim
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

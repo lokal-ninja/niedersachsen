@@ -5,7 +5,7 @@ latitude: 52.4175624
 longitude: 9.760588100000001
 postcode: 30179
 city: Hannover
-street: Zwickauer Straße
+street: "Zwickauer Straße"
 housenumber: 22
 phone: "+49 511 6064739"
 opening_hours: ""

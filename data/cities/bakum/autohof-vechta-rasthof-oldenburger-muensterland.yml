@@ -5,7 +5,7 @@ latitude: 52.726954500000005
 longitude: 8.1794203
 postcode: 49456
 city: Bakum
-street: Harmerstraße
+street: "Harmerstraße"
 housenumber: 43
 phone: ""
 opening_hours: ""

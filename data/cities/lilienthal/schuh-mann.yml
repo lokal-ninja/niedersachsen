@@ -5,7 +5,7 @@ latitude: 53.1507817
 longitude: 8.9177012
 postcode: 28865
 city: Lilienthal
-street: Falkenberger Landstraße
+street: "Falkenberger Landstraße"
 housenumber: 16
 phone: "+49 4298417729"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

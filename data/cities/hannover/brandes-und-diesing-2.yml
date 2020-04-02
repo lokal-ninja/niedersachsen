@@ -5,7 +5,7 @@ latitude: 52.3743744
 longitude: 9.7395672
 postcode: 30159
 city: Hannover
-street: Rathenaustraße
+street: "Rathenaustraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

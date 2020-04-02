@@ -5,7 +5,7 @@ latitude: 52.417224100000006
 longitude: 9.377576300000001
 postcode: 31515
 city: Wunstorf
-street: Schaumburger Straße
+street: "Schaumburger Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

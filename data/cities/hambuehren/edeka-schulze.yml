@@ -5,7 +5,7 @@ latitude: 52.634519000000004
 longitude: 9.9772531
 postcode: 29313
 city: Hambühren
-street: Hehlenbruchweg
+street: "Hehlenbruchweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

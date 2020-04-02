@@ -5,7 +5,7 @@ latitude: 52.32311910000001
 longitude: 10.2418923
 postcode: 31224
 city: Peine
-street: Am Silberkamp
+street: "Am Silberkamp"
 housenumber: 53
 phone: "+49 5171 9409640"
 opening_hours: ""

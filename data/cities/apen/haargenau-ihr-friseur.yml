@@ -5,7 +5,7 @@ latitude: 53.223311100000004
 longitude: 7.8110692
 postcode: 26689
 city: Apen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 131
 phone: "+49 4489 410202"
 opening_hours: ""

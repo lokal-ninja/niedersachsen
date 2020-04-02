@@ -5,7 +5,7 @@ latitude: 53.54202050000001
 longitude: 7.9495317000000005
 postcode: 26419
 city: Schortens
-street: Oldenburger Straße
+street: "Oldenburger Straße"
 housenumber: 11
 phone: "+49 4461 9160148"
 opening_hours: ""

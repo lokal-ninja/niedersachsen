@@ -5,7 +5,7 @@ latitude: 52.203771100000004
 longitude: 8.3357109
 postcode: 49324
 city: Melle
-street: Grönenberger Straße
+street: "Grönenberger Straße"
 housenumber: 2-8
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00; Su off; PH off"

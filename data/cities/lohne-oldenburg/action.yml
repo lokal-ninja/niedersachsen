@@ -5,7 +5,7 @@ latitude: 52.663232400000005
 longitude: 8.2166335
 postcode: 49393
 city: Lohne (Oldenburg)
-street: Dinklager Straße
+street: "Dinklager Straße"
 housenumber: 74
 phone: ""
 opening_hours: ""

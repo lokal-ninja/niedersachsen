@@ -5,7 +5,7 @@ latitude: 53.0774367
 longitude: 8.8045045
 postcode: 28195
 city: Bremen
-street: Obernstraße
+street: "Obernstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 53.074671300000006
 longitude: 8.808183900000001
 postcode: 28195
 city: Bremen
-street: Balgebrückstraße
+street: "Balgebrückstraße"
 housenumber: 3-5
 phone: ""
 opening_hours: "Mo-Fr 04:30-19:00; Sa 06:00-16:00; Su 08:00-14:00"

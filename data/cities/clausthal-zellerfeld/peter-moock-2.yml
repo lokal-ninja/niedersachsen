@@ -5,7 +5,7 @@ latitude: 51.801926800000004
 longitude: 10.4478918
 postcode: 38707
 city: Clausthal-Zellerfeld
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

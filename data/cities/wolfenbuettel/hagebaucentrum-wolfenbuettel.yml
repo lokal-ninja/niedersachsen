@@ -5,7 +5,7 @@ latitude: 52.159423000000004
 longitude: 10.530547700000001
 postcode: 38304
 city: Wolfenbüttel
-street: Goslarsche Straße
+street: "Goslarsche Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off"

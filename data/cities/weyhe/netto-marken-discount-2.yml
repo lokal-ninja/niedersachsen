@@ -5,7 +5,7 @@ latitude: 52.9862771
 longitude: 8.785749800000001
 postcode: 28844
 city: Weyhe
-street: Seckenhauser Straße
+street: "Seckenhauser Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

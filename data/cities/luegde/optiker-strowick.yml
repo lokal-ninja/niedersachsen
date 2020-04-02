@@ -5,7 +5,7 @@ latitude: 51.9594735
 longitude: 9.2460644
 postcode: 32676
 city: Lügde
-street: Mittlere Straße
+street: "Mittlere Straße"
 housenumber: 4
 phone: "+49 5281 7547"
 opening_hours: ""

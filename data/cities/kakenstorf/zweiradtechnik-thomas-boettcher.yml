@@ -5,7 +5,7 @@ latitude: 53.311116000000005
 longitude: 9.7667297
 postcode: 21255
 city: Kakenstorf
-street: Eichenhöhe
+street: "Eichenhöhe"
 housenumber: 2
 phone: "+49 4186 895657"
 opening_hours: ""

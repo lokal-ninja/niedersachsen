@@ -5,7 +5,7 @@ latitude: 53.371139400000004
 longitude: 7.8464033
 postcode: 26446
 city: Friedeburg
-street: Bentstreeker Schulweg
+street: "Bentstreeker Schulweg"
 housenumber: 1
 phone: "+49 4956 912803"
 opening_hours: "Tu-Su 11:00-18:00; Mo off"

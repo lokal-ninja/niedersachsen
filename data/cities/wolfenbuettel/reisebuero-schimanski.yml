@@ -5,7 +5,7 @@ latitude: 52.163870300000006
 longitude: 10.5363688
 postcode: 38300
 city: Wolfenbüttel
-street: Am Alten Tore
+street: "Am Alten Tore"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-14:00"

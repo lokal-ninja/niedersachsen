@@ -5,7 +5,7 @@ latitude: 52.155479400000004
 longitude: 10.3287317
 postcode: 38226
 city: Salzgitter
-street: Chemnitzer Straße
+street: "Chemnitzer Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

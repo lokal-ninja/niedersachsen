@@ -5,7 +5,7 @@ latitude: 53.2911706
 longitude: 10.7339695
 postcode: 21354
 city: Bleckede
-street: Fritz-von-dem-Berge-Straße
+street: "Fritz-von-dem-Berge-Straße"
 housenumber: 2b
 phone: ""
 opening_hours: "Tu,Th 08:30-18:00;We,Fr 08:30-19:00;Sa 08:30-13:00"

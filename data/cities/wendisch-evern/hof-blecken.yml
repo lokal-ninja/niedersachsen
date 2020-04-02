@@ -5,7 +5,7 @@ latitude: 53.2143978
 longitude: 10.4721455
 postcode: 21403
 city: Wendisch Evern
-street: Niendorfer Weg
+street: "Niendorfer Weg"
 housenumber: 2
 phone: ""
 opening_hours: ""

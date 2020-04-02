@@ -5,7 +5,7 @@ latitude: 53.5827717
 longitude: 8.625842800000001
 postcode: 27619
 city: Schiffdorf
-street: Neufelder Weg
+street: "Neufelder Weg"
 housenumber: 
 phone: ""
 opening_hours: ""

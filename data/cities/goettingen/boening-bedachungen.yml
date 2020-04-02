@@ -5,7 +5,7 @@ latitude: 51.553433500000004
 longitude: 9.8927371
 postcode: 37079
 city: Göttingen
-street: Wilhelm-Berg-Straße
+street: "Wilhelm-Berg-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

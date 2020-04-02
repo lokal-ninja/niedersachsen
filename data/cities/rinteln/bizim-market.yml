@@ -5,7 +5,7 @@ latitude: 52.1686126
 longitude: 9.067103600000001
 postcode: 31737
 city: Rinteln
-street: Braasstraße
+street: "Braasstraße"
 housenumber: 2a
 phone: "+49 57 51 924 61 64"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"

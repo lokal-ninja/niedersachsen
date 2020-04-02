@@ -5,7 +5,7 @@ latitude: 53.529599000000005
 longitude: 8.5903884
 postcode: 27570
 city: Bremerhaven
-street: An der Mühle
+street: "An der Mühle"
 housenumber: 9
 phone: "+49 471 9691567"
 opening_hours: ""

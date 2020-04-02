@@ -5,7 +5,7 @@ latitude: 53.389884200000004
 longitude: 7.9520863
 postcode: 26340
 city: Zetel
-street: Am Markt
+street: "Am Markt"
 housenumber: 3
 phone: "+49 4452 377"
 opening_hours: ""

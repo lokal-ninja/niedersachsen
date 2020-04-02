@@ -5,7 +5,7 @@ latitude: 51.5554946
 longitude: 9.8964259
 postcode: 
 city: Göttingen
-street: Rudolf-Wissell-Straße
+street: "Rudolf-Wissell-Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-15:00; PH off"

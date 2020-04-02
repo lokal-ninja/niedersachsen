@@ -5,7 +5,7 @@ latitude: 53.49207620000001
 longitude: 8.4849253
 postcode: 26954
 city: Nordenham
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 77-81
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.4219292
 longitude: 10.8035628
 postcode: 38446
 city: Wolfsburg
-street: Reislinger Straße
+street: "Reislinger Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

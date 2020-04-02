@@ -5,7 +5,7 @@ latitude: 52.6821458
 longitude: 8.8125022
 postcode: 27232
 city: Sulingen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"

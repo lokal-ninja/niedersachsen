@@ -5,7 +5,7 @@ latitude: 52.660195800000004
 longitude: 8.1217769
 postcode: 49413
 city: Dinklage
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 18
 phone: "+4944433693"
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00, Sa 09:00-13:00"

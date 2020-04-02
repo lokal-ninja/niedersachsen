@@ -5,7 +5,7 @@ latitude: 53.057922500000004
 longitude: 8.964002200000001
 postcode: 28325
 city: Bremen
-street: Teneverstraße
+street: "Teneverstraße"
 housenumber: 3
 phone: "+49 421 1785873"
 opening_hours: "Mo-Sa 09:30-20:00"

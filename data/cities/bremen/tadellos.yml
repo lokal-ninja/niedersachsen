@@ -5,7 +5,7 @@ latitude: 53.073917900000005
 longitude: 8.8231239
 postcode: 28203
 city: Bremen
-street: Am Dobben
+street: "Am Dobben"
 housenumber: 86
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su,PH off"

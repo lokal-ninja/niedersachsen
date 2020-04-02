@@ -5,7 +5,7 @@ latitude: 52.842118500000005
 longitude: 8.037326700000001
 postcode: 49661
 city: Cloppenburg
-street: Löninger Straße
+street: "Löninger Straße"
 housenumber: 7a
 phone: "+49 4471 8505 991"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.7978937
 longitude: 8.4023593
 postcode: 49424
 city: Goldenstedt
-street: Hagebuttenstraße
+street: "Hagebuttenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

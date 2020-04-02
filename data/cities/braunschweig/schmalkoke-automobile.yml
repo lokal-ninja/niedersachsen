@@ -5,7 +5,7 @@ latitude: 52.301845500000006
 longitude: 10.5156006
 postcode: 38112
 city: Braunschweig
-street: Porschestraße
+street: "Porschestraße"
 housenumber: 24
 phone: "+49 531 311160"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

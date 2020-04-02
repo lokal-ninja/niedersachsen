@@ -5,7 +5,7 @@ latitude: 53.1818534
 longitude: 8.0688958
 postcode: 26160
 city: Bad Zwischenahn
-street: Eva-Lessing-Straße
+street: "Eva-Lessing-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Tu-Fr; Sa"

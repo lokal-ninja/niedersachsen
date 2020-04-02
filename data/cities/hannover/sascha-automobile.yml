@@ -5,7 +5,7 @@ latitude: 52.398529700000005
 longitude: 9.714330700000001
 postcode: 
 city: Hannover
-street: Schulenburger Landstraße
+street: "Schulenburger Landstraße"
 housenumber: 33
 phone: "+49 511 3508272"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.51840910000001
 longitude: 6.998816700000001
 postcode: 49828
 city: Neuenhaus
-street: Georgsdorfer Straße
+street: "Georgsdorfer Straße"
 housenumber: 8
 phone: "+49 5941 373"
 opening_hours: "Mo-Sa 06:00-12:30; Mo, Mi-Fr 14:00-18:00; So 08:00-11:00"

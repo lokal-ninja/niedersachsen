@@ -5,7 +5,7 @@ latitude: 53.646531800000005
 longitude: 7.612157600000001
 postcode: 26427
 city: Esens
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

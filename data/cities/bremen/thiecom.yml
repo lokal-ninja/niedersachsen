@@ -5,7 +5,7 @@ latitude: 53.2098105
 longitude: 8.5783556
 postcode: 28779
 city: Bremen
-street: Schwaneweder Straße
+street: "Schwaneweder Straße"
 housenumber: 193
 phone: ""
 opening_hours: ""

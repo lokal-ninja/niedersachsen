@@ -5,7 +5,7 @@ latitude: 52.6067898
 longitude: 8.3614206
 postcode: 49356
 city: Diepholz
-street: Carl-Schwarze-Straße
+street: "Carl-Schwarze-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off"

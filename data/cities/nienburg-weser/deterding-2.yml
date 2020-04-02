@@ -5,7 +5,7 @@ latitude: 52.6429308
 longitude: 9.2226537
 postcode: 31582
 city: Nienburg/Weser
-street: Kräher Weg
+street: "Kräher Weg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"

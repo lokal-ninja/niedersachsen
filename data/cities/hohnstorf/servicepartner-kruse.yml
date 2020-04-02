@@ -5,7 +5,7 @@ latitude: 53.3634038
 longitude: 10.5516602
 postcode: 21522
 city: Hohnstorf
-street: Am Sportzentrum
+street: "Am Sportzentrum"
 housenumber: 4a
 phone: "+49 4139 68345"
 opening_hours: "Mo 16:00-18:00; Tu-Fr 08:30-11:00,16:00-18:00; Sa 09:00-13:00"

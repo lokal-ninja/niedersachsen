@@ -5,7 +5,7 @@ latitude: 52.887472900000006
 longitude: 9.365120300000001
 postcode: 27308
 city: Kirchlinteln
-street: Neddener Dorfstraße
+street: "Neddener Dorfstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Sa 07:00-13:00; Mo,Tu,Th,Fr 14:30-18:30"

@@ -5,7 +5,7 @@ latitude: 51.4957787
 longitude: 10.1852677
 postcode: 37115
 city: Nesselröden
-street: Nathestraße
+street: "Nathestraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-14:00; Sa 07:00-12:00; Su 08:00-11:00; PH off"

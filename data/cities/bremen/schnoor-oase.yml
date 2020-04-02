@@ -5,7 +5,7 @@ latitude: 53.0725246
 longitude: 8.8096767
 postcode: 28195
 city: Bremen
-street: Wüstestätte
+street: "Wüstestätte"
 housenumber: 1a
 phone: "+49 421 325956"
 opening_hours: "Mo-Sa 10:00-19:00;Su 10:00-18:00"

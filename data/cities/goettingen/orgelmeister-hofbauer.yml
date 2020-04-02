@@ -5,7 +5,7 @@ latitude: 51.5304786
 longitude: 9.9253012
 postcode: 37073
 city: Göttingen
-street: Rosdorfer Weg
+street: "Rosdorfer Weg"
 housenumber: 14
 phone: ""
 opening_hours: ""

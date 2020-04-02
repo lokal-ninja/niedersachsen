@@ -5,7 +5,7 @@ latitude: 53.1745165
 longitude: 8.6982826
 postcode: 28717
 city: Bremen
-street: Am Heidbergstift
+street: "Am Heidbergstift"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Sa 06:30-20:00; Su,PH off"

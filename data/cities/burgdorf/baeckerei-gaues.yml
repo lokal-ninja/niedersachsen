@@ -5,7 +5,7 @@ latitude: 52.4464303
 longitude: 10.007364500000001
 postcode: 31303
 city: Burgdorf
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 10
 phone: "+49 5136  9771220"
 opening_hours: "Mo-Fr 07:00-18:30, Sa 07:00-14:00, So 08:00-12:00"

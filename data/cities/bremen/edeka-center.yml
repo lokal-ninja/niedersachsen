@@ -5,7 +5,7 @@ latitude: 53.191565000000004
 longitude: 8.5583494
 postcode: 
 city: Bremen
-street: Heidlerchenstraße
+street: "Heidlerchenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

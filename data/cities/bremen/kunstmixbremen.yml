@@ -5,7 +5,7 @@ latitude: 53.072935
 longitude: 8.8111986
 postcode: 28195
 city: Bremen
-street: Kolpingstraße
+street: "Kolpingstraße"
 housenumber: 18
 phone: "+49 421 3873860"
 opening_hours: "Tu,Fr 10:30-12:30,15:00-18:00; Sa 11:00-16:00"

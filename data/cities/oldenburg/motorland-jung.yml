@@ -5,7 +5,7 @@ latitude: 53.1556026
 longitude: 8.193816400000001
 postcode: 26127
 city: Oldenburg
-street: Dietrichsweg
+street: "Dietrichsweg"
 housenumber: 64
 phone: ""
 opening_hours: ""

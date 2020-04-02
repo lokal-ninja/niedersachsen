@@ -5,7 +5,7 @@ latitude: 52.6073448
 longitude: 8.3791144
 postcode: 49356
 city: Diepholz
-street: Grafenstraße
+street: "Grafenstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

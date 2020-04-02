@@ -5,7 +5,7 @@ latitude: 53.141548500000006
 longitude: 8.1978498
 postcode: 26122
 city: Oldenburg
-street: Haarenufer
+street: "Haarenufer"
 housenumber: 31
 phone: "+49 441 776919"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

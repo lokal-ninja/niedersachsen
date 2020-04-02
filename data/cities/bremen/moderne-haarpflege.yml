@@ -5,7 +5,7 @@ latitude: 53.093076700000005
 longitude: 8.807177000000001
 postcode: 28215
 city: Bremen
-street: Timmersloher Straße
+street: "Timmersloher Straße"
 housenumber: 80
 phone: ""
 opening_hours: "Tu-Fr 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 52.391020700000006
 longitude: 7.997637200000001
 postcode: 49565
 city: Bramsche
-street: Wiechmanns Ecke
+street: "Wiechmanns Ecke"
 housenumber: 19
 phone: ""
 opening_hours: "Tu 09:00-13:00, 15:00-18:00; We-Fr 15:00-18:30; Sa 09:00-13:00"

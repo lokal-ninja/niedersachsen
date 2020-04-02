@@ -5,7 +5,7 @@ latitude: 52.327385500000005
 longitude: 9.2000823
 postcode: 31655
 city: Stadthagen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 26
 phone: "+49 5721 1270"
 opening_hours: "Mo-Sa 07:00-22:00"

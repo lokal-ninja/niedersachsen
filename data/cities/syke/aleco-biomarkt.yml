@@ -5,7 +5,7 @@ latitude: 52.9139946
 longitude: 8.8273244
 postcode: 28857
 city: Syke
-street: Herrlichkeit
+street: "Herrlichkeit"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.239797700000004
 longitude: 10.4646703
 postcode: 21337
 city: Lüneburg
-street: Georg-Leppien-Straße
+street: "Georg-Leppien-Straße"
 housenumber: 15
 phone: "+49 4131 246501"
 opening_hours: ""

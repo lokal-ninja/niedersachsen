@@ -5,7 +5,7 @@ latitude: 52.606316400000004
 longitude: 8.371751
 postcode: 49356
 city: Diepholz
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

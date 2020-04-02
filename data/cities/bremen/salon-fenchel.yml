@@ -5,7 +5,7 @@ latitude: 53.067805
 longitude: 8.9340632
 postcode: 28325
 city: Bremen
-street: Ellener Dorfstraße
+street: "Ellener Dorfstraße"
 housenumber: 1
 phone: "+49 421 42807814"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 53.173571100000004
 longitude: 8.1579228
 postcode: 26160
 city: Bad Zwischenahn
-street: Theodor-Storm-Straße
+street: "Theodor-Storm-Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Tu-Fr 14:00-18:00"

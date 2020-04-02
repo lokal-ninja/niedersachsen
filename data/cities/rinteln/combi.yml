@@ -5,7 +5,7 @@ latitude: 52.197599600000004
 longitude: 9.083748400000001
 postcode: 31737
 city: Rinteln
-street: Große Tonkuhle
+street: "Große Tonkuhle"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

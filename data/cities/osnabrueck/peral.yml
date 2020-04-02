@@ -5,7 +5,7 @@ latitude: 52.2758163
 longitude: 8.040930300000001
 postcode: 49074
 city: Osnabrück
-street: Dielingerstraße
+street: "Dielingerstraße"
 housenumber: 9
 phone: "+49 (0)541 9989710"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 53.0831309
 longitude: 9.9996171
 postcode: 29646
 city: Bispingen
-street: Hützeler Straße
+street: "Hützeler Straße"
 housenumber: 6
 phone: "+49 5194 3143"
 opening_hours: "Mo-Su 06:00-18:30"

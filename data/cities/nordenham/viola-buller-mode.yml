@@ -5,7 +5,7 @@ latitude: 53.485958100000005
 longitude: 8.4841149
 postcode: 26954
 city: Nordenham
-street: Marktpassage
+street: "Marktpassage"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1859149
 longitude: 8.229932100000001
 postcode: 26125
 city: Oldenburg
-street: Wilhelmshavener Heerstraße
+street: "Wilhelmshavener Heerstraße"
 housenumber: 250
 phone: "+49 441 39239"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"

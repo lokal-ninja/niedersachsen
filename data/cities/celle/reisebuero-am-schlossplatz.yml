@@ -5,7 +5,7 @@ latitude: 52.622017400000004
 longitude: 10.0800309
 postcode: 29221
 city: Celle
-street: Westcellertorstraße
+street: "Westcellertorstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

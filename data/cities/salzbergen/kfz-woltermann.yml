@@ -5,7 +5,7 @@ latitude: 52.322040900000005
 longitude: 7.3551681
 postcode: 48499
 city: Salzbergen
-street: Rheiner Straße
+street: "Rheiner Straße"
 housenumber: 9a
 phone: "+49 5976 9055"
 opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:30; Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 52.296538700000006
 longitude: 8.0357078
 postcode: 49090
 city: Osnabrück
-street: Bramscher Straße
+street: "Bramscher Straße"
 housenumber: 221 b/c
 phone: ""
 opening_hours: "Mo-Th 15:00-19:00; Fr 14:00-20:00; Sa 10:00-13:00"

@@ -5,7 +5,7 @@ latitude: 53.125889400000005
 longitude: 8.7567813
 postcode: 28239
 city: Bremen
-street: Schwarzer Weg
+street: "Schwarzer Weg"
 housenumber: 84
 phone: ""
 opening_hours: ""

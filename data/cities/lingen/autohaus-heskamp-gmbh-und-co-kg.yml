@@ -5,7 +5,7 @@ latitude: 52.464142300000006
 longitude: 7.363342200000001
 postcode: 49811
 city: Lingen
-street: Hüveder Straße
+street: "Hüveder Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

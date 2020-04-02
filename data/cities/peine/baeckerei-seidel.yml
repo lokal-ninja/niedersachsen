@@ -5,7 +5,7 @@ latitude: 52.3299929
 longitude: 10.2459685
 postcode: 31224
 city: Peine
-street: Eichendorffstraße
+street: "Eichendorffstraße"
 housenumber: 11
 phone: "+49 5171 586988"
 opening_hours: ""

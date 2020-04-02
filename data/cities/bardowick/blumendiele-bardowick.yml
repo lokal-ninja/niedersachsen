@@ -5,7 +5,7 @@ latitude: 53.2944954
 longitude: 10.3942279
 postcode: 21357
 city: Bardowick
-street: Große Straße
+street: "Große Straße"
 housenumber: 11
 phone: "+49 4131 12200"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"

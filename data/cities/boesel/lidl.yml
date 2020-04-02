@@ -5,7 +5,7 @@ latitude: 53.006599800000004
 longitude: 7.949165400000001
 postcode: 26219
 city: Bösel
-street: Friesoyther Straße
+street: "Friesoyther Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"

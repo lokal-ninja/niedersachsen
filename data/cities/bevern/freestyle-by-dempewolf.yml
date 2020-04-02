@@ -5,7 +5,7 @@ latitude: 51.853869
 longitude: 9.4914881
 postcode: 37639
 city: Bevern
-street: Tannengrundweg
+street: "Tannengrundweg"
 housenumber: 2
 phone: "+49 5531 7066856"
 opening_hours: ""

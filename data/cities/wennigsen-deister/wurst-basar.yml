@@ -5,7 +5,7 @@ latitude: 52.272890700000005
 longitude: 9.5695218
 postcode: 30974
 city: Wennigsen (Deister)
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 10b
 phone: "+49 5103 704243"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-13:00"

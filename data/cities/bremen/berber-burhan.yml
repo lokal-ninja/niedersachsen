@@ -5,7 +5,7 @@ latitude: 53.096420300000005
 longitude: 8.7905572
 postcode: 28217
 city: Bremen
-street: Osterfeuerbergstraße
+street: "Osterfeuerbergstraße"
 housenumber: 1b
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:30;Sa 09:00-18:30"

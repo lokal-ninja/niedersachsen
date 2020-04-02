@@ -5,7 +5,7 @@ latitude: 52.6252579
 longitude: 10.0859533
 postcode: 29221
 city: Celle
-street: Nordwall
+street: "Nordwall"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

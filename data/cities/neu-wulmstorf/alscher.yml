@@ -5,7 +5,7 @@ latitude: 53.4668799
 longitude: 9.782743400000001
 postcode: 21629
 city: Neu Wulmstorf
-street: Liliencronstraße
+street: "Liliencronstraße"
 housenumber: 49a
 phone: "+49 40 70 20 00 45"
 opening_hours: ""

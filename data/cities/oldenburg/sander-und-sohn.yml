@@ -5,7 +5,7 @@ latitude: 53.188492700000005
 longitude: 8.202369800000001
 postcode: 26125
 city: Oldenburg
-street: Ofenerdieker Straße
+street: "Ofenerdieker Straße"
 housenumber: 40
 phone: "+49 441 60539"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 53.083096100000006
 longitude: 9.9986289
 postcode: 29646
 city: Bispingen
-street: Harmshof
+street: "Harmshof"
 housenumber: 4
 phone: "+49 5194 399139"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"

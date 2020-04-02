@@ -5,7 +5,7 @@ latitude: 51.713506100000004
 longitude: 10.523659100000001
 postcode: 37444
 city: Braunlage
-street: Schützenstraße
+street: "Schützenstraße"
 housenumber: 9a
 phone: "+49 5582 461"
 opening_hours: "Mo-Sa 08:00-20:00"

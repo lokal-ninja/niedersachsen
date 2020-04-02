@@ -5,7 +5,7 @@ latitude: 52.1087502
 longitude: 10.5858687
 postcode: 38324
 city: Kissenbrück
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 61-62
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

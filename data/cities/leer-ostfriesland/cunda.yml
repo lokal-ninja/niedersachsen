@@ -5,7 +5,7 @@ latitude: 53.2302789
 longitude: 7.4614758000000005
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Georgstraße
+street: "Georgstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-We 09:00-18:30; Th-Sa 09:00-19:00; Su off; PH off"

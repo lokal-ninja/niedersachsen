@@ -5,7 +5,7 @@ latitude: 52.2306083
 longitude: 9.079095500000001
 postcode: 31711
 city: Luhden
-street: Hainekamp
+street: "Hainekamp"
 housenumber: 16
 phone: "+49 5722 5500"
 opening_hours: "Mo-Th 08:00-17:00, Fr 08:00-15:00"

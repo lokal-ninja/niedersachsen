@@ -5,7 +5,7 @@ latitude: 53.2384483
 longitude: 10.460237000000001
 postcode: 21337
 city: Lüneburg
-street: Auf den Blöcken
+street: "Auf den Blöcken"
 housenumber: 12
 phone: "+49 4131 9993990"
 opening_hours: ""

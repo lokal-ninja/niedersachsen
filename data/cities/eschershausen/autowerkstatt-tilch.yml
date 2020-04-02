@@ -5,7 +5,7 @@ latitude: 51.925707900000006
 longitude: 9.6436496
 postcode: 37632
 city: Eschershausen
-street: Homburgstraße
+street: "Homburgstraße"
 housenumber: 4
 phone: "+49 5534 2451"
 opening_hours: ""

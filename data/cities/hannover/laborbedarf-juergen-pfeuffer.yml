@@ -5,7 +5,7 @@ latitude: 52.388097800000004
 longitude: 9.7200541
 postcode: 30167
 city: Hannover
-street: Kniestraße
+street: "Kniestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

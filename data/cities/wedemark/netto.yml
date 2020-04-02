@@ -5,7 +5,7 @@ latitude: 52.5794616
 longitude: 9.7294611
 postcode: 30900
 city: Wedemark
-street: Walsroder Straße
+street: "Walsroder Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

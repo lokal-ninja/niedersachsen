@@ -5,7 +5,7 @@ latitude: 51.587780900000006
 longitude: 9.806233200000001
 postcode: 37139
 city: Adelebsen
-street: Landstraße
+street: "Landstraße"
 housenumber: 10
 phone: "+1 05506 764311"
 opening_hours: "Tu,Th 17:30-19:00"

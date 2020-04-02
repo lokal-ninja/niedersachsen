@@ -5,7 +5,7 @@ latitude: 53.1194842
 longitude: 8.333877300000001
 postcode: 27798
 city: Hude
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

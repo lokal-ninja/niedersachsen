@@ -5,7 +5,7 @@ latitude: 53.116905700000004
 longitude: 8.8972729
 postcode: 28357
 city: Bremen
-street: Feldhauser Straße
+street: "Feldhauser Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

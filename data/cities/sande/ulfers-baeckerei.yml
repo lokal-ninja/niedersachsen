@@ -5,7 +5,7 @@ latitude: 53.479459000000006
 longitude: 7.9862017000000005
 postcode: 26452
 city: Sande
-street: Brückstraße
+street: "Brückstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

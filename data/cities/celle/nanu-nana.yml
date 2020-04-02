@@ -5,7 +5,7 @@ latitude: 52.623290700000005
 longitude: 10.0820495
 postcode: 29221
 city: Celle
-street: Poststraße
+street: "Poststraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

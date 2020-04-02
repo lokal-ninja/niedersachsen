@@ -5,7 +5,7 @@ latitude: 51.5346752
 longitude: 9.929885200000001
 postcode: 37073
 city: Göttingen
-street: Goethe-Allee
+street: "Goethe-Allee"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; PH off"

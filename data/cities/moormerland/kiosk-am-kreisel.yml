@@ -5,7 +5,7 @@ latitude: 53.3064176
 longitude: 7.440404900000001
 postcode: 26802
 city: Moormerland
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 06:00-12:00,15:00-22:00; Sa 16:00-22:30"

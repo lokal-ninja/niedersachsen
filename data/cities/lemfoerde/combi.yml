@@ -5,7 +5,7 @@ latitude: 52.46923030000001
 longitude: 8.374123500000001
 postcode: 49448
 city: Lemförde
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

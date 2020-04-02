@@ -5,7 +5,7 @@ latitude: 51.8556546
 longitude: 9.9619769
 postcode: 37574
 city: Einbeck
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

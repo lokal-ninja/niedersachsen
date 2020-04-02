@@ -5,7 +5,7 @@ latitude: 51.54758270000001
 longitude: 9.906439800000001
 postcode: 
 city: Göttingen
-street: Stresemannstraße
+street: "Stresemannstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00; PH off"

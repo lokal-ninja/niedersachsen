@@ -5,7 +5,7 @@ latitude: 51.472889800000004
 longitude: 9.983173200000001
 postcode: 
 city: Gleichen
-street: Allensteiner Weg
+street: "Allensteiner Weg"
 housenumber: 19
 phone: ""
 opening_hours: ""

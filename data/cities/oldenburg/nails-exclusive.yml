@@ -5,7 +5,7 @@ latitude: 53.1590463
 longitude: 8.244287
 postcode: 26125
 city: Oldenburg
-street: Friedrich-Naumann-Straße
+street: "Friedrich-Naumann-Straße"
 housenumber: 6
 phone: "+49 441 2332928"
 opening_hours: "Mo,We,Th 09:00-13:00 Tu,Fr 09:00-13:00,14:00-19:00 || nach Vereinbarung"

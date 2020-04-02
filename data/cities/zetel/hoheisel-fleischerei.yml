@@ -5,7 +5,7 @@ latitude: 53.421162100000004
 longitude: 7.973034
 postcode: 26340
 city: Zetel
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

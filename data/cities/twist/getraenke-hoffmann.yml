@@ -5,7 +5,7 @@ latitude: 52.6455129
 longitude: 7.0872738
 postcode: 49767
 city: Twist
-street: Schwarzer Weg
+street: "Schwarzer Weg"
 housenumber: 157
 phone: ""
 opening_hours: ""

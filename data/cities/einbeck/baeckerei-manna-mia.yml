@@ -5,7 +5,7 @@ latitude: 51.857840800000005
 longitude: 9.9594889
 postcode: 37574
 city: Einbeck
-street: Holzmindener Straße
+street: "Holzmindener Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

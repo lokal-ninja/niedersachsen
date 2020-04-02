@@ -5,7 +5,7 @@ latitude: 52.9691501
 longitude: 10.561631
 postcode: 29525
 city: Uelzen
-street: Lüneburger Straße
+street: "Lüneburger Straße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

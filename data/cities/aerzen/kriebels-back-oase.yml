@@ -5,7 +5,7 @@ latitude: 52.0477786
 longitude: 9.2634007
 postcode: 31855
 city: Aerzen
-street: Osterstraße
+street: "Osterstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo,Tu,Th, Fr 06:00-18:00; We, Sa 06:00-12:00; Su 08:00-12:00"

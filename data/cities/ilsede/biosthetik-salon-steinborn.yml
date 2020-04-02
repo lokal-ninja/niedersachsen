@@ -5,7 +5,7 @@ latitude: 52.2628307
 longitude: 10.192074
 postcode: 31241
 city: Ilsede
-street: Gerhard-Lukas-Straße
+street: "Gerhard-Lukas-Straße"
 housenumber: 84
 phone: "+49 5172 7619"
 opening_hours: ""

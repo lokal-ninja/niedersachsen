@@ -5,7 +5,7 @@ latitude: 52.497301400000005
 longitude: 10.5412874
 postcode: 38518
 city: Gifhorn
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 134
 phone: ""
 opening_hours: "Mo-Su 05:00-23:00"

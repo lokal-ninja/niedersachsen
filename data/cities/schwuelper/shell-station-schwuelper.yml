@@ -5,7 +5,7 @@ latitude: 52.3236123
 longitude: 10.4428978
 postcode: 38179
 city: Schwülper
-street: Celler Straße
+street: "Celler Straße"
 housenumber: 5
 phone: ""
 opening_hours: "24/7"

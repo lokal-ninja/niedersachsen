@@ -5,7 +5,7 @@ latitude: 52.761307
 longitude: 9.498447
 postcode: 29693
 city: Ahlden
-street: Großer Garten
+street: "Großer Garten"
 housenumber: 6
 phone: ""
 opening_hours: "Tu-Fr 10:00-15:00; Sa 10:00-13:00; PH off"

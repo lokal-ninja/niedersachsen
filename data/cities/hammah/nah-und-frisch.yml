@@ -5,7 +5,7 @@ latitude: 53.617633000000005
 longitude: 9.3655263
 postcode: 21714
 city: Hammah
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:00,14:30-18:00; Sa 07:00-12:00"

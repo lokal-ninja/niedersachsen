@@ -5,7 +5,7 @@ latitude: 52.207005800000005
 longitude: 10.0052339
 postcode: 31177
 city: Harsum
-street: Denkmalstraße
+street: "Denkmalstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Su 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.332067900000006
 longitude: 9.7749422
 postcode: 30519
 city: Hannover
-street: Garkenburgstraße
+street: "Garkenburgstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.1427817
 longitude: 10.7810079
 postcode: 38170
 city: Schöppenstedt
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

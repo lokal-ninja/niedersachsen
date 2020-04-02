@@ -5,7 +5,7 @@ latitude: 52.192622400000005
 longitude: 8.3552426
 postcode: 49324
 city: Melle
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

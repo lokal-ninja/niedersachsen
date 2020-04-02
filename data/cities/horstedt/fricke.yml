@@ -5,7 +5,7 @@ latitude: 53.1763993
 longitude: 9.226996900000001
 postcode: 27367
 city: Horstedt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 13
 phone: "+49 4288 395"
 opening_hours: "Mo-Sa 05:30-12:00; Tu-Fr 14:30-18:00; Su 07:30-11:00"

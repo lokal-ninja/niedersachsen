@@ -5,7 +5,7 @@ latitude: 53.5847319
 longitude: 7.7714078
 postcode: 26409
 city: Wittmund
-street: Esenser Straße
+street: "Esenser Straße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

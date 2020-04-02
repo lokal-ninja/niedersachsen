@@ -5,7 +5,7 @@ latitude: 53.3314632
 longitude: 7.564374600000001
 postcode: 26835
 city: Neukamperfehn
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

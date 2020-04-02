@@ -5,7 +5,7 @@ latitude: 53.105259100000005
 longitude: 9.3968594
 postcode: 27356
 city: Rotenburg (Wümme)
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00;PH off"

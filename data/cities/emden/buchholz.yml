@@ -5,7 +5,7 @@ latitude: 53.3672917
 longitude: 7.18053
 postcode: 26723
 city: Emden
-street: Kopersand
+street: "Kopersand"
 housenumber: 12
 phone: "+49 4921 66442"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-10:30"

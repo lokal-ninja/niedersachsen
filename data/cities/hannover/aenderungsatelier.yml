@@ -5,7 +5,7 @@ latitude: 52.3631851
 longitude: 9.761176
 postcode: 
 city: Hannover
-street: Tiestestraße
+street: "Tiestestraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

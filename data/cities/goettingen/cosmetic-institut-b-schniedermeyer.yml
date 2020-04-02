@@ -5,7 +5,7 @@ latitude: 51.5111344
 longitude: 9.939656900000001
 postcode: 37083
 city: Göttingen
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

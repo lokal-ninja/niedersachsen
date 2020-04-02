@@ -5,7 +5,7 @@ latitude: 52.266539200000004
 longitude: 10.5046763
 postcode: 38118
 city: Braunschweig
-street: Goslarsche Straße
+street: "Goslarsche Straße"
 housenumber: 35
 phone: "+49 531 8869940"
 opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-14:00"

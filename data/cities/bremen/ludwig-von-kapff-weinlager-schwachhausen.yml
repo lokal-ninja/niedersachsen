@@ -5,7 +5,7 @@ latitude: 53.085329
 longitude: 8.828399300000001
 postcode: 28209
 city: Bremen
-street: Wachmannstraße
+street: "Wachmannstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

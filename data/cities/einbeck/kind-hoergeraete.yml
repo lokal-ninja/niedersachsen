@@ -5,7 +5,7 @@ latitude: 51.8167715
 longitude: 9.865823200000001
 postcode: 37574
 city: Einbeck
-street: Hullerser Straße
+street: "Hullerser Straße"
 housenumber: 2a
 phone: "+49 5561 923496"
 opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 14:00-18:00"

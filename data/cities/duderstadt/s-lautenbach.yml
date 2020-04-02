@@ -5,7 +5,7 @@ latitude: 51.51361180000001
 longitude: 10.255889400000001
 postcode: 
 city: Duderstadt
-street: Westertorstraße
+street: "Westertorstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

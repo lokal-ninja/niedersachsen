@@ -5,7 +5,7 @@ latitude: 52.294675700000006
 longitude: 8.015443300000001
 postcode: 49090
 city: Osnabrück
-street: Pagenstecherstraße
+street: "Pagenstecherstraße"
 housenumber: 145
 phone: "+49 541 9619165"
 opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00; PH off"

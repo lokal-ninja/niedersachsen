@@ -5,7 +5,7 @@ latitude: 52.9187269
 longitude: 9.216254300000001
 postcode: 27283
 city: Verden
-street: Groß Hutberger Straße
+street: "Groß Hutberger Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

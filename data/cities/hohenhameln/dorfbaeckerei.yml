@@ -5,7 +5,7 @@ latitude: 52.244306800000004
 longitude: 10.1148667
 postcode: 31249
 city: Hohenhameln
-street: Thingstraße
+street: "Thingstraße"
 housenumber: 7
 phone: "+49 5128 961447"
 opening_hours: ""

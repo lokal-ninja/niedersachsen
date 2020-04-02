@@ -5,7 +5,7 @@ latitude: 53.2247282
 longitude: 10.1711655
 postcode: 21376
 city: Salzhausen
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 4
 phone: "+49 4172 8862"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.792056900000006
 longitude: 7.898346800000001
 postcode: 26486
 city: Wangerooge
-street: Elisabeth-Anna-Straße
+street: "Elisabeth-Anna-Straße"
 housenumber: 15-17
 phone: "+49 4469 1414"
 opening_hours: ""

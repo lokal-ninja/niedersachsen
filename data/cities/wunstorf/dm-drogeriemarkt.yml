@@ -5,7 +5,7 @@ latitude: 52.4257817
 longitude: 9.426532100000001
 postcode: 31515
 city: Wunstorf
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

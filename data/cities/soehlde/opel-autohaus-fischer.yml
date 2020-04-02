@@ -5,7 +5,7 @@ latitude: 52.2001082
 longitude: 10.150275500000001
 postcode: 31185
 city: Söhlde
-street: An der Bundesstraße
+street: "An der Bundesstraße"
 housenumber: 3
 phone: "+49 5123 690"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"

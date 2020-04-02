@@ -5,7 +5,7 @@ latitude: 52.4788459
 longitude: 10.5530019
 postcode: 38518
 city: Gifhorn
-street: Lehmweg
+street: "Lehmweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

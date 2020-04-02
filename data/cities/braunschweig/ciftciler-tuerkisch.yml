@@ -5,7 +5,7 @@ latitude: 52.2600192
 longitude: 10.519715900000001
 postcode: 38100
 city: Braunschweig
-street: Friedrich-Wilhelm-Platz
+street: "Friedrich-Wilhelm-Platz"
 housenumber: 5
 phone: "+49 531 43932"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.5848876
 longitude: 10.613263
 postcode: 37445
 city: Walkenried
-street: Poststraße
+street: "Poststraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

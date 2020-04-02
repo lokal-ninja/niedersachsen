@@ -5,7 +5,7 @@ latitude: 53.171893000000004
 longitude: 9.6678244
 postcode: 27389
 city: Fintel
-street: Pferdemarkt
+street: "Pferdemarkt"
 housenumber: 4
 phone: ""
 opening_hours: ""

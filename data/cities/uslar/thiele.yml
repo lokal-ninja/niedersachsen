@@ -5,7 +5,7 @@ latitude: 51.661874600000004
 longitude: 9.6298539
 postcode: 37170
 city: Uslar
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 32
 phone: "+49-5571-6053"
 opening_hours: "Mo-Sa 06:00-22:00;Su 08:00-12:00"

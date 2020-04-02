@@ -5,7 +5,7 @@ latitude: 52.3446975
 longitude: 8.2239343
 postcode: 49179
 city: Ostercappeln
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

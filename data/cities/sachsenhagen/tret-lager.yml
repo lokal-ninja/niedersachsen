@@ -5,7 +5,7 @@ latitude: 52.38244340000001
 longitude: 9.227165900000001
 postcode: 31553
 city: Sachsenhagen
-street: Schaumburger Straße
+street: "Schaumburger Straße"
 housenumber: 28
 phone: "+49 5725 7738"
 opening_hours: ""

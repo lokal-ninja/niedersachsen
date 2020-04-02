@@ -5,7 +5,7 @@ latitude: 51.8147589
 longitude: 9.873822800000001
 postcode: 37574
 city: Einbeck
-street: Altendorfer Tor
+street: "Altendorfer Tor"
 housenumber: 14
 phone: "+49 5561 75682"
 opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00"

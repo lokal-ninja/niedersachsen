@@ -5,7 +5,7 @@ latitude: 52.4711221
 longitude: 8.3730949
 postcode: 49448
 city: Lemförde
-street: Pommernstraße
+street: "Pommernstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

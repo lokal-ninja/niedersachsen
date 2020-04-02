@@ -5,7 +5,7 @@ latitude: 53.169722400000005
 longitude: 8.1972608
 postcode: 26127
 city: Oldenburg
-street: Alexanderstraße
+street: "Alexanderstraße"
 housenumber: 334
 phone: ""
 opening_hours: ""

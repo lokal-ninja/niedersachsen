@@ -5,7 +5,7 @@ latitude: 53.3667724
 longitude: 7.2075864
 postcode: 26725
 city: Emden
-street: Brückstraße
+street: "Brückstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"

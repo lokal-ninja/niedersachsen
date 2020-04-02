@@ -5,7 +5,7 @@ latitude: 53.172795400000005
 longitude: 9.667878400000001
 postcode: 27389
 city: Fintel
-street: Am Markt
+street: "Am Markt"
 housenumber: 3
 phone: ""
 opening_hours: ""

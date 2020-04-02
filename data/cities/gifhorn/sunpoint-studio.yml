@@ -5,7 +5,7 @@ latitude: 52.4855432
 longitude: 10.5481735
 postcode: 38518
 city: Gifhorn
-street: Michael-Clare-Straße
+street: "Michael-Clare-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-21:00"

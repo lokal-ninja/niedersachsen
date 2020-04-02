@@ -5,7 +5,7 @@ latitude: 52.2925162
 longitude: 10.5956889
 postcode: 38104
 city: Braunschweig
-street: Berliner Heerstraße
+street: "Berliner Heerstraße"
 housenumber: 60
 phone: "+49 531 36520"
 opening_hours: "Mo-Sa 10:00-19:00"

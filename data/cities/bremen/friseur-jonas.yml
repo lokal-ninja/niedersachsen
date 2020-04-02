@@ -5,7 +5,7 @@ latitude: 53.073029000000005
 longitude: 8.8810622
 postcode: 28329
 city: Bremen
-street: Amelinghauser Straße
+street: "Amelinghauser Straße"
 housenumber: 19A
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-15:00"

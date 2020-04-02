@@ -5,7 +5,7 @@ latitude: 52.8358062
 longitude: 8.0721123
 postcode: 49661
 city: Cloppenburg
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 21
 phone: "+49 4471 186361"
 opening_hours: ""

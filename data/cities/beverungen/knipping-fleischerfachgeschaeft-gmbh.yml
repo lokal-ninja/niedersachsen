@@ -5,7 +5,7 @@ latitude: 51.665183400000004
 longitude: 9.3736569
 postcode: 37688
 city: Beverungen
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 47
 phone: "+49 5273 1308"
 opening_hours: "Mo-Fr 07:30-13:00, 14:30-18:00, Sa 07:00-13:00"

@@ -5,7 +5,7 @@ latitude: 51.418022
 longitude: 9.6712076
 postcode: 34346
 city: Hann. Münden
-street: Wiershäuser Weg
+street: "Wiershäuser Weg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

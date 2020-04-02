@@ -5,7 +5,7 @@ latitude: 52.262643600000004
 longitude: 9.0633298
 postcode: 31675
 city: Bückeburg
-street: Ahnser Straße
+street: "Ahnser Straße"
 housenumber: 4
 phone: "+49 5722 2854128"
 opening_hours: "Mo-Sa 08:00-20:00"

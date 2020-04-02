@@ -5,7 +5,7 @@ latitude: 53.2511044
 longitude: 10.3944433
 postcode: 
 city: Lüneburg
-street: Vor dem Neuen Tore
+street: "Vor dem Neuen Tore"
 housenumber: 3a
 phone: "+49 04131 8544654"
 opening_hours: "Mo-Fr 09:00-15:00"

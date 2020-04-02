@@ -5,7 +5,7 @@ latitude: 53.182399100000005
 longitude: 7.2663764
 postcode: 26831
 city: Bunde
-street: Neuschanzer Straße
+street: "Neuschanzer Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

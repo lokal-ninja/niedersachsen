@@ -5,7 +5,7 @@ latitude: 53.135162
 longitude: 8.2094251
 postcode: 26122
 city: Oldenburg
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 15
 phone: "+49 441 40889676"
 opening_hours: "Mo-Tu,Th-Fr 09:00-17:00; We 09:00-13:00; PH off"

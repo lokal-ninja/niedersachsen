@@ -5,7 +5,7 @@ latitude: 53.0227652
 longitude: 7.8565443
 postcode: 26169
 city: Friesoythe
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 11
 phone: "+49 4491 7849507"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00; Su,PH off"

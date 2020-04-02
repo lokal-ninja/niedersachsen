@@ -5,7 +5,7 @@ latitude: 53.091441800000005
 longitude: 8.8448981
 postcode: 28213
 city: Bremen
-street: Emmastraße
+street: "Emmastraße"
 housenumber: 86
 phone: ""
 opening_hours: ""

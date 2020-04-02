@@ -5,7 +5,7 @@ latitude: 53.852555
 longitude: 8.715816100000001
 postcode: 27472
 city: Cuxhaven
-street: Meyerstraße
+street: "Meyerstraße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00; PH off"

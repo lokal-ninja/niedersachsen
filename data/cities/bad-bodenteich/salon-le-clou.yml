@@ -5,7 +5,7 @@ latitude: 52.83479500000001
 longitude: 10.678170900000001
 postcode: 29389
 city: Bad Bodenteich
-street: Schützenstraße
+street: "Schützenstraße"
 housenumber: 1a
 phone: "+49 5824 985888"
 opening_hours: ""

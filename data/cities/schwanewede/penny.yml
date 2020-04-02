@@ -5,7 +5,7 @@ latitude: 53.2305834
 longitude: 8.5957095
 postcode: 28790
 city: Schwanewede
-street: Heidkamp
+street: "Heidkamp"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"

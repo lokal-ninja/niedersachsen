@@ -5,7 +5,7 @@ latitude: 51.503599200000004
 longitude: 9.905995500000001
 postcode: 37124
 city: Rosdorf
-street: Friedensstraße
+street: "Friedensstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

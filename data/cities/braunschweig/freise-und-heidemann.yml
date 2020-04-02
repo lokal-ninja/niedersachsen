@@ -5,7 +5,7 @@ latitude: 52.2632172
 longitude: 10.518843200000001
 postcode: 38100
 city: Braunschweig
-street: Schützenstraße
+street: "Schützenstraße"
 housenumber: 2
 phone: "+49 531 49353"
 opening_hours: "Mo-Th 08:00-12:00,13:00-16:30; Fr 08:00-12:00,13:00-15:00"

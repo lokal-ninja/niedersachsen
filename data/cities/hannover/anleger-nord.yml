@@ -5,7 +5,7 @@ latitude: 52.362484300000006
 longitude: 9.7390792
 postcode: 30169
 city: Hannover
-street: Rudolf-von-Bennigsen-Ufer
+street: "Rudolf-von-Bennigsen-Ufer"
 housenumber: 2
 phone: "+49 511 26021563"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.059443800000004
 longitude: 8.896667
 postcode: 28309
 city: Bremen
-street: Sebaldsbrücker Heerstraße
+street: "Sebaldsbrücker Heerstraße"
 housenumber: 156
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"

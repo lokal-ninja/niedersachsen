@@ -5,7 +5,7 @@ latitude: 53.2480575
 longitude: 9.840219900000001
 postcode: 21256
 city: Handeloh
-street: Ameisenweg
+street: "Ameisenweg"
 housenumber: 11
 phone: "+49 4188 899734"
 opening_hours: ""

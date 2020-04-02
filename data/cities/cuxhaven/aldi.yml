@@ -5,7 +5,7 @@ latitude: 53.8852698
 longitude: 8.6614365
 postcode: 27476
 city: Cuxhaven
-street: Heinrich-Grube-Weg
+street: "Heinrich-Grube-Weg"
 housenumber: 76
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-18:00; PH off"

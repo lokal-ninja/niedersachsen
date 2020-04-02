@@ -5,7 +5,7 @@ latitude: 52.4266312
 longitude: 10.7834509
 postcode: 38440
 city: Wolfsburg
-street: Poststraße
+street: "Poststraße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"

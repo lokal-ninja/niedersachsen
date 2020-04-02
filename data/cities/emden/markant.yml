@@ -5,7 +5,7 @@ latitude: 53.3722514
 longitude: 7.2234617000000005
 postcode: 26725
 city: Emden
-street: Ziegeleistraße
+street: "Ziegeleistraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

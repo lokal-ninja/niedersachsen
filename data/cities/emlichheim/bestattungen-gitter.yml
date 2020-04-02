@@ -5,7 +5,7 @@ latitude: 52.6056718
 longitude: 6.851045500000001
 postcode: 49824
 city: Emlichheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

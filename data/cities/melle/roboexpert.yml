@@ -5,7 +5,7 @@ latitude: 52.202813000000006
 longitude: 8.340873400000001
 postcode: 49324
 city: Melle
-street: Dürrenberger Ring
+street: "Dürrenberger Ring"
 housenumber: 18
 phone: "+49 800 9930000"
 opening_hours: ""

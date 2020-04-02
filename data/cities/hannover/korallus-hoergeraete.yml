@@ -5,7 +5,7 @@ latitude: 52.3695455
 longitude: 9.723823600000001
 postcode: 30169
 city: Hannover
-street: Calenberger Esplanade
+street: "Calenberger Esplanade"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00"

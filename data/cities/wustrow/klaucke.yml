@@ -5,7 +5,7 @@ latitude: 52.92200690000001
 longitude: 11.1197209
 postcode: 29462
 city: Wustrow
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 32
 phone: ""
 opening_hours: ""

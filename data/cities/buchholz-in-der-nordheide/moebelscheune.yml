@@ -5,7 +5,7 @@ latitude: 53.3473522
 longitude: 9.865454100000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Zunftstraße
+street: "Zunftstraße"
 housenumber: 5
 phone: "+49 4181 9289987"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00"

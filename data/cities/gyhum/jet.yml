@@ -5,7 +5,7 @@ latitude: 53.1922872
 longitude: 9.2881523
 postcode: 27404
 city: Gyhum
-street: An der Autobahn
+street: "An der Autobahn"
 housenumber: 6
 phone: ""
 opening_hours: "24/7"

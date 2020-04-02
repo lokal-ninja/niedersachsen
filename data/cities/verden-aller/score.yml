@@ -5,7 +5,7 @@ latitude: 52.9444554
 longitude: 9.2329342
 postcode: 27283
 city: Verden (Aller)
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Fr 05:00-23:00; Sa 06:00-23:00; Su 07:00-23:00; PH 08:00-23:00"

@@ -5,7 +5,7 @@ latitude: 53.0746417
 longitude: 8.8075489
 postcode: 28195
 city: Bremen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00, Sa 10:00-13:00"

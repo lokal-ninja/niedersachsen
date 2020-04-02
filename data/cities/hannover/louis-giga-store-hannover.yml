@@ -5,7 +5,7 @@ latitude: 52.405272700000005
 longitude: 9.7343588
 postcode: 30165
 city: Hannover
-street: Vahrenwalder Straße
+street: "Vahrenwalder Straße"
 housenumber: 199
 phone: "+49 511 3180418"
 opening_hours: "Feb-Oct: Mo-We 09:00-20:00; Th-Fr 09:00-21:00; Sa 09:00-20:00; Nov-Jan: Mo-Sa 09:00-19:00; Su off"

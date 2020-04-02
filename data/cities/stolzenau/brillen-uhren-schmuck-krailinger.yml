@@ -5,7 +5,7 @@ latitude: 52.511839200000004
 longitude: 9.0762759
 postcode: 31592
 city: Stolzenau
-street: Hohe Straße
+street: "Hohe Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

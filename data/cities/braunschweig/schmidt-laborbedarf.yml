@@ -5,7 +5,7 @@ latitude: 52.2765891
 longitude: 10.527494800000001
 postcode: 38106
 city: Braunschweig
-street: Eschenburgstraße
+street: "Eschenburgstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

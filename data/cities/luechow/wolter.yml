@@ -5,7 +5,7 @@ latitude: 52.966861
 longitude: 11.158086800000001
 postcode: 29439
 city: Lüchow
-street: Mauerstraße
+street: "Mauerstraße"
 housenumber: 9-11
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00"

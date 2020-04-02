@@ -5,7 +5,7 @@ latitude: 53.096526700000005
 longitude: 11.0872992
 postcode: 29451
 city: Dannenberg
-street: Lüneburger Straße
+street: "Lüneburger Straße"
 housenumber: 30
 phone: "+49 5861 8418"
 opening_hours: ""

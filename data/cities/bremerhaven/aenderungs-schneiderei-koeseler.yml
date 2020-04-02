@@ -5,7 +5,7 @@ latitude: 53.5464197
 longitude: 8.5792961
 postcode: 27568
 city: Bremerhaven
-street: Keilstraße
+street: "Keilstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Fr 9:00-13:00, 15:00-18:00; Sa 9:00-14:00"

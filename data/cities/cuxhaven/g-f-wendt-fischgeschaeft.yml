@@ -5,7 +5,7 @@ latitude: 53.8611705
 longitude: 8.710591800000001
 postcode: 27472
 city: Cuxhaven
-street: Niedersachsenstraße
+street: "Niedersachsenstraße"
 housenumber: 89
 phone: "+49 4721 22993"
 opening_hours: ""

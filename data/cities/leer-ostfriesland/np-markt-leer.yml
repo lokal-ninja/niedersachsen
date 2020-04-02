@@ -5,7 +5,7 @@ latitude: 53.239526500000004
 longitude: 7.498036000000001
 postcode: 26789
 city: Leer (Ostfriesland)
-street: Logaer Weg
+street: "Logaer Weg"
 housenumber: 146
 phone: "+49 491 9711650"
 opening_hours: "Mo-Sa 07:00-20:00; Su off; PH off"

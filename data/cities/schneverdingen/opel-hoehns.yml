@@ -5,7 +5,7 @@ latitude: 53.1238703
 longitude: 9.804993600000001
 postcode: 29640
 city: Schneverdingen
-street: Alte Landesstraße
+street: "Alte Landesstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

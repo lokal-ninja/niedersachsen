@@ -5,7 +5,7 @@ latitude: 53.0349486
 longitude: 8.8275314
 postcode: 28277
 city: Bremen
-street: Gorsemannstraße
+street: "Gorsemannstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

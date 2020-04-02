@@ -5,7 +5,7 @@ latitude: 51.527221700000005
 longitude: 9.887224900000001
 postcode: 37081
 city: Göttingen
-street: Siekweg
+street: "Siekweg"
 housenumber: 30c
 phone: ""
 opening_hours: ""

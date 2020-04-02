@@ -5,7 +5,7 @@ latitude: 52.8769816
 longitude: 10.1136868
 postcode: 29328
 city: Faßberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 4
 phone: "+49 5053 209"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.9024359
 longitude: 9.7697719
 postcode: 29683
 city: Bad Fallingbostel
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 3
 phone: "+49 5163 1238"
 opening_hours: ""

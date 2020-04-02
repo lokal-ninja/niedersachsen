@@ -5,7 +5,7 @@ latitude: 53.603143900000006
 longitude: 7.286942600000001
 postcode: 
 city: Hage
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

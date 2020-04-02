@@ -5,7 +5,7 @@ latitude: 52.218029800000004
 longitude: 9.572073000000001
 postcode: 31832
 city: Springe
-street: Philipp-Reis-Straße
+street: "Philipp-Reis-Straße"
 housenumber: 50
 phone: ""
 opening_hours: ""

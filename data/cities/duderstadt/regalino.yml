@@ -5,7 +5,7 @@ latitude: 51.511917000000004
 longitude: 10.2597432
 postcode: 
 city: Duderstadt
-street: Apothekenstraße
+street: "Apothekenstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

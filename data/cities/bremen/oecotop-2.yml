@@ -5,7 +5,7 @@ latitude: 53.0767419
 longitude: 8.8445564
 postcode: 28205
 city: Bremen
-street: Friedrich-Karl-Straße
+street: "Friedrich-Karl-Straße"
 housenumber: 98
 phone: "+49 421 3467979"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-14:00"

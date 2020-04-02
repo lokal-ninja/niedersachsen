@@ -5,7 +5,7 @@ latitude: 51.660747
 longitude: 9.749186700000001
 postcode: 37170
 city: Uslar
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

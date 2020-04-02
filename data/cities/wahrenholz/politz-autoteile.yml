@@ -5,7 +5,7 @@ latitude: 52.615368000000004
 longitude: 10.602997100000001
 postcode: 29399
 city: Wahrenholz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 63
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"

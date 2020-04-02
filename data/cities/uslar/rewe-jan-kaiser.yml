@@ -5,7 +5,7 @@ latitude: 51.66104120000001
 longitude: 9.638928700000001
 postcode: 37170
 city: Uslar
-street: Stiftstraße
+street: "Stiftstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.216338500000006
 longitude: 10.4994411
 postcode: 38122
 city: Braunschweig
-street: Rüningenstraße
+street: "Rüningenstraße"
 housenumber: 80
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 53.09755740000001
 longitude: 8.493943100000001
 postcode: 27798
 city: Hude
-street: Langenberger Straße
+street: "Langenberger Straße"
 housenumber: 71
 phone: ""
 opening_hours: ""

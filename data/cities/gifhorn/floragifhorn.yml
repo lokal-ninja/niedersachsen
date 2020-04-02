@@ -5,7 +5,7 @@ latitude: 52.485871800000005
 longitude: 10.547357100000001
 postcode: 38518
 city: Gifhorn
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

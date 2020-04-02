@@ -5,7 +5,7 @@ latitude: 53.140662500000005
 longitude: 8.209651800000001
 postcode: 26122
 city: Oldenburg
-street: Haarenstraße
+street: "Haarenstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

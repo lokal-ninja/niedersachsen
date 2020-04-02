@@ -5,7 +5,7 @@ latitude: 52.9269005
 longitude: 7.8917307
 postcode: 26169
 city: Friesoythe
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 8
 phone: "+49 4495 226"
 opening_hours: "Mo 06:30-20:00; Tu 06:30-12:00; We-Sa 06:30-20:00; Su 10:00-12:00"

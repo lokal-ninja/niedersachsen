@@ -5,7 +5,7 @@ latitude: 53.095567800000005
 longitude: 8.813035600000001
 postcode: 28215
 city: Bremen
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 85
 phone: "+49 421 3064469"
 opening_hours: "Mo-Fr 8:30-17:00; Dec 01-24 Sa 09:00-13:30"

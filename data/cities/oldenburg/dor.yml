@@ -5,7 +5,7 @@ latitude: 53.1420533
 longitude: 8.2128536
 postcode: 26122
 city: Oldenburg
-street: Herbartgang
+street: "Herbartgang"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"

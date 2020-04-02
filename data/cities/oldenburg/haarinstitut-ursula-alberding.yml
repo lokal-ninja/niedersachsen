@@ -5,7 +5,7 @@ latitude: 53.162845000000004
 longitude: 8.252262100000001
 postcode: 26125
 city: Oldenburg
-street: August-Hanken-Straße
+street: "August-Hanken-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

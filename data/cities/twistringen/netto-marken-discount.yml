@@ -5,7 +5,7 @@ latitude: 52.7930209
 longitude: 8.6300209
 postcode: 27239
 city: Twistringen
-street: Köglerstraße
+street: "Köglerstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 52.677254600000005
 longitude: 7.4891284
 postcode: 49740
 city: Haselünne
-street: Meerstraße
+street: "Meerstraße"
 housenumber: 15a
 phone: ""
 opening_hours: ""

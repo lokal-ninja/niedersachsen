@@ -5,7 +5,7 @@ latitude: 53.080623700000004
 longitude: 10.5725469
 postcode: 29549
 city: Bad Bevensen
-street: Medinger Straße
+street: "Medinger Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.4815368
 longitude: 9.621850100000001
 postcode: 21614
 city: Buxtehude
-street: Harsefelder Straße
+street: "Harsefelder Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00, Sa 05:30-12:00"

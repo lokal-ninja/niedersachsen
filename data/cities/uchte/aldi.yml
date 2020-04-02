@@ -5,7 +5,7 @@ latitude: 52.4995017
 longitude: 8.9057755
 postcode: 31600
 city: Uchte
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

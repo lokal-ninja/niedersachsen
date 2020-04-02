@@ -5,7 +5,7 @@ latitude: 51.5895712
 longitude: 9.9236533
 postcode: 
 city: Bovenden
-street: Maschweg
+street: "Maschweg"
 housenumber: 2
 phone: "+49 551 81859"
 opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-13:00; PH off"

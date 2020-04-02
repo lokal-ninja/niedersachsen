@@ -5,7 +5,7 @@ latitude: 52.975830300000005
 longitude: 8.3968027
 postcode: 27801
 city: Dötlingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"

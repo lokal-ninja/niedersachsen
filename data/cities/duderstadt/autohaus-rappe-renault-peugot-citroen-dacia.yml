@@ -5,7 +5,7 @@ latitude: 51.51547720000001
 longitude: 10.2417719
 postcode: 37115
 city: Duderstadt
-street: Charlottenburger Straße
+street: "Charlottenburger Straße"
 housenumber: 3
 phone: "+49 5527 98850"
 opening_hours: ""

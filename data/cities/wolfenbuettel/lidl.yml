@@ -5,7 +5,7 @@ latitude: 52.1753075
 longitude: 10.5408681
 postcode: 38302
 city: Wolfenbüttel
-street: Neuer Weg
+street: "Neuer Weg"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

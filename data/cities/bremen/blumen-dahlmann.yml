@@ -5,7 +5,7 @@ latitude: 53.08732620000001
 longitude: 8.7622686
 postcode: 28197
 city: Bremen
-street: Woltmershauser Straße
+street: "Woltmershauser Straße"
 housenumber: 301
 phone: ""
 opening_hours: ""

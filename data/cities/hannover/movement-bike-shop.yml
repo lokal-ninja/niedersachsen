@@ -5,7 +5,7 @@ latitude: 52.3736485
 longitude: 9.705032000000001
 postcode: 30451
 city: Hannover
-street: Fröbelstraße
+street: "Fröbelstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 10:30-13:30,14:30-19:00; Sa 10:30-14:00; PH off"

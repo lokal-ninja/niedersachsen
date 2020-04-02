@@ -5,7 +5,7 @@ latitude: 53.315087600000005
 longitude: 9.3347771
 postcode: 27404
 city: Heeslingen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

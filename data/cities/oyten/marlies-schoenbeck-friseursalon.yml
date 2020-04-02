@@ -5,7 +5,7 @@ latitude: 53.049426700000005
 longitude: 9.0123482
 postcode: 28876
 city: Oyten
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 58
 phone: ""
 opening_hours: ""

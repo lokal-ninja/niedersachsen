@@ -5,7 +5,7 @@ latitude: 52.387750700000005
 longitude: 9.9676904
 postcode: 31275
 city: Lehrte
-street: Burchard-Retschy-Ring
+street: "Burchard-Retschy-Ring"
 housenumber: 15
 phone: ""
 opening_hours: ""

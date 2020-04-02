@@ -5,7 +5,7 @@ latitude: 53.025006100000006
 longitude: 11.464521600000001
 postcode: 29471
 city: Gartow
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 15
 phone: "+49-5846-980330"
 opening_hours: "Tu,Th 08:30-12:30,14:30-18:00; We,Sa 08:30-12:30; Fr 08:00-18:00"

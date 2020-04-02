@@ -5,7 +5,7 @@ latitude: 51.507240800000005
 longitude: 10.267539300000001
 postcode: 37115
 city: Duderstadt
-street: Wildunger Straße
+street: "Wildunger Straße"
 housenumber: 4
 phone: "+495527999124"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-12:00"

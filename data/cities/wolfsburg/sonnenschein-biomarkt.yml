@@ -5,7 +5,7 @@ latitude: 52.4221081
 longitude: 10.7829321
 postcode: 38440
 city: Wolfsburg
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 42A
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"

@@ -5,7 +5,7 @@ latitude: 52.261392400000005
 longitude: 9.0228069
 postcode: 31675
 city: Bückeburg
-street: Weinberg
+street: "Weinberg"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

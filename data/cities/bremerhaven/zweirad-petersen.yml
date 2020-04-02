@@ -5,7 +5,7 @@ latitude: 53.5707223
 longitude: 8.6059415
 postcode: 27578
 city: Bremerhaven
-street: Spadener Straße
+street: "Spadener Straße"
 housenumber: 101
 phone: "+49 +471 81028"
 opening_hours: ""

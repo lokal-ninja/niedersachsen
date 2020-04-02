@@ -5,7 +5,7 @@ latitude: 53.082139000000005
 longitude: 8.8132192
 postcode: 28195
 city: Bremen
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 15
 phone: ""
 opening_hours: ""

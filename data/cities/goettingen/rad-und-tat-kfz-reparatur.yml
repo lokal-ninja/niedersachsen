@@ -5,7 +5,7 @@ latitude: 51.5426021
 longitude: 9.9064574
 postcode: 37079
 city: Göttingen
-street: Grätzelstraße
+street: "Grätzelstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.5329162
 longitude: 9.9392799
 postcode: 37073
 city: Göttingen
-street: Mauerstraße
+street: "Mauerstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 10:00-16:00; Sa 13:00-18:00; PH off"

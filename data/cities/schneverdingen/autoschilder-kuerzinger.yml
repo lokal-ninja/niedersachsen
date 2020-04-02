@@ -5,7 +5,7 @@ latitude: 53.1197109
 longitude: 9.788168500000001
 postcode: 29640
 city: Schneverdingen
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2492272
 longitude: 10.471863500000001
 postcode: 
 city: Braunschweig
-street: Glanweg
+street: "Glanweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

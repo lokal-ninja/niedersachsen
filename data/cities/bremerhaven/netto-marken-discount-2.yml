@@ -5,7 +5,7 @@ latitude: 53.509450900000004
 longitude: 8.608305600000001
 postcode: 27572
 city: Bremerhaven
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

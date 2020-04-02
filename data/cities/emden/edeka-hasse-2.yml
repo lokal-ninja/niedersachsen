@@ -5,7 +5,7 @@ latitude: 53.3462936
 longitude: 7.2238755
 postcode: 26725
 city: Emden
-street: Wykhoffweg
+street: "Wykhoffweg"
 housenumber: 5
 phone: "+49 4921 56458"
 opening_hours: "Mo-Fr 07:00-21:00;Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 53.1195974
 longitude: 9.7857927
 postcode: 29640
 city: Schneverdingen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 6
 phone: "+49 5193 6020"
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.237041500000004
 longitude: 10.458152
 postcode: 21337
 city: Lüneburg
-street: August-Horch-Straße
+street: "August-Horch-Straße"
 housenumber: 9
 phone: "+49 4131 872070"
 opening_hours: ""

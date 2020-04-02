@@ -5,7 +5,7 @@ latitude: 53.2488304
 longitude: 10.4172727
 postcode: 21337
 city: Lüneburg
-street: Altenbrückerdamm
+street: "Altenbrückerdamm"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00"

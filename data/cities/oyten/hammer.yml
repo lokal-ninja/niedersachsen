@@ -5,7 +5,7 @@ latitude: 53.053701800000006
 longitude: 9.0332715
 postcode: 28876
 city: Oyten
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Fr 9:00-20:00; Sa 9:00-18:00"

@@ -5,7 +5,7 @@ latitude: 53.0813787
 longitude: 8.7965816
 postcode: 28195
 city: Bremen
-street: Faulenstraße
+street: "Faulenstraße"
 housenumber: 69
 phone: ""
 opening_hours: ""

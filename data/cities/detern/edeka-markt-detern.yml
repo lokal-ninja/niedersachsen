@@ -5,7 +5,7 @@ latitude: 53.211498600000006
 longitude: 7.664165000000001
 postcode: 26847
 city: Detern
-street: Gasteweg
+street: "Gasteweg"
 housenumber: 1
 phone: "+49 4957 912013"
 opening_hours: "Mo-Sa 08:00-20:00"

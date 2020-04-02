@@ -5,7 +5,7 @@ latitude: 52.364220800000005
 longitude: 7.4705545
 postcode: 48480
 city: Spelle
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 48
 phone: ""
 opening_hours: "Mo-Th 09:00-20:00;Fr 08:00-00:00;Sa 08:00-19:00"

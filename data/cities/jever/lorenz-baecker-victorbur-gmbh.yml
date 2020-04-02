@@ -5,7 +5,7 @@ latitude: 53.550436700000006
 longitude: 7.885540600000001
 postcode: 26441
 city: Jever
-street: Rahrdumer Straße
+street: "Rahrdumer Straße"
 housenumber: 94
 phone: ""
 opening_hours: ""

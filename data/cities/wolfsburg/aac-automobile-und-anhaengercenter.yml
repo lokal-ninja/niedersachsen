@@ -5,7 +5,7 @@ latitude: 52.419335100000005
 longitude: 10.848308300000001
 postcode: 38446
 city: Wolfsburg
-street: Zollstraße
+street: "Zollstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

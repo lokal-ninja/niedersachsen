@@ -5,7 +5,7 @@ latitude: 53.0770817
 longitude: 8.8072624
 postcode: 28195
 city: Bremen
-street: Unser Lieben Frauen Kirchhof
+street: "Unser Lieben Frauen Kirchhof"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 09:30-19:00; Su,PH off"

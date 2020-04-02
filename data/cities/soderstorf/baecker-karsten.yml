@@ -5,7 +5,7 @@ latitude: 53.1425454
 longitude: 10.147744000000001
 postcode: 21388
 city: Soderstorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

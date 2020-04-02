@@ -5,7 +5,7 @@ latitude: 52.2874726
 longitude: 10.533139400000001
 postcode: 38106
 city: Braunschweig
-street: Siegfriedstraße
+street: "Siegfriedstraße"
 housenumber: 110
 phone: "+49 531 70210981"
 opening_hours: "Mo-Fr 11:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.285589300000005
 longitude: 8.4160333
 postcode: 49152
 city: Bad Essen
-street: Buersche Straße
+street: "Buersche Straße"
 housenumber: 144
 phone: "+49 5427 400"
 opening_hours: ""

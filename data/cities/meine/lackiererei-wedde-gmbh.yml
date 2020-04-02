@@ -5,7 +5,7 @@ latitude: 52.3868498
 longitude: 10.532725600000001
 postcode: 38527
 city: Meine
-street: An der Bahn
+street: "An der Bahn"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Th 07:00-17:30; Fr 07:00-14:45; Weitere Termine sind nach Absprache möglich."

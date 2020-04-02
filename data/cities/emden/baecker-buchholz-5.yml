@@ -5,7 +5,7 @@ latitude: 53.379736900000005
 longitude: 7.1959773
 postcode: 26721
 city: Emden
-street: Hoher Weg
+street: "Hoher Weg"
 housenumber: 1a
 phone: "+49 4921 586422"
 opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-13:00; Su 07:30-10:30"

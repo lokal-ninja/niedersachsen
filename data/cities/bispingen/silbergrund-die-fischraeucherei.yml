@@ -5,7 +5,7 @@ latitude: 53.0857467
 longitude: 10.0320833
 postcode: 29646
 city: Bispingen
-street: Wittenbecksweg
+street: "Wittenbecksweg"
 housenumber: 67
 phone: "+49 5194 2055"
 opening_hours: "Mo-Fr 08:00-16:00; Sa 08:00-12:00"

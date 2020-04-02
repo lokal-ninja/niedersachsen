@@ -5,7 +5,7 @@ latitude: 52.379054700000005
 longitude: 9.730116200000001
 postcode: 30159
 city: Hannover
-street: Am Klagesmarkt
+street: "Am Klagesmarkt"
 housenumber: 51
 phone: "+49 511 89738370"
 opening_hours: "Tu-Fr 09:00-20:00, Sa 09:00-16:00"

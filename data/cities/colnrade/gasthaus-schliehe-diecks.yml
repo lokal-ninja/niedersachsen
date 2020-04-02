@@ -5,7 +5,7 @@ latitude: 52.8223733
 longitude: 8.4765682
 postcode: 27243
 city: Colnrade
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 2
 phone: "+49 4434243"
 opening_hours: ""

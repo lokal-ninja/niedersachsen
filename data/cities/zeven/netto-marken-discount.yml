@@ -5,7 +5,7 @@ latitude: 53.288685400000006
 longitude: 9.2802249
 postcode: 27404
 city: Zeven
-street: Auf dem Quabben
+street: "Auf dem Quabben"
 housenumber: 27-29
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 52.4818402
 longitude: 7.2069441
 postcode: 49835
 city: Wietmarschen
-street: Einsteinstraße
+street: "Einsteinstraße"
 housenumber: 6
 phone: "+49 591 9143 123"
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"

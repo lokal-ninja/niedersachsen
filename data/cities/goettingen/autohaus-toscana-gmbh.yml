@@ -5,7 +5,7 @@ latitude: 51.561055100000004
 longitude: 9.9310937
 postcode: 37077
 city: Göttingen
-street: Beselerweg
+street: "Beselerweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.049935600000005
 longitude: 7.3199779000000005
 postcode: 26871
 city: Papenburg
-street: In der Emsmarsch
+street: "In der Emsmarsch"
 housenumber: 2
 phone: ""
 opening_hours: ""

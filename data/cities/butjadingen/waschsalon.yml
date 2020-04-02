@@ -5,7 +5,7 @@ latitude: 53.578399000000005
 longitude: 8.370596500000001
 postcode: 26969
 city: Butjadingen
-street: Ostlandstraße
+street: "Ostlandstraße"
 housenumber: 48
 phone: ""
 opening_hours: ""

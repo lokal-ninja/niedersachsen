@@ -5,7 +5,7 @@ latitude: 53.3474707
 longitude: 9.8594115
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Schlosserstraße
+street: "Schlosserstraße"
 housenumber: 4
 phone: "+49 4181 37211"
 opening_hours: ""

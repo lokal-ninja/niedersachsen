@@ -5,7 +5,7 @@ latitude: 53.3873249
 longitude: 8.2769645
 postcode: 26349
 city: Jade
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 8
 phone: "+49 4455 592"
 opening_hours: "Mo-Fr 06:00-12:00, 14:00-18:00; Sa 06:00-13:00"

@@ -5,7 +5,7 @@ latitude: 51.7288215
 longitude: 10.246967300000001
 postcode: 37520
 city: Osterode am Harz
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

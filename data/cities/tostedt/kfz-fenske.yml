@@ -5,7 +5,7 @@ latitude: 53.2801191
 longitude: 9.701700800000001
 postcode: 21255
 city: Tostedt
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 7
 phone: "+49 4182 808881"
 opening_hours: ""

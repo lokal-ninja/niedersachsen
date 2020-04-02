@@ -5,7 +5,7 @@ latitude: 51.5296407
 longitude: 9.9399449
 postcode: 37083
 city: Göttingen
-street: Am Geismartor
+street: "Am Geismartor"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-17:00; PH off"

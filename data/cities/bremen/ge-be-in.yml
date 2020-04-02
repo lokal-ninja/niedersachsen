@@ -5,7 +5,7 @@ latitude: 53.066392300000004
 longitude: 8.8703857
 postcode: 28207
 city: Bremen
-street: Malerstraße
+street: "Malerstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"

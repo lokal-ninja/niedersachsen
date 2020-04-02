@@ -5,7 +5,7 @@ latitude: 53.061406700000006
 longitude: 8.886313600000001
 postcode: 28309
 city: Bremen
-street: Hemelinger Bahnhofstraße
+street: "Hemelinger Bahnhofstraße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

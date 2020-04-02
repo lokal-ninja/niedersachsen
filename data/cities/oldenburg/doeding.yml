@@ -5,7 +5,7 @@ latitude: 53.1376599
 longitude: 8.214956800000001
 postcode: 26122
 city: Oldenburg
-street: Schlossplatz
+street: "Schlossplatz"
 housenumber: 17
 phone: ""
 opening_hours: ""

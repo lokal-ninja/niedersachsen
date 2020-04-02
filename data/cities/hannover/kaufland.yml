@@ -5,7 +5,7 @@ latitude: 52.3799585
 longitude: 9.7400555
 postcode: 30161
 city: Hannover
-street: Rundestraße
+street: "Rundestraße"
 housenumber: 5
 phone: "+49 5 11 / 7 63 51 60"
 opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"

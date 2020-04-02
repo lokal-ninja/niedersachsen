@@ -5,7 +5,7 @@ latitude: 52.3265049
 longitude: 9.7837139
 postcode: 30519
 city: Hannover
-street: Behnstraße
+street: "Behnstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.831689700000005
 longitude: 8.1529012
 postcode: 49685
 city: Emstek
-street: Antoniusstraße
+street: "Antoniusstraße"
 housenumber: 15
 phone: "+49 4473 702"
 opening_hours: ""

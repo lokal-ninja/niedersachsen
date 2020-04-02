@@ -5,7 +5,7 @@ latitude: 52.780086100000005
 longitude: 9.1292953
 postcode: 27333
 city: Bücken
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

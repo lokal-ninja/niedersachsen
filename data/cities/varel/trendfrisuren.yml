@@ -5,7 +5,7 @@ latitude: 53.396679400000004
 longitude: 8.1378083
 postcode: 26316
 city: Varel
-street: Drostenstraße
+street: "Drostenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

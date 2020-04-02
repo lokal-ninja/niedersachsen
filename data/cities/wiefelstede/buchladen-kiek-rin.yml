@@ -5,7 +5,7 @@ latitude: 53.254292500000005
 longitude: 8.1173186
 postcode: 26215
 city: Wiefelstede
-street: Wemkendorfer Weg
+street: "Wemkendorfer Weg"
 housenumber: 2
 phone: ""
 opening_hours: ""

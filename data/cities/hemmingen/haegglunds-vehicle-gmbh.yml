@@ -5,7 +5,7 @@ latitude: 52.309802000000005
 longitude: 9.728533
 postcode: 30966
 city: Hemmingen
-street: Hoher Holzweg
+street: "Hoher Holzweg"
 housenumber: 12
 phone: "+49 5101 991800"
 opening_hours: ""

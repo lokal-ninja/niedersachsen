@@ -5,7 +5,7 @@ latitude: 53.0866769
 longitude: 10.0047183
 postcode: 29646
 city: Bispingen
-street: Luheweg
+street: "Luheweg"
 housenumber: 7
 phone: ""
 opening_hours: ""

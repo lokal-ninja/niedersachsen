@@ -5,7 +5,7 @@ latitude: 52.345263100000004
 longitude: 9.155410700000001
 postcode: 31712
 city: Niedernwöhren
-street: Falkenweg
+street: "Falkenweg"
 housenumber: 2
 phone: "+49 5721 73452"
 opening_hours: "Mo-Sa 08:00-20:00"

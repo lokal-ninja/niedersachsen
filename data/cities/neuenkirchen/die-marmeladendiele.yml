@@ -5,7 +5,7 @@ latitude: 53.0481448
 longitude: 9.6843809
 postcode: 29643
 city: Neuenkirchen
-street: Rotenburger Straße
+street: "Rotenburger Straße"
 housenumber: 30
 phone: ""
 opening_hours: "We 14:30-18:00; Fr 14:30-18:00; Sa 10:00-13:00"

@@ -5,7 +5,7 @@ latitude: 52.339341100000006
 longitude: 9.763302600000001
 postcode: 30519
 city: Hannover
-street: Querstraße
+street: "Querstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

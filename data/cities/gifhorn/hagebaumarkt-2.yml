@@ -5,7 +5,7 @@ latitude: 52.501032200000004
 longitude: 10.5426105
 postcode: 38518
 city: Gifhorn
-street: Im Paulsumpf
+street: "Im Paulsumpf"
 housenumber: 3
 phone: "+49 5371 97660"
 opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-16:00"

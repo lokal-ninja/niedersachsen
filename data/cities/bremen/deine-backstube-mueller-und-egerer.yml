@@ -5,7 +5,7 @@ latitude: 53.074449200000004
 longitude: 8.8086088
 postcode: 28195
 city: Bremen
-street: Domsheide
+street: "Domsheide"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 05:30-20:00; Sa 06:00-17:00, Su 08:00-14:00"

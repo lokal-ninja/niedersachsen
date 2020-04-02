@@ -5,7 +5,7 @@ latitude: 53.392595400000005
 longitude: 7.2127622
 postcode: 26721
 city: Emden
-street: Klaus-Groth-Straße
+street: "Klaus-Groth-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-18:00"

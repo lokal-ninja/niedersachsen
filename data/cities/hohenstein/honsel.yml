@@ -5,7 +5,7 @@ latitude: 51.550153800000004
 longitude: 10.5571526
 postcode: 99755
 city: Hohenstein
-street: Auf der Waardt
+street: "Auf der Waardt"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-20:00; Su 08:00-20:00"

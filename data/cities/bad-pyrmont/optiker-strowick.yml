@@ -5,7 +5,7 @@ latitude: 51.9848884
 longitude: 9.2612278
 postcode: 31812
 city: Bad Pyrmont
-street: Brunnenstraße
+street: "Brunnenstraße"
 housenumber: 22 b
 phone: "+49 5281 3201"
 opening_hours: ""

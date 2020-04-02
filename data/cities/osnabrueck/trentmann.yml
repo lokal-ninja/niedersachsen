@@ -5,7 +5,7 @@ latitude: 52.29407500000001
 longitude: 8.0373146
 postcode: 49088
 city: Osnabrück
-street: Bramscher Straße
+street: "Bramscher Straße"
 housenumber: 190b
 phone: "+49 541 62104"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

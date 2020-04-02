@@ -5,7 +5,7 @@ latitude: 52.29467210000001
 longitude: 9.4804115
 postcode: 30890
 city: Barsinghausen
-street: Egestorfer Straße
+street: "Egestorfer Straße"
 housenumber: 38
 phone: "+49 5105 52330"
 opening_hours: ""

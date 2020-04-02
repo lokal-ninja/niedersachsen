@@ -5,7 +5,7 @@ latitude: 52.259525800000006
 longitude: 10.543462400000001
 postcode: 38102
 city: Braunschweig
-street: Herderstraße
+street: "Herderstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3864674
 longitude: 9.716652900000001
 postcode: 30167
 city: Hannover
-street: Callinstraße
+street: "Callinstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

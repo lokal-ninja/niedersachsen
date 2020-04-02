@@ -5,7 +5,7 @@ latitude: 52.622967
 longitude: 10.08187
 postcode: 29221
 city: Celle
-street: Robert-Meyer-Platz
+street: "Robert-Meyer-Platz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:03-17:00"

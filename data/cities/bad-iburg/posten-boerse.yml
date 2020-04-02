@@ -5,7 +5,7 @@ latitude: 52.1630413
 longitude: 8.0490691
 postcode: 49186
 city: Bad Iburg
-street: Osnabrücker Straße
+street: "Osnabrücker Straße"
 housenumber: 29a
 phone: "+49 5403 7815234"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

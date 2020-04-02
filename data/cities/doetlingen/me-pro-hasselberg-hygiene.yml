@@ -5,7 +5,7 @@ latitude: 52.966708800000006
 longitude: 8.449919300000001
 postcode: 27801
 city: Dötlingen
-street: Neuer Kamp
+street: "Neuer Kamp"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Tu 14:00-18:00; We-Fr off; Sa-Su 14:00-18:00"

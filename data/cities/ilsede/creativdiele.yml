@@ -5,7 +5,7 @@ latitude: 52.246935
 longitude: 10.164698600000001
 postcode: 31246
 city: Ilsede
-street: Dreschereistraße
+street: "Dreschereistraße"
 housenumber: 7
 phone: "+49 174 3368781"
 opening_hours: ""

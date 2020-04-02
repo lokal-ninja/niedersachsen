@@ -5,7 +5,7 @@ latitude: 51.7281028
 longitude: 10.253206200000001
 postcode: 37520
 city: Osterode am Harz
-street: Johannistorstraße
+street: "Johannistorstraße"
 housenumber: 3
 phone: "+49 5522 4001"
 opening_hours: ""

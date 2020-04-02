@@ -5,7 +5,7 @@ latitude: 52.85242280000001
 longitude: 8.7275946
 postcode: 27211
 city: Bassum
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

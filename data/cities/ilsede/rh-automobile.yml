@@ -5,7 +5,7 @@ latitude: 52.2757117
 longitude: 10.2220797
 postcode: 31241
 city: Ilsede
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

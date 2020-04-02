@@ -5,7 +5,7 @@ latitude: 52.163703000000005
 longitude: 10.35393
 postcode: 38229
 city: Salzgitter
-street: Gustav-Hagemann-Straße
+street: "Gustav-Hagemann-Straße"
 housenumber: 3
 phone: "+49-5341-906506"
 opening_hours: ""

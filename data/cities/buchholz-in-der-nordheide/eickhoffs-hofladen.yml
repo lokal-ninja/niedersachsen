@@ -5,7 +5,7 @@ latitude: 53.311401200000006
 longitude: 9.8116442
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Niedersachsenstraße
+street: "Niedersachsenstraße"
 housenumber: 19
 phone: "+49 4186 8899200"
 opening_hours: "Mo 08:00-18:00; We-Fr 08:00-18:00; Sa 07:00-12:30"

@@ -5,7 +5,7 @@ latitude: 52.4385758
 longitude: 9.7080344
 postcode: 30855
 city: Langenhagen
-street: Alt-Godshorn
+street: "Alt-Godshorn"
 housenumber: 69A
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:00-13:00; PH off"

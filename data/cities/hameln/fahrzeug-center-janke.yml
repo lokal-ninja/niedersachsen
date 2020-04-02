@@ -5,7 +5,7 @@ latitude: 52.1199596
 longitude: 9.337713500000001
 postcode: 31787
 city: Hameln
-street: Wilhelm-Lampe-Straße
+street: "Wilhelm-Lampe-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

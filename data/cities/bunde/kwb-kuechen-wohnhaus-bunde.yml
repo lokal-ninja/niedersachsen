@@ -5,7 +5,7 @@ latitude: 53.18216
 longitude: 7.2499359000000005
 postcode: 26831
 city: Bunde
-street: Bunde-West
+street: "Bunde-West"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-17:00; PH off"

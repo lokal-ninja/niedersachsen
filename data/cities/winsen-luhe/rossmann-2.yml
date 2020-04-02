@@ -5,7 +5,7 @@ latitude: 53.3641409
 longitude: 10.2056187
 postcode: 21423
 city: Winsen (Luhe)
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.3091797
 longitude: 9.4895086
 postcode: 30890
 city: Barsinghausen
-street: Röntgenstraße
+street: "Röntgenstraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH off"

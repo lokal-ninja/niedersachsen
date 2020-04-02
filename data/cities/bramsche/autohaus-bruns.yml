@@ -5,7 +5,7 @@ latitude: 52.414945900000006
 longitude: 7.9802052
 postcode: 49565
 city: Bramsche
-street: Maschstraße
+street: "Maschstraße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

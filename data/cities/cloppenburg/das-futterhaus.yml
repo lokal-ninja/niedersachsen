@@ -5,7 +5,7 @@ latitude: 52.8423564
 longitude: 8.058384400000001
 postcode: 49661
 city: Cloppenburg
-street: Emsteker Straße
+street: "Emsteker Straße"
 housenumber: 67
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su off"

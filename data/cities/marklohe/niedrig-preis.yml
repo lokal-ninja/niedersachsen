@@ -5,7 +5,7 @@ latitude: 52.660197800000006
 longitude: 9.1546236
 postcode: 31608
 city: Marklohe
-street: Nienburger Straße
+street: "Nienburger Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

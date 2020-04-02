@@ -5,7 +5,7 @@ latitude: 53.092021100000004
 longitude: 7.788940800000001
 postcode: 26169
 city: Friesoythe
-street: Kreisstraße
+street: "Kreisstraße"
 housenumber: 61
 phone: ""
 opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-12:00, 16:00-20:00"

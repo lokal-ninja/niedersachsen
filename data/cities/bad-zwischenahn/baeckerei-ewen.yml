@@ -5,7 +5,7 @@ latitude: 53.1806987
 longitude: 8.0241459
 postcode: 26160
 city: Bad Zwischenahn
-street: Oldenburger Straße
+street: "Oldenburger Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

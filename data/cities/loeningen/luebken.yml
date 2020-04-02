@@ -5,7 +5,7 @@ latitude: 52.733571700000006
 longitude: 7.7629292
 postcode: 49624
 city: Löningen
-street: Lagestraße
+street: "Lagestraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

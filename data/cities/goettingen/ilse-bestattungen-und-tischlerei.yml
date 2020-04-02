@@ -5,7 +5,7 @@ latitude: 51.5109678
 longitude: 9.9544283
 postcode: 
 city: Göttingen
-street: Bäckergasse
+street: "Bäckergasse"
 housenumber: 1a
 phone: ""
 opening_hours: ""

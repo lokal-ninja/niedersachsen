@@ -5,7 +5,7 @@ latitude: 53.2861264
 longitude: 10.425468
 postcode: 21365
 city: Adendorf
-street: Artlenburger Landstraße
+street: "Artlenburger Landstraße"
 housenumber: 55
 phone: "+49 4131-9830-0"
 opening_hours: "Mo-Sa 08:00-20:00"

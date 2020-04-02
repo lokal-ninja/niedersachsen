@@ -5,7 +5,7 @@ latitude: 52.747783600000005
 longitude: 8.2854404
 postcode: 49377
 city: Vechta
-street: Stoppelmarkt
+street: "Stoppelmarkt"
 housenumber: 10
 phone: "+49 4441 5950"
 opening_hours: ""

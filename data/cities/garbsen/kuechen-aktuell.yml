@@ -5,7 +5,7 @@ latitude: 52.444529900000006
 longitude: 9.6138936
 postcode: 30827
 city: Garbsen
-street: Heinkelstraße
+street: "Heinkelstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00;Sa 09:00-18:00"

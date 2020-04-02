@@ -5,7 +5,7 @@ latitude: 51.876487600000004
 longitude: 10.1478283
 postcode: 38723
 city: Seesen
-street: Triftstraße
+street: "Triftstraße"
 housenumber: 58
 phone: "+49-5381-941651"
 opening_hours: ""

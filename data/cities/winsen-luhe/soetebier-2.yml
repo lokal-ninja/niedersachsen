@@ -5,7 +5,7 @@ latitude: 53.349976500000004
 longitude: 10.147371300000001
 postcode: 21423
 city: Winsen (Luhe)
-street: Scharmbecker Dorfstraße
+street: "Scharmbecker Dorfstraße"
 housenumber: 2a
 phone: ""
 opening_hours: "Mo-Fr 05:00-18:00; Sa 06:00-17:00; Su,PH 07:00-17:00"

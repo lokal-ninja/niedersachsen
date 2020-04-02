@@ -5,7 +5,7 @@ latitude: 52.353913500000004
 longitude: 9.283893800000001
 postcode: 31698
 city: Lindhorst
-street: Schöttlinger Straße
+street: "Schöttlinger Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

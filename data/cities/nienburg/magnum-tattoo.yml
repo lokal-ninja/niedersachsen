@@ -5,7 +5,7 @@ latitude: 52.638957600000005
 longitude: 9.208208500000001
 postcode: 31582
 city: Nienburg
-street: Georgstraße
+street: "Georgstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 13:00-19:00; Sa 09:00-16:00"

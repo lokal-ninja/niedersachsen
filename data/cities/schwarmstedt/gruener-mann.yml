@@ -5,7 +5,7 @@ latitude: 52.679895300000005
 longitude: 9.618574
 postcode: 29690
 city: Schwarmstedt
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 26
 phone: "+49 5071 8004850"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:30"

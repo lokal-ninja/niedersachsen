@@ -5,7 +5,7 @@ latitude: 51.5387755
 longitude: 9.948862400000001
 postcode: 37073
 city: Göttingen
-street: Düstere-Eichen-Weg
+street: "Düstere-Eichen-Weg"
 housenumber: 21
 phone: ""
 opening_hours: ""

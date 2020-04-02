@@ -5,7 +5,7 @@ latitude: 53.326767000000004
 longitude: 9.875773800000001
 postcode: 21244
 city: Buchholz in der Nordheide
-street: Ferdinandstraße
+street: "Ferdinandstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

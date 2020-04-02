@@ -5,7 +5,7 @@ latitude: 52.31938460000001
 longitude: 10.230285
 postcode: 31224
 city: Peine
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 22
 phone: "+49 5171 586611"
 opening_hours: ""

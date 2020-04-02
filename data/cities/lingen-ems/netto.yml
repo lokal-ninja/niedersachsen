@@ -5,7 +5,7 @@ latitude: 52.52153190000001
 longitude: 7.325836300000001
 postcode: 49809
 city: Lingen (Ems)
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

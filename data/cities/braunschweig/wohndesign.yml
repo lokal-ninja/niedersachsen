@@ -5,7 +5,7 @@ latitude: 52.265083800000006
 longitude: 10.5178025
 postcode: 38100
 city: Braunschweig
-street: Gördelingerstraße
+street: "Gördelingerstraße"
 housenumber: 38/40
 phone: "+49 531 1233285"
 opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-16:00"

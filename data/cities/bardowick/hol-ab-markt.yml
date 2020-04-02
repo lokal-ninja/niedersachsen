@@ -5,7 +5,7 @@ latitude: 53.296882700000005
 longitude: 10.381726
 postcode: 21357
 city: Bardowick
-street: Vor der Westermarsch
+street: "Vor der Westermarsch"
 housenumber: 3
 phone: ""
 opening_hours: ""

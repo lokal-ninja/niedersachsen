@@ -5,7 +5,7 @@ latitude: 52.3113022
 longitude: 9.6030461
 postcode: 30989
 city: Gehrden
-street: Dammtor
+street: "Dammtor"
 housenumber: 9a
 phone: ""
 opening_hours: "07:00-18:00"

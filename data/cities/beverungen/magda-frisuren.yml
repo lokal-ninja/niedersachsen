@@ -5,7 +5,7 @@ latitude: 51.662455
 longitude: 9.3736435
 postcode: 37688
 city: Beverungen
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo off; Tu-Fr 08:30-18:30; Sa 08:30-13:30"

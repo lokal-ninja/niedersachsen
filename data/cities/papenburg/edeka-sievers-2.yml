@@ -5,7 +5,7 @@ latitude: 53.072773700000006
 longitude: 7.386979500000001
 postcode: 26871
 city: Papenburg
-street: Moorstraße
+street: "Moorstraße"
 housenumber: 24-26
 phone: "+49 4961 94 20 79"
 opening_hours: "Mo-Fr 08:00-20:00"

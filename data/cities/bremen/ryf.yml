@@ -5,7 +5,7 @@ latitude: 53.0450333
 longitude: 8.848379600000001
 postcode: 28279
 city: Bremen
-street: Ernst-Buchholz-Straße
+street: "Ernst-Buchholz-Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

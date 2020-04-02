@@ -5,7 +5,7 @@ latitude: 52.607243100000005
 longitude: 9.089627700000001
 postcode: 31618
 city: Liebenau
-street: Sternstraße
+street: "Sternstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

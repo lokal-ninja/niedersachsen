@@ -5,7 +5,7 @@ latitude: 52.436956300000006
 longitude: 10.845221700000002
 postcode: 38448
 city: Wolfsburg
-street: Kümmelgasse
+street: "Kümmelgasse"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"

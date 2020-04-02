@@ -5,7 +5,7 @@ latitude: 52.3932664
 longitude: 10.7541782
 postcode: 38444
 city: Wolfsburg
-street: Detmeroder Markt
+street: "Detmeroder Markt"
 housenumber: 9
 phone: "+49 5361 771851"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 07:30-10:30"

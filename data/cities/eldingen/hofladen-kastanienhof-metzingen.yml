@@ -5,7 +5,7 @@ latitude: 52.6760711
 longitude: 10.3735744
 postcode: 29351
 city: Eldingen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

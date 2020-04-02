@@ -5,7 +5,7 @@ latitude: 52.2624882
 longitude: 10.5182506
 postcode: 38100
 city: Braunschweig
-street: Poststraße
+street: "Poststraße"
 housenumber: 5
 phone: "+49 531 4730"
 opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"

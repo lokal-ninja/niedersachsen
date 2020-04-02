@@ -5,7 +5,7 @@ latitude: 52.664910600000006
 longitude: 9.156918000000001
 postcode: 31608
 city: Marklohe
-street: Hoyaer Straße
+street: "Hoyaer Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.49884290000001
 longitude: 8.0180457
 postcode: 26452
 city: Sande
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 44
 phone: "+49 4422 1373"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-13:00; Su 10:00-12:00"

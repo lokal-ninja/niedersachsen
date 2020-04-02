@@ -5,7 +5,7 @@ latitude: 52.261881800000005
 longitude: 10.530018700000001
 postcode: 38100
 city: Braunschweig
-street: Ölschlägern
+street: "Ölschlägern"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 11:00-18:00"

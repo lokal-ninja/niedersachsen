@@ -5,7 +5,7 @@ latitude: 53.3651624
 longitude: 7.2143376
 postcode: 26725
 city: Emden
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 41
 phone: "+49 4921 28454"
 opening_hours: "Tu-Fr 08:30-18:00"

@@ -5,7 +5,7 @@ latitude: 53.02868290000001
 longitude: 9.6844617
 postcode: 29643
 city: Neuenkirchen
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

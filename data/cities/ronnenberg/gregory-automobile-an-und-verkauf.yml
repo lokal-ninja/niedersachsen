@@ -5,7 +5,7 @@ latitude: 52.2952042
 longitude: 9.640633300000001
 postcode: 30952
 city: Ronnenberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.187243300000006
 longitude: 9.080366
 postcode: 31737
 city: Rinteln
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH off"

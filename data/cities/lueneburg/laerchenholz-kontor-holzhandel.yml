@@ -5,7 +5,7 @@ latitude: 53.2634209
 longitude: 10.4135632
 postcode: 21339
 city: Lüneburg
-street: Arenskule
+street: "Arenskule"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Th 09:00-16:00; Fr 09:00-18:00; Sa 10:00-14:00"

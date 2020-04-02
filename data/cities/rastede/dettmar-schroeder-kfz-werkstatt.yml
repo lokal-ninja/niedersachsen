@@ -5,7 +5,7 @@ latitude: 53.2166055
 longitude: 8.222061100000001
 postcode: 26180
 city: Rastede
-street: Neusüdender Straße
+street: "Neusüdender Straße"
 housenumber: 10
 phone: "+49 4402 84821"
 opening_hours: ""

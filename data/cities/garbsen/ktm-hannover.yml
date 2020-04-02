@@ -5,7 +5,7 @@ latitude: 52.4469683
 longitude: 9.6049845
 postcode: 30827
 city: Garbsen
-street: Ottostraße
+street: "Ottostraße"
 housenumber: 2
 phone: "+49 5131 9994591"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off"

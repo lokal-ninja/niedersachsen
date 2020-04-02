@@ -5,7 +5,7 @@ latitude: 51.5325154
 longitude: 9.930474
 postcode: 37073
 city: Göttingen
-street: Groner-Tor-Straße
+street: "Groner-Tor-Straße"
 housenumber: 29a
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off; Sommerferien: teilweise geschlossen"

@@ -5,7 +5,7 @@ latitude: 52.204463200000006
 longitude: 10.007291500000001
 postcode: 31177
 city: Harsum
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

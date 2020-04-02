@@ -5,7 +5,7 @@ latitude: 51.588075
 longitude: 9.929277
 postcode: 37120
 city: Bovenden
-street: Mühlenweg
+street: "Mühlenweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 09:00-13:00; Mo,Tu,Th,Fr 14:30-18:00; PH off"

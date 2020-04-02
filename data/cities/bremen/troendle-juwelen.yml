@@ -5,7 +5,7 @@ latitude: 53.075469700000006
 longitude: 8.81152
 postcode: 28195
 city: Bremen
-street: Violenstraße
+street: "Violenstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

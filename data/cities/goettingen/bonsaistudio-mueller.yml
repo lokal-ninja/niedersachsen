@@ -5,7 +5,7 @@ latitude: 51.515665500000004
 longitude: 9.9632985
 postcode: 37085
 city: Göttingen
-street: Spandauer Weg
+street: "Spandauer Weg"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.542880600000004
 longitude: 9.9075216
 postcode: 37079
 city: Göttingen
-street: Levinstraße
+street: "Levinstraße"
 housenumber: 2b
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.6204052
 longitude: 10.243275200000001
 postcode: 
 city: Lachendorf
-street: Ackerstraße
+street: "Ackerstraße"
 housenumber: 3-5
 phone: ""
 opening_hours: ""

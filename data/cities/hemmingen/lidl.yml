@@ -5,7 +5,7 @@ latitude: 52.319569800000004
 longitude: 9.731393500000001
 postcode: 30966
 city: Hemmingen
-street: Weetzener Landstraße
+street: "Weetzener Landstraße"
 housenumber: 102
 phone: ""
 opening_hours: ""

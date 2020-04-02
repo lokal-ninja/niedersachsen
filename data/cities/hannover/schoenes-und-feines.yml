@@ -5,7 +5,7 @@ latitude: 52.3393092
 longitude: 9.764176
 postcode: 30519
 city: Hannover
-street: Ziegelstraße
+street: "Ziegelstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

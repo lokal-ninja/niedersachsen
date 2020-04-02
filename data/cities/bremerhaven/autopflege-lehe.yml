@@ -5,7 +5,7 @@ latitude: 53.5435755
 longitude: 8.5846865
 postcode: 27568
 city: Bremerhaven
-street: Deichstraße
+street: "Deichstraße"
 housenumber: 33
 phone: "+49 471412306; +49 17643275199"
 opening_hours: ""

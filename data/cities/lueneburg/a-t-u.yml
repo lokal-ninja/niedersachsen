@@ -5,7 +5,7 @@ latitude: 53.239622100000005
 longitude: 10.4596741
 postcode: 21337
 city: Lüneburg
-street: Lilienthalstraße
+street: "Lilienthalstraße"
 housenumber: 7
 phone: "+49 4131 799531"
 opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"

@@ -5,7 +5,7 @@ latitude: 53.791417900000006
 longitude: 7.8988642
 postcode: 26486
 city: Wangerooge
-street: Charlottenstraße
+street: "Charlottenstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

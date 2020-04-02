@@ -5,7 +5,7 @@ latitude: 53.179466700000006
 longitude: 8.202724
 postcode: 26127
 city: Oldenburg
-street: Meeschweg
+street: "Meeschweg"
 housenumber: 9
 phone: ""
 opening_hours: ""

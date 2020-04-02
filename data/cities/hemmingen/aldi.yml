@@ -5,7 +5,7 @@ latitude: 52.314507600000006
 longitude: 9.720706900000001
 postcode: 30966
 city: Hemmingen
-street: Alfred-Bentz-Straße
+street: "Alfred-Bentz-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

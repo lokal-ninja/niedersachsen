@@ -5,7 +5,7 @@ latitude: 52.9591781
 longitude: 10.550343600000001
 postcode: 29525
 city: Uelzen
-street: Bohldamm
+street: "Bohldamm"
 housenumber: 13
 phone: ""
 opening_hours: ""

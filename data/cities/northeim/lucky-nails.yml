@@ -5,7 +5,7 @@ latitude: 51.7051962
 longitude: 9.995023900000001
 postcode: 
 city: Northeim
-street: Bahnhofsstraße
+street: "Bahnhofsstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

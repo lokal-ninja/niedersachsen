@@ -5,7 +5,7 @@ latitude: 51.9023088
 longitude: 10.6633028
 postcode: 38871
 city: Stapelburg
-street: Wasserstraße
+street: "Wasserstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

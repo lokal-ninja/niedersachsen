@@ -5,7 +5,7 @@ latitude: 53.1372742
 longitude: 8.2270476
 postcode: 26135
 city: Oldenburg
-street: Emsstraße
+street: "Emsstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"

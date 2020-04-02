@@ -5,7 +5,7 @@ latitude: 52.0274731
 longitude: 9.512736400000001
 postcode: 31860
 city: Esperde
-street: Kniepstraße
+street: "Kniepstraße"
 housenumber: 3
 phone: "+49 5157 476"
 opening_hours: "Tu 16:00-19:00; Sa 09:00-12:00"

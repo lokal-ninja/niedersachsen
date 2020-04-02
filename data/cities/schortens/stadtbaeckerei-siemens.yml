@@ -5,7 +5,7 @@ latitude: 53.5253336
 longitude: 8.0352981
 postcode: 26419
 city: Schortens
-street: Olympiastraße
+street: "Olympiastraße"
 housenumber: 11
 phone: "+49 4421 70236"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"

@@ -5,7 +5,7 @@ latitude: 53.1764139
 longitude: 8.6053365
 postcode: 28755
 city: Bremen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-12:30"

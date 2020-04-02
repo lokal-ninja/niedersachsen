@@ -5,7 +5,7 @@ latitude: 53.314771900000004
 longitude: 7.9197398
 postcode: 26655
 city: Westerstede
-street: Brinkstraße
+street: "Brinkstraße"
 housenumber: 4
 phone: "+49 4488 7647482"
 opening_hours: ""

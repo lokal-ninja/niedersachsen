@@ -5,7 +5,7 @@ latitude: 53.220405500000005
 longitude: 8.016355800000001
 postcode: 26160
 city: Bad Zwischenahn
-street: Stiller Bogen
+street: "Stiller Bogen"
 housenumber: 20
 phone: "+49 176 56815661"
 opening_hours: "Th, Fr 11:00-18:00; Sa 09:30-18:00; Su 09:30-16:00"

@@ -5,7 +5,7 @@ latitude: 52.1097339
 longitude: 10.349169600000002
 postcode: 38229
 city: Salzgitter
-street: Am Fuchsloch
+street: "Am Fuchsloch"
 housenumber: 22
 phone: "+49 5341 871103"
 opening_hours: ""

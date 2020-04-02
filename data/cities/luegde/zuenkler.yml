@@ -5,7 +5,7 @@ latitude: 51.956296900000005
 longitude: 9.246126700000001
 postcode: 32676
 city: Lügde
-street: Vordere Straße
+street: "Vordere Straße"
 housenumber: 44
 phone: ""
 opening_hours: ""

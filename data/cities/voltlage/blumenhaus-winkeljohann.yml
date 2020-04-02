@@ -5,7 +5,7 @@ latitude: 52.4270623
 longitude: 7.7436819
 postcode: 49599
 city: Voltlage
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

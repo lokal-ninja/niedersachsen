@@ -5,7 +5,7 @@ latitude: 53.6044436
 longitude: 9.4782212
 postcode: 21682
 city: Stade
-street: Hansestraße
+street: "Hansestraße"
 housenumber: 7
 phone: "+49 4141 4123259"
 opening_hours: ""

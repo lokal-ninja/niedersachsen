@@ -5,7 +5,7 @@ latitude: 51.7175543
 longitude: 10.274011400000001
 postcode: 37520
 city: Osterode am Harz
-street: Herzberger Straße
+street: "Herzberger Straße"
 housenumber: 59
 phone: ""
 opening_hours: ""

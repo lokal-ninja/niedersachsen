@@ -5,7 +5,7 @@ latitude: 52.6243471
 longitude: 10.0819071
 postcode: 29221
 city: Celle
-street: Markt
+street: "Markt"
 housenumber: 11
 phone: "+49 5141709321"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 07:30-16:00"

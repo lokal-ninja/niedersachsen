@@ -5,7 +5,7 @@ latitude: 53.0660019
 longitude: 8.7825158
 postcode: 28199
 city: Bremen
-street: Neuenlander Straße
+street: "Neuenlander Straße"
 housenumber: 23
 phone: "+49 421 593313"
 opening_hours: ""

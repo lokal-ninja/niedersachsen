@@ -5,7 +5,7 @@ latitude: 53.0282678
 longitude: 8.631889000000001
 postcode: 27755
 city: Delmenhorst
-street: Jägerstraße
+street: "Jägerstraße"
 housenumber: 68
 phone: "+49422120024"
 opening_hours: ""

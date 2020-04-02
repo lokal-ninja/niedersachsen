@@ -5,7 +5,7 @@ latitude: 51.5127095
 longitude: 9.951247
 postcode: 37083
 city: Göttingen
-street: Stadtstieg
+street: "Stadtstieg"
 housenumber: 5a
 phone: ""
 opening_hours: "Mo-Sa 08:30-12:30; Mo-Fr 15:00-18:00; Su 10:00-12:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.5350728
 longitude: 8.5980561
 postcode: 27570
 city: Bremerhaven
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 73
 phone: ""
 opening_hours: "Mo-Fr 05:00-21:00; Sa 06:00-21:00; Su,PH 08:00-21:00"

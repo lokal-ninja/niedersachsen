@@ -5,7 +5,7 @@ latitude: 53.055384600000004
 longitude: 8.7163397
 postcode: 28259
 city: Bremen
-street: Heinrich-Plett-Allee
+street: "Heinrich-Plett-Allee"
 housenumber: 7
 phone: "+49 421 83000575"
 opening_hours: ""

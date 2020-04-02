@@ -5,7 +5,7 @@ latitude: 53.336064900000004
 longitude: 8.4683413
 postcode: 26919
 city: Brake
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 74
 phone: "+49 4401 98070"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"

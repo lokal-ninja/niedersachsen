@@ -5,7 +5,7 @@ latitude: 52.3180892
 longitude: 9.651146200000001
 postcode: 30952
 city: Ronnenberg
-street: Hagacker
+street: "Hagacker"
 housenumber: 12
 phone: ""
 opening_hours: ""

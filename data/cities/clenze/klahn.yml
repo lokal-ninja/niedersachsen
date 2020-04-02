@@ -5,7 +5,7 @@ latitude: 52.936019200000004
 longitude: 10.9540787
 postcode: 29459
 city: Clenze
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.578082900000005
 longitude: 9.729427300000001
 postcode: 30900
 city: Wedemark
-street: Wasserwerkstraße
+street: "Wasserwerkstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"

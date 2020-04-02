@@ -5,7 +5,7 @@ latitude: 53.685376100000006
 longitude: 8.564592300000001
 postcode: 27639
 city: Wurster Nordseeküste
-street: Poststraße
+street: "Poststraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

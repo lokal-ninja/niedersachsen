@@ -5,7 +5,7 @@ latitude: 53.10263440000001
 longitude: 8.2111497
 postcode: 26133
 city: Oldenburg
-street: Alter Postweg
+street: "Alter Postweg"
 housenumber: 125
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa09:30-15:00"

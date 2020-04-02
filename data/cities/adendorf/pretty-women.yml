@@ -5,7 +5,7 @@ latitude: 53.281509500000006
 longitude: 10.4392457
 postcode: 21365
 city: Adendorf
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 22
 phone: "+49 4131 8556373"
 opening_hours: ""

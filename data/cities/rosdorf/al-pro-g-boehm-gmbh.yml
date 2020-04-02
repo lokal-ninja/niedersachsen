@@ -5,7 +5,7 @@ latitude: 51.507083900000005
 longitude: 9.9057385
 postcode: 37124
 city: Rosdorf
-street: Raseweg
+street: "Raseweg"
 housenumber: 4
 phone: ""
 opening_hours: ""

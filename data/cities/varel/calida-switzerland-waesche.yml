@@ -5,7 +5,7 @@ latitude: 53.3950845
 longitude: 8.1383024
 postcode: 26316
 city: Varel
-street: Kleine Straße
+street: "Kleine Straße"
 housenumber: 1b
 phone: ""
 opening_hours: ""

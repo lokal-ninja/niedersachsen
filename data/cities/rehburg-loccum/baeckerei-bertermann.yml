@@ -5,7 +5,7 @@ latitude: 52.4695082
 longitude: 9.2251556
 postcode: 31547
 city: Rehburg-Loccum
-street: Weidendamm
+street: "Weidendamm"
 housenumber: 2
 phone: "+49 5037 - 9 69 34 30"
 opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-11:00"

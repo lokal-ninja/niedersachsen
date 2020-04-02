@@ -5,7 +5,7 @@ latitude: 53.52335780000001
 longitude: 9.3964973
 postcode: 21717
 city: Fredenbeck
-street: Kurze Straße
+street: "Kurze Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

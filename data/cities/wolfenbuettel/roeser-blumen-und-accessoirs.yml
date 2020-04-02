@@ -5,7 +5,7 @@ latitude: 52.170774900000005
 longitude: 10.564461600000001
 postcode: 38302
 city: Wolfenbüttel
-street: Akazienstraße
+street: "Akazienstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3158832
 longitude: 9.5992321
 postcode: 30989
 city: Gehrden
-street: Nordstraße
+street: "Nordstraße"
 housenumber: 5a
 phone: ""
 opening_hours: ""

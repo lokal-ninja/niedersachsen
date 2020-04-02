@@ -5,7 +5,7 @@ latitude: 53.307603900000004
 longitude: 9.953122500000001
 postcode: 21266
 city: Jesteburg
-street: Sandbarg
+street: "Sandbarg"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.38360410000001
 longitude: 9.7255681
 postcode: 30167
 city: Hannover
-street: Engelbosteler Damm
+street: "Engelbosteler Damm"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

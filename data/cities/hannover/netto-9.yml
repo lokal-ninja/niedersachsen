@@ -5,7 +5,7 @@ latitude: 52.4228383
 longitude: 9.728405
 postcode: 30179
 city: Hannover
-street: Reinhold-Schleese-Straße
+street: "Reinhold-Schleese-Straße"
 housenumber: 8
 phone: "+49 800 2000015"
 opening_hours: "Mo-Sa 07:00-21:00"

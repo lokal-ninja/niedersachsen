@@ -5,7 +5,7 @@ latitude: 52.6389885
 longitude: 9.2086734
 postcode: 31582
 city: Nienburg/Weser
-street: Georgstraße
+street: "Georgstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"

@@ -5,7 +5,7 @@ latitude: 52.25446590000001
 longitude: 10.2459083
 postcode: 31246
 city: Ilsede
-street: Weststraße
+street: "Weststraße"
 housenumber: 8
 phone: "+49 5172 7378"
 opening_hours: ""

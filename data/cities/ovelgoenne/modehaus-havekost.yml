@@ -5,7 +5,7 @@ latitude: 53.341874100000005
 longitude: 8.418746800000001
 postcode: 26939
 city: Ovelgönne
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

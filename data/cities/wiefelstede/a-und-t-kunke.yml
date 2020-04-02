@@ -5,7 +5,7 @@ latitude: 53.2580133
 longitude: 8.1150306
 postcode: 26215
 city: Wiefelstede
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: "+49 4402 960643"
 opening_hours: ""

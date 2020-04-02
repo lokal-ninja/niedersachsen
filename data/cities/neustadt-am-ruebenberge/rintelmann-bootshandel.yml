@@ -5,7 +5,7 @@ latitude: 52.489682200000004
 longitude: 9.291028
 postcode: 31535
 city: Neustadt am Rübenberge
-street: Mardorfer Straße
+street: "Mardorfer Straße"
 housenumber: 41
 phone: "+49 5036 2468"
 opening_hours: "Mo-Fr 08:00-16:30; Apr-Oct Mo-Fr 08:00-16:30, Sa,Su 10:00-16:00"

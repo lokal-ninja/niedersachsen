@@ -5,7 +5,7 @@ latitude: 52.3247019
 longitude: 9.2046614
 postcode: 31655
 city: Stadthagen
-street: Querstraße
+street: "Querstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

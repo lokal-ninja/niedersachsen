@@ -5,7 +5,7 @@ latitude: 52.4861346
 longitude: 7.2174252
 postcode: 49835
 city: Wietmarschen
-street: Borsigstraße
+street: "Borsigstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 7:00-18:00;Sa 7:00-12:00"

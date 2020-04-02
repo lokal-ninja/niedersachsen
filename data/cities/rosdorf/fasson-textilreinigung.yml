@@ -5,7 +5,7 @@ latitude: 51.509467400000005
 longitude: 9.9095221
 postcode: 37124
 city: Rosdorf
-street: Rischenweg
+street: "Rischenweg"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00; PH off"

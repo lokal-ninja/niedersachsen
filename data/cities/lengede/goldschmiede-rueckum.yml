@@ -5,7 +5,7 @@ latitude: 52.2204982
 longitude: 10.2946506
 postcode: 38268
 city: Lengede
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 5a
 phone: "+49-5174-920772"
 opening_hours: ""

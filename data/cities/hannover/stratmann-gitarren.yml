@@ -5,7 +5,7 @@ latitude: 52.3625801
 longitude: 9.7550497
 postcode: 30171
 city: Hannover
-street: Oesterleystraße
+street: "Oesterleystraße"
 housenumber: 12A
 phone: ""
 opening_hours: "Mo-Fr 10:30-19:00"

@@ -1,0 +1,4 @@
+---
+title: Bösel
+url: /boesel/
+---

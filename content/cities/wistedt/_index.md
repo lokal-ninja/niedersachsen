@@ -1,0 +1,4 @@
+---
+title: Wistedt
+url: /wistedt/
+---

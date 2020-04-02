@@ -1,0 +1,4 @@
+---
+title: "Globus Baumarkt"
+url: /salzgitter/globus-baumarkt/
+---

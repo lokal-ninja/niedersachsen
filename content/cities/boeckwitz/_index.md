@@ -1,0 +1,4 @@
+---
+title: Böckwitz
+url: /boeckwitz/
+---

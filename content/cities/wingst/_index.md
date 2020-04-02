@@ -1,0 +1,4 @@
+---
+title: Wingst
+url: /wingst/
+---

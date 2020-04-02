@@ -1,0 +1,4 @@
+---
+title: Bawinkel
+url: /bawinkel/
+---

@@ -1,0 +1,4 @@
+---
+title: Wahrenholz
+url: /wahrenholz/
+---

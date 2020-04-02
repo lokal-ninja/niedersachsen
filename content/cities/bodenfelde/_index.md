@@ -1,0 +1,4 @@
+---
+title: Bodenfelde
+url: /bodenfelde/
+---

@@ -1,0 +1,4 @@
+---
+title: Detern
+url: /detern/
+---

@@ -1,0 +1,4 @@
+---
+title: Hinte
+url: /hinte/
+---

@@ -1,0 +1,4 @@
+---
+title: Vögelsen
+url: /voegelsen/
+---

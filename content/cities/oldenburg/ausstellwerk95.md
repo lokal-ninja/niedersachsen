@@ -1,0 +1,4 @@
+---
+title: "Ausstellwerk95"
+url: /oldenburg/ausstellwerk95/
+---

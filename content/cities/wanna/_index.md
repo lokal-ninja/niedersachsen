@@ -1,0 +1,4 @@
+---
+title: Wanna
+url: /wanna/
+---

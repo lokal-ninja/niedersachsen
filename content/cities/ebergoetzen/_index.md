@@ -1,0 +1,4 @@
+---
+title: Ebergötzen
+url: /ebergoetzen/
+---

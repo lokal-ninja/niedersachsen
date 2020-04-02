@@ -1,0 +1,4 @@
+---
+title: "Autohaus Wolter"
+url: /ebstorf/autohaus-wolter/
+---

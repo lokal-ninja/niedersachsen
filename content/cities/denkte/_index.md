@@ -1,0 +1,4 @@
+---
+title: Denkte
+url: /denkte/
+---

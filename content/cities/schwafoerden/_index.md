@@ -1,0 +1,4 @@
+---
+title: Schwaförden
+url: /schwafoerden/
+---

@@ -1,0 +1,4 @@
+---
+title: Bücken
+url: /buecken/
+---

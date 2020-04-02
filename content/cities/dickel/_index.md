@@ -1,0 +1,4 @@
+---
+title: Dickel
+url: /dickel/
+---

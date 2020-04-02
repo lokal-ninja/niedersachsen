@@ -1,0 +1,4 @@
+---
+title: Bomlitz
+url: /bomlitz/
+---

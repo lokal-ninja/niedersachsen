@@ -1,0 +1,4 @@
+---
+title: Friedland
+url: /friedland/
+---

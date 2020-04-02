@@ -1,0 +1,4 @@
+---
+title: Bunde
+url: /bunde/
+---

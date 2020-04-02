@@ -1,0 +1,4 @@
+---
+title: Golmbach
+url: /golmbach/
+---

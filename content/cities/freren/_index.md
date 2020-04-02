@@ -1,0 +1,4 @@
+---
+title: Freren
+url: /freren/
+---

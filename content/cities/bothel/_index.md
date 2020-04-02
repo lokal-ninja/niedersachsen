@@ -1,0 +1,4 @@
+---
+title: Bothel
+url: /bothel/
+---

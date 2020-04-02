@@ -1,0 +1,4 @@
+---
+title: Schöppenstedt
+url: /schoeppenstedt/
+---

@@ -1,0 +1,4 @@
+---
+title: Worpswede
+url: /worpswede/
+---

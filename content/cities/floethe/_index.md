@@ -1,0 +1,4 @@
+---
+title: Flöthe
+url: /floethe/
+---

@@ -1,0 +1,4 @@
+---
+title: Sickte
+url: /sickte/
+---

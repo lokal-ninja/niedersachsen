@@ -1,0 +1,4 @@
+---
+title: "ALDI"
+url: /clausthal-zellerfeld/aldi/
+---

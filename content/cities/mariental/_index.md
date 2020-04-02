@@ -1,0 +1,4 @@
+---
+title: Mariental
+url: /mariental/
+---

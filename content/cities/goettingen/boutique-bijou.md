@@ -1,0 +1,4 @@
+---
+title: "Boutique Bijou"
+url: /goettingen/boutique-bijou/
+---

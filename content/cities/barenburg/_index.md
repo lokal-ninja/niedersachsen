@@ -1,0 +1,4 @@
+---
+title: Barenburg
+url: /barenburg/
+---

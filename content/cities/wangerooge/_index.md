@@ -1,0 +1,4 @@
+---
+title: Wangerooge
+url: /wangerooge/
+---

@@ -1,0 +1,4 @@
+---
+title: Osterkappeln
+url: /osterkappeln/
+---

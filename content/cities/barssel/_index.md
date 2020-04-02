@@ -1,0 +1,4 @@
+---
+title: Barßel
+url: /barssel/
+---

@@ -1,0 +1,4 @@
+---
+title: Lastrup
+url: /lastrup/
+---

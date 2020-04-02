@@ -1,0 +1,4 @@
+---
+title: Wirdum
+url: /wirdum/
+---

@@ -1,0 +1,14 @@
+baseURL = "https://lokal.ninja/baden-wuerttemberg"
+languageCode = "de-DE"
+title = "Lokal Ninja - Baden-Württemberg"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML"]
+
+[params]
+  org = "lokal-ninja"
+  region = "Baden-Württemberg"
+  repo = "baden-wuerttemberg"

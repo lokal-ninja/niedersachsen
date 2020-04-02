@@ -1,0 +1,11 @@
+{
+    "name": "Lokal Ninja - Baden-Württemberg",
+    "lang": "de",
+    "short_name": "LN Baden-Württemberg",
+    "description": "Entdecke alle Einkaufsmöglichkeiten in Baden-Württemberg",
+    "theme_color": "#d86f00",
+    "background_color": "#fdfdfd",
+    "display": "standalone",
+    "start_url": "/",
+    "orientation": "any"
+}

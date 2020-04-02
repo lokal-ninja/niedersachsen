@@ -1,0 +1,3 @@
+[submodule "themes/ln-base"]
+	path = themes/ln-base
+	url = https://github.com/lokal-ninja/ln-base.git

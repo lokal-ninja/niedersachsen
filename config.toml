@@ -6,7 +6,8 @@ theme = "ln-base"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [outputs]
-  home = ["HTML"]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
 
 [params]
   site = "Lokal Ninja"

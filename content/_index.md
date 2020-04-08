@@ -1,0 +1,2 @@
+Niedersachsen ist ein Land im mittleren Nordwesten der Bundesrepublik Deutschland. Das Flächenland steht mit rund 47.600 km² unter den 16 deutschen Ländern auf dem zweiten Platz hinter Bayern und nimmt bei einer Einwohnerzahl von rund 7,98 Millionen in dieser Hinsicht Platz vier ein. Neben der Landeshauptstadt Hannover gibt es sieben weitere Großstädte: Braunschweig, Oldenburg, Osnabrück, Wolfsburg, Göttingen, Hildesheim und Salzgitter. Die Ballungsräume von Bremen und Hamburg reichen weit nach Niedersachsen hinein. (Wikipedia)
+

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.542047700000005
 longitude: 8.5792398
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Obere Bürger"
 housenumber: 

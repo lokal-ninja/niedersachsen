@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.3584417
 longitude: 8.654824300000001
-postcode: 27628
+postcode: "27628"
 city: Hagen im Bremischen
 street: "Am Gewerbepark"
 housenumber: 3

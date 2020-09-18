@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.534998400000006
 longitude: 9.937786000000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Burgstraße"
 housenumber: 39

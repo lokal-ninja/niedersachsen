@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.316808
 longitude: 9.9715001
-postcode: 31319
+postcode: "31319"
 city: Sehnde
 street: "Achardstraße"
 housenumber: 3

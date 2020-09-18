@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.2380396
 longitude: 10.4615781
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "Auf den Blöcken"
 housenumber: 7

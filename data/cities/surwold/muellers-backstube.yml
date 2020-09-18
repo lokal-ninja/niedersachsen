@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.9718321
 longitude: 7.5220355
-postcode: 26903
+postcode: "26903"
 city: Surwold
 street: "Kolpingstraße"
 housenumber: 6

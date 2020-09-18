@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3761899
 longitude: 9.721536500000001
-postcode: 30167
+postcode: "30167"
 city: Hannover
 street: "Königsworther Straße"
 housenumber: 19

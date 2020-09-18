@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.2602081
 longitude: 10.5417976
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Altewiekring"
 housenumber: 70

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.6558204
 longitude: 9.1575095
-postcode: 31608
+postcode: "31608"
 city: Marklohe
 street: "Heinrich-Büssing-Straße"
 housenumber: 1

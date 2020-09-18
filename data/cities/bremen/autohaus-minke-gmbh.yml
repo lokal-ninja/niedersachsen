@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.1819173
 longitude: 8.6228916
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Am Rabenfeld"
 housenumber: 7-9

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5919266
 longitude: 8.3473831
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Kruppstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.6764656
 longitude: 9.616658000000001
-postcode: 29690
+postcode: "29690"
 city: Schwarmstedt
 street: "Maschstraße"
 housenumber: 2

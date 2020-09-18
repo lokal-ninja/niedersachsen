@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.307361300000004
 longitude: 9.7281373
-postcode: 30966
+postcode: "30966"
 city: Hemmingen
 street: "Beethovenstraße"
 housenumber: 2

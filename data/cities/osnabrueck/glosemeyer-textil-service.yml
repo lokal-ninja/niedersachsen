@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 52.27224270000001
 longitude: 8.0982327
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Südstraße"
 housenumber: 39

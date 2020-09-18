@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.3711357
 longitude: 9.214459900000001
-postcode: 27446
+postcode: "27446"
 city: Selsingen
 street: "Hauptstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.523408700000005
 longitude: 10.3670506
-postcode: 38539
+postcode: "38539"
 city: Müden (Aller)
 street: "Hauptstraße"
 housenumber: 50

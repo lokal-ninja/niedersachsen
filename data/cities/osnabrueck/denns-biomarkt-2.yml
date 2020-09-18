@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.270595300000004
 longitude: 8.0313611
-postcode: 49080
+postcode: "49080"
 city: Osnabrück
 street: "Weidenstraße"
 housenumber: 20

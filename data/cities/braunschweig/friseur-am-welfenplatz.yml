@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.233988700000005
 longitude: 10.5580738
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "Welfenplatz"
 housenumber: 7
 phone: "+49 531 62473"
-opening_hours: ""
+opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00"
 website: ""

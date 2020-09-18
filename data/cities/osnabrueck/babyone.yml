@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 52.2474459
 longitude: 8.0633554
-postcode: 49082
+postcode: "49082"
 city: Osnabrück
 street: "Iburger Straße"
 housenumber: 225

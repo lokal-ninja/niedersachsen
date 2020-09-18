@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.227113800000005
 longitude: 10.1605831
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Alte Baumschule"
 housenumber: 2

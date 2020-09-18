@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.026577200000006
 longitude: 8.8005581
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Henleinstraße"
 housenumber: 1

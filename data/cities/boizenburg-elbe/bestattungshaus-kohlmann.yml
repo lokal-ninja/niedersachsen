@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.3746584
 longitude: 10.7242485
-postcode: 19258
+postcode: "19258"
 city: Boizenburg/Elbe
 street: "Mühlenstraße"
 housenumber: 2

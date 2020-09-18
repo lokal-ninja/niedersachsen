@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.265115200000004
 longitude: 10.438368800000001
-postcode: 38116
+postcode: "38116"
 city: Braunschweig
 street: "Lammer Heide"
 housenumber: 125

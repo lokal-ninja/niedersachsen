@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4852172
 longitude: 10.0963019
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Am Kindergarten"
 housenumber: 4

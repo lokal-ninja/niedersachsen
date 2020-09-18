@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.372097000000004
 longitude: 8.0976845
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Goethestraße"
 housenumber: 6-8

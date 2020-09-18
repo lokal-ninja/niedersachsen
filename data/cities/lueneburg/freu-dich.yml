@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.2489016
 longitude: 10.406437
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Schröderstraße"
 housenumber: 1a

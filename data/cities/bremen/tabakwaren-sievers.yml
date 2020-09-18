@@ -3,10 +3,10 @@ type: node
 shop: Kiosk
 latitude: 53.06689
 longitude: 8.7930499
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Pappelstraße"
 housenumber: 98
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:45-13:00, Mo-Fr 14:30-18:00"
 website: ""

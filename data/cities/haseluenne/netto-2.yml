@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6775875
 longitude: 7.4710635000000005
-postcode: 49740
+postcode: "49740"
 city: Haselünne
 street: "Meppener Straße"
 housenumber: 64

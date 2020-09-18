@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.095807400000005
 longitude: 8.810314700000001
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Hemmstraße"
 housenumber: 269

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.553913800000004
 longitude: 8.0955309
-postcode: 26386
+postcode: "26386"
 city: Wilhelmshaven
 street: "Werdumer Straße"
 housenumber: 90

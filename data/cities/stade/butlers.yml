@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.598920400000004
 longitude: 9.4751879
-postcode: 21682
+postcode: "21682"
 city: Stade
 street: "Holzstraße"
 housenumber: 16

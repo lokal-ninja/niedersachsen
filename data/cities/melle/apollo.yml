@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.2031702
 longitude: 8.337327700000001
-postcode: 49324
+postcode: "49324"
 city: Melle
 street: "Markt"
 housenumber: 4

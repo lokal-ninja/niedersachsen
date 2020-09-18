@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.2901984
 longitude: 9.5135245
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Jahnstraße"
 housenumber: 3

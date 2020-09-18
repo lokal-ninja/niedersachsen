@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.1970346
 longitude: 9.0855464
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Im Emerten"
 housenumber: 10

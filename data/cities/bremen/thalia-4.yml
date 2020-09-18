@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.0478603
 longitude: 8.7417123
-postcode: 28259
+postcode: "28259"
 city: Bremen
 street: "Alter Dorfweg"
 housenumber: 30-50

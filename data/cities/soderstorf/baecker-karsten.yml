@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1425454
 longitude: 10.147744000000001
-postcode: 21388
+postcode: "21388"
 city: Soderstorf
 street: "Hauptstraße"
 housenumber: 29

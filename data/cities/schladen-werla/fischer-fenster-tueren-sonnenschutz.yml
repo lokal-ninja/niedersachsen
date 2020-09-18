@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.0181033
 longitude: 10.5683729
-postcode: 38315
+postcode: "38315"
 city: Schladen-Werla
 street: "Am Wannekop"
 housenumber: 11

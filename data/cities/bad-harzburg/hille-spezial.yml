@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.906564700000004
 longitude: 10.5131052
-postcode: 38667
+postcode: "38667"
 city: Bad Harzburg
 street: "Landstraße"
 housenumber: 82

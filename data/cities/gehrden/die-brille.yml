@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.3135259
 longitude: 9.6004678
-postcode: 30989
+postcode: "30989"
 city: Gehrden
 street: "Steinweg"
 housenumber: 17-19

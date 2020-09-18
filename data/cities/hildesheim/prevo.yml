@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.162595100000004
 longitude: 9.9721972
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Siemensstraße"
 housenumber: 14

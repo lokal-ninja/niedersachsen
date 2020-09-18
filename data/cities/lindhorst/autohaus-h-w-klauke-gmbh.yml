@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.351632800000004
 longitude: 9.291663400000001
-postcode: 31698
+postcode: "31698"
 city: Lindhorst
 street: "Industriestraße"
 housenumber: 4

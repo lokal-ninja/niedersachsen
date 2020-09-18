@@ -3,10 +3,10 @@ type: node
 shop: Spielzeug
 latitude: 53.5874382
 longitude: 6.6626845
-postcode: 26757
+postcode: "26757"
 city: Borkum
 street: "Georg-Schütte-Platz"
 housenumber: 6
 phone: "+49 4922 1043"
-opening_hours: ""
+opening_hours: "Mo-Su 09:00-20:00"
 website: ""

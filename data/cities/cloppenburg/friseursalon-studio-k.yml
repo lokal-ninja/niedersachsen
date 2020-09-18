@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.845282100000006
 longitude: 8.0439574
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Sevelter Straße"
 housenumber: 1

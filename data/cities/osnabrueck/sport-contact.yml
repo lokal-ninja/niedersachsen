@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 52.269029200000006
 longitude: 8.1116354
-postcode: 49086
+postcode: "49086"
 city: Osnabrück
 street: "Mindener Straße"
 housenumber: 293

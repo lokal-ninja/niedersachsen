@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.1100891
 longitude: 9.4020229
-postcode: 27356
+postcode: "27356"
 city: Rotenburg (Wümme)
 street: "Große Straße"
 housenumber: 25

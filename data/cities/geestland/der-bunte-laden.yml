@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 53.607461400000005
 longitude: 8.5946382
-postcode: 27607
+postcode: "27607"
 city: Geestland
 street: "Leher Landstraße"
 housenumber: 2b

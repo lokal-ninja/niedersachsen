@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9812188
 longitude: 9.5042013
-postcode: 37619
+postcode: "37619"
 city: Bodenwerder
 street: "Ernst-Reuter-Straße"
 housenumber: 4

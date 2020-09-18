@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.6375151
 longitude: 9.2079793
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Neue Straße"
 housenumber: 38

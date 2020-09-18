@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.11601700000001
 longitude: 9.5552063
-postcode: 31863
+postcode: "31863"
 city: Coppenbrügge
 street: "Alte Heerstraße"
 housenumber: 18

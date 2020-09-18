@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.3651624
 longitude: 7.2143376
-postcode: 26725
+postcode: "26725"
 city: Emden
 street: "Friedrich-Ebert-Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.0350015
 longitude: 8.8921413
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Europaallee"
 housenumber: 1-3

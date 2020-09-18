@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.4253336
 longitude: 9.637828
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Veckerhäger Straße"
 housenumber: 121

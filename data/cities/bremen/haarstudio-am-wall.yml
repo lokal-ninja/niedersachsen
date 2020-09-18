@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.07699
 longitude: 8.8115111
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Bischofsnadel"
 housenumber: 9

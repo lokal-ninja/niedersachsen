@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.0639942
 longitude: 8.1960829
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Oldenburger Straße"
 housenumber: 231

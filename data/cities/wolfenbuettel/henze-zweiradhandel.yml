@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.1688568
 longitude: 10.570053000000001
-postcode: 38302
+postcode: "38302"
 city: Wolfenbüttel
 street: "Ahlumer Straße"
 housenumber: 96

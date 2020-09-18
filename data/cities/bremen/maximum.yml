@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.177755700000006
 longitude: 8.5980088
-postcode: 28755
+postcode: "28755"
 city: Bremen
 street: "Lindenstraße"
 housenumber: 90

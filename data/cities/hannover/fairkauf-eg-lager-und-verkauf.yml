@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.40598730000001
 longitude: 9.7322409
-postcode: 30165
+postcode: "30165"
 city: Hannover
 street: "Vahrenwalder Straße"
 housenumber: 207

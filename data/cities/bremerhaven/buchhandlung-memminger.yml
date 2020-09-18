@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.5321627
 longitude: 8.5920933
-postcode: 27570
+postcode: "27570"
 city: Bremerhaven
 street: "Grashoffstraße"
 housenumber: 11

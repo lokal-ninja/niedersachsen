@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1144247
 longitude: 9.2268445
-postcode: 27367
+postcode: "27367"
 city: Sottrum
 street: "Am Eichkamp"
 housenumber: 13

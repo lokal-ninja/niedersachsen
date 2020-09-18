@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.0798805
 longitude: 8.8936621
-postcode: 28327
+postcode: "28327"
 city: Bremen
 street: "Berliner Freiheit"
 housenumber: 11

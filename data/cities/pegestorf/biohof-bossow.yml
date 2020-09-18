@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.926163200000005
 longitude: 9.494180400000001
-postcode: 37619
+postcode: "37619"
 city: Pegestorf
 street: "Hauptstraße"
 housenumber: 73

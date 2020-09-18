@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.3777569
 longitude: 9.8030939
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Berckhusenstraße"
 housenumber: 121

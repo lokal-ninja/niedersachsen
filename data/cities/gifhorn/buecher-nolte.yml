@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.4868845
 longitude: 10.5466783
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Steinweg"
 housenumber: 17

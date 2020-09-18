@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.2309282
 longitude: 7.4513423
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Heisfelder Straße"
 housenumber: 33

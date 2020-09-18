@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.612052500000004
 longitude: 7.1575825
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Dörper Weg"
 housenumber: 22

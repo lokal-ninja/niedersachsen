@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.0589809
 longitude: 9.014475800000001
-postcode: 28876
+postcode: "28876"
 city: Oyten
 street: "Unter den Linden"
 housenumber: 5

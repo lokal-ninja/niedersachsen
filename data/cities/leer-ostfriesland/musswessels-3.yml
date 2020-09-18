@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.2302788
 longitude: 7.440335500000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Ubbo-Emmius-Straße"
 housenumber: 93

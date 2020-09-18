@@ -3,10 +3,10 @@ type: node
 shop: Tattoo
 latitude: 53.07924920000001
 longitude: 8.8052452
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Wegesende"
 housenumber: 9
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
 website: ""

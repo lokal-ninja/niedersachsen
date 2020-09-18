@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.4795706
 longitude: 9.1405764
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Gnarrenburger Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.2695226
 longitude: 8.041136
-postcode: 49080
+postcode: "49080"
 city: Osnabrück
 street: "Rehmstraße"
 housenumber: 4

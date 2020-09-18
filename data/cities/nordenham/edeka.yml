@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.504574600000005
 longitude: 8.4793558
-postcode: 26954
+postcode: "26954"
 city: Nordenham
 street: "Atenser Allee"
 housenumber: 142

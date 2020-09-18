@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.049395000000004
 longitude: 8.9588312
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

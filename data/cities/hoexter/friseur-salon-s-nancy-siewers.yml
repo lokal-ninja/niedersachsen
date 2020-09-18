@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.8209498
 longitude: 9.402744700000001
-postcode: 37671
+postcode: "37671"
 city: Höxter
 street: "Dionysiusstraße"
 housenumber: 12

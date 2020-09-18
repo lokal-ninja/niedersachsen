@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.0765898
 longitude: 10.4869775
-postcode: 38312
+postcode: "38312"
 city: Flöthe
 street: "Lindenstraße"
 housenumber: 14

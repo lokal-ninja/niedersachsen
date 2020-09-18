@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.5329162
 longitude: 9.9392799
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Mauerstraße"
 housenumber: 16

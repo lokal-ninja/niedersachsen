@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.5308622
 longitude: 9.9381161
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Kurze-Geismar-Straße"
 housenumber: 11

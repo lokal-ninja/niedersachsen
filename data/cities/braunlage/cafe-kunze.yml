@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7105095
 longitude: 10.518120900000001
-postcode: 37444
+postcode: "37444"
 city: Braunlage
 street: "Danielstraße"
 housenumber: 3

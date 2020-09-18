@@ -1,6 +1,6 @@
 ---
 title: Bevern
 url: /bevern/
-latitude: 52.7261723
-longitude: 8.0057194
+latitude: 52.72739060000001
+longitude: 8.0048037
 ---

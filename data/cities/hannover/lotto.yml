@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.3326666
 longitude: 9.7925647
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Oppelner Weg"
 housenumber: 4

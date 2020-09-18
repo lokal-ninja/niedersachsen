@@ -1,12 +1,12 @@
-id: 102514979
-type: way
+id: 7500174916
+type: node
 shop: Supermarkt
-latitude: 53.349336300000004
-longitude: 7.2215312
-postcode: 26725
+latitude: 53.35971850000001
+longitude: 7.2164422
+postcode: "26725"
 city: Emden
-street: "Petkumer Straße"
-housenumber: 207
+street: "Am Südbahnhof"
+housenumber: 42
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi.com/"
+opening_hours: "Mo-Fr 07:00-20:00"
+website: ""

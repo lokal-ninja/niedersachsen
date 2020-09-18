@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2412453
 longitude: 10.9879884
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Von-Guericke-Straße"
 housenumber: 1A

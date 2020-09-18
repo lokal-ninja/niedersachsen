@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.894221
 longitude: 8.429823
-postcode: 27793
+postcode: "27793"
 city: Wildeshausen
 street: "Bargloyer Straße"
 housenumber: 3

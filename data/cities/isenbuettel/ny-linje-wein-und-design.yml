@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.4351555
 longitude: 10.5784629
-postcode: 38550
+postcode: "38550"
 city: Isenbüttel
 street: "Hauptstraße"
 housenumber: 4

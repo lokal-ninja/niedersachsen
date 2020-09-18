@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 52.3825821
 longitude: 9.860397200000001
-postcode: 30629
+postcode: "30629"
 city: Hannover
 street: "Anderter Straße"
 housenumber: 64

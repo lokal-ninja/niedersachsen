@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.074026200000006
 longitude: 8.9249229
-postcode: 28327
+postcode: "28327"
 city: Bremen
 street: "Max-Säume-Straße"
 housenumber: 5

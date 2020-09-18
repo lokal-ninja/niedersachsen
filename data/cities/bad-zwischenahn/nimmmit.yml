@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.184099100000005
 longitude: 8.0797431
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Bertha-Benz-Straße"
 housenumber: 24

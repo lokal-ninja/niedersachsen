@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5230101
 longitude: 10.028085
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Ramlinger Straße"
 housenumber: 4

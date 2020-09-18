@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.427792000000004
 longitude: 10.7830218
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Heinrich-Nordhoff-Straße"
 housenumber: 73-77

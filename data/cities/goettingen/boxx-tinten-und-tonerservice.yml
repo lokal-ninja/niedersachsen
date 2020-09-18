@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.5325257
 longitude: 9.928088
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Groner-Tor-Straße"
 housenumber: 6

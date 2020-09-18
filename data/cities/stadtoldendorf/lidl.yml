@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.8818756
 longitude: 9.632091500000001
-postcode: 37627
+postcode: "37627"
 city: Stadtoldendorf
 street: "Neue Straße"
 housenumber: 38

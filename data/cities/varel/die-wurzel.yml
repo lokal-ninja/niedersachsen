@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.3944242
 longitude: 8.1414433
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Obernstraße"
 housenumber: 23a

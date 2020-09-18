@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.9257476
 longitude: 11.114934100000001
-postcode: 29462
+postcode: "29462"
 city: Wustrow
 street: "Fehlstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4957787
 longitude: 10.1852677
-postcode: 37115
+postcode: "37115"
 city: Nesselröden
 street: "Nathestraße"
 housenumber: 2

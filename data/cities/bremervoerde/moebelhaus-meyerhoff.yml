@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.4845881
 longitude: 9.1461682
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Bremer Straße"
 housenumber: 5

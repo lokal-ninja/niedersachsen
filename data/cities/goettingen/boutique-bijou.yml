@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.532856200000005
 longitude: 9.932842800000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Johannisstraße"
 housenumber: 25b

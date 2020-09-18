@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5225116
 longitude: 8.1934913
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Mühlenstraße"
 housenumber: 21

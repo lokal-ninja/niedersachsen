@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.1064772
 longitude: 8.777259800000001
-postcode: 28219
+postcode: "28219"
 city: Bremen
 street: "Waller Heerstraße"
 housenumber: 250

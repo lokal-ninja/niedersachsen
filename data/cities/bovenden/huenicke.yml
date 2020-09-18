@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.5867568
 longitude: 9.9295487
-postcode: 37120
+postcode: "37120"
 city: Bovenden
 street: "Rathausplatz"
 housenumber: 19

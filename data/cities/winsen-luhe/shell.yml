@@ -1,12 +1,12 @@
-id: 84550031
-type: way
-shop: Kiosk
-latitude: 53.356379800000006
-longitude: 10.2046863
-postcode: 21423
+id: 292680649
+type: node
+shop: Allgemein
+latitude: 53.3526382
+longitude: 10.228098000000001
+postcode: "21423"
 city: Winsen (Luhe)
-street: "Hansestraße"
-housenumber: 1
-phone: ""
-opening_hours: "24/7"
+street: "Lüneburger Straße"
+housenumber: 145
+phone: "+49 4171 71521"
+opening_hours: "Mo-Fr 06:00-21:00; Sa 07:30-21:00; Su 08:30-20:00"
 website: ""

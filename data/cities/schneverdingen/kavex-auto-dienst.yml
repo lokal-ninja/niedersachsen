@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.1083781
 longitude: 9.7955542
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Schröderstraße"
 housenumber: 19a

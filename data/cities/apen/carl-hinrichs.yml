@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 53.221210600000006
 longitude: 7.7545102
-postcode: 26689
+postcode: "26689"
 city: Apen
 street: "Südgeorgsfehner Straße"
 housenumber: 5

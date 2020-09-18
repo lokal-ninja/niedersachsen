@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7634959
 longitude: 8.341849400000001
-postcode: 49424
+postcode: "49424"
 city: Goldenstedt
 street: "Visbeker Straße"
 housenumber: 40

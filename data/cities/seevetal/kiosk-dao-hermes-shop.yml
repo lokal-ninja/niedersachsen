@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.377560800000005
 longitude: 10.0342813
-postcode: 21220
+postcode: "21220"
 city: Seevetal
 street: "Horster Landstraße"
 housenumber: 118

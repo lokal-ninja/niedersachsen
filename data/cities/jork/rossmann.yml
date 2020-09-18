@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.533809000000005
 longitude: 9.679953300000001
-postcode: 21635
+postcode: "21635"
 city: Jork
 street: "Altländer Markt"
 housenumber: 1

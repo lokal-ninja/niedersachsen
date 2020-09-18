@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.472367600000005
 longitude: 7.318505200000001
-postcode: 26624
+postcode: "26624"
 city: Südbrookmerland
 street: "Emder Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4201028
 longitude: 10.710250400000001
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Viehtrift"
 housenumber: 17

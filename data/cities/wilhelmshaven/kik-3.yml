@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.52847920000001
 longitude: 8.1084454
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Bismarckstraße"
 housenumber: 164

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.2674098
 longitude: 8.037115100000001
-postcode: 49080
+postcode: "49080"
 city: Osnabrück
 street: "Rehmstraße"
 housenumber: 38

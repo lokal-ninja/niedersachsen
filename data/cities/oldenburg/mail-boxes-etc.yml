@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.1562205
 longitude: 8.2016952
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Melkbrink"
 housenumber: 68

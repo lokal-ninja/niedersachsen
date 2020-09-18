@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.9676325
 longitude: 11.154509800000001
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 28

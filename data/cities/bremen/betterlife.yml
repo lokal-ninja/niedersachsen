@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.08306150000001
 longitude: 8.8137744
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Bahnhofsplatz"
 housenumber: 15

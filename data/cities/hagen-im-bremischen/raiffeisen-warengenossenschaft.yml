@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.357123900000005
 longitude: 8.6484001
-postcode: 27628
+postcode: "27628"
 city: Hagen im Bremischen
 street: "Amtsdamm"
 housenumber: 62

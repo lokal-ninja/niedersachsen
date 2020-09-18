@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 53.563490200000004
 longitude: 9.651663600000001
-postcode: 21635
+postcode: "21635"
 city: Jork
 street: "Wisch"
 housenumber: 29b

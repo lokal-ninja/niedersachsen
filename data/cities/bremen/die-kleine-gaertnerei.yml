@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.172705500000006
 longitude: 8.629277700000001
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Johann-Fromm-Weg"
 housenumber: 8

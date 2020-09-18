@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.388215
 longitude: 9.855694
-postcode: 30629
+postcode: "30629"
 city: Hannover
 street: "Anderter Straße"
 housenumber: 16

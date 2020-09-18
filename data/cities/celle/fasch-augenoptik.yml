@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.6138485
 longitude: 10.052882
-postcode: 29225
+postcode: "29225"
 city: Celle
 street: "Lauensteinplatz"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.2890984
 longitude: 7.4919748
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Königsmoorstraße"
 housenumber: 6

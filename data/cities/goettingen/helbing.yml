@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.531207200000004
 longitude: 9.9384051
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kurze-Geismar-Straße"
 housenumber: 26

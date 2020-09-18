@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.224181400000006
 longitude: 8.8087178
-postcode: 27711
+postcode: "27711"
 city: Osterholz-Scharmbeck
 street: "Bördestraße"
 housenumber: 47

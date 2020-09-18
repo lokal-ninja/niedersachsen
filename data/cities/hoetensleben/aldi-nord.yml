@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.114946800000006
 longitude: 11.0231682
-postcode: 
+postcode: ""
 city: Hötensleben
-street: ""
-housenumber: 
+street: "Warslebener Straße"
+housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

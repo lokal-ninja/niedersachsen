@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.7281689
 longitude: 10.2488568
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Marientorstraße"
 housenumber: 9

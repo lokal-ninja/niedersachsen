@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 53.1219868
 longitude: 8.251391100000001
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Gutenbergstraße"
 housenumber: 14

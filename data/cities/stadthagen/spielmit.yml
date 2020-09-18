@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.3221986
 longitude: 9.2055257
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Obernstraße"
 housenumber: 43

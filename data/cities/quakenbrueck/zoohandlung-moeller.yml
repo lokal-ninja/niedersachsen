@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.6765607
 longitude: 7.951081500000001
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Schiphorst"
 housenumber: 12-14

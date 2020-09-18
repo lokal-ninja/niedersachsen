@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.3669591
 longitude: 9.7109568
-postcode: 21279
+postcode: "21279"
 city: Hollenstedt
 street: "Wohlesbosteler Straße"
 housenumber: 1

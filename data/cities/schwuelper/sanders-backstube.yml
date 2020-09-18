@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.353735300000004
 longitude: 10.4340042
-postcode: 38179
+postcode: "38179"
 city: Schwülper
 street: "Hauptstraße"
 housenumber: 8

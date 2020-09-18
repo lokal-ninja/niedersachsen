@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.277472100000004
 longitude: 8.0433844
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Domhof"
 housenumber: 2

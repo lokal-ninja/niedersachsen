@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.035052900000004
 longitude: 9.7082233
-postcode: 29643
+postcode: "29643"
 city: Neuenkirchen
 street: "Bahnhofstraße"
 housenumber: 19

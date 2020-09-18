@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.2660921
 longitude: 10.5197493
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Meinhardshof"
 housenumber: 2

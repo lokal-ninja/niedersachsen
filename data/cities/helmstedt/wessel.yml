@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.227647000000005
 longitude: 11.007768400000002
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Neumärker Straße"
 housenumber: 29

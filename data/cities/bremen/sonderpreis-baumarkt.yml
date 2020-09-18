@@ -3,10 +3,10 @@ type: node
 shop: Baumarkt
 latitude: 53.1369648
 longitude: 8.7419969
-postcode: 28239
+postcode: "28239"
 city: Bremen
 street: "Schragestraße"
 housenumber: 5c
-phone: "+49 421 69499922"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "www.sonderpreis-baumarkt.de"
+phone: ""
+opening_hours: "Mo-Sa 08:00-19:00; PH off"
+website: ""

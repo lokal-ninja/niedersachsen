@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.2584723
 longitude: 8.0827693
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Hannoversche Straße"
 housenumber: 82

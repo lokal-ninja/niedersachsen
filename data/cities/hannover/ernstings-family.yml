@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.372376300000006
 longitude: 9.7103398
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 17

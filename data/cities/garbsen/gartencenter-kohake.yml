@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.42308190000001
 longitude: 9.5919979
-postcode: 30823
+postcode: "30823"
 city: Garbsen
 street: "Berenbosteler Straße"
 housenumber: 76

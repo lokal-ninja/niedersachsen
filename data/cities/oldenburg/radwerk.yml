@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.100827
 longitude: 8.2305769
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Harreweg"
 housenumber: 153b

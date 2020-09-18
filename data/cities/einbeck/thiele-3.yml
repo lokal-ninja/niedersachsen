@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8195144
 longitude: 9.851004300000001
-postcode: 37574
+postcode: "37574"
 city: Einbeck
 street: "Walter-Poser-Straße"
 housenumber: 2

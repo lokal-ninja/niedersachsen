@@ -1,4 +1,4 @@
 ---
-title: "M.Eins Kosmetik"
+title: "M. Eins Kosmetik"
 url: /braunschweig/m-eins-kosmetik/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.5319725
 longitude: 9.9352453
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kornmarkt"
 housenumber: 1

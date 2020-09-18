@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.683725700000004
 longitude: 9.6281165
-postcode: 29690
+postcode: "29690"
 city: Schwarmstedt
 street: "Am Varrenbruch"
 housenumber: 8

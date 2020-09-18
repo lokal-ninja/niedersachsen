@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.171371
 longitude: 8.6218483
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Sagerstraße"
 housenumber: 6

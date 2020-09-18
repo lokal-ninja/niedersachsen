@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.423740800000004
 longitude: 10.7317266
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Westerlinge"
 housenumber: 8

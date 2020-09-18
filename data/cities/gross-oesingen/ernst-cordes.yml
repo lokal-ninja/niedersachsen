@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6498793
 longitude: 10.4607036
-postcode: 29393
+postcode: "29393"
 city: Groß Oesingen
 street: "Molkereistraße"
 housenumber: 6

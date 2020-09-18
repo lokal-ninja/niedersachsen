@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.482338000000006
 longitude: 9.632434100000001
-postcode: 21614
+postcode: "21614"
 city: Buxtehude
 street: "Kringelstraße"
 housenumber: 1a

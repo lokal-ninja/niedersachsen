@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 52.5106533
 longitude: 10.4784363
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Mühlenstraße"
 housenumber: 11

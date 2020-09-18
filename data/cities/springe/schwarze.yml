@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.2095405
 longitude: 9.5568823
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Zum Niederntor"
 housenumber: 12

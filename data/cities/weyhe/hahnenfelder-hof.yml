@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.968031200000006
 longitude: 8.8251953
-postcode: 28844
+postcode: "28844"
 city: Weyhe
 street: "Hahnenfelder Weg"
 housenumber: 1

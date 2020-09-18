@@ -1,12 +1,12 @@
 id: 2869840301
 type: node
-shop: Gebrauchtwaren
+shop: Kleidung
 latitude: 53.0731234
 longitude: 8.8216654
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Bauernstraße"
 housenumber: 8
-phone: "+49 421 701687"
+phone: ""
 opening_hours: "Mo-Fr 10:30-18:30; Sa 10:00-16:00; PH off"
-website: "http://www.offcourse-bremen.de/"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.3872834
 longitude: 9.7219616
-postcode: 30167
+postcode: "30167"
 city: Hannover
 street: "An der Lutherkirche"
 housenumber: 3-4

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.975914700000004
 longitude: 11.1657969
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Konsul-Wester-Straße"
 housenumber: 13

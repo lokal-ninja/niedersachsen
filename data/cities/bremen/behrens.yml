@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1330419
 longitude: 8.7357686
-postcode: 28239
+postcode: "28239"
 city: Bremen
 street: "Oslebshauser Landstraße"
 housenumber: 7a

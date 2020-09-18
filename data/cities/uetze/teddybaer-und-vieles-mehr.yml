@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 52.4639393
 longitude: 10.200593900000001
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Burgdorfer Straße"
 housenumber: 9

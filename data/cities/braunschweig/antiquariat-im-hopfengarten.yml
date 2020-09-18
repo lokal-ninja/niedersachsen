@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.26293750000001
 longitude: 10.5467113
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Hopfengarten"
 housenumber: 3

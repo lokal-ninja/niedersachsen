@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4945546
 longitude: 9.848850500000001
-postcode: 30938
+postcode: "30938"
 city: Burgwedel
 street: "Dammstraße"
 housenumber: 26

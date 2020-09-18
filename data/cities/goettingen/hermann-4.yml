@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5323391
 longitude: 9.9354916
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kornmarkt"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.308609600000004
 longitude: 7.5049608
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Dr.-Warsing-Straße"
 housenumber: 209

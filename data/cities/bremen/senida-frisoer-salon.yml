@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1246481
 longitude: 8.902328200000001
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Krögersweg"
 housenumber: 7

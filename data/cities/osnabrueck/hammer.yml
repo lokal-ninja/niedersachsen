@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.263436500000005
 longitude: 8.0686208
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Hannoversche Straße"
 housenumber: 39

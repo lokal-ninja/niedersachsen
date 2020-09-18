@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4597184
 longitude: 9.9183199
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Dramfelder Straße"
 housenumber: 8

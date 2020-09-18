@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6250499
 longitude: 9.93669
-postcode: 37176
+postcode: "37176"
 city: Nörten-Hardenberg
 street: "Göttinger Straße"
 housenumber: 34

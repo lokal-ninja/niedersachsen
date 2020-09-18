@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.050310800000005
 longitude: 8.7400915
-postcode: 28259
+postcode: "28259"
 city: Bremen
 street: "Kirchhuchtinger Landstraße"
 housenumber: 36

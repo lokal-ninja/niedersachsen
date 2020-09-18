@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.115738900000004
 longitude: 9.418235000000001
-postcode: 27356
+postcode: "27356"
 city: Rotenburg (Wümme)
 street: "Harburger Straße"
 housenumber: 68

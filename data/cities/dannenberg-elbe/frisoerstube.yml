@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1008968
 longitude: 11.099139200000002
-postcode: 29451
+postcode: "29451"
 city: Dannenberg (Elbe)
 street: "Marschtorstraße"
 housenumber: 15

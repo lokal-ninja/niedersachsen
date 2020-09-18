@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.053514400000005
 longitude: 8.2020503
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Oldenburger Straße"
 housenumber: 324

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.072872100000005
 longitude: 8.8271307
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Vor dem Steintor"
 housenumber: 74

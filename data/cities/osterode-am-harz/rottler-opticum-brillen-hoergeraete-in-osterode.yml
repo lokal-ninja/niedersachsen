@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.7281053
 longitude: 10.250506600000001
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Kornmarkt"
 housenumber: 14

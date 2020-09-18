@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.065335600000004
 longitude: 9.372251200000001
-postcode: 31789
+postcode: "31789"
 city: Hameln
 street: "Lange Straße"
 housenumber: 5

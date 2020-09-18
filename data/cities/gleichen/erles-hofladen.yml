@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.4960852
 longitude: 10.008005800000001
-postcode: 37130
+postcode: "37130"
 city: Gleichen
 street: "Lange Hecke"
 housenumber: 1

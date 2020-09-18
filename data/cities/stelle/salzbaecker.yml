@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.383430000000004
 longitude: 10.111797000000001
-postcode: 21435
+postcode: "21435"
 city: Stelle
 street: "Lüneburger Straße"
 housenumber: 3

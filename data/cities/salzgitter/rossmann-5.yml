@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.196080900000005
 longitude: 10.4592778
-postcode: 38239
+postcode: "38239"
 city: Salzgitter
 street: "Schäferwiese"
 housenumber: 4c

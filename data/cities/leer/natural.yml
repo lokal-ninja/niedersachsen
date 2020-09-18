@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.252876300000004
 longitude: 7.463176700000001
-postcode: 26789
+postcode: "26789"
 city: Leer
 street: "Riedweg"
 housenumber: 15

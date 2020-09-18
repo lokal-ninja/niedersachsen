@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.387393
 longitude: 9.7202876
-postcode: 30167
+postcode: "30167"
 city: Hannover
 street: "Rehbockstraße"
 housenumber: 3

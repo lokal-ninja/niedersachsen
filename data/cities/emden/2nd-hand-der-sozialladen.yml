@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 53.3763541
 longitude: 7.2115071
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Hermann-Allmers-Straße"
 housenumber: 1b

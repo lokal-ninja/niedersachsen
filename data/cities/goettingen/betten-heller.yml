@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.5321882
 longitude: 9.935494700000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kornmarkt"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.821204
 longitude: 9.4684565
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Papiermühle"
 housenumber: 7

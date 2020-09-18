@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.283217
 longitude: 10.579533000000001
-postcode: 38104
+postcode: "38104"
 city: Braunschweig
 street: "Berliner Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.061934400000005
 longitude: 8.8878036
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Sebaldsbrücker Heerstraße"
 housenumber: 53

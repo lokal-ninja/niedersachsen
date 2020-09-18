@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.058154200000004
 longitude: 9.1682906
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: ""
 housenumber: 

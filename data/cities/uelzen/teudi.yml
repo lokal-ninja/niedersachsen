@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.9633423
 longitude: 10.558519700000002
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Veerßer Straße"
 housenumber: 36

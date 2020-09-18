@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.8078073
 longitude: 8.898111700000001
-postcode: 21762
+postcode: "21762"
 city: Otterndorf
 street: "Cuxhavener Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.982629300000006
 longitude: 9.9252096
-postcode: 29614
+postcode: "29614"
 city: Soltau
 street: "Rahrsberg"
 housenumber: 7

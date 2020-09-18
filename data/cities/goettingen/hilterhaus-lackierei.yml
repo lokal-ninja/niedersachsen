@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.534488800000005
 longitude: 9.9205628
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Groner Landstraße"
 housenumber: 33a

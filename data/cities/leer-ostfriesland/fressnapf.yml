@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.219624200000005
 longitude: 7.4758804
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Osseweg"
 housenumber: 87

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4350346
 longitude: 10.577140400000001
-postcode: 38550
+postcode: "38550"
 city: Isenbüttel
 street: "Hauptstraße"
 housenumber: 7

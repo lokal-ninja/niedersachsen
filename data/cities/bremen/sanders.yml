@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.094167000000006
 longitude: 8.807241300000001
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Hemmstraße"
 housenumber: 171

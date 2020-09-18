@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0958562
 longitude: 8.7893855
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Grenzstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 52.2438967
 longitude: 10.979989400000001
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Porschestraße"
 housenumber: 11

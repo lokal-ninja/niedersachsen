@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.887472900000006
 longitude: 9.365120300000001
-postcode: 27308
+postcode: "27308"
 city: Kirchlinteln
 street: "Neddener Dorfstraße"
 housenumber: 33

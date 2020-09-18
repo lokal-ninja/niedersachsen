@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2393397
 longitude: 10.9960061
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Emmerstedter Straße"
 housenumber: 

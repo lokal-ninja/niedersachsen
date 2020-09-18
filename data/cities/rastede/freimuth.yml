@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.2448915
 longitude: 8.1917947
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Bahnhofstraße"
 housenumber: 36

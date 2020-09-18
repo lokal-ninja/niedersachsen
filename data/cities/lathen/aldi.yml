@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8615501
 longitude: 7.3207461
-postcode: 49762
+postcode: "49762"
 city: Lathen
 street: "Kreuzstraße"
 housenumber: 6-8

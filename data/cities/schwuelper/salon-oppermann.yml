@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.353254400000004
 longitude: 10.4388074
-postcode: 38179
+postcode: "38179"
 city: Schwülper
 street: "Höben"
 housenumber: 58

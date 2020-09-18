@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.8135661
 longitude: 9.8755775
-postcode: 37574
+postcode: "37574"
 city: Einbeck
 street: "Altendorfer Tor"
 housenumber: 18

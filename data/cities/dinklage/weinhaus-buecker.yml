@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 52.6625273
 longitude: 8.1174335
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "An der Bleiche"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5985291
 longitude: 9.4755572
-postcode: 21682
+postcode: "21682"
 city: Stade
 street: "Holzstraße"
 housenumber: 15-17

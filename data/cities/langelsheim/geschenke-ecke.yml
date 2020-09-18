@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.9355459
 longitude: 10.345409700000001
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Lange Straße"
 housenumber: 60

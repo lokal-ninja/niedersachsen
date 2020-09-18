@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.493292000000004
 longitude: 10.0080351
-postcode: 37130
+postcode: "37130"
 city: Gleichen
 street: "Steinslieth"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.2646249
 longitude: 9.063681
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Kreuzbreite"
 housenumber: 1

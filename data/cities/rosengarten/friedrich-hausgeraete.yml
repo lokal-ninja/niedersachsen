@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.373873800000005
 longitude: 9.8954046
-postcode: 21224
+postcode: "21224"
 city: Rosengarten
 street: "Am Hatzberg"
 housenumber: 7

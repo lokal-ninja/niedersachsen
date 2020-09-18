@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 52.437842100000005
 longitude: 10.438822100000001
-postcode: 38542
+postcode: "38542"
 city: Leiferde
 street: "Hauptstraße"
 housenumber: 5

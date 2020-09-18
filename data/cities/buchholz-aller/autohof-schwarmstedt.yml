@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.6736103
 longitude: 9.6895434
-postcode: 29690
+postcode: "29690"
 city: Buchholz (Aller)
 street: "An der Autobahn"
 housenumber: 1

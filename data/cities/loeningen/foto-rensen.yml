@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 52.734566400000006
 longitude: 7.7586076
-postcode: 49624
+postcode: "49624"
 city: Löningen
 street: "Poststraße"
 housenumber: 8

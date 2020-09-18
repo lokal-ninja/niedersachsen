@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.1571579
 longitude: 9.9522937
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Bernwardstraße"
 housenumber: 2

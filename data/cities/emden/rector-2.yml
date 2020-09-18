@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.362253700000004
 longitude: 7.1978109
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Hansastraße"
 housenumber: 22

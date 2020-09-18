@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.111729700000005
 longitude: 9.690990300000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Alte Landstraße"
 housenumber: 1

@@ -1,12 +1,12 @@
-id: 6609088117
-type: node
+id: 826438290
+type: way
 shop: Bäckerei
-latitude: 53.6126019
-longitude: 9.3093172
-postcode: 21709
+latitude: 53.612591200000004
+longitude: 9.3090094
+postcode: "21709"
 city: Himmelpforten
 street: "Hauptstraße"
 housenumber: 29
 phone: ""
-opening_hours: "Mo-Fr: 5:00-18:00h; Sa: 5:00-14:00h; So: 7:00-14:00h"
+opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-14:00; Su 07:00-14:00"
 website: ""

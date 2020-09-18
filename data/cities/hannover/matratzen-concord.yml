@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.3320359
 longitude: 9.7735762
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 324

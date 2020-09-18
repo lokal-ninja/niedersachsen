@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.155093400000005
 longitude: 8.0445467
-postcode: 49186
+postcode: "49186"
 city: Bad Iburg
 street: "Mühlentor"
 housenumber: 3

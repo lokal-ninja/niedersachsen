@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.2810768
 longitude: 9.7080166
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Unter den Linden"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.289206400000005
 longitude: 10.426963800000001
-postcode: 21365
+postcode: "21365"
 city: Adendorf
 street: "Dieselstraße"
 housenumber: 1

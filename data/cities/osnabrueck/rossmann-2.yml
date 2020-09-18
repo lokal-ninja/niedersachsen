@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.2742103
 longitude: 8.0480093
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Große Straße"
 housenumber: 17-19

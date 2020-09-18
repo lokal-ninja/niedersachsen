@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.3795409
 longitude: 10.3442323
-postcode: 21436
+postcode: "21436"
 city: Marschacht
 street: "Im Hollandshagen"
 housenumber: 5

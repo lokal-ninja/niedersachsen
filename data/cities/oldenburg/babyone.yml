@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 53.1077832
 longitude: 8.2770721
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Bremer Heerstraße"
 housenumber: 575

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.839975700000004
 longitude: 8.067245400000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Lankumer Ring"
 housenumber: 2

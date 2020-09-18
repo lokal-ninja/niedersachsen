@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.9289897
 longitude: 9.643314700000001
-postcode: 37632
+postcode: "37632"
 city: Eschershausen
 street: "Mühlenbergstraße"
 housenumber: 17a

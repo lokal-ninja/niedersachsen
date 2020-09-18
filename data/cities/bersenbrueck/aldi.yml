@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.550214000000004
 longitude: 7.949577700000001
-postcode: 49593
+postcode: "49593"
 city: Bersenbrück
 street: "Bramscher Straße"
 housenumber: 46-48

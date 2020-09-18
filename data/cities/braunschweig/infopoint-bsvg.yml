@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.2526382
 longitude: 10.5390419
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Berliner Platz"
 housenumber: Bahnhofsvorplatz

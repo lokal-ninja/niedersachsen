@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.552236900000004
 longitude: 10.190046200000001
-postcode: 29358
+postcode: "29358"
 city: Eicklingen
 street: "Im Rehmen"
 housenumber: 34

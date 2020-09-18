@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.6778695
 longitude: 6.999899800000001
-postcode: 26571
+postcode: "26571"
 city: Juist
 street: "Herrenstrandstraße"
 housenumber: 8

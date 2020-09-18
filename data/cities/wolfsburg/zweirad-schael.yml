@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4249834
 longitude: 10.787408000000001
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Kleiststraße"
 housenumber: 5

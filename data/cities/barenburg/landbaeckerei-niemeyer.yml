@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.616984
 longitude: 8.799186800000001
-postcode: 27245
+postcode: "27245"
 city: Barenburg
 street: "Im Flecken"
 housenumber: 1A

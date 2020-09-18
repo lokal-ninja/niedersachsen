@@ -3,7 +3,7 @@ type: way
 shop: Schokolade
 latitude: 53.1703367
 longitude: 8.623080400000001
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Reeder-Bischoff-Straße"
 housenumber: 39

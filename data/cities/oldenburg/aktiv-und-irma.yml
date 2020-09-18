@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1090917
 longitude: 8.2094237
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Klingenbergstraße"
 housenumber: 1

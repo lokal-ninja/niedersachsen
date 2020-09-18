@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.5246762
 longitude: 8.073389800000001
-postcode: 26389
+postcode: "26389"
 city: Wilhelmshaven
 street: "An der Junkerei"
 housenumber: 18

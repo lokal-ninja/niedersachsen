@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0750553
 longitude: 9.3291413
-postcode: 31789
+postcode: "31789"
 city: Hameln
 street: "Werkstraße"
 housenumber: 17

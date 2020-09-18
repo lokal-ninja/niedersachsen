@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.676138300000005
 longitude: 7.9471604000000005
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Hasestraße"
 housenumber: 13

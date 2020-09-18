@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 52.6061635
 longitude: 8.3667113
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Steinstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2813498
 longitude: 9.514491300000001
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Wennigser Straße"
 housenumber: 88

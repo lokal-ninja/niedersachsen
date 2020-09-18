@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.635327000000004
 longitude: 10.067937500000001
-postcode: 29223
+postcode: "29223"
 city: Celle
 street: "Petersburgstraße"
 housenumber: 80

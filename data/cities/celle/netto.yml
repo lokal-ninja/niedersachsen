@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.638564200000005
 longitude: 10.093601900000001
-postcode: 29223
+postcode: "29223"
 city: Celle
 street: "Sprengerstraße"
 housenumber: 40

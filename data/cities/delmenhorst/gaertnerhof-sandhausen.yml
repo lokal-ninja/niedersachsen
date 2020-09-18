@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.094619300000005
 longitude: 8.646850500000001
-postcode: 27751
+postcode: "27751"
 city: Delmenhorst
 street: "Stedinger Landstraße"
 housenumber: 101

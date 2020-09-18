@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.3688002
 longitude: 10.7309088
-postcode: 38444
+postcode: "38444"
 city: Wolfsburg
 street: "Brandgehaege"
 housenumber: 3

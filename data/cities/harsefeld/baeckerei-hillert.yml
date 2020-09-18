@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.4623204
 longitude: 9.522617700000001
-postcode: 21698
+postcode: "21698"
 city: Harsefeld
 street: "Im Sande"
 housenumber: 84

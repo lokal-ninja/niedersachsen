@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.8091209
 longitude: 8.1170326
-postcode: 49692
+postcode: "49692"
 city: Cappeln (Oldenburg)
 street: "Tenstedter Straße"
 housenumber: 1

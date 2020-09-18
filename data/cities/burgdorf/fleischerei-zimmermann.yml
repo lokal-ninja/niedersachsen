@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4468091
 longitude: 10.0093536
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Marktstraße"
 housenumber: 17

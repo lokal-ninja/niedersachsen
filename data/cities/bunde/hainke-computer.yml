@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.1840264
 longitude: 7.268477300000001
-postcode: 26831
+postcode: "26831"
 city: Bunde
 street: "Bahnhofstraße"
 housenumber: 2

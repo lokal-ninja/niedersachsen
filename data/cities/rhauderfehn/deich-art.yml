@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.1391305
 longitude: 7.5859630000000005
-postcode: 26817
+postcode: "26817"
 city: Rhauderfehn
 street: "Am Deich"
 housenumber: 15

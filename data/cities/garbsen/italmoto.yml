@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 52.446601300000005
 longitude: 9.612111
-postcode: 30827
+postcode: "30827"
 city: Garbsen
 street: "Heinkelstraße"
 housenumber: 29

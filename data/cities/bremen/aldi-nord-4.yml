@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0577854
 longitude: 8.809309500000001
-postcode: 28201
+postcode: "28201"
 city: Bremen
 street: "Volkmannstraße"
 housenumber: 2

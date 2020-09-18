@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.535240200000004
 longitude: 9.9376031
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Burgstraße"
 housenumber: 38a

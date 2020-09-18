@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.426155200000004
 longitude: 9.4278867
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Lange Straße"
 housenumber: 10

@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 52.0107026
 longitude: 10.133209
-postcode: 31167
+postcode: "31167"
 city: Bockenem
 street: "Thornburyplatz"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.512485100000006
 longitude: 10.261391300000001
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 73

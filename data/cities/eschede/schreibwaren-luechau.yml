@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 52.7363671
 longitude: 10.233793
-postcode: 29348
+postcode: "29348"
 city: Eschede
 street: "Bahnhofstraße"
 housenumber: 13

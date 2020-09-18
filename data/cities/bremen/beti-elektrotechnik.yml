@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 53.071840200000004
 longitude: 8.870393400000001
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Neidenburger Straße"
 housenumber: 

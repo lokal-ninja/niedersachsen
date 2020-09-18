@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.22646640000001
 longitude: 10.1667321
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Schmiedestraße"
 housenumber: 1

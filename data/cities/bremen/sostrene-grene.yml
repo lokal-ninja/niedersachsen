@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.04919760000001
 longitude: 8.957741500000001
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

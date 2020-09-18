@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.9387151
 longitude: 8.4207632
-postcode: 27801
+postcode: "27801"
 city: Dötlingen
 street: "Wildeshauser Straße"
 housenumber: 8

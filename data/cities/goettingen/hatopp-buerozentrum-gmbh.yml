@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.5612654
 longitude: 9.9222553
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Reinhard-Rube-Straße"
 housenumber: 5

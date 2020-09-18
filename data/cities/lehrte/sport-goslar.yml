@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.3798662
 longitude: 9.9757575
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Burgdorfer Straße"
 housenumber: 47

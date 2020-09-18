@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 53.3843359
 longitude: 7.209339600000001
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Theodor-Storm-Straße"
 housenumber: 8

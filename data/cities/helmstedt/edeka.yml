@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.223777500000004
 longitude: 11.032471500000002
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Görlitzer Platz"
 housenumber: 1

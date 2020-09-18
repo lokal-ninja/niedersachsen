@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 52.321352000000005
 longitude: 9.2049413
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Obernstraße"
 housenumber: 25
 phone: "+49 5721 3575"
-opening_hours: ""
+opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-14:00"
 website: "https://www.uhren-werner.de"

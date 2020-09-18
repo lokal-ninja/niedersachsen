@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.5090786
 longitude: 10.260398100000002
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Steintorstraße"
 housenumber: 65

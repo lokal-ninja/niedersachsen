@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 53.2268297
 longitude: 7.451061
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Rathausstraße"
 housenumber: 12

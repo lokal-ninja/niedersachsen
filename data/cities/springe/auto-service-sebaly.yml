@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1721513
 longitude: 9.6535971
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Brückenstraße"
 housenumber: 1a

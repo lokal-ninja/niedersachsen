@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.0966755
 longitude: 11.092141400000001
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Lauben"
 housenumber: 1

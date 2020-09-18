@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.064037400000004
 longitude: 8.856369
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Im Suhrfelde"
 housenumber: 5

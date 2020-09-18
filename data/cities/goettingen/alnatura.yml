@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.534598200000005
 longitude: 9.9069122
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Salinenweg"
 housenumber: 1

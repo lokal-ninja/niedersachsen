@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.532417300000006
 longitude: 9.9292048
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Groner-Tor-Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.8956883
 longitude: 8.4352304
-postcode: 27793
+postcode: "27793"
 city: Wildeshausen
 street: "Westerstraße"
 housenumber: 27

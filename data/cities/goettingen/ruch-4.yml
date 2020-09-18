@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5346307
 longitude: 9.9368602
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Theaterstraße"
 housenumber: 6

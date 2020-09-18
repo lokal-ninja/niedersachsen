@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3154654
 longitude: 9.9704653
-postcode: 31319
+postcode: "31319"
 city: Sehnde
 street: "Peiner Straße"
 housenumber: 37c

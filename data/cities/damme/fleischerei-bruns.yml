@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.521430900000006
 longitude: 8.1986677
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Gartenstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.684040700000004
 longitude: 10.219626
-postcode: 37520
+postcode: "37520"
 city: Osterode
 street: "Osteroder Straße"
 housenumber: 22

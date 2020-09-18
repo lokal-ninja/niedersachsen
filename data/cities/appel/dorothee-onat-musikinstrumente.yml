@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 53.377875
 longitude: 9.7579501
-postcode: 21279
+postcode: "21279"
 city: Appel
 street: "Bullersbarg"
 housenumber: 3

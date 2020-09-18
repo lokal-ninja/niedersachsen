@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.1852576
 longitude: 8.2290632
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Wilhelmshavener Heerstraße"
 housenumber: 233

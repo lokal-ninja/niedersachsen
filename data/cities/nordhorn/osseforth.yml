@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4405073
 longitude: 7.0854527
-postcode: 48531
+postcode: "48531"
 city: Nordhorn
 street: "Lingener Straße"
 housenumber: 104

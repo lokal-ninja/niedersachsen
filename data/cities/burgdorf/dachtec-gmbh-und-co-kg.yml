@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.460742700000004
 longitude: 9.9942235
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Lise-Meitner-Straße"
 housenumber: 8

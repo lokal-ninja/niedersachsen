@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.713506100000004
 longitude: 10.523659100000001
-postcode: 37444
+postcode: "37444"
 city: Braunlage
 street: "Schützenstraße"
 housenumber: 9a

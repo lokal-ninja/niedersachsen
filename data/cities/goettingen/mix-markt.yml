@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 51.53284
 longitude: 9.8971123
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Backhausstraße"
 housenumber: 21
-phone: "+49 551 5096306"
+phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/62/"
+website: ""

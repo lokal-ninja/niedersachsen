@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2659615
 longitude: 8.0640219
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Neulandstraße"
 housenumber: 12

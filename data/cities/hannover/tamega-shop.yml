@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.3980801
 longitude: 9.7537689
-postcode: 30163
+postcode: "30163"
 city: Hannover
 street: "Lister Damm"
 housenumber: 13

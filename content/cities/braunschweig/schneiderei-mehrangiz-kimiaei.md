@@ -1,4 +1,4 @@
 ---
-title: "Schneiderei  Mehrangiz Kimiaei"
+title: "Schneiderei Mehrangiz Kimiaei"
 url: /braunschweig/schneiderei-mehrangiz-kimiaei/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.3837144
 longitude: 9.73583
-postcode: 30161
+postcode: "30161"
 city: Hannover
 street: "Hamburger Allee"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.541038400000005
 longitude: 7.9477142
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "Mühlenweg"
 housenumber: 4

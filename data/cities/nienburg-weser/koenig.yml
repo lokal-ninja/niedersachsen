@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.6427193
 longitude: 9.2081517
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Verdener Straße"
 housenumber: 2a
-phone: ""
-opening_hours: ""
+phone: "+49 5021 8602132"
+opening_hours: "Mo-Fr 10:00-18:00;Sa 10:00-16:00"
 website: ""

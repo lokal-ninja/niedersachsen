@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1201353
 longitude: 9.4259754
-postcode: 27356
+postcode: "27356"
 city: Rotenburg (Wümme)
 street: "Brockeler Straße"
 housenumber: 1

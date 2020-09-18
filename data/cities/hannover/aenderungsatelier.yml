@@ -3,10 +3,10 @@ type: node
 shop: Schneiderei
 latitude: 52.3631851
 longitude: 9.761176
-postcode: 
+postcode: ""
 city: Hannover
 street: "Tiestestraße"
 housenumber: 23
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 10:00-14:00"
 website: ""

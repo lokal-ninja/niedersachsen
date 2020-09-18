@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.3952709
 longitude: 8.1401532
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Obernstraße"
 housenumber: 10a

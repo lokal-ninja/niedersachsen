@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.4497408
 longitude: 10.580669
-postcode: 38550
+postcode: "38550"
 city: Isenbüttel
 street: "Malerstraße"
 housenumber: 18a

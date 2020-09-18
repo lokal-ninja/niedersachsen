@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.346551700000006
 longitude: 8.3574161
-postcode: 26939
+postcode: "26939"
 city: Ovelgönne
 street: "Neustädter Straße"
 housenumber: 40

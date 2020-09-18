@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.4885893
 longitude: 10.052796
-postcode: 37130
+postcode: "37130"
 city: Gleichen
 street: "Gelliehäuser Straße"
 housenumber: 1

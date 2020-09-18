@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.625854700000005
 longitude: 10.081042700000001
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Hehlentorstraße"
 housenumber: 17

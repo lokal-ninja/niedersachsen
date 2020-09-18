@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1753779
 longitude: 8.6238711
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Friedrich-Lürssen-Straße"
 housenumber: 17

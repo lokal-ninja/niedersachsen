@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.3247019
 longitude: 9.2046614
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Querstraße"
 housenumber: 13

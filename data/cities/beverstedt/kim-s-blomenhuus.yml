@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.3893628
 longitude: 8.7660487
-postcode: 27616
+postcode: "27616"
 city: Beverstedt
 street: "Hauptstraße"
 housenumber: 97

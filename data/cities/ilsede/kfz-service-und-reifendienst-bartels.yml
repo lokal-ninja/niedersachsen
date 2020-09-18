@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2541899
 longitude: 10.2460761
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Weststraße"
 housenumber: 10

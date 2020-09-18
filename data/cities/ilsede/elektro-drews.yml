@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.2597296
 longitude: 10.20551
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "An der Fuhse"
 housenumber: 26

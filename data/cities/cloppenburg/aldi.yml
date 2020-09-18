@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8360652
 longitude: 8.0224889
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Warthestraße"
 housenumber: 14 - 18

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.3930796
 longitude: 9.6850891
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Herrenhäuser Straße"
 housenumber: 65

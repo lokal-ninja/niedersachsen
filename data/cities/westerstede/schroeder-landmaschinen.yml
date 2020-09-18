@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.2653813
 longitude: 7.946846000000001
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Carl-Benz-Straße"
 housenumber: 1

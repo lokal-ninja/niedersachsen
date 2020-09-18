@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.466659
 longitude: 10.1893581
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Schapers Kamp"
 housenumber: 5

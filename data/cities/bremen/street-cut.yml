@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.107804
 longitude: 8.8526672
-postcode: 28359
+postcode: "28359"
 city: Bremen
 street: "Bibliothekstraße"
 housenumber: 3

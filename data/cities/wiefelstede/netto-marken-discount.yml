@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.2495813
 longitude: 8.1244185
-postcode: 26215
+postcode: "26215"
 city: Wiefelstede
 street: "Hauptstraße"
 housenumber: 49B

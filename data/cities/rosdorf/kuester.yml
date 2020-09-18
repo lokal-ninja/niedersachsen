@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.509325800000006
 longitude: 9.908222
-postcode: 
+postcode: ""
 city: Rosdorf
 street: "Rischenweg"
 housenumber: 4

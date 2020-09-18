@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.845463200000005
 longitude: 8.044250400000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Bahnhofstraße"
 housenumber: 6

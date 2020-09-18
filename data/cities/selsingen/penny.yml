@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3708145
 longitude: 9.2137205
-postcode: 27446
+postcode: "27446"
 city: Selsingen
 street: "Hauptstraße"
 housenumber: 28

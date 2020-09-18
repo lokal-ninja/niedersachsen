@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.073080000000004
 longitude: 8.8115393
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Marterburg"
 housenumber: 8

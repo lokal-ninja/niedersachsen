@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.489254700000004
 longitude: 8.5994153
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Am Lunedeich"
 housenumber: 209

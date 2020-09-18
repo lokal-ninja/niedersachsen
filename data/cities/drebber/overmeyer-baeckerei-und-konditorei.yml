@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6498633
 longitude: 8.4253999
-postcode: 49457
+postcode: "49457"
 city: Drebber
 street: "Dorfstraße"
 housenumber: 1

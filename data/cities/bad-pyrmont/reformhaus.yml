@@ -1,12 +1,12 @@
 id: 342925361
 type: node
 shop: Lebensmittel
-latitude: 51.9861115
-longitude: 9.2564496
-postcode: 31812
+latitude: 51.986110700000005
+longitude: 9.256386000000001
+postcode: "31812"
 city: Bad Pyrmont
 street: "Brunnenstraße"
-housenumber: 4
+housenumber: 3
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-14:00"
+website: "https://www.vita-nova.de/standorte/reformhaus-kaubisch/filialen/reformhaus-kaubisch-bad-pyrmont/"

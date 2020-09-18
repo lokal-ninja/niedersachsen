@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.51379480000001
 longitude: 9.955046900000001
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Hauptstraße"
 housenumber: 46

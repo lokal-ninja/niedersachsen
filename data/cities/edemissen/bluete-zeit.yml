@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.3829477
 longitude: 10.2585496
-postcode: 31234
+postcode: "31234"
 city: Edemissen
 street: "Hermann-Löns-Straße"
 housenumber: 1

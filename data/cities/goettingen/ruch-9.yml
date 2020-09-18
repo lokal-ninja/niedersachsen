@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5453588
 longitude: 9.9298515
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Weender Landstraße"
 housenumber: 59

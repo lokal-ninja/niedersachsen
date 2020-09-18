@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2086282
 longitude: 9.5549072
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Am Markt"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 53.028984900000005
 longitude: 8.9710195
-postcode: 28832
+postcode: "28832"
 city: Achim
 street: "Am Bakenberg"
 housenumber: 2

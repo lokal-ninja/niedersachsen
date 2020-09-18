@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 52.624608300000006
 longitude: 10.083529
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Rabengasse"
 housenumber: 8

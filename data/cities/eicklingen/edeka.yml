@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5463037
 longitude: 10.187174800000001
-postcode: 29358
+postcode: "29358"
 city: Eicklingen
 street: "Schmolkamp"
 housenumber: 56

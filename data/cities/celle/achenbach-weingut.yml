@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 52.608485400000006
 longitude: 10.032966400000001
-postcode: 29225
+postcode: "29225"
 city: Celle
 street: "Fuhrberger Straße"
 housenumber: 181

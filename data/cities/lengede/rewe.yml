@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.20797820000001
 longitude: 10.3019104
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Am Kreisel"
 housenumber: 

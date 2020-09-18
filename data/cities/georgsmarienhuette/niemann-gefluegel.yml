@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.1973531
 longitude: 8.086791700000001
-postcode: 49124
+postcode: "49124"
 city: Georgsmarienhütte
 street: "Heinrich-Schmedt-Straße"
 housenumber: 57

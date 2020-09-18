@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 53.0594449
 longitude: 9.1680119
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.5292188
 longitude: 9.9291339
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Wiesenstraße"
 housenumber: 16

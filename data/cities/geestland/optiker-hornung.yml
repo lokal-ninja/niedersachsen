@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.607810400000005
 longitude: 8.5955936
-postcode: 27607
+postcode: "27607"
 city: Geestland
 street: "Debstedter Straße"
 housenumber: 5e

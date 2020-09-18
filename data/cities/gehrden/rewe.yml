@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.316503700000005
 longitude: 9.5984528
-postcode: 30989
+postcode: "30989"
 city: Gehrden
 street: "Nordstraße"
 housenumber: 2

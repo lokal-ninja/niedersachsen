@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.4156721
 longitude: 9.702941500000001
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Beneckeallee"
 housenumber: 5

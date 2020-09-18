@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.2963243
 longitude: 9.498142000000001
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Karl-Benz-Straße"
 housenumber: 11

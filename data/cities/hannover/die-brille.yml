@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.3624237
 longitude: 9.7490588
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 55

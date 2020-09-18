@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 52.2102906
 longitude: 9.5413935
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Zum Ebersberg"
 housenumber: 2a

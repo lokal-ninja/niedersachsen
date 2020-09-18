@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 53.18164650000001
 longitude: 8.5728492
-postcode: 28779
+postcode: "28779"
 city: Bremen
 street: "Landrat-Christians-Straße"
 housenumber: 140

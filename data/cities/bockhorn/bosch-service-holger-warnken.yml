@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.386111500000005
 longitude: 8.010460100000001
-postcode: 26345
+postcode: "26345"
 city: Bockhorn
 street: "Am Geeschendamm"
 housenumber: 4

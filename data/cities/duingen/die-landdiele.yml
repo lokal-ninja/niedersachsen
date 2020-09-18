@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.004041
 longitude: 9.7022598
-postcode: 31089
+postcode: "31089"
 city: Duingen
 street: "Töpferstraße"
 housenumber: 20

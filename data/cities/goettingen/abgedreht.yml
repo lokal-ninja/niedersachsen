@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.532793500000004
 longitude: 9.9401214
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Lange-Geismar-Straße"
 housenumber: 5

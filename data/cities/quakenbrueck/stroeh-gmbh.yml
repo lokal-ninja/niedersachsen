@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.675574700000006
 longitude: 7.945367200000001
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Friedrichstraße"
 housenumber: 4

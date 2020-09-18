@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.3263618
 longitude: 8.4811172
-postcode: 26919
+postcode: "26919"
 city: Brake (Unterweser)
 street: "Breite Straße"
 housenumber: 41

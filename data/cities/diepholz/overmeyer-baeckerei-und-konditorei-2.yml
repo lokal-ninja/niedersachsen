@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.606817500000005
 longitude: 8.365837800000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Flöthestraße"
 housenumber: 43

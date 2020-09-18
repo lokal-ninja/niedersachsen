@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.864069300000004
 longitude: 9.5875217
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Bergstraße"
 housenumber: 8

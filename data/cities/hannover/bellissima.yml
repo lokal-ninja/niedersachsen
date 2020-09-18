@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.3962969
 longitude: 9.7663749
-postcode: 30177
+postcode: "30177"
 city: Hannover
 street: "Podbielskistraße"
 housenumber: 113

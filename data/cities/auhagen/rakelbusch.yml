@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.3936896
 longitude: 9.2860189
-postcode: 31553
+postcode: "31553"
 city: Auhagen
 street: "Auf dem Rähden"
 housenumber: 19a

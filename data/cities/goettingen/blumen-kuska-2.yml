@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.5480207
 longitude: 9.933971300000001
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Goßlerstraße"
 housenumber: 69

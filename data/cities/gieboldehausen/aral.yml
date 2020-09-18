@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.6156476
 longitude: 10.2185743
-postcode: 37434
+postcode: "37434"
 city: Gieboldehausen
 street: "Herzberger Landstraße"
 housenumber: 3

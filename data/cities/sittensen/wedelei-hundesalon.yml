@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.2823378
 longitude: 9.5056106
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Bahnhofstraße"
 housenumber: 23

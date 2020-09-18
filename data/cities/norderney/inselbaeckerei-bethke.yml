@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.7138889
 longitude: 7.1699111
-postcode: 26548
+postcode: "26548"
 city: Norderney
 street: "Birkenweg"
 housenumber: 27

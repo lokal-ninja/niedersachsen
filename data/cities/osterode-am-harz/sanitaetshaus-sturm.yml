@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.7267067
 longitude: 10.255955400000001
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Berliner Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.7952462
 longitude: 7.8608009
-postcode: 49688
+postcode: "49688"
 city: Lastrup
 street: "Vlämische Straße"
 housenumber: 5

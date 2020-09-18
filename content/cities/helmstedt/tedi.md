@@ -1,4 +1,4 @@
 ---
-title: "TEDI"
+title: "TEDi"
 url: /helmstedt/tedi/
 ---

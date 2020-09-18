@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2631322
 longitude: 10.5433704
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Kastanienallee"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.246377
 longitude: 10.816433100000001
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Schöppenstedter Straße"
 housenumber: 10

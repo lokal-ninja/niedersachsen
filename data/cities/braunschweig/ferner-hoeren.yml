@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.2642631
 longitude: 10.519576
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: ""
 housenumber: 

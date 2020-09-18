@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.363622500000005
 longitude: 9.8537166
-postcode: 30559
+postcode: "30559"
 city: Hannover
 street: "Eisteichweg"
 housenumber: 3

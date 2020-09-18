@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.394698000000005
 longitude: 8.1409454
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Obernstraße"
 housenumber: 19

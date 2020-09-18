@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 53.817835900000006
 longitude: 8.771812800000001
-postcode: 27478
+postcode: "27478"
 city: Cuxhaven
 street: "Binnemanns Teil"
 housenumber: 5

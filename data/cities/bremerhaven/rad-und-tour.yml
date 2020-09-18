@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5296491
 longitude: 8.6279529
-postcode: 27574
+postcode: "27574"
 city: Bremerhaven
 street: "Schiffdorfer Chaussee"
 housenumber: 192

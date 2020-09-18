@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 53.018073400000006
 longitude: 8.350216900000001
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Marktplatz"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 53.602918
 longitude: 7.285207400000001
-postcode: 26524
+postcode: "26524"
 city: Hage
 street: "Hauptstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.0456097
 longitude: 7.736997400000001
-postcode: 26683
+postcode: "26683"
 city: Saterland
 street: "Hauptstraße"
 housenumber: 55

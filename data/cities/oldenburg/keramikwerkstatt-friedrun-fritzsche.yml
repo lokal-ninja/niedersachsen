@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.159302100000005
 longitude: 8.2431006
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Großer Kuhlenweg"
 housenumber: 23

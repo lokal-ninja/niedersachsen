@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3618156
 longitude: 9.754033300000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Schlägerstraße"
 housenumber: 46

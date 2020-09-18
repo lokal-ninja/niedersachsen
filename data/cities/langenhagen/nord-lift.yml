@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 52.443316800000005
 longitude: 9.6920207
-postcode: 30855
+postcode: "30855"
 city: Langenhagen
 street: "Bayernstraße"
 housenumber: 35

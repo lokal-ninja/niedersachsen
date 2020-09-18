@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 52.43137230000001
 longitude: 10.577535800000001
-postcode: 38550
+postcode: "38550"
 city: Isenbüttel
 street: "Schulstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0792142
 longitude: 8.8053155
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Wegesende"
 housenumber: 8

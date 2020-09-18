@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.2582311
 longitude: 10.4120956
-postcode: 21339
+postcode: "21339"
 city: Lüneburg
 street: "Am Alten Eisenwerk"
 housenumber: 8

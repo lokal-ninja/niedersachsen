@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.985759
 longitude: 9.256478000000001
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "Brunnenstraße"
 housenumber: 43

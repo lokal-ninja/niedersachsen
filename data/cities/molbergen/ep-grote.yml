@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.83852520000001
 longitude: 7.8917191
-postcode: 49696
+postcode: "49696"
 city: Molbergen
 street: "Matrumer Weg"
 housenumber: 3

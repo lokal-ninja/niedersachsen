@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 52.426059300000006
 longitude: 9.423388600000001
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Bäckerstraße"
 housenumber: 7
-phone: ""
+phone: "+49 5031 14188"
 opening_hours: "Mo 14:30-18:00; We 14:30-18:00; Fr 09:00-13:00"
-website: ""
+website: "https://www.kniesick.de/"

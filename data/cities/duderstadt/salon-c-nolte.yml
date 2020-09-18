@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5118543
 longitude: 10.2609869
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Scharrenstraße"
 housenumber: 19

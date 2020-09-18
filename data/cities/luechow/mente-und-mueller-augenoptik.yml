@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.9674732
 longitude: 11.159573100000001
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 77

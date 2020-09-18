@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.383808300000005
 longitude: 9.7250136
-postcode: 30167
+postcode: "30167"
 city: Hannover
 street: "Nelkenstraße"
 housenumber: 22

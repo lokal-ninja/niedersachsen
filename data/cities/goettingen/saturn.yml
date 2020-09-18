@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.536543
 longitude: 9.9340296
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Weender Straße"
 housenumber: 75

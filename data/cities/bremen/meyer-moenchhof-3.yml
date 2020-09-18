@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0625634
 longitude: 8.808895600000001
-postcode: 28201
+postcode: "28201"
 city: Bremen
 street: "Buntentorsteinweg"
 housenumber: 171

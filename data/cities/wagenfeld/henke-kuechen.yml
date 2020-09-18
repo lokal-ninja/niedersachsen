@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.542578500000005
 longitude: 8.672024200000001
-postcode: 49419
+postcode: "49419"
 city: Wagenfeld
 street: "Lagerweg"
 housenumber: 18

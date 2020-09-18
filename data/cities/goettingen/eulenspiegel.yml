@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.534351
 longitude: 9.9336628
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Gotmarstraße"
 housenumber: 1

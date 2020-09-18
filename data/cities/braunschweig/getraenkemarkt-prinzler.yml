@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.329549300000004
 longitude: 10.5131379
-postcode: 38110
+postcode: "38110"
 city: Braunschweig
 street: "Aschenkamp"
 housenumber: 16a

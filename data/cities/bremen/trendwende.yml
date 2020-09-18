@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.067241700000004
 longitude: 8.7811468
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Neuenlander Straße"
 housenumber: 13-15

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.1240327
 longitude: 8.754328600000001
-postcode: 28239
+postcode: "28239"
 city: Bremen
 street: "Schwarzer Weg"
 housenumber: 40

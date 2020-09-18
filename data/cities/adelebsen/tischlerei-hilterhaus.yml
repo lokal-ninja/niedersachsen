@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.5817105
 longitude: 9.764421
-postcode: 37139
+postcode: "37139"
 city: Adelebsen
 street: "An der Rampe"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.0986301
 longitude: 11.0962355
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Münzstraße"
 housenumber: 1

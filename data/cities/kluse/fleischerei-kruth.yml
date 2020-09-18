@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.934091
 longitude: 7.3331423000000004
-postcode: 26892
+postcode: "26892"
 city: Kluse
 street: "Hauptstraße"
 housenumber: 50

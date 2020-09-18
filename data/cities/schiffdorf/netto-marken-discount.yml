@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 53.508367
 longitude: 8.792318400000001
-postcode: 27619
+postcode: "27619"
 city: Schiffdorf
 street: "Wesermünder Straße"
-housenumber: 
+housenumber: 54
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

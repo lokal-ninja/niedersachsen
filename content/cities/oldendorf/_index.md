@@ -1,6 +1,6 @@
 ---
 title: Oldendorf
 url: /oldendorf/
-latitude: 53.4415957
-longitude: 8.5152841
+latitude: 53.6121953
+longitude: 7.717296900000001
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.639242200000005
 longitude: 9.2071907
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Georgstraße"
 housenumber: 16

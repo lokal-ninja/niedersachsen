@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.962446
 longitude: 10.569471700000001
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Esterholzer Straße"
 housenumber: 26

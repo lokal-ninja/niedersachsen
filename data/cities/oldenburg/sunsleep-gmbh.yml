@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 53.1216057
 longitude: 8.2171813
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Cloppenburger Straße"
 housenumber: 168

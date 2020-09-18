@@ -1,12 +1,12 @@
-id: 2866627901
+id: 615224579
 type: node
 shop: Bäckerei
-latitude: 53.748744800000004
-longitude: 7.4817276
-postcode: 26465
+latitude: 53.7465661
+longitude: 7.4813296000000005
+postcode: "26465"
 city: Langeoog
-street: "Barkhausenstraße"
-housenumber: 22
+street: "Hauptstraße"
+housenumber: 17
 phone: ""
-opening_hours: "closed"
+opening_hours: "Mo-Su 07:00-18:00"
 website: ""

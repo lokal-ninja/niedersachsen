@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.2511243
 longitude: 10.801191300000001
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Buchenring"
 housenumber: 1

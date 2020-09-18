@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.5228917
 longitude: 8.6667963
-postcode: 27619
+postcode: "27619"
 city: Schiffdorf
 street: "Sellstedter Straße"
 housenumber: 56

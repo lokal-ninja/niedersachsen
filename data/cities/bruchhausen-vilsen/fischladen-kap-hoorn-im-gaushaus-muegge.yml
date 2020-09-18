@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.826783000000006
 longitude: 9.004347300000001
-postcode: 27305
+postcode: "27305"
 city: Bruchhausen-Vilsen
 street: "Am Marktplatz"
 housenumber: 13

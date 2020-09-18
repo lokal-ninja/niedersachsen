@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.5495091
 longitude: 8.5760777
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Hannastraße"
 housenumber: 18

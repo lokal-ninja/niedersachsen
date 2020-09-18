@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.1561807
 longitude: 9.9552332
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Bahnhofsallee"
 housenumber: 10

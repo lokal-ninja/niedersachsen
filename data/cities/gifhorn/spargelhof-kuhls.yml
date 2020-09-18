@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.489882
 longitude: 10.475023700000001
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Dorfstraße"
 housenumber: 12

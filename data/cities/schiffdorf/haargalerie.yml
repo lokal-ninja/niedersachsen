@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.534268600000004
 longitude: 8.6557771
-postcode: 27619
+postcode: "27619"
 city: Schiffdorf
 street: "Brameler Straße"
 housenumber: 19

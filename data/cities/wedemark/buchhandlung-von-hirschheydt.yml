@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.547852400000004
 longitude: 9.7378754
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Am Langen Felde"
 housenumber: 5-7

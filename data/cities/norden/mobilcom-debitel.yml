@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.595963600000005
 longitude: 7.2081971000000005
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Neuer Weg"
 housenumber: 122

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.3153869
 longitude: 9.7288113
-postcode: 30966
+postcode: "30966"
 city: Hemmingen
 street: "Göttinger Landstraße"
 housenumber: 81

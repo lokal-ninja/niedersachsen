@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.4347708
 longitude: 9.614969400000001
-postcode: 21641
+postcode: "21641"
 city: Apensen
 street: ""
 housenumber: 

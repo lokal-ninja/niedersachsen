@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2598502
 longitude: 7.932640900000001
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Am Esch"
 housenumber: 7

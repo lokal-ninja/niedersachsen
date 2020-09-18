@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.6383676
 longitude: 9.3716785
-postcode: 21714
+postcode: "21714"
 city: Hammah
 street: "Groß Sterneberger Straße"
 housenumber: 60

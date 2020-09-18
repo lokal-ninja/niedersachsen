@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.68546370000001
 longitude: 8.014912800000001
-postcode: 26434
+postcode: "26434"
 city: Wangerland
 street: "Am Tief"
 housenumber: 2

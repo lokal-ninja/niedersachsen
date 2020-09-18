@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.649495400000006
 longitude: 8.4253534
-postcode: 49457
+postcode: "49457"
 city: Drebber
 street: "Bremer Straße"
 housenumber: 8

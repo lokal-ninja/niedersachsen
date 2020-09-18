@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.4837083
 longitude: 8.6846589
-postcode: 27612
+postcode: "27612"
 city: Loxstedt
 street: "Lindenallee"
 housenumber: 73

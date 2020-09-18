@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.179591
 longitude: 10.3479645
-postcode: 21409
+postcode: "21409"
 city: Embsen
 street: "Bahnhofstraße"
 housenumber: 28

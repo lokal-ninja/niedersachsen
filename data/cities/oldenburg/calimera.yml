@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.141700300000004
 longitude: 8.2371203
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Stau"
 housenumber: 171

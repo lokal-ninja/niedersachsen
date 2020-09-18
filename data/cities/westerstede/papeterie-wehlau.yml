@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 53.256230900000006
 longitude: 7.9271659
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Poststraße"
 housenumber: 1

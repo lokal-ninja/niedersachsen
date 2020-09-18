@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.2772993
 longitude: 9.5151888
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Berliner Ring"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 52.263997100000005
 longitude: 10.518248400000001
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: ""
 housenumber: 

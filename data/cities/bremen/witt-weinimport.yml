@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.051282900000004
 longitude: 8.9679283
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Julius-Faucher-Straße"
 housenumber: 32

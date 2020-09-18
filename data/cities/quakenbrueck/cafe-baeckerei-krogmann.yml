@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.673639900000005
 longitude: 7.946026600000001
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Friedrichstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.464817700000005
 longitude: 10.20236
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Bentestraße"
 housenumber: 2

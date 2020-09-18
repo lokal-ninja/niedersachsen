@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.281153100000004
 longitude: 9.4960807
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Industriestraße"
 housenumber: 2

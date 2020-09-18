@@ -1,12 +1,12 @@
 id: 523977390
 type: node
 shop: Schreibwaren
-latitude: 52.9676228
-longitude: 11.1557969
-postcode: 29439
+latitude: 52.967599400000005
+longitude: 11.155795600000001
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 20
 phone: "+49 5841 5758"
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-18:00; 08:00-13:00; PH off"
 website: ""

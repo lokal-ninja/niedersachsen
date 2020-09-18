@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5866928
 longitude: 9.9289328
-postcode: 37120
+postcode: "37120"
 city: Bovenden
 street: "Südring"
 housenumber: 6a

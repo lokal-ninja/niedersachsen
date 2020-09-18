@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.196349500000004
 longitude: 10.3201227
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Am Bahnhof"
 housenumber: 28

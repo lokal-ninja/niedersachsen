@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.5480272
 longitude: 9.891590800000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Robert-Bosch-Breite"
 housenumber: 9

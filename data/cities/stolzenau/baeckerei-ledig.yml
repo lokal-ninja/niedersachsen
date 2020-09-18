@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.513418200000004
 longitude: 9.0766761
-postcode: 31592
+postcode: "31592"
 city: Stolzenau
 street: "Allee"
 housenumber: 12

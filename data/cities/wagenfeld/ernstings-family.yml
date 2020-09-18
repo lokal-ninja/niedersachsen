@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.552280100000004
 longitude: 8.5845359
-postcode: 49419
+postcode: "49419"
 city: Wagenfeld
 street: "Sparkassenweg"
 housenumber: 3

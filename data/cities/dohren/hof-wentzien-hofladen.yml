@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.303269900000004
 longitude: 9.7031714
-postcode: 21255
+postcode: "21255"
 city: Dohren
 street: "Hollenstedter Straße"
 housenumber: 2

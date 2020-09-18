@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0961105
 longitude: 10.026659
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Bispinger Straße"
 housenumber: 1

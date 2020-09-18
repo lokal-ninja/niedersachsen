@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.29133830000001
 longitude: 9.059525200000001
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Warbersche Straße"
 housenumber: 2

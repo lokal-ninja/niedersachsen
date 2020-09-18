@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.3244027
 longitude: 7.3463865
-postcode: 48499
+postcode: "48499"
 city: Salzbergen
 street: "Emsstraße"
 housenumber: 7a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:30-22:00"
 website: ""

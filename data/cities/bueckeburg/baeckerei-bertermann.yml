@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2623868
 longitude: 9.0378202
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Petzer Straße"
 housenumber: 6a

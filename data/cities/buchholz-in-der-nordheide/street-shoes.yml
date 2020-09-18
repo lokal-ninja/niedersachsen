@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.3272467
 longitude: 9.880241700000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Breite Straße"
 housenumber: 16

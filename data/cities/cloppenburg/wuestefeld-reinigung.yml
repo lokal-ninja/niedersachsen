@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.8408705
 longitude: 8.0455705
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Sevelter Straße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.673823600000006
 longitude: 7.9560886
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Josef-Vonier-Straße"
 housenumber: 1

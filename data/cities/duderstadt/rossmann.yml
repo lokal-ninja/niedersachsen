@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.5121229
 longitude: 10.256765600000001
-postcode: 37115
+postcode: "37115"
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 5

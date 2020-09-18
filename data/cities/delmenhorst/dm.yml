@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.030052000000005
 longitude: 8.661248200000001
-postcode: 27755
+postcode: "27755"
 city: Delmenhorst
 street: "Seestraße"
 housenumber: 5

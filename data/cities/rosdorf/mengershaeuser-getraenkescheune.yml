@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.4907161
 longitude: 9.8710894
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Lindenstraße"
 housenumber: 15

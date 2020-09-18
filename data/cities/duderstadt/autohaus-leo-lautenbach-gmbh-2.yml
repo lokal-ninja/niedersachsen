@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5179132
 longitude: 10.236302
-postcode: 37115
+postcode: "37115"
 city: Duderstadt
 street: "Max-Näder-Straße"
 housenumber: 12

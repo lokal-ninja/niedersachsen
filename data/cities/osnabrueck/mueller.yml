@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.274338400000005
 longitude: 8.046326200000001
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Große Straße"
 housenumber: 66

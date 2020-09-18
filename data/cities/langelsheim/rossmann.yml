@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.9339309
 longitude: 10.3492341
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Lange Straße"
 housenumber: 64

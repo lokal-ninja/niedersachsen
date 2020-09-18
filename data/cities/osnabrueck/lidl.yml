@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2473146
 longitude: 8.0633956
-postcode: 49082
+postcode: "49082"
 city: Osnabrück
 street: "Iburger Straße"
 housenumber: 225

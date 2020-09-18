@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.3597757
 longitude: 7.982544700000001
-postcode: 26345
+postcode: "26345"
 city: Bockhorn
 street: "Hauptstraße"
 housenumber: 68

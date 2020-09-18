@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.841759700000004
 longitude: 8.0538902
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Cappelner Straße"
 housenumber: 4

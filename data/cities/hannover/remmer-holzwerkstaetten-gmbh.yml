@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.398439700000004
 longitude: 9.7538666
-postcode: 30163
+postcode: "30163"
 city: Hannover
 street: "Lister Damm"
 housenumber: 17

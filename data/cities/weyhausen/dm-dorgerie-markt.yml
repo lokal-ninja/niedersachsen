@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.4632445
 longitude: 10.7238562
-postcode: 38554
+postcode: "38554"
 city: Weyhausen
 street: "An der Klanze"
 housenumber: 17a

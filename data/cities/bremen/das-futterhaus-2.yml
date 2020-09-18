@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.0808918
 longitude: 8.8742497
-postcode: 28329
+postcode: "28329"
 city: Bremen
 street: "In der Vahr"
 housenumber: 55

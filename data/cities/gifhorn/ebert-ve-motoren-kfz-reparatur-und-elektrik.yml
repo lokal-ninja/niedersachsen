@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.4708072
 longitude: 10.531972900000001
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Im Freitagsmoor"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 52.507826200000004
 longitude: 10.4809018
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Konrad-Beste-Weg"
 housenumber: 

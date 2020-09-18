@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.08633450000001
 longitude: 9.993038400000001
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Behringer Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.3754031
 longitude: 9.7004772
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 105

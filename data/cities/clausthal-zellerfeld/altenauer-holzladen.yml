@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 51.8036271
 longitude: 10.4473064
-postcode: 38707
+postcode: "38707"
 city: Clausthal-Zellerfeld
 street: "Markt"
 housenumber: 6

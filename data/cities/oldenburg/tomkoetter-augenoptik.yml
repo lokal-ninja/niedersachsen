@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.142109000000005
 longitude: 8.2122395
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Sartoriusgang"
 housenumber: 14

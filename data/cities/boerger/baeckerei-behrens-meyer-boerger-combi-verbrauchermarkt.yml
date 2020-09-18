@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.9148864
 longitude: 7.5424354000000005
-postcode: 26904
+postcode: "26904"
 city: Börger
 street: "Breddenberger Straße"
 housenumber: 12

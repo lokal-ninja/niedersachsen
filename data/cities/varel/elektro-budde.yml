@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.3963807
 longitude: 8.1376308
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Hindenburgstraße"
 housenumber: 1b

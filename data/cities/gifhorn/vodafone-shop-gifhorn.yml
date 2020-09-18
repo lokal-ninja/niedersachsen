@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.484309200000006
 longitude: 10.5464447
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Steinweg"
 housenumber: 66

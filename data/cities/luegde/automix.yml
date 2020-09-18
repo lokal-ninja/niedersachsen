@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.9664835
 longitude: 9.2536471
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Pyrmonter Straße"
 housenumber: 45 a

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.3504573
 longitude: 9.405852600000001
-postcode: 31555
+postcode: "31555"
 city: Suthfeld
 street: "Auf der Riehe"
 housenumber: 25

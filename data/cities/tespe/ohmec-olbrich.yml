@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.4059723
 longitude: 10.4019893
-postcode: 21395
+postcode: "21395"
 city: Tespe
 street: "Im Westerfeld"
 housenumber: 6

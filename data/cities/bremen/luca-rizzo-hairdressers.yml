@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0746984
 longitude: 8.8074101
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Marktstraße"
 housenumber: 7

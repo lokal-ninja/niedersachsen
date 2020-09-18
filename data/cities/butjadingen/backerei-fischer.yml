@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.590040300000005
 longitude: 8.2772703
-postcode: 26969
+postcode: "26969"
 city: Butjadingen
 street: "Ruhwarder Straße"
 housenumber: 16

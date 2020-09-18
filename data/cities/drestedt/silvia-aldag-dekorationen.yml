@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.3290954
 longitude: 9.7676168
-postcode: 21279
+postcode: "21279"
 city: Drestedt
 street: "Trelder Straße"
 housenumber: 26a

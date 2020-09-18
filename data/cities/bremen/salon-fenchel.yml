@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.067805
 longitude: 8.9340632
-postcode: 28325
+postcode: "28325"
 city: Bremen
 street: "Ellener Dorfstraße"
 housenumber: 1

@@ -1,12 +1,12 @@
 id: 2670179278
 type: node
 shop: Blumen
-latitude: 53.2926051
-longitude: 8.985548300000001
-postcode: 27726
+latitude: 53.292602
+longitude: 8.985375600000001
+postcode: "27726"
 city: Worpswede
 street: "Heudorfer Straße"
 housenumber: 16
-phone: "+49 47 94 - 244"
-opening_hours: "Mo-Su"
-website: "http://www.huettenbusch.de/Accessoires-Blumen-Geschenke.240.0.html"
+phone: "+49 4794244"
+opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:00-13:00,Su 10:00-12:00"
+website: ""

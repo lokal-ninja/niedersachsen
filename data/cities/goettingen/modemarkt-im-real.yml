@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.560946200000004
 longitude: 9.927662900000001
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Große Breite"
 housenumber: 6

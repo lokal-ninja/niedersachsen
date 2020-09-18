@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.549657100000005
 longitude: 9.9342223
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Theodor-Heuss-Straße"
 housenumber: 66

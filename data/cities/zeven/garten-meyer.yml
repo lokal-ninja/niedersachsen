@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.2946554
 longitude: 9.2766613
-postcode: 27404
+postcode: "27404"
 city: Zeven
 street: "Kattrepel"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6326308
 longitude: 9.9372077
-postcode: 
+postcode: ""
 city: Nörten-Hardenberg
 street: "Lange Straße"
 housenumber: 14

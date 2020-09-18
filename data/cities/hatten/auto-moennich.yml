@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.057087
 longitude: 8.268597100000001
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Gewerbehof"
 housenumber: 1-3

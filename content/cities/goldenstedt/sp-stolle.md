@@ -1,4 +1,4 @@
 ---
-title: "SP.Stolle"
+title: "SP. Stolle"
 url: /goldenstedt/sp-stolle/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.16916500000001
 longitude: 9.4880888
-postcode: 27383
+postcode: "27383"
 city: Scheeßel
 street: "Vahlder Weg"
 housenumber: 1

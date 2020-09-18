@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 51.531072
 longitude: 9.9333107
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Düstere Straße"
 housenumber: 9

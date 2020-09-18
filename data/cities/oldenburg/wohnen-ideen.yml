@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.1422724
 longitude: 8.2123402
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Herbartgang"
 housenumber: 12

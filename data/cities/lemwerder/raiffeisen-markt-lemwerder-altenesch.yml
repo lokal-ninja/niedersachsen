@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.13657490000001
 longitude: 8.6151526
-postcode: 27809
+postcode: "27809"
 city: Lemwerder
 street: "Werner-von-Siemens-Straße"
 housenumber: 13

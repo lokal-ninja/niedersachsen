@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.8058739
 longitude: 9.1422585
-postcode: 27318
+postcode: "27318"
 city: Hoya
 street: "Lange Straße"
 housenumber: 14

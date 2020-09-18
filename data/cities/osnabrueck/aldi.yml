@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2954183
 longitude: 8.016374
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Pagenstecherstraße"
 housenumber: 144d

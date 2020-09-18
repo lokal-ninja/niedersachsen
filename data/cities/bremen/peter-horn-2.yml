@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.072926700000004
 longitude: 8.856579400000001
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Bismarckstraße"
 housenumber: 444

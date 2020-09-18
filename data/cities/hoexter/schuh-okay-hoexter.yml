@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.776588000000004
 longitude: 9.381279000000001
-postcode: 37671
+postcode: "37671"
 city: Höxter
 street: "Grubestraße"
 housenumber: 2

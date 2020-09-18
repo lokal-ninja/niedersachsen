@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.65284200000001
 longitude: 9.2190162
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Celler Straße"
 housenumber: 3

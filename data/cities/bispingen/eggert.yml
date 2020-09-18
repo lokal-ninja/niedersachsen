@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.0833865
 longitude: 9.997886600000001
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Hauptstraße"
 housenumber: 9

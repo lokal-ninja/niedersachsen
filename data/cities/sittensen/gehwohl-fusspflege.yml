@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.2966185
 longitude: 9.5069993
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Nütteler Weg"
 housenumber: 4

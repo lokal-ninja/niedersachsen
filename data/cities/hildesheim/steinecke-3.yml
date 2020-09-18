@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.146689
 longitude: 9.9525102
-postcode: 
+postcode: ""
 city: Hildesheim
 street: "Wollenweberstraße"
 housenumber: 35

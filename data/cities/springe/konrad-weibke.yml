@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.209341800000004
 longitude: 9.5560911
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Zum Niederntor"
 housenumber: 20-22

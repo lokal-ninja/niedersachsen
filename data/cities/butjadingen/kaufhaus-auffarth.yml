@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 53.575519
 longitude: 8.3615679
-postcode: 26969
+postcode: "26969"
 city: Butjadingen
 street: "Butjadinger Straße"
 housenumber: 69

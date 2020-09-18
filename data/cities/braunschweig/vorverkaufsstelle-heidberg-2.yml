@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.2301536
 longitude: 10.5353847
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Erfurtplatz"
 housenumber: 1

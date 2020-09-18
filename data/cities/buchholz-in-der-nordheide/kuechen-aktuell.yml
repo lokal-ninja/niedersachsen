@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 53.3491397
 longitude: 9.867554100000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Maurerstraße"
 housenumber: 38

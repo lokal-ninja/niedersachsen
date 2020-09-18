@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.4171527
 longitude: 7.7400273
-postcode: 26639
+postcode: "26639"
 city: Wiesmoor
 street: "Hauptstraße"
 housenumber: 157

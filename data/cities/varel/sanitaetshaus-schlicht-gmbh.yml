@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 53.39476440000001
 longitude: 8.1408702
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Obernstraße"
 housenumber: 17

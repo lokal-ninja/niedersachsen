@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.0980993
 longitude: 8.789012000000001
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Waller Heerstraße"
 housenumber: 33

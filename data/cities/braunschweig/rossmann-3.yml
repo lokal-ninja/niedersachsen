@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.248631
 longitude: 10.4798177
-postcode: 38120
+postcode: "38120"
 city: Braunschweig
 street: "Elbestraße"
 housenumber: 21-23

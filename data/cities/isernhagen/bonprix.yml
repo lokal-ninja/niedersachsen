@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.4260797
 longitude: 9.83389
-postcode: 30916
+postcode: "30916"
 city: Isernhagen
 street: "Opelstraße"
 housenumber: 20

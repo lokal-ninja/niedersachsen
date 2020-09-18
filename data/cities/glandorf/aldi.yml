@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0947253
 longitude: 8.002394
-postcode: 49219
+postcode: "49219"
 city: Glandorf
 street: "Auf dem Haarkamp"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.809407900000004
 longitude: 8.2423185
-postcode: 49685
+postcode: "49685"
 city: Emstek
 street: "Hansestraße"
 housenumber: 27

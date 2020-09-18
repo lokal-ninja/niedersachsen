@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.393599
 longitude: 8.015631500000001
-postcode: 26345
+postcode: "26345"
 city: Bockhorn
 street: "Lange Straße"
 housenumber: 7

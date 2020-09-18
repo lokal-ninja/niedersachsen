@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.5348577
 longitude: 9.8939974
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Heinrich-Warnecke-Straße"
 housenumber: 2a

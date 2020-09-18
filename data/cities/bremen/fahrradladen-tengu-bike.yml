@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.0627702
 longitude: 8.8826137
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Zum Sebaldsbrücker Bahnhof"
 housenumber: 1

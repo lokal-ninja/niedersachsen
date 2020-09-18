@@ -1,12 +1,12 @@
-id: 2621252114
+id: 2621251950
 type: node
 shop: Kunst
-latitude: 53.0726044
-longitude: 8.8101824
-postcode: 28195
+latitude: 53.072905500000005
+longitude: 8.809598600000001
+postcode: "28195"
 city: Bremen
-street: "Spiekerbartstraße"
-housenumber: 1-2
+street: "Schnoor"
+housenumber: 16
 phone: ""
-opening_hours: ""
-website: "www.schnoor-speichergalerie.de"
+opening_hours: "Mo-Sa 11:00-18:00; Su 11:00-16:00"
+website: ""

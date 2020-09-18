@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.401650000000004
 longitude: 9.657933400000001
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Quedlinburger Straße"
 housenumber: 5

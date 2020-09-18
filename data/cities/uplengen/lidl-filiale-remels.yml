@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.306814300000006
 longitude: 7.7536817000000005
-postcode: 26670
+postcode: "26670"
 city: Uplengen
 street: "Ostertorstraße"
 housenumber: 75

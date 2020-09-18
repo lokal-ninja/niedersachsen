@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 52.4565081
 longitude: 9.1500558
-postcode: 31547
+postcode: "31547"
 city: Rehburg-Loccum
 street: "Leeser Straße"
 housenumber: 15
 phone: "+49 5766 96080"
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-12:30, 14:30-17:00; Sa 10:00-12:30"
 website: "http://www.schumacherloccum.de/"

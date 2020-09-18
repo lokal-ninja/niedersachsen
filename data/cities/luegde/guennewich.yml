@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.9103514
 longitude: 9.289213700000001
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Schierbruch"
 housenumber: 18

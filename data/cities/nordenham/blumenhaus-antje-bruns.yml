@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.4828338
 longitude: 8.473255100000001
-postcode: 26954
+postcode: "26954"
 city: Nordenham
 street: "Mittelweg"
 housenumber: 48

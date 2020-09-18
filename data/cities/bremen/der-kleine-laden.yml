@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.0795961
 longitude: 8.8134463
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Schillerstraße"
 housenumber: 5

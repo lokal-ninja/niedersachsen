@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.5224716
 longitude: 8.1939303
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Mühlenstraße"
 housenumber: 19

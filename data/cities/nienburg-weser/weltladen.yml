@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.639014700000004
 longitude: 9.2064021
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Alte Schulstraße"
 housenumber: 5

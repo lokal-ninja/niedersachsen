@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.22559450000001
 longitude: 10.2332452
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Bierstraße"
 housenumber: 9

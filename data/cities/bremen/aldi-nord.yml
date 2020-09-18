@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.0762538
 longitude: 8.8108778
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Violenstraße"
 housenumber: 24

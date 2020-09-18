@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.551033800000006
 longitude: 9.8824386
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Hans-Böckler-Straße"
 housenumber: 4

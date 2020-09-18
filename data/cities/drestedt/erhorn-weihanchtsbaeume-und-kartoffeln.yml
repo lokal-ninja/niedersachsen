@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.327947200000004
 longitude: 9.7712211
-postcode: 21279
+postcode: "21279"
 city: Drestedt
 street: "Triftweg"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 53.2493637
 longitude: 8.1930584
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Raiffeisenstraße"
 housenumber: 11

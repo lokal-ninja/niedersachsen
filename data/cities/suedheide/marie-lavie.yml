@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.8314043
 longitude: 10.0911104
-postcode: 29320
+postcode: "29320"
 city: Südheide
 street: "Lotharstraße"
 housenumber: 6

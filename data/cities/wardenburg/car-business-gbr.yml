@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.0527498
 longitude: 8.207623700000001
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Moorbäksweg"
 housenumber: 134

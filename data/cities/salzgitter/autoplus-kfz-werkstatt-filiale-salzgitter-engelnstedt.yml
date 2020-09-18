@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.172071200000005
 longitude: 10.351430200000001
-postcode: 38229
+postcode: "38229"
 city: Salzgitter
 street: "Peiner Straße"
 housenumber: 246

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.091350600000005
 longitude: 8.7950703
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Norderneystraße"
 housenumber: 7

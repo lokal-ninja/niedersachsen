@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 52.3142969
 longitude: 9.5970624
-postcode: 30989
+postcode: "30989"
 city: Gehrden
 street: "Kleine Bergstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.540801800000004
 longitude: 8.5830038
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Fährstraße"
 housenumber: 1

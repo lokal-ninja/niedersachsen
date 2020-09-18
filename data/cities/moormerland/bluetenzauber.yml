@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.3192698
 longitude: 7.5277811
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Rudolfswieke"
 housenumber: 43

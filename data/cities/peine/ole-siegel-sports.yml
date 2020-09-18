@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.32416490000001
 longitude: 10.2289844
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Marktstraße"
 housenumber: 24

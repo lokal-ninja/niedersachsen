@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.624197800000005
 longitude: 9.600773400000001
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Neustädter Straße"
 housenumber: 13

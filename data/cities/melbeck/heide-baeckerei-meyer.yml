@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.178033000000006
 longitude: 10.413689000000002
-postcode: 21406
+postcode: "21406"
 city: Melbeck
 street: "Uelzener Straße"
 housenumber: 27

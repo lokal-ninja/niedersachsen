@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 52.353453200000004
 longitude: 9.462232
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Am Deichfeld"
 housenumber: 27

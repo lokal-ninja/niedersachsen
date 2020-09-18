@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.16553450000001
 longitude: 9.975607400000001
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Bavenstedter Straße"
 housenumber: 90

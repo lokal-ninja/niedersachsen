@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.3294519
 longitude: 9.223707000000001
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Vornhäger Straße"
 housenumber: 61

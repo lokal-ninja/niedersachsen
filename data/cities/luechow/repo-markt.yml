@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.9564509
 longitude: 11.170033400000001
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Rue de Céret"
 housenumber: 1

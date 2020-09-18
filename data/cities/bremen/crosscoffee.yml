@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 53.116034000000006
 longitude: 8.744054100000001
-postcode: 28237
+postcode: "28237"
 city: Bremen
 street: "Use Akschen"
 housenumber: 91

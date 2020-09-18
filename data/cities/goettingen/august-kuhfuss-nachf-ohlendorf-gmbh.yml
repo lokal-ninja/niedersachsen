@@ -3,7 +3,7 @@ type: way
 shop: Gasflaschen
 latitude: 51.541070600000005
 longitude: 9.9016933
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Industriestraße"
 housenumber: 16

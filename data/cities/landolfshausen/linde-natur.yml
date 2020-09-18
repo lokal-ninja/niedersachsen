@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 51.529603900000005
 longitude: 10.0637474
-postcode: 37136
+postcode: "37136"
 city: Landolfshausen
 street: "Kirchweg"
 housenumber: 1

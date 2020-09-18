@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.581552200000004
 longitude: 8.634784100000001
-postcode: 27619
+postcode: "27619"
 city: Schiffdorf
 street: "Zur Hohen Lieth"
 housenumber: 11

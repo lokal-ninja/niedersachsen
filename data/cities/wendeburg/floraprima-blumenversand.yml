@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.375826800000006
 longitude: 10.407053900000001
-postcode: 38176
+postcode: "38176"
 city: Wendeburg
 street: "Didderser Straße"
 housenumber: 32

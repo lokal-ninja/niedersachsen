@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 52.464226200000006
 longitude: 10.2023592
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Burgdorfer Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.9794434
 longitude: 8.747745100000001
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Spohnberg"
 housenumber: 

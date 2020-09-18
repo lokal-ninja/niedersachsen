@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.1832301
 longitude: 10.4945789
-postcode: 38239
+postcode: "38239"
 city: Salzgitter
 street: "Guldener Kamp"
 housenumber: 46

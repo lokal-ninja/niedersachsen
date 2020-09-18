@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1507349
 longitude: 9.9514267
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Altpetristraße"
 housenumber: 1

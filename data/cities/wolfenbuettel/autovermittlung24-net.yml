@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.164675
 longitude: 10.518427200000001
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Frankfurter Straße"
 housenumber: 5

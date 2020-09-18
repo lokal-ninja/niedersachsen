@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.155479400000004
 longitude: 10.3287317
-postcode: 38226
+postcode: "38226"
 city: Salzgitter
 street: "Chemnitzer Straße"
 housenumber: 

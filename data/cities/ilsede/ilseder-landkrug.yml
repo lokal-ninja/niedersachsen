@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.2627607
 longitude: 10.1946572
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "Gerhard-Lukas-Straße"
 housenumber: 57

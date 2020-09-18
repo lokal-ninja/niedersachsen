@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.3211511
 longitude: 8.3582166
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Kuhweg"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.4231598
 longitude: 10.3249007
-postcode: 21423
+postcode: "21423"
 city: Drage
 street: "Schwinder Straße"
 housenumber: 55

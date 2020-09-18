@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.8784069
 longitude: 9.0595817
-postcode: 27327
+postcode: "27327"
 city: Martfeld
 street: "Bremer Straße"
 housenumber: 20

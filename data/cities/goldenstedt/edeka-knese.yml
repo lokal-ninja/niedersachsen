@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7890462
 longitude: 8.4341363
-postcode: 49424
+postcode: "49424"
 city: Goldenstedt
 street: "Zur Lieth"
 housenumber: 6

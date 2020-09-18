@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 53.150544100000005
 longitude: 8.2277202
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Klosterstraße"
 housenumber: 6

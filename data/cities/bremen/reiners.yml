@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 53.0625592
 longitude: 8.879614400000001
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Quintschlag"
 housenumber: 18/20

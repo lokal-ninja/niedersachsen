@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.500956
 longitude: 7.2271722
-postcode: 49835
+postcode: "49835"
 city: Wietmarschen
 street: "Hauptstraße"
 housenumber: 84

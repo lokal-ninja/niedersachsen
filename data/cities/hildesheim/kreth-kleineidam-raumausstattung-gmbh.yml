@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 52.1279352
 longitude: 9.9451564
-postcode: 31139
+postcode: "31139"
 city: Hildesheim
 street: "Kurt-Schumacher-Straße"
 housenumber: 27a

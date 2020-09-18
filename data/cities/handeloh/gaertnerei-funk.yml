@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.2648828
 longitude: 9.8677919
-postcode: 21256
+postcode: "21256"
 city: Handeloh
 street: "Im Dorf"
 housenumber: 50

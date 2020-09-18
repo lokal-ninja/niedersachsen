@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.549696000000004
 longitude: 8.579559900000001
-postcode: 27576
+postcode: "27576"
 city: Bremerhaven
 street: "Hafenstraße"
 housenumber: 3

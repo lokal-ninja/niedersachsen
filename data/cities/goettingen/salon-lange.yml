@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.562824000000006
 longitude: 9.9322759
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Hannoversche Straße"
 housenumber: 132

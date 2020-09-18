@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.732118
 longitude: 10.233975000000001
-postcode: 29348
+postcode: "29348"
 city: Eschede
 street: "Celler Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.072472100000006
 longitude: 8.8283258
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Vor dem Steintor"
 housenumber: 94-96

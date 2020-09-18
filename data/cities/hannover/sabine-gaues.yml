@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.359619
 longitude: 9.755334000000001
-postcode: 
+postcode: ""
 city: Hannover
 street: "Rehbergstraße"
 housenumber: 5

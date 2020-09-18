@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.5722536
 longitude: 7.070819
-postcode: 49828
+postcode: "49828"
 city: Georgsdorf
 street: "Adorfer Straße"
 housenumber: 8

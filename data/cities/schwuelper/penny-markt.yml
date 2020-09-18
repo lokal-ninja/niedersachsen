@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3574209
 longitude: 10.431851700000001
-postcode: 38179
+postcode: "38179"
 city: Schwülper
 street: "Schloßstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 53.617633000000005
 longitude: 9.3655263
-postcode: 21714
+postcode: "21714"
 city: Hammah
 street: "Bahnhofstraße"
 housenumber: 47

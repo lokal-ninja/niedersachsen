@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.706031200000005
 longitude: 10.0031912
-postcode: 
+postcode: ""
 city: Northeim
 street: "Breite Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.4114152
 longitude: 9.7516297
-postcode: 30179
+postcode: "30179"
 city: Hannover
 street: "Vahrenheider Markt"
 housenumber: 12

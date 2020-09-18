@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.344284
 longitude: 10.294441
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Eilhart-Von-Oberg-Straße"
 housenumber: 25

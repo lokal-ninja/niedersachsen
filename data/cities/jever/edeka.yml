@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.570115400000006
 longitude: 7.8890902
-postcode: 26441
+postcode: "26441"
 city: Jever
 street: "Adolf-Ahlers-Straße"
 housenumber: 3

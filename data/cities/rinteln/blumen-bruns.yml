@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.172957600000004
 longitude: 9.154806
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Fährweg"
 housenumber: 3

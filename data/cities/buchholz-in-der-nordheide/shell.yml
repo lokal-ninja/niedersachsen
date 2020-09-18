@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.3084591
 longitude: 9.802603600000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Hannoversche Straße"
 housenumber: 1

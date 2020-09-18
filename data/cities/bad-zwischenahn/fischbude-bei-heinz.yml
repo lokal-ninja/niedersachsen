@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.183268000000005
 longitude: 8.0114278
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "In der Horst"
 housenumber: 14

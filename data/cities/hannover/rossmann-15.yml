@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3673585
 longitude: 9.719877700000001
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Deisterstraße"
 housenumber: 9

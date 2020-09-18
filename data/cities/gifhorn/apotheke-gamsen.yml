@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 52.513934500000005
 longitude: 10.5400343
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Hamburger Straße"
 housenumber: 5a

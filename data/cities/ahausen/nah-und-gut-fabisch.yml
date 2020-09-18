@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.060696500000006
 longitude: 9.312666
-postcode: 27367
+postcode: "27367"
 city: Ahausen
 street: "Hauptstraße"
 housenumber: 30

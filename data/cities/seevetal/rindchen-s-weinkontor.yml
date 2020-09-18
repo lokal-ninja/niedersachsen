@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 53.40524370000001
 longitude: 9.9800371
-postcode: 21218
+postcode: "21218"
 city: Seevetal
 street: "Hittfelder Landstraße"
 housenumber: 19

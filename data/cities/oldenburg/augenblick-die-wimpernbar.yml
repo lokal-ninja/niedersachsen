@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.1387597
 longitude: 8.213483700000001
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Markt"
 housenumber: 22

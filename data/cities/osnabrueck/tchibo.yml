@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.274304300000004
 longitude: 8.0476431
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Große Straße"
 housenumber: 21

@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 51.66025380000001
 longitude: 9.6282124
-postcode: 37170
+postcode: "37170"
 city: Uslar
 street: "Wiesenstraße"
 housenumber: 27a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

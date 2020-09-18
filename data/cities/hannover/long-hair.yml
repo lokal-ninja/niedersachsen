@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.420154800000006
 longitude: 9.799122200000001
-postcode: 30659
+postcode: "30659"
 city: Hannover
 street: "Kurze-Kamp-Straße"
 housenumber: 1d

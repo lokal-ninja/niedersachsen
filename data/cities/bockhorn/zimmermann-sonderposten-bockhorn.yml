@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.390253200000004
 longitude: 8.0340889
-postcode: 26345
+postcode: "26345"
 city: Bockhorn
 street: "Südstraße"
 housenumber: 1

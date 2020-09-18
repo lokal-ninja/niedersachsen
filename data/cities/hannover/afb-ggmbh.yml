@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.407004
 longitude: 9.703612600000001
-postcode: 30165
+postcode: "30165"
 city: Hannover
 street: "Meelbaumstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3974605
 longitude: 9.6390475
-postcode: 30926
+postcode: "30926"
 city: Seelze
 street: "Im Sande"
 housenumber: 41

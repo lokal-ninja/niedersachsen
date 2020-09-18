@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.3481261
 longitude: 8.017948200000001
-postcode: 49134
+postcode: "49134"
 city: Wallenhorst
 street: "Große Straße"
 housenumber: 6

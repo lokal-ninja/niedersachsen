@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.549697
 longitude: 8.574912000000001
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Zeppelinstraße"
 housenumber: 

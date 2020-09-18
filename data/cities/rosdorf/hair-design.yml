@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.509568
 longitude: 9.9090463
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Rischenweg"
 housenumber: 5

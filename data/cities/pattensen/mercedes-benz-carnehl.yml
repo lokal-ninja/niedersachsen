@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.264884
 longitude: 9.772419900000001
-postcode: 30982
+postcode: "30982"
 city: Pattensen
 street: "Johann-Egestorff-Straße"
 housenumber: 1

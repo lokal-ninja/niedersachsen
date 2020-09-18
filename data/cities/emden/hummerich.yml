@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.3683047
 longitude: 7.1896183
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Ubierstraße"
 housenumber: 9

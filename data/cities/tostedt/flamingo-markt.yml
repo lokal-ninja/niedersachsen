@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 53.278789200000006
 longitude: 9.715009400000001
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Bahnhofstraße"
 housenumber: 20

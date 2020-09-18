@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.1258916
 longitude: 8.902456800000001
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Borgfelder Heerstraße"
 housenumber: 49

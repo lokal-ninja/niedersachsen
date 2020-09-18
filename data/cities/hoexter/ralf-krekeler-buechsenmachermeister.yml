@@ -3,7 +3,7 @@ type: way
 shop: Waffen
 latitude: 51.7725385
 longitude: 9.380528400000001
-postcode: 37671
+postcode: "37671"
 city: Höxter
 street: "Stummrigestraße"
 housenumber: 23

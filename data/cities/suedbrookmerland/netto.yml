@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.4840876
 longitude: 7.3741487
-postcode: 26624
+postcode: "26624"
 city: Südbrookmerland
 street: "Handelsring"
 housenumber: 1

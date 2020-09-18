@@ -3,9 +3,9 @@ type: node
 shop: Reisebüro
 latitude: 53.396147500000005
 longitude: 8.1364629
-postcode: 26316
+postcode: "26316"
 city: Varel
-street: "Schlossstraße"
+street: "Schloßstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 51.979371300000004
 longitude: 9.284478400000001
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "An der Schwage"
 housenumber: 1

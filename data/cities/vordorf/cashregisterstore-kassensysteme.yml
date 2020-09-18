@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.362872800000005
 longitude: 10.5261791
-postcode: 38533
+postcode: "38533"
 city: Vordorf
 street: "Am Stadtweg"
 housenumber: 8

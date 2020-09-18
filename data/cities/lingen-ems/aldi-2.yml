@@ -1,12 +1,12 @@
-id: 730732953
-type: way
+id: 1141277212
+type: node
 shop: Supermarkt
-latitude: 52.5074861
-longitude: 7.322599
-postcode: 49809
+latitude: 52.5216105
+longitude: 7.331430200000001
+postcode: "49809"
 city: Lingen (Ems)
-street: "Rheiner Straße"
-housenumber: 110
+street: "Friedrichstraße"
+housenumber: 15
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: ""
 website: ""

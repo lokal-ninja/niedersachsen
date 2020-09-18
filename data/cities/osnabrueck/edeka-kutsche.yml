@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2944783
 longitude: 8.012700800000001
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Natruper Straße"
 housenumber: 233

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.469791
 longitude: 10.2133547
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Gifhorner Straße"
 housenumber: 18

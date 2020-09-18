@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 53.6988746
 longitude: 7.6957735000000005
-postcode: 26427
+postcode: "26427"
 city: Neuharlingersiel
 street: "Nordseestraße"
 housenumber: 4

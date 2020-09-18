@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 52.546342900000006
 longitude: 9.726381700000001
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Kaltenweider Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.5473033
 longitude: 8.579973500000001
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Deichstraße"
 housenumber: 89

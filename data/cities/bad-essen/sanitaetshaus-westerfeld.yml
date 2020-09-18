@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.3195082
 longitude: 8.342444500000001
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Lindenstraße"
 housenumber: 32b

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.3898391
 longitude: 9.745543000000001
-postcode: 30163
+postcode: "30163"
 city: Hannover
 street: "Jakobistraße"
 housenumber: 23

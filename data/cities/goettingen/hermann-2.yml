@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.53464090000001
 longitude: 9.9449155
-postcode: 37085
+postcode: "37085"
 city: Göttingen
 street: "Herzberger Landstraße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.2641427
 longitude: 10.5385259
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Giersbergstraße"
 housenumber: 1

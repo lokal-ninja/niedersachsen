@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.369115
 longitude: 9.750294
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Marienstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5324126
 longitude: 9.9301204
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Groner-Tor-Straße"
 housenumber: 24

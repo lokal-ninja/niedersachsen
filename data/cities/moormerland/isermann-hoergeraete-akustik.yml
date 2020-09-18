@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.3078073
 longitude: 7.483309500000001
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Königsstraße"
 housenumber: 75

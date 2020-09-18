@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.658635700000005
 longitude: 9.630218900000001
-postcode: 37170
+postcode: "37170"
 city: Uslar
 street: "Wiesenstraße"
 housenumber: 15

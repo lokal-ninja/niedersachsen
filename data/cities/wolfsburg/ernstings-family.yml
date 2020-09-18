@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.420070200000005
 longitude: 10.714988
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Schulzen Hof"
 housenumber: 12

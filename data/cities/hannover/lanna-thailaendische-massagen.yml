@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.364625000000004
 longitude: 9.7559284
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Stolzestraße"
 housenumber: 61

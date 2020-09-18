@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.486950300000004
 longitude: 10.546309
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Steinweg"
 housenumber: 22

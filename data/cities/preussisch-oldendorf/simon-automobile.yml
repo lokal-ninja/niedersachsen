@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.307126800000006
 longitude: 8.4806626
-postcode: 32361
+postcode: "32361"
 city: Preußisch Oldendorf
 street: "Am Bodenbach"
 housenumber: 1

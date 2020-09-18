@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4419258
 longitude: 10.0143108
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Immenser Straße"
 housenumber: 6

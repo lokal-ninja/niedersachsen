@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 53.13370930000001
 longitude: 8.191009600000001
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Hauptstraße"
 housenumber: 92

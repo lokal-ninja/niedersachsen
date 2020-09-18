@@ -3,10 +3,10 @@ type: node
 shop: Sanitätshaus
 latitude: 52.187851200000004
 longitude: 9.080055
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Weserstraße"
-housenumber: 
+housenumber: 14
 phone: ""
 opening_hours: ""
 website: ""

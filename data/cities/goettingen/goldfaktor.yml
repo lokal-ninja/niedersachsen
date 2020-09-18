@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.532757600000004
 longitude: 9.936936000000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Rote Straße"
 housenumber: 29

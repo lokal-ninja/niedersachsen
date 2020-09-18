@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.5203062
 longitude: 7.318906200000001
-postcode: 49808
+postcode: "49808"
 city: Lingen (Ems)
 street: "Lookenstraße"
 housenumber: 22

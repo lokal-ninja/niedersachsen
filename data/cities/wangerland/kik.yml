@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.665019300000004
 longitude: 7.912261300000001
-postcode: 26434
+postcode: "26434"
 city: Wangerland
 street: "Goethestraße"
 housenumber: 2

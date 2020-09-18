@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.173408900000005
 longitude: 8.067492600000001
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Feldlinie"
 housenumber: 19

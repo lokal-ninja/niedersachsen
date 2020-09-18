@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.836843300000005
 longitude: 10.682656300000001
-postcode: 29389
+postcode: "29389"
 city: Bad Bodenteich
 street: "Neustädter Straße"
 housenumber: 29

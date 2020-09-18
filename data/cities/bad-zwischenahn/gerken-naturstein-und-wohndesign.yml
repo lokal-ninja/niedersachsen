@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.1602934
 longitude: 7.996343700000001
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Edewechter Straße"
 housenumber: 24

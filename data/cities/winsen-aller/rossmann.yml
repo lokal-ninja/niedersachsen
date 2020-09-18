@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.680662100000006
 longitude: 9.9092483
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Poststraße"
 housenumber: 13

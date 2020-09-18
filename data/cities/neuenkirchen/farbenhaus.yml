@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.035348400000004
 longitude: 9.708712400000001
-postcode: 29643
+postcode: "29643"
 city: Neuenkirchen
 street: "Bahnhofstraße"
 housenumber: 

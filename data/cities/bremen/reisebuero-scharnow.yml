@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.0746417
 longitude: 8.8075489
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Marktstraße"
 housenumber: 8

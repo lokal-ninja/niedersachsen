@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.319513300000004
 longitude: 8.3409698
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Lindenstraße"
 housenumber: 24

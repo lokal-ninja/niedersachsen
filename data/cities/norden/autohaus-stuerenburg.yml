@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.568514
 longitude: 7.240970000000001
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Südring"
 housenumber: 2

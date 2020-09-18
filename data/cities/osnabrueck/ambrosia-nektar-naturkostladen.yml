@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.273637
 longitude: 8.0489181
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Öwer de Hase"
 housenumber: 7

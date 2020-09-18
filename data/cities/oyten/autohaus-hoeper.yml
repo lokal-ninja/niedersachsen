@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.0606291
 longitude: 9.0219135
-postcode: 28876
+postcode: "28876"
 city: Oyten
 street: "Hauptstraße"
 housenumber: 54

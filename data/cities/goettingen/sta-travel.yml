@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.5345747
 longitude: 9.9358179
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Theaterstraße"
 housenumber: 26

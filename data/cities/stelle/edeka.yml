@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3849188
 longitude: 10.1052266
-postcode: 21435
+postcode: "21435"
 city: Stelle
 street: "Harburger Straße"
 housenumber: 22

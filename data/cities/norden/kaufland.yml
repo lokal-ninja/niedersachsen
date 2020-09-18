@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5908395
 longitude: 7.216024900000001
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Bahnhofstraße"
 housenumber: 1a

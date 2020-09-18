@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.630509700000005
 longitude: 9.2160945
-postcode: 31582
+postcode: "31582"
 city: Nienburg
 street: "Hannoversche Straße"
 housenumber: 56A

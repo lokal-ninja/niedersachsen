@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.5467012
 longitude: 9.7367665
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Am Sande"
 housenumber: 1

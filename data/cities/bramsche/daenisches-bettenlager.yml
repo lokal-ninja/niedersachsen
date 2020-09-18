@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.401988700000004
 longitude: 7.9985736
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Engterstraße"
 housenumber: 26a

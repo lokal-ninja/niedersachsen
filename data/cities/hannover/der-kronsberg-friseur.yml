@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3377179
 longitude: 9.834281500000001
-postcode: 30539
+postcode: "30539"
 city: Hannover
 street: "Wülferoder Straße"
 housenumber: 40

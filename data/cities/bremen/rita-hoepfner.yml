@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1762753
 longitude: 8.6245879
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Heinrich-Oebker-Straße"
 housenumber: 7

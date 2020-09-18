@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8171843
 longitude: 8.9936269
-postcode: 21785
+postcode: "21785"
 city: Belum
 street: "Cuxhavener Straße"
 housenumber: 16

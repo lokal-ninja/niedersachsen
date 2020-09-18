@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.388733
 longitude: 9.814751300000001
-postcode: 30627
+postcode: "30627"
 city: Hannover
 street: "Rotekreuzstraße"
 housenumber: 12

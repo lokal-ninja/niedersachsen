@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3767471
 longitude: 9.7995131
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Berckhusenstraße"
 housenumber: 95

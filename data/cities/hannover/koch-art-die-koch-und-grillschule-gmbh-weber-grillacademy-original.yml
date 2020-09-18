@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.363881400000004
 longitude: 9.764732500000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Anna-Zammert-Straße"
 housenumber: 34

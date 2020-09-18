@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.001701600000004
 longitude: 9.4364114
-postcode: 31860
+postcode: "31860"
 city: Emmerthal
 street: "Thingstraße"
 housenumber: 10

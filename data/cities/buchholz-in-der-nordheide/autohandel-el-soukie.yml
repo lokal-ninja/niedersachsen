@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.3483747
 longitude: 9.866310700000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Maurerstraße"
 housenumber: 36

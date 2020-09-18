@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.110117
 longitude: 9.798276300000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Am Bahnhof"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.7424321
 longitude: 8.8100711
-postcode: 21776
+postcode: "21776"
 city: Wanna
 street: "Landesstraße"
 housenumber: 46

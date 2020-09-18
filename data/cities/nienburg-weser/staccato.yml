@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.639788700000004
 longitude: 9.206151100000001
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Lange Straße"
 housenumber: 48

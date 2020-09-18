@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.7306852
 longitude: 8.2894463
-postcode: 49377
+postcode: "49377"
 city: Vechta
 street: "Große Straße"
 housenumber: 115

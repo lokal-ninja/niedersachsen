@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.578082900000005
 longitude: 9.729427300000001
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Wasserwerkstraße"
 housenumber: 2

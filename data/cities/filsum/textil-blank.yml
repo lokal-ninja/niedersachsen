@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.267116
 longitude: 7.6565460000000005
-postcode: 26849
+postcode: "26849"
 city: Filsum
 street: "Hauptstraße"
 housenumber: 68

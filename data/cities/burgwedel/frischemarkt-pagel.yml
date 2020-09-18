@@ -1,12 +1,12 @@
-id: 3743083725
-type: node
+id: 370608716
+type: way
 shop: Supermarkt
-latitude: 52.5643795
-longitude: 9.835071300000001
-postcode: 30938
+latitude: 52.564551
+longitude: 9.8347425
+postcode: "30938"
 city: Burgwedel
-street: "Mellendorfer Str."
-housenumber: 36a
+street: "Mellendorfer Straße"
+housenumber: 36A
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-19:00"
 website: "https://frischmarkt-pagel.de/"

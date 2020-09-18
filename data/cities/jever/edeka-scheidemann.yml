@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.57363470000001
 longitude: 7.8981867
-postcode: 26441
+postcode: "26441"
 city: Jever
 street: "Lindenbaumstraße"
 housenumber: 3

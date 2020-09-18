@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.439940400000005
 longitude: 10.841139100000001
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "An der Meine"
 housenumber: 8;8A

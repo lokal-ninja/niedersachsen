@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.427303
 longitude: 10.7910679
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Porschestraße"
 housenumber: 3

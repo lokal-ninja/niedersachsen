@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0812545
 longitude: 8.8752349
-postcode: 28329
+postcode: "28329"
 city: Bremen
 street: "In der Vahr"
 housenumber: 51

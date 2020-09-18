@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.3713241
 longitude: 7.2063728000000005
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Neutorstraße"
 housenumber: 78

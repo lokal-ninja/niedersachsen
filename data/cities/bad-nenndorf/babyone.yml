@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 52.337561900000004
 longitude: 9.402570500000001
-postcode: 31542
+postcode: "31542"
 city: Bad Nenndorf
 street: "Auf dem Wachtlande"
 housenumber: 2

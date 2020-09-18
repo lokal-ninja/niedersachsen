@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.5495054
 longitude: 9.9079514
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Königsallee"
 housenumber: 249

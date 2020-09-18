@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9794374
 longitude: 9.284462300000001
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "An der Schwage"
 housenumber: 1

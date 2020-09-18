@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.0482109
 longitude: 10.5392369
-postcode: 29576
+postcode: "29576"
 city: Barum
 street: "Dorfstraße"
 housenumber: 26

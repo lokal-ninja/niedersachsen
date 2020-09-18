@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.053496200000005
 longitude: 7.4155369
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Lerchenweg"
 housenumber: 8

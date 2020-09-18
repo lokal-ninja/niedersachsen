@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.3085144
 longitude: 9.8030807
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Hannoversche Straße"
 housenumber: 1

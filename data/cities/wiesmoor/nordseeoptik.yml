@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.418226600000004
 longitude: 7.7415389
-postcode: 26639
+postcode: "26639"
 city: Wiesmoor
 street: "Hauptstraße"
 housenumber: 145

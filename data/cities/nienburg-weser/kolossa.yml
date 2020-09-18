@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.6389885
 longitude: 9.2086734
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Georgstraße"
 housenumber: 35

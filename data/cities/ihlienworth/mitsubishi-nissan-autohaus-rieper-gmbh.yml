@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.737828900000004
 longitude: 8.9283915
-postcode: 21775
+postcode: "21775"
 city: Ihlienworth
 street: "Zum Schönenfelde"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.9675537
 longitude: 9.2531823
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Siemensstraße"
 housenumber: 34

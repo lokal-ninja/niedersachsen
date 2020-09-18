@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.4973456
 longitude: 10.761345700000001
-postcode: 38477
+postcode: "38477"
 city: Jembke
 street: "Hauptstraße"
 housenumber: 42

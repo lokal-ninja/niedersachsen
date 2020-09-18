@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.5405461
 longitude: 8.589632700000001
-postcode: 27570
+postcode: "27570"
 city: Bremerhaven
 street: "Elbestraße"
 housenumber: 

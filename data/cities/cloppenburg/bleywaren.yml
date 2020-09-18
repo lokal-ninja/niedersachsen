@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 52.8462699
 longitude: 8.0427405
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Mühlenstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.21918410000001
 longitude: 7.473410800000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Osseweg"
 housenumber: 87

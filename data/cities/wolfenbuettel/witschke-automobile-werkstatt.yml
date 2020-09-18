@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.156624400000005
 longitude: 10.4955245
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Heinrich-Eberhardt-Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.353514100000005
 longitude: 9.2906457
-postcode: 31698
+postcode: "31698"
 city: Lindhorst
 street: "Gewerbestraße"
 housenumber: 6

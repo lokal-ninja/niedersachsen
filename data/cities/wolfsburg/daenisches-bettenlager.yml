@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.3686202
 longitude: 10.7282785
-postcode: 38444
+postcode: "38444"
 city: Wolfsburg
 street: "Brandgehaege"
 housenumber: 5

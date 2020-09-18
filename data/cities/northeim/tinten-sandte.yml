@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.697662
 longitude: 9.9944827
-postcode: 37154
+postcode: "37154"
 city: Northeim
 street: "Eichstätte"
 housenumber: 10-12

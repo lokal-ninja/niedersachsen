@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0336118
 longitude: 8.8327798
-postcode: 28277
+postcode: "28277"
 city: Bremen
 street: "Alfred-Faust-Straße"
 housenumber: 7

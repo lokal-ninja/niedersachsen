@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1866501
 longitude: 8.485279700000001
-postcode: 27804
+postcode: "27804"
 city: Berne
 street: "Weserstraße"
 housenumber: 30

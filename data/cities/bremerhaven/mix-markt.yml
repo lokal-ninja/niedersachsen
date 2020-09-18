@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.590835600000005
 longitude: 8.6196123
-postcode: 27578
+postcode: "27578"
 city: Bremerhaven
 street: "Wilhelm-Leuschner-Straße"
 housenumber: 7

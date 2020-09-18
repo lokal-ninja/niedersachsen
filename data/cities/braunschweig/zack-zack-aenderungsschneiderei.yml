@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.2568731
 longitude: 10.5326827
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Campestraße"
 housenumber: 17

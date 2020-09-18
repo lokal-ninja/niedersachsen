@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.606703800000005
 longitude: 6.8526066000000005
-postcode: 49824
+postcode: "49824"
 city: Emlichheim
 street: "Dorfstraße"
 housenumber: 28

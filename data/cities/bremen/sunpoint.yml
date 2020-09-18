@@ -3,7 +3,7 @@ type: node
 shop: Solarium
 latitude: 53.045102400000005
 longitude: 8.8482322
-postcode: 28279
+postcode: "28279"
 city: Bremen
 street: "Ernst-Buchholz-Straße"
 housenumber: 11

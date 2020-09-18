@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2170702
 longitude: 10.641101800000001
-postcode: 38173
+postcode: "38173"
 city: Sickte
 street: "Tiefe Straße"
 housenumber: 8

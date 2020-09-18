@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.13373970000001
 longitude: 8.2028031
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Hauptstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2889701
 longitude: 8.0228412
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Natruper Straße"
 housenumber: 142A

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.262455800000005
 longitude: 10.192089900000001
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "Gerhard-Lukas-Straße"
 housenumber: 65

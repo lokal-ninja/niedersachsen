@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.2729347
 longitude: 8.0678658
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Franz-Lenz-Straße"
 housenumber: 11

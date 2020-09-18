@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.5376757
 longitude: 7.593884
-postcode: 26607
+postcode: "26607"
 city: Aurich
 street: "Hengstforderweg"
 housenumber: 2

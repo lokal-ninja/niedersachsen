@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.392595400000005
 longitude: 7.2127622
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Klaus-Groth-Straße"
 housenumber: 6

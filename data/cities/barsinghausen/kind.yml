@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.302559800000004
 longitude: 9.4616337
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Marktstraße"
 housenumber: 28

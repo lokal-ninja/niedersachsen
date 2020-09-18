@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.176504800000004
 longitude: 8.226865700000001
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Weißenmoorstraße"
 housenumber: 28-32

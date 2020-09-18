@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 52.320543
 longitude: 10.229812800000001
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Gröpern"
 housenumber: 17

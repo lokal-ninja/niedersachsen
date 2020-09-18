@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5316011
 longitude: 9.933289400000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Düstere Straße"
 housenumber: 15

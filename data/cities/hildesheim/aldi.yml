@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.162946000000005
 longitude: 9.964460800000001
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Drispenstedter Straße"
 housenumber: 2

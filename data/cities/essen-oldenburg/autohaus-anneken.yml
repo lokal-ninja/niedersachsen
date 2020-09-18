@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.715932
 longitude: 7.9391176
-postcode: 49632
+postcode: "49632"
 city: Essen (Oldenburg)
 street: "Lange Straße"
 housenumber: 89

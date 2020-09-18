@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.51191
 longitude: 9.4761728
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Rudolf-Diesel-Ring"
 housenumber: 34

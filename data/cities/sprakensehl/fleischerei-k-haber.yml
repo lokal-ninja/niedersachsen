@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.7647345
 longitude: 10.491806
-postcode: 29365
+postcode: "29365"
 city: Sprakensehl
 street: "Auermühler Weg"
 housenumber: 5

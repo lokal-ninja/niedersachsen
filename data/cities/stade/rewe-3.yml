@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.582110400000005
 longitude: 9.499315600000001
-postcode: 21680
+postcode: "21680"
 city: Stade
 street: "Heidbecker Weg"
 housenumber: 5

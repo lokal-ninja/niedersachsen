@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.1139548
 longitude: 9.1406747
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: "Am Damm"
 housenumber: 17

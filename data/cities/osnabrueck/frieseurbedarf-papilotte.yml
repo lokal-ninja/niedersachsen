@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 52.2721941
 longitude: 8.048960300000001
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Johannisstraße"
 housenumber: 67
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
 website: ""

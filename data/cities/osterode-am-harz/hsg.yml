@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.7230028
 longitude: 10.2599604
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Herzberger Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.66378400000001
 longitude: 9.575569400000001
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Junkernstraße"
 housenumber: 1

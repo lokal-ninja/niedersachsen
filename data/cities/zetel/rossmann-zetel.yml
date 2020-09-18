@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.416324200000005
 longitude: 7.9724716
-postcode: 26340
+postcode: "26340"
 city: Zetel
 street: "Bahnhofstraße"
 housenumber: 21

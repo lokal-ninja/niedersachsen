@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.36822960000001
 longitude: 7.205842100000001
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Zwischen Beiden Sielen"
 housenumber: 3

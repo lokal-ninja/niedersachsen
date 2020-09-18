@@ -3,7 +3,7 @@ type: way
 shop: Jalousien
 latitude: 52.265033900000006
 longitude: 10.372181600000001
-postcode: 38159
+postcode: "38159"
 city: Vechelde
 street: "An der Feuerwache"
 housenumber: 9

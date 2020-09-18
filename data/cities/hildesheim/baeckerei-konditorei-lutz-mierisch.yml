@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.135387
 longitude: 9.97085
-postcode: 31141
+postcode: "31141"
 city: Hildesheim
 street: "Scharnhorststraße"
 housenumber: 1

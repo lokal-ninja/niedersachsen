@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.1062603
 longitude: 8.2281677
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Osnabrücker Straße"
 housenumber: 118

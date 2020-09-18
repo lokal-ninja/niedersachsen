@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.08868390000001
 longitude: 11.0842746
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Lüchower Straße"
 housenumber: 80

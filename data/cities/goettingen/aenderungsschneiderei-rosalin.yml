@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.5308269
 longitude: 9.934601800000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Nikolaistraße"
 housenumber: 7

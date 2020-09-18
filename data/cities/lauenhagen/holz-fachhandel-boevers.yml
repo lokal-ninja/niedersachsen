@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 52.364689500000004
 longitude: 9.2166829
-postcode: 31714
+postcode: "31714"
 city: Lauenhagen
 street: "Hülshagen"
 housenumber: 28

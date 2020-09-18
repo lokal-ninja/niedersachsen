@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4995277
 longitude: 9.1252023
-postcode: 31633
+postcode: "31633"
 city: Leese
 street: "Alter Hoop"
 housenumber: 42

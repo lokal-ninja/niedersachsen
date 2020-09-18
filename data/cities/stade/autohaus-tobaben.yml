@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.602066300000004
 longitude: 9.4854125
-postcode: 21680
+postcode: "21680"
 city: Stade
 street: "Altländer Straße"
 housenumber: 9-11

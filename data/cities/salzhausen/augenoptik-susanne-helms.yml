@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 53.225469700000005
 longitude: 10.1665829
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Eyendorfer Straße"
 housenumber: 5

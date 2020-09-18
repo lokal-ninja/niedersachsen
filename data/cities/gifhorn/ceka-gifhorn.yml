@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.4841635
 longitude: 10.546816100000001
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Steinweg"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.3738941
 longitude: 10.7231503
-postcode: 19258
+postcode: "19258"
 city: Boizenburg/Elbe
 street: "Markt"
 housenumber: 8

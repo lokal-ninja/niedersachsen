@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.2731087
 longitude: 10.5298192
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Pockelsstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.588580300000004
 longitude: 9.4620162
-postcode: 21680
+postcode: "21680"
 city: Stade
 street: "Dankersstraße"
 housenumber: 78

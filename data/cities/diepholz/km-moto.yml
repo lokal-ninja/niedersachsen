@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 52.607714200000004
 longitude: 8.3783189
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Grafenstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.8878088
 longitude: 10.5579877
-postcode: 38667
+postcode: "38667"
 city: Bad Harzburg
 street: "Am Güterbahnhof"
 housenumber: 6

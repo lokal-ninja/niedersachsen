@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.4694398
 longitude: 7.3075068000000005
-postcode: 26624
+postcode: "26624"
 city: Südbrookmerland
 street: "Gewerbestraße"
 housenumber: 14

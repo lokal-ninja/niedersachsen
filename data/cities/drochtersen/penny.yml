@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.7104172
 longitude: 9.3825383
-postcode: 21706
+postcode: "21706"
 city: Drochtersen
 street: "Sietwender Straße"
 housenumber: 13 - 15

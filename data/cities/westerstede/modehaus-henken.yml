@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.256666900000006
 longitude: 7.9276439000000005
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Peterstraße"
 housenumber: 6

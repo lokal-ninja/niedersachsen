@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.1025131
 longitude: 8.880279100000001
-postcode: 28359
+postcode: "28359"
 city: Bremen
 street: "Gerold-Janssen-Straße"
 housenumber: 2a

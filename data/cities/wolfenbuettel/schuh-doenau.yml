@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.163034200000006
 longitude: 10.5395242
-postcode: 38300
+postcode: "38300"
 city: Wolfenbüttel
 street: "Kreuzstraße"
 housenumber: 14c

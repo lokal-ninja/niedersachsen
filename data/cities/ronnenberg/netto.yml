@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3169072
 longitude: 9.6486503
-postcode: 30952
+postcode: "30952"
 city: Ronnenberg
 street: "Normannische Straße"
 housenumber: 2

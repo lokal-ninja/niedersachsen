@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.0731528
 longitude: 8.8087245
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Stavendamm"
 housenumber: 14

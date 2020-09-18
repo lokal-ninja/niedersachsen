@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.1024174
 longitude: 9.3559301
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Bäckerstraße"
 housenumber: 44

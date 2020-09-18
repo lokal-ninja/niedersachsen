@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.4721246
 longitude: 7.483519800000001
-postcode: 26603
+postcode: "26603"
 city: Aurich
 street: "Norderstraße"
 housenumber: 32

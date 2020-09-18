@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.2278352
 longitude: 11.0076075
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Neumärker Straße"
 housenumber: 28

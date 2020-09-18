@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 52.3116933
 longitude: 10.4994142
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Hansestraße"
 housenumber: 30

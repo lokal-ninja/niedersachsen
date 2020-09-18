@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.251373900000004
 longitude: 10.814126700000001
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Wallstraße"
 housenumber: 15

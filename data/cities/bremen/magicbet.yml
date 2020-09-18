@@ -3,7 +3,7 @@ type: node
 shop: Spielkasino
 latitude: 53.0594559
 longitude: 8.886018100000001
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Hemelinger Bahnhofstraße"
 housenumber: 25

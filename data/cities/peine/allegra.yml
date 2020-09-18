@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.322915200000004
 longitude: 10.2257709
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Breite Straße"
 housenumber: 1

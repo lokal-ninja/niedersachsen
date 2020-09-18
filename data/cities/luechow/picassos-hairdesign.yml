@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.967662700000005
 longitude: 11.1526943
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0559394
 longitude: 9.9016699
-postcode: 31079
+postcode: "31079"
 city: Sibbesse
 street: "Lindenhof"
 housenumber: 4

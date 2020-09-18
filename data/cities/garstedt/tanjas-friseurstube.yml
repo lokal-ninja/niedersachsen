@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.293621300000005
 longitude: 10.1433067
-postcode: 21441
+postcode: "21441"
 city: Garstedt
 street: "Bahnhofstraße"
 housenumber: 79

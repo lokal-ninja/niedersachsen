@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.368177900000006
 longitude: 7.2040496
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Neuer Markt"
 housenumber: 10

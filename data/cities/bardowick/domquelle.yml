@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.2958153
 longitude: 10.3809755
-postcode: 21357
+postcode: "21357"
 city: Bardowick
 street: "Vor der Westermarsch"
 housenumber: 3

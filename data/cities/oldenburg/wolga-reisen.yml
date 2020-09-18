@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 53.1513131
 longitude: 8.217121
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Nadorster Straße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.2865996
 longitude: 9.8712891
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Buchholzer Landstraße"
 housenumber: 61

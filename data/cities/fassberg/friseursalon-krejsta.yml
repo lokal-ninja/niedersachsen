@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.899521400000005
 longitude: 10.166814
-postcode: 29328
+postcode: "29328"
 city: Faßberg
 street: "Hasenheide"
 housenumber: 54

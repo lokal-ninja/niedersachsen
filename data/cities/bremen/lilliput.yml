@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.0728062
 longitude: 8.8099345
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Schnoor"
 housenumber: 11

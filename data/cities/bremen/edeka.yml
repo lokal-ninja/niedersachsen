@@ -1,12 +1,12 @@
-id: 368323388
+id: 236491409
 type: way
 shop: Supermarkt
-latitude: 53.1737035
-longitude: 8.6807227
-postcode: 28717
+latitude: 53.1728803
+longitude: 8.7026672
+postcode: "28717"
 city: Bremen
-street: "Charlotte-Wolff-Allee"
-housenumber: 10
+street: "Bremerhavener Heerstrasse"
+housenumber: 46
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 08:00-21; PH off"
 website: ""

@@ -1,12 +1,12 @@
 id: 3599263922
 type: node
-shop: Spirituosen
+shop: Wein
 latitude: 52.266332600000005
 longitude: 10.536584000000001
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Kasernenstraße"
 housenumber: 34
-phone: ""
+phone: "+49 531 2349040"
 opening_hours: "Mo-Th 12:00-20:00; Fr-Sa 10:00-20:00; PH off"
-website: "https://wein-atelier.de/"
+website: "https://www.wein-atelier.de/"

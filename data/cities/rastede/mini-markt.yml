@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.2472325
 longitude: 8.197892000000001
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Anton-Günther-Straße"
 housenumber: 1a

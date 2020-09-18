@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.3358591
 longitude: 9.7735921
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "An der Wollebahn"
 housenumber: 3

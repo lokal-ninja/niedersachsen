@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.464812300000006
 longitude: 10.2031422
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Kaiserstraße"
 housenumber: 3

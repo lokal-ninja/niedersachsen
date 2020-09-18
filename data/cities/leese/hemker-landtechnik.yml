@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.5050382
 longitude: 9.115366400000001
-postcode: 31633
+postcode: "31633"
 city: Leese
 street: "Loccumer Straße"
 housenumber: 4

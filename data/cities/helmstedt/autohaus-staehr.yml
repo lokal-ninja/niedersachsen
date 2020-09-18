@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.2431812
 longitude: 10.982274
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Porschestraße"
 housenumber: 4

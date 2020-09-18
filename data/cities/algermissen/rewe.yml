@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2537723
 longitude: 9.969505700000001
-postcode: 31191
+postcode: "31191"
 city: Algermissen
 street: "Im Knick"
 housenumber: 4

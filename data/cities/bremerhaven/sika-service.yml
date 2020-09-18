@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 53.503939800000005
 longitude: 8.598780600000001
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Weserstraße"
 housenumber: 56

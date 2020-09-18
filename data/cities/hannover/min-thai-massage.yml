@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.3673293
 longitude: 9.754309300000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Lutherstraße"
 housenumber: 57

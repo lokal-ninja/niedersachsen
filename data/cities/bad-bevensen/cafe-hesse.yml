@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.0814141
 longitude: 10.591130900000001
-postcode: 29549
+postcode: "29549"
 city: Bad Bevensen
 street: "Römstedter Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 52.2031763
 longitude: 8.33773
-postcode: 49324
+postcode: "49324"
 city: Melle
 street: "Mühlenstraße"
 housenumber: 1

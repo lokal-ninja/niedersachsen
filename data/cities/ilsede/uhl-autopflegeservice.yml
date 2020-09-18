@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 52.274490300000004
 longitude: 10.2241639
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "Peiner Feld"
-housenumber: 2
+housenumber: 2A-2B
 phone: "+49 5172 1266600"
 opening_hours: "Mo-Fr 7:00-18:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.9093573
 longitude: 8.5874655
-postcode: 27243
+postcode: "27243"
 city: Harpstedt
 street: "Burgstraße"
 housenumber: 13

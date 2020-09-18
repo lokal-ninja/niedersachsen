@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 53.2297019
 longitude: 10.5160113
-postcode: 21397
+postcode: "21397"
 city: Barendorf
 street: "Lüneburger Straße"
 housenumber: 2a
-phone: "+49 4137 813520"
+phone: ""
 opening_hours: "Mo-Sa 05:00-20:00; Su 07:00-11:00"
 website: ""

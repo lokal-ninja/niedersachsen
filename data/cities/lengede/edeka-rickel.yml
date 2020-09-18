@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.191881900000006
 longitude: 10.327698400000001
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Barbecker Straße"
 housenumber: 2

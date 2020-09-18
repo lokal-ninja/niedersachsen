@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.4923975
 longitude: 9.125339
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Zeppelinstraße"
 housenumber: 12

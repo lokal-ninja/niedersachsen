@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1469681
 longitude: 11.043558200000001
-postcode: 29456
+postcode: "29456"
 city: Hitzacker
 street: "Drawehnertorstraße"
 housenumber: 53

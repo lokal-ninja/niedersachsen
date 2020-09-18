@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.4339084
 longitude: 7.0998995
-postcode: 48531
+postcode: "48531"
 city: Nordhorn
 street: "Immenweg"
 housenumber: 17

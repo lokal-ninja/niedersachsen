@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 52.09845850000001
 longitude: 8.097911100000001
-postcode: 49196
+postcode: "49196"
 city: Bad Laer
 street: "Grüner Weg"
 housenumber: 5

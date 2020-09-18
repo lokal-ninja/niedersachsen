@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.512720300000005
 longitude: 10.261024
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Jüdenstraße"
 housenumber: 2

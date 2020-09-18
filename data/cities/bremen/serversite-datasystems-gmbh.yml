@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.1589923
 longitude: 8.7039924
-postcode: 28719
+postcode: "28719"
 city: Bremen
 street: "Bremer Heerstraße"
 housenumber: 9

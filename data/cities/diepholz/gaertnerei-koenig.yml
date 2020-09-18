@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.6341934
 longitude: 8.3818202
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Heeder Dorfstraße"
 housenumber: 55

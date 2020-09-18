@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.0318722
 longitude: 8.5436069
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Bergedorfer Straße"
 housenumber: 13

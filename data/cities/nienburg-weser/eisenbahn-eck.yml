@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.6407187
 longitude: 9.207482200000001
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Friedrich-Ludwig-Jahn-Straße"
 housenumber: 8

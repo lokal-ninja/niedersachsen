@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.9540329
 longitude: 10.5577191
-postcode: 38690
+postcode: "38690"
 city: Goslar
 street: "Goslarer Straße"
 housenumber: 22a

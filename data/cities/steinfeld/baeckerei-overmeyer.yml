@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.58862980000001
 longitude: 8.2184263
-postcode: 49439
+postcode: "49439"
 city: Steinfeld
 street: "Große Straße"
 housenumber: 54

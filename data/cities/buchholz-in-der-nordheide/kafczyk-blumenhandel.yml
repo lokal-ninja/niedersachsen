@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.3337434
 longitude: 9.8912058
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Erikastraße"
 housenumber: 23

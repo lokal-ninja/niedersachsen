@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.3109071
 longitude: 9.647272500000001
-postcode: 21258
+postcode: "21258"
 city: Heidenau
 street: "Avensermoorweg"
 housenumber: 15b

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.841209000000006
 longitude: 8.0563547
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Beethovenstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 53.082955500000004
 longitude: 9.9986467
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Harmshof"
 housenumber: 4

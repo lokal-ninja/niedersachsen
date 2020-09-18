@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.076575600000005
 longitude: 8.774395
-postcode: 28197
+postcode: "28197"
 city: Bremen
 street: "Hermann-Ritter-Straße"
 housenumber: 101

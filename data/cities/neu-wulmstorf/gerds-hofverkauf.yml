@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.464531300000004
 longitude: 9.802372700000001
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Hauptstraße"
 housenumber: 25

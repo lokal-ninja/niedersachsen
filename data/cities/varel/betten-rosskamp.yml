@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.394151400000005
 longitude: 8.0909574
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Ziegelstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 53.4858321
 longitude: 8.4845682
-postcode: 26954
+postcode: "26954"
 city: Nordenham
 street: "Friedrich-Ebert-Straße"
 housenumber: 17

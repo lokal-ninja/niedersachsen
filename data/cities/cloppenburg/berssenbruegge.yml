@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.8462942
 longitude: 8.0429872
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Mühlenstraße"
 housenumber: 16

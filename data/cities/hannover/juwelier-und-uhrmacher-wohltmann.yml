@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.387222
 longitude: 9.749127000000001
-postcode: 30161
+postcode: "30161"
 city: Hannover
 street: "Lister Meile"
 housenumber: 69

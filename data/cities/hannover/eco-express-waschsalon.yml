@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.370050400000004
 longitude: 9.756847800000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Marienstraße"
 housenumber: 94

@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.5320753
 longitude: 9.9373898
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kurze-Geismar-Straße"
 housenumber: 39

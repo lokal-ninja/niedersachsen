@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.367775800000004
 longitude: 9.7146889
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Stephanusstraße"
 housenumber: 2

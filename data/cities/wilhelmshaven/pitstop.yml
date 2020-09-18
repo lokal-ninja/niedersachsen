@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.5745682
 longitude: 8.113759400000001
-postcode: 26386
+postcode: "26386"
 city: Wilhelmshaven
 street: "Flutstraße"
 housenumber: 88 e

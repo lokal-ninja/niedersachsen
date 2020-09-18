@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.352178800000004
 longitude: 10.7736654
-postcode: 38444
+postcode: "38444"
 city: Wolfsburg
 street: "Neue Straße"
 housenumber: 35

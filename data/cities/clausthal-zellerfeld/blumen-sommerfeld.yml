@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.8184641
 longitude: 10.3384085
-postcode: 38678
+postcode: "38678"
 city: Clausthal-Zellerfeld
 street: "Goslarsche Straße"
 housenumber: 34A

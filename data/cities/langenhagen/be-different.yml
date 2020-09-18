@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.439345100000004
 longitude: 9.738295500000001
-postcode: 30853
+postcode: "30853"
 city: Langenhagen
 street: "Marktplatz"
 housenumber: 7

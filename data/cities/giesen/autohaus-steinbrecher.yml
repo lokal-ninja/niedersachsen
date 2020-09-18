@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.2029499
 longitude: 9.914362500000001
-postcode: 31180
+postcode: "31180"
 city: Giesen
 street: "Lindenweg"
 housenumber: 10

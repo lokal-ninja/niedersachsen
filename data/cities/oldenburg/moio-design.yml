@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.139313400000006
 longitude: 8.2114072
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Gaststraße"
 housenumber: 20

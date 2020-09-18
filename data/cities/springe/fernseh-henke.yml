@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.2387541
 longitude: 9.6577751
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Glatzer Straße"
 housenumber: 2

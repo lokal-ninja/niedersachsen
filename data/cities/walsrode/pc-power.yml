@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.8617913
 longitude: 9.5966672
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Brückstraße"
 housenumber: 1-3

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.535076800000006
 longitude: 9.9380751
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Theaterstraße"
 housenumber: 17b

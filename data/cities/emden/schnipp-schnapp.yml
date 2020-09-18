@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.3764406
 longitude: 7.210069000000001
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Eggenastraße"
 housenumber: 23

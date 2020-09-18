@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.1333861
 longitude: 8.2296835
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Dedestraße"
 housenumber: 43

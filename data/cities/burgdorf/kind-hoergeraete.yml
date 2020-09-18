@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.4461427
 longitude: 10.0050795
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Marktstraße"
 housenumber: 67

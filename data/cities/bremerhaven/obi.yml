@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.556065200000006
 longitude: 8.589639700000001
-postcode: 27576
+postcode: "27576"
 city: Bremerhaven
 street: "Melchior-Schwoon-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.21000110000001
 longitude: 9.5414671
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Zum Ebersberg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.184398
 longitude: 8.2313811
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Ekernstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.63391540000001
 longitude: 9.9319507
-postcode: 29313
+postcode: "29313"
 city: Hambühren
 street: "Celler Straße"
 housenumber: 5

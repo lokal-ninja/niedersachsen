@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.3181287
 longitude: 9.6538055
-postcode: 30952
+postcode: "30952"
 city: Ronnenberg
 street: "Hagacker"
 housenumber: 2

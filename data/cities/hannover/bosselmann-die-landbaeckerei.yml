@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3723388
 longitude: 9.7384571
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Osterstraße"
 housenumber: 22

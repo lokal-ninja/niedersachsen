@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.542880600000004
 longitude: 9.9075216
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Levinstraße"
 housenumber: 2b

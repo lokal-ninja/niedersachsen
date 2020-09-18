@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.02400960000001
 longitude: 8.638014
-postcode: 27755
+postcode: "27755"
 city: Delmenhorst
 street: "Brendelweg"
 housenumber: 148

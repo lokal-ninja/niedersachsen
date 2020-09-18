@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0954689
 longitude: 9.917000900000001
-postcode: 31199
+postcode: "31199"
 city: Diekholzen
 street: "Alfelder Straße"
 housenumber: 14

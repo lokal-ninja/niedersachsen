@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.423545000000004
 longitude: 10.5330361
-postcode: 38531
+postcode: "38531"
 city: Rötgesbüttel
 street: "Altes Hohes Feld"
 housenumber: 3

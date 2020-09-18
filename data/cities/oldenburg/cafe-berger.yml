@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 53.1416486
 longitude: 8.213755500000001
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Achternstraße"
 housenumber: 66

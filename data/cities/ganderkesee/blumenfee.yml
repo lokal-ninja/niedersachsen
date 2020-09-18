@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.096674400000005
 longitude: 8.5307399
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Tulpenstraße"
 housenumber: 1

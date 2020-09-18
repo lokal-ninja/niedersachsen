@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.464519200000005
 longitude: 10.2021815
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Bentestraße"
 housenumber: 1

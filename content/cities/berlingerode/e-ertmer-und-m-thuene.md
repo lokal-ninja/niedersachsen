@@ -1,4 +1,4 @@
 ---
-title: "E.Ertmer & M. Thüne"
+title: "E. Ertmer & M. Thüne"
 url: /berlingerode/e-ertmer-und-m-thuene/
 ---

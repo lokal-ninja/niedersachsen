@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.541324200000005
 longitude: 8.580029
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Obere Bürger"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4202415
 longitude: 9.913227800000001
-postcode: 37133
+postcode: "37133"
 city: Friedland
 street: "Heimkehrerstraße"
 housenumber: 2

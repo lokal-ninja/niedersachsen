@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.1186683
 longitude: 9.4207014
-postcode: 31789
+postcode: "31789"
 city: Hameln
 street: "Carl-Wilhelm-Niemeyer-Straße"
 housenumber: 20

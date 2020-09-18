@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 53.531602500000005
 longitude: 9.687794
-postcode: 21635
+postcode: "21635"
 city: Jork
 street: "Osterjork"
 housenumber: 45

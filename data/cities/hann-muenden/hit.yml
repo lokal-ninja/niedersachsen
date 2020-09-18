@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.43189520000001
 longitude: 9.6450466
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Auefeld"
 housenumber: 9

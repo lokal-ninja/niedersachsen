@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.671112
 longitude: 7.301028400000001
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Industriestraße"
 housenumber: 2-4

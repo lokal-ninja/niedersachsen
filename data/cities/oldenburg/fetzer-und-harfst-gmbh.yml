@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.1759039
 longitude: 8.2303229
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Triftweg"
 housenumber: 1

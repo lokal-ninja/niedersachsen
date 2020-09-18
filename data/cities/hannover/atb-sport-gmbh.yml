@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.369153700000005
 longitude: 9.744654
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Marienstraße"
 housenumber: 3

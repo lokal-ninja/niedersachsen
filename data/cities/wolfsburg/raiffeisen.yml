@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.4244769
 longitude: 10.7184697
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: ""
 housenumber: 8

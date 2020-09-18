@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.4501532
 longitude: 10.010078
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Gartenstraße"
 housenumber: 34

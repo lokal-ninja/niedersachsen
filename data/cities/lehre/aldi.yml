@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3243864
 longitude: 10.6592841
-postcode: 38165
+postcode: "38165"
 city: Lehre
 street: "Berliner Straße"
 housenumber: 4a

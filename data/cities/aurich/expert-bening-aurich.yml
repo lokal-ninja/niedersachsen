@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.468656100000004
 longitude: 7.459839700000001
-postcode: 26605
+postcode: "26605"
 city: Aurich
 street: "Dreekamp"
 housenumber: 16

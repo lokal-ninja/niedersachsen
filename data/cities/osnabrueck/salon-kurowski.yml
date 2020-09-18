@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.2706929
 longitude: 8.0352502
-postcode: 49080
+postcode: "49080"
 city: Osnabrück
 street: "Herderstraße"
-housenumber: 5A
+housenumber: 51A
 phone: ""
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.209171000000005
 longitude: 9.5561749
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Zum Niederntor"
 housenumber: 19

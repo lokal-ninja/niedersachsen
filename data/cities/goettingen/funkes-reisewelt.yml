@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.531983100000005
 longitude: 9.938395400000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Lange-Geismar-Straße"
 housenumber: 19

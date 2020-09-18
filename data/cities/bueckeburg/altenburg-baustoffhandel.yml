@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.2650372
 longitude: 9.0697799
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Kreuzbreite"
 housenumber: 20

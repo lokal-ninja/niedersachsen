@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.155461
 longitude: 8.171322700000001
-postcode: 26129
+postcode: "26129"
 city: Oldenburg
 street: "Ammerländer Heerstraße"
 housenumber: 260

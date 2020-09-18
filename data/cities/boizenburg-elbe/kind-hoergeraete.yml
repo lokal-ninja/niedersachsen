@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.3739501
 longitude: 10.723326700000001
-postcode: 19258
+postcode: "19258"
 city: Boizenburg/Elbe
 street: "Markt"
 housenumber: 8

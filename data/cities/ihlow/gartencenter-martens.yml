@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.3946824
 longitude: 7.338035700000001
-postcode: 26632
+postcode: "26632"
 city: Ihlow
 street: "Torfstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.186301300000004
 longitude: 10.4849026
-postcode: 38239
+postcode: "38239"
 city: Salzgitter
 street: "Frankfurter Straße"
 housenumber: 54,56

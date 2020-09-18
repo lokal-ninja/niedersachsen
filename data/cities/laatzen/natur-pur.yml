@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.300025500000004
 longitude: 9.8168866
-postcode: 30880
+postcode: "30880"
 city: Laatzen
 street: "Kastanienweg"
 housenumber: 2

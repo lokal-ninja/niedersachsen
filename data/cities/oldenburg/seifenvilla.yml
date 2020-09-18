@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.1337314
 longitude: 8.2250717
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Stedinger Straße"
 housenumber: 34

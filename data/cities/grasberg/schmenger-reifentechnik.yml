@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.1880973
 longitude: 8.9797986
-postcode: 28879
+postcode: "28879"
 city: Grasberg
 street: "Kirchdamm"
 housenumber: 6c

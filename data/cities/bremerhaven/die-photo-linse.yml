@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.541516900000005
 longitude: 8.580050700000001
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Obere Bürger"
 housenumber: 

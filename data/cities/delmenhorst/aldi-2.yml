@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.039576100000005
 longitude: 8.592553500000001
-postcode: 27753
+postcode: "27753"
 city: Delmenhorst
 street: "Wildeshauser Straße"
 housenumber: 50

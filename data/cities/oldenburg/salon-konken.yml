@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.135487000000005
 longitude: 8.2176478
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Damm"
 housenumber: 14

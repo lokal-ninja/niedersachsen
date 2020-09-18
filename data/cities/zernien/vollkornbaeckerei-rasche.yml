@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0672244
 longitude: 10.8850938
-postcode: 29499
+postcode: "29499"
 city: Zernien
 street: "Göhrdestraße"
 housenumber: 3

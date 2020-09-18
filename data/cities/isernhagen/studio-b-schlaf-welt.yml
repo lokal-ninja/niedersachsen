@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.4264543
 longitude: 9.8323125
-postcode: 30916
+postcode: "30916"
 city: Isernhagen
 street: "Opelstraße"
 housenumber: 24a

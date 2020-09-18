@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.113797100000006
 longitude: 8.752508800000001
-postcode: 28237
+postcode: "28237"
 city: Bremen
 street: "Stapelfeldtstraße"
 housenumber: 7

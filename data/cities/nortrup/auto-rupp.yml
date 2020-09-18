@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.6076799
 longitude: 7.8606856
-postcode: 49638
+postcode: "49638"
 city: Nortrup
 street: "Im Kollrieden"
 housenumber: 

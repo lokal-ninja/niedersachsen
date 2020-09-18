@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.6237525
 longitude: 10.0831619
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Mauernstraße"
 housenumber: 9

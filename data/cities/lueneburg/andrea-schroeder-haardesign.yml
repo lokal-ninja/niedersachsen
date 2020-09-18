@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2590924
 longitude: 10.4683089
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "Ortelsburger Straße"
 housenumber: 20

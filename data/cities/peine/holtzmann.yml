@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 52.315605000000005
 longitude: 10.2596168
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Woltorfer Straße"
 housenumber: 116a

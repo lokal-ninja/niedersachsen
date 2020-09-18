@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.395480500000005
 longitude: 8.1389071
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Obernstraße"
 housenumber: 5a

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.175628800000005
 longitude: 8.656199800000001
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Alhardstraße"
 housenumber: 31

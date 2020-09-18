@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.099378800000004
 longitude: 8.924023400000001
-postcode: 28355
+postcode: "28355"
 city: Bremen
 street: "Oberneulander Landstraße"
 housenumber: 125C

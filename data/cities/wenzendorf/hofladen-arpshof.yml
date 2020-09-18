@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.3482514
 longitude: 9.7591705
-postcode: 21279
+postcode: "21279"
 city: Wenzendorf
 street: "Am Schulberg"
 housenumber: 6

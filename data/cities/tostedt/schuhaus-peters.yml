@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.280233200000005
 longitude: 9.712523000000001
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Waldstraße"
 housenumber: 2

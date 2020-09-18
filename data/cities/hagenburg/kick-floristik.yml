@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.434057100000004
 longitude: 9.3239929
-postcode: 31558
+postcode: "31558"
 city: Hagenburg
 street: "Lange Straße"
 housenumber: 18

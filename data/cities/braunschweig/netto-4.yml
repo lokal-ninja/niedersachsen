@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.290121600000006
 longitude: 10.5567346
-postcode: 38108
+postcode: "38108"
 city: Braunschweig
 street: "Westfalenplatz"
 housenumber: 16

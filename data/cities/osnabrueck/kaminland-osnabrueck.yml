@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 52.268044
 longitude: 8.098949900000001
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Mindener Straße"
 housenumber: 228

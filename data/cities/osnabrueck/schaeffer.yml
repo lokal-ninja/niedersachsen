@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.2756891
 longitude: 8.0447883
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Nikolaiort"
 housenumber: 6-9

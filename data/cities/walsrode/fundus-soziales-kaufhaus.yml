@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.866215000000004
 longitude: 9.621693800000001
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Gottlieb-Daimler-Straße"
 housenumber: 5

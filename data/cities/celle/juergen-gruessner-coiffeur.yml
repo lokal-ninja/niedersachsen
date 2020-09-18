@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.631510500000005
 longitude: 10.0451549
-postcode: 29223
+postcode: "29223"
 city: Celle
 street: "Witzlebenstraße"
 housenumber: 2a

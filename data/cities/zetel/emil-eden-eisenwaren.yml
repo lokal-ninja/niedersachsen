@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 53.41899110000001
 longitude: 7.9716484
-postcode: 26340
+postcode: "26340"
 city: Zetel
 street: "Bohlenberger Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.240062800000004
 longitude: 10.9966506
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Emmerstedter Straße"
 housenumber: 10

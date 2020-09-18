@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.1499875
 longitude: 9.943913
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Dammstraße"
 housenumber: 8

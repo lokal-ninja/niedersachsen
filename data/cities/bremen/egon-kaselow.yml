@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.100542600000004
 longitude: 8.886284
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Wilhelm-Röntgen-Straße"
 housenumber: 10

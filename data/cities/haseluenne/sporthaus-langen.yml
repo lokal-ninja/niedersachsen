@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.673463700000006
 longitude: 7.4871647
-postcode: 49740
+postcode: "49740"
 city: Haselünne
 street: "Markt"
 housenumber: 21-22

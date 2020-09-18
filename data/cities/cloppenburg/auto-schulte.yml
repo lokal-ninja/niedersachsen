@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.8392503
 longitude: 8.065759700000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Lankumer Ring"
 housenumber: 12

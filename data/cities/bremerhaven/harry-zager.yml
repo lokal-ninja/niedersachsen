@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 53.4867155
 longitude: 8.5997447
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Seeborg"
 housenumber: 3

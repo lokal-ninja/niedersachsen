@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.2277435
 longitude: 11.0088378
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Neumärker Straße"
 housenumber: 4

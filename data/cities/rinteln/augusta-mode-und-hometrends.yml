@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1872465
 longitude: 9.0797337
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Klosterstraße"
 housenumber: 2

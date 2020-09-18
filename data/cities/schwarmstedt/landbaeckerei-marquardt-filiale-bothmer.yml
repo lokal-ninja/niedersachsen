@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.698143
 longitude: 9.602116
-postcode: 29690
+postcode: "29690"
 city: Schwarmstedt
 street: "Alte Dorfstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 52.4238092
 longitude: 8.7353368
-postcode: 31603
+postcode: "31603"
 city: Diepenau
 street: "Bahnhofstraße"
 housenumber: 15

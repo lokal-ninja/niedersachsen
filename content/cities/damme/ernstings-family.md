@@ -1,4 +1,4 @@
 ---
-title: "Ernsting's Family"
+title: "Ernsting's family"
 url: /damme/ernstings-family/
 ---

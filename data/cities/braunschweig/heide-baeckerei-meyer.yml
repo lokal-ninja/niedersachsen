@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2724838
 longitude: 10.490094800000001
-postcode: 38116
+postcode: "38116"
 city: Braunschweig
 street: "Saarstraße"
 housenumber: 1-2

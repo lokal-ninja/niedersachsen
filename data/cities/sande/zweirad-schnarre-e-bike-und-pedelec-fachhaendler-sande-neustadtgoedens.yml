@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 53.4801647
 longitude: 7.987464
-postcode: 26452
+postcode: "26452"
 city: Sande
 street: "Brückstraße"
 housenumber: 28

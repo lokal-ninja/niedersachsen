@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.111690100000004
 longitude: 8.210055500000001
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Cloppenburger Straße"
 housenumber: 302

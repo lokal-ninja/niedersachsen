@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.2659024
 longitude: 10.6243046
-postcode: 21398
+postcode: "21398"
 city: Neetze
 street: "Bahnhofstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.6547636
 longitude: 9.389217700000001
-postcode: 31634
+postcode: "31634"
 city: Steimbke
 street: "Stöckser Straße"
 housenumber: 4

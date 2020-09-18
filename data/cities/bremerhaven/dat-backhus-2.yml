@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.519365
 longitude: 8.6377118
-postcode: 27574
+postcode: "27574"
 city: Bremerhaven
 street: "Vieländer Weg"
 housenumber: 254

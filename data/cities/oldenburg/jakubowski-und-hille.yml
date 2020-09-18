@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 53.1062037
 longitude: 8.206663200000001
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Cloppenburger Straße"
 housenumber: 424

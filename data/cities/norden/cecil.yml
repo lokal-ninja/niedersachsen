@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5954172
 longitude: 7.2087132
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Neuer Weg"
 housenumber: 116

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.604518500000005
 longitude: 9.093786
-postcode: 31618
+postcode: "31618"
 city: Liebenau
 street: "Lange Straße"
 housenumber: 

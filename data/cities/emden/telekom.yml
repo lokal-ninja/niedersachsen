@@ -1,12 +1,12 @@
-id: 4140926196
+id: 7494471189
 type: node
 shop: Handy
-latitude: 53.3676
-longitude: 7.2065384
-postcode: 26721
+latitude: 53.3675968
+longitude: 7.206495500000001
+postcode: "26721"
 city: Emden
 street: "Neutorstraße"
 housenumber: 18
-phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.telekom.de/"
+phone: "+49 4921 979601"
+opening_hours: ""
+website: ""

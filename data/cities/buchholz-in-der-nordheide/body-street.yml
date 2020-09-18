@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.329818100000004
 longitude: 9.882104400000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Hamburger Straße"
 housenumber: 4

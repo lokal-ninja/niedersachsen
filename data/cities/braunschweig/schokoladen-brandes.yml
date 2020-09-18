@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.265485700000006
 longitude: 10.5291288
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Steinweg"
 housenumber: 31

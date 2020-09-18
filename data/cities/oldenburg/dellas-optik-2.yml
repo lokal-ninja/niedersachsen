@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.1500004
 longitude: 8.2328071
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Donnerschweer Straße"
 housenumber: 181

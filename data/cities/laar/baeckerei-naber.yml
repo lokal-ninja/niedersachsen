@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.601174900000004
 longitude: 6.790505700000001
-postcode: 49824
+postcode: "49824"
 city: Laar
 street: "Emlichheimer Straße"
 housenumber: 7

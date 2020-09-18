@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 53.140662500000005
 longitude: 8.209651800000001
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Haarenstraße"
 housenumber: 30

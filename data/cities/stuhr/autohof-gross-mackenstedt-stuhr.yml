@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.0114019
 longitude: 8.7039947
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Moordeicher Landstraße"
 housenumber: 84-86

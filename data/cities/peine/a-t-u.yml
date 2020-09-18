@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.308984200000005
 longitude: 10.2317551
-postcode: 31226
+postcode: "31226"
 city: Peine
 street: "Am VfB-Platz"
 housenumber: 5

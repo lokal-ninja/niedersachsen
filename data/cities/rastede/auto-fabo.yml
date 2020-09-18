@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.233757700000005
 longitude: 8.2032076
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Oldenburger Straße"
 housenumber: 109

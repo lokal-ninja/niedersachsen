@@ -3,7 +3,7 @@ type: way
 shop: Jalousien
 latitude: 53.16341490000001
 longitude: 8.220742600000001
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Deelweg"
 housenumber: 17a

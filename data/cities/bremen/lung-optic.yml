@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.068720500000005
 longitude: 8.7852871
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Langemarckstraße"
 housenumber: 251

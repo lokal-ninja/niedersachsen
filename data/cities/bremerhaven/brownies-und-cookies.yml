@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.5463156
 longitude: 8.575367400000001
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Preßburger Straße"
 housenumber: 2

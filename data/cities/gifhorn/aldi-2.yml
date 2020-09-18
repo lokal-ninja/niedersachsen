@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4992352
 longitude: 10.544842300000001
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Hamburger Straße"
 housenumber: 71

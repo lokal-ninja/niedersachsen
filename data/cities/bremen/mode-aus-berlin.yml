@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 53.072307
 longitude: 8.817302
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Ostertorsteinweg"
 housenumber: 60
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-17:00"
 website: "https://modeausberlin-bremen.de/"

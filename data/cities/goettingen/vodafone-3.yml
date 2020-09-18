@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.5316466
 longitude: 9.9360879
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Lange-Geismar-Straße"
 housenumber: 46

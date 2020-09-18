@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.61270510000001
 longitude: 9.6875693
-postcode: 29690
+postcode: "29690"
 city: Lindwedel
 street: "Im Nettelfelde"
 housenumber: 2

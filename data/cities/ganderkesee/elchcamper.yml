@@ -3,7 +3,7 @@ type: node
 shop: Wohnwagen
 latitude: 53.0443915
 longitude: 8.544360000000001
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Theodor-Storm-Weg"
 housenumber: 10

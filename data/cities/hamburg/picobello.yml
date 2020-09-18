@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.460272
 longitude: 10.045330900000002
-postcode: 21079
+postcode: "21079"
 city: Hamburg
 street: "Fünfhausener Straße"
 housenumber: 26

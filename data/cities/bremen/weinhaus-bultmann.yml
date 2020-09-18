@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.0895123
 longitude: 8.8587845
-postcode: 28213
+postcode: "28213"
 city: Bremen
 street: "Schwachhauser Heerstraße"
 housenumber: 206

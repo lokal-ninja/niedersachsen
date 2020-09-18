@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.2401057
 longitude: 7.7702821
-postcode: 26689
+postcode: "26689"
 city: Apen
 street: "Stahlwerkstraße"
 housenumber: 116

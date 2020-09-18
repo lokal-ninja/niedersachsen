@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3462936
 longitude: 7.2238755
-postcode: 26725
+postcode: "26725"
 city: Emden
 street: "Wykhoffweg"
 housenumber: 5

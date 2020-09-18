@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.271945
 longitude: 10.533585
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Bültenweg"
 housenumber: 94

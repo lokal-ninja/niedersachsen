@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.2746013
 longitude: 10.5340828
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Bültenweg"
 housenumber: 80

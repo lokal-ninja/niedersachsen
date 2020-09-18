@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.168576200000004
 longitude: 7.34984
-postcode: 26826
+postcode: "26826"
 city: Weener
 street: "Neue Feldstraße"
 housenumber: 4

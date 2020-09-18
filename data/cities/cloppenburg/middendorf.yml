@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.853498800000004
 longitude: 8.0536638
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Bether Straße"
 housenumber: 25

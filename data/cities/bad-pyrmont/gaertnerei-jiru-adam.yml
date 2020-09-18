@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.9889147
 longitude: 9.2287677
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "Friedhofsweg"
 housenumber: 10

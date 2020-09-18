@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.5340367
 longitude: 9.934061600000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Weender Straße"
 housenumber: 19

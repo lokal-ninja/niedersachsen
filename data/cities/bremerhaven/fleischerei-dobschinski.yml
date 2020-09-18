@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.5419641
 longitude: 8.5793108
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Obere Bürger"
 housenumber: 

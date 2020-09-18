@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.974045800000006
 longitude: 10.588407
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Am Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.548442800000004
 longitude: 9.875091900000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Gesundbrunnen"
 housenumber: 31

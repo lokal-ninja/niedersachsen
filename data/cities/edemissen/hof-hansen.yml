@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.383360700000004
 longitude: 10.2587334
-postcode: 31234
+postcode: "31234"
 city: Edemissen
 street: "Peiner Straße"
 housenumber: 30

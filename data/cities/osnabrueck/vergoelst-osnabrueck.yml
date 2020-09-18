@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.272718700000006
 longitude: 8.071446
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Franz-Lenz-Straße"
 housenumber: 26

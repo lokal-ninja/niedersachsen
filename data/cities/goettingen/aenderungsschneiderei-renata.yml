@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.5345011
 longitude: 9.8971371
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Zollstock"
 housenumber: 37

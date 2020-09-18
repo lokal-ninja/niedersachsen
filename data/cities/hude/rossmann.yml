@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.112136400000004
 longitude: 8.4584656
-postcode: 27798
+postcode: "27798"
 city: Hude
 street: "Parkstraße"
 housenumber: 35

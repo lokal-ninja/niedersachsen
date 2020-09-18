@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3236773
 longitude: 9.2040029
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Am Markt"
 housenumber: 12

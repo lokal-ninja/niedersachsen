@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.5975668
 longitude: 9.421872500000001
-postcode: 21682
+postcode: "21682"
 city: Stade
 street: "Drosselstieg"
 housenumber: 54

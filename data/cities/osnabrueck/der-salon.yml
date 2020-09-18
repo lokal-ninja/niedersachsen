@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.25056
 longitude: 8.1049289
-postcode: 49086
+postcode: "49086"
 city: Osnabrück
 street: "Meller Landstraße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.1402994
 longitude: 8.2132517
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Schüttingstraße"
 housenumber: 1

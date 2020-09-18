@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.7281138
 longitude: 10.7421013
-postcode: 29378
+postcode: "29378"
 city: Wittingen
 street: "Gänsemarkt"
 housenumber: 2

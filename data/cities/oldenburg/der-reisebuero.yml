@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.139547300000004
 longitude: 8.2133935
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Lange Straße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.0831281
 longitude: 8.7897066
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Eduard-Schopf-Allee"
 housenumber: 1b

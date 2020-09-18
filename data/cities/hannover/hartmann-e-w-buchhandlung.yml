@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.366956
 longitude: 9.755433100000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Sallstraße"
 housenumber: 29

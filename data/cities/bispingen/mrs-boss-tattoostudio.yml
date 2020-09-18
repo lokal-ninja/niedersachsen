@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 53.082863
 longitude: 9.9978517
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Harmshof"
 housenumber: 1

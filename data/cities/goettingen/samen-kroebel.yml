@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.534464
 longitude: 9.9358789
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Theaterstraße"
 housenumber: 3

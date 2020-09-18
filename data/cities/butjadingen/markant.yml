@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.57281570000001
 longitude: 8.2615204
-postcode: 26969
+postcode: "26969"
 city: Butjadingen
 street: "Nordseeallee"
 housenumber: 33a

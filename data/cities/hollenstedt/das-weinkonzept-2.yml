@@ -1,12 +1,12 @@
-id: 319895817
-type: way
+id: 4252848488
+type: node
 shop: Wein
-latitude: 53.367337000000006
-longitude: 9.715724600000001
-postcode: 21279
+latitude: 53.360411500000005
+longitude: 9.700814300000001
+postcode: "21279"
 city: Hollenstedt
-street: "Moisburger Straße"
-housenumber: 4
+street: "An der Ihlsbeck"
+housenumber: 1
 phone: "+49 4165 222411"
 opening_hours: ""
 website: "https://www.das-weinkonzept.de/"

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.040818
 longitude: 8.593232200000001
-postcode: 27753
+postcode: "27753"
 city: Delmenhorst
 street: "Konrad-Adenauer-Allee"
 housenumber: 1

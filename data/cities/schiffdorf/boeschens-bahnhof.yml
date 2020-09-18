@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.515546
 longitude: 8.720968800000001
-postcode: 27619
+postcode: "27619"
 city: Schiffdorf
 street: "Am Bahnhof"
 housenumber: 1

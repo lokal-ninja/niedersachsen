@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.470663800000004
 longitude: 7.482801200000001
-postcode: 26603
+postcode: "26603"
 city: Aurich
 street: "Norderstraße"
 housenumber: 4

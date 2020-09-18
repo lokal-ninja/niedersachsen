@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 51.534418800000005
 longitude: 9.9331595
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Prinzenstraße"
 housenumber: 18
 phone: ""
-opening_hours: "Tu-Fr 11:00-20:00; PH off"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-19:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3213079
 longitude: 8.372105000000001
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Burgstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.2466659
 longitude: 10.359864100000001
-postcode: 21391
+postcode: "21391"
 city: Reppenstedt
 street: "Wiesenweg"
 housenumber: 9

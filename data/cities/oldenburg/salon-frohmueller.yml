@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1910475
 longitude: 8.2026167
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Ofenerdieker Straße"
 housenumber: 74

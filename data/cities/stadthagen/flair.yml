@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.324305900000006
 longitude: 9.206351900000001
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Niedernstraße"
 housenumber: 9

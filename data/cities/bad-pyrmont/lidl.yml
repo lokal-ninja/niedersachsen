@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.978432500000004
 longitude: 9.266144800000001
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "Bahnhofstraße"
 housenumber: 63

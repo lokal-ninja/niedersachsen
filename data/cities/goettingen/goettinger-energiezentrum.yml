@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5477113
 longitude: 9.903141
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Robert-Bosch-Breite"
 housenumber: 1a

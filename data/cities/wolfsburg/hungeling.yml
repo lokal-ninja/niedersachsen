@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.4241286
 longitude: 10.7880374
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Porschestraße"
 housenumber: 42

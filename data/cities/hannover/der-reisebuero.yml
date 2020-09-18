@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.396965
 longitude: 9.7701072
-postcode: 30177
+postcode: "30177"
 city: Hannover
 street: "Podbielskistraße"
 housenumber: 138

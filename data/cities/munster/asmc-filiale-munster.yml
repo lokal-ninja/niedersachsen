@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 52.985182900000005
 longitude: 10.0866621
-postcode: 29633
+postcode: "29633"
 city: Munster
 street: "Danziger Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.286776800000005
 longitude: 9.5071328
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Stader Straße"
 housenumber: 24

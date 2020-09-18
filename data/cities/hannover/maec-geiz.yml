@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.4093342
 longitude: 9.801461600000001
-postcode: 30659
+postcode: "30659"
 city: Hannover
 street: "Adolf-Emmelmann-Straße"
 housenumber: 7

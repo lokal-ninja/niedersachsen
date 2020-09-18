@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.607610900000005
 longitude: 8.596022300000001
-postcode: 27607
+postcode: "27607"
 city: Geestland
 street: "Debstedter Straße"
 housenumber: 7i

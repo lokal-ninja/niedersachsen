@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.817712400000005
 longitude: 8.766615400000001
-postcode: 27478
+postcode: "27478"
 city: Cuxhaven
 street: "St.-Annen-Weg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5118652
 longitude: 10.2568857
-postcode: 37115
+postcode: "37115"
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 4

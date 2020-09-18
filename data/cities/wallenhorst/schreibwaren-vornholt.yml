@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.3487565
 longitude: 8.0138311
-postcode: 49134
+postcode: "49134"
 city: Wallenhorst
 street: "Schneidling"
 housenumber: 7

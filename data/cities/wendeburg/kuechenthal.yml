@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.3197047
 longitude: 10.3991114
-postcode: 38176
+postcode: "38176"
 city: Wendeburg
 street: "Büssingstraße"
 housenumber: 8

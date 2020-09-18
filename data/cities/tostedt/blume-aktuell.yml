@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.2811755
 longitude: 9.713040900000001
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Kastanienallee"
 housenumber: 2

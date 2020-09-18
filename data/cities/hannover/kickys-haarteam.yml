@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3890541
 longitude: 9.8118449
-postcode: 30627
+postcode: "30627"
 city: Hannover
 street: "Roderbruchmarkt"
 housenumber: 9B

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8023765
 longitude: 8.643561
-postcode: 27239
+postcode: "27239"
 city: Twistringen
 street: "Bremer Straße"
 housenumber: 16

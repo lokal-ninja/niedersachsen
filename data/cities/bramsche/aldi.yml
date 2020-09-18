@@ -1,12 +1,12 @@
-id: 254739947
-type: node
+id: 285458257
+type: way
 shop: Supermarkt
-latitude: 52.4013433
-longitude: 7.990478
-postcode: 49565
+latitude: 52.413834200000004
+longitude: 7.9759755000000006
+postcode: "49565"
 city: Bramsche
-street: "Osnabrücker Straße"
-housenumber: 29
+street: "Lindenstraße"
+housenumber: 31
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: ""
+website: ""

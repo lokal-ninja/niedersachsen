@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.3243426
 longitude: 9.2042011
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Echternstraße"
 housenumber: 1

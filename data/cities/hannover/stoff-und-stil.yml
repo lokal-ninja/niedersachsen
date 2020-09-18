@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.324082800000006
 longitude: 9.7810663
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 428

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.150511
 longitude: 9.951100100000001
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Altpetristraße"
 housenumber: 2

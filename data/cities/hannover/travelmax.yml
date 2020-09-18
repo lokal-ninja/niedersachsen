@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.365849100000005
 longitude: 9.756158300000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Kleine Düwelstraße"
 housenumber: 3

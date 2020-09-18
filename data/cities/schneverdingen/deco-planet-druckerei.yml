@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.1046197
 longitude: 9.7955231
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Gallhorner Flatt"
 housenumber: 3

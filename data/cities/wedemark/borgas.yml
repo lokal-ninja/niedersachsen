@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.5494417
 longitude: 9.7193246
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Brelinger Straße"
 housenumber: 11

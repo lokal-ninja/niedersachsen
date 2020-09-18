@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.1536849
 longitude: 8.923861800000001
-postcode: 28865
+postcode: "28865"
 city: Lilienthal
 street: "Falkenberger Landstraße"
 housenumber: 42

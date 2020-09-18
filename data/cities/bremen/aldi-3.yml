@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.0876467
 longitude: 8.780737100000001
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Konsul-Smidt-Straße"
 housenumber: 8

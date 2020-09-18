@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1553808
 longitude: 9.955401700000001
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Wallstraße"
 housenumber: 12

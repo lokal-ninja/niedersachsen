@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.9067311
 longitude: 10.5873138
-postcode: 29559
+postcode: "29559"
 city: Wrestedt
 street: "Bahnhofstraße"
 housenumber: 65

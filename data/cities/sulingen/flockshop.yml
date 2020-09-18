@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.6721488
 longitude: 8.807355600000001
-postcode: 27232
+postcode: "27232"
 city: Sulingen
 street: "Rudolf-Diesel-Straße"
 housenumber: 1

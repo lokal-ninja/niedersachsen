@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5484955
 longitude: 9.7468403
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Wedemarkstraße"
 housenumber: 96

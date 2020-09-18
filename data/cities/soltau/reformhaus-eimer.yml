@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.9853073
 longitude: 9.839559600000001
-postcode: 29614
+postcode: "29614"
 city: Soltau
 street: "Marktstraße"
 housenumber: 16

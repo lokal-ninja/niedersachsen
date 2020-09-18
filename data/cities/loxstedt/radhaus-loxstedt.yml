@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.4753016
 longitude: 8.6585965
-postcode: 27612
+postcode: "27612"
 city: Loxstedt
 street: "Helmut-Neynaber-Straße"
 housenumber: 2

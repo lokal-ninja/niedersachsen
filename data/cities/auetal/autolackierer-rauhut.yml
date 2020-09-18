@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.2376099
 longitude: 9.244114600000001
-postcode: 31749
+postcode: "31749"
 city: Auetal
 street: "Sandstraße"
 housenumber: 6

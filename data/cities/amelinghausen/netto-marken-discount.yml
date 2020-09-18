@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.129167100000004
 longitude: 10.2152575
-postcode: 21385
+postcode: "21385"
 city: Amelinghausen
 street: "Grenzweg"
 housenumber: 1

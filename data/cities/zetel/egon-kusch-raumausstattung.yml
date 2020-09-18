@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 53.4696051
 longitude: 8.0543476
-postcode: 26340
+postcode: "26340"
 city: Zetel
 street: "Idagroden"
 housenumber: 17

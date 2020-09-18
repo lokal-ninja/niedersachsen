@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.959335100000004
 longitude: 10.5657026
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Hochgraefestraße"
 housenumber: 30

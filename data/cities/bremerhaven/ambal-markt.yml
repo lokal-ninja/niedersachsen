@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.5429644
 longitude: 8.5813062
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Mittelstraße"
 housenumber: 16

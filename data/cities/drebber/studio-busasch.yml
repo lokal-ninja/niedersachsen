@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.6496981
 longitude: 8.425405900000001
-postcode: 49457
+postcode: "49457"
 city: Drebber
 street: ""
 housenumber: 

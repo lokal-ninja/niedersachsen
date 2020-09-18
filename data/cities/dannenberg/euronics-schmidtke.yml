@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.1005401
 longitude: 11.0985168
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Marschtorstraße"
 housenumber: 48

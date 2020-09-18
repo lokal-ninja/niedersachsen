@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 52.4138832
 longitude: 9.7114721
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Friedenauer Straße"
 housenumber: 34

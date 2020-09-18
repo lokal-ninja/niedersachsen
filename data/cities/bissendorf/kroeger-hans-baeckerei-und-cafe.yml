@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.246498100000004
 longitude: 8.153019800000001
-postcode: 49143
+postcode: "49143"
 city: Bissendorf
 street: "Uphausener Straße"
 housenumber: 8

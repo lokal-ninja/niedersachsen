@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.39117400000001
 longitude: 9.9828139
-postcode: 21218
+postcode: "21218"
 city: Seevetal
 street: "Bahnhofstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1270285
 longitude: 9.9819714
-postcode: 31141
+postcode: "31141"
 city: Hildesheim
 street: "Hansering"
 housenumber: 2

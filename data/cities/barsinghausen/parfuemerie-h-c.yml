@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.3351957
 longitude: 9.501533400000001
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Milchstraße"
 housenumber: 2

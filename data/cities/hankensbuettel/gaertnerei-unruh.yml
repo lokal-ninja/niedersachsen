@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.732125800000006
 longitude: 10.606645100000001
-postcode: 29386
+postcode: "29386"
 city: Hankensbüttel
 street: "Wittinger Straße"
 housenumber: 8

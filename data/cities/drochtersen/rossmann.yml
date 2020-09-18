@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.7070944
 longitude: 9.3884395
-postcode: 21706
+postcode: "21706"
 city: Drochtersen
 street: "Gauensieker Straße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.844708000000004
 longitude: 8.0367998
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Soestenstraße"
 housenumber: 6

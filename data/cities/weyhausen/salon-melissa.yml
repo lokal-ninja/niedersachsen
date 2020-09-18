@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.46311420000001
 longitude: 10.7198823
-postcode: 38554
+postcode: "38554"
 city: Weyhausen
 street: "Laischeweg"
 housenumber: 2

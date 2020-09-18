@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.38360410000001
 longitude: 9.7255681
-postcode: 30167
+postcode: "30167"
 city: Hannover
 street: "Engelbosteler Damm"
 housenumber: 20

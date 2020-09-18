@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.437792
 longitude: 9.7052534
-postcode: 30855
+postcode: "30855"
 city: Langenhagen
 street: "Hauptstraße"
 housenumber: 5

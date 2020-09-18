@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 52.304707300000004
 longitude: 10.468869300000001
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Celler Heerstraße"
 housenumber: 360

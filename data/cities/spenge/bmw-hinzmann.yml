@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1281643
 longitude: 8.414955200000001
-postcode: 32139
+postcode: "32139"
 city: Spenge
 street: "Düttingdorfer Straße"
 housenumber: 342

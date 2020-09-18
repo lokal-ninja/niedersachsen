@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.0253871
 longitude: 11.463356200000002
-postcode: 29471
+postcode: "29471"
 city: Gartow
 street: "Hauptstraße"
 housenumber: 25

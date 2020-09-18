@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.2376498
 longitude: 10.3988622
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Soltauer Straße"
 housenumber: 50

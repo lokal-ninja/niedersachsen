@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.0787069
 longitude: 8.8011104
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Hutfilterstraße"
 housenumber: 24-26

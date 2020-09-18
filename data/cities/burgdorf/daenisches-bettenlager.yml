@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.4432539
 longitude: 10.025206800000001
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Ostlandring"
 housenumber: 6-8

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.375582400000006
 longitude: 9.760503400000001
-postcode: 30175
+postcode: "30175"
 city: Hannover
 street: "Plathnerstraße"
 housenumber: 42

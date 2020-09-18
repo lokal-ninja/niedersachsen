@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.976423100000005
 longitude: 8.8512442
-postcode: 28844
+postcode: "28844"
 city: Weyhe
 street: "Fasanenweg"
 housenumber: 4

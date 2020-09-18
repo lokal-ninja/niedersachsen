@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.7088856
 longitude: 8.506952700000001
-postcode: 49406
+postcode: "49406"
 city: Barnstorf
 street: "Bahnhofstraße"
 housenumber: 1

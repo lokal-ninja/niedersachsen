@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.395789300000004
 longitude: 8.138283300000001
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Hindenburgstraße"
 housenumber: 6-8

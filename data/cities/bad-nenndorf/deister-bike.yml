@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.3353964
 longitude: 9.4037517
-postcode: 31542
+postcode: "31542"
 city: Bad Nenndorf
 street: "Piepmühle"
 housenumber: 1

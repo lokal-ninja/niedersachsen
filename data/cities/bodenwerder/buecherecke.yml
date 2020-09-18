@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.979611000000006
 longitude: 9.517679600000001
-postcode: 37619
+postcode: "37619"
 city: Bodenwerder
 street: "Große Straße"
 housenumber: 1

@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 53.2295432
 longitude: 10.5159789
-postcode: 21397
+postcode: "21397"
 city: Barendorf
 street: "Lüneburger Straße"
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
 website: ""

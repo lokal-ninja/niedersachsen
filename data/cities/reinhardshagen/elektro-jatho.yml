@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 51.494954
 longitude: 9.6010649
-postcode: 34359
+postcode: "34359"
 city: Reinhardshagen
 street: "Amtsstraße"
 housenumber: 8

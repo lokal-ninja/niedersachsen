@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 52.375322100000005
 longitude: 9.794258000000001
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Berckhusenstraße"
 housenumber: 59
 phone: ""
-opening_hours: ""
+opening_hours: "Mo 13:00-15:00; Tu-Fr 10:00-12:00, Tu 14:00-17:00"
 website: ""

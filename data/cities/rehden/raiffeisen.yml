@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.6108636
 longitude: 8.4922246
-postcode: 49453
+postcode: "49453"
 city: Rehden
 street: "Osterkamp"
 housenumber: 2

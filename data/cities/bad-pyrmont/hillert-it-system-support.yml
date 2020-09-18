@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.984112
 longitude: 9.262357100000001
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "Oesdorfer Straße"
 housenumber: 12

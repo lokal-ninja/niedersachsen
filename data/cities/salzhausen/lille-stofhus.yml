@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.2247557
 longitude: 10.171037100000001
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Hauptstraße"
 housenumber: 20

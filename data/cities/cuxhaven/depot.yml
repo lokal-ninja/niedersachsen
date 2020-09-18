@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.8445898
 longitude: 8.6926746
-postcode: 27472
+postcode: "27472"
 city: Cuxhaven
 street: "Abschnede"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.3662453
 longitude: 9.7093597
-postcode: 21279
+postcode: "21279"
 city: Hollenstedt
 street: "Hauptstraße"
 housenumber: 23

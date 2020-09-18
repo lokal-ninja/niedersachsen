@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.6412612
 longitude: 9.2053179
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Schloßplatz"
 housenumber: 5

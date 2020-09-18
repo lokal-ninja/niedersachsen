@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5857241
 longitude: 9.758570200000001
-postcode: 37139
+postcode: "37139"
 city: Adelebsen
 street: "Lödingser Straße"
 housenumber: 26

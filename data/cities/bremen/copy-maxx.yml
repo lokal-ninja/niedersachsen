@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.173716600000006
 longitude: 8.615542900000001
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Gerhard-Rohlfs-Straße"
 housenumber: 57a

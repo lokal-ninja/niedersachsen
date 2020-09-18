@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4538316
 longitude: 9.358936700000001
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Leinenweberstraße"
 housenumber: 14

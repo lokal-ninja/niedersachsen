@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5029741
 longitude: 9.7651122
-postcode: 37127
+postcode: "37127"
 city: Dransfeld
 street: "Wolfshof"
 housenumber: 1

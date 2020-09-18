@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.512343900000005
 longitude: 10.5420979
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Zur Dannheide"
 housenumber: 1a

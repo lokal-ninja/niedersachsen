@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.0887845
 longitude: 8.777558500000001
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Konsul-Smidt-Straße"
 housenumber: 8u

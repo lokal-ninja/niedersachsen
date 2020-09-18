@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.801351100000005
 longitude: 8.6393491
-postcode: 27239
+postcode: "27239"
 city: Twistringen
 street: "Große Straße"
 housenumber: 8

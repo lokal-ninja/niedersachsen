@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.398644100000006
 longitude: 10.8364623
-postcode: 38446
+postcode: "38446"
 city: Wolfsburg
 street: "Hehlinger Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.227741800000004
 longitude: 7.4502882
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Brunnenstraße"
 housenumber: 1

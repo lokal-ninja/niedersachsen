@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 53.065319200000005
 longitude: 8.877832600000001
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Hastedter Heerstraße"
 housenumber: 383

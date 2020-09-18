@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.501735800000006
 longitude: 7.090571700000001
-postcode: 26736
+postcode: "26736"
 city: Krummhörn
 street: "Ankerstraße"
 housenumber: 1

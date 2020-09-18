@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.5766178
 longitude: 10.5476544
-postcode: 37441
+postcode: "37441"
 city: Bad Sachsa
 street: "Steinlohstraße"
 housenumber: 1-7

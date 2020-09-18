@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5038053
 longitude: 6.969989600000001
-postcode: 49828
+postcode: "49828"
 city: Neuenhaus
 street: "Weidenstraße"
 housenumber: 1

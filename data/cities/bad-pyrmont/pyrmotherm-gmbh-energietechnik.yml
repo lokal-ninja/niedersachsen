@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.973023600000005
 longitude: 9.2698363
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "Am Güterbahnhof"
 housenumber: 1

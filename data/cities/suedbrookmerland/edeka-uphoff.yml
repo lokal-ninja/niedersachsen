@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.51765880000001
 longitude: 7.376798600000001
-postcode: 26624
+postcode: "26624"
 city: Südbrookmerland
 street: "Schulstraße"
 housenumber: 1

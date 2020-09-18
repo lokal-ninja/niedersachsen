@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.836393
 longitude: 8.0238256
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Memelstraße"
 housenumber: 56

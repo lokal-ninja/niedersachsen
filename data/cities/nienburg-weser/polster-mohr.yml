@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.623593500000005
 longitude: 9.2363209
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "An der Stadtgrenze"
 housenumber: 2A

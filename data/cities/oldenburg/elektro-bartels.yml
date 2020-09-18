@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.1350379
 longitude: 8.2278676
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Stedinger Straße"
 housenumber: 62

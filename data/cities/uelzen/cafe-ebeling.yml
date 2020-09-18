@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.969207000000004
 longitude: 10.5711876
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Lindenstraße"
 housenumber: 16

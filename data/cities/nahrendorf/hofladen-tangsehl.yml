@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.1751726
 longitude: 10.880904300000001
-postcode: 21369
+postcode: "21369"
 city: Nahrendorf
 street: "Tangsehl"
 housenumber: 2

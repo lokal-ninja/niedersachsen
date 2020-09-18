@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.382615200000004
 longitude: 9.9729738
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Stackmannstraße"
 housenumber: 20

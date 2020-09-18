@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 52.6605976
 longitude: 9.1579452
-postcode: 31608
+postcode: "31608"
 city: Marklohe
 street: "Rathausstraße"
 housenumber: 1

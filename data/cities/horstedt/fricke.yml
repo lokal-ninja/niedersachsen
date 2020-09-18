@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1763993
 longitude: 9.226996900000001
-postcode: 27367
+postcode: "27367"
 city: Horstedt
 street: "Hauptstraße"
 housenumber: 13

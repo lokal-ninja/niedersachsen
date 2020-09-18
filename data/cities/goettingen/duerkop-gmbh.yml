@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.522366600000005
 longitude: 9.8885362
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Anna-Vandenhoeck-Ring"
 housenumber: 50

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.1315954
 longitude: 7.8105302000000005
-postcode: 26676
+postcode: "26676"
 city: Barßel
 street: "Königstraße"
 housenumber: 4

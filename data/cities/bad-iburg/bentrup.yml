@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.1647072
 longitude: 8.0531532
-postcode: 49186
+postcode: "49186"
 city: Bad Iburg
 street: "Osnabrücker Straße"
 housenumber: 84

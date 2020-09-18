@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.340824100000006
 longitude: 9.8252991
-postcode: 30539
+postcode: "30539"
 city: Hannover
 street: "Hinter dem Dorfe"
 housenumber: 12

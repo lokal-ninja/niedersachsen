@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 53.4415817
 longitude: 8.736239300000001
-postcode: 27616
+postcode: "27616"
 city: Beverstedt
 street: "Westerbeverstedter Straße"
 housenumber: 8

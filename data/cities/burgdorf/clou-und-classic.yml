@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.450176500000005
 longitude: 10.0443704
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Tuchmacherweg"
 housenumber: 16

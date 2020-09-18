@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.485089900000006
 longitude: 8.012718300000001
-postcode: 49597
+postcode: "49597"
 city: Rieste
 street: "Malgartener Straße"
 housenumber: 6

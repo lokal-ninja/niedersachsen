@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4661726
 longitude: 10.2056275
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Apothekenstraße"
 housenumber: 

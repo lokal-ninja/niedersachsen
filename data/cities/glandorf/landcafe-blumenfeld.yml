@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.084715900000006
 longitude: 8.0108896
-postcode: 49219
+postcode: "49219"
 city: Glandorf
 street: "Zum Blumenfeld"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.2349643
 longitude: 7.469730800000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Bremer Straße"
 housenumber: 39

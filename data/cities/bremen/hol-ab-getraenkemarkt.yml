@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.159345900000005
 longitude: 8.7025979
-postcode: 28719
+postcode: "28719"
 city: Bremen
 street: "Bremer Heerstraße"
 housenumber: 8d

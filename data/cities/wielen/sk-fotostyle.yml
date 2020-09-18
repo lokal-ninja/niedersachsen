@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 52.485828100000006
 longitude: 6.7154132
-postcode: 49847
+postcode: "49847"
 city: Wielen
 street: "Striepe"
 housenumber: 3

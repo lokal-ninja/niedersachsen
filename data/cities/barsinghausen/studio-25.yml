@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.289376600000004
 longitude: 9.512507900000001
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Wennigser Straße"
 housenumber: 11
-phone: ""
+phone: "+49 5105 8800"
 opening_hours: ""
-website: ""
+website: "https://studio-25.de/"

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.3503132
 longitude: 7.1081061000000005
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Kloster-Langen-Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3434734
 longitude: 9.724853000000001
-postcode: 30459
+postcode: "30459"
 city: Hannover
 street: "Ricklinger Stadtweg"
 housenumber: 3-5

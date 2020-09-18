@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.50982380000001
 longitude: 9.956880400000001
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Hauptstraße"
 housenumber: 72

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.4406242
 longitude: 9.7388936
-postcode: 30853
+postcode: "30853"
 city: Langenhagen
 street: "Marktplatz"
 housenumber: 7

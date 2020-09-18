@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.726097
 longitude: 10.609639000000001
-postcode: 38700
+postcode: "38700"
 city: Braunlage
 street: "Herzog-Wilhelm-Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3391104
 longitude: 10.2551848
-postcode: 31228
+postcode: "31228"
 city: Peine
 street: "Heinrich-Hertz-Straße"
 housenumber: 12

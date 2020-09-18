@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0986564
 longitude: 8.8134767
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Meraner Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.9665602
 longitude: 10.552622000000001
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Bahnhofstraße"
 housenumber: 2

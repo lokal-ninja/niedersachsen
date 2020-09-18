@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.15369870000001
 longitude: 9.9663254
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Orleansstraße"
 housenumber: 68

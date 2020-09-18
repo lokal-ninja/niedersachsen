@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5080578
 longitude: 10.2414717
-postcode: 37115
+postcode: "37115"
 city: Duderstadt
 street: "Am Euzenberg"
 housenumber: 27

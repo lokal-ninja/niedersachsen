@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2888396
 longitude: 8.037826200000001
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Hansastraße"
 housenumber: 63

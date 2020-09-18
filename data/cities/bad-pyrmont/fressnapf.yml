@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.9790706
 longitude: 9.2827284
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "An der Schwage"
 housenumber: 4

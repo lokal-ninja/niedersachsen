@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.4751531
 longitude: 9.7875846
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Wulmstorfer Wiesen"
 housenumber: 2a

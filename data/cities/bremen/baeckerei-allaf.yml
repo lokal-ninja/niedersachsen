@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.053925400000004
 longitude: 8.791082600000001
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Airbus-Allee"
 housenumber: 3

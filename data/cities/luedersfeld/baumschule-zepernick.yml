@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.365038600000005
 longitude: 9.252096100000001
-postcode: 31702
+postcode: "31702"
 city: Lüdersfeld
 street: "Niedernhagen"
 housenumber: 16a

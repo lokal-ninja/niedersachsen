@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.0725458
 longitude: 10.5557867
-postcode: 38312
+postcode: "38312"
 city: Heiningen
 street: "Gutshof"
 housenumber: 2

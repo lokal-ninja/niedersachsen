@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.531332600000006
 longitude: 9.937841500000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kurze-Geismar-Straße"
 housenumber: 25

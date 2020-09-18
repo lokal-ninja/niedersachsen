@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.805398700000005
 longitude: 10.3505768
-postcode: 38678
+postcode: "38678"
 city: Clausthal-Zellerfeld
 street: "Am Ostbahnhof"
 housenumber: 1A

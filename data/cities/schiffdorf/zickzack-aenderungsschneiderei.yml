@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 53.516714400000005
 longitude: 8.7244765
-postcode: 27619
+postcode: "27619"
 city: Schiffdorf
 street: "Bahnhofstraße"
 housenumber: 7

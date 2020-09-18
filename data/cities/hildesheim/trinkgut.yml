@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.1655832
 longitude: 9.9699335
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Herbert-Quandt-Straße"
 housenumber: 8

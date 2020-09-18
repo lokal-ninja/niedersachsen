@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8289732
 longitude: 10.0993201
-postcode: 29320
+postcode: "29320"
 city: Südheide
 street: "Lotharstraße"
 housenumber: 40

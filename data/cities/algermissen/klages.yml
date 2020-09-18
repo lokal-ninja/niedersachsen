@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.2703244
 longitude: 10.0120353
-postcode: 31191
+postcode: "31191"
 city: Algermissen
 street: "Parkstraße"
 housenumber: 1

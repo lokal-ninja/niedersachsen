@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.2338554
 longitude: 8.785354
-postcode: 27711
+postcode: "27711"
 city: Osterholz-Scharmbeck
 street: "Sandbergstraße"
 housenumber: 2

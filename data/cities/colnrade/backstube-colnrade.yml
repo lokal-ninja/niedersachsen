@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.8242726
 longitude: 8.4764079
-postcode: 27243
+postcode: "27243"
 city: Colnrade
 street: "Harpstedter Straße"
 housenumber: 9

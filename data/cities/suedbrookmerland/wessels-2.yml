@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 53.474423900000005
 longitude: 7.3918743000000005
-postcode: 26624
+postcode: "26624"
 city: Südbrookmerland
 street: "Ekelser Straße"
 housenumber: 22

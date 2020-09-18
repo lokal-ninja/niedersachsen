@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.278160500000006
 longitude: 10.9850329
-postcode: 38368
+postcode: "38368"
 city: Mariental
 street: "Siedlung"
 housenumber: 7

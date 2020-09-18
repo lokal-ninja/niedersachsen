@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.6934825
 longitude: 7.2898648
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Emsstraße"
 housenumber: 17

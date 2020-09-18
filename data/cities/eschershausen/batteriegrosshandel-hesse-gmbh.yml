@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 51.9263886
 longitude: 9.6395388
-postcode: 37632
+postcode: "37632"
 city: Eschershausen
 street: "Mühlentrift"
 housenumber: 2

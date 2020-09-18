@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.8283817
 longitude: 10.2821914
-postcode: 38709
+postcode: "38709"
 city: Wildemann
 street: "Hindenburgstraße"
 housenumber: 2

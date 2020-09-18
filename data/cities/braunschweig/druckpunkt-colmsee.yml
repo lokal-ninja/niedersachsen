@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.2750003
 longitude: 10.535595
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Hagenring"
 housenumber: 38/39

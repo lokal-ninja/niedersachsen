@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 52.308734300000005
 longitude: 10.5151512
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Gifhorner Straße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.3669584
 longitude: 9.9136828
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Backhausstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.985371300000004
 longitude: 9.2390909
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "Schillerstraße"
 housenumber: 55

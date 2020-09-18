@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.4880859
 longitude: 8.5981965
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Seeborg"
 housenumber: 6

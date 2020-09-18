@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2869351
 longitude: 10.5393355
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Bienroder Weg"
 housenumber: 78-79

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.597384000000005
 longitude: 8.3658091
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Willenberg"
 housenumber: 54

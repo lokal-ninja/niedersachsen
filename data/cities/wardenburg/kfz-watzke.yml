@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.0668571
 longitude: 8.191663400000001
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Hans-Fangmann-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3572749
 longitude: 9.2842493
-postcode: 31698
+postcode: "31698"
 city: Lindhorst
 street: "Bahnhofstraße"
 housenumber: 29

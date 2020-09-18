@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 52.2966878
 longitude: 9.8239666
-postcode: 30880
+postcode: "30880"
 city: Laatzen
 street: "Lüneburger Straße"
 housenumber: 3
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
+website: "https://porta.de/einrichtungshaeuser/hannover-laatzen"

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.1579452
 longitude: 8.195707500000001
-postcode: 26127
+postcode: "26127"
 city: Oldenburg
 street: "Vahlenhorst"
 housenumber: 

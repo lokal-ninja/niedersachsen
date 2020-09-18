@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.448302600000005
 longitude: 10.0075011
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Hannoversche Neustadt"
 housenumber: 37

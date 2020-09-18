@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.1159192
 longitude: 9.9558873
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Haverbecker Straße"
 housenumber: 24

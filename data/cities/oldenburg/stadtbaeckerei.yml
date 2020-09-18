@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1399157
 longitude: 8.1923774
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Tannenstraße"
 housenumber: 31

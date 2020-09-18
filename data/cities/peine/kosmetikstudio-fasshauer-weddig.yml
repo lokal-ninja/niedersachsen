@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 52.332518500000006
 longitude: 10.2641004
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Sudetenstraße"
 housenumber: 45

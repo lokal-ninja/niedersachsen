@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.3342923
 longitude: 9.664434400000001
-postcode: 30952
+postcode: "30952"
 city: Ronnenberg
 street: "Ronnenberger Straße"
 housenumber: 

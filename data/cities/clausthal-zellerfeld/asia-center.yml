@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.802670500000005
 longitude: 10.337894700000001
-postcode: 
+postcode: ""
 city: Clausthal-Zellerfeld
 street: "Schulstraße"
 housenumber: 35

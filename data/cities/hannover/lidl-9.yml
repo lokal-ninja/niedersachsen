@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3687972
 longitude: 9.7045905
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Bardowicker Straße"
 housenumber: 12

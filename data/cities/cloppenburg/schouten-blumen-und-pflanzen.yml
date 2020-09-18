@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.8422641
 longitude: 8.0562571
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Cappelner Straße"
 housenumber: 13-15

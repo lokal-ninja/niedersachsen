@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.3757808
 longitude: 10.5681469
-postcode: 21481
+postcode: "21481"
 city: Lauenburg/Elbe
 street: "Berliner Straße"
 housenumber: 81-83

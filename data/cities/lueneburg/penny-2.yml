@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.2382256
 longitude: 10.3854638
-postcode: 21339
+postcode: "21339"
 city: Lüneburg
 street: "Auf der Höhe"
 housenumber: 65

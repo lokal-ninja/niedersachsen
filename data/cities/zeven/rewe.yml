@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.299818900000005
 longitude: 9.275794900000001
-postcode: 27404
+postcode: "27404"
 city: Zeven
 street: "Labesstraße"
 housenumber: 26.28

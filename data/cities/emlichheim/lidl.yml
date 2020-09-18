@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.607959300000005
 longitude: 6.855157800000001
-postcode: 49824
+postcode: "49824"
 city: Emlichheim
 street: "Ringer Straße"
 housenumber: 13
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
+website: "https://www.lidl.de/filialen/emlichheim/ringer-str-13.html"

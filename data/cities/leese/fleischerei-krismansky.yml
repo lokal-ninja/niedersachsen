@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.507858600000006
 longitude: 9.1164153
-postcode: 31633
+postcode: "31633"
 city: Leese
 street: "Landesberger Straße"
 housenumber: 15a

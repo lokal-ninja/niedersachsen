@@ -1,12 +1,12 @@
 id: 3789369989
 type: node
 shop: Getränke
-latitude: 52.3639087
-longitude: 9.7507395
-postcode: 30171
+latitude: 52.363903300000004
+longitude: 9.7508069
+postcode: "30171"
 city: Hannover
 street: "Schlägerstraße"
 housenumber: 17
 phone: "+49 511 89865334"
-opening_hours: "We-Fr 12:00-18:00, Sa 10:00-16:00"
+opening_hours: "We-Fr 14:00-20:00, Sa 12:00-18:00"
 website: "https://www.craftbeerkontor.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0848804
 longitude: 8.799561200000001
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Doventorsteinweg"
 housenumber: 37

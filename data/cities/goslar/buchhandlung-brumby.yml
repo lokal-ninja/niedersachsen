@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 51.9068088
 longitude: 10.430040100000001
-postcode: 38640
+postcode: "38640"
 city: Goslar
 street: "Breite Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://brumby.de"

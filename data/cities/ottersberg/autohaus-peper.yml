@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.125556100000004
 longitude: 9.0577181
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: "Lilienthaler Straße"
 housenumber: 15

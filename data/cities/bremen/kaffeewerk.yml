@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0506559
 longitude: 8.9582771
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

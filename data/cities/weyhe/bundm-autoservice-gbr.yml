@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.003019300000005
 longitude: 8.8140897
-postcode: 28844
+postcode: "28844"
 city: Weyhe
 street: "Hördener Straße"
 housenumber: 8

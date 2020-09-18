@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.392644100000005
 longitude: 9.7438578
-postcode: 30163
+postcode: "30163"
 city: Hannover
 street: "Husarenstraße"
 housenumber: 21

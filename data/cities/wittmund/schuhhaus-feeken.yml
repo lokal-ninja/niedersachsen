@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.5758142
 longitude: 7.783038200000001
-postcode: 26409
+postcode: "26409"
 city: Wittmund
 street: "Burgstraße"
 housenumber: 1

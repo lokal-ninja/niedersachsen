@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4527677
 longitude: 8.849368100000001
-postcode: 31606
+postcode: "31606"
 city: Warmsen
 street: "Zum Park"
 housenumber: 2

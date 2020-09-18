@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.2990505
 longitude: 10.1772469
-postcode: 31226
+postcode: "31226"
 city: Peine
 street: "Zum Walde"
 housenumber: 23

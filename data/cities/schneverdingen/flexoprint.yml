@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.107033300000005
 longitude: 9.801389400000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Heidkampsweg"
 housenumber: 21

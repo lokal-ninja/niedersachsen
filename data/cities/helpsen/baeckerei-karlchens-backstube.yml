@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3097994
 longitude: 9.119336
-postcode: 31691
+postcode: "31691"
 city: Helpsen
 street: "Bahnhofstraße"
 housenumber: 68

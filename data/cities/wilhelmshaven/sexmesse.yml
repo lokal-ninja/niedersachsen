@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 53.5292419
 longitude: 8.0946833
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Alinenhofer Weg"
 housenumber: 22

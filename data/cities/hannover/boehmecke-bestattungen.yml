@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.400117200000004
 longitude: 9.7677174
-postcode: 30177
+postcode: "30177"
 city: Hannover
 street: "Günther-Wagner-Allee"
 housenumber: 45

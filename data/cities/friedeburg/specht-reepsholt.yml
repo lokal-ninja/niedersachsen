@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.487514100000006
 longitude: 7.8431509
-postcode: 26446
+postcode: "26446"
 city: Friedeburg
 street: "Reepsholter Hauptstraße"
 housenumber: 17

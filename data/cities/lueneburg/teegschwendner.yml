@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 53.2474378
 longitude: 10.4067285
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Grapengießerstraße"
 housenumber: 14

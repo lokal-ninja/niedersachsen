@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.763487000000005
 longitude: 9.582553
-postcode: 29693
+postcode: "29693"
 city: Hodenhagen
 street: "Allerstraße"
 housenumber: 1

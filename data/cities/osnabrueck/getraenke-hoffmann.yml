@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.2617228
 longitude: 8.0745661
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Hannoversche Straße"
 housenumber: 57

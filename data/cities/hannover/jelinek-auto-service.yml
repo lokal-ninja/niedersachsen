@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.3292337
 longitude: 9.784127900000001
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Am Eisenwerk"
 housenumber: 35/2

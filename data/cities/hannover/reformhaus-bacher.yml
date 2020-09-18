@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.362378500000005
 longitude: 9.753637900000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Stephansplatz"
 housenumber: 41

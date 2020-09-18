@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1007557
 longitude: 8.878297700000001
-postcode: 28359
+postcode: "28359"
 city: Bremen
 street: "Leher Heerstraße"
 housenumber: 107

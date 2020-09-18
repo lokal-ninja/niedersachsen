@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.0349486
 longitude: 8.8275314
-postcode: 28277
+postcode: "28277"
 city: Bremen
 street: "Gorsemannstraße"
 housenumber: 11

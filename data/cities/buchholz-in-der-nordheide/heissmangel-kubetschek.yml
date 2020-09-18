@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.3210582
 longitude: 9.8581816
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Reiherstieg"
 housenumber: 8

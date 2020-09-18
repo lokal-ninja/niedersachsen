@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.5646265
 longitude: 8.589059200000001
-postcode: 27580
+postcode: "27580"
 city: Bremerhaven
 street: "Lange Straße"
 housenumber: 118

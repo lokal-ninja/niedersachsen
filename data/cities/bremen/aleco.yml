@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.056720500000004
 longitude: 8.8000266
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Kirchweg"
 housenumber: 204

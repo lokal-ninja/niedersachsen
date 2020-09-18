@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1116851
 longitude: 8.4499069
-postcode: 27798
+postcode: "27798"
 city: Hude
 street: "Burgstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.459270100000005
 longitude: 10.5423386
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Nordhoffstraße"
 housenumber: 3A

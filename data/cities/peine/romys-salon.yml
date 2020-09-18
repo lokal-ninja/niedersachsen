@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.334080400000005
 longitude: 10.268062500000001
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Glatzer Ring"
 housenumber: 23

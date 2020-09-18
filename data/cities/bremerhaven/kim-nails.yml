@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.542708000000005
 longitude: 8.5805588
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Mittelstraße"
 housenumber: 8

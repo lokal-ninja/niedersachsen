@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.6776928
 longitude: 8.9768091
-postcode: 27246
+postcode: "27246"
 city: Borstel
 street: "Borsteler Weg"
 housenumber: 28

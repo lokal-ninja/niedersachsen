@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.4111746
 longitude: 7.979293200000001
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Große Straße"
 housenumber: 50

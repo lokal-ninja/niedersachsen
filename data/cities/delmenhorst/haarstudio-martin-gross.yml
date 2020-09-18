@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0419374
 longitude: 8.635952300000001
-postcode: 27749
+postcode: "27749"
 city: Delmenhorst
 street: "Bismarckstraße"
 housenumber: 48

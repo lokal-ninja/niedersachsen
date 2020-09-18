@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.1591724
 longitude: 8.243368400000001
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Großer Kuhlenweg"
 housenumber: 21A

@@ -1,12 +1,12 @@
-id: 635671221
+id: 242057172
 type: way
 shop: Supermarkt
-latitude: 52.38802990000001
-longitude: 9.7239477
-postcode: 30167
+latitude: 52.400004900000006
+longitude: 9.8226546
+postcode: ""
 city: Hannover
-street: "Kopernikusstraße"
-housenumber: 5
-phone: "+49 511 1231595"
-opening_hours: "Mo-Sa 07:00-23:00"
-website: "https://www.rewe.de/marktseite/hannover/540435/rewe-markt-kopernikusstrasse-1-5/"
+street: "Schierholzstraße"
+housenumber: 
+phone: ""
+opening_hours: "Mo-Sa 07:30-23:00"
+website: ""

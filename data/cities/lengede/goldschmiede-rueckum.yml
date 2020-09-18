@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 52.2204982
 longitude: 10.2946506
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Sonnenstraße"
 housenumber: 5a

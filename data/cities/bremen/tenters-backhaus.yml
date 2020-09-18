@@ -1,12 +1,12 @@
-id: 2428611127
+id: 2435198442
 type: node
 shop: Bäckerei
-latitude: 53.092612100000004
-longitude: 8.8459014
-postcode: 28213
+latitude: 53.064022400000006
+longitude: 8.9492413
+postcode: "28325"
 city: Bremen
-street: "H.-H.-Meier-Allee"
-housenumber: 42
-phone: "+49 421 8353006"
-opening_hours: "Mo-Th 06:30-13:00,15:00-18:00; Fr 06:30-13:00,15:00-18:00; Sa 06:30-12:00"
-website: "https://www.tenters-backhaus.de/"
+street: "Sankt-Gotthard-Straße"
+housenumber: 8
+phone: ""
+opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-13:00; Su 08:00-11:00"
+website: ""

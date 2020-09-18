@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.2020555
 longitude: 8.2103129
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Nordring"
 housenumber: 49

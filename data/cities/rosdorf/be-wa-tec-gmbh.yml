@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.511092000000005
 longitude: 9.9136182
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Schlachthofstraße"
 housenumber: 3

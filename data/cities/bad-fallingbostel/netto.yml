@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8613586
 longitude: 9.6850264
-postcode: 29683
+postcode: "29683"
 city: Bad Fallingbostel
 street: "Walsroder Straße"
 housenumber: 27

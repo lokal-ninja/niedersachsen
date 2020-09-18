@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.093990600000005
 longitude: 8.8067426
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Hemmstraße"
 housenumber: 167

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.888449400000006
 longitude: 10.551937800000001
-postcode: 38667
+postcode: "38667"
 city: Bad Harzburg
 street: "Dr.-Heinrich-Jasper-Straße"
 housenumber: 21

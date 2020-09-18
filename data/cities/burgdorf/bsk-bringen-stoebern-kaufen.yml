@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.437671900000005
 longitude: 10.017280900000001
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Immenser Landstraße"
 housenumber: 4

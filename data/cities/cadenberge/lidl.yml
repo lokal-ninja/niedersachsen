@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 53.7683802
 longitude: 9.062349600000001
-postcode: 21781
+postcode: "21781"
 city: Cadenberge
 street: "Schumacherstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.lidl.de/filialen/cadenberge/schumacherstr-2.html?utm_source=organic&utm_medium=standortdaten&utm_campaign=yext&utm_content=standortdaten_ron_yext"
+website: "https://www.lidl.de/filialen/cadenberge/schumacherstr-2.html"

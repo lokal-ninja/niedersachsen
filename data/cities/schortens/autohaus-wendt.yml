@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.542518
 longitude: 7.952282200000001
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "An der alten Bundesstraße"
 housenumber: 

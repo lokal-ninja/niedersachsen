@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0462889
 longitude: 10.3749968
-postcode: 38259
+postcode: "38259"
 city: Salzgitter
 street: "Hinter dem Salze"
 housenumber: 

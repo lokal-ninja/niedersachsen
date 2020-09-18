@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.555607
 longitude: 9.9401537
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "An der Lutter"
 housenumber: 22

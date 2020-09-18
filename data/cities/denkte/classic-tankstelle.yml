@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 52.145571000000004
 longitude: 10.6075935
-postcode: 38321
+postcode: "38321"
 city: Denkte
 street: "Leipziger Straße"
 housenumber: 1

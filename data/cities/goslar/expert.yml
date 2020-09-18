@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.930633900000004
 longitude: 10.4108642
-postcode: 38644
+postcode: "38644"
 city: Goslar
 street: "Carl-Zeiß-Straße"
 housenumber: 5

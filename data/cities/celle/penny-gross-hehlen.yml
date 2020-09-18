@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.65290400000001
 longitude: 10.0663245
-postcode: 29229
+postcode: "29229"
 city: Celle
 street: "Zur Hasselklink"
 housenumber: 1A

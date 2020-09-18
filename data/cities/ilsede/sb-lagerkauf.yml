@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 52.2463247
 longitude: 10.2278319
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "An der Bundesstraße"
 housenumber: 2

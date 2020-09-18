@@ -3,10 +3,10 @@ type: node
 shop: Kunst
 latitude: 52.3765763
 longitude: 9.795026
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Pertzstraße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Termine nach Vereinbarung"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.424289900000005
 longitude: 9.836467200000001
-postcode: 30916
+postcode: "30916"
 city: Isernhagen
 street: "Opelstraße"
 housenumber: 10

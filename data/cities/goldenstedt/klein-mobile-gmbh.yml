@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 52.7745979
 longitude: 8.4000927
-postcode: 49424
+postcode: "49424"
 city: Goldenstedt
 street: "Bei der Ziegelei"
 housenumber: 1

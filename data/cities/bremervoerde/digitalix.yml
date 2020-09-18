@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.4875139
 longitude: 9.1447146
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Neue Straße"
 housenumber: 90

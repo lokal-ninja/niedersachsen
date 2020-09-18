@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.640754400000006
 longitude: 9.2073215
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Friedrich-Ludwig-Jahn-Straße"
 housenumber: 

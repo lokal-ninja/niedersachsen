@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 52.463742700000005
 longitude: 10.1944586
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Balkenbornstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5934444
 longitude: 7.2049456
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Am Markt"
 housenumber: 22-23

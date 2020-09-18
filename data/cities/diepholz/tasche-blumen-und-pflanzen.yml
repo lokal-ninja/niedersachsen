@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.6136994
 longitude: 8.369745
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Am Heldenhain"
 housenumber: 9

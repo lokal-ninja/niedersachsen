@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.1532666
 longitude: 9.9547691
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Osterstraße"
 housenumber: 50

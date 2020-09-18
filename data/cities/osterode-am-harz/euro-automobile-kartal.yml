@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.729221
 longitude: 10.2463098
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Bahnhofstraße"
 housenumber: 

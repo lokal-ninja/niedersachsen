@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.342363000000006
 longitude: 9.662700800000001
-postcode: 30952
+postcode: "30952"
 city: Ronnenberg
 street: "Nenndorfer Straße"
 housenumber: 66

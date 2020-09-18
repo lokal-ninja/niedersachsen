@@ -3,7 +3,7 @@ type: way
 shop: Leerstehend
 latitude: 52.712442200000005
 longitude: 9.0823984
-postcode: 31613
+postcode: "31613"
 city: Wietzen
 street: "Kirchplatz"
 housenumber: 33

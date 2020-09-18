@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.515228500000006
 longitude: 9.939714
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Reinhäuser Landstraße"
 housenumber: 150

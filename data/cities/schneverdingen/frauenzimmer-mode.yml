@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.119555500000004
 longitude: 9.7886755
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Rathauspassage"
 housenumber: 22

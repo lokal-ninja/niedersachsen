@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4172328
 longitude: 10.7145355
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Hoffmannstraße"
 housenumber: 10

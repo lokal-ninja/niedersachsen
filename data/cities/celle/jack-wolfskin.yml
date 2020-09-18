@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 52.6236897
 longitude: 10.086179300000001
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Altencellertorstraße"
 housenumber: 10

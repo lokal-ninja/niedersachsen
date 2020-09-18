@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 53.3520033
 longitude: 7.189497
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Fritz-Liebsch-Straße"
 housenumber: 2d

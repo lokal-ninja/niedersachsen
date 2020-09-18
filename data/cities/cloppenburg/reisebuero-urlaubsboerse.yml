@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.8489371
 longitude: 8.041832300000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Auf dem Hook"
 housenumber: 1a

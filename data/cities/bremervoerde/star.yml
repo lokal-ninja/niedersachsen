@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.48471180000001
 longitude: 9.1545134
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Am Hafen"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.16443640000001
 longitude: 7.3489142
-postcode: 26826
+postcode: "26826"
 city: Weener
 street: "Bahnhofstraße"
 housenumber: 1

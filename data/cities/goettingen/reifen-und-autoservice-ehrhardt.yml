@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.5551055
 longitude: 9.9320658
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Hannoversche Straße"
 housenumber: 58

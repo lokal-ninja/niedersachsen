@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.150255900000005
 longitude: 8.2131921
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Alexanderstraße"
 housenumber: 31

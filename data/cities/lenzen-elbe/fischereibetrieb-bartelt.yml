@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.092091100000005
 longitude: 11.472766
-postcode: 19309
+postcode: "19309"
 city: Lenzen (Elbe)
 street: "Neustadtstraße"
 housenumber: 3

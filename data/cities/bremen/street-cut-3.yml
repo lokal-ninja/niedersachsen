@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0694862
 longitude: 8.7884702
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Pappelstraße"
 housenumber: 48

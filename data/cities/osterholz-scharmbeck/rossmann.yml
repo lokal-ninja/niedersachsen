@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.2285784
 longitude: 8.7874943
-postcode: 27711
+postcode: "27711"
 city: Osterholz-Scharmbeck
 street: "Marktplatz"
 housenumber: 12

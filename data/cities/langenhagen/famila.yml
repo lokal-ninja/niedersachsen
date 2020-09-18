@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.430812100000004
 longitude: 9.7161945
-postcode: 30851
+postcode: "30851"
 city: Langenhagen
 street: "Hans-Böckler-Straße"
 housenumber: 60-66

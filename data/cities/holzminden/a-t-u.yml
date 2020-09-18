@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.843709600000004
 longitude: 9.4623899
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Werner-von-Siemens-Straße"
 housenumber: 9

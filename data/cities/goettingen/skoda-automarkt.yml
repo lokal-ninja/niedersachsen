@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.539578500000005
 longitude: 9.8957517
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Industriestraße"
 housenumber: 4

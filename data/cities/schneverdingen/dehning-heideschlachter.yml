@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.1168649
 longitude: 9.789832800000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Bergstraße"
 housenumber: 2

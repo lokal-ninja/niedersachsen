@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.3556162
 longitude: 8.6438234
-postcode: 27628
+postcode: "27628"
 city: Hagen im Bremischen
 street: "Amtsdamm"
 housenumber: 40

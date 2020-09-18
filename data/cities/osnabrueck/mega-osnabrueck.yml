@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 52.260899800000004
 longitude: 8.0954444
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Hettlicher Masch"
 housenumber: 18

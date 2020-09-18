@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.3405895
 longitude: 10.2440999
-postcode: 31228
+postcode: "31228"
 city: Peine
 street: "Wilhelm-Rausch-Straße"
 housenumber: 11

@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 53.26521880000001
 longitude: 10.4617199
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "Erbstorfer Landstraße"
 housenumber: 31
 phone: ""
-opening_hours: ""
+opening_hours: "Tu,Th,Fr 08:30-12:30,15:00-18:00; We 14:00-18:00; Sa 09:00-13:00"
 website: "https://www.helmrath-pflanzen.de/"

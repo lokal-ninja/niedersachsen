@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.0330303
 longitude: 9.725415100000001
-postcode: 31089
+postcode: "31089"
 city: Duingen
 street: "Külftalstraße"
 housenumber: 29

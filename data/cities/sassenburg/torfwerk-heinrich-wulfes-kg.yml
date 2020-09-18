@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.5368682
 longitude: 10.602064500000001
-postcode: 38524
+postcode: "38524"
 city: Sassenburg
 street: "Dorfstraße"
 housenumber: 89

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.2899809
 longitude: 10.427442000000001
-postcode: 21365
+postcode: "21365"
 city: Adendorf
 street: "Bunsenstraße"
 housenumber: 1

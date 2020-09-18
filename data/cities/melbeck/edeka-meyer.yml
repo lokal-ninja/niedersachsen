@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.1781463
 longitude: 10.4135361
-postcode: 21406
+postcode: "21406"
 city: Melbeck
 street: "Uelzener Straße"
 housenumber: 27

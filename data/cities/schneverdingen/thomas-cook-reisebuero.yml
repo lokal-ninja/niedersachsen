@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.119097100000005
 longitude: 9.785927000000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Marktstraße"
 housenumber: 4

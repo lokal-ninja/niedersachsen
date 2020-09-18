@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.4863481
 longitude: 9.1450077
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Brunnenstraße"
 housenumber: 13

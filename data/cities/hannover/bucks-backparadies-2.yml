@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.338982900000005
 longitude: 9.763688
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Fiedelerstraße"
 housenumber: 27

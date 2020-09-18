@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.6084673
 longitude: 8.380240200000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Schömastraße"
 housenumber: 1

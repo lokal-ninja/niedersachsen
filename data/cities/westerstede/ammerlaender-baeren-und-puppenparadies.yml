@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.255966300000004
 longitude: 7.922154000000001
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Kuhlenstraße"
 housenumber: 17

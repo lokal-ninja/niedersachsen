@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.085523
 longitude: 9.997367
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Borsteler Straße"
 housenumber: 5

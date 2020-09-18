@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3860071
 longitude: 9.747979
-postcode: 30161
+postcode: "30161"
 city: Hannover
 street: "Lister Meile"
 housenumber: 56

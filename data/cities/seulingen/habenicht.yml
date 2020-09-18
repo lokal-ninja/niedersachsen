@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5421994
 longitude: 10.161310400000001
-postcode: 37136
+postcode: "37136"
 city: Seulingen
 street: "Hauptstraße"
 housenumber: 25

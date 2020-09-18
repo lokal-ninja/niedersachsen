@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.5477002
 longitude: 9.924005600000001
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Maschmühlenweg"
 housenumber: 48

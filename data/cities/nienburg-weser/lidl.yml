@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6340834
 longitude: 9.2214006
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Göttinger Straße"
 housenumber: 1

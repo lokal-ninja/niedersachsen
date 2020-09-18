@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.2675053
 longitude: 10.535432400000001
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Kasernenstraße"
 housenumber: 12

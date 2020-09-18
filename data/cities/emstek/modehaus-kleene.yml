@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.8341397
 longitude: 8.1571272
-postcode: 49685
+postcode: "49685"
 city: Emstek
 street: "Lange Straße"
 housenumber: 5

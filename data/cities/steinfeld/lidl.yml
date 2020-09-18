@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.5924399
 longitude: 8.2198806
-postcode: 49439
+postcode: "49439"
 city: Steinfeld
 street: "Lohner Straße"
 housenumber: 4E
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

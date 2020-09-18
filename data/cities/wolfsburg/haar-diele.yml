@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.397789100000004
 longitude: 10.6967542
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Bossengang"
 housenumber: 2

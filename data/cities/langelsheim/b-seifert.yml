@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.9376131
 longitude: 10.3338018
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Breite Straße"
 housenumber: 1A

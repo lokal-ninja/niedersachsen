@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 52.5267173
 longitude: 9.0777242
-postcode: 31592
+postcode: "31592"
 city: Stolzenau
 street: "Große Brinkstraße"
 housenumber: 1
 phone: "+49 5761 92090"
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
 website: "https://www.fiegler.mercedes-benz.de/de/desktop/home.html"

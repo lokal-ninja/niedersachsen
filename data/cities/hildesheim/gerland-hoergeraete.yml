@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.162939300000005
 longitude: 9.917032800000001
-postcode: 31137
+postcode: "31137"
 city: Hildesheim
 street: "An der Pauluskirche"
 housenumber: 4

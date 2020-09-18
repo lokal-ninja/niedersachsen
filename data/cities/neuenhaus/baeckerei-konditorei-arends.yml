@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.51840910000001
 longitude: 6.998816700000001
-postcode: 49828
+postcode: "49828"
 city: Neuenhaus
 street: "Georgsdorfer Straße"
 housenumber: 8

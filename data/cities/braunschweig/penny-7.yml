@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3114866
 longitude: 10.5988357
-postcode: 38108
+postcode: "38108"
 city: Braunschweig
 street: "Troppaustraße"
 housenumber: 20

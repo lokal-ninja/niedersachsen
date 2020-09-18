@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.0534649
 longitude: 8.2566696
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Gartenweg"
 housenumber: 1

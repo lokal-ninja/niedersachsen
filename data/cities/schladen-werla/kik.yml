@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.020563200000005
 longitude: 10.5500062
-postcode: 38315
+postcode: "38315"
 city: Schladen-Werla
 street: "Hermann-Müller-Straße"
 housenumber: 1

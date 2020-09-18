@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.2264344
 longitude: 10.1606242
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Tangensieck"
 housenumber: 1

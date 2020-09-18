@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.620413400000004
 longitude: 8.3880832
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Bremer Straße"
 housenumber: 5

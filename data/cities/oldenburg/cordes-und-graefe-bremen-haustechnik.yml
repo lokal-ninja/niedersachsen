@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.1634211
 longitude: 8.2512159
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Donnerschweer Straße"
 housenumber: 400

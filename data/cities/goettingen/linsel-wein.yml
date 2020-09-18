@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.5310277
 longitude: 9.938007200000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kurze-Geismar-Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.5313577
 longitude: 9.933266300000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Düstere Straße"
 housenumber: 13

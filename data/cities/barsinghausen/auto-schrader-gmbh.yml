@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 52.3147584
 longitude: 9.4636849
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Hermann-Bahlsen-Straße"
 housenumber: 1
-phone: "+49 5105 51 41 39"
+phone: "+49 5105 514139"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-13:00"
-website: "http://www.autoundsportas.de/"
+website: "https://www.auto-schrader.de/unternehmen/standorte"

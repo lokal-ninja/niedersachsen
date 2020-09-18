@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 52.163703000000005
 longitude: 10.35393
-postcode: 38229
+postcode: "38229"
 city: Salzgitter
 street: "Gustav-Hagemann-Straße"
 housenumber: 3

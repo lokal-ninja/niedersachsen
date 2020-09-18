@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 53.2451042
 longitude: 8.197825100000001
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Bahnhofstraße"
 housenumber: 2e

@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 52.64478140000001
 longitude: 9.343063500000001
-postcode: 31638
+postcode: "31638"
 city: Stöckse
 street: "Sonnenborsteler Weg"
 housenumber: 12

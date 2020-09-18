@@ -3,10 +3,10 @@ type: node
 shop: Schreibwaren
 latitude: 52.366567800000006
 longitude: 9.9093779
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Zum Großen Freien"
 housenumber: 22
 phone: ""
-opening_hours: "Mo-Tu 09:00-17:00; We 09:00-14:00; Th 09:00-18:00; Fr 09:00-14:00"
+opening_hours: "Mo-Tu 09:00-17:00; We 09:00-14:00; Th 09:00-18:00; Fr 09:00-14:00"
 website: "http://kullick-enderling.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 53.348483
 longitude: 9.986268500000001
-postcode: 21228
+postcode: "21228"
 city: Harmstorf
 street: "Im Dorfe"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.6307376
 longitude: 9.215156
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Hannoversche Straße"
 housenumber: 56

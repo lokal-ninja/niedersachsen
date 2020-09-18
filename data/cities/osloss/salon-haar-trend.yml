@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.46905520000001
 longitude: 10.6805471
-postcode: 38557
+postcode: "38557"
 city: Osloß
 street: "Hauptstraße"
 housenumber: 43

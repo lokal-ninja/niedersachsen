@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.5437607
 longitude: 8.5792777
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Bürgermeister-Smidt-Straße"
 housenumber: 45

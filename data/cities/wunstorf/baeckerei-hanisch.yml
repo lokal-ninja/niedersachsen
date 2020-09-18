@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4557696
 longitude: 9.399311
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Bordenauer Weg"
 housenumber: 1

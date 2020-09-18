@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.8273887
 longitude: 8.000094200000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Vahrener Damm"
 housenumber: 10

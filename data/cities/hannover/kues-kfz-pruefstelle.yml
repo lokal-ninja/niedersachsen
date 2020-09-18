@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.3644855
 longitude: 9.7649574
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Anna-Zammert-Straße"
 housenumber: 33a

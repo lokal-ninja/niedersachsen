@@ -1,12 +1,12 @@
 id: 3235314573
 type: node
 shop: Friseur
-latitude: 53.0791516
-longitude: 8.807654600000001
-postcode: 28195
+latitude: 53.0791655
+longitude: 8.8076787
+postcode: "28195"
 city: Bremen
 street: "Am Wall"
 housenumber: 137-139
-phone: "+49 421 74001"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 08:00-16:00"
+phone: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
 website: ""

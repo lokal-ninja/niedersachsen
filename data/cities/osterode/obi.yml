@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.726475900000004
 longitude: 10.2411478
-postcode: 37520
+postcode: "37520"
 city: Osterode
 street: "Alte Northeimer Straße"
 housenumber: 6

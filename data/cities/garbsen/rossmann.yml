@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4346061
 longitude: 9.6112062
-postcode: 30827
+postcode: "30827"
 city: Garbsen
 street: "Rote Reihe"
 housenumber: 18

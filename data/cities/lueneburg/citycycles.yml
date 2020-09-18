@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.245732600000004
 longitude: 10.4092172
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Rote Straße"
 housenumber: 9

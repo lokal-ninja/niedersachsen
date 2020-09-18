@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.2336553
 longitude: 8.453698600000001
-postcode: 26931
+postcode: "26931"
 city: Elsfleth
 street: "Oberrege"
 housenumber: 12b

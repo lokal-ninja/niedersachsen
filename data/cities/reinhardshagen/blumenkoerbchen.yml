@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.496194800000005
 longitude: 9.6018816
-postcode: 34359
+postcode: "34359"
 city: Reinhardshagen
 street: "Wilhelmsplatz"
 housenumber: 3

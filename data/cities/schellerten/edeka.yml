@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1854847
 longitude: 10.093811500000001
-postcode: 31174
+postcode: "31174"
 city: Schellerten
 street: "Über der Wasserfurche"
 housenumber: 1

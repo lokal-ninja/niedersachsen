@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.21957200000001
 longitude: 8.460297
-postcode: 32289
+postcode: "32289"
 city: Rödinghausen
 street: "Kilverstraße"
 housenumber: 79

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.2174495
 longitude: 8.7790432
-postcode: 27711
+postcode: "27711"
 city: Osterholz-Scharmbeck
 street: "Ritterhuder Straße"
 housenumber: 62

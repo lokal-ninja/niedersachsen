@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 53.2267316
 longitude: 10.1626402
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Bahnhofstraße"
 housenumber: 20a

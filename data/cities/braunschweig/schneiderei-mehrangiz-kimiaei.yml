@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.2121573
 longitude: 10.523114900000001
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Leipziger Straße"
 housenumber: 205

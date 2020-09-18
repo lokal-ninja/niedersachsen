@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 53.129730800000004
 longitude: 10.2145673
-postcode: 21385
+postcode: "21385"
 city: Amelinghausen
 street: "Grenzweg"
 housenumber: 2c

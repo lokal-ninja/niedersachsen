@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.7313674
 longitude: 10.6040682
-postcode: 29386
+postcode: "29386"
 city: Hankensbüttel
 street: "Hindenburgstraße"
 housenumber: 6

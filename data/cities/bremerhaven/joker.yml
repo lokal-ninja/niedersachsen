@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5481386
 longitude: 8.5760947
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Lloydstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4384808
 longitude: 10.8394131
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "Lange Straße"
 housenumber: 12

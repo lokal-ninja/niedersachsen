@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.220355100000006
 longitude: 7.4750145
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Osseweg"
 housenumber: 87

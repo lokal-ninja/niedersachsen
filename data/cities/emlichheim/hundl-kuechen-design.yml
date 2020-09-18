@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.6126355
 longitude: 6.853722100000001
-postcode: 49824
+postcode: "49824"
 city: Emlichheim
 street: "Mühlenstraße"
 housenumber: 24

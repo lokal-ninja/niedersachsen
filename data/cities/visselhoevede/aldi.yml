@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.983642
 longitude: 9.5798088
-postcode: 27374
+postcode: "27374"
 city: Visselhövede
 street: "Süderstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4290517
 longitude: 10.9925438
-postcode: 39646
+postcode: "39646"
 city: Oebisfelde
 street: "Magdeburger Straße"
 housenumber: 16

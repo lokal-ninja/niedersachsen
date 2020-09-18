@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.0593166
 longitude: 9.0098962
-postcode: 28876
+postcode: "28876"
 city: Oyten
 street: "Hauptstraße"
 housenumber: 115a

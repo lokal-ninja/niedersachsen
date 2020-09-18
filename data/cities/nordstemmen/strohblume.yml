@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.166126600000005
 longitude: 9.789513900000001
-postcode: 31171
+postcode: "31171"
 city: Nordstemmen
 street: "Hauptstraße"
 housenumber: 112

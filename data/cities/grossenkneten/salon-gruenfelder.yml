@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.9375895
 longitude: 8.253774
-postcode: 26197
+postcode: "26197"
 city: Großenkneten
 street: "Stellmacherweg"
 housenumber: 2

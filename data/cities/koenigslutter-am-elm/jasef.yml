@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.2507329
 longitude: 10.818216900000001
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Marktstraße"
 housenumber: 3

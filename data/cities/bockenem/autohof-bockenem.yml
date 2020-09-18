@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.0017938
 longitude: 10.1337188
-postcode: 31167
+postcode: "31167"
 city: Bockenem
 street: "Oppelner Straße"
 housenumber: 1

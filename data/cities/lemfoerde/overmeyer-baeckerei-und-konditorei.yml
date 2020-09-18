@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.469289
 longitude: 8.3750736
-postcode: 49448
+postcode: "49448"
 city: Lemförde
 street: "Burgstraße"
 housenumber: 7

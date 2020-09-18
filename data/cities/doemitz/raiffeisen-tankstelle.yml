@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.134713700000006
 longitude: 11.277493300000001
-postcode: 19303
+postcode: "19303"
 city: Dömitz
 street: "Leopoldsbrunnen"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.477991300000006
 longitude: 7.394686600000001
-postcode: 26624
+postcode: "26624"
 city: Südbrookmerland
 street: "Ekelser Straße"
 housenumber: 4

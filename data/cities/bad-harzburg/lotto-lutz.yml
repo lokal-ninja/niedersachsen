@@ -3,10 +3,10 @@ type: node
 shop: Andenken
 latitude: 51.880748100000005
 longitude: 10.560237800000001
-postcode: 38667
+postcode: "38667"
 city: Bad Harzburg
 street: "Herzog-Wilhelm-Straße"
 housenumber: 63
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-19:00; So,PH 10:00-17:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.39093020000001
 longitude: 9.7484553
-postcode: 30163
+postcode: "30163"
 city: Hannover
 street: "Ferdinand-Wallbrecht-Straße"
 housenumber: 22

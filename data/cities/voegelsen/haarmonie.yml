@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2730479
 longitude: 10.3527403
-postcode: 21360
+postcode: "21360"
 city: Vögelsen
 street: "Eichenweg"
 housenumber: 2

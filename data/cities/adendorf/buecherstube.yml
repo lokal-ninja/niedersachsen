@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.28150350000001
 longitude: 10.4388933
-postcode: 21365
+postcode: "21365"
 city: Adendorf
 street: "Kirchweg"
 housenumber: 72

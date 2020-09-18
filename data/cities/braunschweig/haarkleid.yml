@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.263981300000005
 longitude: 10.5491501
-postcode: 38104
+postcode: "38104"
 city: Braunschweig
 street: "Kastanienallee"
 housenumber: 38

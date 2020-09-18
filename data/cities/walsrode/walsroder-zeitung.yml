@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 52.860443800000006
 longitude: 9.5934407
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Lange Straße"
 housenumber: 14

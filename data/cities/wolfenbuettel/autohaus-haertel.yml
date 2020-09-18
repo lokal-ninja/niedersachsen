@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1586629
 longitude: 10.504083900000001
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Am Rehmanger"
 housenumber: 12

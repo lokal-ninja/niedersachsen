@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2949818
 longitude: 9.639886200000001
-postcode: 30952
+postcode: "30952"
 city: Ronnenberg
 street: "Hauptstraße"
 housenumber: 16

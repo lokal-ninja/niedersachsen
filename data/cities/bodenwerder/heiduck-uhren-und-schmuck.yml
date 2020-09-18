@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.976984200000004
 longitude: 9.5150281
-postcode: 37619
+postcode: "37619"
 city: Bodenwerder
 street: "Große Straße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.531800000000004
 longitude: 9.935943400000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Lange-Geismar-Straße"
 housenumber: 39

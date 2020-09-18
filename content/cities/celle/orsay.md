@@ -1,4 +1,4 @@
 ---
-title: "orsay"
+title: "Orsay"
 url: /celle/orsay/
 ---

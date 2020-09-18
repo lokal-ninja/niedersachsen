@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.375175500000005
 longitude: 9.7022981
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 92

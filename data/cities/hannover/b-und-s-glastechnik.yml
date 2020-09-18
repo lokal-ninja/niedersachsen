@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 52.387485500000004
 longitude: 9.7163333
-postcode: 30167
+postcode: "30167"
 city: Hannover
 street: "Glünderstraße"
 housenumber: 11

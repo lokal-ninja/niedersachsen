@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5367364
 longitude: 9.9342068
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Weender Straße"
 housenumber: 75

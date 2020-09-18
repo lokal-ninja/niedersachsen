@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 52.5316149
 longitude: 9.1143549
-postcode: 31628
+postcode: "31628"
 city: Landesbergen
 street: "Am kleinen Maschsee"
 housenumber: 1

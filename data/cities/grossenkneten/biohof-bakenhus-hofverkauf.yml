@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.9244089
 longitude: 8.249021
-postcode: 26197
+postcode: "26197"
 city: Großenkneten
 street: "Bakenhuser Esch"
 housenumber: 8

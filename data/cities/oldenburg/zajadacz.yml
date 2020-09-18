@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 53.149838800000005
 longitude: 8.2315159
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Donnerschweer Straße"
 housenumber: 171

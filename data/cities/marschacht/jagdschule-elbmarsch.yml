@@ -3,7 +3,7 @@ type: way
 shop: Jagd
 latitude: 53.4087217
 longitude: 10.394613900000001
-postcode: 21436
+postcode: "21436"
 city: Marschacht
 street: "Elbuferstraße"
 housenumber: 3

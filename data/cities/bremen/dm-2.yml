@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.04877200000001
 longitude: 8.9571473
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

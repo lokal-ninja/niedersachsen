@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.940059600000005
 longitude: 10.404407
-postcode: 38644
+postcode: "38644"
 city: Goslar
 street: "Hoher Bruch"
 housenumber: 1

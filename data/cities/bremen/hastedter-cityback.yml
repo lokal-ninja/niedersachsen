@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.0641255
 longitude: 8.8778241
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Föhrenstraße"
 housenumber: 33

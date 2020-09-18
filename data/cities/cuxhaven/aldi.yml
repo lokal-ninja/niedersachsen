@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8852698
 longitude: 8.6614365
-postcode: 27476
+postcode: "27476"
 city: Cuxhaven
 street: "Heinrich-Grube-Weg"
 housenumber: 76

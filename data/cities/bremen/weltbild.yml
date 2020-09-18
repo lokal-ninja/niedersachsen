@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 53.136967500000004
 longitude: 8.741471
-postcode: 28239
+postcode: "28239"
 city: Bremen
 street: "Schragestraße"
 housenumber: 3D
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.weltbild.com"
+opening_hours: "Mo-Sa 09:00-18:00; PH off"
+website: ""

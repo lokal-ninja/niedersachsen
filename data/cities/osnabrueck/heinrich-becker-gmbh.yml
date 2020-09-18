@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.293161600000005
 longitude: 8.032780500000001
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Mühleneschweg"
 housenumber: 9

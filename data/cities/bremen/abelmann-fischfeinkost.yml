@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.049548
 longitude: 8.9575253
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

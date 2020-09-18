@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.5348696
 longitude: 9.9116511
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Posthof"
 housenumber: 4

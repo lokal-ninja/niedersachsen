@@ -3,10 +3,10 @@ type: node
 shop: Kramladen
 latitude: 52.6819793
 longitude: 7.955936200000001
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Kramershagen"
 housenumber: 4
 phone: "+49 54319071038"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Sa 09:00-19:00; PH off"
 website: ""

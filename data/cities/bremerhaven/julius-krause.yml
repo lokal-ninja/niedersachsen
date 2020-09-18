@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.5222154
 longitude: 8.582600600000001
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Fischkai"
 housenumber: 5

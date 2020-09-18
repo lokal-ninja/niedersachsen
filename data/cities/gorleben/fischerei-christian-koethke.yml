@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 53.048450900000006
 longitude: 11.3510319
-postcode: 29475
+postcode: "29475"
 city: Gorleben
 street: "Hauptstraße"
 housenumber: 50

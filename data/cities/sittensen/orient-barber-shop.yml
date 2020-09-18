@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.279007400000005
 longitude: 9.5053263
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Bahnhofstraße"
 housenumber: 6

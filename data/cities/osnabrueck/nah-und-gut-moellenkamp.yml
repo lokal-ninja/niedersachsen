@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.278783700000005
 longitude: 8.0761848
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Schützenstraße"
 housenumber: 58-60

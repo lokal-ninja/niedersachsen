@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5603543
 longitude: 8.585726900000001
-postcode: 27576
+postcode: "27576"
 city: Bremerhaven
 street: "Hafenstraße"
 housenumber: 157

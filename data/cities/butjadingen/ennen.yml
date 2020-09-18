@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.5122975
 longitude: 8.3622403
-postcode: 26969
+postcode: "26969"
 city: Butjadingen
 street: "Hauptstraße"
 housenumber: 25

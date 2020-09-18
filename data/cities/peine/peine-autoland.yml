@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.320664400000005
 longitude: 10.2414679
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Hans-Gallinis-Straße"
 housenumber: 2

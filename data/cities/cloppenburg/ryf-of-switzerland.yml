@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.8418864
 longitude: 8.0530607
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Cappelner Straße"
 housenumber: 4

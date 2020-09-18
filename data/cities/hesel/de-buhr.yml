@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.301186300000005
 longitude: 7.5941811
-postcode: 26835
+postcode: "26835"
 city: Hesel
 street: "Leeraner Straße"
 housenumber: 17c

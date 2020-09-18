@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4083903
 longitude: 7.980165700000001
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Große Straße"
 housenumber: 3

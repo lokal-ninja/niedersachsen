@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.059982500000004
 longitude: 8.8814095
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "An der Braukuhle"
 housenumber: 7

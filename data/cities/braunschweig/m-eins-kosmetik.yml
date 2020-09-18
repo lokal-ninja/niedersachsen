@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.265399
 longitude: 10.5450821
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Rosenstraße"
 housenumber: 26

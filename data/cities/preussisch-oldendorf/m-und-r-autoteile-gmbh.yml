@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 52.3132607
 longitude: 8.4844474
-postcode: 32361
+postcode: "32361"
 city: Preußisch Oldendorf
 street: "Hauptstraße"
 housenumber: 20

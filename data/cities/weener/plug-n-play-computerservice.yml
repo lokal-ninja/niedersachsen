@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.165229200000006
 longitude: 7.349832200000001
-postcode: 26826
+postcode: "26826"
 city: Weener
 street: "Westerstraße"
 housenumber: 55

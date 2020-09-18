@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.4922923
 longitude: 10.5327813
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Wilscher Weg"
 housenumber: 9

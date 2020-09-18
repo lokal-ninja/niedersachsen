@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.737330500000006
 longitude: 8.5435982
-postcode: 27639
+postcode: "27639"
 city: Wurster Nordseeküste
 street: "Cappeler Altendeich"
 housenumber: 57

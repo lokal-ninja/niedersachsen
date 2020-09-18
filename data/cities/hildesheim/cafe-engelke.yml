@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.150938700000005
 longitude: 9.9505652
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Hoher Weg"
 housenumber: 16 A

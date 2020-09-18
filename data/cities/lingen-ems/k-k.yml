@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5153637
 longitude: 7.3194501
-postcode: 49809
+postcode: "49809"
 city: Lingen (Ems)
 street: "Rheiner Straße"
 housenumber: 18

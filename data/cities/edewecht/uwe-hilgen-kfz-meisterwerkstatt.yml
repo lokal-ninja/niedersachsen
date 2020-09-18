@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.122814000000005
 longitude: 8.0817561
-postcode: 26188
+postcode: "26188"
 city: Edewecht
 street: "Spiekerooger Straße"
 housenumber: 5

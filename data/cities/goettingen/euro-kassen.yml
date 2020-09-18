@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.5505323
 longitude: 9.884989800000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Willi-Eichler-Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.1967354
 longitude: 10.317062700000001
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Bahnhofstraße"
 housenumber: 25a

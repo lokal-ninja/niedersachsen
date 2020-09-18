@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1352058
 longitude: 10.494630500000001
-postcode: 29553
+postcode: "29553"
 city: Bienenbüttel
 street: "Rübenbaum"
 housenumber: 1

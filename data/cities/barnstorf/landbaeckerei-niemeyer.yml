@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.708406200000006
 longitude: 8.5058226
-postcode: 49406
+postcode: "49406"
 city: Barnstorf
 street: "Friedrich-Plate-Straße"
 housenumber: 2

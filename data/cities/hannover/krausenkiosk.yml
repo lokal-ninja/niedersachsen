@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.363126900000005
 longitude: 9.7527263
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Krausenstraße"
 housenumber: 44

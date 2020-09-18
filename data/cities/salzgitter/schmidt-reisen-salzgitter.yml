@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 52.153423200000006
 longitude: 10.335721900000001
-postcode: 38226
+postcode: "38226"
 city: Salzgitter
 street: "Gewerbestraße"
 housenumber: 13-15

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.1379742
 longitude: 8.743006600000001
-postcode: 28239
+postcode: "28239"
 city: Bremen
 street: "Schragestraße"
 housenumber: 4

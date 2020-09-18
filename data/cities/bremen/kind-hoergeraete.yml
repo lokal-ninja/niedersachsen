@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.0615534
 longitude: 8.886224
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Zum Sebaldsbrücker Bahnhof"
 housenumber: 63

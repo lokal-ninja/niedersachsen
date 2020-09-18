@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 53.637255
 longitude: 7.439610500000001
-postcode: 26553
+postcode: "26553"
 city: Dornum
 street: "Fasanenpfad"
 housenumber: 4

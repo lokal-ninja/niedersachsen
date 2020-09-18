@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.355584900000004
 longitude: 7.999172300000001
-postcode: 49134
+postcode: "49134"
 city: Wallenhorst
 street: "Hansastraße"
 housenumber: 5

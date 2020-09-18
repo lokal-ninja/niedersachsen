@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.890711100000004
 longitude: 10.654608900000001
-postcode: 29559
+postcode: "29559"
 city: Wrestedt
 street: "Hauptstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.143437500000005
 longitude: 8.191932600000001
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Prinzessinweg"
 housenumber: 2

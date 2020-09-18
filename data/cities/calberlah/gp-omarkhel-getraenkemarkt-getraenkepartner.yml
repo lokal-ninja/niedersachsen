@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.4208069
 longitude: 10.626224800000001
-postcode: 38547
+postcode: "38547"
 city: Calberlah
 street: "Hauptstraße"
 housenumber: 67

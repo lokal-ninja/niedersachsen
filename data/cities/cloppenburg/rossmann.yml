@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.8451189
 longitude: 8.0400221
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Lange Straße"
 housenumber: 26-30

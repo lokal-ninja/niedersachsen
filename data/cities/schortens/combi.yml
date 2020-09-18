@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.543255200000004
 longitude: 7.9504609
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "Bahnhofstraße"
 housenumber: 8

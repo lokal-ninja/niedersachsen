@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3938398
 longitude: 9.845652000000001
-postcode: 30629
+postcode: "30629"
 city: Hannover
 street: "Buchholzer Straße"
 housenumber: 40

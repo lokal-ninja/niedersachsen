@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.185374700000004
 longitude: 8.0051241
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Peterstraße"
 housenumber: 11

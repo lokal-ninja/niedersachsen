@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.0762392
 longitude: 8.8067314
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Am Markt"
 housenumber: 1

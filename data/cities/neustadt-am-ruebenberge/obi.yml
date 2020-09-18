@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.5125423
 longitude: 9.478277700000001
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Gerhard-Mercator-Straße"
 housenumber: 2

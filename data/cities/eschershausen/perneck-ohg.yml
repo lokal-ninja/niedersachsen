@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.9266269
 longitude: 9.6412984
-postcode: 37632
+postcode: "37632"
 city: Eschershausen
 street: "Bahnhofstraße"
 housenumber: 7

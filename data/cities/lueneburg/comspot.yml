@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.2476336
 longitude: 10.4093392
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Am Sande"
 housenumber: 53

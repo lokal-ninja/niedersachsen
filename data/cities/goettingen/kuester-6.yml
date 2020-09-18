@@ -1,12 +1,12 @@
-id: 625648364
+id: 1026603014
 type: node
 shop: Bäckerei
-latitude: 51.5324314
-longitude: 9.9297251
-postcode: 37073
+latitude: 51.552154
+longitude: 9.907311400000001
+postcode: "37079"
 city: Göttingen
-street: "Groner-Tor-Straße"
-housenumber: 21
+street: "Holtenser Landstraße"
+housenumber: 52
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; PH off"
+opening_hours: "Mo-Fr 06:00-17:45; Sa 06:00-13:00; Su,PH 08:00-11:00"
 website: ""

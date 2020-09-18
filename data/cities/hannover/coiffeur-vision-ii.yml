@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.4147778
 longitude: 9.777649100000001
-postcode: 30657
+postcode: "30657"
 city: Hannover
 street: "Sahlkampmarkt"
 housenumber: 1
-phone: "+49  511 8983733"
+phone: "+495118983733"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
 website: ""

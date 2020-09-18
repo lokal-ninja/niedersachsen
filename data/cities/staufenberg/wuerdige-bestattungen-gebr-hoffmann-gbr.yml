@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.3507389
 longitude: 9.5597849
-postcode: 34355
+postcode: "34355"
 city: Staufenberg
 street: "In der Fuldaaue"
 housenumber: 8

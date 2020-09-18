@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.376516300000006
 longitude: 9.741328300000001
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Ernst-August-Platz"
 housenumber: 1

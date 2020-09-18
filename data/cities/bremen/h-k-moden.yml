@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 53.127093800000004
 longitude: 8.902844100000001
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Borgfelder Heerstraße"
 housenumber: 

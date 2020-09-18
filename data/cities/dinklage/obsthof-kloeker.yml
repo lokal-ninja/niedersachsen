@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 52.6194314
 longitude: 8.1214513
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Holdorfer Straße"
 housenumber: 84

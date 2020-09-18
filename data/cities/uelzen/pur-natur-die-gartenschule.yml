@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.938142500000005
 longitude: 10.5283651
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Celler Straße"
 housenumber: 138

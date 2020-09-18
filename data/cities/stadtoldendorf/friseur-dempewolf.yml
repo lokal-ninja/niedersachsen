@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.8840403
 longitude: 9.6245545
-postcode: 37627
+postcode: "37627"
 city: Stadtoldendorf
 street: "Kellerstraße"
 housenumber: 5

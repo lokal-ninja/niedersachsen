@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7064188
 longitude: 8.4936357
-postcode: 49406
+postcode: "49406"
 city: Barnstorf
 street: "Poggenkuhle"
 housenumber: 1

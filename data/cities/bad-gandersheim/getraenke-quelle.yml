@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.87040330000001
 longitude: 10.0157884
-postcode: 37581
+postcode: "37581"
 city: Bad Gandersheim
 street: "Holzmindener Straße"
 housenumber: 2

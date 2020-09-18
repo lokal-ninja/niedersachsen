@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.0983692
 longitude: 8.839213800000001
-postcode: 28213
+postcode: "28213"
 city: Bremen
 street: "Crüsemannallee"
 housenumber: 84

@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.419379500000005
 longitude: 10.7213928
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Hinterm Hagen"
 housenumber: 22

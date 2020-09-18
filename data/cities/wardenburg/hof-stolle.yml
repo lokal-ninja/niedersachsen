@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.081138100000004
 longitude: 8.2247942
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Sandkruger Straße"
 housenumber: 300

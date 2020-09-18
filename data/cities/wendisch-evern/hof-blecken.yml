@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.2143978
 longitude: 10.4721455
-postcode: 21403
+postcode: "21403"
 city: Wendisch Evern
 street: "Niendorfer Weg"
 housenumber: 2

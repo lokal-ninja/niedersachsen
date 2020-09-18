@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.059082100000005
 longitude: 9.0134465
-postcode: 28876
+postcode: "28876"
 city: Oyten
 street: "Hauptstraße"
 housenumber: 106

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.2541001
 longitude: 10.5311468
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Leisewitzstraße"
 housenumber: 8

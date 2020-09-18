@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 51.5385183
 longitude: 9.949924300000001
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Brüder-Grimm-Allee"
 housenumber: 8

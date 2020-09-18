@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.104409100000005
 longitude: 9.3582269
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Osterstraße"
 housenumber: 42-43

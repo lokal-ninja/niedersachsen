@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.198362
 longitude: 9.9795035
-postcode: 21274
+postcode: "21274"
 city: Undeloh
 street: "Zur Dorfeiche"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.669251100000004
 longitude: 9.2248116
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Verdener Landstraße"
 housenumber: 190

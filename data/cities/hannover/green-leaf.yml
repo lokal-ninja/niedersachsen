@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 52.3700326
 longitude: 9.70725
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Fössestraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 53.2892768
 longitude: 10.425468500000001
-postcode: 21365
+postcode: "21365"
 city: Adendorf
 street: "Artlenburger Landstraße"
 housenumber: 69

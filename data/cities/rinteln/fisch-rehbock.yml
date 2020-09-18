@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.1860816
 longitude: 9.079124400000001
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Klosterstraße"
 housenumber: 16

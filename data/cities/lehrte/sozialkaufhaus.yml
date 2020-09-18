@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.379267000000006
 longitude: 9.9757902
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Burgdorfer Straße"
 housenumber: 37

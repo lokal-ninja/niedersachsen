@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.8500116
 longitude: 8.0508678
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Osterstraße"
 housenumber: 86

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.398529700000005
 longitude: 9.714330700000001
-postcode: 
+postcode: ""
 city: Hannover
 street: "Schulenburger Landstraße"
 housenumber: 33

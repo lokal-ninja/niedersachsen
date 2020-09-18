@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.36675820000001
 longitude: 9.8010103
-postcode: 21279
+postcode: "21279"
 city: Wenzendorf
 street: "Schlepelsberg"
 housenumber: 10

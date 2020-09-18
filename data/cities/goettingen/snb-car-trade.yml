@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.540236400000005
 longitude: 9.8957513
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Abich-Thiele-Straße"
 housenumber: 4

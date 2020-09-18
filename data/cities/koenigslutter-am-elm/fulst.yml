@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 52.251391000000005
 longitude: 10.8166311
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Westernstraße"
 housenumber: 35
-phone: ""
-opening_hours: ""
+phone: "+49 5353 3313"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 06:45-12:00"
 website: ""

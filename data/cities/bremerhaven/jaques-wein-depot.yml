@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.5482754
 longitude: 8.5776138
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Lloydstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Elektrisch
 latitude: 52.6736353
 longitude: 7.956056
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Sankt Antoniort"
 housenumber: 7

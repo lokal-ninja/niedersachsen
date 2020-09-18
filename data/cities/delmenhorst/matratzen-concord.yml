@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.0403437
 longitude: 8.5939651
-postcode: 27753
+postcode: "27753"
 city: Delmenhorst
 street: "Konrad-Adenauer-Allee"
 housenumber: 5

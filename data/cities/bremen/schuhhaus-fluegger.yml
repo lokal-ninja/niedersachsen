@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.168901500000004
 longitude: 8.6949193
-postcode: 28717
+postcode: "28717"
 city: Bremen
 street: "Hindenburgstraße"
 housenumber: 27

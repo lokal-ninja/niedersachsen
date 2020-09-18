@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.473722
 longitude: 8.6517283
-postcode: 27612
+postcode: "27612"
 city: Loxstedt
 street: "Parkstraße"
 housenumber: 7

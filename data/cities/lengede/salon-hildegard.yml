@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.20524880000001
 longitude: 10.3075338
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Bodenstedter Weg"
 housenumber: 13

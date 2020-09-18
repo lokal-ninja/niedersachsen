@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.418936
 longitude: 9.7658652
-postcode: 30179
+postcode: "30179"
 city: Hannover
 street: "Tempelhofweg"
 housenumber: 4-6

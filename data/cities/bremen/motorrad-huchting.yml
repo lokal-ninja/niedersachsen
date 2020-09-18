@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 53.053677900000004
 longitude: 8.742755500000001
-postcode: 28259
+postcode: "28259"
 city: Bremen
 street: "Norderoog"
 housenumber: 3

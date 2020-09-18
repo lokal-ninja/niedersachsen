@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.1408331
 longitude: 8.2091966
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Julius-Mosen-Platz"
 housenumber: 3

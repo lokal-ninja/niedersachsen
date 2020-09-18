@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.496808
 longitude: 7.2278985
-postcode: 49835
+postcode: "49835"
 city: Wietmarschen
 street: "Hauptstraße"
 housenumber: 68

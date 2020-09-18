@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 52.257842600000004
 longitude: 10.5251608
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Lessingplatz"
 housenumber: 12

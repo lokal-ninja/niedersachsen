@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.2460882
 longitude: 10.402890600000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Bei der St. Lambertikirche"
 housenumber: 9

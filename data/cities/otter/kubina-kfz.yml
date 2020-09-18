@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.213247100000004
 longitude: 9.779401700000001
-postcode: 21259
+postcode: "21259"
 city: Otter
 street: "Dorfstraße"
 housenumber: 7

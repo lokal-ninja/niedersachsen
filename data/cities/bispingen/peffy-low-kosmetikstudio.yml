@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.0874669
 longitude: 9.9886747
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Holunderweg"
 housenumber: 2

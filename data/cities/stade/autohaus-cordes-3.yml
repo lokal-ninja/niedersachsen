@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.5905173
 longitude: 9.4864674
-postcode: 21680
+postcode: "21680"
 city: Stade
 street: "Harburger Straße"
 housenumber: 89/91

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.2114758
 longitude: 9.5689738
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Osttangente"
 housenumber: 2

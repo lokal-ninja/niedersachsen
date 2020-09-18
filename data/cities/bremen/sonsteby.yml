@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.0719447
 longitude: 8.8436733
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Am Hulsberg"
 housenumber: 13

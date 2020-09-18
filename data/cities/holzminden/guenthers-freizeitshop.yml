@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 51.8283866
 longitude: 9.4493781
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Oberbachstraße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.7277757
 longitude: 10.7415103
-postcode: 29378
+postcode: "29378"
 city: Wittingen
 street: "Lange Straße"
 housenumber: 49-51

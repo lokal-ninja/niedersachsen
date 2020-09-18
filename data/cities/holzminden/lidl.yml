@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.8341822
 longitude: 9.460595900000001
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Allersheimer Straße"
 housenumber: 38

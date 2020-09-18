@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.466350500000004
 longitude: 9.8093758
-postcode: 21149
+postcode: "21149"
 city: Hamburg
 street: "Cuxhavener Straße"
 housenumber: 545

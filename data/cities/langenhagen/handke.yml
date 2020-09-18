@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.436571900000004
 longitude: 9.7063179
-postcode: 30855
+postcode: "30855"
 city: Langenhagen
 street: ""
 housenumber: 

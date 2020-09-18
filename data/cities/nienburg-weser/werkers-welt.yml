@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.6539761
 longitude: 9.223773900000001
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Am Mußriedegraben"
 housenumber: 2

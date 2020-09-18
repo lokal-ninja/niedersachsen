@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7194061
 longitude: 10.6163834
-postcode: 38700
+postcode: "38700"
 city: Braunlage
 street: "Am Buchholzplatz"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.1415276
 longitude: 8.147989500000001
-postcode: 49176
+postcode: "49176"
 city: Hilter
 street: "Osnabrücker Straße"
 housenumber: 17

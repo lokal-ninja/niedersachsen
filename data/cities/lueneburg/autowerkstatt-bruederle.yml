@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.238456500000005
 longitude: 10.4582875
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "August-Wellenkamp-Straße"
 housenumber: 12

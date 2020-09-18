@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.7717523
 longitude: 9.0575075
-postcode: 21781
+postcode: "21781"
 city: Cadenberge
 street: "Cuxhavener Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.415911200000004
 longitude: 9.6515643
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Lange Straße"
 housenumber: 

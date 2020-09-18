@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.349796000000005
 longitude: 8.135516800000001
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Oldenburger Straße"
 housenumber: 121

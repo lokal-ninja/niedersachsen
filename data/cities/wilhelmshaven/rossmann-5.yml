@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.519209800000006
 longitude: 8.1167979
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Bahnhofstraße"
 housenumber: 10

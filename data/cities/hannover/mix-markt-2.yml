@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.399969000000006
 longitude: 9.828713500000001
-postcode: 30655
+postcode: "30655"
 city: Hannover
 street: "Schierholzstraße"
 housenumber: 128

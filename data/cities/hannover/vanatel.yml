@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.372725300000006
 longitude: 9.784690600000001
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Scheidestraße"
 housenumber: 17

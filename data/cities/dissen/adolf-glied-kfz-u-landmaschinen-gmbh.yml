@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.1136672
 longitude: 8.2092895
-postcode: 49201
+postcode: "49201"
 city: Dissen
 street: "Haller Straße"
 housenumber: 2

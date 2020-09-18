@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.6087416
 longitude: 9.476827100000001
-postcode: 21682
+postcode: "21682"
 city: Stade
 street: "Hansestraße"
 housenumber: 33

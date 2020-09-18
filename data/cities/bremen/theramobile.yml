@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.0728069
 longitude: 8.7990983
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Westerstraße"
 housenumber: 2

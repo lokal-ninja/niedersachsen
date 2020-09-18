@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.280267800000004
 longitude: 10.5012924
-postcode: 38114
+postcode: "38114"
 city: Braunschweig
 street: "Sudetenstraße"
 housenumber: 4b

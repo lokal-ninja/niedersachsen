@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.412225400000004
 longitude: 10.719049100000001
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Herzogin-Clara-Straße"
 housenumber: 15

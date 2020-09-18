@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9340168
 longitude: 10.3488254
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Lange Straße"
 housenumber: 64

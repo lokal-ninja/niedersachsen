@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.0412132
 longitude: 8.850168700000001
-postcode: 28279
+postcode: "28279"
 city: Bremen
 street: "Karl-Marx-Straße"
 housenumber: 168c

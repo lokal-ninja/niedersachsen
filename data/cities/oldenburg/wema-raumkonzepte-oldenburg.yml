@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 53.107617600000005
 longitude: 8.2478373
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Im Kleigrund"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.692307500000005
 longitude: 7.2910506
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Hasestraße"
 housenumber: 2

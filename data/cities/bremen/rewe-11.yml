@@ -1,12 +1,12 @@
-id: 3950115489
+id: 5462688499
 type: node
 shop: Supermarkt
-latitude: 53.102650700000005
-longitude: 8.8795932
-postcode: 28359
+latitude: 53.0728463
+longitude: 8.827109700000001
+postcode: "28203"
 city: Bremen
-street: "Gerold-Janssen-Straße"
-housenumber: 2
+street: "Vor dem Steintor"
+housenumber: 74
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30; Su,PH off"
+opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5258033
 longitude: 9.885710600000001
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Herbert-Quandt-Straße"
 housenumber: 8

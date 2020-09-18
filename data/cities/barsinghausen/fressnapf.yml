@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.2898964
 longitude: 9.499946900000001
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Stoppstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3307323
 longitude: 10.6702472
-postcode: 38165
+postcode: "38165"
 city: Lehre
 street: "Berliner Straße"
 housenumber: 72

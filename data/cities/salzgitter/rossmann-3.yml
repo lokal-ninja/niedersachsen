@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.0507627
 longitude: 10.370489200000002
-postcode: 38259
+postcode: "38259"
 city: Salzgitter
 street: "An der Erzbahn"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.3153075
 longitude: 10.212977200000001
-postcode: 31226
+postcode: "31226"
 city: Peine
 street: "Werner-Nordmeyer-Straße"
 housenumber: 8

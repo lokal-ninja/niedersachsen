@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.382015900000006
 longitude: 10.402409800000001
-postcode: 38530
+postcode: "38530"
 city: Didderse
 street: "Hillerser Straße"
 housenumber: 7

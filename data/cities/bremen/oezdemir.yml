@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.172228000000004
 longitude: 8.6213187
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Breite Straße"
 housenumber: 4

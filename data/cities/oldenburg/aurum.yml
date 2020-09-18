@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.139838600000004
 longitude: 8.2148584
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Achternstraße"
 housenumber: 39

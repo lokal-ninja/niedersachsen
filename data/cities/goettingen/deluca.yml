@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.5353877
 longitude: 9.9348677
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Weender Straße"
 housenumber: 53

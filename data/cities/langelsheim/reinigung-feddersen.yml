@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.93660860000001
 longitude: 10.3347694
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Bahnhofstraße"
 housenumber: 2

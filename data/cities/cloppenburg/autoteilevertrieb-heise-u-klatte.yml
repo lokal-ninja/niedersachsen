@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 52.8373793
 longitude: 8.0752842
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Philipp-Reis-Straße"
 housenumber: 11a

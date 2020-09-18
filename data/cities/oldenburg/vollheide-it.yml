@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.1422984
 longitude: 8.2121084
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Sartoriusgang"
 housenumber: 8-10

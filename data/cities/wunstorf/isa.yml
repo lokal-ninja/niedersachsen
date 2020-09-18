@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 52.4263476
 longitude: 9.427327100000001
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Nordstraße"
 housenumber: 3

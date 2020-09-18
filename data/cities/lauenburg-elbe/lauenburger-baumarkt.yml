@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.3781206
 longitude: 10.5470412
-postcode: 21481
+postcode: "21481"
 city: Lauenburg/Elbe
 street: "Reeperbahn"
 housenumber: 35a

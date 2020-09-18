@@ -3,7 +3,7 @@ type: node
 shop: Staubsauger
 latitude: 52.275874800000004
 longitude: 8.0439521
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Krahnstraße"
 housenumber: 31

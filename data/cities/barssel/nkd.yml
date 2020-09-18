@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.1686254
 longitude: 7.7462518000000005
-postcode: 26676
+postcode: "26676"
 city: Barßel
 street: "Lange Straße"
 housenumber: 31

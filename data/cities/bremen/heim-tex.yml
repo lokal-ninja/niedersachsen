@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.073695
 longitude: 8.926048900000001
-postcode: 28327
+postcode: "28327"
 city: Bremen
 street: "Max-Säume-Straße"
 housenumber: 33

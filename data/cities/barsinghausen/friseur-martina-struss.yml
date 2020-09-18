@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.30193920000001
 longitude: 9.4652954
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Osterstraße"
 housenumber: 2

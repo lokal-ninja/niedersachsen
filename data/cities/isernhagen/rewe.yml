@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.431204900000004
 longitude: 9.8529491
-postcode: 30916
+postcode: "30916"
 city: Isernhagen
 street: "Bothfelder Straße"
 housenumber: 15-17

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.2083549
 longitude: 9.551357300000001
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Zum Oberntor"
 housenumber: 20-22

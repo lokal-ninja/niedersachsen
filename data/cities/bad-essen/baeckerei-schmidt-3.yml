@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.31924600000001
 longitude: 8.344835
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Lindenstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 53.2634209
 longitude: 10.4135632
-postcode: 21339
+postcode: "21339"
 city: Lüneburg
 street: "Arenskule"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.0497395
 longitude: 8.6275577
-postcode: 27749
+postcode: "27749"
 city: Delmenhorst
 street: "Lange Straße"
 housenumber: 11

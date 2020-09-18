@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.3853274
 longitude: 10.419492400000001
-postcode: 21395
+postcode: "21395"
 city: Tespe
 street: "Lüneburger Straße"
 housenumber: 114

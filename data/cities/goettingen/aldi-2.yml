@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.526704800000005
 longitude: 9.924982700000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Leinestraße"
 housenumber: 49

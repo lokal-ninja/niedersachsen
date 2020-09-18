@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 53.038022000000005
 longitude: 8.6407636
-postcode: 27755
+postcode: "27755"
 city: Delmenhorst
 street: "Düsternortstraße"
 housenumber: 57

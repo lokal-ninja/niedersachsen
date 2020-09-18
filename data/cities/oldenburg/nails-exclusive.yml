@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.1590463
 longitude: 8.244287
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Friedrich-Naumann-Straße"
 housenumber: 6

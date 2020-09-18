@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2514589
 longitude: 10.6433257
-postcode: 38162
+postcode: "38162"
 city: Cremlingen
 street: "Im Moorbusche"
 housenumber: 2

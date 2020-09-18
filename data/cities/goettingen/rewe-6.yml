@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.52684970000001
 longitude: 9.9520216
-postcode: 37085
+postcode: "37085"
 city: Göttingen
 street: "Am Steinsgraben"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5296407
 longitude: 9.9399449
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Am Geismartor"
 housenumber: 2

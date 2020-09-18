@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.225492800000005
 longitude: 8.5914307
-postcode: 28790
+postcode: "28790"
 city: Schwanewede
 street: "Hospitalstraße"
 housenumber: 8

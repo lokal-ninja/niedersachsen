@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.80763
 longitude: 8.903909
-postcode: 21762
+postcode: "21762"
 city: Otterndorf
 street: "Marktstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.275665000000004
 longitude: 8.0402552
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Dielingerstraße"
 housenumber: 11

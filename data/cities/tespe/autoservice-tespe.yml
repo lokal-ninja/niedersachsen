@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.386295200000006
 longitude: 10.4240796
-postcode: 21395
+postcode: "21395"
 city: Tespe
 street: "Avendorfer Weg"
 housenumber: 61

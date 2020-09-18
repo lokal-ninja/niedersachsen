@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 53.50800520000001
 longitude: 8.795863
-postcode: 27619
+postcode: "27619"
 city: Schiffdorf
 street: "Wesermünder Straße"
 housenumber: 42

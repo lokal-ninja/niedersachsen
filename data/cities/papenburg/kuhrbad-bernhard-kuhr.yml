@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.0769613
 longitude: 7.399635300000001
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Hauptkanal rechts"
 housenumber: 85

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.2476332
 longitude: 8.063993700000001
-postcode: 49082
+postcode: "49082"
 city: Osnabrück
 street: "Iburger Straße"
 housenumber: 225

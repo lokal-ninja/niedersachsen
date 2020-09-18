@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.139355
 longitude: 8.1350654
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Mittellinie"
 housenumber: 22

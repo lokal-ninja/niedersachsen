@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.569270200000005
 longitude: 9.6120018
-postcode: 21720
+postcode: "21720"
 city: Grünendeich
 street: "Kurze Straße"
 housenumber: 18

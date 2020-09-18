@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3984152
 longitude: 9.775384800000001
-postcode: 30177
+postcode: "30177"
 city: Hannover
 street: "Podbielskistraße"
 housenumber: 178

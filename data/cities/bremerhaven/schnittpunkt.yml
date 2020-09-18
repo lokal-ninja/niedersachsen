@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5412393
 longitude: 8.582686
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Theodor-Heuss-Platz"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.8493604
 longitude: 8.0292414
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Magdeburger Straße"
 housenumber: 8

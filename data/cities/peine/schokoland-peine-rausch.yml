@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.3397584
 longitude: 10.2454183
-postcode: 31228
+postcode: "31228"
 city: Peine
 street: "Wilhelm-Rausch-Straße"
 housenumber: 4a

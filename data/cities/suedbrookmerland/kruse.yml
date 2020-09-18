@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.5211157
 longitude: 7.3444938
-postcode: 26624
+postcode: "26624"
 city: Südbrookmerland
 street: "Tom-Brook-Straße"
 housenumber: 128

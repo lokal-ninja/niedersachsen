@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.116905700000004
 longitude: 8.8972729
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Feldhauser Straße"
 housenumber: 6

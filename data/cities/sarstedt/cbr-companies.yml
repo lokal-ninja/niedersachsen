@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 52.2342012
 longitude: 9.853563900000001
-postcode: 31157
+postcode: "31157"
 city: Sarstedt
 street: "Steinstraße"
 housenumber: 25
-phone: "+49 05066 8188150"
+phone: "+49 5066 8188150"
 opening_hours: ""
 website: ""

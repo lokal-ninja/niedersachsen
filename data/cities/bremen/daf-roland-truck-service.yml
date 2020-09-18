@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.0438259
 longitude: 8.9543782
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Heinz-Kerneck-Straße"
 housenumber: 12

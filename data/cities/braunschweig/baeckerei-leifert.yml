@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.317984300000006
 longitude: 10.5343797
-postcode: 38110
+postcode: "38110"
 city: Braunschweig
 street: "Waggumer Straße"
 housenumber: 8c

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.3145892
 longitude: 10.2710033
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Lehmkuhlenweg"
 housenumber: 72

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.5129736
 longitude: 10.256573600000001
-postcode: 37115
+postcode: "37115"
 city: Duderstadt
 street: "Auf der Spiegelbrücke"
 housenumber: 8

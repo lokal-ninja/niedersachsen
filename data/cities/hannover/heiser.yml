@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 52.3417115
 longitude: 9.8364755
-postcode: 30539
+postcode: "30539"
 city: Hannover
 street: "Oheriedentrift"
 housenumber: 32
 phone: "+49 511 950 77 59"
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-12:00; Su,PH 08:00-11:00"
 website: ""

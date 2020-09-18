@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.048737200000005
 longitude: 8.957565200000001
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

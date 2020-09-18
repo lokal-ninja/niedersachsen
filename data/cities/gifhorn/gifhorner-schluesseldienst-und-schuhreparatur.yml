@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 52.483912800000006
 longitude: 10.5458136
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Steinweg"
 housenumber: 76

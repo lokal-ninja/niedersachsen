@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.6220374
 longitude: 10.0801114
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Westcellertorstraße"
 housenumber: 3

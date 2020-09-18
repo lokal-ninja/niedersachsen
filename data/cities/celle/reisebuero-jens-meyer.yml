@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.6248111
 longitude: 10.0821961
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Neue Straße"
 housenumber: 3

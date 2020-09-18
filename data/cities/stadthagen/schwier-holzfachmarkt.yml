@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.3300312
 longitude: 9.191534
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Bahnhofstraße"
 housenumber: 69

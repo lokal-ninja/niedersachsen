@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 52.1109522
 longitude: 9.548660700000001
-postcode: 31863
+postcode: "31863"
 city: Coppenbrügge
 street: "Lindenbrunn"
 housenumber: 1

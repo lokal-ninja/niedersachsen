@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.2600271
 longitude: 10.5489954
-postcode: 38104
+postcode: "38104"
 city: Braunschweig
 street: "Georg-Westermann-Allee"
 housenumber: 18

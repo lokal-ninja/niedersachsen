@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.4777945
 longitude: 10.542912300000001
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Braunschweiger Straße"
 housenumber: 34

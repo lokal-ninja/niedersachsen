@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.305692300000004
 longitude: 10.4674306
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Am Grasplatz"
 housenumber: 4

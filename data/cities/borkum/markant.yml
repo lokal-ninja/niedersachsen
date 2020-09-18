@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.581775900000004
 longitude: 6.6773556
-postcode: 26757
+postcode: "26757"
 city: Borkum
 street: "Deichstraße"
 housenumber: 58

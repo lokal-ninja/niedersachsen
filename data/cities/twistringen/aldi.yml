@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7993843
 longitude: 8.636621700000001
-postcode: 27239
+postcode: "27239"
 city: Twistringen
 street: "Große Straße"
 housenumber: 18

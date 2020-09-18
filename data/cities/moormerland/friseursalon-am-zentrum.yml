@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.30650970000001
 longitude: 7.4851523
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Königsstraße"
 housenumber: 58

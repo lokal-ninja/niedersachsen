@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 52.899391900000005
 longitude: 9.7597156
-postcode: 29683
+postcode: "29683"
 city: Bad Fallingbostel
 street: "Westendorfer Straße"
 housenumber: 30
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 5163 2004"
+opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-16:30; Sa 08:00-12:00; PH off"
+website: "https://www.johannes-dorfmark.de"

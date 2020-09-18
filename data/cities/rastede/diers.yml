@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.2452856
 longitude: 8.197935300000001
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Bahnhofstraße"
 housenumber: 2

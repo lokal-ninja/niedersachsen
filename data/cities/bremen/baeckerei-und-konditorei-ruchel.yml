@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.100853300000004
 longitude: 8.874536200000001
-postcode: 28359
+postcode: "28359"
 city: Bremen
 street: "Am Brahmkamp"
 housenumber: 54

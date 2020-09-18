@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.173329700000004
 longitude: 9.6619633
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Nordstraße"
 housenumber: 26a

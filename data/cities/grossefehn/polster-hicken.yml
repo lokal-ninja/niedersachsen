@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.4028854
 longitude: 7.590861500000001
-postcode: 26629
+postcode: "26629"
 city: Großefehn
 street: "Kanalstraße Nord"
 housenumber: 49

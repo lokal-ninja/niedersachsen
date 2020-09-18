@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.3679463
 longitude: 7.191881100000001
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Ubierstraße"
 housenumber: 

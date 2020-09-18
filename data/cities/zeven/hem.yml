@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.30055290000001
 longitude: 9.2750079
-postcode: 27404
+postcode: "27404"
 city: Zeven
 street: "Kivinanstraße"
 housenumber: 38

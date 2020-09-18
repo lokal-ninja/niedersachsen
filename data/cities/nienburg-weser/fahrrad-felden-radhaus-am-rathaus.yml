@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.638327200000006
 longitude: 9.2045755
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Lange Straße"
 housenumber: 19-23

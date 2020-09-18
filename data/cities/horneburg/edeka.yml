@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.507966
 longitude: 9.583913
-postcode: 21640
+postcode: "21640"
 city: Horneburg
 street: "Auedamm"
 housenumber: 3

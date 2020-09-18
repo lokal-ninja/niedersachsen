@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.168769000000005
 longitude: 9.4820978
-postcode: 27383
+postcode: "27383"
 city: Scheeßel
 street: "Zevener Straße"
 housenumber: 1

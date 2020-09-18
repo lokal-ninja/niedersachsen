@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.300102200000005
 longitude: 7.594007100000001
-postcode: 26835
+postcode: "26835"
 city: Hesel
 street: "Im Brink"
 housenumber: 2

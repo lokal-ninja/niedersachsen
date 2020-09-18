@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.124648400000005
 longitude: 8.379388200000001
-postcode: 27798
+postcode: "27798"
 city: Hude
 street: "Hauptmoorweg"
 housenumber: 3

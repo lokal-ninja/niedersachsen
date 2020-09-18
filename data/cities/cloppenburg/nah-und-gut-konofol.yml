@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8400441
 longitude: 8.0262536
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Vahrener Straße"
 housenumber: 1

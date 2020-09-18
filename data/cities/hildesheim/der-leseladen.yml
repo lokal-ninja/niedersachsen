@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.1345394
 longitude: 9.9734672
-postcode: 31141
+postcode: "31141"
 city: Hildesheim
 street: "Marienburger Platz"
 housenumber: 2

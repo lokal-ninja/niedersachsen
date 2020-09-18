@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.6249904
 longitude: 10.0802309
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Kanzleistraße"
 housenumber: 14

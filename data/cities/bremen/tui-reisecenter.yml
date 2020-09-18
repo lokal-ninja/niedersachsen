@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.170136400000004
 longitude: 8.6243742
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Reeder-Bischoff-Straße"
 housenumber: 26

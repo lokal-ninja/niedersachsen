@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.2402765
 longitude: 9.801013900000001
-postcode: 21261
+postcode: "21261"
 city: Welle
 street: "Tostedter Straße"
 housenumber: 1

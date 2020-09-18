@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.2780004
 longitude: 9.3510354
-postcode: 31867
+postcode: "31867"
 city: Lauenau
 street: "Hanomagstraße"
 housenumber: 2

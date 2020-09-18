@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9340307
 longitude: 9.6670522
-postcode: 37632
+postcode: "37632"
 city: Holzen
 street: "Hilsstraße"
 housenumber: 44

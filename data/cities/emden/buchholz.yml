@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.3672917
 longitude: 7.18053
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Kopersand"
 housenumber: 12

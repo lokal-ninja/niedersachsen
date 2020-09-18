@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.6760711
 longitude: 10.3735744
-postcode: 29351
+postcode: "29351"
 city: Eldingen
 street: "Lindenstraße"
 housenumber: 16

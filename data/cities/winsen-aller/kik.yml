@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.682428800000004
 longitude: 9.9111235
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Poststraße"
 housenumber: 28

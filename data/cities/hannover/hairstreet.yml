@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3790868
 longitude: 9.730040800000001
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Am Klagesmarkt"
 housenumber: 51

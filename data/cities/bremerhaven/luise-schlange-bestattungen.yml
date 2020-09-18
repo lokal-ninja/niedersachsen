@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.5602303
 longitude: 8.5861648
-postcode: 27576
+postcode: "27576"
 city: Bremerhaven
 street: "Hafenstraße"
 housenumber: 142

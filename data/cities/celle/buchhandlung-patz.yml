@@ -3,10 +3,10 @@ type: node
 shop: Schreibwaren
 latitude: 52.61697710000001
 longitude: 10.094047100000001
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Blumlage"
 housenumber: 67
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-13:00,14:30-18:00; Sa 08:00-12:00; PH off"
 website: "http://www.buchhandlungpatz.de/"

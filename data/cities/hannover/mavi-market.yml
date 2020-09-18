@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4053716
 longitude: 9.6600895
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Stöckener Straße"
 housenumber: 132B

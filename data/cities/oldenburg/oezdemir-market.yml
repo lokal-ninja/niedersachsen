@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.1507529
 longitude: 8.2377961
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Wehdestraße"
 housenumber: 9

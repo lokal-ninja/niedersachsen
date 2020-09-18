@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5958169
 longitude: 9.4197513
-postcode: 21682
+postcode: "21682"
 city: Stade
 street: ""
 housenumber: 

@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 52.7452692
 longitude: 8.282328600000001
-postcode: 49377
+postcode: "49377"
 city: Vechta
 street: "Oldenburger Straße"
 housenumber: 7
 phone: "+49 4441 9120"
-opening_hours: ""
-website: "http://www.anders.mercedes-benz.de"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+website: "https://www.mercedes-benz-anders.de/de/desktop/home.html"

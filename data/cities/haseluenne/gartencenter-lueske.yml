@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.6863316
 longitude: 7.488697500000001
-postcode: 49740
+postcode: "49740"
 city: Haselünne
 street: "Auf dem Höwel"
 housenumber: 16

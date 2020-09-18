@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3285002
 longitude: 10.395502
-postcode: 38176
+postcode: "38176"
 city: Wendeburg
 street: "Hoher Hof"
 housenumber: 37

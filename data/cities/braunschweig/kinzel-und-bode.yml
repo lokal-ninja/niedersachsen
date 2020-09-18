@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.26329500000001
 longitude: 10.5443282
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Kastanienallee"
 housenumber: 20

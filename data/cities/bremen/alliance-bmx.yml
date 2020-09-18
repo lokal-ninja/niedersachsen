@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.088483200000006
 longitude: 8.8090138
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Findorffstraße"
 housenumber: 46,48

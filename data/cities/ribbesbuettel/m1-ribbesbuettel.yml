@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 52.4329283
 longitude: 10.4854087
-postcode: 38551
+postcode: "38551"
 city: Ribbesbüttel
 street: "Hauptstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.602038
 longitude: 10.0745641
-postcode: 29227
+postcode: "29227"
 city: Celle
 street: "Vogelberg"
 housenumber: 5

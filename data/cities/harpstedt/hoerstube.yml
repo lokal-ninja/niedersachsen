@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.9084663
 longitude: 8.5827334
-postcode: 27243
+postcode: "27243"
 city: Harpstedt
 street: "Burgstraße"
 housenumber: 39

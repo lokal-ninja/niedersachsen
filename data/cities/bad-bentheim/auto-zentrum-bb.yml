@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.306969800000005
 longitude: 7.168857900000001
-postcode: 48455
+postcode: "48455"
 city: Bad Bentheim
 street: "Heinrich-Heine-Straße"
 housenumber: 2

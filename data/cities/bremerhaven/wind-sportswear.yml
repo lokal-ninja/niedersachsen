@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.5435597
 longitude: 8.5794646
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Bürgermeister-Smidt-Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.4431905
 longitude: 9.691471700000001
-postcode: 30855
+postcode: "30855"
 city: Langenhagen
 street: "Bayernstraße"
 housenumber: 37

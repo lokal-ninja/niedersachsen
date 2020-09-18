@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.506447800000004
 longitude: 8.5971404
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Weserstraße"
 housenumber: 90

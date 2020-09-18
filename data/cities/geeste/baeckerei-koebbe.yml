@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.601009700000006
 longitude: 7.2677509
-postcode: 49744
+postcode: "49744"
 city: Geeste
 street: "Antoniusstraße"
 housenumber: 8

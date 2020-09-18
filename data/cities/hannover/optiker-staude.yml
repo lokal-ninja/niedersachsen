@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.372767700000004
 longitude: 9.7396847
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Georgstraße"
 housenumber: 40

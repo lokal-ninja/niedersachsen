@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4091752
 longitude: 9.801603
-postcode: 30659
+postcode: "30659"
 city: Hannover
 street: "Adolf-Emmelmann-Straße"
 housenumber: 7

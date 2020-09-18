@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.6842191
 longitude: 8.833677
-postcode: 27232
+postcode: "27232"
 city: Sulingen
 street: "Nienburger Straße"
 housenumber: 135

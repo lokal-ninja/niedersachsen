@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.1667721
 longitude: 7.350596500000001
-postcode: 26826
+postcode: "26826"
 city: Weener
 street: "Neue Straße"
 housenumber: 

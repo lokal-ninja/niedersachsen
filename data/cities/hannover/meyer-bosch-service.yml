@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 52.3663606
 longitude: 9.762480400000001
-postcode: 
+postcode: ""
 city: Hannover
 street: "Anna-Zammert-Straße"
 housenumber: 25
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-16:00"
 website: ""

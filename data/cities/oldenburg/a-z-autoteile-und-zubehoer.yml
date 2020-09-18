@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 53.104522200000005
 longitude: 8.20498
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Cloppenburger Straße"
 housenumber: 458

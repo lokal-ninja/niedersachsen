@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.77638760000001
 longitude: 9.0015108
-postcode: 27330
+postcode: "27330"
 city: Asendorf
 street: "Alte Heerstraße"
 housenumber: 67

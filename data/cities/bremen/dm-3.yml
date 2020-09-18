@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.1808124
 longitude: 8.5677286
-postcode: 28779
+postcode: "28779"
 city: Bremen
 street: "Weserstrandstraße"
 housenumber: 17f

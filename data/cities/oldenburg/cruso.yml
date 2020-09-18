@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.1422546
 longitude: 8.2121394
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Sartoriusgang"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.4180234
 longitude: 9.7655753
-postcode: 30179
+postcode: "30179"
 city: Hannover
 street: "Wittenberger Straße"
 housenumber: 140

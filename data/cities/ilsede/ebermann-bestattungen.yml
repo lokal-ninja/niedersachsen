@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.264110200000005
 longitude: 10.2217037
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "Gerhardstraße"
 housenumber: 77

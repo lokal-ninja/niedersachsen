@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.2488408
 longitude: 10.406420800000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Schröderstraße"
 housenumber: 2

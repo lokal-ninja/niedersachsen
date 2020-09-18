@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 52.2663292
 longitude: 10.5373962
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Fasanenstraße"
 housenumber: 63

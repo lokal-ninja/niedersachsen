@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.5817746
 longitude: 7.2228954000000005
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Gartenweg"
 housenumber: 27

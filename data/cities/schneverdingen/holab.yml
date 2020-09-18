@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.120232200000004
 longitude: 9.7832609
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Marktstraße"
 housenumber: 8a

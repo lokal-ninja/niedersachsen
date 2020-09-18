@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.328328000000006
 longitude: 9.8782051
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Breite Straße"
 housenumber: 11a

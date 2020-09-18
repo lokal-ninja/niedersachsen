@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.68244120000001
 longitude: 8.80711
-postcode: 27232
+postcode: "27232"
 city: Sulingen
 street: "Lange Straße"
 housenumber: 29

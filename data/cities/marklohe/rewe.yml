@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6653657
 longitude: 9.156321400000001
-postcode: 31608
+postcode: "31608"
 city: Marklohe
 street: "Hoyaer Straße"
 housenumber: 27

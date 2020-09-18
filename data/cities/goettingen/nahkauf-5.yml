@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5725014
 longitude: 9.934831500000001
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Ludwig-Prandtl-Straße"
 housenumber: 26

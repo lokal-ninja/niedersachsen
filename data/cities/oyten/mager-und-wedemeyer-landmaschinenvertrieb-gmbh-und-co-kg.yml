@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.057559000000005
 longitude: 9.0339285
-postcode: 28876
+postcode: "28876"
 city: Oyten
 street: "Industriestraße"
 housenumber: 35-39

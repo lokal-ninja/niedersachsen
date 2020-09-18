@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5169043
 longitude: 8.603956700000001
-postcode: 27574
+postcode: "27574"
 city: Bremerhaven
 street: "Boschstraße"
 housenumber: 17-19

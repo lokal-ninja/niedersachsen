@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.373044
 longitude: 9.708387
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 

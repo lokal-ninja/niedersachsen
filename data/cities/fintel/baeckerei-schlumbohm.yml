@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.171893000000004
 longitude: 9.6678244
-postcode: 27389
+postcode: "27389"
 city: Fintel
 street: "Pferdemarkt"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.25184410000001
 longitude: 8.101249300000001
-postcode: 49086
+postcode: "49086"
 city: Osnabrück
 street: "Meller Landstraße"
 housenumber: 54

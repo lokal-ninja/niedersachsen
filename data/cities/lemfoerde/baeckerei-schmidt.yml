@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4706836
 longitude: 8.3741781
-postcode: 49448
+postcode: "49448"
 city: Lemförde
 street: "Hauptstraße"
 housenumber: 44

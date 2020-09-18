@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.4641661
 longitude: 9.7943657
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Bahnhofstraße"
 housenumber: 9

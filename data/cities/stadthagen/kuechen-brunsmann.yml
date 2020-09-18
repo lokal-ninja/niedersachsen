@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.329357300000005
 longitude: 9.2195354
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Am Helweg"
 housenumber: 5

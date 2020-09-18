@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 52.3446975
 longitude: 8.2239343
-postcode: 49179
+postcode: "49179"
 city: Ostercappeln
 street: "Gartenstraße"
 housenumber: 9

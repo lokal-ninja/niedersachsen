@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.09579050000001
 longitude: 8.7822783
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Steffensweg"
 housenumber: 151

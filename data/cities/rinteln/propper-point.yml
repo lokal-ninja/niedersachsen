@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.186354
 longitude: 9.0792286
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Klosterstraße"
 housenumber: 12

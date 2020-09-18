@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 53.144205400000004
 longitude: 8.2110682
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Grüne Straße"
 housenumber: 18

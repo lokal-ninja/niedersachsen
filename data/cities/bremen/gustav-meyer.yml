@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.153891300000005
 longitude: 8.705498500000001
-postcode: 28719
+postcode: "28719"
 city: Bremen
 street: "Burger Heerstraße"
 housenumber: 15

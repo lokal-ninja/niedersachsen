@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.390967
 longitude: 7.208202900000001
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Auricher Straße"
 housenumber: 216

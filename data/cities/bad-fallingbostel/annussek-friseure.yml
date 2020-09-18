@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.8653661
 longitude: 9.691624800000001
-postcode: 29683
+postcode: "29683"
 city: Bad Fallingbostel
 street: "Düshorner Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.605394700000005
 longitude: 9.0919343
-postcode: 31618
+postcode: "31618"
 city: Liebenau
 street: ""
 housenumber: 

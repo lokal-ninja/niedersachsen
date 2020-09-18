@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.6211397
 longitude: 8.7296469
-postcode: 27259
+postcode: "27259"
 city: Varrel
 street: "Poststraße"
 housenumber: 1

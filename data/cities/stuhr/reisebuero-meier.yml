@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 53.0118914
 longitude: 8.7886834
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Bassumer Straße"
 housenumber: 6

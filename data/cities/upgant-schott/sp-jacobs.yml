@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.522656500000004
 longitude: 7.283882200000001
-postcode: 26529
+postcode: "26529"
 city: Upgant-Schott
 street: "Keno-tom-Brook-Straße"
 housenumber: 7

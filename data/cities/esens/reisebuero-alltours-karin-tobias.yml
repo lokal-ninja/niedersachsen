@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.6445328
 longitude: 7.6129784
-postcode: 26427
+postcode: "26427"
 city: Esens
 street: "Steinstraße"
 housenumber: 42

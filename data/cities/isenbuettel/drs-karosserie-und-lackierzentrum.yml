@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.4431559
 longitude: 10.594482600000001
-postcode: 38550
+postcode: "38550"
 city: Isenbüttel
 street: "Gehrenkamp"
 housenumber: 5

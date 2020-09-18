@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.1409333
 longitude: 10.304053300000001
-postcode: 38228
+postcode: "38228"
 city: Salzgitter
 street: "Kurt-Schumacher-Ring"
 housenumber: 4

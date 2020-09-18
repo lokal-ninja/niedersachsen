@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.0954423
 longitude: 8.786846
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Vegesacker Straße"
 housenumber: 1

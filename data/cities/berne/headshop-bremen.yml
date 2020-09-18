@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.1792828
 longitude: 8.4904717
-postcode: 27804
+postcode: "27804"
 city: Berne
 street: "Dorfstraße"
 housenumber: 9

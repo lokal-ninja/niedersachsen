@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.185058000000005
 longitude: 8.9828302
-postcode: 28879
+postcode: "28879"
 city: Grasberg
 street: "Kirchdamm"
 housenumber: 1 B

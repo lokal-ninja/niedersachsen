@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.0315026
 longitude: 9.6994872
-postcode: 29643
+postcode: "29643"
 city: Neuenkirchen
 street: "Visselhöveder Straße"
 housenumber: 9

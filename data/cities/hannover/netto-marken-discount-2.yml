@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.426888500000004
 longitude: 9.7086929
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Alt-Vinnhorst"
 housenumber: 80

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.39659150000001
 longitude: 9.6391234
-postcode: 30926
+postcode: "30926"
 city: Seelze
 street: "Lange-Feld-Straße"
 housenumber: 47

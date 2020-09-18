@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.072392900000004
 longitude: 8.841074800000001
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Am Schwarzen Meer"
 housenumber: 143

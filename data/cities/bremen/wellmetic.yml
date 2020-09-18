@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.081091400000005
 longitude: 8.8098537
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Hillmannplatz"
 housenumber: 11

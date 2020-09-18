@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.6289019
 longitude: 10.4657
-postcode: 37431
+postcode: "37431"
 city: Bad Lauterberg
 street: "Hauptstraße"
 housenumber: 94

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.311303200000005
 longitude: 9.6029599
-postcode: 30989
+postcode: "30989"
 city: Gehrden
 street: "Dammtor"
 housenumber: 9

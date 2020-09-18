@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.6390547
 longitude: 10.0753894
-postcode: 29223
+postcode: "29223"
 city: Celle
 street: "Telefunkenstraße"
 housenumber: 33

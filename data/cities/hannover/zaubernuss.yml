@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.394890000000004
 longitude: 9.762936
-postcode: 30177
+postcode: "30177"
 city: Hannover
 street: "Vier Grenzen"
 housenumber: 1

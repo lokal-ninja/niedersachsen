@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.5284435
 longitude: 9.6974775
-postcode: 21635
+postcode: "21635"
 city: Jork
 street: "Osterjork"
 housenumber: 102

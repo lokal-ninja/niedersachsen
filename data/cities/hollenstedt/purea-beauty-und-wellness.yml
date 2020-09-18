@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.366294
 longitude: 9.709587200000001
-postcode: 21279
+postcode: "21279"
 city: Hollenstedt
 street: "Hauptstraße"
 housenumber: 23

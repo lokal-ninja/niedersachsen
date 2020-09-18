@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6854863
 longitude: 8.563518100000001
-postcode: 27639
+postcode: "27639"
 city: Wurster Nordseeküste
 street: "Poststraße"
 housenumber: 17

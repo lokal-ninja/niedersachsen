@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.3315421
 longitude: 9.6299799
-postcode: 30952
+postcode: "30952"
 city: Ronnenberg
 street: "Hermann-Löns-Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.146226500000004
 longitude: 8.2113414
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Pferdemarkt"
 housenumber: 7

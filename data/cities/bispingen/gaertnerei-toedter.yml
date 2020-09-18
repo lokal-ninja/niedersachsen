@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.087032
 longitude: 10.0075033
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Hützeler Straße"
 housenumber: 41

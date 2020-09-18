@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.33852340000001
 longitude: 9.7693428
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Peiner Straße"
 housenumber: 5

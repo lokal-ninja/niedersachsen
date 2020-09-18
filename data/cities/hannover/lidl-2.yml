@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.377734800000006
 longitude: 9.742794
-postcode: 30161
+postcode: "30161"
 city: Hannover
 street: "Niki-de-Saint-Phalle-Promenade"
 housenumber: 86

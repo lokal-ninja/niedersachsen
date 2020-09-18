@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.28884480000001
 longitude: 9.1489537
-postcode: 31688
+postcode: "31688"
 city: Nienstädt
 street: "Kurzer Weg"
 housenumber: 4

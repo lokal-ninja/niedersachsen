@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.5884366
 longitude: 9.926479
-postcode: 37120
+postcode: "37120"
 city: Bovenden
 street: "Göttinger Straße"
 housenumber: 33b

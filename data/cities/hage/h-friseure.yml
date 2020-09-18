@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.6029934
 longitude: 7.285630200000001
-postcode: 26524
+postcode: "26524"
 city: Hage
 street: "Hauptstraße"
 housenumber: 39

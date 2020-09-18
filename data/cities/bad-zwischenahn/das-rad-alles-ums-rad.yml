@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.173571100000004
 longitude: 8.1579228
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Theodor-Storm-Straße"
 housenumber: 27

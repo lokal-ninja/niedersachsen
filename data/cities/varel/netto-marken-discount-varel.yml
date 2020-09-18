@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.402657600000005
 longitude: 8.147713000000001
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Hafenstraße"
 housenumber: 6A

@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 52.15737360000001
 longitude: 8.0439381
-postcode: 49186
+postcode: "49186"
 city: Bad Iburg
 street: "Schloßstraße"
 housenumber: 19

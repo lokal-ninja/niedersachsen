@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.0726936
 longitude: 8.821713200000001
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Ostertorsteinweg"
 housenumber: 96

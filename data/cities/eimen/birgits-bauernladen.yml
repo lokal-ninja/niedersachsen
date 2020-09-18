@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.88602100000001
 longitude: 9.752041
-postcode: 37632
+postcode: "37632"
 city: Eimen
 street: "Eschershäuser Straße"
 housenumber: 19

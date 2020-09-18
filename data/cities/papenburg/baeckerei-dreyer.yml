@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.075078500000004
 longitude: 7.441026300000001
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Splitting links"
 housenumber: 19

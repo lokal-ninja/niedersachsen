@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 52.320976400000006
 longitude: 10.2425247
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Woltorfer Straße"
 housenumber: 51a

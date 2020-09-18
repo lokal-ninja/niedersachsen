@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.769930300000006
 longitude: 10.033451600000001
-postcode: 29303
+postcode: "29303"
 city: Bergen
 street: "Am Salinenbach"
 housenumber: 10a

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.0333115
 longitude: 9.7017235
-postcode: 29643
+postcode: "29643"
 city: Neuenkirchen
 street: "Hauptstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.5251487
 longitude: 10.364224100000001
-postcode: 38539
+postcode: "38539"
 city: Müden (Aller)
 street: "Hauptstraße"
 housenumber: 33

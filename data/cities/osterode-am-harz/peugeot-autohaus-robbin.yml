@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.7230573
 longitude: 10.259399400000001
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Herzberger Straße"
 housenumber: 22

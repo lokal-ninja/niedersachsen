@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.1764967
 longitude: 8.6161145
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Albrecht-Poppe-Straße"
 housenumber: 19

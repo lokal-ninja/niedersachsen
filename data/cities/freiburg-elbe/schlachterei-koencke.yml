@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.8262687
 longitude: 9.2887179
-postcode: 21729
+postcode: "21729"
 city: Freiburg (Elbe)
 street: "Hans-Mügge-Straße"
 housenumber: 7

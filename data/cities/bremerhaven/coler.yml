@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.587794300000006
 longitude: 8.6053767
-postcode: 27578
+postcode: "27578"
 city: Bremerhaven
 street: "Fritz-Erler-Straße"
 housenumber: 13

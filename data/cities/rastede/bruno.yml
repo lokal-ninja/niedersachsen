@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 53.251476700000005
 longitude: 8.1930177
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Oldenburger Straße"
 housenumber: 296
-phone: ""
+phone: "+49 4402 81877"
 opening_hours: ""
 website: "https://bruno-ol.de/"

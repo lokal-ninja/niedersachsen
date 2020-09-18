@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.4951488
 longitude: 6.8881243
-postcode: 49843
+postcode: "49843"
 city: Uelsen
 street: "Am Markt"
 housenumber: 4

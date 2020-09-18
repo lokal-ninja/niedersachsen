@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5106927
 longitude: 9.9499159
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Karl-Methe-Straße"
 housenumber: 1

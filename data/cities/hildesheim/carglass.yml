@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1625802
 longitude: 9.9626484
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Drispenstedter Straße"
 housenumber: 10

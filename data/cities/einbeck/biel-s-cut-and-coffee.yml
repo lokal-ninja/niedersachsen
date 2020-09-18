@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8199989
 longitude: 9.8533956
-postcode: 37574
+postcode: "37574"
 city: Einbeck
 street: "Kohnser Weg"
 housenumber: 13

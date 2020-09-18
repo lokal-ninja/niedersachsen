@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 53.0521625
 longitude: 8.6299074
-postcode: 27749
+postcode: "27749"
 city: Delmenhorst
 street: "Bahnhofstraße"
 housenumber: 22

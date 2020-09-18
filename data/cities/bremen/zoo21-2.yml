@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.1595067
 longitude: 8.703501000000001
-postcode: 28719
+postcode: "28719"
 city: Bremen
 street: "Bremer Heerstraße"
 housenumber: 10

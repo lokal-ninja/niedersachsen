@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.492522900000004
 longitude: 8.5963744
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Bohmsiel"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.4689254
 longitude: 7.474699
-postcode: 26603
+postcode: "26603"
 city: Aurich
 street: "Oldersumer Straße"
 housenumber: 6-8

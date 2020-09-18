@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.965602100000005
 longitude: 9.5752352
-postcode: 37619
+postcode: "37619"
 city: Kirchbrak
 street: "Tiebrink"
 housenumber: 4

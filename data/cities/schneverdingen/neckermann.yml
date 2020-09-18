@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.115917100000004
 longitude: 9.788872600000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Verdener Straße"
 housenumber: 21

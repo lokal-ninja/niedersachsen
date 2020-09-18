@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.438745000000004
 longitude: 7.074716400000001
-postcode: 48529
+postcode: "48529"
 city: Nordhorn
 street: "Lingener Straße"
 housenumber: 36

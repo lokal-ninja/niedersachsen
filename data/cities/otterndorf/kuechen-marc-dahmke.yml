@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 53.8102443
 longitude: 8.888669700000001
-postcode: 21762
+postcode: "21762"
 city: Otterndorf
 street: "Ackerstraße"
 housenumber: 9

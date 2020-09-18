@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.43428900000001
 longitude: 7.070966
-postcode: 48529
+postcode: "48529"
 city: Nordhorn
 street: "Kokenmühlenstraße"
 housenumber: 5-7

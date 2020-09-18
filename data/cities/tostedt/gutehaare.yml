@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2797482
 longitude: 9.7138129
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Bahnhofstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5915656
 longitude: 8.6189716
-postcode: 27578
+postcode: "27578"
 city: Bremerhaven
 street: "Wilhelm-Leuschner-Straße"
 housenumber: 3

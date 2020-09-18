@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.2101124
 longitude: 8.226950200000001
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Am Nordkreuz"
 housenumber: 16

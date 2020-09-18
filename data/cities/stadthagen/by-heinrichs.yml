@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.335331700000005
 longitude: 9.181483100000001
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Nordsehler Straße"
 housenumber: 30

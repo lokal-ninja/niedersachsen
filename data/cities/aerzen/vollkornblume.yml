@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.072040900000005
 longitude: 9.224601700000001
-postcode: 31855
+postcode: "31855"
 city: Aerzen
 street: "Schulstraße"
 housenumber: 11

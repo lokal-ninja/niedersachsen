@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.1512119
 longitude: 8.1784279
-postcode: 26129
+postcode: "26129"
 city: Oldenburg
 street: "Ammerländer Heerstraße"
 housenumber: 166-176

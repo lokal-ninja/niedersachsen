@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8623472
 longitude: 8.7044502
-postcode: 27472
+postcode: "27472"
 city: Cuxhaven
 street: "Konrad-Adenauer-Allee"
 housenumber: 5

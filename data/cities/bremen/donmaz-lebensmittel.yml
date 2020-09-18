@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 53.066864200000005
 longitude: 8.794187500000001
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Friedrich-Ebert-Straße"
 housenumber: 143
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-19:30"
 website: ""

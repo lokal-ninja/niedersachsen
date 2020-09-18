@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.026571600000004
 longitude: 11.4578766
-postcode: 29471
+postcode: "29471"
 city: Gartow
 street: "Springstraße"
 housenumber: 31

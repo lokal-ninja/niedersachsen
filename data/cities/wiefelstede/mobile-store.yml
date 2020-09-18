@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.2546661
 longitude: 8.1171617
-postcode: 26215
+postcode: "26215"
 city: Wiefelstede
 street: "Hauptstraße"
 housenumber: 35

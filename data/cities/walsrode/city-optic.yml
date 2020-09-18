@@ -1,12 +1,12 @@
 id: 7066608583
 type: node
 shop: Optiker
-latitude: 52.8630203
-longitude: 9.593839500000001
-postcode: 29664
+latitude: 52.8630228
+longitude: 9.593841600000001
+postcode: "29664"
 city: Walsrode
 street: "Kleiner Graben"
-housenumber: 20E
+housenumber: 20e
 phone: "+49 5161 8887"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00; PH off"
 website: "https://www.cityoptic-walsrode.de"

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6647175
 longitude: 9.742255100000001
-postcode: 37170
+postcode: "37170"
 city: Uslar
 street: "Bollertstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.4136595
 longitude: 9.254094
-postcode: 31556
+postcode: "31556"
 city: Wölpinghausen
 street: "Bergkirchener Straße"
 housenumber: 14

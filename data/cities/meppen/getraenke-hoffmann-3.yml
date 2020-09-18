@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.6842185
 longitude: 7.295819600000001
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Lingener Straße"
 housenumber: 73

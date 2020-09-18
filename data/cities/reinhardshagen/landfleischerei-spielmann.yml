@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.494553700000004
 longitude: 9.605183
-postcode: 34359
+postcode: "34359"
 city: Reinhardshagen
 street: "Lange Straße"
 housenumber: 27

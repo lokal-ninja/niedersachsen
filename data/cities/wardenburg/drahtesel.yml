@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.050099100000004
 longitude: 8.2120201
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Schehnberger Weg"
 housenumber: 15

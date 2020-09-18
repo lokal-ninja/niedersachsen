@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.580952
 longitude: 8.626585
-postcode: 27619
+postcode: "27619"
 city: Schiffdorf
 street: "Neufelder Weg"
 housenumber: 1

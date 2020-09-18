@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4751989
 longitude: 10.5555736
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Alter Postweg"
 housenumber: 41

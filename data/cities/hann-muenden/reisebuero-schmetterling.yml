@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.4164581
 longitude: 9.6506483
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Kirchplatz"
 housenumber: 11

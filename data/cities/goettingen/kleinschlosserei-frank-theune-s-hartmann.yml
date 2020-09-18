@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.5520603
 longitude: 9.915519600000001
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Hagenweg"
 housenumber: 2k

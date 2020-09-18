@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0725324
 longitude: 8.8626321
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Stresemannstraße"
 housenumber: 20

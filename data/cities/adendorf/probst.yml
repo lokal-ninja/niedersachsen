@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.2809486
 longitude: 10.438458200000001
-postcode: 21365
+postcode: "21365"
 city: Adendorf
 street: "Kirchweg"
 housenumber: 50 f

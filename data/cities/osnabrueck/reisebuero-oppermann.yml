@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.2666564
 longitude: 8.0601812
-postcode: 49082
+postcode: "49082"
 city: Osnabrück
 street: "Wasastraße"
 housenumber: 8b

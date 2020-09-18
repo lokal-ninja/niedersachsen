@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.3331285
 longitude: 10.1176744
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Gut Adolphshof"
 housenumber: 1

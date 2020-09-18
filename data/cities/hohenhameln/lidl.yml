@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.259816300000004
 longitude: 10.066133800000001
-postcode: 31249
+postcode: "31249"
 city: Hohenhameln
 street: "Marktstraße"
 housenumber: 28

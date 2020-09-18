@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2675014
 longitude: 10.5405637
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Altewiekring"
 housenumber: 28

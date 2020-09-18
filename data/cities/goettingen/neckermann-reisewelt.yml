@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.5314661
 longitude: 9.935656
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kurze Straße"
 housenumber: 8

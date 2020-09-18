@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.048813300000006
 longitude: 8.9575943
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

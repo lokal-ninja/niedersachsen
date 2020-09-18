@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.270478600000004
 longitude: 9.008306900000001
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Petzer Straße"
 housenumber: 49

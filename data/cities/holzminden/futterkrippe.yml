@@ -1,11 +1,11 @@
-id: 315770676
-type: way
+id: 7470870681
+type: node
 shop: Tiere
-latitude: 51.839999500000005
-longitude: 9.464549100000001
-postcode: 37603
+latitude: 51.8397948
+longitude: 9.4645554
+postcode: "37603"
 city: Holzminden
-street: "Max-Planck-Straße"
+street: "Gaußstraße"
 housenumber: 3
 phone: "+49 5531 990710"
 opening_hours: ""

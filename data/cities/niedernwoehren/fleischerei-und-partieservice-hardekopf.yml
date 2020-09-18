@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.351421300000005
 longitude: 9.139593600000001
-postcode: 31712
+postcode: "31712"
 city: Niedernwöhren
 street: "Brunnenstraße"
 housenumber: 19

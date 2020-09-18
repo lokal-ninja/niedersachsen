@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.4255755
 longitude: 10.791490600000001
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Alessandro-Volta-Straße"
 housenumber: 20

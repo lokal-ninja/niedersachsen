@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.3674583
 longitude: 9.710837300000001
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Teichstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.203652600000005
 longitude: 10.306483400000001
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Konsumstraße"
 housenumber: 9

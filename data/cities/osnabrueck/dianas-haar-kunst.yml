@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2720223
 longitude: 8.037546
-postcode: 49078
+postcode: "49078"
 city: Osnabrück
 street: "Arndtplatz"
 housenumber: 2

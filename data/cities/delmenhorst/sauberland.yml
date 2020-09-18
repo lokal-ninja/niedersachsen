@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.0648289
 longitude: 8.622648400000001
-postcode: 27753
+postcode: "27753"
 city: Delmenhorst
 street: "Schönemoorer Straße"
 housenumber: 77

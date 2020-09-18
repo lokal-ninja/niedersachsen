@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.291946100000004
 longitude: 10.3708641
-postcode: 21357
+postcode: "21357"
 city: Bardowick
 street: "Am Bahnhof"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2555727
 longitude: 10.5440845
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "BraWo-Allee"
 housenumber: 1

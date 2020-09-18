@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.2936623
 longitude: 10.5985169
-postcode: 38104
+postcode: "38104"
 city: Braunschweig
 street: "Kirchweg"
 housenumber: 7a

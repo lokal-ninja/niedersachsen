@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.342149500000005
 longitude: 10.044529800000001
-postcode: 21220
+postcode: "21220"
 city: Seevetal
 street: "Osterwald"
 housenumber: 1-3

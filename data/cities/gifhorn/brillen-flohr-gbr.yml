@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.4869944
 longitude: 10.5465531
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Steinweg"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.127185100000005
 longitude: 8.236495900000001
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Bremer Heerstraße"
 housenumber: 82-84

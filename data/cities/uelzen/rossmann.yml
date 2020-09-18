@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.964832400000006
 longitude: 10.561026400000001
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Veerßer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 53.0042126
 longitude: 8.779431500000001
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Bassumer Straße"
 housenumber: 103

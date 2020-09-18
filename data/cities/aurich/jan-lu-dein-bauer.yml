@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.470237600000004
 longitude: 7.482436900000001
-postcode: 26603
+postcode: "26603"
 city: Aurich
 street: "Marktplatz"
 housenumber: 

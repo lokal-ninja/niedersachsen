@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.6091593
 longitude: 8.369131900000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Lange Straße"
 housenumber: 63

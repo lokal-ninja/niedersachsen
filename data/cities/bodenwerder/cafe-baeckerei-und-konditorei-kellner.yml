@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9711938
 longitude: 9.517775700000001
-postcode: 37619
+postcode: "37619"
 city: Bodenwerder
 street: "Hindenburgstraße"
 housenumber: 

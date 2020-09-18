@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.3855827
 longitude: 10.4187434
-postcode: 21395
+postcode: "21395"
 city: Tespe
 street: "Lüneburger Straße"
 housenumber: 112

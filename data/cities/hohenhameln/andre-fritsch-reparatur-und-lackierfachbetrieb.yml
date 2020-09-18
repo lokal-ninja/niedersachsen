@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2891587
 longitude: 10.1204432
-postcode: 31249
+postcode: "31249"
 city: Hohenhameln
 street: "Maschfeld"
 housenumber: 3

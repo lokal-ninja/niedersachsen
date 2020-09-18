@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.3208302
 longitude: 10.2295607
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Gröpern"
 housenumber: 20

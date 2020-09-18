@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.493775400000004
 longitude: 10.0080592
-postcode: 37130
+postcode: "37130"
 city: Gleichen
 street: "Steinslieth"
 housenumber: 5

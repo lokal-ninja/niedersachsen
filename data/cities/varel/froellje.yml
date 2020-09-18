@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.4505441
 longitude: 8.117779500000001
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Edo-Wiemken-Straße"
 housenumber: 60

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4264585
 longitude: 9.5976002
-postcode: 30823
+postcode: "30823"
 city: Garbsen
 street: "Havelser Straße"
 housenumber: 

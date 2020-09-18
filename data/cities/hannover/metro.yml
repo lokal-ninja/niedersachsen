@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 52.3499539
 longitude: 9.695210600000001
-postcode: 30453
+postcode: "30453"
 city: Hannover
 street: "Am Tönniesberg"
 housenumber: 18

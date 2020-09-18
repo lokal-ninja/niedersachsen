@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.606591900000005
 longitude: 8.3694123
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Mühlenstraße"
 housenumber: 14

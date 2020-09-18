@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.4469246
 longitude: 9.356191
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Im Sandbrinke"
 housenumber: 30

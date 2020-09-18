@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.421838
 longitude: 10.7217445
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Wolfsburger Landstraße"
 housenumber: 4

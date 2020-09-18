@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.44671700000001
 longitude: 10.7768118
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "Zu dem Balken"
 housenumber: 19a

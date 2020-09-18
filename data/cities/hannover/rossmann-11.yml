@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3564529
 longitude: 9.853010600000001
-postcode: 30559
+postcode: "30559"
 city: Hannover
 street: "Ohefeldweg"
 housenumber: 17

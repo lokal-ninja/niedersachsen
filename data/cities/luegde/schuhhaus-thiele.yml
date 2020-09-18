@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.9582325
 longitude: 9.2451165
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Brückenstraße"
 housenumber: 6

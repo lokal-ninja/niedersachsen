@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.365569
 longitude: 9.753672700000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Große Barlinge"
 housenumber: 56

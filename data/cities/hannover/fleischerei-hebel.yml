@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.394342900000005
 longitude: 9.6889909
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Bussilliatweg"
 housenumber: 12

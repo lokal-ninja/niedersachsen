@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7402923
 longitude: 10.2284628
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Lasfelder Straße"
 housenumber: 1

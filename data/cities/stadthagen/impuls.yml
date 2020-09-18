@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.3256687
 longitude: 9.205838
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Niedernstraße"
 housenumber: 36

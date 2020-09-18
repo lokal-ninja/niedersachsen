@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.111539900000004
 longitude: 8.7671854
-postcode: 28237
+postcode: "28237"
 city: Bremen
 street: "Gröpelinger Heerstraße"
 housenumber: 94

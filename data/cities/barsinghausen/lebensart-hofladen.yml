@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.3856741
 longitude: 9.4886482
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Bultfeld"
 housenumber: 2

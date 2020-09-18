@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.1376749
 longitude: 8.22671
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Emsstraße"
 housenumber: 3-7

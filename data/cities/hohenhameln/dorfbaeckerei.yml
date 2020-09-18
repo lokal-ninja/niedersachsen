@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.244306800000004
 longitude: 10.1148667
-postcode: 31249
+postcode: "31249"
 city: Hohenhameln
 street: "Thingstraße"
 housenumber: 7

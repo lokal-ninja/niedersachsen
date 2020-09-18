@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.053391700000006
 longitude: 8.958503
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Werner-Steenken-Straße"
 housenumber: 5

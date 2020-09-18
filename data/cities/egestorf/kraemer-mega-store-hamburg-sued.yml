@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.194279800000004
 longitude: 10.076648
-postcode: 21272
+postcode: "21272"
 city: Egestorf
 street: "Buchenring"
 housenumber: 12

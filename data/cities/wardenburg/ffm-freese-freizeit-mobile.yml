@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.0471099
 longitude: 8.2128555
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Keilstraße"
 housenumber: 3

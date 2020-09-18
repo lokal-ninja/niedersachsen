@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.5213661
 longitude: 8.5873691
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Am Pumpwerk"
 housenumber: 2

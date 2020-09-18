@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.4255768
 longitude: 9.9083202
-postcode: 37133
+postcode: "37133"
 city: Friedland
 street: "Gedächtnisring"
 housenumber: 16

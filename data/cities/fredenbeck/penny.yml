@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.524927100000006
 longitude: 9.4156001
-postcode: 21717
+postcode: "21717"
 city: Fredenbeck
 street: "Hauptstraße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.534625500000004
 longitude: 9.9301929
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Goethe-Allee"
 housenumber: 4a

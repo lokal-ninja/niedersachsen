@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.3890874
 longitude: 9.7511235
-postcode: 30163
+postcode: "30163"
 city: Hannover
 street: "Podbielskistraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.12745150000001
 longitude: 7.9839142
-postcode: 26188
+postcode: "26188"
 city: Edewecht
 street: "Hauptstraße"
 housenumber: 54

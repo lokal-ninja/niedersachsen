@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.06272310000001
 longitude: 8.1955294
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Friedrichstraße"
 housenumber: 11

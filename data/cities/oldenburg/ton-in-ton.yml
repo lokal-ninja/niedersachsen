@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.1394485
 longitude: 8.2115907
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Gaststraße"
 housenumber: 21

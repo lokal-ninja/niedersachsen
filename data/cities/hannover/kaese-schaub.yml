@@ -3,10 +3,10 @@ type: node
 shop: Käse
 latitude: 52.364701200000006
 longitude: 9.7472629
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 31
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-We 10:00-18:00; Th,Fr 09:00-18:00; Sa 09:00-13:00"
 website: ""

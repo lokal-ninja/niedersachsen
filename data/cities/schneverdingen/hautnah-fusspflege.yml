@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.121216700000005
 longitude: 9.7879015
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Schulstraße"
 housenumber: 17

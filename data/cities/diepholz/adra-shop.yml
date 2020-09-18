@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 52.594613300000006
 longitude: 8.3686773
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Enge Straße"
 housenumber: 19

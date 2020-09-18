@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.122716000000004
 longitude: 8.9001286
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Borgfelder Heerstraße"
 housenumber: 25

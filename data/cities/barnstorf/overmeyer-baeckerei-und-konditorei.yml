@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.705944900000006
 longitude: 8.494045100000001
-postcode: 49406
+postcode: "49406"
 city: Barnstorf
 street: "Poggenkuhle"
 housenumber: 1

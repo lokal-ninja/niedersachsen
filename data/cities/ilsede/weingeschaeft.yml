@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.2456474
 longitude: 10.220316700000001
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Junkernberg"
 housenumber: 12

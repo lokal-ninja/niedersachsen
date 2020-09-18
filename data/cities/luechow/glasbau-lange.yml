@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 52.9676592
 longitude: 11.152477900000001
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 37

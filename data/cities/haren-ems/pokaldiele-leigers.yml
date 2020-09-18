@@ -3,7 +3,7 @@ type: node
 shop: Pokal
 latitude: 52.832843100000005
 longitude: 7.1035363
-postcode: 49733
+postcode: "49733"
 city: Haren (Ems)
 street: "Lindenallee"
 housenumber: 40a

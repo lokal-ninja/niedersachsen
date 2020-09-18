@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.4881347
 longitude: 9.1425798
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Neue Straße"
 housenumber: 82

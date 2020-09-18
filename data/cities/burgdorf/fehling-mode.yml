@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.446600800000006
 longitude: 10.0070789
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Marktstraße"
 housenumber: 56

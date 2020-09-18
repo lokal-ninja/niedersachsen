@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.137558500000004
 longitude: 10.954745
-postcode: 38364
+postcode: "38364"
 city: Schöningen
 street: "Hoiersdorfer Straße"
 housenumber: 4

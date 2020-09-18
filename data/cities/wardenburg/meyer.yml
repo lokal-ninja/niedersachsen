@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0889103
 longitude: 8.126800900000001
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Korsorsstraße"
 housenumber: 162

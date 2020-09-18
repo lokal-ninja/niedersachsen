@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.303661500000004
 longitude: 7.4869487
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Königsstraße"
 housenumber: 41

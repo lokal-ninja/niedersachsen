@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.3504798
 longitude: 9.8666339
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Nordring"
 housenumber: 6

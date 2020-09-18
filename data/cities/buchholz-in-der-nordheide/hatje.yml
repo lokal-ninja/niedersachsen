@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.3274009
 longitude: 9.824199400000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Ritscherstraße"
 housenumber: 28

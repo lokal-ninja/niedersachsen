@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.463610200000005
 longitude: 10.1968419
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Burgdorfer Straße"
 housenumber: 23

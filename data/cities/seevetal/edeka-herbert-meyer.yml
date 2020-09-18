@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.385589700000004
 longitude: 9.9788302
-postcode: 21218
+postcode: "21218"
 city: Seevetal
 street: "Pastorenwiesen"
 housenumber: 26

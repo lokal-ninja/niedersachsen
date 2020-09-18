@@ -1,12 +1,12 @@
-id: 213551902
-type: way
+id: 5405841999
+type: node
 shop: Wäscherei
-latitude: 52.4201259
-longitude: 9.799210200000001
-postcode: 30659
+latitude: 52.380741500000006
+longitude: 9.8129934
+postcode: "30625"
 city: Hannover
-street: "Kurze-Kamp-Straße"
-housenumber: 1e
+street: "Heidering"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 08:15-18:00; Sa 08:15-13:00"
+opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00"
 website: ""

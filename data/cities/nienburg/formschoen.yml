@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.6371905
 longitude: 9.2053401
-postcode: 31582
+postcode: "31582"
 city: Nienburg
 street: "Mühlenstraße"
 housenumber: 11

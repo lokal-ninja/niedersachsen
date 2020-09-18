@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.367548400000004
 longitude: 9.757075500000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Sonnenweg"
 housenumber: 25

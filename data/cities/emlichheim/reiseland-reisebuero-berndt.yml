@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.6057708
 longitude: 6.850427000000001
-postcode: 49824
+postcode: "49824"
 city: Emlichheim
 street: "Hauptstraße"
 housenumber: 18

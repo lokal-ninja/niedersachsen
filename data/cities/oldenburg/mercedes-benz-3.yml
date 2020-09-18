@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.120490600000004
 longitude: 8.2575424
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Bremer Heerstraße"
 housenumber: 267

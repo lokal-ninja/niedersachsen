@@ -3,7 +3,7 @@ type: node
 shop: Staubsauger
 latitude: 53.050337000000006
 longitude: 8.958618000000001
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

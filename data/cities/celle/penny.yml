@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.6230817
 longitude: 10.086652500000001
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: ""
 housenumber: 

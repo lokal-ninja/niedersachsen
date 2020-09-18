@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.364764
 longitude: 9.9113498
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Barnstorfplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.6391976
 longitude: 9.205686100000001
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Lange Straße"
 housenumber: 36

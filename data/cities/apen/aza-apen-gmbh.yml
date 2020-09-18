@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.2182764
 longitude: 7.794797000000001
-postcode: 26689
+postcode: "26689"
 city: Apen
 street: "Hauptstraße"
 housenumber: 235

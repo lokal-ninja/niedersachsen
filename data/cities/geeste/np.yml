@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.624243400000005
 longitude: 7.233809000000001
-postcode: 49744
+postcode: "49744"
 city: Geeste
 street: "Ludgeristraße"
 housenumber: 2

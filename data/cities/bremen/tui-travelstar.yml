@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.048208900000006
 longitude: 8.8490795
-postcode: 28279
+postcode: "28279"
 city: Bremen
 street: "Steinsetzerstraße"
 housenumber: 11

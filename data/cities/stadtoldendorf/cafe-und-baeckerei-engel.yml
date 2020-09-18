@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.882535000000004
 longitude: 9.6235584
-postcode: 37627
+postcode: "37627"
 city: Stadtoldendorf
 street: "Neue Straße"
 housenumber: 1

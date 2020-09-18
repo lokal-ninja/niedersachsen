@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1212572
 longitude: 8.1930145
-postcode: 26131
+postcode: "26131"
 city: Oldenburg
 street: "Hundsmühler Straße"
 housenumber: 131

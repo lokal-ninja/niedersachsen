@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.121937100000004
 longitude: 7.9288099
-postcode: 26188
+postcode: "26188"
 city: Edewecht
 street: "Osterschepser Straße"
 housenumber: 23

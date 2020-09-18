@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.356251
 longitude: 9.6734232
-postcode: 30455
+postcode: "30455"
 city: Hannover
 street: "Badenstedter Straße"
 housenumber: 194

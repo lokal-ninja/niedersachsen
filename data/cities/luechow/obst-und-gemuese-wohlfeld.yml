@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 52.967647500000005
 longitude: 11.1536732
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 31a

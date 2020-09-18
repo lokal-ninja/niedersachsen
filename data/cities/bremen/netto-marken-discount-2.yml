@@ -1,12 +1,12 @@
-id: 156581917
+id: 123325459
 type: way
 shop: Supermarkt
-latitude: 53.0673833
-longitude: 8.8650842
-postcode: 28207
+latitude: 53.0899293
+longitude: 8.857017
+postcode: "28213"
 city: Bremen
-street: "Hastedter Heerstraße"
-housenumber: 120
+street: "Riensberger Straße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

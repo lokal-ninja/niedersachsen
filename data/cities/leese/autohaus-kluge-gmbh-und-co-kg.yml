@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.5010515
 longitude: 9.118905900000001
-postcode: 31633
+postcode: "31633"
 city: Leese
 street: "Alter Hoop"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.2450696
 longitude: 10.217670700000001
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Am Thie"
 housenumber: 7

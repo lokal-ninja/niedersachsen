@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.168204300000006
 longitude: 7.3573389
-postcode: 26826
+postcode: "26826"
 city: Weener
 street: "Norderstraße"
 housenumber: 54-60

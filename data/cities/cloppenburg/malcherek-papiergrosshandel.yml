@@ -3,10 +3,10 @@ type: way
 shop: Schreibwaren
 latitude: 52.843915100000004
 longitude: 8.051655400000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Emsteker Straße"
 housenumber: 27
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 4471 931941"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off"
+website: "http://www.felix-malcherek.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.4649719
 longitude: 10.2032617
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Kaiserstraße"
 housenumber: 5

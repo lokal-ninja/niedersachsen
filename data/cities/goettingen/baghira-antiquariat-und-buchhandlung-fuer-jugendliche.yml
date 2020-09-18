@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.5332785
 longitude: 9.9404385
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Wendenstraße"
 housenumber: 2

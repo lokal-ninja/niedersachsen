@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.395085900000005
 longitude: 8.1382008
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Kleine Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.0274731
 longitude: 9.512736400000001
-postcode: 31860
+postcode: "31860"
 city: Esperde
 street: "Kniepstraße"
 housenumber: 3

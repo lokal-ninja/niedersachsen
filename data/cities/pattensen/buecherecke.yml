@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.264030600000005
 longitude: 9.7603153
-postcode: 30982
+postcode: "30982"
 city: Pattensen
 street: "Dammstraße"
 housenumber: 2

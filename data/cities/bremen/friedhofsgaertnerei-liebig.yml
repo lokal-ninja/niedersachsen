@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.091239200000004
 longitude: 8.8553332
-postcode: 28213
+postcode: "28213"
 city: Bremen
 street: "Ortfeldstraße"
 housenumber: 11

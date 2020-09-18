@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.2213489
 longitude: 10.5646778
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "In den Springäckern"
 housenumber: 1b

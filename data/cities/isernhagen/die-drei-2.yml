@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4619605
 longitude: 9.8192281
-postcode: 30916
+postcode: "30916"
 city: Isernhagen
 street: "Dorfstraße"
 housenumber: 54

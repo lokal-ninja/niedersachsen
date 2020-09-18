@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.6106136
 longitude: 10.0994679
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Braunschweiger Heerstraße"
 housenumber: 49A

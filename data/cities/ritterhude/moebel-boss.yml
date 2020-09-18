@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.182315800000005
 longitude: 8.712118400000001
-postcode: 27721
+postcode: "27721"
 city: Ritterhude
 street: "An der Ihle"
 housenumber: 7

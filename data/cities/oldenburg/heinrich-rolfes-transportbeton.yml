@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 53.1049312
 longitude: 8.2677122
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Am Schulgraben"
 housenumber: 11

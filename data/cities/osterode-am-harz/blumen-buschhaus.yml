@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.728439900000005
 longitude: 10.2545455
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Scheerenberger Straße"
 housenumber: 6

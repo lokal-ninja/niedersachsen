@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.162975
 longitude: 10.533606800000001
-postcode: 38300
+postcode: "38300"
 city: Wolfenbüttel
 street: "Krambuden"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.2503431
 longitude: 10.410509000000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Rosenstraße"
 housenumber: 1

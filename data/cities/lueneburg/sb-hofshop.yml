@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.2129302
 longitude: 10.3696829
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Lüneburger Straße"
 housenumber: 21

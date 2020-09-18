@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.861829900000004
 longitude: 9.592196000000001
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Moorstraße"
 housenumber: 35

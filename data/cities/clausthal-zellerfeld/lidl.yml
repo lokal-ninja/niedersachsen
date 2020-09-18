@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8124011
 longitude: 10.3407595
-postcode: 38678
+postcode: "38678"
 city: Clausthal-Zellerfeld
 street: "Bauhofstraße"
 housenumber: 21-25

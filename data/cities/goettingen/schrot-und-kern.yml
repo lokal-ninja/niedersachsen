@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.564190100000005
 longitude: 9.937066600000001
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Springstraße"
 housenumber: 19

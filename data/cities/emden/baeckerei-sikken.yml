@@ -1,12 +1,12 @@
-id: 203172985
-type: way
+id: 513575238
+type: node
 shop: Bäckerei
-latitude: 53.340323000000005
-longitude: 7.2274647000000005
-postcode: 26725
+latitude: 53.37224440000001
+longitude: 7.2239335
+postcode: "26725"
 city: Emden
-street: "Petkumer Straße"
-housenumber: 288
-phone: ""
-opening_hours: ""
+street: "Ziegeleistraße"
+housenumber: 33
+phone: "+49 4921 950761"
+opening_hours: "Mo-Sa 05:00-20:00; Su 07:30-11:00"
 website: ""

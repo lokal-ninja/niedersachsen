@@ -1,12 +1,12 @@
-id: 127063908
-type: way
+id: 5859192731
+type: node
 shop: Bäckerei
-latitude: 53.379736900000005
-longitude: 7.1959773
-postcode: 26721
+latitude: 53.3575108
+longitude: 7.1901378000000005
+postcode: "26723"
 city: Emden
-street: "Hoher Weg"
-housenumber: 1a
-phone: "+49 4921 586422"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-13:00; Su 07:30-10:30"
-website: "http://www.baeckerbuchholz.de"
+street: "Dollartstraße"
+housenumber: 11
+phone: ""
+opening_hours: ""
+website: ""

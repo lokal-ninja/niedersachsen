@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 53.1439359
 longitude: 8.2130957
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Heiligengeiststraße"
 housenumber: 3

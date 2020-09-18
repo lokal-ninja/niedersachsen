@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4095104
 longitude: 9.800742900000001
-postcode: 30659
+postcode: "30659"
 city: Hannover
 street: "Adolf-Emmelmann-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.3687855
 longitude: 10.727613600000002
-postcode: 38444
+postcode: "38444"
 city: Wolfsburg
 street: "Brandgehaege"
 housenumber: 7

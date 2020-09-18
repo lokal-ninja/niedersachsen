@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 52.204645400000004
 longitude: 10.3069977
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Bodenstedter Weg"
 housenumber: 1

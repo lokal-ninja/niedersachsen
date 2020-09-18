@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.961980700000005
 longitude: 9.0228926
-postcode: 27321
+postcode: "27321"
 city: Thedinghausen
 street: "Braunschweiger Straße"
 housenumber: 45

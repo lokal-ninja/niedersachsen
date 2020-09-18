@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.4015232
 longitude: 9.519962600000001
-postcode: 30926
+postcode: "30926"
 city: Seelze
 street: "Auf dem Kampe"
 housenumber: 

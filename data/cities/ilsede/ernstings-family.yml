@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.264454300000004
 longitude: 10.218063500000001
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "Eichstraße"
 housenumber: 12

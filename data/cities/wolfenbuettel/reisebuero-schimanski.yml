@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.163870300000006
 longitude: 10.5363688
-postcode: 38300
+postcode: "38300"
 city: Wolfenbüttel
 street: "Am Alten Tore"
 housenumber: 4

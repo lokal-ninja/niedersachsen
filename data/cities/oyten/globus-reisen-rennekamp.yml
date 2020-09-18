@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.0607562
 longitude: 9.0196597
-postcode: 28876
+postcode: "28876"
 city: Oyten
 street: "Hauptstraße"
 housenumber: 68

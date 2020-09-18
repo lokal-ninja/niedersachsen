@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.28624730000001
 longitude: 8.950740600000001
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "An der Grille"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.426833200000004
 longitude: 9.4326136
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Stiftsstraße"
 housenumber: 24

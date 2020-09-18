@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8335092
 longitude: 10.675174700000001
-postcode: 29389
+postcode: "29389"
 city: Bad Bodenteich
 street: "Bergstraße"
 housenumber: 7

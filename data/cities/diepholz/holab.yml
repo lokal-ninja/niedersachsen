@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.606839400000005
 longitude: 8.361710200000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Carl-Schwarze-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.8448532
 longitude: 8.6926663
-postcode: 27472
+postcode: "27472"
 city: Cuxhaven
 street: "Abschnede"
 housenumber: 

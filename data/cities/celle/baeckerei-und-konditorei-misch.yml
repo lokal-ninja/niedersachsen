@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.6368237
 longitude: 10.0933527
-postcode: 29223
+postcode: "29223"
 city: Celle
 street: "Sprengerstraße"
 housenumber: 34

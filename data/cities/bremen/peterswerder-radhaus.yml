@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.068333700000004
 longitude: 8.845873300000001
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Hamburger Straße"
 housenumber: 197

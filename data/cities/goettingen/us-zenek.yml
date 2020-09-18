@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5329221
 longitude: 9.9317819
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Johannisstraße"
 housenumber: 32

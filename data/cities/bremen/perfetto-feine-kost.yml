@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.077063300000006
 longitude: 8.8067694
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Obernstraße"
 housenumber: 5-33

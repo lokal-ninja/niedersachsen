@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.3190916
 longitude: 10.3992036
-postcode: 38176
+postcode: "38176"
 city: Wendeburg
 street: "Südwinkel"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.660536400000005
 longitude: 9.3909898
-postcode: 37697
+postcode: "37697"
 city: Lauenförde
 street: "Bahnhofstraße"
 housenumber: 49

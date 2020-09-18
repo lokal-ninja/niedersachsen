@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.0512207
 longitude: 10.3719023
-postcode: 38259
+postcode: "38259"
 city: Salzgitter
 street: ""
 housenumber: 

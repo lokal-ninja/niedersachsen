@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3899534
 longitude: 9.454673900000001
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Mühlenweg"
 housenumber: 8

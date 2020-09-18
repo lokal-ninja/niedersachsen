@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.38515760000001
 longitude: 7.206144800000001
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Auricher Straße"
 housenumber: 153

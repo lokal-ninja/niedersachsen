@@ -3,10 +3,10 @@ type: node
 shop: Spielzeug
 latitude: 52.9674619
 longitude: 11.154857900000001
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 54
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: "Mo-Fr 10:00-18:00; 10:00-13:00; PH off"
 website: ""

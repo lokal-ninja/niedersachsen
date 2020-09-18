@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.126382400000004
 longitude: 8.2397317
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Bremer Heerstraße"
 housenumber: 116

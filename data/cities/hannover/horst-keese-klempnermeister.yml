@@ -3,7 +3,7 @@ type: node
 shop: Klempner
 latitude: 52.3661077
 longitude: 9.7536356
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Große Barlinge"
 housenumber: 42

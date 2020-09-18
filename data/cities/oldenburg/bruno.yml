@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1352363
 longitude: 8.2184305
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Damm"
 housenumber: 21

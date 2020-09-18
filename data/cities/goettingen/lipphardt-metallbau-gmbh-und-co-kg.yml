@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.5634263
 longitude: 9.9255338
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Reinhard-Rube-Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.977615
 longitude: 9.5155629
-postcode: 37619
+postcode: "37619"
 city: Bodenwerder
 street: "Große Straße"
 housenumber: 53

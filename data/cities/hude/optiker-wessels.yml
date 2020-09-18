@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 53.1102095
 longitude: 8.461698700000001
-postcode: 27798
+postcode: "27798"
 city: Hude
 street: "Auf der Nordheide"
 housenumber: 4

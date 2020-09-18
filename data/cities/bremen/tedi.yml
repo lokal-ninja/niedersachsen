@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.0348471
 longitude: 8.8271685
-postcode: 28277
+postcode: "28277"
 city: Bremen
 street: "Gorsemannstraße"
 housenumber: 12

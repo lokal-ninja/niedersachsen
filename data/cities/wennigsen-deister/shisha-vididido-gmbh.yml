@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 52.2726734
 longitude: 9.623911900000001
-postcode: 30974
+postcode: "30974"
 city: Wennigsen (Deister)
 street: "Hannoversche Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.698334800000005
 longitude: 7.694082000000001
-postcode: 26427
+postcode: "26427"
 city: Neuharlingersiel
 street: "Addenhausen"
 housenumber: 3

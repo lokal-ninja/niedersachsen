@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.535000000000004
 longitude: 9.9337867
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Stumpfebiel"
 housenumber: 4

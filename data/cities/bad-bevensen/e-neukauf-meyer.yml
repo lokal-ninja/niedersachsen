@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.080623700000004
 longitude: 10.5725469
-postcode: 29549
+postcode: "29549"
 city: Bad Bevensen
 street: "Medinger Straße"
 housenumber: 26

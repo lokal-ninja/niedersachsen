@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.235474800000006
 longitude: 9.243973500000001
-postcode: 31749
+postcode: "31749"
 city: Auetal
 street: "Waitzenbinde"
 housenumber: 5

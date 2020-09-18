@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.299720900000004
 longitude: 8.0370314
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Bramstraße"
 housenumber: 4-10

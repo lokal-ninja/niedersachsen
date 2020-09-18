@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.3353976
 longitude: 9.865173700000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Hopfenberg"
 housenumber: 24a

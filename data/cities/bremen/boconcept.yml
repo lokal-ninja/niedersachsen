@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.0790853
 longitude: 8.805667
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Wegesende"
 housenumber: 2-4

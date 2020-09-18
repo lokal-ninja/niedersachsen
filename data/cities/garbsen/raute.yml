@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.436545200000005
 longitude: 9.611939900000001
-postcode: 30827
+postcode: "30827"
 city: Garbsen
 street: "Rote Reihe"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.463585200000004
 longitude: 9.7953939
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Bahnhofstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0616239
 longitude: 8.800545600000001
-postcode: 28201
+postcode: "28201"
 city: Bremen
 street: "Gottfried-Menken-Straße"
 housenumber: 1

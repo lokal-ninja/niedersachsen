@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.291864000000004
 longitude: 10.4290386
-postcode: 21365
+postcode: "21365"
 city: Adendorf
 street: "Bunsenstraße"
 housenumber: 8 b

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.226595
 longitude: 10.164860000000001
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Bahnhofstraße"
 housenumber: 8

@@ -3,10 +3,10 @@ type: way
 shop: Computer
 latitude: 53.1579251
 longitude: 8.2215155
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Nadorster Straße"
 housenumber: 162
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-17:00; Sa 10:00-13:00"
 website: "http://www.HCM-Computer.de"

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.84472160000001
 longitude: 8.6926562
-postcode: 27472
+postcode: "27472"
 city: Cuxhaven
 street: "Abschnede"
 housenumber: 210

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.2306104
 longitude: 7.4584859
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Mühlenstraße"
 housenumber: 91

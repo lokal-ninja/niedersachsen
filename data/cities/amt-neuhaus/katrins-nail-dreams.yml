@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.2848921
 longitude: 10.9289459
-postcode: 19273
+postcode: "19273"
 city: Amt Neuhaus
 street: "Parkstraße"
 housenumber: 4

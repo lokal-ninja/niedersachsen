@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 53.156830400000004
 longitude: 8.9184888
-postcode: 28865
+postcode: "28865"
 city: Lilienthal
 street: "Heidloge"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: "http://www.netto-online.de"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0989061
 longitude: 11.096275700000001
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Am Markt"
 housenumber: 4

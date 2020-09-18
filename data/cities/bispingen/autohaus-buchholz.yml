@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.105831900000005
 longitude: 9.970089900000001
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Seestraße"
 housenumber: 39

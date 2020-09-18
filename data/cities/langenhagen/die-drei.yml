@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4529937
 longitude: 9.7577946
-postcode: 30853
+postcode: "30853"
 city: Langenhagen
 street: "Reuterdamm"
 housenumber: 77

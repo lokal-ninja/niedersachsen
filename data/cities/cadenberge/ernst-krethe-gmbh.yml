@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 53.7669858
 longitude: 9.066355100000001
-postcode: 21781
+postcode: "21781"
 city: Cadenberge
 street: "Stader Straße"
 housenumber: 53

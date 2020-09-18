@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.966130400000004
 longitude: 9.234150900000001
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Schlesier Straße"
 housenumber: 2

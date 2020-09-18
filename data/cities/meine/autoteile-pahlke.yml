@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 52.381135500000006
 longitude: 10.5343972
-postcode: 38527
+postcode: "38527"
 city: Meine
 street: "Gifhorner Straße"
 housenumber: 2

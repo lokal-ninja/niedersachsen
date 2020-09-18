@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0853655
 longitude: 8.8284923
-postcode: 28209
+postcode: "28209"
 city: Bremen
 street: "Wachmannstraße"
 housenumber: 16

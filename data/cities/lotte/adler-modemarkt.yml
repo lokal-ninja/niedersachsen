@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.306795400000006
 longitude: 7.9483655
-postcode: 49504
+postcode: "49504"
 city: Lotte
 street: "Teichweg"
 housenumber: 

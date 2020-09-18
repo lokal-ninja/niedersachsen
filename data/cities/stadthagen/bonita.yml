@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.323334700000004
 longitude: 9.2057604
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Obernstraße"
 housenumber: 56

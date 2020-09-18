@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.681455500000006
 longitude: 7.959036
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Bremer Straße"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
 website: ""

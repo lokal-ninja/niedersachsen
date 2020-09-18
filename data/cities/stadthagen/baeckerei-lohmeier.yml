@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.325731600000005
 longitude: 9.205785200000001
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Niedernstraße"
 housenumber: 35

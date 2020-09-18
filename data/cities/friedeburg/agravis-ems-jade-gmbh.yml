@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.433723900000004
 longitude: 7.856847
-postcode: 26446
+postcode: "26446"
 city: Friedeburg
 street: "Marxer Hauptstraße"
 housenumber: 41

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.309421400000005
 longitude: 11.052095300000001
-postcode: 39356
+postcode: "39356"
 city: Weferlingen
 street: "Wilhelm-Suder-Straße"
-housenumber: 3
+housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

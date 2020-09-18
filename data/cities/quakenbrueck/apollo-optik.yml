@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 52.676731000000004
 longitude: 7.9573134
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Lange Straße"
 housenumber: 33
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off"
 website: ""

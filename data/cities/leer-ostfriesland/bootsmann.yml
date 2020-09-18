@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.24319740000001
 longitude: 7.457012700000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Heisfelder Straße"
 housenumber: 156

@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 53.229925900000005
 longitude: 7.456429300000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Mühlenstraße"
 housenumber: 66

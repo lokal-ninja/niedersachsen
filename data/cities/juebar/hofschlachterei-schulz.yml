@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.618756600000005
 longitude: 10.924612400000001
-postcode: 38489
+postcode: "38489"
 city: Jübar
 street: "Ohrestraße"
 housenumber: 33

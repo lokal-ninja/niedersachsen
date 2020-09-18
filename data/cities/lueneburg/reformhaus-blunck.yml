@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.247278200000004
 longitude: 10.407474200000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Grapengießerstraße"
 housenumber: 49

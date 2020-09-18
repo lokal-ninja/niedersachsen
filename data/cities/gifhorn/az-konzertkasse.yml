@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.4831981
 longitude: 10.5452974
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Steinweg"
 housenumber: 73

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2510028
 longitude: 10.5058845
-postcode: 38118
+postcode: "38118"
 city: Braunschweig
 street: "Hugo-Luther-Straße"
 housenumber: 53B

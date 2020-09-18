@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.260781300000005
 longitude: 10.5342219
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Leonhardstraße"
 housenumber: 5

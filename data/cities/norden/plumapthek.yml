@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 53.6140368
 longitude: 7.1520964000000005
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Dörper Weg"
 housenumber: 3

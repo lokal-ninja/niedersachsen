@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.4175047
 longitude: 9.698489400000001
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Schulenburger Landstraße"
 housenumber: 132

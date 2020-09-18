@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2839698
 longitude: 10.2293114
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "Kuhlenweg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.29407500000001
 longitude: 8.0373146
-postcode: 49088
+postcode: "49088"
 city: Osnabrück
 street: "Bramscher Straße"
 housenumber: 190b

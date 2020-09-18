@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.1854596
 longitude: 8.0050583
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Peterstraße"
 housenumber: 9

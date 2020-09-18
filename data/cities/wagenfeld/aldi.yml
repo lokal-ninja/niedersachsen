@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5537459
 longitude: 8.5858874
-postcode: 49419
+postcode: "49419"
 city: Wagenfeld
 street: "Meiersfeld"
 housenumber: 18

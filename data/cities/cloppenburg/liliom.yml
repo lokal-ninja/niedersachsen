@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.8449698
 longitude: 8.039717000000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Lange Straße"
 housenumber: 34

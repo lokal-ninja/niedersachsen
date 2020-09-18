@@ -3,10 +3,10 @@ type: way
 shop: Gardinen
 latitude: 53.287803700000005
 longitude: 10.389442200000001
-postcode: 21357
+postcode: "21357"
 city: Bardowick
 street: "Daimlerstraße"
-housenumber: 4
+housenumber: 2
 phone: "+49 4131 120622"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+website: "http://hammer-Heimtex.de"

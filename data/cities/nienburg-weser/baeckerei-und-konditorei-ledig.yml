@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6416484
 longitude: 9.207102200000001
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Lange Straße"
 housenumber: 95

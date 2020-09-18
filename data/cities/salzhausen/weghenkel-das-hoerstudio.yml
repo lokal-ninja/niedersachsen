@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.2260763
 longitude: 10.166412900000001
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Bahnhofstraße"
 housenumber: 1

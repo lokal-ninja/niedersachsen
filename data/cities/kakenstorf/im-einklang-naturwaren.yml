@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.3070126
 longitude: 9.7639209
-postcode: 21255
+postcode: "21255"
 city: Kakenstorf
 street: "Lange Straße"
 housenumber: 35

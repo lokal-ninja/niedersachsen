@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.396173600000004
 longitude: 8.138029000000001
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Hindenburgstraße"
 housenumber: 4

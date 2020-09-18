@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.3739694
 longitude: 10.5563224
-postcode: 21481
+postcode: "21481"
 city: Lauenburg/Elbe
 street: "Berliner Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.4037226
 longitude: 9.313640000000001
-postcode: 31553
+postcode: "31553"
 city: Auhagen
 street: "Vor den Toren"
 housenumber: 78

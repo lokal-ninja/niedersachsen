@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.393186
 longitude: 9.6847413
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Herrenhäuser Straße"
 housenumber: 69

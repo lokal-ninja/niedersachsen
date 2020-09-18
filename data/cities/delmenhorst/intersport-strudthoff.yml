@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.0500325
 longitude: 8.627256800000001
-postcode: 27749
+postcode: "27749"
 city: Delmenhorst
 street: "Lange Straße"
 housenumber: 124

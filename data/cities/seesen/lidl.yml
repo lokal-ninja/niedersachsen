@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.898028800000006
 longitude: 10.1824498
-postcode: 38723
+postcode: "38723"
 city: Seesen
 street: "Braunschweiger Straße"
 housenumber: 45

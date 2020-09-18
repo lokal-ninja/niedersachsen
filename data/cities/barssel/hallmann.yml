@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.1685322
 longitude: 7.746396700000001
-postcode: 26676
+postcode: "26676"
 city: Barßel
 street: "Lange Straße"
 housenumber: 31

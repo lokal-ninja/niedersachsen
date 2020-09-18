@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 52.3540502
 longitude: 9.6952573
-postcode: 30453
+postcode: "30453"
 city: Hannover
 street: "Bornumer Straße"
 housenumber: 146

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.1881901
 longitude: 10.710553800000001
-postcode: 38173
+postcode: "38173"
 city: Evessen
 street: "Dorfstraße"
 housenumber: 17

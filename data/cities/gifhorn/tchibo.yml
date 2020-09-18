@@ -3,10 +3,10 @@ type: node
 shop: Kaffee
 latitude: 52.4843227
 longitude: 10.5471543
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Steinweg"
 housenumber: 55
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
 website: ""

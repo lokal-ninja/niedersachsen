@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3856605
 longitude: 8.0169154
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Schleptruper Strang"
 housenumber: 89

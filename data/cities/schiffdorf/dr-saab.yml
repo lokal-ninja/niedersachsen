@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.5524373
 longitude: 8.6984258
-postcode: 27619
+postcode: "27619"
 city: Schiffdorf
 street: "Lange Straße"
 housenumber: 67

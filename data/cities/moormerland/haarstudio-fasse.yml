@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.3110774
 longitude: 7.4881804
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Theodor-Heuss-Straße"
 housenumber: 23

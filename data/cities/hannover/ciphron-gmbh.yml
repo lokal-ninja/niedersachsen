@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.387221800000006
 longitude: 9.741455700000001
-postcode: 30161
+postcode: "30161"
 city: Hannover
 street: "Kriegerstraße"
 housenumber: 44

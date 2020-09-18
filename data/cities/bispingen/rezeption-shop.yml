@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.1086095
 longitude: 9.9657576
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Seestraße"
 housenumber: 17

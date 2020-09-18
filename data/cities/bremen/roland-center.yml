@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 53.0478102
 longitude: 8.740779100000001
-postcode: 28259
+postcode: "28259"
 city: Bremen
 street: "Alter Dorfweg"
 housenumber: 30-50

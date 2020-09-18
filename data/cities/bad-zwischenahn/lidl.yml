@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 53.1827157
 longitude: 7.995337800000001
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Westersteder Straße"
 housenumber: 2A
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 13:00-18:00"
+opening_hours: "Mo-Sa 07:00-21:00; Su 13:00-18:00"
 website: "https://www.lidl.de/filialen/bad-zwischenahn/westersteder-str-2a.html"

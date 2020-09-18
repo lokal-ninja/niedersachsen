@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.8443185
 longitude: 8.037268000000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Lange Straße"
 housenumber: 62/64

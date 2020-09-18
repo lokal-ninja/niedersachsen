@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.0294826
 longitude: 8.969336400000001
-postcode: 28832
+postcode: "28832"
 city: Achim
 street: "Uphuser Heerstraße"
 housenumber: 53

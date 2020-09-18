@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.7875281
 longitude: 8.4311796
-postcode: 49424
+postcode: "49424"
 city: Goldenstedt
 street: "Hauptstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 53.3274818
 longitude: 9.879906100000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Breite Straße"
 housenumber: 16

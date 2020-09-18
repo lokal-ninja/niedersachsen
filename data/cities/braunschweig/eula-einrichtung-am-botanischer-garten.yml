@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.271286100000005
 longitude: 10.533905
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Linnéstraße"
 housenumber: 2

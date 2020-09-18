@@ -3,10 +3,10 @@ type: node
 shop: Musik
 latitude: 52.381575600000005
 longitude: 9.7436726
-postcode: 30161
+postcode: "30161"
 city: Hannover
 street: "Kronenstraße"
 housenumber: 12
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-16:00"
+opening_hours: "Mo 15:00-18:00; Tu-We 11:00-18:00; Th-Fr 10:00-19:00; Sa 10:00-16:00; Sa 10:00-16:00"
 website: ""

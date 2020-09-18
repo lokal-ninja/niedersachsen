@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5031149
 longitude: 8.0112936
-postcode: 26452
+postcode: "26452"
 city: Sande
 street: "Am Markt"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3664208
 longitude: 9.7462426
-postcode: 
+postcode: ""
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 

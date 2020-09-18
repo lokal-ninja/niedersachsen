@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.4243213
 longitude: 10.7906891
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Rothenfelder Straße"
 housenumber: 12

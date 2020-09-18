@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.800798300000004
 longitude: 10.4472602
-postcode: 38707
+postcode: "38707"
 city: Altenau
 street: "Sommer-Martins-Brink"
 housenumber: 

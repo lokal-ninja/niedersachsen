@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.2156248
 longitude: 7.801667800000001
-postcode: 26689
+postcode: "26689"
 city: Apen
 street: "An der Wiek"
 housenumber: 6

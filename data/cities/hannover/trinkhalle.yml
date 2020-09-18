@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.3631935
 longitude: 9.669680300000001
-postcode: 30455
+postcode: "30455"
 city: Hannover
 street: "Woermannstraße"
 housenumber: 59

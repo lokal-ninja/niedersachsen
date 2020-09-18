@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.8453643
 longitude: 8.0460831
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Bahnhofstraße"
 housenumber: 18

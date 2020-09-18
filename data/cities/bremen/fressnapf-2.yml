@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.049531900000005
 longitude: 8.8492844
-postcode: 28279
+postcode: "28279"
 city: Bremen
 street: "Steinsetzerstraße"
 housenumber: 7

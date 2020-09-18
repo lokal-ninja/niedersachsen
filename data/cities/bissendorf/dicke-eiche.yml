@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 52.2785844
 longitude: 8.2681953
-postcode: 49143
+postcode: "49143"
 city: Bissendorf
 street: "Dicke Eiche"
 housenumber: 9

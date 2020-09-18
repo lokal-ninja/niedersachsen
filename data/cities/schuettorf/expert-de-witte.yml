@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.320296000000006
 longitude: 7.2226683000000005
-postcode: 48465
+postcode: "48465"
 city: Schüttorf
 street: "Jürgenstraße"
 housenumber: 13-15

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.6256235
 longitude: 10.0833499
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Schuhstraße"
 housenumber: 14-15

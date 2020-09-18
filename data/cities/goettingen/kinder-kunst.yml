@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.5289775
 longitude: 9.9295887
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Wiesenstraße"
 housenumber: 7

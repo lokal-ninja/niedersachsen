@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.6832487
 longitude: 9.160326900000001
-postcode: 21745
+postcode: "21745"
 city: Hemmoor
 street: "Otto-Peschel-Straße"
 housenumber: 10-16

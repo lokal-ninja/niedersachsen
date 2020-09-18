@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.269017100000006
 longitude: 9.855995100000001
-postcode: 21256
+postcode: "21256"
 city: Handeloh
 street: "Handeloher Straße"
 housenumber: 20

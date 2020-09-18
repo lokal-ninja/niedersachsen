@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.3043684
 longitude: 9.454027100000001
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Kaltenbornstraße"
 housenumber: 26

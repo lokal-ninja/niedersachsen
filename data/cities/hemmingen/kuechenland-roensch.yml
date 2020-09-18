@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.318356300000005
 longitude: 9.7251983
-postcode: 30966
+postcode: "30966"
 city: Hemmingen
 street: "Carl-Zeiss-Straße"
 housenumber: 42

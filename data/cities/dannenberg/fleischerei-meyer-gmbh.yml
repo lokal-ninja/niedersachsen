@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.0982928
 longitude: 11.0943714
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Lange Straße"
 housenumber: 40

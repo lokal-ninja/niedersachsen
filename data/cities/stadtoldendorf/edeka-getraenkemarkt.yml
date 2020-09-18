@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.8837818
 longitude: 9.621196000000001
-postcode: 37627
+postcode: "37627"
 city: Stadtoldendorf
 street: "Hoopstraße"
 housenumber: 4

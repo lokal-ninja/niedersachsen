@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.3848646
 longitude: 10.1105511
-postcode: 21435
+postcode: "21435"
 city: Stelle
 street: "Harburger Straße"
 housenumber: 1

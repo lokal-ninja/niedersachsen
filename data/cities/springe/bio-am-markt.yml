@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.208577700000006
 longitude: 9.5546942
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Am Markt"
 housenumber: 5

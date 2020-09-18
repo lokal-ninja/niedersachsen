@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.049500200000004
 longitude: 8.6281891
-postcode: 27749
+postcode: "27749"
 city: Delmenhorst
 street: "Lange Straße"
 housenumber: 16-18

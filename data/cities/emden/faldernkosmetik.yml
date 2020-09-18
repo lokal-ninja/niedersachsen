@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.3655436
 longitude: 7.214069
-postcode: 26725
+postcode: "26725"
 city: Emden
 street: "Faldernstraße"
 housenumber: 40

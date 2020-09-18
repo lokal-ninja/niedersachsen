@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.8872354
 longitude: 10.5548164
-postcode: 38667
+postcode: "38667"
 city: Bad Harzburg
 street: "Am Bahnhofsplatz"
 housenumber: 2-8

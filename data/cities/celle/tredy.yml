@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.624501200000005
 longitude: 10.081771700000001
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Markt"
 housenumber: 9

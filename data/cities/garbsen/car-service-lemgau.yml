@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 52.439988400000004
 longitude: 9.5889196
-postcode: 
+postcode: ""
 city: Garbsen
 street: "Bremer Straße"
-housenumber: 50A
+housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 07:00-17:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0384484
 longitude: 8.944587
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Mahndorfer Heerstraße"
 housenumber: 44-46

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.288685400000006
 longitude: 9.2802249
-postcode: 27404
+postcode: "27404"
 city: Zeven
 street: "Auf dem Quabben"
 housenumber: 27-29

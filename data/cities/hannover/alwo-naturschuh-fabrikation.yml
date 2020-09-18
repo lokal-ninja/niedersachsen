@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.339671900000006
 longitude: 9.717743500000001
-postcode: 30459
+postcode: "30459"
 city: Hannover
 street: "Göttinger Chaussee"
 housenumber: 151

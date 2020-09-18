@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.1488857
 longitude: 8.209224500000001
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Humboldtstraße"
 housenumber: 2

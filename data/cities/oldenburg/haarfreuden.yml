@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1393938
 longitude: 8.211481000000001
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Gaststraße"
 housenumber: 20a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.954935400000004
 longitude: 9.742524900000001
-postcode: 31073
+postcode: "31073"
 city: Delligsen
 street: "Untere Hilsstraße"
 housenumber: 4

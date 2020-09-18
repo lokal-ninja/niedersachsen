@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 52.845483800000004
 longitude: 8.0411389
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Lange Straße"
 housenumber: 16

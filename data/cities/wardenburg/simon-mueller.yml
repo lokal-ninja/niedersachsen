@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.049185300000005
 longitude: 8.210989900000001
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Hardenbergstraße"
 housenumber: 8

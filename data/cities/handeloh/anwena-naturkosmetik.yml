@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.2535235
 longitude: 9.839098100000001
-postcode: 21256
+postcode: "21256"
 city: Handeloh
 street: "Wörmer Straße"
 housenumber: 57

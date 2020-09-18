@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.1700578
 longitude: 8.635075800000001
-postcode: 
+postcode: ""
 city: Bremen
 street: "Hermann-Fortmann-Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.2455003
 longitude: 8.1982575
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Oldenburger Straße"
 housenumber: 223

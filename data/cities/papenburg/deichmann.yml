@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.0836279
 longitude: 7.384348900000001
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Deverweg"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.3112064
 longitude: 9.3565623
-postcode: 31552
+postcode: "31552"
 city: Rodenberg
 street: "Lange Straße"
 housenumber: 51

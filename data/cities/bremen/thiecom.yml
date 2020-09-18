@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.2098105
 longitude: 8.5783556
-postcode: 28779
+postcode: "28779"
 city: Bremen
 street: "Schwaneweder Straße"
 housenumber: 193

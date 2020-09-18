@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1854535
 longitude: 8.2020189
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Weißenmoorstraße"
 housenumber: 295

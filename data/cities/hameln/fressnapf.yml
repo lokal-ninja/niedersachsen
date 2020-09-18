@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 52.1001392
 longitude: 9.3925528
-postcode: 31789
+postcode: "31789"
 city: Hameln
 street: "Hastenbecker Landstraße"
 housenumber: 1

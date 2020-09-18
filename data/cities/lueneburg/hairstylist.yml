@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2480709
 longitude: 10.411358100000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Am Sande"
 housenumber: 31

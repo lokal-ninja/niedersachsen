@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4063114
 longitude: 10.9301232
-postcode: 38458
+postcode: "38458"
 city: Velpke
 street: "Weideweg"
 housenumber: 15

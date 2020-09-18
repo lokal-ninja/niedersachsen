@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.1189934
 longitude: 9.7913726
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Harburger Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.370733200000004
 longitude: 10.5577202
-postcode: 21481
+postcode: "21481"
 city: Lauenburg/Elbe
 street: "Elbstraße"
 housenumber: 121

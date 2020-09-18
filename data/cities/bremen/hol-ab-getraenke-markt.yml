@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.038835500000005
 longitude: 8.7272969
-postcode: 28259
+postcode: "28259"
 city: Bremen
 street: "Dovemoorstraße"
 housenumber: 1

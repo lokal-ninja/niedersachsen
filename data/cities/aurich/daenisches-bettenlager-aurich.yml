@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.469528600000004
 longitude: 7.458367000000001
-postcode: 26605
+postcode: "26605"
 city: Aurich
 street: "Dreekamp"
 housenumber: 14

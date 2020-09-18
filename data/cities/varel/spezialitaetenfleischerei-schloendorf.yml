@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.397409100000004
 longitude: 8.1329326
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Achternstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.706306500000004
 longitude: 9.999154
-postcode: 
+postcode: ""
 city: Northeim
 street: "Markt"
 housenumber: 16

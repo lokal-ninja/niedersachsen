@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.912371400000005
 longitude: 8.8246509
-postcode: 28857
+postcode: "28857"
 city: Syke
 street: "Mühlendamm"
 housenumber: 1b

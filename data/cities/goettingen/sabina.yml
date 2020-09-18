@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.5312904
 longitude: 9.935716900000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kurze Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.8619701
 longitude: 9.5929544
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Moorstraße"
 housenumber: 30

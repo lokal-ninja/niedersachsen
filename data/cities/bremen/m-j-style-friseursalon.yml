@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.077476100000005
 longitude: 8.845326100000001
-postcode: 28211
+postcode: "28211"
 city: Bremen
 street: "Friedrich-Karl-Straße"
 housenumber: 103

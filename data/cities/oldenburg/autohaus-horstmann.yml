@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.1026023
 longitude: 8.2075557
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Sandkruger Straße"
 housenumber: 15

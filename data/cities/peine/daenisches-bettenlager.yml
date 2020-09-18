@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.340255500000005
 longitude: 10.255169700000001
-postcode: 31228
+postcode: "31228"
 city: Peine
 street: "Caroline-Herschel-Straße"
 housenumber: 2

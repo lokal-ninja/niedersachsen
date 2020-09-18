@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.335639400000005
 longitude: 9.8893866
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Margarethenstraße"
 housenumber: 9

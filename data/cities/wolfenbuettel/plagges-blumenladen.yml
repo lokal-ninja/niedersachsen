@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.174865200000006
 longitude: 10.536569
-postcode: 38302
+postcode: "38302"
 city: Wolfenbüttel
 street: "Alter Weg"
 housenumber: 

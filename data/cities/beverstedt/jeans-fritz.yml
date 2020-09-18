@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.434729000000004
 longitude: 8.8215578
-postcode: 27616
+postcode: "27616"
 city: Beverstedt
 street: "Feldhofplatz"
 housenumber: 1a

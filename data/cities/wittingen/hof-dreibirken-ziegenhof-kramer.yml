@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.6243348
 longitude: 10.6969618
-postcode: 29379
+postcode: "29379"
 city: Wittingen
 street: "Transvaal"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.543915600000005
 longitude: 9.9316869
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Weender Landstraße"
 housenumber: 51

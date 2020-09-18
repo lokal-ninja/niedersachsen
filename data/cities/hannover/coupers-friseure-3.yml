@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3768128
 longitude: 9.737820900000001
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Kurt-Schumacher-Straße"
 housenumber: 7

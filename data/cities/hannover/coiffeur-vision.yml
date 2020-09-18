@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.372116500000004
 longitude: 9.7106616
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 15

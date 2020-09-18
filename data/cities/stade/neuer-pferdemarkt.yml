@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 53.600971
 longitude: 9.474315200000001
-postcode: 21682
+postcode: "21682"
 city: Stade
 street: "Steile Straße"
 housenumber: 1

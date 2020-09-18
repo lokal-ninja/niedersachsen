@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 53.063019600000004
 longitude: 8.1944982
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Friedrichstraße"
 housenumber: 15

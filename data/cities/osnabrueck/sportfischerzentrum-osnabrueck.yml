@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 52.2852673
 longitude: 8.077468600000001
-postcode: 49086
+postcode: "49086"
 city: Osnabrück
 street: "Hunteburger Weg"
 housenumber: 1

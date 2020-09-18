@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.1362704
 longitude: 8.384886
-postcode: 49326
+postcode: "49326"
 city: Melle
 street: "Hauptstraße"
 housenumber: 27

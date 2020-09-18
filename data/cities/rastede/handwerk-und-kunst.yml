@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 53.228287
 longitude: 8.213298400000001
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Buchenstraße"
 housenumber: 8

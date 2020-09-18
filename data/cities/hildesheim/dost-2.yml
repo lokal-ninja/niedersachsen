@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.164829600000004
 longitude: 9.978556900000001
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Porschestraße"
 housenumber: 1

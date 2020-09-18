@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.22251120000001
 longitude: 8.9243082
-postcode: 27726
+postcode: "27726"
 city: Worpswede
 street: "Findorffstraße"
 housenumber: 19

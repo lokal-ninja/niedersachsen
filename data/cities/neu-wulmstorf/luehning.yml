@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.426691000000005
 longitude: 9.784846400000001
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Lindenstraße"
 housenumber: 34

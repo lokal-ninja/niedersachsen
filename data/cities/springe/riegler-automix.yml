@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.2184904
 longitude: 9.5702054
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Philipp-Reis-Straße"
 housenumber: 11

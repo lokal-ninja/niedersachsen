@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.218524800000004
 longitude: 7.7857313
-postcode: 26689
+postcode: "26689"
 city: Apen
 street: "Hauptstraße"
 housenumber: 311

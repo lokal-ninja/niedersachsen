@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.1046064
 longitude: 9.799221300000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Südring"
 housenumber: 5

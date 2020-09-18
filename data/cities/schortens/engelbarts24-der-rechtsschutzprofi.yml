@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.5415962
 longitude: 7.9506107
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "Oldenburger Straße"
 housenumber: 21

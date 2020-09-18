@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.4500012
 longitude: 10.0094598
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Gartenstraße"
 housenumber: 35

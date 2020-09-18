@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.7061464
 longitude: 9.9978294
-postcode: 37154
+postcode: "37154"
 city: Northeim
 street: "Grafenhof"
 housenumber: 1-6

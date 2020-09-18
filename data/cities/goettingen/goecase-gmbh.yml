@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 51.555613
 longitude: 9.894169
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Rudolf-Wissell-Straße"
 housenumber: 26

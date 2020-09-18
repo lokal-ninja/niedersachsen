@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 52.389043300000004
 longitude: 9.7491482
-postcode: 30163
+postcode: "30163"
 city: Hannover
 street: "Jakobistraße"
 housenumber: 8

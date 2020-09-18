@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.368313
 longitude: 9.7538867
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Am Bokemahle"
 housenumber: 

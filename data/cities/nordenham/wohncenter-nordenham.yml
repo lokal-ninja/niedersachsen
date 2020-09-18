@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.503379
 longitude: 8.478610900000001
-postcode: 26954
+postcode: "26954"
 city: Nordenham
 street: "Atenser Allee"
 housenumber: 140

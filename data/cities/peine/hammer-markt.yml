@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.3203643
 longitude: 10.2477911
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Schäferstraße"
 housenumber: 13

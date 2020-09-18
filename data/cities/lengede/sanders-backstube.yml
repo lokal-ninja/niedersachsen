@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.1926617
 longitude: 10.326991600000001
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Barbecker Straße"
 housenumber: 2e

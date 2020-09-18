@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.68483620000001
 longitude: 10.2126151
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Ührder Straße"
 housenumber: 7

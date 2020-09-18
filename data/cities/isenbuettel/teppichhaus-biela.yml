@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 52.4347494
 longitude: 10.5777912
-postcode: 38550
+postcode: "38550"
 city: Isenbüttel
 street: "Hauptstraße"
 housenumber: 5

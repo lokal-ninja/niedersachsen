@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.2346128
 longitude: 7.4526479000000005
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Heisfelder Straße"
 housenumber: 83

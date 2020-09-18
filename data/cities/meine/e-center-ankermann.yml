@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.382998300000004
 longitude: 10.5340219
-postcode: 38527
+postcode: "38527"
 city: Meine
 street: "Bahnhofstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2637032
 longitude: 10.0729422
-postcode: 31249
+postcode: "31249"
 city: Hohenhameln
 street: "Meierkamp"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.724450000000004
 longitude: 10.6118374
-postcode: 38700
+postcode: "38700"
 city: Braunlage
 street: "Herzog-Wilhelm-Straße"
 housenumber: 40

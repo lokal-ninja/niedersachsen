@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.062140500000005
 longitude: 8.8772251
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Alter Postweg"
 housenumber: 143

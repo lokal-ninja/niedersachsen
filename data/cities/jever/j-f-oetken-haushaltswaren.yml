@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.574190300000005
 longitude: 7.9036745
-postcode: 26441
+postcode: "26441"
 city: Jever
 street: "Neue Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.7275544
 longitude: 10.2534349
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Am Schilde"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.167833300000005
 longitude: 9.4830351
-postcode: 27383
+postcode: "27383"
 city: Scheeßel
 street: "Bahnhofstraße"
 housenumber: 8

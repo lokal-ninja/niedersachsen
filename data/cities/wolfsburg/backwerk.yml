@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.424157400000006
 longitude: 10.7886012
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Porschestraße"
 housenumber: 33 a

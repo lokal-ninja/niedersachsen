@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.8996268
 longitude: 8.2013431
-postcode: 26197
+postcode: "26197"
 city: Großenkneten
 street: "Zeppelinring"
 housenumber: 1

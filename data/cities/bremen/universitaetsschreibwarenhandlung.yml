@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 53.1076707
 longitude: 8.8529111
-postcode: 28359
+postcode: "28359"
 city: Bremen
 street: "Bibliothekstraße"
 housenumber: 3

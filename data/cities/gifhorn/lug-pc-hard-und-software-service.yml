@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.4788459
 longitude: 10.5530019
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Lehmweg"
 housenumber: 2

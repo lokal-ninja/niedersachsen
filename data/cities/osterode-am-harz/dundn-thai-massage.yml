@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.728046400000004
 longitude: 10.253262300000001
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Johannistorstraße"
 housenumber: 4

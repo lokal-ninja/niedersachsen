@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 51.532315200000006
 longitude: 9.9347285
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Zindelstraße"
 housenumber: 2

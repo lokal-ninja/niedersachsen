@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.2475145
 longitude: 10.4052886
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Grapengießerstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 53.3644723
 longitude: 9.873424100000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Harburger Straße"
 housenumber: 15

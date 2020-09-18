@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.7745748
 longitude: 9.3812539
-postcode: 37671
+postcode: "37671"
 city: Höxter
 street: "Marktstraße"
 housenumber: 11

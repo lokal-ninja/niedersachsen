@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.736401
 longitude: 7.76151
-postcode: 49624
+postcode: "49624"
 city: Löningen
 street: "Lindenallee"
 housenumber: 17
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-We 07:00-22:00; Th-Sa 07:00-23:30; Su,PH off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 53.3107746
 longitude: 7.4559348000000005
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Borgwardring"
 housenumber: 92

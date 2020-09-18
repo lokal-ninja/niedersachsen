@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.3389466
 longitude: 9.7173788
-postcode: 30459
+postcode: "30459"
 city: Hannover
 street: "Göttinger Chaussee"
 housenumber: 159

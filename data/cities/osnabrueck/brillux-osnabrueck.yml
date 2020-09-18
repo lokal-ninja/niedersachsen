@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 52.2885495
 longitude: 8.0302185
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Pagenstecherstraße"
 housenumber: 40

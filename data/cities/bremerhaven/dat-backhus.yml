@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5299029
 longitude: 8.6289423
-postcode: 27574
+postcode: "27574"
 city: Bremerhaven
 street: "Schiffdorfer Chaussee"
 housenumber: 198

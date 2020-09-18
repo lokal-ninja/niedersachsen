@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.508549200000004
 longitude: 9.4762409
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Justus-von-Liebig-Straße"
 housenumber: 19

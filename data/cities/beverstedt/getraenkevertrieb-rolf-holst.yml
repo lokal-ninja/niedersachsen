@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.441679
 longitude: 8.7357774
-postcode: 27616
+postcode: "27616"
 city: Beverstedt
 street: "Westerbeverstedter Straße"
 housenumber: 4

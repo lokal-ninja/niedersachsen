@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.070393200000005
 longitude: 8.8338994
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Hamburger Straße"
 housenumber: 7

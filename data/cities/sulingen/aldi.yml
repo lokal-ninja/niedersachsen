@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.685750600000006
 longitude: 8.811456900000001
-postcode: 27232
+postcode: "27232"
 city: Sulingen
 street: "Bismarckstraße"
 housenumber: 2

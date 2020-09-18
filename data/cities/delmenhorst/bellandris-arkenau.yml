@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.0331873
 longitude: 8.658606500000001
-postcode: 27751
+postcode: "27751"
 city: Delmenhorst
 street: "Niedersachsendamm"
 housenumber: 16

@@ -1,12 +1,12 @@
-id: 4083665090
-type: node
+id: 161366658
+type: way
 shop: Drogerie
-latitude: 53.3674181
-longitude: 7.2066042
-postcode: 26721
+latitude: 53.361419500000004
+longitude: 7.1677118
+postcode: "26723"
 city: Emden
-street: "Neutorstraße"
-housenumber: 10-12
-phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
-website: ""
+street: "Thüringer Straße"
+housenumber: 9
+phone: "+49 4921 4509639"
+opening_hours: "Mo-Sa 09:00-20:00"
+website: "https://www.dm.de/"

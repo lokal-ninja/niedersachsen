@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.1044653
 longitude: 9.3599265
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Osterstraße"
 housenumber: 18

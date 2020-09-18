@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.3575663
 longitude: 9.2840485
-postcode: 31698
+postcode: "31698"
 city: Lindhorst
 street: "Bahnhofstraße"
 housenumber: 31a

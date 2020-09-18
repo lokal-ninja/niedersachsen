@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.0944276
 longitude: 8.850159600000001
-postcode: 28213
+postcode: "28213"
 city: Bremen
 street: "H.-H.-Meier-Allee"
 housenumber: 89

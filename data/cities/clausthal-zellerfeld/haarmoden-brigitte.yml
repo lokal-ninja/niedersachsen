@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.8180722
 longitude: 10.336510800000001
-postcode: 38678
+postcode: "38678"
 city: Clausthal-Zellerfeld
 street: "Bäckerstraße"
 housenumber: 10

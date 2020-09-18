@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.535196400000004
 longitude: 9.938441800000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Theaterstraße"
 housenumber: 17

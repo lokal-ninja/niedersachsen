@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.276017
 longitude: 10.352572
-postcode: 21360
+postcode: "21360"
 city: Vögelsen
 street: "Lüneburger Straße"
 housenumber: 12

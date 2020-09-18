@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.5424926
 longitude: 9.9035633
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Rudolf-Winkel-Straße"
 housenumber: 11

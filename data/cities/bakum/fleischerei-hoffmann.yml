@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 52.7395748
 longitude: 8.1976484
-postcode: 49456
+postcode: "49456"
 city: Bakum
 street: "Darener Straße"
 housenumber: 10a
 phone: "+49 4446 1759"
-opening_hours: ""
+opening_hours: "Tu-Fr 08:00-13:00, 14:30-18:00; Sa 08:00-13:00"
 website: ""

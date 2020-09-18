@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.9678685
 longitude: 11.1451092
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Dannenberger Straße"
 housenumber: 32

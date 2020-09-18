@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.638681000000005
 longitude: 9.2057664
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Marktplatz"
 housenumber: 3

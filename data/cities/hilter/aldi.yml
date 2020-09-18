@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.137691100000005
 longitude: 8.1380855
-postcode: 49176
+postcode: "49176"
 city: Hilter
 street: "Münsterstraße"
 housenumber: 51

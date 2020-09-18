@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.9676167
 longitude: 11.155438
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 22

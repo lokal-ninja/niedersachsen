@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0322648
 longitude: 8.8109213
-postcode: 28277
+postcode: "28277"
 city: Bremen
 street: "Kattenturmer Heerstraße"
 housenumber: 326

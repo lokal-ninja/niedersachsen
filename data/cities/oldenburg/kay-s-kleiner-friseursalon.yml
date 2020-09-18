@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.148896400000005
 longitude: 8.2078293
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Ziegelhofstraße"
 housenumber: 

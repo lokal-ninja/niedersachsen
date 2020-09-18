@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.838348200000006
 longitude: 8.0708553
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Max-Planck-Straße"
 housenumber: 12

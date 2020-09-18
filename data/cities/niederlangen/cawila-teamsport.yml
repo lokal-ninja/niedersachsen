@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 52.87185770000001
 longitude: 7.233716200000001
-postcode: 49779
+postcode: "49779"
 city: Niederlangen
 street: "Feldkoppel"
 housenumber: 6

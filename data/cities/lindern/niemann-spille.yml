@@ -3,10 +3,10 @@ type: way
 shop: Optiker
 latitude: 52.844628500000006
 longitude: 7.783155300000001
-postcode: 49699
+postcode: "49699"
 city: Lindern
 street: "Lastruper Straße"
 housenumber: 10
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"
 website: ""

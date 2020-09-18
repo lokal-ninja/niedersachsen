@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.3688724
 longitude: 7.1670194
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Lise-Meitner-Straße"
 housenumber: 33

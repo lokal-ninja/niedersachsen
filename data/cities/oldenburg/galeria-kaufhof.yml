@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 53.139078000000005
 longitude: 8.215248
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Ritterstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3155167
 longitude: 9.5982926
-postcode: 30989
+postcode: "30989"
 city: Gehrden
 street: "Steintor"
 housenumber: 1

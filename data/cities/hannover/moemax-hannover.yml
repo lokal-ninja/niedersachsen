@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.3265049
 longitude: 9.7837139
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Behnstraße"
 housenumber: 3

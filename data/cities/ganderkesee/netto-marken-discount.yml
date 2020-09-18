@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.076058800000006
 longitude: 8.6203097
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Schönemoorer Landstraße"
 housenumber: 21

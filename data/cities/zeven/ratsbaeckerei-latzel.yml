@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.294205000000005
 longitude: 9.280529000000001
-postcode: 27404
+postcode: "27404"
 city: Zeven
 street: "Auf der Worth"
 housenumber: 2

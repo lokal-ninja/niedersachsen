@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.504516
 longitude: 9.5891141
-postcode: 21640
+postcode: "21640"
 city: Horneburg
 street: "Am Poggenpohl"
 housenumber: 3

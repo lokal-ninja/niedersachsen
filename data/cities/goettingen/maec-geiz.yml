@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.5320029
 longitude: 9.9320869
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Groner Straße"
 housenumber: 11

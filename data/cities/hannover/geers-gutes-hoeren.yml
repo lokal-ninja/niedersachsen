@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.355198900000005
 longitude: 9.670484100000001
-postcode: 30455
+postcode: "30455"
 city: Hannover
 street: "Badenstedter Straße"
 housenumber: 221-223

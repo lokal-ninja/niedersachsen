@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.6082618
 longitude: 8.5941606
-postcode: 27607
+postcode: "27607"
 city: Geestland
 street: "Sieverner Straße"
 housenumber: 2a

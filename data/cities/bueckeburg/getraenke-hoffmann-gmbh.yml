@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.262643600000004
 longitude: 9.0633298
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Ahnser Straße"
 housenumber: 4

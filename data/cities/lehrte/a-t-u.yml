@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.387027
 longitude: 9.971513400000001
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Burgdorfer Straße"
 housenumber: 104

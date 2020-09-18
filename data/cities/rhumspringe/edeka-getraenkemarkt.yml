@@ -1,12 +1,12 @@
-id: 1369901015
-type: node
-shop: Supermarkt
-latitude: 51.579043500000004
-longitude: 10.294847200000001
-postcode: 37434
+id: 761916746
+type: way
+shop: Getränke
+latitude: 51.578878100000004
+longitude: 10.2948251
+postcode: "37434"
 city: Rhumspringe
-street: ""
-housenumber: 
+street: "Bahnhofstraße"
+housenumber: 2
 phone: ""
 opening_hours: ""
 website: ""

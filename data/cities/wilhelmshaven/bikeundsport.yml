@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.528642500000004
 longitude: 8.1153364
-postcode: 26384
+postcode: "26384"
 city: Wilhelmshaven
 street: "Kopperhörner Straße"
 housenumber: 5

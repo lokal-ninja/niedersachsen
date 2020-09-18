@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.115020200000004
 longitude: 11.021981100000001
-postcode: 
+postcode: ""
 city: Hötensleben
 street: "Fabrikstraße"
-housenumber: 
+housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

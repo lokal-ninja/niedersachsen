@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.161537700000004
 longitude: 10.7272555
-postcode: 38170
+postcode: "38170"
 city: Kneitlingen
 street: "Presseweg"
 housenumber: 6

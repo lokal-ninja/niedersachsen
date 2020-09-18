@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.7695245
 longitude: 9.5463792
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Dasseler Straße"
 housenumber: 5

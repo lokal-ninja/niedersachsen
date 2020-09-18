@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.274371
 longitude: 8.0445378
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Kamp"
 housenumber: 15

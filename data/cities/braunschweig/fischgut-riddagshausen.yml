@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 52.276038
 longitude: 10.579165000000001
-postcode: 38104
+postcode: "38104"
 city: Braunschweig
 street: "Fischerweg"
 housenumber: 1

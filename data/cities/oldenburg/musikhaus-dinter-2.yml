@@ -3,7 +3,7 @@ type: way
 shop: Musik
 latitude: 53.191256700000004
 longitude: 8.2348003
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Frieslandstraße"
 housenumber: 14

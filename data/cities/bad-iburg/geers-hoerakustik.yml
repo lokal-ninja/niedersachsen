@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.155060500000005
 longitude: 8.0445317
-postcode: 49186
+postcode: "49186"
 city: Bad Iburg
 street: "Mühlentor"
 housenumber: 2

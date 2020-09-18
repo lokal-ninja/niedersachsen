@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1029496
 longitude: 9.3777136
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Deisterstraße"
 housenumber: 90

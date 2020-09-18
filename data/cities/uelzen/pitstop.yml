@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.956342400000004
 longitude: 10.5495411
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Celler Straße"
 housenumber: 6

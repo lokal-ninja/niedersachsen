@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 51.6506665
 longitude: 9.836723000000001
-postcode: 37181
+postcode: "37181"
 city: Hardegsen
 street: "Göttinger Straße"
 housenumber: 24

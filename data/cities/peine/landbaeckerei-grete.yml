@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.349439000000004
 longitude: 10.2454874
-postcode: 31228
+postcode: "31228"
 city: Peine
 street: "Edemissener Straße"
 housenumber: 14

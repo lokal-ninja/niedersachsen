@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.4162383
 longitude: 9.5863083
-postcode: 30823
+postcode: "30823"
 city: Garbsen
 street: "Alte Ricklinger Straße"
 housenumber: 3

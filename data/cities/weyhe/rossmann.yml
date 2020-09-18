@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.9861215
 longitude: 8.7857185
-postcode: 28844
+postcode: "28844"
 city: Weyhe
 street: "Seckenhauser Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.9860795
 longitude: 9.856621200000001
-postcode: 29614
+postcode: "29614"
 city: Soltau
 street: "Lüneburger Straße"
 housenumber: 62

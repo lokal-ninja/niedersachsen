@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 53.366373
 longitude: 7.209031400000001
-postcode: 26725
+postcode: "26725"
 city: Emden
 street: "Hinter der Halle"
 housenumber: 7

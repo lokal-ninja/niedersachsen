@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 53.5415792
 longitude: 8.575242900000001
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Am Längengrad"
 housenumber: 12

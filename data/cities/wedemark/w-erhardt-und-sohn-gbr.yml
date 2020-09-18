@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.559806900000005
 longitude: 9.7340557
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Sommerbosteler Straße"
 housenumber: 27

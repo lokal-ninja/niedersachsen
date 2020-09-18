@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.906596
 longitude: 10.4291356
-postcode: 38640
+postcode: "38640"
 city: Goslar
 street: "Breite Straße"
 housenumber: 100-101

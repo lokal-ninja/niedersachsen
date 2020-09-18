@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7084344
 longitude: 7.1583931000000005
-postcode: 26548
+postcode: "26548"
 city: Norderney
 street: "Bürgermeister-Willi-Lührs-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.9780614
 longitude: 10.234462
-postcode: 38729
+postcode: "38729"
 city: Nauen
 street: "Hauptstraße"
 housenumber: 9

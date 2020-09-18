@@ -3,10 +3,10 @@ type: way
 shop: Küchen
 latitude: 53.08928220000001
 longitude: 8.5816298
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Nutzhorner Landstraße"
 housenumber: 45
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Fr,Sa 09:00-12:00, Mo-Fr 14:00-18:00"
 website: "http://www.detken.de/"

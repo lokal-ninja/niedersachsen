@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.5877859
 longitude: 10.8753208
-postcode: 38474
+postcode: "38474"
 city: Tülau
 street: "Im Häg"
 housenumber: 31

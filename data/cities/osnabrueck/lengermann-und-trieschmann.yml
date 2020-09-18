@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.2747061
 longitude: 8.0473681
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Große Straße"
 housenumber: 27-32

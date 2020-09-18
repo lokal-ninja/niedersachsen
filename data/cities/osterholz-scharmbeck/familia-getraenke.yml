@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.2317522
 longitude: 8.7564315
-postcode: 27711
+postcode: "27711"
 city: Osterholz-Scharmbeck
 street: "Hördorfer Weg"
 housenumber: 

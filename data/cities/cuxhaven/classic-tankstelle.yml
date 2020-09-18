@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.81842210000001
 longitude: 8.6636114
-postcode: 27478
+postcode: "27478"
 city: Cuxhaven
 street: "Hauptstraße"
 housenumber: 86

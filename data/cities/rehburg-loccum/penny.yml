@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.4782072
 longitude: 9.229958100000001
-postcode: 31547
+postcode: "31547"
 city: Rehburg-Loccum
 street: "Heidtorstraße"
 housenumber: 32
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:30-21:00"
 website: ""

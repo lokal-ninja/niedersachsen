@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 52.3691187
 longitude: 9.7494131
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Marienstraße"
 housenumber: 40
-phone: ""
+phone: "+49 511 21915434"
 opening_hours: "Mo-Sa 10:00-19:00"
 website: ""

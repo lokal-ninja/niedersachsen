@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.314621200000005
 longitude: 9.3540144
-postcode: 
+postcode: ""
 city: Rodenberg
 street: "Allee"
 housenumber: 17

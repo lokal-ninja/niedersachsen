@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.52077250000001
 longitude: 8.579994000000001
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Am Fischbahnhof"
 housenumber: 13

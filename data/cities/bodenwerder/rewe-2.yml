@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9714813
 longitude: 9.514516200000001
-postcode: 37619
+postcode: "37619"
 city: Bodenwerder
 street: "Rühler Straße"
 housenumber: 32

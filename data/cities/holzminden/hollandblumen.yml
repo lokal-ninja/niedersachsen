@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.8427367
 longitude: 9.463418
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Bülte"
 housenumber: 10

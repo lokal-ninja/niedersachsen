@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.493205100000004
 longitude: 6.879305700000001
-postcode: 49843
+postcode: "49843"
 city: Uelsen
 street: "Itterbecker Straße"
 housenumber: 43

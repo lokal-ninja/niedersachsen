@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.229909400000004
 longitude: 7.457199500000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Mühlenstraße"
 housenumber: 70a

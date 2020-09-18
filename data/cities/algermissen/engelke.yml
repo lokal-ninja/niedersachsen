@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.253858
 longitude: 9.9743461
-postcode: 31191
+postcode: "31191"
 city: Algermissen
 street: "Marktstraße"
 housenumber: 27

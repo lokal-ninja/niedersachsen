@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.0485951
 longitude: 8.2005376
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Am Schlatt"
 housenumber: 30

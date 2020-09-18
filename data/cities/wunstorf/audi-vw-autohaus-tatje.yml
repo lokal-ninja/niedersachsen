@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.4509808
 longitude: 9.355839900000001
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Im Sandbrinke"
 housenumber: 1a

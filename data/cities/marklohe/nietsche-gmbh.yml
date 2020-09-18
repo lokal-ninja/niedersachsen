@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.665223000000005
 longitude: 9.157854
-postcode: 31608
+postcode: "31608"
 city: Marklohe
 street: "Hoyaer Straße"
 housenumber: 32

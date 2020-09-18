@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4143253
 longitude: 9.650735800000001
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Alte Stöckener Straße"
 housenumber: 95-97

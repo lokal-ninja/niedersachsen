@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.5487054
 longitude: 9.882203800000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Hans-Böckler-Straße"
 housenumber: 10a

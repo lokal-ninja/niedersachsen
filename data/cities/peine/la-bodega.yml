@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 52.348794600000005
 longitude: 10.2435361
-postcode: 31228
+postcode: "31228"
 city: Peine
 street: "Edemissener Straße"
 housenumber: 6

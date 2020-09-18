@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7294393
 longitude: 10.252063000000001
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Eisensteinstraße"
 housenumber: 2

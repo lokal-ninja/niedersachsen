@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 53.049160900000004
 longitude: 8.9580398
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

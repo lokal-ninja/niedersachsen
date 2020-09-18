@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3701372
 longitude: 9.7379429
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Marktstraße"
 housenumber: 43

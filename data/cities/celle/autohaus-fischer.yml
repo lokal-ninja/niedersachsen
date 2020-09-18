@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.6003258
 longitude: 10.1064027
-postcode: 29227
+postcode: "29227"
 city: Celle
 street: "Baumschulenweg"
 housenumber: 2

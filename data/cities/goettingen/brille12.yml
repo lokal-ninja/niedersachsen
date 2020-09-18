@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5341929
 longitude: 9.9340422
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Gotmarstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.587780900000006
 longitude: 9.806233200000001
-postcode: 37139
+postcode: "37139"
 city: Adelebsen
 street: "Landstraße"
 housenumber: 10

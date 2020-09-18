@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5403456
 longitude: 7.8813167
-postcode: 49577
+postcode: "49577"
 city: Ankum
 street: "Alfhausener Straße"
 housenumber: 

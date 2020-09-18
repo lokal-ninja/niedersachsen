@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.3046841
 longitude: 9.737599600000001
-postcode: 30966
+postcode: "30966"
 city: Hemmingen
 street: "Göttinger Straße"
 housenumber: 40

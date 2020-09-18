@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.1587868
 longitude: 9.9527003
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Bahnhofsplatz"
 housenumber: 6

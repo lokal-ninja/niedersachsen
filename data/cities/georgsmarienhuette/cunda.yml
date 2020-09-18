@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.205235300000005
 longitude: 8.0680455
-postcode: 49124
+postcode: "49124"
 city: Georgsmarienhütte
 street: "Am Rathaus"
 housenumber: 22  -  24

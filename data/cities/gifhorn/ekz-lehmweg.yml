@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.4783331
 longitude: 10.5680555
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Lehmweg"
 housenumber: 51

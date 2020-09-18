@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.785186200000005
 longitude: 8.4295585
-postcode: 49424
+postcode: "49424"
 city: Goldenstedt
 street: "Kirchstraße"
 housenumber: 24A

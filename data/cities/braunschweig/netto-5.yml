@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.240963300000004
 longitude: 10.5379486
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "Salzdahlumer Straße"
 housenumber: 74b
 phone: ""
-opening_hours: "Mo-Sa 00:00-00:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

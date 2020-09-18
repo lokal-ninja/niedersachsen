@@ -1,4 +1,4 @@
 ---
-title: "Hol Ab"
+title: "HOL' AB"
 url: /bremen/hol-ab/
 ---

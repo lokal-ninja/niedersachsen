@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.72773230000001
 longitude: 10.6102831
-postcode: 38700
+postcode: "38700"
 city: Braunlage
 street: "Herzog-Wilhelm-Straße"
 housenumber: 22

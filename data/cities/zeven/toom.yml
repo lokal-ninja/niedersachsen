@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.2766674
 longitude: 9.294298600000001
-postcode: 27404
+postcode: "27404"
 city: Zeven
 street: "Zum Hochkamp"
 housenumber: 1

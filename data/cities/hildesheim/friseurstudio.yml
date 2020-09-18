@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1491684
 longitude: 9.9404834
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Dammstraße"
 housenumber: 43

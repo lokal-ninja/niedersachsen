@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.2277702
 longitude: 11.0063334
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Neumärker Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.117563600000004
 longitude: 8.2134388
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Cloppenburger Straße"
 housenumber: 228

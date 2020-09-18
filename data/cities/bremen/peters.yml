@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.048286000000004
 longitude: 8.962573800000001
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 36

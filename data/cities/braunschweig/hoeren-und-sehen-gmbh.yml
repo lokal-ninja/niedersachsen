@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.2726156
 longitude: 10.4947192
-postcode: 38116
+postcode: "38116"
 city: Braunschweig
 street: "Hannoversche Straße"
 housenumber: 60

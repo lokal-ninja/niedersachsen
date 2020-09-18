@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.402504300000004
 longitude: 7.0339232
-postcode: 7591NT
+postcode: "7591NT"
 city: Denekamp
 street: "Nordhornsestraat"
 housenumber: 231

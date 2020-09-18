@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.171292400000006
 longitude: 9.9389991
-postcode: 31137
+postcode: "31137"
 city: Hildesheim
 street: "Lerchenkamp"
 housenumber: 38

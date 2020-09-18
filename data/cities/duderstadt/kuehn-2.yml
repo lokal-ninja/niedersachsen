@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.51255870000001
 longitude: 10.2572802
-postcode: 37115
+postcode: "37115"
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 21

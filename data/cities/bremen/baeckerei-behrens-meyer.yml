@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.069155200000004
 longitude: 8.8580612
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Hastedter Heerstraße"
 housenumber: 28

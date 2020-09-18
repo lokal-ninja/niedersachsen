@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.353301
 longitude: 10.708139500000001
-postcode: 38165
+postcode: "38165"
 city: Lehre
 street: "Alte Braunschweiger Straße"
 housenumber: 48

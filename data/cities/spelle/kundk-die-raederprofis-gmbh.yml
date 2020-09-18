@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 52.349587400000004
 longitude: 7.4614102
-postcode: 48480
+postcode: "48480"
 city: Spelle
 street: "Gerhard-Rekers-Straße"
 housenumber: 14

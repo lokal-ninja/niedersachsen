@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.368186900000005
 longitude: 7.204958400000001
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Zwischen Beiden Sielen"
 housenumber: 17

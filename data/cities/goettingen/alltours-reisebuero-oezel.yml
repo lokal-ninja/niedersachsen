@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.533324400000005
 longitude: 9.9315546
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Papendiek"
 housenumber: 19

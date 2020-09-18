@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.5344282
 longitude: 9.939275100000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Friedrichstraße"
 housenumber: 1

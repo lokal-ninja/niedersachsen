@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.26915880000001
 longitude: 10.5389721
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Hagenring"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.444588
 longitude: 10.015092500000002
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Uetzer Straße"
 housenumber: 15

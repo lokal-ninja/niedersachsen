@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.559460900000005
 longitude: 9.926244800000001
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Große Breite"
 housenumber: 7

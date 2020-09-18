@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.3792096
 longitude: 9.898258400000001
-postcode: 21224
+postcode: "21224"
 city: Rosengarten
 street: "Bremer Straße"
 housenumber: 51

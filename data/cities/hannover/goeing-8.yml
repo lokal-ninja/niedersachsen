@@ -1,12 +1,12 @@
-id: 213550638
-type: way
+id: 4515569237
+type: node
 shop: Bäckerei
-latitude: 52.420016100000005
-longitude: 9.7990653
-postcode: 30659
+latitude: 52.3675167
+longitude: 9.719338200000001
+postcode: "30449"
 city: Hannover
-street: "Kurze-Kamp-Straße"
-housenumber: 1c
-phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00"
+street: "Falkenstraße"
+housenumber: 2
+phone: "+49 511 92018183"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-13:00; Su 08:00-12:00"
 website: ""

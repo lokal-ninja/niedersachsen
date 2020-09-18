@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.229929600000006
 longitude: 7.455164000000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Mühlenstraße"
 housenumber: 51

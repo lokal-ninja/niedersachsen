@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.685921500000006
 longitude: 8.838973300000001
-postcode: 27232
+postcode: "27232"
 city: Sulingen
 street: "Leipziger Straße"
 housenumber: 6

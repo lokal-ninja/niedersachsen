@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.4644333
 longitude: 10.2039977
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Kirchstraße"
 housenumber: 2

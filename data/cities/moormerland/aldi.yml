@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3096024
 longitude: 7.4875077
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Rudolf-Eucken-Straße"
 housenumber: 

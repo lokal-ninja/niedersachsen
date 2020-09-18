@@ -3,10 +3,10 @@ type: node
 shop: Musik
 latitude: 52.3728629
 longitude: 9.705369300000001
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Weckenstraße"
 housenumber: 1
 phone: ""
-opening_hours: ""
-website: "https://www.rockers.de/"
+opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
+website: ""

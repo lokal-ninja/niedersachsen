@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.358488300000005
 longitude: 9.751456800000001
-postcode: 30173
+postcode: "30173"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 98

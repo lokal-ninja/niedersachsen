@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.5124082
 longitude: 10.2608523
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 69

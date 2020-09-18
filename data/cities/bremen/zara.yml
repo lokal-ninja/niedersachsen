@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.078140100000006
 longitude: 8.8033102
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Obernstraße"
 housenumber: 82-88

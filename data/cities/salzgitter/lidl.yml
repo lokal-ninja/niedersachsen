@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.19571010000001
 longitude: 10.4572743
-postcode: 38239
+postcode: "38239"
 city: Salzgitter
 street: "Schäferwiese"
 housenumber: 3

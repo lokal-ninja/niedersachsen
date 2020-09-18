@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.6204399
 longitude: 9.2030518
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Südring"
 housenumber: 1

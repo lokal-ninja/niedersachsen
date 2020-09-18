@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.360023600000005
 longitude: 9.7669212
-postcode: 30173
+postcode: "30173"
 city: Hannover
 street: "An der Weide"
 housenumber: 12

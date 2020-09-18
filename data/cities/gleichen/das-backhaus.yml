@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4925494
 longitude: 10.008901100000001
-postcode: 37130
+postcode: "37130"
 city: Gleichen
 street: "Steinslieth"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 51.956854400000005
 longitude: 9.2461672
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Vordere Straße"
 housenumber: 36

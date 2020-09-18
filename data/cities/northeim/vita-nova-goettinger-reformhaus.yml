@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.7055354
 longitude: 10.0000032
-postcode: 
+postcode: ""
 city: Northeim
 street: "Breite Straße"
 housenumber: 55/56

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.3969396
 longitude: 9.6399583
-postcode: 30926
+postcode: "30926"
 city: Seelze
 street: "Lange-Feld-Straße"
 housenumber: 24

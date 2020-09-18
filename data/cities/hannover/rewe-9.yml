@@ -1,12 +1,12 @@
-id: 89985479
-type: way
+id: 5692546624
+type: node
 shop: Supermarkt
-latitude: 52.364636100000006
-longitude: 9.762623000000001
-postcode: 30171
+latitude: 52.3305408
+longitude: 9.787903700000001
+postcode: "30519"
 city: Hannover
-street: "Spielhagenstraße"
-housenumber: 23a
-phone: ""
+street: "Karlsruher Straße"
+housenumber: 2
+phone: "+49 511 87654741"
 opening_hours: "Mo-Sa 07:00-21:30"
 website: ""

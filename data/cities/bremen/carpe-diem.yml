@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.126166100000006
 longitude: 8.902037700000001
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Borgfelder Heerstraße"
 housenumber: 42b

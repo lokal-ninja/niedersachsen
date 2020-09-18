@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.421232700000004
 longitude: 9.9835148
-postcode: 21077
+postcode: "21077"
 city: Hamburg
 street: "Winsener Straße"
 housenumber: 233

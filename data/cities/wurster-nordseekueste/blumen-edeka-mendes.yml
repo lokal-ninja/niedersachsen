@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.685610600000004
 longitude: 8.5635431
-postcode: 27639
+postcode: "27639"
 city: Wurster Nordseeküste
 street: "Poststraße"
 housenumber: 17

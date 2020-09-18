@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4070316
 longitude: 10.1845411
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Fuhsestraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.6516103
 longitude: 10.069538300000001
-postcode: 29229
+postcode: "29229"
 city: Celle
 street: "Zur Hasselklink"
 housenumber: 3-5

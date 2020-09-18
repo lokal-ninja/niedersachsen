@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0688266
 longitude: 8.857576
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Hastedter Heerstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.462201
 longitude: 9.6880787
-postcode: 21614
+postcode: "21614"
 city: Buxtehude
 street: "Bertha-von-Suttner-Allee"
 housenumber: 2

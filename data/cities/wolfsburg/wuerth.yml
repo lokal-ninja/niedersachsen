@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.369866900000005
 longitude: 10.7392497
-postcode: 38444
+postcode: "38444"
 city: Wolfsburg
 street: "Heinenkamp"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.2060091
 longitude: 10.4298196
-postcode: 21407
+postcode: "21407"
 city: Deutsch Evern
 street: "Tiergartenstraße"
 housenumber: 25

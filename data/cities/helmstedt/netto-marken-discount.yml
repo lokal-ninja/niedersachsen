@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.239023200000005
 longitude: 11.0106414
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Walbecker Straße"
 housenumber: 10

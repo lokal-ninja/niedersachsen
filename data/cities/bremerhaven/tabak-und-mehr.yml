@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.539775000000006
 longitude: 8.587794
-postcode: 27570
+postcode: "27570"
 city: Bremerhaven
 street: "Ludwigstraße"
 housenumber: 4

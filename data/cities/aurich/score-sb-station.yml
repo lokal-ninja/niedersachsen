@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.5122396
 longitude: 7.552320900000001
-postcode: 26607
+postcode: "26607"
 city: Aurich
 street: "Esenser Straße"
 housenumber: 261

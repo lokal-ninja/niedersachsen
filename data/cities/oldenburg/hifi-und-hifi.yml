@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 53.1799577
 longitude: 8.231367800000001
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Haseler Weg"
 housenumber: 2

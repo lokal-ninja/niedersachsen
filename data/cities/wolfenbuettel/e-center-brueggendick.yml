@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.168564100000005
 longitude: 10.5740695
-postcode: 38302
+postcode: "38302"
 city: Wolfenbüttel
 street: "Schweigerstraße"
 housenumber: 5

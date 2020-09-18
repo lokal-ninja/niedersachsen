@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.34366970000001
 longitude: 9.313875000000001
-postcode: 31699
+postcode: "31699"
 city: Beckedorf
 street: "Hauptstraße"
 housenumber: 28

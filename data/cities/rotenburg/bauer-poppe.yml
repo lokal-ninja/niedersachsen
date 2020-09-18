@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.1208547
 longitude: 9.3220617
-postcode: 27356
+postcode: "27356"
 city: Rotenburg
 street: "Am Lerchenkrug"
 housenumber: 3

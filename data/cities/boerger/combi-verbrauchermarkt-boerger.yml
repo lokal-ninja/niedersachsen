@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.9149352
 longitude: 7.542067
-postcode: 26904
+postcode: "26904"
 city: Börger
 street: "Breddenberger Straße"
 housenumber: 12

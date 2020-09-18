@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.606316400000004
 longitude: 8.371751
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Bahnhofstraße"
 housenumber: 20

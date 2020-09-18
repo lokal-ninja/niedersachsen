@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 52.3191998
 longitude: 8.346777900000001
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Lindenstraße"
 housenumber: 61
 phone: "+49 5472 977270"
-opening_hours: "Mo-Fr 09:30-13:00, 14:30-18:00; Sa 10:00-14:00; So 14:00-18:00"
+opening_hours: "Mo-Fr 09:30-13:00,14:30-18:00; Sa 10:00-14:00; Su 14:00-18:00"
 website: "https://www.schmuck-badessen.de/"

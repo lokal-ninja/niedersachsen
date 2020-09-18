@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.258482900000004
 longitude: 7.4569277000000005
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Am Nüttermoorer Sieltief"
 housenumber: 5

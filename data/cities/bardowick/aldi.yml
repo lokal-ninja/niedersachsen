@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.2943646
 longitude: 10.386370600000001
-postcode: 21357
+postcode: "21357"
 city: Bardowick
 street: "Hamburger Landstraße"
 housenumber: 34

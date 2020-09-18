@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2503711
 longitude: 10.166923500000001
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Große Straße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.501032200000004
 longitude: 10.5426105
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Im Paulsumpf"
 housenumber: 3

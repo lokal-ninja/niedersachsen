@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.624358400000006
 longitude: 10.0840765
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Zöllnerstraße"
 housenumber: 31

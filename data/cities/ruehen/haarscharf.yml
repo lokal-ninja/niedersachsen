@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4843868
 longitude: 10.885316600000001
-postcode: 38471
+postcode: "38471"
 city: Rühen
 street: "Am Ehrenmal"
 housenumber: 3F

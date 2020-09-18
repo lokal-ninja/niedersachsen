@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 53.1764139
 longitude: 8.6053365
-postcode: 28755
+postcode: "28755"
 city: Bremen
 street: "Lindenstraße"
 housenumber: 50

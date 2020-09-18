@@ -3,7 +3,7 @@ type: node
 shop: Spiele
 latitude: 52.6789769
 longitude: 9.909798400000001
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Celler Straße"
 housenumber: 3

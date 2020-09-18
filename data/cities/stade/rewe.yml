@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.6026948
 longitude: 9.486321400000001
-postcode: 21680
+postcode: "21680"
 city: Stade
 street: "Altländer Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.1459154
 longitude: 9.3964853
-postcode: 31787
+postcode: "31787"
 city: Hameln
 street: "Ortsfeld"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.3717788
 longitude: 9.7888803
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Schellingstraße"
 housenumber: 9

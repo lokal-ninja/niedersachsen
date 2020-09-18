@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.791825
 longitude: 7.8995981
-postcode: 26486
+postcode: "26486"
 city: Wangerooge
 street: "Zedeliusstraße"
 housenumber: 34

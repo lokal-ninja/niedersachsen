@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.2475529
 longitude: 10.4032543
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Salzstraße"
 housenumber: 1

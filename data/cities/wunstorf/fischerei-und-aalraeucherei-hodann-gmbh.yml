@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.4540019
 longitude: 9.3515861
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Alter Winkel"
 housenumber: 1

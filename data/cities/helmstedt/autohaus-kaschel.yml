@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.243084100000004
 longitude: 10.9783614
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Von-Guericke-Straße"
 housenumber: 24

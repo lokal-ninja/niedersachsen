@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.0866769
 longitude: 10.0047183
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Luheweg"
 housenumber: 7

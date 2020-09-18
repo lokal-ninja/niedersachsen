@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.470558200000006
 longitude: 7.4827833
-postcode: 26603
+postcode: "26603"
 city: Aurich
 street: "Norderstraße"
 housenumber: 2

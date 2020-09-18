@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.485925300000005
 longitude: 8.484398
-postcode: 26954
+postcode: "26954"
 city: Nordenham
 street: "Marktpassage"
 housenumber: 2

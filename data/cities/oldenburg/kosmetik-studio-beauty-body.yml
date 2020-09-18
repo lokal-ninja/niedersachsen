@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.1201103
 longitude: 8.2186049
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Schützenhofstraße"
 housenumber: 154

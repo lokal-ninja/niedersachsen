@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.82797720000001
 longitude: 9.462000300000001
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Sollingstraße"
 housenumber: 100

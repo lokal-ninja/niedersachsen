@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.242095600000006
 longitude: 10.584709
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "Zum Ackerberg"
 housenumber: 1

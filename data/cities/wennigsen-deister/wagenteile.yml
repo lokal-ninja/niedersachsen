@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 52.2806568
 longitude: 9.579414400000001
-postcode: 30974
+postcode: "30974"
 city: Wennigsen (Deister)
 street: "Albert-Einstein-Straße"
 housenumber: 20

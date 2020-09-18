@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 53.327077
 longitude: 9.875990700000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Neue Straße"
 housenumber: 1a

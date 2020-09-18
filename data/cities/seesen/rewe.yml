@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9457303
 longitude: 10.1295924
-postcode: 38723
+postcode: "38723"
 city: Seesen
 street: "Katelnburgstraße"
 housenumber: 17

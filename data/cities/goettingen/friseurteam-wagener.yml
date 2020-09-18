@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5108526
 longitude: 9.955741000000002
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Mitteldorfstraße"
 housenumber: 5

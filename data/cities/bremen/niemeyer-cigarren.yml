@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.04780160000001
 longitude: 8.957248
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.607427300000005
 longitude: 8.3490569
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Steinfelder Straße"
 housenumber: 49

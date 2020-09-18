@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.4875404
 longitude: 9.3085512
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Holunderweg"
 housenumber: 27

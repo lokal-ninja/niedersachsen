@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.2495588
 longitude: 10.4247394
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "Am Schützenplatz"
 housenumber: 1

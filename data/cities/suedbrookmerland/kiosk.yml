@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.52194110000001
 longitude: 7.364174
-postcode: 26624
+postcode: "26624"
 city: Südbrookmerland
 street: "Kuhtrift"
 housenumber: 4

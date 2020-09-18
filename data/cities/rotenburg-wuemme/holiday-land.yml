@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.1116012
 longitude: 9.409052500000001
-postcode: 27356
+postcode: "27356"
 city: Rotenburg (Wümme)
 street: "Große Straße"
 housenumber: 79

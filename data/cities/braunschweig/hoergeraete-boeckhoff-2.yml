@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.2488256
 longitude: 10.4793569
-postcode: 38120
+postcode: "38120"
 city: Braunschweig
 street: "Elbestraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.216154700000004
 longitude: 9.5444961
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Johann-Heinrich-Schröder-Straße"
 housenumber: 2

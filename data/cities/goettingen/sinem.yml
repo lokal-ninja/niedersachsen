@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5345865
 longitude: 9.9306595
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Goethe-Allee"
 housenumber: 5

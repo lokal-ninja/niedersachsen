@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5124043
 longitude: 9.4514735
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Erika-Najork-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.4372325
 longitude: 8.2719368
-postcode: 49163
+postcode: "49163"
 city: Bohmte
 street: "Am Alten Bahnhof"
 housenumber: 4

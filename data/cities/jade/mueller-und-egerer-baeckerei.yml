@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.337684700000004
 longitude: 8.1865471
-postcode: 26349
+postcode: "26349"
 city: Jade
 street: "Tiergartenstraße"
 housenumber: 2

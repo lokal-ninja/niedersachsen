@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.0475957
 longitude: 8.883998100000001
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Hemelinger Hafendamm"
 housenumber: 24

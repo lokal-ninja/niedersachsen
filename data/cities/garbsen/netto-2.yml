@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4410882
 longitude: 9.5812624
-postcode: 30827
+postcode: "30827"
 city: Garbsen
 street: "Feldriethe"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.8589988
 longitude: 9.593978400000001
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Hannoversche Straße"
 housenumber: 2

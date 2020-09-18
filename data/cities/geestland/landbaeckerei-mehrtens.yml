@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.617702400000006
 longitude: 8.6295836
-postcode: 27607
+postcode: "27607"
 city: Geestland
 street: "Langener Straße"
 housenumber: 53

@@ -1,12 +1,12 @@
 id: 649220177
 type: node
-shop: Supermarkt
-latitude: 53.2678312
-longitude: 9.7292834
-postcode: 21255
+shop: Allgemein
+latitude: 53.267821600000005
+longitude: 9.729484600000001
+postcode: "21255"
 city: Tostedt
 street: "Zinnhütte"
 housenumber: 1
-phone: "+49 4182 292506"
+phone: ""
 opening_hours: ""
-website: "https://www.uni-blinds.de/"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.2713765
 longitude: 9.7378599
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Niedersachsenstraße"
 housenumber: 76

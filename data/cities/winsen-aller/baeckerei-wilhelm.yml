@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.6855235
 longitude: 9.9098404
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Waller Straße"
 housenumber: 15

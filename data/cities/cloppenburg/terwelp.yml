@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.84563120000001
 longitude: 8.041634400000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Lange Straße"
 housenumber: 8

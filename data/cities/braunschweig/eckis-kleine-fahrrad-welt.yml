@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.235247300000005
 longitude: 10.4809041
-postcode: 38122
+postcode: "38122"
 city: Braunschweig
 street: "Oststraße"
 housenumber: 2c

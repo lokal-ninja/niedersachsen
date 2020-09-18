@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.5930212
 longitude: 10.8817021
-postcode: 38474
+postcode: "38474"
 city: Tülau
 street: "Wiswedeler Straße"
 housenumber: 3

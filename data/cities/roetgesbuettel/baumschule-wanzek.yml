@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.4241619
 longitude: 10.534389200000001
-postcode: 38531
+postcode: "38531"
 city: Rötgesbüttel
 street: "Rodeweg"
 housenumber: 1

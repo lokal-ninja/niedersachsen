@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 53.177194
 longitude: 8.226876800000001
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Stubbenweg"
 housenumber: 3

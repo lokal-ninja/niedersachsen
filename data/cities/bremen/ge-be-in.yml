@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 53.066392300000004
 longitude: 8.8703857
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Malerstraße"
 housenumber: 4

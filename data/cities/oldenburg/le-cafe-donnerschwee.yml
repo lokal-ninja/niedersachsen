@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.154076
 longitude: 8.243607200000001
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Donnerschweer Straße"
 housenumber: 280

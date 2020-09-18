@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.682135300000006
 longitude: 7.2904562
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Auf der Herrschwiese"
 housenumber: 11-13

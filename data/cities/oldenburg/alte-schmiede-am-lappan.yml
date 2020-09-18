@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.1429872
 longitude: 8.2136729
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Lappan"
 housenumber: 4

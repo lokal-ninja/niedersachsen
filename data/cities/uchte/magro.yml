@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.498863300000004
 longitude: 8.905156
-postcode: 31600
+postcode: "31600"
 city: Uchte
 street: "Mühlenstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.4266312
 longitude: 10.7834509
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Poststraße"
 housenumber: 40

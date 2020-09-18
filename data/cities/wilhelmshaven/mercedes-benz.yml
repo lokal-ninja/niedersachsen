@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.5586746
 longitude: 8.1027549
-postcode: 26386
+postcode: "26386"
 city: Wilhelmshaven
 street: "Freiligrathstraße"
 housenumber: 360

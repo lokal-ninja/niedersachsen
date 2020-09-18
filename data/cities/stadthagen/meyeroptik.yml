@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.3245486
 longitude: 9.205413100000001
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Rathauspassage"
 housenumber: 3

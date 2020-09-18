@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 52.1610968
 longitude: 9.8613414
-postcode: 31180
+postcode: "31180"
 city: Emmerke
 street: "Industriestraße"
 housenumber: 4

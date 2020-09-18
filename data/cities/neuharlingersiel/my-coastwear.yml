@@ -3,10 +3,10 @@ type: way
 shop: Kleidung
 latitude: 53.69999790000001
 longitude: 7.702935200000001
-postcode: 26427
+postcode: "26427"
 city: Neuharlingersiel
 street: "Am Hafen West"
 housenumber: 5
 phone: "+49 4974 205"
-opening_hours: ""
+opening_hours: "Mo-Su 10:00-18:00"
 website: "http://www.mycoastwear.de/"

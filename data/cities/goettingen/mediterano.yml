@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.5293439
 longitude: 9.8807946
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Am Kauf Park"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.094209500000005
 longitude: 8.7683961
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Am Waller Freihafen"
 housenumber: 1

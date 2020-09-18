@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 53.0477738
 longitude: 8.6308728
-postcode: 27749
+postcode: "27749"
 city: Delmenhorst
 street: "Am Vorwerk"
 housenumber: 2

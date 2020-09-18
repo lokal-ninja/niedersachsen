@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.586294
 longitude: 9.9292993
-postcode: 37120
+postcode: "37120"
 city: Bovenden
 street: "Rathausplatz"
 housenumber: 23a

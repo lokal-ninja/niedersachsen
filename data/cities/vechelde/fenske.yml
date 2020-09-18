@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.2608229
 longitude: 10.3743231
-postcode: 38159
+postcode: "38159"
 city: Vechelde
 street: "Hildesheimer Straße"
 housenumber: 14

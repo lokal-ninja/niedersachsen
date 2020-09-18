@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6058614
 longitude: 8.3708877
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Lange Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.3302069
 longitude: 9.7750562
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 346

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1118535
 longitude: 9.960278200000001
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Im Dorfe"
 housenumber: 4

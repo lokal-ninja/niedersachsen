@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.3088704
 longitude: 10.494345200000001
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Wendener Weg"
 housenumber: 110

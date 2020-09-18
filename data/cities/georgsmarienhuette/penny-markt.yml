@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.202872500000005
 longitude: 8.0324759
-postcode: 49124
+postcode: "49124"
 city: Georgsmarienhütte
 street: "Im Steinbruch"
 housenumber: 6

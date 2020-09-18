@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.85804
 longitude: 9.4950185
-postcode: 37639
+postcode: "37639"
 city: Bevern
 street: "Schloss"
 housenumber: 15

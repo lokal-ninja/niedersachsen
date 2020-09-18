@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.537483200000004
 longitude: 7.9397986000000005
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "Mühlenweg"
 housenumber: 59

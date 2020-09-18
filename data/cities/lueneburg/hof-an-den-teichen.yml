@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.2137577
 longitude: 10.3601916
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Heiligenthaler Straße"
 housenumber: 1

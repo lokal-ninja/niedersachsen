@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.640689300000005
 longitude: 9.2401029
-postcode: 21755
+postcode: "21755"
 city: Hechthausen
 street: "Hauptstraße"
 housenumber: 17

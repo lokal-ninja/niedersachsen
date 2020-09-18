@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.3054477
 longitude: 9.2750334
-postcode: 27404
+postcode: "27404"
 city: Zeven
 street: "Buchenstraße"
 housenumber: 15

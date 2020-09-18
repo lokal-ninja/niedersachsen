@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.532378
 longitude: 9.930632000000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Groner-Tor-Straße"
 housenumber: 26

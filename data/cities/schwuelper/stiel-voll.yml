@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.354518500000005
 longitude: 10.436664700000001
-postcode: 38179
+postcode: "38179"
 city: Schwülper
 street: "Poststraße"
 housenumber: 27

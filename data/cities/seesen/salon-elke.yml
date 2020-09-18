@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.9405105
 longitude: 10.126572600000001
-postcode: 38723
+postcode: "38723"
 city: Seesen
 street: "Spadentorstraße"
 housenumber: 1

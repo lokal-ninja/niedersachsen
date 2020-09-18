@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.108985800000006
 longitude: 8.7786655
-postcode: 28219
+postcode: "28219"
 city: Bremen
 street: "Am Waller See"
 housenumber: 1

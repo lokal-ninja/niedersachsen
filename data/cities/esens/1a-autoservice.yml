@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.673502000000006
 longitude: 7.578297500000001
-postcode: 26427
+postcode: "26427"
 city: Esens
 street: "Hauptstraße"
 housenumber: 1

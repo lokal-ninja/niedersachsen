@@ -3,7 +3,7 @@ type: way
 shop: Elektrisch
 latitude: 52.674474100000005
 longitude: 7.9553789
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Lange Straße"
 housenumber: 10

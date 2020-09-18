@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 53.21755
 longitude: 10.1795563
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Kreuzweg"
 housenumber: 1b

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1671666
 longitude: 10.554496
-postcode: 38302
+postcode: "38302"
 city: Wolfenbüttel
 street: "Am Rodeland"
 housenumber: 9

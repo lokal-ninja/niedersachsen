@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 53.1870289
 longitude: 8.1787762
-postcode: 26215
+postcode: "26215"
 city: Wiefelstede
 street: "Kiefernstraße"
 housenumber: 6

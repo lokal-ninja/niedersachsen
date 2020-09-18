@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 52.4622517
 longitude: 10.541255300000001
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Braunschweiger Straße"
 housenumber: 134

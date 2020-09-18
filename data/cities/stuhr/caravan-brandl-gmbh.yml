@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.999785100000004
 longitude: 8.7007221
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Mackenstedter Straße"
 housenumber: 26-28

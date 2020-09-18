@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.3670893
 longitude: 9.9083466
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Zum Großen Freien"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.3607242
 longitude: 9.8280551
-postcode: 30559
+postcode: "30559"
 city: Hannover
 street: "Tiergartenstraße"
 housenumber: 24

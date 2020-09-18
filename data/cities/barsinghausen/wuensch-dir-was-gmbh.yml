@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.2804574
 longitude: 9.5156176
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Wennigser Straße"
 housenumber: 73

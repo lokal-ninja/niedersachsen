@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.3136644
 longitude: 7.4666775
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Wankelstraße"
 housenumber: 14

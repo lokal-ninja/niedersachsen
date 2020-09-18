@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.493752
 longitude: 9.118112100000001
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Industriestraße"
 housenumber: 8

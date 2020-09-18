@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.577192600000004
 longitude: 8.1104473
-postcode: 26388
+postcode: "26388"
 city: Wilhelmshaven
 street: "Flutstraße"
 housenumber: 94

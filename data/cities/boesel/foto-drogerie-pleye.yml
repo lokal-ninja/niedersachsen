@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.004500500000006
 longitude: 7.9560468
-postcode: 26219
+postcode: "26219"
 city: Bösel
 street: "Jahnstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2449541
 longitude: 10.4150714
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Vor dem Roten Tore"
 housenumber: 72b

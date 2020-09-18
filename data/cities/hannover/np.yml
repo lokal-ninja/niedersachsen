@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.346983800000004
 longitude: 9.7225683
-postcode: 30459
+postcode: "30459"
 city: Hannover
 street: "Pfarrstraße"
 housenumber: 41

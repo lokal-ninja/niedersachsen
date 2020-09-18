@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 52.52243
 longitude: 8.1940259
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Lindenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.557498100000004
 longitude: 9.935502600000001
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Kaakweg"
 housenumber: 17

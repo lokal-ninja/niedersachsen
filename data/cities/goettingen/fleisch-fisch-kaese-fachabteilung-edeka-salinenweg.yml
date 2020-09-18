@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.534465600000004
 longitude: 9.9060289
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Salinenweg"
 housenumber: 1

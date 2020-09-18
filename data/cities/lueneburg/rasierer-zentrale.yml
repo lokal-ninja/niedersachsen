@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.2489244
 longitude: 10.410842
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Am Berge"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2604374
 longitude: 10.541417000000001
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Altewiekring"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.831380100000004
 longitude: 10.087430900000001
-postcode: 29320
+postcode: "29320"
 city: Südheide
 street: "Am Markt"
 housenumber: 1

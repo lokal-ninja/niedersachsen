@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.260386100000005
 longitude: 10.4375414
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "Wulf-Werum-Straße"
 housenumber: 2

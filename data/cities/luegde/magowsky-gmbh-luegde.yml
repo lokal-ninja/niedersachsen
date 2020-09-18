@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.9684025
 longitude: 9.257551000000001
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Siemensstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.2852503
 longitude: 9.5052418
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Stader Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.323042900000004
 longitude: 9.2056726
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Obernstraße"
 housenumber: 53

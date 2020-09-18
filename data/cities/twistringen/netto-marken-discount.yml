@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7930209
 longitude: 8.6300209
-postcode: 27239
+postcode: "27239"
 city: Twistringen
 street: "Köglerstraße"
 housenumber: 4

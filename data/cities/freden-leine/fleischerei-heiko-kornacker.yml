@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.9518074
 longitude: 9.9105443
-postcode: 31084
+postcode: "31084"
 city: Freden (Leine)
 street: "Hauptstraße"
 housenumber: 45

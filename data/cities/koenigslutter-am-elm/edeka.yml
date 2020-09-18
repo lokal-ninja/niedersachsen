@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2501831
 longitude: 10.8211875
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Rottorfer Straße"
 housenumber: 6

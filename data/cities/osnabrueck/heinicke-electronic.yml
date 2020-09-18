@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.2644103
 longitude: 8.0586262
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Meller Straße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7441429
 longitude: 10.6023244
-postcode: 29386
+postcode: "29386"
 city: Obernholz
 street: "Rosenstraße"
 housenumber: 4

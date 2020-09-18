@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.0761387
 longitude: 9.8130746
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Hemsener Weg"
 housenumber: 87a

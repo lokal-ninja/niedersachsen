@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.058929000000006
 longitude: 8.885882500000001
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Hemelinger Bahnhofstraße"
 housenumber: 

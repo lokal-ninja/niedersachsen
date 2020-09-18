@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.7032917
 longitude: 9.241445200000001
-postcode: 31627
+postcode: "31627"
 city: Rohrsen
 street: "Am Büschen"
 housenumber: 1

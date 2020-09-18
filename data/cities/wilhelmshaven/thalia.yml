@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.520148400000004
 longitude: 8.113776
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Marktstraße"
 housenumber: 55

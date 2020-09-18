@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.7810798
 longitude: 9.376212200000001
-postcode: 27336
+postcode: "27336"
 city: Rethem
 street: "Rodewalder Straße"
 housenumber: 23

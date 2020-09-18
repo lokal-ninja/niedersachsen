@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.5465279
 longitude: 8.5753916
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Preßburger Straße"
 housenumber: 3

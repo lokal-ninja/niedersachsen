@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4263447
 longitude: 9.596373100000001
-postcode: 30823
+postcode: "30823"
 city: Garbsen
 street: "Havelser Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9351726
 longitude: 10.3445385
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Lange Straße"
 housenumber: 60

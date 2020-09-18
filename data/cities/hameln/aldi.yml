@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1009735
 longitude: 9.382076600000001
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Hastenbecker Weg"
 housenumber: 46

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5118676
 longitude: 9.950482800000001
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Kiesseestraße"
 housenumber: 14

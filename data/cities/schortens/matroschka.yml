@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.5402707
 longitude: 7.948060300000001
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "Menkestraße"
 housenumber: 4c

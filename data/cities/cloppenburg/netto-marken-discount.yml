@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8305092
 longitude: 8.0318881
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Freesienstraße"
 housenumber: 1

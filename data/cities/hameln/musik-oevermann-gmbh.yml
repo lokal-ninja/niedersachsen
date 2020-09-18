@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.10327710000001
 longitude: 9.3549573
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Wendenstraße"
 housenumber: 8

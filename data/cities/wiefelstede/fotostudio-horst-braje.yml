@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.2564366
 longitude: 8.115315800000001
-postcode: 26215
+postcode: "26215"
 city: Wiefelstede
 street: "Kirchstraße"
 housenumber: 2

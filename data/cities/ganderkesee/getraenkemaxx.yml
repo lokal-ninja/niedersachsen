@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.0747944
 longitude: 8.601183800000001
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Schierbroker Straße"
 housenumber: 77

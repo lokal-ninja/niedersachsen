@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.381539000000004
 longitude: 10.5347974
-postcode: 38527
+postcode: "38527"
 city: Meine
 street: "Gifhorner Straße"
 housenumber: 4

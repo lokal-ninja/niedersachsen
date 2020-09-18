@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.335223500000005
 longitude: 9.8000206
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Am Mittelfelde"
 housenumber: 102

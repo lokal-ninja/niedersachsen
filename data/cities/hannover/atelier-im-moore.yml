@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 52.385212100000004
 longitude: 9.7208442
-postcode: 30167
+postcode: "30167"
 city: Hannover
 street: "Im Moore"
 housenumber: 26

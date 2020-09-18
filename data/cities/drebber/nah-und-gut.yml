@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.6513337
 longitude: 8.4251071
-postcode: 49457
+postcode: "49457"
 city: Drebber
 street: "An der Kirche"
 housenumber: 1

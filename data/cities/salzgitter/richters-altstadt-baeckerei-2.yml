@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.193400000000004
 longitude: 10.4587489
-postcode: 38239
+postcode: "38239"
 city: Salzgitter
 street: "Schäferwiese"
 housenumber: 10a

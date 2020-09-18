@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.441704800000004
 longitude: 7.513525400000001
-postcode: 26605
+postcode: "26605"
 city: Aurich
 street: "Tjüchkampstraße"
 housenumber: 2

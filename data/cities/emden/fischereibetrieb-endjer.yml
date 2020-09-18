@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.3745136
 longitude: 7.280815400000001
-postcode: 26725
+postcode: "26725"
 city: Emden
 street: "Schwagerweg"
 housenumber: 9

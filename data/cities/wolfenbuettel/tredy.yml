@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1638595
 longitude: 10.5379515
-postcode: 38300
+postcode: "38300"
 city: Wolfenbüttel
 street: "Lange Herzogstraße"
 housenumber: 19

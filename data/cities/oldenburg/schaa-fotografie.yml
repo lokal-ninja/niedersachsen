@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.1410458
 longitude: 8.2142209
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Achternstraße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.4668799
 longitude: 9.782743400000001
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Liliencronstraße"
 housenumber: 49a

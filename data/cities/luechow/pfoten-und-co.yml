@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 52.971091900000005
 longitude: 11.156545600000001
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Königsberger Straße"
 housenumber: 6

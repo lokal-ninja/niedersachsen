@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.287417700000006
 longitude: 9.870719900000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Buchholzer Landstraße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.25736190000001
 longitude: 9.43961
-postcode: 31848
+postcode: "31848"
 city: Bad Münder am Deister
 street: "Tannenweg"
 housenumber: 5

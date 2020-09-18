@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5292139
 longitude: 9.940363000000001
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Geismar Landstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.4512708
 longitude: 9.758069500000001
-postcode: 30853
+postcode: "30853"
 city: Langenhagen
 street: "Theodor-Heuss-Straße"
 housenumber: 18

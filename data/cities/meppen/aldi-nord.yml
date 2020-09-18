@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.681694500000006
 longitude: 7.2984420000000005
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Fürstenbergstraße"
 housenumber: 15

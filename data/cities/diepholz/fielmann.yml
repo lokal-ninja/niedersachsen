@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.606116500000006
 longitude: 8.3703067
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Lange Straße"
 housenumber: 43

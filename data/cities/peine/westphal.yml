@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.323146900000005
 longitude: 10.2250031
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Am Markt"
 housenumber: 4 - 5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.6352002
 longitude: 9.9414048
-postcode: 29313
+postcode: "29313"
 city: Hambühren
 street: "Wiesenweg"
 housenumber: 23

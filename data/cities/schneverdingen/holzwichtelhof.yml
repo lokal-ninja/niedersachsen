@@ -3,10 +3,10 @@ type: node
 shop: Kunst
 latitude: 53.112808
 longitude: 9.7634577
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Zahrenhusenstraße"
 housenumber: 2a
 phone: "+49 5193 9710545"
 opening_hours: ""
-website: ""
+website: "http://www.holzwichtel-hof.de/"

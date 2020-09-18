@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.403800000000004
 longitude: 9.7120827
-postcode: 30165
+postcode: "30165"
 city: Hannover
 street: "Schulenburger Landstraße"
 housenumber: 93

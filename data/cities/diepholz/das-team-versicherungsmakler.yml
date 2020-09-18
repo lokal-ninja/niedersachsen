@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.606498900000005
 longitude: 8.3705779
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Lange Straße"
 housenumber: 20

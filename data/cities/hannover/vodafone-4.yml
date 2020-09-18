@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 52.346127100000004
 longitude: 9.761784800000001
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 201

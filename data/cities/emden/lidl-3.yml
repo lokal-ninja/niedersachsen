@@ -1,12 +1,12 @@
-id: 122376762
+id: 102684519
 type: way
 shop: Supermarkt
-latitude: 53.374458700000005
-longitude: 7.236052900000001
-postcode: 26725
+latitude: 53.3454526
+longitude: 7.2271774
+postcode: "26725"
 city: Emden
-street: "Folkmar-Allena-Straße"
-housenumber: 2A
+street: "Ulmenstraße"
+housenumber: 15
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: "Mo-Sa 07:00-21:00"
+website: ""

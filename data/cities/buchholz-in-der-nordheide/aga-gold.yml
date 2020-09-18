@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.3272142
 longitude: 9.8758511
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Neue Straße"
 housenumber: 1

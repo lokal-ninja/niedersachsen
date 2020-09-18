@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.4988995
 longitude: 10.7607429
-postcode: 38477
+postcode: "38477"
 city: Jembke
 street: "Hauptstraße"
 housenumber: 51

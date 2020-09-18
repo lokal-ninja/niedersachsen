@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 53.2211117
 longitude: 9.0815567
-postcode: 27412
+postcode: "27412"
 city: Tarmstedt
 street: "Wilstedter Straße"
 housenumber: 21

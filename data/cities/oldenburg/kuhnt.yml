@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.1792384
 longitude: 8.2276313
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Stubbenweg"
 housenumber: 15

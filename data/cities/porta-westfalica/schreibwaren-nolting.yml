@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.2024612
 longitude: 9.0138022
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Stephanstraße"
 housenumber: 8

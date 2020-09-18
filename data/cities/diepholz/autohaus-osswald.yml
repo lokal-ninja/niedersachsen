@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.6158134
 longitude: 8.377132000000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Auf dem Esch"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3937472
 longitude: 9.6845371
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Herrenhäuser Straße"
 housenumber: 76A

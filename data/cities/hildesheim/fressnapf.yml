@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.1647802
 longitude: 9.9699115
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Bavenstedter Straße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.270139300000004
 longitude: 9.7304718
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Zinnhütte"
 housenumber: 14

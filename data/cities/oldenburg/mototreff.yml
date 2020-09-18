@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 53.114048000000004
 longitude: 8.2118622
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Cloppenburger Straße"
 housenumber: 286

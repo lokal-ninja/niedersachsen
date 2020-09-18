@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.534418300000006
 longitude: 9.9348721
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Weender Straße"
 housenumber: 31

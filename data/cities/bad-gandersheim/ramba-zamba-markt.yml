@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.864705300000004
 longitude: 10.0236888
-postcode: 37581
+postcode: "37581"
 city: Bad Gandersheim
 street: "Northeimer Straße"
 housenumber: 14

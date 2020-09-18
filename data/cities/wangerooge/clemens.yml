@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.791584400000005
 longitude: 7.899874100000001
-postcode: 26486
+postcode: "26486"
 city: Wangerooge
 street: "Zedeliusstraße"
 housenumber: 33

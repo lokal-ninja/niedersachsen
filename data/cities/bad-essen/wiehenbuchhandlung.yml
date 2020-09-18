@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.3190309
 longitude: 8.3463691
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Lindenstraße"
 housenumber: 56

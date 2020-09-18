@@ -3,7 +3,7 @@ type: node
 shop: Eisprodukte
 latitude: 53.045031400000006
 longitude: 8.8477344
-postcode: 28279
+postcode: "28279"
 city: Bremen
 street: "Ernst-Buchholz-Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.3279797
 longitude: 9.8827526
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Kirchenstraße"
 housenumber: 11

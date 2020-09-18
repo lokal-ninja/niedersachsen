@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.779031700000004
 longitude: 8.6157112
-postcode: 27639
+postcode: "27639"
 city: Wurster Nordseeküste
 street: "Feuerweg"
 housenumber: 6e

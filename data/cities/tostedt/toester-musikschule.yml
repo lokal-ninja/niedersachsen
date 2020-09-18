@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 53.2811857
 longitude: 9.7096674
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Unter den Linden"
 housenumber: 12

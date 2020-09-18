@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 52.1600557
 longitude: 10.5082035
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Am Rehmanger"
 housenumber: 4 d

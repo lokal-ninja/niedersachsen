@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0720218
 longitude: 8.8445447
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Am Hulsberg"
 housenumber: 8

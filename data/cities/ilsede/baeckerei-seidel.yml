@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.2619904
 longitude: 10.1932761
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "Zuckerweg"
 housenumber: 3

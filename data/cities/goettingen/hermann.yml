@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.52934380000001
 longitude: 9.8809141
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Am Kauf Park"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 53.1122992
 longitude: 8.4585647
-postcode: 27798
+postcode: "27798"
 city: Hude
 street: "Parkstraße"
 housenumber: 28

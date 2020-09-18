@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3042427
 longitude: 10.517467900000002
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Am Denkmal"
 housenumber: 5

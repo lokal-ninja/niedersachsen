@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 53.586621300000004
 longitude: 6.6660138
-postcode: 26757
+postcode: "26757"
 city: Borkum
 street: "Neue Straße"
 housenumber: 20

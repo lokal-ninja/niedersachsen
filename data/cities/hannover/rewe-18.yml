@@ -1,12 +1,12 @@
-id: 779977276
+id: 617483864
 type: way
 shop: Supermarkt
-latitude: 52.391975
-longitude: 9.721416600000001
-postcode: 30167
+latitude: 52.3352498
+longitude: 9.7733326
+postcode: "30519"
 city: Hannover
-street: "Bodestraße"
-housenumber: 2-6
-phone: "+49 511 12108161"
-opening_hours: "Mo-Fr 07:00-00:00; Sa 7:00-23:30"
-website: "https://www.rewe.de/marktseite/hannover-nordstadt/540303/rewe-markt-bodestr-2-6/"
+street: "An der Wollebahn"
+housenumber: 4
+phone: "+49 511 8483826"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.rewe.de/marktseite/hannover/540203/rewe-markt-an-der-wollebahn-4/"

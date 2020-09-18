@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.913970500000005
 longitude: 8.8159069
-postcode: 28857
+postcode: "28857"
 city: Syke
 street: "Bassumer Straße"
 housenumber: 1

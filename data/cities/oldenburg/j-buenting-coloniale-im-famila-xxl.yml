@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.1580255
 longitude: 8.1759369
-postcode: 26129
+postcode: "26129"
 city: Oldenburg
 street: "Posthalterweg"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.0986343
 longitude: 9.5218167
-postcode: 27386
+postcode: "27386"
 city: Brockel
 street: "Scheeßeler Straße"
 housenumber: 12

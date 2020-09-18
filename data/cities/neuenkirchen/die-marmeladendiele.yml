@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.0481448
 longitude: 9.6843809
-postcode: 29643
+postcode: "29643"
 city: Neuenkirchen
 street: "Rotenburger Straße"
 housenumber: 30

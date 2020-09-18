@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 53.0628024
 longitude: 8.195093100000001
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Friedrichstraße"
 housenumber: 13

@@ -1,12 +1,12 @@
 id: 5141624929
 type: node
 shop: Autowerkstatt
-latitude: 53.0296795
-longitude: 9.835083000000001
-postcode: 29614
+latitude: 53.029824700000006
+longitude: 9.8354102
+postcode: "29614"
 city: Soltau
 street: "Soltauer Straße"
 housenumber: 7-9
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 5191 5385"
+opening_hours: "Mo-Fr 8:00-17:00; Sa nach Vereinbarung; PH off"
+website: "https://www.renkenkfz.de/"

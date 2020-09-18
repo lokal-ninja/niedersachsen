@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.1922872
 longitude: 9.2881523
-postcode: 27404
+postcode: "27404"
 city: Gyhum
 street: "An der Autobahn"
 housenumber: 6

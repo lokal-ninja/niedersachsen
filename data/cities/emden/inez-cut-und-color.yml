@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.3682329
 longitude: 7.2059487
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Zwischen Beiden Sielen"
 housenumber: 1

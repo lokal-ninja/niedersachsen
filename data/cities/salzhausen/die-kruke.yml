@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.2263753
 longitude: 10.166414600000001
-postcode: 
+postcode: ""
 city: Salzhausen
 street: "Bahnhofstraße"
 housenumber: 2

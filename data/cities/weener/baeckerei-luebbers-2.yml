@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1626363
 longitude: 7.3349438000000005
-postcode: 26826
+postcode: "26826"
 city: Weener
 street: "Graf-Edzard-Straße"
 housenumber: 65

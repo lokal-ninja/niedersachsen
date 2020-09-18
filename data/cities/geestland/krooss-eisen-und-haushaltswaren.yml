@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 53.6261517
 longitude: 8.837833100000001
-postcode: 27624
+postcode: "27624"
 city: Geestland
 street: "Mattenburger Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.419022600000005
 longitude: 9.693802
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Kurländer Weg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.5485801
 longitude: 9.9028525
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Robert-Bosch-Breite"
 housenumber: 4

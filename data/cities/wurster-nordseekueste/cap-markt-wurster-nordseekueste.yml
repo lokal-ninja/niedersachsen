@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.650533100000004
 longitude: 8.508779500000001
-postcode: 27639
+postcode: "27639"
 city: Wurster Nordseeküste
 street: "In der Langen Straße"
 housenumber: 24

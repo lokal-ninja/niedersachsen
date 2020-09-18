@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.609581500000004
 longitude: 10.061483200000001
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Neuenhäuser Straße"
 housenumber: 3

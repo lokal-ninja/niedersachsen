@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.1725781
 longitude: 8.6185595
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Gerhard-Rohlfs-Straße"
 housenumber: 67

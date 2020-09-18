@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.12482730000001
 longitude: 8.1915216
-postcode: 26131
+postcode: "26131"
 city: Oldenburg
 street: "Sodenstich"
 housenumber: 124

@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 51.416165400000004
 longitude: 9.651400800000001
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Lange Straße"
 housenumber: 

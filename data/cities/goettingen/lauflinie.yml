@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.5403785
 longitude: 9.9442796
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Nikolausberger Weg"
 housenumber: 46

@@ -1,4 +1,4 @@
 ---
-title: "Denn's Biomarkt"
+title: "denn's Biomarkt"
 url: /hannover/denns-biomarkt-3/
 ---

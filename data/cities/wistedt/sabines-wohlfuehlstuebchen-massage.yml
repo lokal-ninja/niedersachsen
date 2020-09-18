@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.2548748
 longitude: 9.6238493
-postcode: 21255
+postcode: "21255"
 city: Wistedt
 street: "Wümmer Moorweg"
 housenumber: 9

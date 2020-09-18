@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.208102100000005
 longitude: 9.5505096
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Zum Oberntor"
 housenumber: 33

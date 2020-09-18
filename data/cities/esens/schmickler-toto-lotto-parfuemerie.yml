@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.644620100000004
 longitude: 7.6133439
-postcode: 26427
+postcode: "26427"
 city: Esens
 street: "Steinstraße"
 housenumber: 33

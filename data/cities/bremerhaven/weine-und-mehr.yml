@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 53.4870292
 longitude: 8.5978575
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Seeborg"
 housenumber: 9

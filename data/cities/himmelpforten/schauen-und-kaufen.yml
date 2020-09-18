@@ -3,10 +3,10 @@ type: node
 shop: Dorfladen
 latitude: 53.6129443
 longitude: 9.309712000000001
-postcode: 21709
+postcode: "21709"
 city: Himmelpforten
 street: "Hauptstraße"
 housenumber: 8
 phone: ""
-opening_hours: "Mo-Fr: 9:00-18:30h; Sa: 9:00-16:00h"
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
 website: ""

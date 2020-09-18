@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.235730100000005
 longitude: 10.5272281
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Wolfenbütteler Straße"
 housenumber: 51

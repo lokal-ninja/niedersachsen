@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.9255305
 longitude: 11.1153663
-postcode: 29462
+postcode: "29462"
 city: Wustrow
 street: "Fehlstraße"
 housenumber: 7-9

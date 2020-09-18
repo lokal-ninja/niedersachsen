@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 52.591044700000005
 longitude: 10.387112
-postcode: 29362
+postcode: "29362"
 city: Hohne
 street: "Dorfstraße"
 housenumber: 83

@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 53.5288715
 longitude: 8.107283200000001
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Bismarckstraße"
 housenumber: 185

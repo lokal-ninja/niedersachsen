@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.6067125
 longitude: 10.099872000000001
-postcode: 29227
+postcode: "29227"
 city: Celle
 street: "Altenceller Schneede"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 53.0796488
 longitude: 10.581625200000001
-postcode: 29549
+postcode: "29549"
 city: Bad Bevensen
 street: "Brückenstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.8325745
 longitude: 8.0222127
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Alte Löninger Straße"
 housenumber: 25-27

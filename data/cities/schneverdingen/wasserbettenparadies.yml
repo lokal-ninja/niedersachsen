@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.1045396
 longitude: 9.7982109
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Gallhorner Flatt"
 housenumber: 17

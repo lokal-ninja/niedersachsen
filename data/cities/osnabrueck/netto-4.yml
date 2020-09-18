@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2796049
 longitude: 8.0428777
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Hasestraße"
 housenumber: 24

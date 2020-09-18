@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.423949500000006
 longitude: 9.8313316
-postcode: 30659
+postcode: "30659"
 city: Hannover
 street: "Varrelheide"
 housenumber: 210

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.380309000000004
 longitude: 10.538556100000001
-postcode: 38527
+postcode: "38527"
 city: Meine
 street: "Hauptstraße"
 housenumber: 20

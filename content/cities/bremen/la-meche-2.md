@@ -1,4 +1,4 @@
 ---
-title: "La Mèche 2"
+title: "La Mèche"
 url: /bremen/la-meche-2/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.084813000000004
 longitude: 8.8144867
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Theodor-Heuss-Allee"
 housenumber: 6

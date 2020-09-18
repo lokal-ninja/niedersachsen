@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.2760996
 longitude: 8.0427511
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Krahnstraße"
 housenumber: 19

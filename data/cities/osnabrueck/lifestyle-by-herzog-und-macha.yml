@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.275835900000004
 longitude: 8.0433398
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Krahnstraße"
 housenumber: 23

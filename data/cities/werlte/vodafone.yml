@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 52.851215
 longitude: 7.686381300000001
-postcode: 49757
+postcode: "49757"
 city: Werlte
 street: "Hauptstraße"
 housenumber: 79

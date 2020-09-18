@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.6383853
 longitude: 10.078877700000001
-postcode: 29223
+postcode: "29223"
 city: Celle
 street: "Harburger Heerstraße"
 housenumber: 41

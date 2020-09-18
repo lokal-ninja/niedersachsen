@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.8459591
 longitude: 8.0483195
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Museumstraße"
 housenumber: 2

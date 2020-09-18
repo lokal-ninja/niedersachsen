@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.860568
 longitude: 9.590289700000001
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Lange Straße"
 housenumber: 45

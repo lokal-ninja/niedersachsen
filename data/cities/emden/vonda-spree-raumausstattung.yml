@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.3650856
 longitude: 7.2103754
-postcode: 26725
+postcode: "26725"
 city: Emden
 street: "Kranstraße"
 housenumber: 4

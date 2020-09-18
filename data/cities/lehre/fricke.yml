@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 52.359006
 longitude: 10.7062185
-postcode: 38165
+postcode: "38165"
 city: Lehre
 street: "Zum Bauernholz"
 housenumber: 5,7

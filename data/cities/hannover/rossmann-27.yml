@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.414419800000005
 longitude: 9.7790444
-postcode: 30657
+postcode: "30657"
 city: Hannover
 street: "Elmstraße"
 housenumber: 12

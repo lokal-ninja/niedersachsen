@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.369621200000005
 longitude: 9.7532577
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Sallstraße"
 housenumber: 

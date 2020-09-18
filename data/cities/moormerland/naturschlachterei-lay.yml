@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.288429900000004
 longitude: 7.4813432
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Moormerlandstraße"
 housenumber: 2

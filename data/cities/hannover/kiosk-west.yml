@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.332793900000006
 longitude: 9.6901399
-postcode: 30457
+postcode: "30457"
 city: Hannover
 street: "Tresckowstraße"
 housenumber: 187

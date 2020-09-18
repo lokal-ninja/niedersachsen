@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 52.846712000000004
 longitude: 8.0429306
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Mühlenstraße"
 housenumber: 20-22

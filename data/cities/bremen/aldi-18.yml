@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.078221500000005
 longitude: 8.9428607
-postcode: 28325
+postcode: "28325"
 city: Bremen
 street: "Schevemoorer Landstraße"
 housenumber: 14-20

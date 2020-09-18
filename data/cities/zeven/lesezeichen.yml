@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.2920084
 longitude: 9.278038800000001
-postcode: 27404
+postcode: "27404"
 city: Zeven
 street: "Lange Straße"
 housenumber: 36-38

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.319725700000006
 longitude: 8.344674600000001
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Franz-Martin-Straße"
 housenumber: 2

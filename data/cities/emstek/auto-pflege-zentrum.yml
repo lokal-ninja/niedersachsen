@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.8157361
 longitude: 8.188388
-postcode: 49685
+postcode: "49685"
 city: Emstek
 street: "Europa-Allee"
 housenumber: 14

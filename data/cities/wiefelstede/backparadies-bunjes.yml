@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.3061341
 longitude: 8.0620902
-postcode: 26215
+postcode: "26215"
 city: Wiefelstede
 street: "Wiefelsteder Straße"
 housenumber: 13

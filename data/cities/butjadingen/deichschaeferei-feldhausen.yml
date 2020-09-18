@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.6072958
 longitude: 8.3210067
-postcode: 26969
+postcode: "26969"
 city: Butjadingen
 street: "Feldhauser Straße"
 housenumber: 2

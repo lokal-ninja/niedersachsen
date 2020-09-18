@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.046923500000005
 longitude: 8.6353691
-postcode: 27749
+postcode: "27749"
 city: Delmenhorst
 street: "Cramerstraße"
 housenumber: 187

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.7318069
 longitude: 8.929492
-postcode: 27249
+postcode: "27249"
 city: Mellinghausen
 street: "Eulenring"
 housenumber: 44

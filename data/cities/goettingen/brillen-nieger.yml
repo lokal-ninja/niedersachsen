@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.534914900000004
 longitude: 9.9373892
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Theaterstraße"
 housenumber: 19

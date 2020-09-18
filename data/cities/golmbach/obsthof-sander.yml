@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.8995917
 longitude: 9.5468867
-postcode: 37640
+postcode: "37640"
 city: Golmbach
 street: "Gangolfstraße"
 housenumber: 7

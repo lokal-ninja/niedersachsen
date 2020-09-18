@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2160578
 longitude: 11.030293100000002
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Magdeburger Berg"
 housenumber: 

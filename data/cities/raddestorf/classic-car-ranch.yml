@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.4438413
 longitude: 8.934637
-postcode: 31604
+postcode: "31604"
 city: Raddestorf
 street: "Kreuzkrug"
 housenumber: 106

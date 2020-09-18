@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.639746
 longitude: 9.2057354
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Lange Straße"
 housenumber: 55

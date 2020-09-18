@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3338643
 longitude: 9.6640803
-postcode: 30952
+postcode: "30952"
 city: Ronnenberg
 street: "Ronnenberger Straße"
 housenumber: 20

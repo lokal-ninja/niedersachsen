@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.5371316
 longitude: 9.934230000000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Weender Straße"
 housenumber: 79

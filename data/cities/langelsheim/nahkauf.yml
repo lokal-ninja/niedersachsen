@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.869482000000005
 longitude: 10.288726500000001
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Glückauf-Straße"
 housenumber: 1

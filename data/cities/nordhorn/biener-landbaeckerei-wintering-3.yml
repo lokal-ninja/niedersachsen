@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4398739
 longitude: 7.078533800000001
-postcode: 48531
+postcode: "48531"
 city: Nordhorn
 street: "Molkereistraße"
 housenumber: 3

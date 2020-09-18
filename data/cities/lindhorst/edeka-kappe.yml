@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3598178
 longitude: 9.2844709
-postcode: 31698
+postcode: "31698"
 city: Lindhorst
 street: "Bahnhofstraße"
 housenumber: 39

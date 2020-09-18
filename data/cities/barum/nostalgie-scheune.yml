@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 53.047652400000004
 longitude: 10.5385863
-postcode: 29576
+postcode: "29576"
 city: Barum
 street: "Uelzener Chaussee"
 housenumber: 1

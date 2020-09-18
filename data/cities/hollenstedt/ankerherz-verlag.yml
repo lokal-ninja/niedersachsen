@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.3689388
 longitude: 9.718347300000001
-postcode: 21279
+postcode: "21279"
 city: Hollenstedt
 street: "Estetalstraße"
 housenumber: 8

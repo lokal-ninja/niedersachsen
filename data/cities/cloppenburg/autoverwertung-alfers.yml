@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.8495391
 longitude: 8.0872848
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Zum Brook"
 housenumber: 32

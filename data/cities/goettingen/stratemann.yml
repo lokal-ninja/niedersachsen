@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.53427730000001
 longitude: 9.938378700000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Burgstraße"
 housenumber: 19

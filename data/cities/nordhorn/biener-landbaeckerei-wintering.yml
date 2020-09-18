@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4344983
 longitude: 7.102593000000001
-postcode: 48531
+postcode: "48531"
 city: Nordhorn
 street: "Immenweg"
 housenumber: 23

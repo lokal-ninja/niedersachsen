@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 53.2512538
 longitude: 8.3457316
-postcode: 26931
+postcode: "26931"
 city: Elsfleth
 street: "Oberhörne"
 housenumber: 9

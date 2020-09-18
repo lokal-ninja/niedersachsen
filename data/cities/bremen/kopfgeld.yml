@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0775797
 longitude: 8.8330309
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Bismarckstraße"
 housenumber: 96

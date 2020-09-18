@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4432947
 longitude: 10.0257486
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Ostlandring"
 housenumber: 6

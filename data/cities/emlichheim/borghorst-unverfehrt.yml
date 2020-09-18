@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.6056693
 longitude: 6.8513247
-postcode: 49824
+postcode: "49824"
 city: Emlichheim
 street: "Hauptstraße"
 housenumber: 9

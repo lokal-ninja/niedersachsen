@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 53.257983900000006
 longitude: 10.015110100000001
-postcode: 21271
+postcode: "21271"
 city: Hanstedt
 street: "Winsener Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0898504
 longitude: 8.8567332
-postcode: 28213
+postcode: "28213"
 city: Bremen
 street: "Friedhofstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.8295327
 longitude: 10.0873662
-postcode: 29320
+postcode: "29320"
 city: Südheide
 street: "Celler Straße"
 housenumber: 17

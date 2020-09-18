@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.9794247
 longitude: 8.787661700000001
-postcode: 28844
+postcode: "28844"
 city: Weyhe
 street: "Bollmannsdamm"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.304611400000006
 longitude: 7.7443252000000005
-postcode: 26670
+postcode: "26670"
 city: Uplengen
 street: "Ostertorstraße"
 housenumber: 29

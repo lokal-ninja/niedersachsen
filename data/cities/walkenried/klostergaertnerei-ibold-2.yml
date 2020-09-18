@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5844595
 longitude: 10.6168034
-postcode: 37445
+postcode: "37445"
 city: Walkenried
 street: "Bahnhofstraße"
 housenumber: 3a

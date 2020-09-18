@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.3738571
 longitude: 10.1292671
-postcode: 21435
+postcode: "21435"
 city: Stelle
 street: "Duvendahl"
 housenumber: 77

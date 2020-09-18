@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.5534127
 longitude: 10.0562641
-postcode: 37136
+postcode: "37136"
 city: Waake
 street: "Gartenweg"
 housenumber: 6

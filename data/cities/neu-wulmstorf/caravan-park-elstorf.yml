@@ -3,7 +3,7 @@ type: node
 shop: Wohnwagen
 latitude: 53.427205
 longitude: 9.7842246
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Lindenstraße"
 housenumber: 36

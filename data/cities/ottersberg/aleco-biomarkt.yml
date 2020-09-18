@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.1109354
 longitude: 9.1411858
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: "Grüne Straße"
 housenumber: 19

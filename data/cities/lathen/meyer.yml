@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.8609238
 longitude: 7.323272800000001
-postcode: 49762
+postcode: "49762"
 city: Lathen
 street: "Sögeler Straße"
 housenumber: 1

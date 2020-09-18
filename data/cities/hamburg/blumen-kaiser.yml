@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.45059560000001
 longitude: 9.8685732
-postcode: 21149
+postcode: "21149"
 city: Hamburg
 street: "Falkenbergsweg"
 housenumber: 153a

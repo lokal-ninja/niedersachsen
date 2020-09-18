@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.2005447
 longitude: 8.603208
-postcode: 28790
+postcode: "28790"
 city: Schwanewede
 street: "Bahnhofstraße"
 housenumber: 76

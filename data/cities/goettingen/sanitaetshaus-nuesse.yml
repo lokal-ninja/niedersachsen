@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.5422633
 longitude: 9.9438829
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Waldweg"
 housenumber: 11

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.511475100000006
 longitude: 9.0612536
-postcode: 31592
+postcode: "31592"
 city: Stolzenau
 street: "Bürgermeister-Heuvemann-Straße"
 housenumber: 1
 phone: "+49 5761 - 90 22 96"
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: "https://www.edeka.de/"

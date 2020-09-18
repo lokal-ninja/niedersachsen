@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.238464
 longitude: 10.4598434
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "August-Wellenkamp-Straße"
 housenumber: 8

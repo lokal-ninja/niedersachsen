@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.532903000000005
 longitude: 9.9324586
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Johannisstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.092659600000005
 longitude: 11.4738529
-postcode: 19309
+postcode: "19309"
 city: Lenzen (Elbe)
 street: "Hamburger Straße"
 housenumber: 68

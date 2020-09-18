@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5453801
 longitude: 9.937035
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Beyerstraße"
 housenumber: 25

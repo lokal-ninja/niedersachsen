@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.443116
 longitude: 10.813992200000001
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "Drömlingstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 52.96429740000001
 longitude: 10.5602424
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Veerßer Straße"
 housenumber: 15

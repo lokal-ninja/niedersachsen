@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 52.3766466
 longitude: 10.0022274
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Industriestraße"
 housenumber: 14

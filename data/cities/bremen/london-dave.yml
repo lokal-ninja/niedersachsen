@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 53.07477780000001
 longitude: 8.826946000000001
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Humboldtstraße"
 housenumber: 61-63

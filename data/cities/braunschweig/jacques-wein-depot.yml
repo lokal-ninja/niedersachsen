@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 52.2656222
 longitude: 10.5418157
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Altewiekring"
 housenumber: 39

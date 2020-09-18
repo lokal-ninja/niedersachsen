@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.406663800000004
 longitude: 9.7327777
-postcode: 30165
+postcode: "30165"
 city: Hannover
 street: "Vahrenwalder Straße"
 housenumber: 209a

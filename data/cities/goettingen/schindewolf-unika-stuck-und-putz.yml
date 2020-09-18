@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 51.552417600000005
 longitude: 9.884429200000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Willi-Eichler-Straße"
 housenumber: 21

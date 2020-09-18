@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.9770437
 longitude: 11.064039300000001
-postcode: 29482
+postcode: "29482"
 city: Küsten
 street: "Lüchower Straße"
 housenumber: 24

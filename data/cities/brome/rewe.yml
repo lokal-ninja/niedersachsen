@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5952782
 longitude: 10.9361542
-postcode: 38465
+postcode: "38465"
 city: Brome
 street: "Braunschweiger Straße"
 housenumber: 48

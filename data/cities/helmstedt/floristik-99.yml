@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.2276387
 longitude: 11.0062356
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Neumärker Straße"
 housenumber: 22

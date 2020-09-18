@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.263381900000006
 longitude: 10.365033
-postcode: 38159
+postcode: "38159"
 city: Vechelde
 street: "Peiner Straße"
 housenumber: 13a

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.618388
 longitude: 10.069306500000001
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Jägerstraße"
 housenumber: 26b

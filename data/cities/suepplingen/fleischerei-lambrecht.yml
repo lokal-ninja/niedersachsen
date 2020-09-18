@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.2265985
 longitude: 10.9055487
-postcode: 38373
+postcode: "38373"
 city: Süpplingen
 street: "Breite Straße"
 housenumber: 2

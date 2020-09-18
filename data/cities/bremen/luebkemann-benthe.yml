@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.122784
 longitude: 8.7517425
-postcode: 28239
+postcode: "28239"
 city: Bremen
 street: "Gröpelinger Heerstraße"
 housenumber: 325

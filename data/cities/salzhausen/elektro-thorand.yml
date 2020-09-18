@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.2264483
 longitude: 10.1611796
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Bahnhofstraße"
 housenumber: 29a

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.7997012
 longitude: 10.0860496
-postcode: 29320
+postcode: "29320"
 city: Hermannsburg
 street: "Örtzheide"
 housenumber: 2

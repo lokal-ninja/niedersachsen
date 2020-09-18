@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.1836507
 longitude: 9.0784225
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Seetorstraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.113708100000004
 longitude: 9.794725600000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Bahnhofstraße"
 housenumber: 27

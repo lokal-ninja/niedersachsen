@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.1700596
 longitude: 8.6245308
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Reeder-Bischoff-Straße"
 housenumber: 24

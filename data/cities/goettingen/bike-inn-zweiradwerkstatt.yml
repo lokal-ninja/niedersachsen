@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5429984
 longitude: 9.906548800000001
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Levinstraße"
 housenumber: 1

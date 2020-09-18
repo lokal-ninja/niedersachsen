@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 53.2271469
 longitude: 8.789287
-postcode: 27711
+postcode: "27711"
 city: Osterholz-Scharmbeck
 street: "Bahnhofstraße"
 housenumber: 97

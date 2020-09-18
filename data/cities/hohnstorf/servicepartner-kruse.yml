@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.3634038
 longitude: 10.5516602
-postcode: 21522
+postcode: "21522"
 city: Hohnstorf
 street: "Am Sportzentrum"
 housenumber: 4a

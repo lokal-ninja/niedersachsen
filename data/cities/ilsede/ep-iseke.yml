@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.2625449
 longitude: 10.1933889
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "Gerhard-Lukas-Straße"
 housenumber: 63

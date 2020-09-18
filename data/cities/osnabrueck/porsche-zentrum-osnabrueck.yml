@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.264530900000004
 longitude: 8.0091996
-postcode: 49078
+postcode: "49078"
 city: Osnabrück
 street: "Blumenhaller Weg"
 housenumber: 153

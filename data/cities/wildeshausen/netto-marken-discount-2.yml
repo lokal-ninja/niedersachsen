@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.9013398
 longitude: 8.4486369
-postcode: 27793
+postcode: "27793"
 city: Wildeshausen
 street: "Harpstedter Straße"
 housenumber: 34

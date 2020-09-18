@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.531991000000005
 longitude: 9.931925300000001
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Groner Straße"
 housenumber: 10

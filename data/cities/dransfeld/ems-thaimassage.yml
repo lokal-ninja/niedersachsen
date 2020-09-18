@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.5023795
 longitude: 9.7572367
-postcode: 37127
+postcode: "37127"
 city: Dransfeld
 street: "Immenstraße"
 housenumber: 1

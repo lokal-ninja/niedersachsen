@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.19357
 longitude: 8.548745
-postcode: 28777
+postcode: "28777"
 city: Bremen
 street: "Striekenkamp"
 housenumber: 40

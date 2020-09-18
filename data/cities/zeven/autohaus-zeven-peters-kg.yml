@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.300975900000005
 longitude: 9.2756597
-postcode: 27404
+postcode: "27404"
 city: Zeven
 street: "Kivinanstraße"
 housenumber: 38

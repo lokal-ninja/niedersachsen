@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.375525200000006
 longitude: 10.556454800000001
-postcode: 21481
+postcode: "21481"
 city: Lauenburg/Elbe
 street: "Büchener Weg"
 housenumber: 7

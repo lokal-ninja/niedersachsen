@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.6522628
 longitude: 10.069640300000001
-postcode: 29229
+postcode: "29229"
 city: Celle
 street: "Zur Hasselklink"
 housenumber: 3-5

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.374100500000004
 longitude: 8.101605600000001
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Plaggenkrugstraße"
 housenumber: 8

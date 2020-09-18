@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.320227
 longitude: 10.3968354
-postcode: 38176
+postcode: "38176"
 city: Wendeburg
 street: "Büssingstraße"
 housenumber: 1

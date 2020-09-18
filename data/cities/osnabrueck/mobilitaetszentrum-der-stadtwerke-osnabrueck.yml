@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.2728065
 longitude: 8.0475312
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Am Neumarkt"
 housenumber: 9-10

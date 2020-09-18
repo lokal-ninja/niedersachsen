@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3740333
 longitude: 9.7907223
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Berckhusenstraße"
 housenumber: 8

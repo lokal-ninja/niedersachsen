@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.3849615
 longitude: 9.952520900000001
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Straßburger Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.247345300000006
 longitude: 8.1976575
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Anton-Günther-Straße"
 housenumber: 1

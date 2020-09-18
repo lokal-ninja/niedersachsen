@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.280301300000005
 longitude: 9.5057512
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Bahnhofstraße"
 housenumber: 18

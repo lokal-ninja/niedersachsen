@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.528750300000006
 longitude: 9.8815328
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Am Kauf Park"
 housenumber: 2

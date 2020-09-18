@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.549968400000004
 longitude: 10.7092942
-postcode: 38524
+postcode: "38524"
 city: Sassenburg
 street: "Bromer Straße"
 housenumber: 38

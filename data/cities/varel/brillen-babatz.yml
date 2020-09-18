@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.395121
 longitude: 8.1397787
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Neue Straße"
 housenumber: 2

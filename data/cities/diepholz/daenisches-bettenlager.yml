@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 52.610269900000006
 longitude: 8.3712748
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Auf dem Esch"
 housenumber: 67

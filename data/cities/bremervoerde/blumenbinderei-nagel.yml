@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.4877559
 longitude: 9.1436683
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Neue Straße"
 housenumber: 86

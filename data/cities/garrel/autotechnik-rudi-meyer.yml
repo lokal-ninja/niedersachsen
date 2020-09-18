@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.950662
 longitude: 8.0424817
-postcode: 49681
+postcode: "49681"
 city: Garrel
 street: "Hinterm Esch"
 housenumber: 3

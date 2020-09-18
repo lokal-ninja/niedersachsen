@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.0950046
 longitude: 8.8500064
-postcode: 28213
+postcode: "28213"
 city: Bremen
 street: "Kulenkampffallee"
 housenumber: 184

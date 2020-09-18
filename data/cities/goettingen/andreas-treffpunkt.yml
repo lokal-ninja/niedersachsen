@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.5361745
 longitude: 9.8969752
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Martin-Luther-Straße"
 housenumber: 8

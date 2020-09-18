@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.6440655
 longitude: 9.4554358
-postcode: 34385
+postcode: "34385"
 city: Bad Karlshafen
 street: "Mündener Straße"
 housenumber: 6

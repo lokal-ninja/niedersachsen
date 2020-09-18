@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 53.2481829
 longitude: 10.355554600000001
-postcode: 21391
+postcode: "21391"
 city: Reppenstedt
 street: "Lüneburger Landstraße"
 housenumber: 5
-phone: "+49 (4131) 670001"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+phone: ""
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.341492
 longitude: 9.7642044
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Fiedelerstraße"
 housenumber: 9

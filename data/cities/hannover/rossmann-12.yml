@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.340437800000004
 longitude: 9.693107900000001
-postcode: 30457
+postcode: "30457"
 city: Hannover
 street: "Am Langen Berge"
 housenumber: 10

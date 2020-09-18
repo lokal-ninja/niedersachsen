@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1869693
 longitude: 10.0944263
-postcode: 31174
+postcode: "31174"
 city: Schellerten
 street: "Sandkuhle"
 housenumber: 1a

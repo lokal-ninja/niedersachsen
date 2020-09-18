@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.512402800000004
 longitude: 10.259169
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 45

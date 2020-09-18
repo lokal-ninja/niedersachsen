@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.2749328
 longitude: 9.7193093
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Bahnhofstraße"
 housenumber: 51

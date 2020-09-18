@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 53.1700676
 longitude: 8.6255597
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Alte Hafenstraße"
 housenumber: 15

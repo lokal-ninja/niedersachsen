@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 52.299789000000004
 longitude: 9.469693900000001
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Hinterkampstraße"
 housenumber: 4a

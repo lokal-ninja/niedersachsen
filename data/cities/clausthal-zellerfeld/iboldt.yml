@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 51.8017812
 longitude: 10.4476239
-postcode: 38707
+postcode: "38707"
 city: Clausthal-Zellerfeld
 street: "Breite Straße"
 housenumber: 14

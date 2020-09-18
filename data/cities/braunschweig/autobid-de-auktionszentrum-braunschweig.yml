@@ -3,7 +3,7 @@ type: way
 shop: Auktionshaus
 latitude: 52.2479627
 longitude: 10.585346600000001
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "Erzberg"
 housenumber: 46

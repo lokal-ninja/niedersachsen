@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.3600792
 longitude: 10.362994800000001
-postcode: 38176
+postcode: "38176"
 city: Wendeburg
 street: "Dorfstraße"
 housenumber: 1

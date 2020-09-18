@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.1064043
 longitude: 9.797479500000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Am Buschfeld"
 housenumber: 10

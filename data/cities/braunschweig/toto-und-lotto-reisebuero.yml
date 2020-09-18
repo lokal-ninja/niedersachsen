@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.325234200000004
 longitude: 10.5136541
-postcode: 38110
+postcode: "38110"
 city: Braunschweig
 street: "Hauptstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.310816700000004
 longitude: 10.5065557
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Hansestraße"
 housenumber: 84

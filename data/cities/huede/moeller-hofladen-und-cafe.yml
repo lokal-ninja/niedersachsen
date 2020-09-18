@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.4909777
 longitude: 8.3563431
-postcode: 49448
+postcode: "49448"
 city: Hüde
 street: "Im Dorfe"
 housenumber: 53

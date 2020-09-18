@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 52.846716900000004
 longitude: 8.085933200000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Boschstraße"
 housenumber: 56

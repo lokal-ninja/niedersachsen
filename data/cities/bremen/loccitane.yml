@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.0776419
 longitude: 8.8042356
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Obernstraße"
 housenumber: 60

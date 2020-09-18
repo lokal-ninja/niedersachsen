@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 52.3968494
 longitude: 9.5870846
-postcode: 30926
+postcode: "30926"
 city: Seelze
 street: "Wunstorfer Straße"
 housenumber: 15

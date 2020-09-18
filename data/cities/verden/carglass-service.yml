@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.9260662
 longitude: 9.2279658
-postcode: 27283
+postcode: "27283"
 city: Verden
 street: "Conrad-Wode-Straße"
 housenumber: 2a

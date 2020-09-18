@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.2235098
 longitude: 8.590180400000001
-postcode: 28790
+postcode: "28790"
 city: Schwanewede
 street: "Waldweg"
 housenumber: 5

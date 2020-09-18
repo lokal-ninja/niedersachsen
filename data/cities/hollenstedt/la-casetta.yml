@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.367558200000005
 longitude: 9.7138729
-postcode: 21279
+postcode: "21279"
 city: Hollenstedt
 street: "Alte Dorfstraße"
 housenumber: 10a

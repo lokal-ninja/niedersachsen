@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.247620100000006
 longitude: 8.1981803
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Oldenburger Straße"
 housenumber: 245

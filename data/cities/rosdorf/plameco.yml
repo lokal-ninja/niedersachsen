@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.5094007
 longitude: 9.9096215
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Rischenweg"
 housenumber: 7

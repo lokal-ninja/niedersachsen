@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.7271105
 longitude: 10.2541805
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Am Schilde"
 housenumber: 27

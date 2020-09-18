@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.2551131
 longitude: 7.9279054
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Peterstraße"
 housenumber: 22

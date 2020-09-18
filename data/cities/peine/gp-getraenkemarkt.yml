@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.3302952
 longitude: 10.2459463
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Eichendorffstraße"
 housenumber: 15

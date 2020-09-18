@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.0948548
 longitude: 8.7995082
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Augsburger Straße"
 housenumber: 6

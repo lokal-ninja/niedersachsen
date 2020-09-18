@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.46310080000001
 longitude: 10.7249412
-postcode: 38554
+postcode: "38554"
 city: Weyhausen
 street: "An der Klanze"
 housenumber: 15c-d

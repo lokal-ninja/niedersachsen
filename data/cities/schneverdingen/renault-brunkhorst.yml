@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.1049421
 longitude: 9.7977825
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Gallhorner Flatt"
 housenumber: 19

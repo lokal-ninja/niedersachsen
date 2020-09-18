@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.3485932
 longitude: 10.3161637
-postcode: 38176
+postcode: "38176"
 city: Wendeburg
 street: "Duttenstedter Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 53.3081723
 longitude: 7.488535100000001
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Rudolf-Eucken-Straße"
 housenumber: 24

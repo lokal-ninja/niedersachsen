@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.1646664
 longitude: 10.549722800000001
-postcode: 38302
+postcode: "38302"
 city: Wolfenbüttel
 street: "Leopoldstraße"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-19:00"
 website: ""

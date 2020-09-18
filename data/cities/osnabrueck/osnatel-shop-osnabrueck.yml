@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.2758711
 longitude: 8.044224
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Krahnstraße"
 housenumber: 30

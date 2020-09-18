@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.0181684
 longitude: 8.570020600000001
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Wildeshauser Landstraße"
 housenumber: 60

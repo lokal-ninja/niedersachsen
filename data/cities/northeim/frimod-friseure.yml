@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7061639
 longitude: 9.998789200000001
-postcode: 37154
+postcode: "37154"
 city: Northeim
 street: "Grafenhof"
 housenumber: 1

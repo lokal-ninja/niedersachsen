@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.9865908
 longitude: 9.805109
-postcode: 31061
+postcode: "31061"
 city: Alfeld (Leine)
 street: "Hannoversche Straße"
 housenumber: 45

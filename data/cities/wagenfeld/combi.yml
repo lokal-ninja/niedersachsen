@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.547895800000006
 longitude: 8.5927594
-postcode: 49419
+postcode: "49419"
 city: Wagenfeld
 street: "Mindener Straße"
 housenumber: 7

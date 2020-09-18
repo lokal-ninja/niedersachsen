@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.263965400000004
 longitude: 10.3650497
-postcode: 38159
+postcode: "38159"
 city: Vechelde
 street: "Bodelschwinghstraße"
 housenumber: 5

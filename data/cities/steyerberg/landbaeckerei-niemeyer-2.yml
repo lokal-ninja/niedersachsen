@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.568386000000004
 longitude: 9.0306792
-postcode: 31595
+postcode: "31595"
 city: Steyerberg
 street: "Kirchstraße"
 housenumber: 34

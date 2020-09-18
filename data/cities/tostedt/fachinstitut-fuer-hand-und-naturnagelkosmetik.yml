@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.2811121
 longitude: 9.7097232
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Unter den Linden"
 housenumber: 12

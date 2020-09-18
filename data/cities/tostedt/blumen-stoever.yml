@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.277051400000005
 longitude: 9.716804
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Bahnhofstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.4929386
 longitude: 9.117558500000001
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Industriestraße"
 housenumber: 8

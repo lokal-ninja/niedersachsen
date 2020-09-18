@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.26183150000001
 longitude: 10.519283900000001
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Ziegenmarkt"
 housenumber: 6

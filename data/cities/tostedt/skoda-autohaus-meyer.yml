@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.2899339
 longitude: 9.7290791
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Friedrich-Vorwerk-Straße"
 housenumber: 12

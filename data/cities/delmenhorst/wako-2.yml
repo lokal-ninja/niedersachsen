@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.0292375
 longitude: 8.658040600000001
-postcode: 27755
+postcode: "27755"
 city: Delmenhorst
 street: "Seestraße"
 housenumber: 1

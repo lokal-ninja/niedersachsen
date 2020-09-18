@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.305609200000006
 longitude: 10.4658716
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Celler Heerstraße"
 housenumber: 355

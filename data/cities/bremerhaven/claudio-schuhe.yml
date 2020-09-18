@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.542577200000004
 longitude: 8.5754298
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Am Längengrad"
 housenumber: 12

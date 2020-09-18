@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 53.14419770000001
 longitude: 8.235149100000001
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Maastrichter Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.325741300000004
 longitude: 9.2043415
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Echternstraße"
 housenumber: 17

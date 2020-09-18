@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.727186
 longitude: 10.6118424
-postcode: 38700
+postcode: "38700"
 city: Braunlage
 street: "Marktstraße"
 housenumber: 15

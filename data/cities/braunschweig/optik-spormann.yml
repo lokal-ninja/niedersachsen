@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.3238993
 longitude: 10.513842
-postcode: 38110
+postcode: "38110"
 city: Braunschweig
 street: "Hauptstraße"
 housenumber: 27a

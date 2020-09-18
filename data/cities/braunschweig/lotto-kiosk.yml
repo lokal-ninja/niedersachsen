@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.292669200000006
 longitude: 10.560805400000001
-postcode: 38108
+postcode: "38108"
 city: Braunschweig
 street: "Bevenroder Straße"
 housenumber: 126

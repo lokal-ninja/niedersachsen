@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2101662
 longitude: 8.0364173
-postcode: 49124
+postcode: "49124"
 city: Georgsmarienhütte
 street: "Malberger Straße"
 housenumber: 1

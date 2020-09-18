@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.0687007
 longitude: 9.585174700000001
-postcode: 31020
+postcode: "31020"
 city: Salzhemmendorf
 street: "Hemmendorfer Landstraße"
 housenumber: 2-6

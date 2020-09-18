@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.482963500000004
 longitude: 8.048743
-postcode: 26452
+postcode: "26452"
 city: Sande
 street: "Karl-Marx-Platz"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5331825
 longitude: 9.6827313
-postcode: 21635
+postcode: "21635"
 city: Jork
 street: "Osterjork"
 housenumber: 11

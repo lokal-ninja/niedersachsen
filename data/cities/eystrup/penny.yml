@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7802966
 longitude: 9.2212528
-postcode: 27324
+postcode: "27324"
 city: Eystrup
 street: "Bahnhofstraße"
 housenumber: 46

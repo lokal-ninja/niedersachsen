@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.53201120000001
 longitude: 9.9355027
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kornmarkt"
 housenumber: 4

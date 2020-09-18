@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.347547500000005
 longitude: 9.796803
-postcode: 21279
+postcode: "21279"
 city: Wenzendorf
 street: "Klauenburg"
 housenumber: 6

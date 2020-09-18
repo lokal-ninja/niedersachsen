@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.571763100000005
 longitude: 7.9861342
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "Jeversche Landstraße"
 housenumber: 16

@@ -3,10 +3,10 @@ type: node
 shop: Raumausstattung
 latitude: 51.83839630000001
 longitude: 9.465159700000001
-postcode: 37603
+postcode: "37603"
 city: Holzminden
-street: "Kopernikusstraße"
-housenumber: 
+street: "Max-Planck-Straße"
+housenumber: 3
 phone: ""
 opening_hours: ""
 website: ""

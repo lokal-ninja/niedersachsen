@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.5343036
 longitude: 9.9296711
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Neustadt"
 housenumber: 2

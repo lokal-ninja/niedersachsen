@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.090659800000005
 longitude: 8.8569981
-postcode: 28213
+postcode: "28213"
 city: Bremen
 street: "Friedhofstraße"
 housenumber: 29

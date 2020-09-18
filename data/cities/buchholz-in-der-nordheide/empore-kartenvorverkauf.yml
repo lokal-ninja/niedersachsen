@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 53.3272314
 longitude: 9.878260000000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Breite Straße"
 housenumber: 10

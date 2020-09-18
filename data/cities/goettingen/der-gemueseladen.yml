@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.510852400000005
 longitude: 9.9543721
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Bäckergasse"
 housenumber: 1b

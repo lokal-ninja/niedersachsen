@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.6353323
 longitude: 7.0583673000000005
-postcode: 49767
+postcode: "49767"
 city: Twist
 street: "Am Marktplatz"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.337132700000005
 longitude: 9.717747000000001
-postcode: 30459
+postcode: "30459"
 city: Hannover
 street: "Tillystraße"
 housenumber: 31

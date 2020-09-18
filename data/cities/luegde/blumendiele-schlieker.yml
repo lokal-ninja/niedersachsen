@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.959497000000006
 longitude: 9.2468236
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Vordere Straße"
 housenumber: 2

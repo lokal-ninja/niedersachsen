@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1958508
 longitude: 8.5715882
-postcode: 28779
+postcode: "28779"
 city: Bremen
 street: "Kreinsloger"
 housenumber: 5

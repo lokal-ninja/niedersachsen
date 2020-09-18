@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3217202
 longitude: 9.846875
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Sprötzer Weg"
 housenumber: 31a

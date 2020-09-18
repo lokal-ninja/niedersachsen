@@ -1,12 +1,12 @@
-id: 3587144777
+id: 2259968049
 type: node
 shop: Supermarkt
-latitude: 52.4276921
-longitude: 10.789977400000001
-postcode: 38440
+latitude: 52.419509500000004
+longitude: 10.8063024
+postcode: "38446"
 city: Wolfsburg
-street: "Porschestraße"
-housenumber: 2
+street: "Anemonenweg"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
 website: ""

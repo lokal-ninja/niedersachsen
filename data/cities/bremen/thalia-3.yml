@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.048239900000006
 longitude: 8.957406800000001
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

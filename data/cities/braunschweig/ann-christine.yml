@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 52.264081600000004
 longitude: 10.5215229
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Sack"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:30-19:30"
 website: ""

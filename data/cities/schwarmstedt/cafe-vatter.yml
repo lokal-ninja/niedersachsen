@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.677154800000004
 longitude: 9.6201889
-postcode: 29690
+postcode: "29690"
 city: Schwarmstedt
 street: "Moorstraße"
 housenumber: 18

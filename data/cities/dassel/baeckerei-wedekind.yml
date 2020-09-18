@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7698187
 longitude: 9.6565306
-postcode: 37586
+postcode: "37586"
 city: Dassel
 street: "Gartenstraße"
 housenumber: 2

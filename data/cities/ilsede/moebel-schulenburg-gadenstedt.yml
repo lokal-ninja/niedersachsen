@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.245484000000005
 longitude: 10.2275183
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "An der Bundesstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5342293
 longitude: 9.9068197
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Salinenweg"
 housenumber: 1

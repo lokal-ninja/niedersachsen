@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6286306
 longitude: 9.9372292
-postcode: 37176
+postcode: "37176"
 city: Nörten-Hardenberg
 street: "Göttinger Straße"
 housenumber: 15

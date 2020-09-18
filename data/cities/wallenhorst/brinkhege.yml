@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.335168700000004
 longitude: 8.022240700000001
-postcode: 49134
+postcode: "49134"
 city: Wallenhorst
 street: "Osnabrücker Straße"
 housenumber: 12

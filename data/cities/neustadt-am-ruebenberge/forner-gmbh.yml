@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.4620156
 longitude: 9.4767518
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Am Kampe"
 housenumber: 10

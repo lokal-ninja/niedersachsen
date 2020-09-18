@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.790759300000005
 longitude: 7.239174
-postcode: 49733
+postcode: "49733"
 city: Haren (Ems)
 street: "Lange Straße"
 housenumber: 29-33

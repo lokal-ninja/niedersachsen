@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.5593152
 longitude: 8.5855511
-postcode: 27576
+postcode: "27576"
 city: Bremerhaven
 street: "Hafenstraße"
 housenumber: 137

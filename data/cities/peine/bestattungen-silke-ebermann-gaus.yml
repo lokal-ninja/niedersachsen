@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.314474000000004
 longitude: 10.2327822
-postcode: 31226
+postcode: "31226"
 city: Peine
 street: "Feldstraße"
 housenumber: 1

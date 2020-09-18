@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1027331
 longitude: 9.384273400000001
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Hastenbecker Weg"
 housenumber: 31a

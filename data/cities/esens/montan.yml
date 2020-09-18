@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.652753700000005
 longitude: 7.609986900000001
-postcode: 26427
+postcode: "26427"
 city: Esens
 street: "Bensersieler Straße"
 housenumber: 31

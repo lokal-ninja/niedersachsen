@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.0844116
 longitude: 9.9969552
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Bahnhofstraße"
 housenumber: 3

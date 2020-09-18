@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.466533500000004
 longitude: 9.793413900000001
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Bahnhofstraße"
 housenumber: 30

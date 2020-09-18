@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.2597627
 longitude: 8.138171700000001
-postcode: 49143
+postcode: "49143"
 city: Bissendorf
 street: "Auf der Heide"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.263099600000004
 longitude: 9.7644027
-postcode: 30982
+postcode: "30982"
 city: Pattensen
 street: "Auf der Burg"
 housenumber: 6

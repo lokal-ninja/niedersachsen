@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.253925200000005
 longitude: 8.094758200000001
-postcode: 49086
+postcode: "49086"
 city: Osnabrück
 street: "Meller Landstraße"
 housenumber: 4

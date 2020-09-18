@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4280155
 longitude: 9.4105062
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Hagenburger Straße"
 housenumber: 50

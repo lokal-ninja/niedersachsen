@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 53.325779100000005
 longitude: 9.8778954
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Neue Straße"
 housenumber: 18

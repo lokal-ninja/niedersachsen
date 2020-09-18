@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.054740800000005
 longitude: 9.7991942
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Reimerdinger Straße"
 housenumber: 31

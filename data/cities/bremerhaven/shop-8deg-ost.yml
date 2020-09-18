@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.542903300000006
 longitude: 8.574851500000001
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Am Längengrad"
 housenumber: 8

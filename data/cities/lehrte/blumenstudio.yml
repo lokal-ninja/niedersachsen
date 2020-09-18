@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.380089000000005
 longitude: 9.9757312
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Burgdorfer Straße"
 housenumber: 51

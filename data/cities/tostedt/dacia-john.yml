@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.2787724
 longitude: 9.6946794
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Bremer Straße"
 housenumber: 32

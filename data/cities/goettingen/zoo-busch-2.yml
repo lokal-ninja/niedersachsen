@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.5288255
 longitude: 9.8811855
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Am Kauf Park"
 housenumber: 2

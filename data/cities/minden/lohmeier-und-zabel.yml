@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.268751200000004
 longitude: 8.955804
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Forststraße"
 housenumber: 17

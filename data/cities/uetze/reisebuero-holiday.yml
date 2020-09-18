@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.4644849
 longitude: 10.1967911
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Burgdorfer Straße"
 housenumber: 28

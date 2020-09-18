@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 53.1092408
 longitude: 8.2126072
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Klingenbergstraße"
 housenumber: 15

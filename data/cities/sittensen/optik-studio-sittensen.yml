@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.281781
 longitude: 9.5059204
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Bahnhofstraße"
 housenumber: 30

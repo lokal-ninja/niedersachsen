@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.3647013
 longitude: 9.7472703
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 31

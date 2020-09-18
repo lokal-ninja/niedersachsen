@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.469732400000005
 longitude: 10.2559933
-postcode: 37339
+postcode: "37339"
 city: Teistungen
 street: "Hauptstraße"
 housenumber: 40

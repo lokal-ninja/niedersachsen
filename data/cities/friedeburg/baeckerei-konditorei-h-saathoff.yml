@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.4510006
 longitude: 7.8413911
-postcode: 26446
+postcode: "26446"
 city: Friedeburg
 street: "Hauptstraße"
 housenumber: 41

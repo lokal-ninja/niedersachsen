@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.386549300000006
 longitude: 9.1838774
-postcode: 31718
+postcode: "31718"
 city: Pollhagen
 street: "Poststraße"
 housenumber: 35

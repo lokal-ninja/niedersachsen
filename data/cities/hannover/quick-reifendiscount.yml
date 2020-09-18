@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 52.3518666
 longitude: 9.8208432
-postcode: 30559
+postcode: "30559"
 city: Hannover
 street: "Lange-Hop-Straße"
 housenumber: 115

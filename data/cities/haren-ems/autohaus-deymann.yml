@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.7936751
 longitude: 7.2282846
-postcode: 49733
+postcode: "49733"
 city: Haren (Ems)
 street: "Belmfort"
 housenumber: 1

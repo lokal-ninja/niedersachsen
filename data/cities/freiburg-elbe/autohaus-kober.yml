@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.8245979
 longitude: 9.2878015
-postcode: 21729
+postcode: "21729"
 city: Freiburg (Elbe)
 street: "An der Börne"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.668479600000005
 longitude: 8.114983200000001
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Quakenbrücker Straße"
 housenumber: 42

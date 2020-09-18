@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 52.489682200000004
 longitude: 9.291028
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Mardorfer Straße"
 housenumber: 41

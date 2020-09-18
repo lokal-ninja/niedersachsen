@@ -3,9 +3,9 @@ type: node
 shop: Supermarkt
 latitude: 52.382043200000005
 longitude: 8.1726433
-postcode: 49179
+postcode: "49179"
 city: Ostercappeln
-street: ""
+street: "Hauptstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

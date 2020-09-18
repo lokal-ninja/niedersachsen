@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.291318600000004
 longitude: 10.4038678
-postcode: 38176
+postcode: "38176"
 city: Wendeburg
 street: "Polterdamm"
 housenumber: 5a

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.534388400000005
 longitude: 9.938319
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Burgstraße"
 housenumber: 20

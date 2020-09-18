@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.78144
 longitude: 9.3246941
-postcode: 21737
+postcode: "21737"
 city: Wischhafen
 street: "Stader Straße"
 housenumber: 201

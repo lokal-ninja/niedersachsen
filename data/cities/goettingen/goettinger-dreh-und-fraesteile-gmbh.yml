@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.5471039
 longitude: 9.8838106
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Gustav-Bielefeld-Straße"
 housenumber: 8

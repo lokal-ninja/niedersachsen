@@ -3,7 +3,7 @@ type: node
 shop: Spiele
 latitude: 53.6774877
 longitude: 6.995620300000001
-postcode: 26571
+postcode: "26571"
 city: Juist
 street: "Am Kurplatz"
 housenumber: 

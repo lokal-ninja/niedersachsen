@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.3138008
 longitude: 9.8792446
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Soltauer Straße"
 housenumber: 93

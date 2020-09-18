@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.509880300000006
 longitude: 9.0799392
-postcode: 31592
+postcode: "31592"
 city: Stolzenau
 street: "Weserstraße"
 housenumber: 13

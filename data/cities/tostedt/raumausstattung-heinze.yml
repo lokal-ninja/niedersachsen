@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 53.274284
 longitude: 9.7195669
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Bahnhofstraße"
 housenumber: 53

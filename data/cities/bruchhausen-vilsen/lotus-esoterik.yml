@@ -3,7 +3,7 @@ type: node
 shop: Esoterik
 latitude: 52.828355900000005
 longitude: 8.9995712
-postcode: 27305
+postcode: "27305"
 city: Bruchhausen-Vilsen
 street: "An der Mühlenheide"
 housenumber: 6

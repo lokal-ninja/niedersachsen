@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.5124742
 longitude: 7.3072295
-postcode: 49808
+postcode: "49808"
 city: Lingen (Ems)
 street: "Lindenstraße"
 housenumber: 47

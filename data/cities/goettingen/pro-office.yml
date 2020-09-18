@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.5311449
 longitude: 9.9331338
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Düstere Straße"
 housenumber: 20

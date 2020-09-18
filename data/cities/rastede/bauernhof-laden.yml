@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 53.245937000000005
 longitude: 8.1828363
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Pantinenweg"
 housenumber: 6

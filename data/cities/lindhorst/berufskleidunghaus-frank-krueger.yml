@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.360210200000004
 longitude: 9.2845864
-postcode: 31698
+postcode: "31698"
 city: Lindhorst
 street: "Bahnhofstraße"
 housenumber: 47A

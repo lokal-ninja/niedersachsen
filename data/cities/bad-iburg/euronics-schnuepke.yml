@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.1596302
 longitude: 8.0480157
-postcode: 49186
+postcode: "49186"
 city: Bad Iburg
 street: "Osnabrücker Straße"
 housenumber: 14

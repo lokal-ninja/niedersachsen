@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.073396
 longitude: 7.3867891000000006
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Moorstraße"
 housenumber: 20

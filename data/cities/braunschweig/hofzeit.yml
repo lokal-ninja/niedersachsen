@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2413072
 longitude: 10.587007
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "Vor dem Kreuze"
 housenumber: 4

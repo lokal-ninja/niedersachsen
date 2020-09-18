@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 53.86835060000001
 longitude: 8.699262300000001
-postcode: 27472
+postcode: "27472"
 city: Cuxhaven
 street: "Grüner Weg"
 housenumber: 17

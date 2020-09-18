@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.3645147
 longitude: 9.7170404
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Weberstraße"
 housenumber: 3-4

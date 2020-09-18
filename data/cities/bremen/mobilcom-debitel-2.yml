@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 53.1718915
 longitude: 8.620923300000001
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Gerhard-Rohlfs-Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.659834000000004
 longitude: 9.158046800000001
-postcode: 31608
+postcode: "31608"
 city: Marklohe
 street: "Nienburger Straße"
 housenumber: 

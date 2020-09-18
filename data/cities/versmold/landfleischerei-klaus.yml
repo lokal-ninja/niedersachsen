@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.0856222
 longitude: 8.2084389
-postcode: 33775
+postcode: "33775"
 city: Versmold
 street: "Westbarthauser Straße"
 housenumber: 66

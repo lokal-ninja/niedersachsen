@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.6872428
 longitude: 8.7854772
-postcode: 27232
+postcode: "27232"
 city: Sulingen
 street: "Bassumer Straße"
 housenumber: 76

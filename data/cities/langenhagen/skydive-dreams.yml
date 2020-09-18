@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 52.436551300000005
 longitude: 9.7493884
-postcode: 30851
+postcode: "30851"
 city: Langenhagen
 street: "Elbeweg"
 housenumber: 86

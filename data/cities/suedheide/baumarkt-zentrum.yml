@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.8286044
 longitude: 10.1059129
-postcode: 29320
+postcode: "29320"
 city: Südheide
 street: "Lotharstraße"
 housenumber: 61

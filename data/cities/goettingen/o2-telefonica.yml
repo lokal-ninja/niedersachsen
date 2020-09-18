@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.53277550000001
 longitude: 9.9355457
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Weender Straße"
 housenumber: 20

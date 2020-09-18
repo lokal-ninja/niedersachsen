@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.586533900000006
 longitude: 6.6630782
-postcode: 26757
+postcode: "26757"
 city: Borkum
 street: "Franz-Habich-Straße"
 housenumber: 19

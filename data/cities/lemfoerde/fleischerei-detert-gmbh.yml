@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.464821300000004
 longitude: 8.3764122
-postcode: 49448
+postcode: "49448"
 city: Lemförde
 street: "Hauptstraße"
 housenumber: 117

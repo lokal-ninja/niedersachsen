@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.158861200000004
 longitude: 9.966420600000001
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Bismarckplatz"
 housenumber: 10-11

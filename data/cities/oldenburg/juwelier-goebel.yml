@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.1024867
 longitude: 8.2111408
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Alter Postweg"
 housenumber: 125

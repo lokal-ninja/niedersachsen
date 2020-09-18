@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.4099286
 longitude: 9.990677100000001
-postcode: 21217
+postcode: "21217"
 city: Seevetal
 street: "Fleestedter Ring"
 housenumber: 1

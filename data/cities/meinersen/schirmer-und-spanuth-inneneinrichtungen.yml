@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.4846507
 longitude: 10.339363800000001
-postcode: 38536
+postcode: "38536"
 city: Meinersen
 street: "Dorfstraße"
 housenumber: 1

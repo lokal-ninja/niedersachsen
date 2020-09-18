@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.7145541
 longitude: 8.5138265
-postcode: 49406
+postcode: "49406"
 city: Barnstorf
 street: "Bremer Straße"
 housenumber: 27

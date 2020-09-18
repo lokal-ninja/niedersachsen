@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.400455400000006
 longitude: 10.748538700000001
-postcode: 38444
+postcode: "38444"
 city: Wolfsburg
 street: "Erfurter Ring"
 housenumber: 14

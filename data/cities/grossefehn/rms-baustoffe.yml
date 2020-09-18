@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.390701
 longitude: 7.657162700000001
-postcode: 26629
+postcode: "26629"
 city: Großefehn
 street: "Höchter Straße"
 housenumber: 39

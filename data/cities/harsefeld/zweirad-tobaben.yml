@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.4556261
 longitude: 9.503938100000001
-postcode: 21698
+postcode: "21698"
 city: Harsefeld
 street: "Schulstraße"
 housenumber: 18

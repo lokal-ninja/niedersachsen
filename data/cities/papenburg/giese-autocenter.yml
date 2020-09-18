@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.073583400000004
 longitude: 7.3826529
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Friederikenstraße"
 housenumber: 73-77

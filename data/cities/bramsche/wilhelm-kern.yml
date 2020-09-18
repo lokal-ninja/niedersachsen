@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.445818900000006
 longitude: 7.879306400000001
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Dorfstraße"
 housenumber: 

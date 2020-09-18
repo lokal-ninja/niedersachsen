@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 52.4820361
 longitude: 10.284583000000001
-postcode: 38536
+postcode: "38536"
 city: Meinersen
 street: "Warmse"
 housenumber: 

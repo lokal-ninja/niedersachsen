@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.135874400000006
 longitude: 10.952463600000002
-postcode: 38364
+postcode: "38364"
 city: Schöningen
 street: "Hoiersdorfer Straße"
 housenumber: 8

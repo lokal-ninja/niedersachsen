@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.96055380000001
 longitude: 9.248068
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Kreuzstraße"
 housenumber: 1

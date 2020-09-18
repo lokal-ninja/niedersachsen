@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.11722940000001
 longitude: 9.2361524
-postcode: 27367
+postcode: "27367"
 city: Sottrum
 street: "Am Meyerhofe"
 housenumber: 10

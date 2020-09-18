@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.054351700000005
 longitude: 8.629819900000001
-postcode: 27753
+postcode: "27753"
 city: Delmenhorst
 street: "Weberstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3035105
 longitude: 8.1244037
-postcode: 49191
+postcode: "49191"
 city: Belm
 street: "Waterloostraße"
 housenumber: 2

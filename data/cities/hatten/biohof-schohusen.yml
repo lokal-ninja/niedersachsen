@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.9937004
 longitude: 8.3194703
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Ostrittrumer Straße"
 housenumber: 18

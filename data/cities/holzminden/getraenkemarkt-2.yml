@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.832126200000005
 longitude: 9.4472498
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Nordstraße"
 housenumber: 6a

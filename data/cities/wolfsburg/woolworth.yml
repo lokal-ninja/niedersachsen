@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.4259057
 longitude: 10.7894144
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Porschestraße"
 housenumber: 22-24

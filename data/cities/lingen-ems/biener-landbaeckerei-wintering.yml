@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.457492
 longitude: 7.367395
-postcode: 49811
+postcode: "49811"
 city: Lingen (Ems)
 street: "Mundersumer Straße"
 housenumber: 6

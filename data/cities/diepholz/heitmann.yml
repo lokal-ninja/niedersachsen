@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.607286800000004
 longitude: 8.3792114
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Grafenstraße"
 housenumber: 23

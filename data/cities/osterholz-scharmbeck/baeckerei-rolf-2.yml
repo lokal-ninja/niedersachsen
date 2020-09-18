@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.232305700000005
 longitude: 8.7558556
-postcode: 27711
+postcode: "27711"
 city: Osterholz-Scharmbeck
 street: "Hördorfer Weg"
 housenumber: 

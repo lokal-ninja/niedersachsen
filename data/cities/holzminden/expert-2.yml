@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.8427657
 longitude: 9.4644443
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Bülte"
 housenumber: 8

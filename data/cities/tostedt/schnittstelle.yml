@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2810749
 longitude: 9.7076749
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Unter den Linden"
 housenumber: 22

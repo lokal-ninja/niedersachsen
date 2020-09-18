@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.2994301
 longitude: 10.600693600000001
-postcode: 38108
+postcode: "38108"
 city: Braunschweig
 street: "Alte Schulstraße"
 housenumber: 15

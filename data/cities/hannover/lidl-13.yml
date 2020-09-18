@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.337429400000005
 longitude: 9.693155
-postcode: 30457
+postcode: "30457"
 city: Hannover
 street: "Tresckowstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.895035500000006
 longitude: 10.4474973
-postcode: 29556
+postcode: "29556"
 city: Suderburg
 street: "Hauptstraße"
 housenumber: 14

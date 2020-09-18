@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 53.361725500000006
 longitude: 7.1686819
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Thüringer Straße"
 housenumber: 9

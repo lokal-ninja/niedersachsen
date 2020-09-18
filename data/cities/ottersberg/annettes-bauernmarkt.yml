@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.0596491
 longitude: 9.168284700000001
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: ""
 housenumber: 

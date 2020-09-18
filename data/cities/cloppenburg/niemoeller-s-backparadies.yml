@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.8420137
 longitude: 8.0339765
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Kirchhofstraße"
 housenumber: 16

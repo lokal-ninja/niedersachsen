@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.1084862
 longitude: 9.7962862
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Am Vogelsang"
 housenumber: 49a

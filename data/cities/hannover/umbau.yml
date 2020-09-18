@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.368858700000004
 longitude: 9.707572
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Nieschlagstraße"
 housenumber: 10

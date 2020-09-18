@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 52.897645000000004
 longitude: 8.2358031
-postcode: 26197
+postcode: "26197"
 city: Großenkneten
 street: "Wildeshauser Straße"
 housenumber: 83

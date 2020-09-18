@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.317477000000004
 longitude: 10.229715
-postcode: 31226
+postcode: "31226"
 city: Peine
 street: "Friedrich-Ebert-Platz"
 housenumber: 25

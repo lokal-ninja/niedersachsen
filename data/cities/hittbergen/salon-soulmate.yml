@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.3441952
 longitude: 10.586071800000001
-postcode: 21522
+postcode: "21522"
 city: Hittbergen
 street: "Dorfstraße"
 housenumber: 26

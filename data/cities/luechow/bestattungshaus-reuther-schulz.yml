@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.9673798
 longitude: 11.151857600000001
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Drawehner Straße"
 housenumber: 49

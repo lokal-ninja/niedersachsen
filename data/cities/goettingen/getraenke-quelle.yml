@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.5431509
 longitude: 9.931010500000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Güterbahnhofstraße"
 housenumber: 4-6

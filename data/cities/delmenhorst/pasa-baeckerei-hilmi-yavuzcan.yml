@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.035960800000005
 longitude: 8.638237700000001
-postcode: 27755
+postcode: "27755"
 city: Delmenhorst
 street: "Elbinger Straße"
 housenumber: 9

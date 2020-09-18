@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 52.8617646
 longitude: 9.5927589
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Moorstraße"
 housenumber: 29
 phone: "+49 5161 1688"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 9:00-13:00; So,PH off"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
 website: "https://www.bergmann-walsrode.de"

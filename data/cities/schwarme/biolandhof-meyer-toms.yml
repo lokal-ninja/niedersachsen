@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.881197300000004
 longitude: 9.015872700000001
-postcode: 27327
+postcode: "27327"
 city: Schwarme
 street: "Kiebitzheideweg"
 housenumber: 6

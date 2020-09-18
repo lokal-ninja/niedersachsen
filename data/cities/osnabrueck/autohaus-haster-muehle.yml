@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.296282000000005
 longitude: 8.036491
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Bramscher Straße"
 housenumber: 218

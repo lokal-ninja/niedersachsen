@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.428957700000005
 longitude: 9.6464554
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Göttinger Straße"
 housenumber: 27

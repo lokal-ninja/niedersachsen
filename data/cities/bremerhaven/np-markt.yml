@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.556221400000005
 longitude: 8.580651000000001
-postcode: 27576
+postcode: "27576"
 city: Bremerhaven
 street: "Adolfstraße"
 housenumber: 18

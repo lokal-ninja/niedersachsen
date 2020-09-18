@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.0538016
 longitude: 8.2528623
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Astruper Straße"
 housenumber: 1

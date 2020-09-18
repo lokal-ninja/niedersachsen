@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.679515300000006
 longitude: 9.909183
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Poststraße"
 housenumber: 2

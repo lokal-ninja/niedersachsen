@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2024782
 longitude: 9.9157512
-postcode: 
+postcode: ""
 city: Giesen
 street: "Hannoversche Straße"
 housenumber: 92

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4896419
 longitude: 9.2921371
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Mardorfer Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.05448560000001
 longitude: 8.8124567
-postcode: 28201
+postcode: "28201"
 city: Bremen
 street: "Kornstraße"
 housenumber: 305

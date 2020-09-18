@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.5203915
 longitude: 7.316945700000001
-postcode: 49808
+postcode: "49808"
 city: Lingen (Ems)
 street: "Lookenstraße"
 housenumber: 18

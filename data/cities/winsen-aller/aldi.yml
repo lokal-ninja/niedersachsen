@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.6846784
 longitude: 9.9088946
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Meißendorfer Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1084321
 longitude: 8.890925000000001
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Kopernikusstraße"
 housenumber: 31-35

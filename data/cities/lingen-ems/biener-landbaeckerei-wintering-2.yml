@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.534166000000006
 longitude: 7.3032976000000005
-postcode: 49808
+postcode: "49808"
 city: Lingen (Ems)
 street: "Meppener Straße"
 housenumber: 131

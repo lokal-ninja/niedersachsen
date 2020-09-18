@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.5954707
 longitude: 8.832872400000001
-postcode: 27245
+postcode: "27245"
 city: Kirchdorf
 street: "Lange Straße"
 housenumber: 20

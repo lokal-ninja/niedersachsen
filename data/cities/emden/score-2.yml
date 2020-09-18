@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.349220200000005
 longitude: 7.1832530000000006
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Frisiastraße"
 housenumber: 6

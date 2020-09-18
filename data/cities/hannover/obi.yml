@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.3570046
 longitude: 9.713584
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Elfriede-Paul-Allee"
 housenumber: 15

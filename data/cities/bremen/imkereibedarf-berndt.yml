@@ -3,7 +3,7 @@ type: way
 shop: Imkerei
 latitude: 53.036436200000004
 longitude: 8.9185963
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Bi'n Tegelplatz"
 housenumber: 5e

@@ -3,7 +3,7 @@ type: node
 shop: Schiffe
 latitude: 53.3569144
 longitude: 7.1987315
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Zu den Hafenbecken"
 housenumber: 7-9

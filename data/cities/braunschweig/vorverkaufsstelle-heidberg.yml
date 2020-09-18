@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.226603000000004
 longitude: 10.538127000000001
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Stettinstraße"
 housenumber: 3 A

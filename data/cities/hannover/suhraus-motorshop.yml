@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 52.4083217
 longitude: 9.712117800000001
-postcode: 30165
+postcode: "30165"
 city: Hannover
 street: "Krepenstraße"
 housenumber: 6

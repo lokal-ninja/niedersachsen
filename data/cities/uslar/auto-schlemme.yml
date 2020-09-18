@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.660747
 longitude: 9.749186700000001
-postcode: 37170
+postcode: "37170"
 city: Uslar
 street: "Industriestraße"
 housenumber: 4

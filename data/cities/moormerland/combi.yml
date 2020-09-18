@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.3089244
 longitude: 7.4865041
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Rudolf-Eucken-Straße"
 housenumber: 3

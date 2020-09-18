@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.597078200000006
 longitude: 7.199737000000001
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Norddeicher Straße"
 housenumber: 152

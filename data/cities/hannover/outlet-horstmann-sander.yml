@@ -3,10 +3,10 @@ type: node
 shop: Taschen & Koffer
 latitude: 52.3711185
 longitude: 9.741144100000001
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Georgstraße"
 housenumber: 56
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-19:00"
 website: ""

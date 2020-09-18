@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1967142
 longitude: 9.0891999
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Konrad-Adenauer-Straße"
 housenumber: 43

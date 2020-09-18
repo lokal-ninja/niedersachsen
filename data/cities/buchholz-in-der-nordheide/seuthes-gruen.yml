@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.3501078
 longitude: 9.8788789
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Am Haberkamp"
 housenumber: 7

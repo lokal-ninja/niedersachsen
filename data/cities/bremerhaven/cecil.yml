@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.543214600000006
 longitude: 8.577269300000001
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Obere Bürger"
 housenumber: 53

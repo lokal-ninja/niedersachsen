@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 53.0924327
 longitude: 11.4739895
-postcode: 19309
+postcode: "19309"
 city: Lenzen (Elbe)
 street: "Hamburger Straße"
 housenumber: 65

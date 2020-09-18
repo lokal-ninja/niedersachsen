@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.1842824
 longitude: 8.2064211
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Stiekelkamp"
 housenumber: 15

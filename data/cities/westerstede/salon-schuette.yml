@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2577477
 longitude: 7.922898600000001
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Lange Straße"
 housenumber: 29a

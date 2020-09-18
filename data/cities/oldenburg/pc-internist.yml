@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.1025597
 longitude: 8.211142500000001
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Alter Postweg"
 housenumber: 125

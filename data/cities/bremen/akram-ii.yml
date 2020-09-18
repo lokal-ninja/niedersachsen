@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.170111600000006
 longitude: 8.6284329
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Vegesacker Bahnhofsplatz"
 housenumber: 2

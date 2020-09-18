@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5841648
 longitude: 9.9271466
-postcode: 37120
+postcode: "37120"
 city: Bovenden
 street: "Sonnenberg"
 housenumber: 3

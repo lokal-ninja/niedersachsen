@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.057069000000006
 longitude: 8.9605951
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Osterholzer Heerstraße"
 housenumber: 215

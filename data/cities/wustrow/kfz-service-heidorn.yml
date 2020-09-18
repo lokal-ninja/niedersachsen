@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.9150124
 longitude: 11.130495300000002
-postcode: 29462
+postcode: "29462"
 city: Wustrow
 street: "Dorfstraße"
 housenumber: 27

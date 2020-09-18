@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.3192158
 longitude: 7.433714800000001
-postcode: 48432
+postcode: "48432"
 city: Rheine
 street: "Daimlerstraße"
 housenumber: 7

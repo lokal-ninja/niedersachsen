@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.2727864
 longitude: 9.5706057
-postcode: 30974
+postcode: "30974"
 city: Wennigsen (Deister)
 street: "Hauptstraße"
 housenumber: 15

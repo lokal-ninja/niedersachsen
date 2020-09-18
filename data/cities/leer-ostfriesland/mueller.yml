@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.231867400000006
 longitude: 7.460387300000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Mühlenstraße"
 housenumber: 113, 115, 117

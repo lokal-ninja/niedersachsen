@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.2964678
 longitude: 9.6434271
-postcode: 30952
+postcode: "30952"
 city: Ronnenberg
 street: "Münchhausenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2155162
 longitude: 10.6395356
-postcode: 38173
+postcode: "38173"
 city: Sickte
 street: "Bahnhofstraße"
 housenumber: 14a

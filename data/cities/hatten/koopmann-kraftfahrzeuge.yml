@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.021205800000004
 longitude: 8.350208
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Osterkamp"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.2690648
 longitude: 9.7242808
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Alte Kleinbahn"
 housenumber: 1

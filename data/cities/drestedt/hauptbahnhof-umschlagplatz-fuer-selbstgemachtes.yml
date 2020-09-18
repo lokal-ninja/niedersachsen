@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.331371100000005
 longitude: 9.7566384
-postcode: 21279
+postcode: "21279"
 city: Drestedt
 street: "Bahnhofstraße"
 housenumber: 23

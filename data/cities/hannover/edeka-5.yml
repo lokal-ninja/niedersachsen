@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.3741968
 longitude: 9.790087900000001
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Berckhusenstraße"
 housenumber: 23-25
-phone: "+49 511 550156"
+phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.15259270000001
 longitude: 9.953910500000001
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Osterstraße"
 housenumber: 59

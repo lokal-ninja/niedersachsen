@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.2575383
 longitude: 10.8199547
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Kupfermühlenberg"
 housenumber: 1

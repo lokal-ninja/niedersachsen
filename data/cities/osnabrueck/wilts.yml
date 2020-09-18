@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 52.2624365
 longitude: 8.0666969
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Braunschweiger Straße"
 housenumber: 35

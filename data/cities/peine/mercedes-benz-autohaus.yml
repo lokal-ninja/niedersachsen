@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.3393473
 longitude: 10.2395983
-postcode: 31228
+postcode: "31228"
 city: Peine
 street: "Daimlerstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.338408300000005
 longitude: 7.247390800000001
-postcode: 48465
+postcode: "48465"
 city: Schüttorf
 street: "Euregiostraße"
 housenumber: 5

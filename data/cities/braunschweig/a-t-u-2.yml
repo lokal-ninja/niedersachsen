@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2709885
 longitude: 10.495802900000001
-postcode: 38114
+postcode: "38114"
 city: Braunschweig
 street: "Hildesheimer Straße"
 housenumber: 27d
 phone: ""
-opening_hours: "Mo-Fr 7:30-19:00; Sa. 8:00 - 16:00"
+opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
 website: ""

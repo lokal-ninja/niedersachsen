@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 51.730271
 longitude: 10.6032642
-postcode: 38700
+postcode: "38700"
 city: Braunlage
 street: "Unter den Buchen"
 housenumber: 3

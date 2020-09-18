@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1716222
 longitude: 8.6219379
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Sagerstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.5431242
 longitude: 8.5798953
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Bürgermeister-Smidt-Straße"
 housenumber: 33

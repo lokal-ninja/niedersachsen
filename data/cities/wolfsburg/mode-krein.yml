@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.420889800000005
 longitude: 10.716684500000001
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Bahnhofstraße"
 housenumber: 31

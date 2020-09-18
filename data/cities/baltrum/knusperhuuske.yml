@@ -3,7 +3,7 @@ type: way
 shop: Konditorei
 latitude: 53.728259200000004
 longitude: 7.375063300000001
-postcode: 26579
+postcode: "26579"
 city: Baltrum
 street: "Westdorf"
 housenumber: 224a

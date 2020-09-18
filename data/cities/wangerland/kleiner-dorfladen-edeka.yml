@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.6853855
 longitude: 8.013753900000001
-postcode: 26434
+postcode: "26434"
 city: Wangerland
 street: "Pommernweg"
 housenumber: 1

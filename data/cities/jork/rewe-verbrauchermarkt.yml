@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5348897
 longitude: 9.6738696
-postcode: 21635
+postcode: "21635"
 city: Jork
 street: "Westerjork"
 housenumber: 48

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.447715800000005
 longitude: 8.1124267
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "An der Rennweide"
 housenumber: 13

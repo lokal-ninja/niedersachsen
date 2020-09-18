@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6223194
 longitude: 10.413552900000001
-postcode: 37431
+postcode: "37431"
 city: Bad Lauterberg
 street: "Barbiser Straße"
 housenumber: 4

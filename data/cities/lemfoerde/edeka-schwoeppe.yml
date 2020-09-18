@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.469407700000005
 longitude: 8.373580200000001
-postcode: 49448
+postcode: "49448"
 city: Lemförde
 street: "Burgstraße"
 housenumber: 18

@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 52.6335849
 longitude: 9.2241446
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Ziegelkampstraße"
 housenumber: 26
-phone: "+4950218650197"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.rossmann.de/filialen/niedersachsen/nienburg---weser/ziegelkampstr--26.html"
+phone: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+website: ""

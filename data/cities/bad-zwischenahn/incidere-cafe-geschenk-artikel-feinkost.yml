@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 53.2194458
 longitude: 8.0174409
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Stiller Bogen"
 housenumber: 31

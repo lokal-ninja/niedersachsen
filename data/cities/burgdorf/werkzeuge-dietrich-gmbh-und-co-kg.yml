@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 52.4461184
 longitude: 10.039810600000001
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Leineweberstraße"
 housenumber: 4

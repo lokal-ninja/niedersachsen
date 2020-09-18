@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.8768783
 longitude: 9.061020000000001
-postcode: 27327
+postcode: "27327"
 city: Martfeld
 street: "Alte Bremer Straße"
 housenumber: 13

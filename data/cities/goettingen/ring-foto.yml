@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.534461900000004
 longitude: 9.9357158
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Theaterstraße"
 housenumber: 2

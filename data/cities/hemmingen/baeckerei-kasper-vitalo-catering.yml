@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.2959212
 longitude: 9.741588
-postcode: 30966
+postcode: "30966"
 city: Hemmingen
 street: "Pattenser Feldweg"
 housenumber: 28

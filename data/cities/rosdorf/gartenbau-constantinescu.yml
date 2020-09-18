@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.503074100000006
 longitude: 9.907873
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Steinflurweg"
 housenumber: 28

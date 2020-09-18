@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.368558
 longitude: 9.372400500000001
-postcode: 31559
+postcode: "31559"
 city: Hohnhorst
 street: "Hauptstraße"
 housenumber: 25

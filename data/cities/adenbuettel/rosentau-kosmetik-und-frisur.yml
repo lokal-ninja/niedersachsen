@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.380786300000004
 longitude: 10.453861400000001
-postcode: 38528
+postcode: "38528"
 city: Adenbüttel
 street: "Hauptstraße"
 housenumber: 30

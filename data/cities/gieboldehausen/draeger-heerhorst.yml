@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.610744100000005
 longitude: 10.215067000000001
-postcode: 
+postcode: ""
 city: Gieboldehausen
 street: "Marktstraße"
 housenumber: 1

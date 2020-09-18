@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.5478882
 longitude: 9.8839606
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Robert-Bosch-Breite"
 housenumber: 25

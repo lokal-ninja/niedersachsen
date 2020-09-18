@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5887642
 longitude: 8.6095051
-postcode: 27578
+postcode: "27578"
 city: Bremerhaven
 street: "Kurt-Schumacher-Straße"
 housenumber: 10

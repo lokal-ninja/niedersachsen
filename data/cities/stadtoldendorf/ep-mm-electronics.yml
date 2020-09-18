@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.8817978
 longitude: 9.625868800000001
-postcode: 37627
+postcode: "37627"
 city: Stadtoldendorf
 street: "Neue Straße"
 housenumber: 8

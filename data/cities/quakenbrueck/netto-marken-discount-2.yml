@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6820012
 longitude: 7.946877700000001
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Oldenburger Straße"
 housenumber: 50

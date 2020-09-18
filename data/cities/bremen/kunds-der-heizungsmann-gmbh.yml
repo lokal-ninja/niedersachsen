@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.13905200000001
 longitude: 8.7240272
-postcode: 28239
+postcode: "28239"
 city: Bremen
 street: "Von-Ossietzky-Straße"
 housenumber: 6

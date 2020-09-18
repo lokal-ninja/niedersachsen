@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 52.4200421
 longitude: 9.696114600000001
-postcode: 30410
+postcode: "30410"
 city: Hannover
 street: "Alt Vinnhorst"
 housenumber: 12

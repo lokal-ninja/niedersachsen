@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.845657
 longitude: 8.0447856
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Bahnhofstraße"
 housenumber: 7

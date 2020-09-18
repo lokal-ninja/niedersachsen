@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.586311
 longitude: 8.2108193
-postcode: 49439
+postcode: "49439"
 city: Steinfeld
 street: "Bahnhofstraße"
 housenumber: 3

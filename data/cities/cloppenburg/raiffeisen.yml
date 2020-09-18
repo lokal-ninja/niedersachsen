@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.8416324
 longitude: 8.0554325
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Cappelner Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.8256031
 longitude: 9.9934867
-postcode: 37574
+postcode: "37574"
 city: Einbeck
 street: "Zum Anger"
 housenumber: 5

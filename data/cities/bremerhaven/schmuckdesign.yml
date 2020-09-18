@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.5418597
 longitude: 8.5759228
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Am Längengrad"
 housenumber: 12

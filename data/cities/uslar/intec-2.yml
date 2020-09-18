@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.657234900000006
 longitude: 9.6539149
-postcode: 37170
+postcode: "37170"
 city: Uslar
 street: "Ernst-Reuter-Straße"
 housenumber: 1

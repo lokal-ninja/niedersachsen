@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.331547500000006
 longitude: 9.7740001
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 330

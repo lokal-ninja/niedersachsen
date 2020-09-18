@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.160141800000005
 longitude: 8.2087795
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Alexanderstraße"
 housenumber: 180

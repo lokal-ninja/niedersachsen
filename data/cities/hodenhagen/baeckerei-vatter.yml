@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.7617132
 longitude: 9.5840482
-postcode: 29693
+postcode: "29693"
 city: Hodenhagen
 street: "Heerstraße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.3995029
 longitude: 9.7780658
-postcode: 30177
+postcode: "30177"
 city: Hannover
 street: "Podbielskistraße"
 housenumber: 193

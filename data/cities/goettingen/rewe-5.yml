@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.546212700000005
 longitude: 9.9333902
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Weender Landstraße"
 housenumber: 76

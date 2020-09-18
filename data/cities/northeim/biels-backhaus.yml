@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.703216000000005
 longitude: 9.992823600000001
-postcode: 
+postcode: ""
 city: Northeim
 street: "Göttinger Straße"
 housenumber: 9

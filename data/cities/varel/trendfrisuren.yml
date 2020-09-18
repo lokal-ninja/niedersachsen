@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.396679400000004
 longitude: 8.1378083
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Drostenstraße"
 housenumber: 2

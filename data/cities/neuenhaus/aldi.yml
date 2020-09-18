@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5024966
 longitude: 6.9686824000000005
-postcode: 49828
+postcode: "49828"
 city: Neuenhaus
 street: "Veldhausener Straße"
 housenumber: 59

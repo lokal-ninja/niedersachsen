@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.442417600000006
 longitude: 8.5884294
-postcode: 27612
+postcode: "27612"
 city: Loxstedt
 street: "Nelly-Sachs-Straße"
 housenumber: 5

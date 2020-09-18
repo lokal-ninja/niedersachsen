@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1410093
 longitude: 8.1714462
-postcode: 26129
+postcode: "26129"
 city: Oldenburg
 street: "Bloherfelder Straße"
 housenumber: 133

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.8612315
 longitude: 9.615594
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Werner-von-Siemens-Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.0520682
 longitude: 11.089801600000001
-postcode: 29479
+postcode: "29479"
 city: Jameln
 street: ""
 housenumber: 6

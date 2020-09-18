@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 53.4783508
 longitude: 7.3805268
-postcode: 26624
+postcode: "26624"
 city: Südbrookmerland
 street: "Ritzweg"
 housenumber: 2

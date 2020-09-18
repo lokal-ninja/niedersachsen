@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5212106
 longitude: 9.9512988
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Geismar Landstraße"
 housenumber: 63a

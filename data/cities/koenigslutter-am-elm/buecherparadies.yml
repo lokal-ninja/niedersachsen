@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.2514259
 longitude: 10.8156858
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Westernstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 52.610111100000005
 longitude: 8.3703268
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Auf dem Esch"
 housenumber: 68

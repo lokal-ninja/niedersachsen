@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 51.9082099
 longitude: 10.427808
-postcode: 38640
+postcode: "38640"
 city: Goslar
 street: "Wohldenbergerstraße"
 housenumber: 25

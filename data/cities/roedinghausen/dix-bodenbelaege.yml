@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.1994515
 longitude: 8.4613259
-postcode: 32289
+postcode: "32289"
 city: Rödinghausen
 street: "Großer Ort"
 housenumber: 18

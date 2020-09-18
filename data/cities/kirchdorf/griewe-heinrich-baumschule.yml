@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.5973654
 longitude: 8.8231459
-postcode: 27245
+postcode: "27245"
 city: Kirchdorf
 street: "Bahrenborsteler Straße"
 housenumber: 11

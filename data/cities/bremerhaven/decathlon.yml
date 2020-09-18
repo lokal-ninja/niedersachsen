@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 53.4905054
 longitude: 8.597414
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Am Lunedeich"
 housenumber: 183

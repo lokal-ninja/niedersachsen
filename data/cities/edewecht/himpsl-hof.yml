@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.1166186
 longitude: 7.950985900000001
-postcode: 26188
+postcode: "26188"
 city: Edewecht
 street: "Waterkamp"
 housenumber: 2a

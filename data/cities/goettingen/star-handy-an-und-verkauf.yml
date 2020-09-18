@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.5344167
 longitude: 9.933324200000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Prinzenstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.479459000000006
 longitude: 7.9862017000000005
-postcode: 26452
+postcode: "26452"
 city: Sande
 street: "Brückstraße"
 housenumber: 29

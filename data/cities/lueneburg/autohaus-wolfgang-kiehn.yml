@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.270467800000006
 longitude: 10.4170166
-postcode: 21339
+postcode: "21339"
 city: Lüneburg
 street: "In der Marsch"
 housenumber: 6

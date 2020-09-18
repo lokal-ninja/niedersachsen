@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 53.0976076
 longitude: 11.092936400000001
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Lange Straße"
 housenumber: 28

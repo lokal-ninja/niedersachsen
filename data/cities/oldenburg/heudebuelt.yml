@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1640348
 longitude: 8.1955106
-postcode: 26127
+postcode: "26127"
 city: Oldenburg
 street: "Siebenbürger Straße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.26256660000001
 longitude: 9.8819809
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Inzmühlener Straße"
 housenumber: 18

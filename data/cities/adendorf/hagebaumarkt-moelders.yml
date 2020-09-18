@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.286846100000005
 longitude: 10.4254282
-postcode: 21365
+postcode: "21365"
 city: Adendorf
 street: "Artlenburger Landstraße"
 housenumber: 55

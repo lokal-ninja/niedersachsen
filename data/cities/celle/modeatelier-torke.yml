@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.6234629
 longitude: 10.081276200000001
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Rundestraße"
 housenumber: 3

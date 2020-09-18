@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.36741670000001
 longitude: 9.7447666
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 6

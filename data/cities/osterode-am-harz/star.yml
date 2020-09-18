@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.729777500000004
 longitude: 10.2447902
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Bahnhofstraße"
 housenumber: 26

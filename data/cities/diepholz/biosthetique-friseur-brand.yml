@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.618920800000005
 longitude: 8.3830738
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Bremer Straße"
 housenumber: 79A

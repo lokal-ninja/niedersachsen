@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 53.548898900000005
 longitude: 8.5784166
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Lloydstraße"
 housenumber: 6

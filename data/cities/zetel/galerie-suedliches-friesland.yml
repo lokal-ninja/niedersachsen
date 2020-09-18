@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 53.404711600000006
 longitude: 7.957515600000001
-postcode: 26340
+postcode: "26340"
 city: Zetel
 street: "Neuenburger Straße"
 housenumber: 59

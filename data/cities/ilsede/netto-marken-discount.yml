@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2415887
 longitude: 10.227812700000001
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Osterfeld"
 housenumber: 4

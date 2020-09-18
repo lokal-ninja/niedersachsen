@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.2166055
 longitude: 8.222061100000001
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Neusüdender Straße"
 housenumber: 10

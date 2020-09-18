@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.8055278
 longitude: 9.6609697
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Krelingen"
 housenumber: 27

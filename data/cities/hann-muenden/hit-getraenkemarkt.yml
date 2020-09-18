@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.4316888
 longitude: 9.6445456
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Auefeld"
 housenumber: 9

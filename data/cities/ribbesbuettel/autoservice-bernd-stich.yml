@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.429964500000004
 longitude: 10.5343684
-postcode: 38551
+postcode: "38551"
 city: Ribbesbüttel
 street: "Gifhorner Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.152821700000004
 longitude: 9.9539431
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Marktstraße"
 housenumber: 23

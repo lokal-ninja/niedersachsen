@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 52.709604500000005
 longitude: 8.505209200000001
-postcode: 49406
+postcode: "49406"
 city: Barnstorf
 street: "Lange Straße"
 housenumber: 14

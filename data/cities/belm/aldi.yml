@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3056695
 longitude: 8.1262345
-postcode: 49191
+postcode: "49191"
 city: Belm
 street: "Bremer Straße"
 housenumber: 76

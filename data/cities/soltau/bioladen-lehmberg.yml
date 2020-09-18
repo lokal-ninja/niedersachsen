@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.978393100000005
 longitude: 9.7834643
-postcode: 29614
+postcode: "29614"
 city: Soltau
 street: "Barmbruch"
 housenumber: 10

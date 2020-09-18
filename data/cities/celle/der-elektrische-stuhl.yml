@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.623313700000004
 longitude: 10.0851369
-postcode: 
+postcode: ""
 city: Celle
 street: "Bergstraße"
 housenumber: 19

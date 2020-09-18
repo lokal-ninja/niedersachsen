@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.965519300000004
 longitude: 7.3228664000000006
-postcode: 26892
+postcode: "26892"
 city: Dörpen
 street: "Hauptstraße"
 housenumber: 2

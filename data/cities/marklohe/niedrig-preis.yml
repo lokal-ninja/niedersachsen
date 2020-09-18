@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.660197800000006
 longitude: 9.1546236
-postcode: 31608
+postcode: "31608"
 city: Marklohe
 street: "Nienburger Straße"
 housenumber: 20

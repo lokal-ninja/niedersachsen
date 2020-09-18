@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2497963
 longitude: 7.951166300000001
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Minna-Hemken-Straße"
 housenumber: 7

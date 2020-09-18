@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2901097
 longitude: 9.6077221
-postcode: 30989
+postcode: "30989"
 city: Gehrden
 street: "Bröhnrehr"
 housenumber: 2

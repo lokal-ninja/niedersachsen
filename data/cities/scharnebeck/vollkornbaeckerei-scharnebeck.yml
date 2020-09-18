@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.290819400000004
 longitude: 10.5052397
-postcode: 21379
+postcode: "21379"
 city: Scharnebeck
 street: "Hauptstraße"
 housenumber: 24

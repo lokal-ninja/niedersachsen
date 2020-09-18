@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.1373405
 longitude: 8.2157816
-postcode: 26122
+postcode: "26122"
 city: Oldenburg (Oldb)
 street: "Schloßplatz"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 52.103287300000005
 longitude: 9.355499
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Wendenstraße"
 housenumber: 19

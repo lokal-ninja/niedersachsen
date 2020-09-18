@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.959898100000004
 longitude: 9.0204
-postcode: 27321
+postcode: "27321"
 city: Thedinghausen
 street: "Mühlenstraße"
 housenumber: 5

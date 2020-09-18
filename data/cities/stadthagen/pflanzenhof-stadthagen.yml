@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.327106900000004
 longitude: 9.2162188
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Ostring"
 housenumber: 26

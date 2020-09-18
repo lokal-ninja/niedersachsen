@@ -1,12 +1,12 @@
-id: 663079687
+id: 3804259032
 type: node
-shop: Kunst
-latitude: 53.279981500000005
-longitude: 9.715208200000001
-postcode: 21255
+shop: Gebrauchtwaren
+latitude: 53.2834578
+longitude: 9.7088658
+postcode: "21255"
 city: Tostedt
-street: "Poststraße"
-housenumber: 14
+street: "Himmelsweg"
+housenumber: 12
 phone: ""
-opening_hours: ""
-website: "http://www.herz-jesu-tostedt.de"
+opening_hours: "Mo 10:00-12:00; Tu 19:00-20:00; We 15:00-17:00"
+website: "https://www.kirche-tostedt.de/"

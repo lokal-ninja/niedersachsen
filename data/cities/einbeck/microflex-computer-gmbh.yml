@@ -3,10 +3,10 @@ type: node
 shop: Computer
 latitude: 51.8555727
 longitude: 9.9634271
-postcode: 37574
+postcode: "37574"
 city: Einbeck
 street: "Wilhelmstraße"
 housenumber: 10b
-phone: "+49 05563 910038"
+phone: "+49 5563 910038"
 opening_hours: ""
 website: ""

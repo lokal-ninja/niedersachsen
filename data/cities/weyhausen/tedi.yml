@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.463033800000005
 longitude: 10.7252848
-postcode: 38554
+postcode: "38554"
 city: Weyhausen
 street: "An der Klanze"
 housenumber: 15e

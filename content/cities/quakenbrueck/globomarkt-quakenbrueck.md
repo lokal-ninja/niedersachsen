@@ -1,0 +1,4 @@
+---
+title: "Globomarkt Quakenbrück"
+url: /quakenbrueck/globomarkt-quakenbrueck/
+---

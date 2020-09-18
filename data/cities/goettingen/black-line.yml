@@ -3,7 +3,7 @@ type: node
 shop: Piercing
 latitude: 51.5300249
 longitude: 9.9349124
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Hospitalstraße"
 housenumber: 16

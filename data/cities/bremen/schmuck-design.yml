@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 53.072845
 longitude: 8.8207263
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Ostertorsteinweg"
 housenumber: 18
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:30-18:30; Sa 10:30-16:00"
 website: ""

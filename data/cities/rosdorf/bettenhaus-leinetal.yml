@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.5097595
 longitude: 9.9081478
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Göttinger Straße"
 housenumber: 50

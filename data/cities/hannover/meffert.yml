@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.374264600000004
 longitude: 9.7055187
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Pfarrlandstraße"
 housenumber: 1

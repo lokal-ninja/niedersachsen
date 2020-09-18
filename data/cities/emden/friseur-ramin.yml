@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.366866
 longitude: 7.203304800000001
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Große Straße"
 housenumber: 28

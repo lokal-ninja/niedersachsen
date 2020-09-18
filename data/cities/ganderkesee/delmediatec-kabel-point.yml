@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.03371670000001
 longitude: 8.5473727
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Grüppenbührener Straße"
 housenumber: 1

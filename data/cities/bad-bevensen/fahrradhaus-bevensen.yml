@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.0805269
 longitude: 10.5747972
-postcode: 29549
+postcode: "29549"
 city: Bad Bevensen
 street: "Medinger Straße"
 housenumber: 20

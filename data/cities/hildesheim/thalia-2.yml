@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.1541499
 longitude: 9.9490511
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Arnekenstraße"
 housenumber: 18

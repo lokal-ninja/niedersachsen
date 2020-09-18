@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.230821500000005
 longitude: 7.464781200000001
-postcode: 26789
+postcode: "26789"
 city: Leer
 street: "Bahnhofsring"
 housenumber: 10

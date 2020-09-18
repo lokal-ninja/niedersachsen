@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.5345546
 longitude: 9.9364088
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Theaterstraße"
 housenumber: 5

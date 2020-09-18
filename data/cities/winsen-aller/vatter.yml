@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6799291
 longitude: 9.9089389
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Poststraße"
 housenumber: 3

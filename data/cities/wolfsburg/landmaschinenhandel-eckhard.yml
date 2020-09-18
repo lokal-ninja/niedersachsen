@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4315481
 longitude: 10.8491801
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "Am Bahnhof"
 housenumber: 5

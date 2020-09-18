@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 53.2096844
 longitude: 8.228570600000001
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Am Nordkreuz"
 housenumber: 10
 phone: "+49 4402 939478-0"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-17:00"
 website: "http://www.auto-horn.de"

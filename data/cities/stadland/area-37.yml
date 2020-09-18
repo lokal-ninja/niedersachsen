@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.4010064
 longitude: 8.4394179
-postcode: 26935
+postcode: "26935"
 city: Stadland
 street: "Schweier Straße"
 housenumber: 38

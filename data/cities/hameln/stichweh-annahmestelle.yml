@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.1057782
 longitude: 9.3574756
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Emmernstraße"
 housenumber: 7

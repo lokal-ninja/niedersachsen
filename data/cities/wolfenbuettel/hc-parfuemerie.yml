@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 52.1637131
 longitude: 10.5367248
-postcode: 38300
+postcode: "38300"
 city: Wolfenbüttel
 street: "Lange Herzogstraße"
 housenumber: 51

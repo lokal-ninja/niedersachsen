@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.2616767
 longitude: 10.378115600000001
-postcode: 38159
+postcode: "38159"
 city: Vechelde
 street: "Hildesheimer Straße"
 housenumber: 96

@@ -1,12 +1,12 @@
 id: 419116488
 type: node
 shop: Lebensmittel
-latitude: 51.5554514
-longitude: 10.0559574
-postcode: 37136
+latitude: 51.5555147
+longitude: 10.055748300000001
+postcode: "37136"
 city: Waake
 street: "Hacketalstraße"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Th 09:00-13:00,15:00-19:00; Sa 09:00-13:00"
+opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00; PH off"
 website: "https://www.brothof-waake.de/"

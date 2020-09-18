@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4977383
 longitude: 6.8921273
-postcode: 49843
+postcode: "49843"
 city: Uelsen
 street: "Geerinks-Kamp"
 housenumber: 1

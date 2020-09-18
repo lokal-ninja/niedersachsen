@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.3091257
 longitude: 7.486358300000001
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Rudolf-Eucken-Straße"
 housenumber: 3

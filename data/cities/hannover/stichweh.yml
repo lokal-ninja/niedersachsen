@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.3384699
 longitude: 9.7691563
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Peiner Straße"
 housenumber: 3

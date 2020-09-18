@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.8593246
 longitude: 9.496030000000001
-postcode: 37639
+postcode: "37639"
 city: Bevern
 street: "Hasenstieg"
 housenumber: 2

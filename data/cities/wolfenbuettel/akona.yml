@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.16892300000001
 longitude: 10.5191876
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Juliusweg"
 housenumber: 

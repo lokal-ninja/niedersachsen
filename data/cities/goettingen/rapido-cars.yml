@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5474186
 longitude: 9.8926128
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Gotthelf-Leimbach-Straße"
 housenumber: 15a

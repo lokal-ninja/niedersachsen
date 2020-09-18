@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2274115
 longitude: 10.9029659
-postcode: 38373
+postcode: "38373"
 city: Süpplingen
 street: "Steinweg"
 housenumber: 16

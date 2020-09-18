@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.1355263
 longitude: 11.2688261
-postcode: 19303
+postcode: "19303"
 city: Dömitz
 street: "Roggenfelder Straße"
 housenumber: 9

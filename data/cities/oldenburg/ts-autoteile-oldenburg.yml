@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 53.104957500000005
 longitude: 8.2788552
-postcode: 27798
+postcode: "27798"
 city: Oldenburg
 street: "Bremer Straße"
 housenumber: 94

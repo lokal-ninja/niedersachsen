@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.3976198
 longitude: 8.1233316
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Panzerstraße"
 housenumber: 3

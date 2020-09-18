@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.673720700000004
 longitude: 9.9054579
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Bahnhofstraße"
 housenumber: 30

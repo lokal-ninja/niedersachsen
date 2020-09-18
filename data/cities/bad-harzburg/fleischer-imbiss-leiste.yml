@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.8807861
 longitude: 10.5602324
-postcode: 38667
+postcode: "38667"
 city: Bad Harzburg
 street: "Herzog-Wilhelm-Straße"
 housenumber: 63

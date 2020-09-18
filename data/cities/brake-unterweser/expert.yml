@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.3332622
 longitude: 8.459769300000001
-postcode: 26919
+postcode: "26919"
 city: Brake (Unterweser)
 street: "Weserstraße"
 housenumber: 80

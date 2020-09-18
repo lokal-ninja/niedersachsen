@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 53.390634000000006
 longitude: 7.2080102
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Auricher Straße"
 housenumber: 214

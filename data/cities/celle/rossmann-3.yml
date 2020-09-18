@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.6051659
 longitude: 10.0541225
-postcode: 29225
+postcode: "29225"
 city: Celle
 street: "An der Hasenbahn"
 housenumber: 3

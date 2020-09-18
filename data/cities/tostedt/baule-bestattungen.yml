@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.283064
 longitude: 9.7060464
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Heidenauer Straße"
 housenumber: 11

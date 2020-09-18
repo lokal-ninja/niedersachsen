@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 53.248268200000005
 longitude: 10.411185600000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Am Sande"
 housenumber: 33

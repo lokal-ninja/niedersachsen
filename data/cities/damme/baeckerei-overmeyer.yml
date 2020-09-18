@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.521798800000006
 longitude: 8.2666701
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Hauptstraße"
 housenumber: 35

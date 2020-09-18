@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.1399375
 longitude: 8.2131621
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Lange Straße"
 housenumber: 38

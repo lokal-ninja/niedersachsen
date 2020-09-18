@@ -1,12 +1,12 @@
-id: 76562721
-type: way
+id: 376642016
+type: node
 shop: Bäckerei
-latitude: 52.2843031
-longitude: 10.502068900000001
-postcode: 38114
+latitude: 52.266429800000004
+longitude: 10.5282058
+postcode: "38100"
 city: Braunschweig
-street: "Celler Heerstraße"
-housenumber: 162
+street: "Wilhelmstraße"
+housenumber: 98
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-18:00; PH 08:00-18:00"
 website: ""

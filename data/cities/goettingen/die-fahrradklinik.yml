@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5435225
 longitude: 9.9408659
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Humboldtallee"
 housenumber: 30

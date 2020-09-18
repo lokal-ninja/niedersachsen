@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.5913826
 longitude: 8.046370600000001
-postcode: 26388
+postcode: "26388"
 city: Wilhelmshaven
 street: "Hauptstraße"
 housenumber: 67

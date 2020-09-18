@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.464665600000004
 longitude: 10.204276
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Kirchstraße"
 housenumber: 3

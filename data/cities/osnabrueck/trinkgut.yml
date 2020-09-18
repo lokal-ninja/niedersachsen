@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.262987700000004
 longitude: 8.0705077
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Großer Fledderweg"
 housenumber: 27

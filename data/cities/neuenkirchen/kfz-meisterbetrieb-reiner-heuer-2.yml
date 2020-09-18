@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.044361
 longitude: 9.710318200000001
-postcode: 29643
+postcode: "29643"
 city: Neuenkirchen
 street: "Delmser Dorfstraße"
 housenumber: 46

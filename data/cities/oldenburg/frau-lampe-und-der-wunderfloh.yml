@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 53.139625300000006
 longitude: 8.214733
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Baumgartenstraße"
 housenumber: 11

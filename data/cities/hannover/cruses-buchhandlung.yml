@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.3610212
 longitude: 9.7501688
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 75

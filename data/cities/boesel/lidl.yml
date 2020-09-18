@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.006599800000004
 longitude: 7.949165400000001
-postcode: 26219
+postcode: "26219"
 city: Bösel
 street: "Friesoyther Straße"
 housenumber: 14

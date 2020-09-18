@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.585836300000004
 longitude: 7.219368500000001
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Addinggaster Weg"
 housenumber: 4

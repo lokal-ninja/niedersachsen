@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.30493310000001
 longitude: 8.0591857
-postcode: 26215
+postcode: "26215"
 city: Wiefelstede
 street: "Wiefelsteder Straße"
 housenumber: 31

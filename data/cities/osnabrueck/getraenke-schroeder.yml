@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.289796
 longitude: 8.0228239
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Berghoffstraße"
 housenumber: 33

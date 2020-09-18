@@ -1,4 +1,4 @@
 ---
-title: "Brandung Juist"
+title: "Brandung-Juist"
 url: /juist/brandung-juist/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 53.0935848
 longitude: 8.804735200000001
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Hemmstraße"
 housenumber: 150

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.5272225
 longitude: 9.954880900000001
-postcode: 37085
+postcode: "37085"
 city: Göttingen
 street: "Von-Ossietzky-Straße"
 housenumber: 1

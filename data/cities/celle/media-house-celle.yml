@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.6084522
 longitude: 10.061172500000001
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Waldweg"
 housenumber: 105

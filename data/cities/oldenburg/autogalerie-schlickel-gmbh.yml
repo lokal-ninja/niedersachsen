@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.195544600000005
 longitude: 8.2272365
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Am Patentbusch"
 housenumber: 11

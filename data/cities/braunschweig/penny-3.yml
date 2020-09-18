@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.304585800000005
 longitude: 10.4667528
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Celler Heerstraße"
 housenumber: 312
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00; PH Off"
 website: ""

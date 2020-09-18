@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.349893300000005
 longitude: 9.8688904
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Maurerstraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9537932
 longitude: 10.5579558
-postcode: 38690
+postcode: "38690"
 city: Goslar
 street: "Schiffgraben"
 housenumber: 1

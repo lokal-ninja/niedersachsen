@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.652578600000005
 longitude: 9.830440600000001
-postcode: 37181
+postcode: "37181"
 city: Hardegsen
 street: "Vor dem Tore"
 housenumber: 6

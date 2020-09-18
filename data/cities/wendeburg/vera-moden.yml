@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.3196433
 longitude: 10.399278
-postcode: 38176
+postcode: "38176"
 city: Wendeburg
 street: "Büssingstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.5346296
 longitude: 9.936128400000001
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Theaterstraße"
 housenumber: 24

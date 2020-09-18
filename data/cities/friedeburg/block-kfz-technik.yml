@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.489096
 longitude: 7.8536954
-postcode: 26446
+postcode: "26446"
 city: Friedeburg
 street: "Frieslandstraße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.370187
 longitude: 9.7276623
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Calenberger Straße"
 housenumber: 21

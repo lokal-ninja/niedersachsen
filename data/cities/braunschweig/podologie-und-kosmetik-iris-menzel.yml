@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 52.286129700000004
 longitude: 10.5284732
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Freyastraße"
 housenumber: 30

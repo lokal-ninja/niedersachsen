@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.3092832
 longitude: 7.4802808
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Am Kirchweg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 52.265957900000004
 longitude: 8.1149915
-postcode: 49086
+postcode: "49086"
 city: Osnabrück
 street: "Sandforter Straße"
 housenumber: 46

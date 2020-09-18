@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.964979500000005
 longitude: 10.5619855
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Gudesstraße"
 housenumber: 13-23

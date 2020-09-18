@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.3252601
 longitude: 10.5136524
-postcode: 38110
+postcode: "38110"
 city: Braunschweig
 street: "Hauptstraße"
 housenumber: 30

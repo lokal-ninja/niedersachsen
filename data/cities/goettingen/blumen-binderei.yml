@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5347598
 longitude: 9.937916900000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Burgstraße"
 housenumber: 45

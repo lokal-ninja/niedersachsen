@@ -3,10 +3,10 @@ type: node
 shop: Motorrad
 latitude: 52.603557800000004
 longitude: 9.7250011
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Wieckenberger Straße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
 website: ""

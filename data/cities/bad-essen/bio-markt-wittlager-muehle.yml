@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.3228559
 longitude: 8.3747687
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Osnabrücker Straße"
 housenumber: 23

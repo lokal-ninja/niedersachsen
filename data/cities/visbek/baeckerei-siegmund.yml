@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.835859400000004
 longitude: 8.3097466
-postcode: 49429
+postcode: "49429"
 city: Visbek
 street: "Hauptstraße"
 housenumber: 9

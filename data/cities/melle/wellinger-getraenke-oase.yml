@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.1573604
 longitude: 8.2704299
-postcode: 49326
+postcode: "49326"
 city: Melle
 street: "Beckers Kamp"
 housenumber: 

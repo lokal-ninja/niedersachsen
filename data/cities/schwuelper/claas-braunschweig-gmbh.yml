@@ -3,7 +3,7 @@ type: way
 shop: Maschinen
 latitude: 52.3242856
 longitude: 10.4839173
-postcode: 38179
+postcode: "38179"
 city: Schwülper
 street: "Waller See"
 housenumber: 24

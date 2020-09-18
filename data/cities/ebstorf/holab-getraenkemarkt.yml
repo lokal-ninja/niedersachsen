@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.01965130000001
 longitude: 10.421918900000001
-postcode: 29574
+postcode: "29574"
 city: Ebstorf
 street: "Kiebitzkamp"
 housenumber: 1

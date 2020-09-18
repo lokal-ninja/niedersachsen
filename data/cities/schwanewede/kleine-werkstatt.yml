@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.222019100000004
 longitude: 8.5925796
-postcode: 28790
+postcode: "28790"
 city: Schwanewede
 street: "Blumenthaler Straße"
 housenumber: 9

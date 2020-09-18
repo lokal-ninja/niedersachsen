@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.450133400000006
 longitude: 9.260713800000001
-postcode: 31547
+postcode: "31547"
 city: Rehburg-Loccum
 street: "Triftstraße"
 housenumber: 14

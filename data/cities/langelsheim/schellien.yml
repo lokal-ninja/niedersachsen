@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.9380145
 longitude: 10.3296989
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Mühlenstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.3114743
 longitude: 10.4999553
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Hansestraße"
 housenumber: 30

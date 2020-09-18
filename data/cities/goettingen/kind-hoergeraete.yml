@@ -1,12 +1,12 @@
 id: 1320523950
 type: node
 shop: Hörgeräte
-latitude: 51.531378600000004
-longitude: 9.9354598
-postcode: 37073
+latitude: 51.5345415
+longitude: 9.935043400000001
+postcode: "37073"
 city: Göttingen
-street: "Kurze Straße"
-housenumber: 11
+street: "Weender Straße"
+housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off"
 website: ""

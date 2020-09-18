@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.3297614
 longitude: 9.219334400000001
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Am Helweg"
 housenumber: 7

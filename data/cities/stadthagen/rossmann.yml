@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.32244420000001
 longitude: 9.2055631
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Obernstraße"
 housenumber: 47-48

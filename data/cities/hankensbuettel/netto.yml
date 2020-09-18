@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.724053500000004
 longitude: 10.5973632
-postcode: 29386
+postcode: "29386"
 city: Hankensbüttel
 street: "Handwerkerring"
 housenumber: 3

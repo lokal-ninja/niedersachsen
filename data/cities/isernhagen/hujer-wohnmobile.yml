@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.433642400000004
 longitude: 9.862494
-postcode: 30916
+postcode: "30916"
 city: Isernhagen
 street: "Hannoversche Straße"
 housenumber: 31

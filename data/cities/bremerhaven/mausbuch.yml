@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.555694800000005
 longitude: 8.5835982
-postcode: 27576
+postcode: "27576"
 city: Bremerhaven
 street: "Hafenstraße"
 housenumber: 81

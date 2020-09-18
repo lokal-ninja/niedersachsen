@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.675566700000005
 longitude: 7.956044100000001
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Lange Straße"
 housenumber: 21

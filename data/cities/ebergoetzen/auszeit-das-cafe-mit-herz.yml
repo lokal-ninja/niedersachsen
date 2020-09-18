@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.5685244
 longitude: 10.1000367
-postcode: 37136
+postcode: "37136"
 city: Ebergötzen
 street: "Göttinger Straße"
 housenumber: 7c

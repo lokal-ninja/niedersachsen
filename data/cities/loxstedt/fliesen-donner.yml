@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.4483289
 longitude: 8.5987539
-postcode: 27612
+postcode: "27612"
 city: Loxstedt
 street: "Burgstraße"
 housenumber: 49

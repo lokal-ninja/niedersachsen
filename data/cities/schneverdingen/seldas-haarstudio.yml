@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1173737
 longitude: 9.788369000000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Verdener Straße"
 housenumber: 6a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.049094700000005
 longitude: 9.386929700000001
-postcode: 31860
+postcode: "31860"
 city: Emmerthal
 street: "Hauptstraße"
 housenumber: 60b

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.498806300000005
 longitude: 7.9542847000000005
-postcode: 49594
+postcode: "49594"
 city: Alfhausen
 street: "Gosestraße"
 housenumber: 2

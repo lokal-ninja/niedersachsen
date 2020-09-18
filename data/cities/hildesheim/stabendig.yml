@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1538714
 longitude: 9.9547735
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Osterstraße"
 housenumber: 7-9

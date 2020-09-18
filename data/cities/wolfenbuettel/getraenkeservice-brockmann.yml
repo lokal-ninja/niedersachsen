@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.156740400000004
 longitude: 10.4974995
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Heinrich-Eberhardt-Straße"
 housenumber: 5

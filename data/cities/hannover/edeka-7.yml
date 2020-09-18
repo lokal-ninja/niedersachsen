@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.420832100000005
 longitude: 9.798014700000001
-postcode: 30657
+postcode: "30657"
 city: Hannover
 street: "Burgwedeler Straße"
 housenumber: 11

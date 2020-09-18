@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.1687111
 longitude: 8.0014053
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Edewechter Straße"
 housenumber: 4

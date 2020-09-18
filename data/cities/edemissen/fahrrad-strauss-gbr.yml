@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.3864559
 longitude: 10.265983700000001
-postcode: 31234
+postcode: "31234"
 city: Edemissen
 street: "Mödesser Straße"
 housenumber: 2

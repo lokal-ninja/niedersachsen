@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.4245565
 longitude: 10.483252
-postcode: 38551
+postcode: "38551"
 city: Ribbesbüttel
 street: "Hauptstraße"
 housenumber: 42

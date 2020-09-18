@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0586111
 longitude: 8.731654800000001
-postcode: 28259
+postcode: "28259"
 city: Bremen
 street: "Huchtinger Heerstraße"
 housenumber: 57

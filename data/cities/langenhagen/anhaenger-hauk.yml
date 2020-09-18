@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.441745600000004
 longitude: 9.6866423
-postcode: 30855
+postcode: "30855"
 city: Langenhagen
 street: "Frankenring"
 housenumber: 11

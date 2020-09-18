@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.7979726
 longitude: 10.709290600000001
-postcode: 29394
+postcode: "29394"
 city: Lüder
 street: "Bahnhofstraße"
 housenumber: 3

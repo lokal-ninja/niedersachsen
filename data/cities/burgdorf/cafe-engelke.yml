@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.45018090000001
 longitude: 9.988952600000001
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Norderneystraße"
 housenumber: 1

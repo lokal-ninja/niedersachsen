@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5127735
 longitude: 9.9558475
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Hauptstraße"
 housenumber: 50

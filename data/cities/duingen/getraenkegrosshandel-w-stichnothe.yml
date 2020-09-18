@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.0059145
 longitude: 9.697683600000001
-postcode: 31089
+postcode: "31089"
 city: Duingen
 street: "Mittelbrunnen"
 housenumber: 1

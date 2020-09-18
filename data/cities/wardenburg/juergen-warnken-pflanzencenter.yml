@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.058228500000006
 longitude: 8.1805961
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "An den Voßbergen"
 housenumber: 12

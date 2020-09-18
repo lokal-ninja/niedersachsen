@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.04652050000001
 longitude: 8.959686300000001
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 44

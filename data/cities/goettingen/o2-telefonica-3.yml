@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.532998600000006
 longitude: 9.9314528
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Papendiek"
 housenumber: 24

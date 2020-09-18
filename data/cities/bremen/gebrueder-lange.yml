@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 53.077242500000004
 longitude: 8.8092795
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Schüsselkorb"
 housenumber: 35
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
 website: "http://www.gebruederlange.de/"

@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 53.885420700000005
 longitude: 8.6437136
-postcode: 
+postcode: "27476"
 city: Cuxhaven
 street: "Cuxhavener Straße"
 housenumber: 94
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 4723 7187 0"
+opening_hours: "Mo-Su 07:00-18:00"
+website: "https://baecker-tiedemann.de"

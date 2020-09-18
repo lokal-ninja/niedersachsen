@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.2735561
 longitude: 8.021049
-postcode: 49078
+postcode: "49078"
 city: Osnabrück
 street: "Augustenburger Straße"
 housenumber: 107

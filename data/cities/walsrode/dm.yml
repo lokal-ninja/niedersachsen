@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 52.8616876
 longitude: 9.5878329
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Lange Straße"
 housenumber: 58-62
 phone: "+49 5161 4812014"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-19:00"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
 website: "https://www.dm.de"

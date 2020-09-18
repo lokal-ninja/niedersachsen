@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2588328
 longitude: 10.5279938
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Auguststraße"
 housenumber: 15

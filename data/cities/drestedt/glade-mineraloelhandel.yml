@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.3347964
 longitude: 9.7575997
-postcode: 21279
+postcode: "21279"
 city: Drestedt
 street: "Kurze Straße"
 housenumber: 1

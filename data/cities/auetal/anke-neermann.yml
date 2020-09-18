@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.238703900000004
 longitude: 9.2019335
-postcode: 31749
+postcode: "31749"
 city: Auetal
 street: "Finkenweg"
 housenumber: 6

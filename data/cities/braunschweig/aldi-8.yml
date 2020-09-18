@@ -1,12 +1,12 @@
-id: 667789749
+id: 147038145
 type: way
 shop: Supermarkt
-latitude: 52.277382300000006
-longitude: 10.523080100000001
-postcode: 38106
+latitude: 52.241294700000005
+longitude: 10.492932900000001
+postcode: "38120"
 city: Braunschweig
-street: "Hamburger Straße"
-housenumber: 297
+street: "Neckarstraße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 7:00-21:00"
+opening_hours: ""
 website: ""

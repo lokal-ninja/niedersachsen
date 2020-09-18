@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.1597268
 longitude: 9.9526458
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Bahnhofsplatz"
 housenumber: 1

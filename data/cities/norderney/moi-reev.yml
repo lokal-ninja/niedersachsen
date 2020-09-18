@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.709807600000005
 longitude: 7.1492575
-postcode: 26548
+postcode: "26548"
 city: Norderney
 street: "Benekestraße"
 housenumber: 50

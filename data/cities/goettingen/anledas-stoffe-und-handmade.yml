@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.5551576
 longitude: 9.8942419
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Rudolf-Wissell-Straße"
 housenumber: 26

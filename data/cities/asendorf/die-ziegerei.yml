@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.7527562
 longitude: 8.9554439
-postcode: 27330
+postcode: "27330"
 city: Asendorf
 street: "Eschenhorst"
 housenumber: 7

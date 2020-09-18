@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.2472203
 longitude: 8.2013549
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Mühlenstraße"
 housenumber: 14

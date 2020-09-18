@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.150245600000005
 longitude: 8.4571211
-postcode: 32139
+postcode: "32139"
 city: Spenge
 street: "Neuenkirchener Straße"
 housenumber: 175

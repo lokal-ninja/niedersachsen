@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.8400778
 longitude: 8.0688457
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Max-Planck-Straße"
 housenumber: 3-5

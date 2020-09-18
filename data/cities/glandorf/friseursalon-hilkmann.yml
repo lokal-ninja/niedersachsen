@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.083456500000004
 longitude: 8.0022407
-postcode: 49219
+postcode: "49219"
 city: Glandorf
 street: "Osnabrücker Straße"
 housenumber: 14

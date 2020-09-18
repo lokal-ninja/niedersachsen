@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.853840500000004
 longitude: 8.033698000000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Friesoyther Straße"
 housenumber: 34

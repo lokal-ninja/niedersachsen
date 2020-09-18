@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.7526893
 longitude: 10.2144805
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "An der Bahn"
 housenumber: 141

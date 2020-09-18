@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.0588397
 longitude: 9.1680787
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: ""
 housenumber: 

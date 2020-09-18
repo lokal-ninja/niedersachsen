@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.1508898
 longitude: 8.2368108
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Wehdestraße"
 housenumber: 2

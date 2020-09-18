@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.114156
 longitude: 8.896312700000001
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Kopernikusstraße"
 housenumber: 91

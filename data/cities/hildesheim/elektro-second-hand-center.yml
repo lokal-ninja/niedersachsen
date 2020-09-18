@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.152791300000004
 longitude: 9.9477723
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Kardinal-Bertram-Straße"
 housenumber: 11

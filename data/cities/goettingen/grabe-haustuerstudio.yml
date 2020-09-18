@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.533270300000005
 longitude: 9.8987554
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Zollstock"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.281087500000005
 longitude: 9.7087091
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Unter den Linden"
 housenumber: 16

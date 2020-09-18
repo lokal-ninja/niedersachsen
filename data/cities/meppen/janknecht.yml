@@ -1,12 +1,12 @@
 id: 2105952554
 type: node
 shop: Fahrrad
-latitude: 52.691683000000005
+latitude: 52.69167
 longitude: 7.2929664
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Burgstraße"
 housenumber: 3-8
 phone: ""
-opening_hours: ""
-website: "http://www.fahrradladen-meppen.de"
+opening_hours: "Mo-Fr 09:00-13:00, 14:30-18; Sa 09:00-13:00"
+website: "https://www.fahrrad-janknecht.de"

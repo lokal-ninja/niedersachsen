@@ -3,9 +3,9 @@ type: node
 shop: Friseur
 latitude: 51.505990600000004
 longitude: 9.8960767
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
-street: "Olenhusener Landstraße"
+street: "Olenhuser Landstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

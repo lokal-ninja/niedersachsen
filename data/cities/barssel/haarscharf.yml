@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.169053100000006
 longitude: 7.744159700000001
-postcode: 26676
+postcode: "26676"
 city: Barßel
 street: "Lange Straße"
 housenumber: 8

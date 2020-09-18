@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.1093393
 longitude: 9.400365500000001
-postcode: 27356
+postcode: "27356"
 city: Rotenburg (Wümme)
 street: "Große Straße"
 housenumber: 6

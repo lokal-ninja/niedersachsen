@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.520794300000006
 longitude: 9.9629575
-postcode: 37085
+postcode: "37085"
 city: Göttingen
 street: "Alfred-Delp-Weg"
 housenumber: 7

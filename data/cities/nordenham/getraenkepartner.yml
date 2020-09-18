@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.500480100000004
 longitude: 8.4775155
-postcode: 26954
+postcode: "26954"
 city: Nordenham
 street: "Atenser Allee"
 housenumber: 117

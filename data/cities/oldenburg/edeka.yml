@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.14960790000001
 longitude: 8.2018438
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Ziegelhofstraße"
 housenumber: 105

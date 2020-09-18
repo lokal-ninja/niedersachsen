@@ -3,10 +3,10 @@ type: node
 shop: Schneiderei
 latitude: 53.066745600000004
 longitude: 8.792846500000001
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Bachstraße"
 housenumber: 94
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 15:00-18:00"
 website: ""

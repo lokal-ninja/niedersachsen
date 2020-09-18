@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 51.818164700000004
 longitude: 9.8661048
-postcode: 37574
+postcode: "37574"
 city: Einbeck
 street: "Marktstraße"
 housenumber: 1

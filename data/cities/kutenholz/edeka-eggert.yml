@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.4819309
 longitude: 9.3221366
-postcode: 27449
+postcode: "27449"
 city: Kutenholz
 street: "Hauptstraße"
 housenumber: 3

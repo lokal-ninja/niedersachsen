@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.526033500000004
 longitude: 9.880440100000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Am Kauf Park"
 housenumber: 7

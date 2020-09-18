@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.5374843
 longitude: 9.329356800000001
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Bolsehler Straße"
 housenumber: 21

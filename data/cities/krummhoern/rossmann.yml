@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.4282224
 longitude: 7.108930900000001
-postcode: 26736
+postcode: "26736"
 city: Krummhörn
 street: "Handelsstraße"
 housenumber: 2b

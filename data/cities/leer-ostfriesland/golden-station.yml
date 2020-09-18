@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 53.229673000000005
 longitude: 7.4549374
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Mühlenstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 52.6912323
 longitude: 7.291652300000001
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Markt"
 housenumber: 8

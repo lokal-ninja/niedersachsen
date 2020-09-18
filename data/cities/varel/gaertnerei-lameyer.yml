@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.3982134
 longitude: 8.129742700000001
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Hagenstraße"
 housenumber: 27

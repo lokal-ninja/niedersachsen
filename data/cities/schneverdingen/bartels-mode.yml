@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.116920500000006
 longitude: 9.7907954
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Bergstraße"
 housenumber: 8

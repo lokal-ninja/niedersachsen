@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.8593708
 longitude: 10.3404495
-postcode: 38644
+postcode: "38644"
 city: Goslar
 street: "Rathausstraße"
 housenumber: 9

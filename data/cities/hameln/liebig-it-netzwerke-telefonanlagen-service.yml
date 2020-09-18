@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 52.1391086
 longitude: 9.3786266
-postcode: 31787
+postcode: "31787"
 city: Hameln
 street: "Unsener Straße"
 housenumber: 5

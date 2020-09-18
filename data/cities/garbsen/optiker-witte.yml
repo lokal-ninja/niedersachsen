@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.426701300000005
 longitude: 9.5963516
-postcode: 30823
+postcode: "30823"
 city: Garbsen
 street: "Havelser Straße"
 housenumber: 

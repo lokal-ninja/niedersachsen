@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.550341100000004
 longitude: 8.5724707
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Bürgermeister-Smidt-Straße"
 housenumber: 154

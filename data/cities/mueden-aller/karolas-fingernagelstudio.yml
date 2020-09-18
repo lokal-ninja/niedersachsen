@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5215893
 longitude: 10.3684452
-postcode: 38539
+postcode: "38539"
 city: Müden (Aller)
 street: "Gifhorner Straße"
 housenumber: 8

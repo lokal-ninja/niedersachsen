@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.421348300000005
 longitude: 9.7205888
-postcode: 30179
+postcode: "30179"
 city: Hannover
 street: "Industrieweg"
 housenumber: 19

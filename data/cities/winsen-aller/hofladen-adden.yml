@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.6779335
 longitude: 9.912726300000001
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Celler Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.2157193
 longitude: 9.5552287
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Industriestraße"
 housenumber: 15

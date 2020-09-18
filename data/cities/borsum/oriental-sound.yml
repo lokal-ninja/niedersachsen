@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.205242600000005
 longitude: 10.008806
-postcode: 31177
+postcode: "31177"
 city: Borsum
 street: "Im Winkel"
 housenumber: 8

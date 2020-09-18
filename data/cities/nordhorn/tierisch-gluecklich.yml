@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.434261400000004
 longitude: 7.1072408000000005
-postcode: 48531
+postcode: "48531"
 city: Nordhorn
 street: "Dahlskamp"
 housenumber: 16

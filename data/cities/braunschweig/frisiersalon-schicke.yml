@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.249012900000004
 longitude: 10.472004400000001
-postcode: 
+postcode: ""
 city: Braunschweig
 street: "Rheinring"
 housenumber: 65

@@ -1,12 +1,12 @@
-id: 7135914681
-type: node
+id: 89441701
+type: way
 shop: Bäckerei
-latitude: 51.522786800000006
-longitude: 9.962224800000001
-postcode: 37085
+latitude: 51.517203300000006
+longitude: 9.970964400000002
+postcode: "37085"
 city: Göttingen
-street: "Alfred-Delp-Weg"
-housenumber: 2
+street: "Schöneberger Straße"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 08:00-17:00, eastern off; whitsun off; Jan 1 off; May 1 off"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 08:00-17:00 ohne Ostern und ohne Pfingsten; Jan 1 off; May 1 off"
 website: ""

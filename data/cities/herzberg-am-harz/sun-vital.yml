@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.6563778
 longitude: 10.3413331
-postcode: 37412
+postcode: "37412"
 city: Herzberg am Harz
 street: "Marktplatz"
 housenumber: 1-5

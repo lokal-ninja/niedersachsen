@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.413825900000006
 longitude: 8.0759194
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Rotenhahner Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.6396822
 longitude: 9.2095157
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Friedrich-Ludwig-Jahn-Straße"
 housenumber: 41

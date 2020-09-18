@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.1407928
 longitude: 8.2093567
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Haarenstraße"
 housenumber: 34

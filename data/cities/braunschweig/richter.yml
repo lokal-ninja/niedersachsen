@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2297778
 longitude: 10.5356038
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Erfurtplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.50791
 longitude: 9.909879100000001
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Rischenweg"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.694140100000006
 longitude: 7.6900282
-postcode: 26427
+postcode: "26427"
 city: Neuharlingersiel
 street: "Otzumer Balje"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3125136
 longitude: 9.1944248
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Jahnstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.425655000000006
 longitude: 9.7866596
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Lindenstraße"
 housenumber: 20

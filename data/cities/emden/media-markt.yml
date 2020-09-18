@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.3906524
 longitude: 7.211954800000001
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Fritz-Reuter-Straße"
 housenumber: 11

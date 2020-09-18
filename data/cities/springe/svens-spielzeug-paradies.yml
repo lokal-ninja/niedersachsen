@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.208146400000004
 longitude: 9.5514518
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Zum Oberntor"
 housenumber: 23

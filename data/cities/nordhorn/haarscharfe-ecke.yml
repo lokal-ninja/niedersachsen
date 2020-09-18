@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4348195
 longitude: 7.1027386
-postcode: 48531
+postcode: "48531"
 city: Nordhorn
 street: "Immenweg"
 housenumber: 23d

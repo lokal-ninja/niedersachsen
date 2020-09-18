@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.521044700000004
 longitude: 8.587721
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "An der Packhalle IV"
 housenumber: 34

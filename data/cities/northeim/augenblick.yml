@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.7050859
 longitude: 9.9947999
-postcode: 
+postcode: ""
 city: Northeim
 street: "Bahnhofsstraße"
 housenumber: 18

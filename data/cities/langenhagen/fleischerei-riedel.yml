@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4320432
 longitude: 9.7352986
-postcode: 30851
+postcode: "30851"
 city: Langenhagen
 street: "Hindenburgstraße"
 housenumber: 19

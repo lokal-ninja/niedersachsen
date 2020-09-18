@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.376317900000004
 longitude: 9.7562724
-postcode: 30175
+postcode: "30175"
 city: Hannover
 street: "Seelhorststraße"
 housenumber: 12

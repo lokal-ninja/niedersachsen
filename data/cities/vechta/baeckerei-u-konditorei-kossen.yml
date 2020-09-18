@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.763243300000006
 longitude: 8.2622248
-postcode: 49377
+postcode: "49377"
 city: Vechta
 street: "Bakumer Straße"
 housenumber: 9

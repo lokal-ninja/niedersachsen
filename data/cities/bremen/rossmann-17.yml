@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.0979498
 longitude: 8.8706796
-postcode: 28359
+postcode: "28359"
 city: Bremen
 street: "Leher Heerstraße"
 housenumber: 1-3

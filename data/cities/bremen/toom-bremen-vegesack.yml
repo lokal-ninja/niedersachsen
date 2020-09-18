@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.1727706
 longitude: 8.6365066
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Vegesacker Heerstraße"
 housenumber: 198

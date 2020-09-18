@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.327525400000006
 longitude: 9.8795681
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Breite Straße"
 housenumber: 16

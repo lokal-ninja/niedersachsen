@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.9671333
 longitude: 9.2507266
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Siemensstraße"
 housenumber: 30

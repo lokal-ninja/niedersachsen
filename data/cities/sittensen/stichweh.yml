@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.2798597
 longitude: 9.505625400000001
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Bahnhofstraße"
 housenumber: 14

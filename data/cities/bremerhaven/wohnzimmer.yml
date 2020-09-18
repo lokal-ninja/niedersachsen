@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.5457703
 longitude: 8.5756557
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Schifferstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 53.170701
 longitude: 8.6252478
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Sagerstraße"
 housenumber: 35

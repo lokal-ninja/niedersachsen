@@ -3,7 +3,7 @@ type: way
 shop: Landwirtschaftlich
 latitude: 52.317880900000006
 longitude: 7.225270500000001
-postcode: 48465
+postcode: "48465"
 city: Schüttorf
 street: "Ohner Straße"
 housenumber: 14

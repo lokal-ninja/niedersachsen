@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.7993395
 longitude: 9.039488
-postcode: 21785
+postcode: "21785"
 city: Neuhaus
 street: "Stader Straße"
 housenumber: 18

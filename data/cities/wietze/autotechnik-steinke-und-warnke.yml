@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.655418100000006
 longitude: 9.8248152
-postcode: 29323
+postcode: "29323"
 city: Wietze
 street: "DEA-Straße"
 housenumber: 1

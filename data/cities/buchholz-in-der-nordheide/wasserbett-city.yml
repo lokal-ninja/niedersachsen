@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.3510397
 longitude: 9.868778500000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Innungsstraße"
 housenumber: 3

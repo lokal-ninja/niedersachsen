@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.5389057
 longitude: 7.958905400000001
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "Im Gewerbegebiet"
 housenumber: 

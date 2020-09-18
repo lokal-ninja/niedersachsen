@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.5207515
 longitude: 8.1998871
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Hunteburger Straße"
 housenumber: 8

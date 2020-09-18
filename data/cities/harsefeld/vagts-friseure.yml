@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.45897840000001
 longitude: 9.5023262
-postcode: 21698
+postcode: "21698"
 city: Harsefeld
 street: "Herrenstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.157923200000006
 longitude: 8.195619
-postcode: 26127
+postcode: "26127"
 city: Oldenburg
 street: "Vahlenhorst"
 housenumber: 1

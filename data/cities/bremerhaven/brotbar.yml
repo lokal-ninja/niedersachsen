@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.541646300000004
 longitude: 8.5813295
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Theodor-Heuss-Platz"
 housenumber: 16

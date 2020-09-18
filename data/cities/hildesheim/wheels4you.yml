@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 52.1760188
 longitude: 9.9538623
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "An der Scharlake"
 housenumber: 34a

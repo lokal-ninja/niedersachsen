@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 51.5590777
 longitude: 9.9265506
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Lutteranger"
 housenumber: 4a

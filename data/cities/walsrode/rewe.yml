@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8717714
 longitude: 9.582356200000001
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Ebbinger Straße"
 housenumber: 1B

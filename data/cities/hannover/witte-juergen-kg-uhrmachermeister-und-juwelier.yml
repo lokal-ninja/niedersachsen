@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.372745
 longitude: 9.7847711
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Scheidestraße"
 housenumber: 19

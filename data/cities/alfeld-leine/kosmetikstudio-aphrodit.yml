@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.9854484
 longitude: 9.8302742
-postcode: 31061
+postcode: "31061"
 city: Alfeld (Leine)
 street: "Antoniplatz"
 housenumber: 2

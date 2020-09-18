@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.2992514
 longitude: 9.506215000000001
-postcode: 27419
+postcode: "27419"
 city: Lengenbostel
 street: "Schmiedestraße"
 housenumber: 3

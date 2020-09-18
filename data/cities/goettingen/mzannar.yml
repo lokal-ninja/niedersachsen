@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.550016500000005
 longitude: 9.902050800000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Elliehäuser Weg"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5223287
 longitude: 8.1924651
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Im Hofe"
 housenumber: 2

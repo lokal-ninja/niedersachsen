@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.1420533
 longitude: 8.2128536
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Herbartgang"
 housenumber: 11

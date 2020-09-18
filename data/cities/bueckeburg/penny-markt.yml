@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.26331020000001
 longitude: 9.031803100000001
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Windmühlenstraße"
 housenumber: 20

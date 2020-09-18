@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.468498000000004
 longitude: 9.4880372
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Bordenauer Straße"
 housenumber: 56

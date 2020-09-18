@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.1817883
 longitude: 7.997812700000001
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Reihdamm"
 housenumber: 2

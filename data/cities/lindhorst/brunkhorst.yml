@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.357804300000005
 longitude: 9.2716759
-postcode: 31698
+postcode: "31698"
 city: Lindhorst
 street: ""
 housenumber: 1

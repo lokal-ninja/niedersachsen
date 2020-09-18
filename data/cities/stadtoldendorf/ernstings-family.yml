@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.883369
 longitude: 9.623708500000001
-postcode: 37627
+postcode: "37627"
 city: Stadtoldendorf
 street: "Teichtorstraße"
 housenumber: 6

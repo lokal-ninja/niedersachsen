@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.1374525
 longitude: 8.7444355
-postcode: 28239
+postcode: "28239"
 city: Bremen
 street: "Schragestraße"
 housenumber: 4

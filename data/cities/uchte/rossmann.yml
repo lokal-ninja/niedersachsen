@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4991074
 longitude: 8.902634500000001
-postcode: 31600
+postcode: "31600"
 city: Uchte
 street: "Zur Ihle"
 housenumber: 3-5

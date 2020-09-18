@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2208802
 longitude: 11.021145800000001
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Magdeburger Tor"
 housenumber: 15b

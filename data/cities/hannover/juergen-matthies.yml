@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.3674423
 longitude: 9.718891600000001
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Falkenstraße"
 housenumber: 4-6

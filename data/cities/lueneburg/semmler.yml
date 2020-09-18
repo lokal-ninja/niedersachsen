@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.239797700000004
 longitude: 10.4646703
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "Georg-Leppien-Straße"
 housenumber: 15

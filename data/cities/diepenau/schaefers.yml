@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4218677
 longitude: 8.7415152
-postcode: 31603
+postcode: "31603"
 city: Diepenau
 street: "Schulstraße"
 housenumber: 1 - 3

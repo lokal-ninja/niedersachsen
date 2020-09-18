@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2794998
 longitude: 9.8914633
-postcode: 30880
+postcode: "30880"
 city: Laatzen
 street: "Hösselgraben"
 housenumber: 1

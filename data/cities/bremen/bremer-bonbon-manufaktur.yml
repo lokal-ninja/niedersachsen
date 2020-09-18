@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.0750729
 longitude: 8.8060503
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Böttcherstraße"
 housenumber: 8

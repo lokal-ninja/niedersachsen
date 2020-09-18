@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.711034500000004
 longitude: 10.521163300000001
-postcode: 37444
+postcode: "37444"
 city: Sankt Andreasberg
 street: "Schulstraße"
 housenumber: 1

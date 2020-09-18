@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2704127
 longitude: 8.028031200000001
-postcode: 49080
+postcode: "49080"
 city: Osnabrück
 street: "Martinistraße"
 housenumber: 93

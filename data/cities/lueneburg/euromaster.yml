@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.267065800000005
 longitude: 10.404998200000001
-postcode: 21339
+postcode: "21339"
 city: Lüneburg
 street: "Hamburger Straße"
 housenumber: 5

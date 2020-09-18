@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.3910197
 longitude: 9.8522461
-postcode: 30629
+postcode: "30629"
 city: Hannover
 street: "Buchholzer Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.1833134
 longitude: 8.982869200000001
-postcode: 28879
+postcode: "28879"
 city: Grasberg
 street: "Speckmannstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2881998
 longitude: 10.5724589
-postcode: 38104
+postcode: "38104"
 city: Braunschweig
 street: "Volkmaroder Straße"
 housenumber: 14

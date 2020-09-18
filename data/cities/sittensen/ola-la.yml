@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.2786417
 longitude: 9.505185500000001
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Bahnhofstraße"
 housenumber: 4

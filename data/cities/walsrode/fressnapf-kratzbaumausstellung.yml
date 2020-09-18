@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 52.8640325
 longitude: 9.6143316
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Heinrich-Hertz-Straße"
 housenumber: 4

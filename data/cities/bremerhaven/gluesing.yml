@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5387142
 longitude: 8.586721
-postcode: 27570
+postcode: "27570"
 city: Bremerhaven
 street: "Borriesstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.50251720000001
 longitude: 8.4774581
-postcode: 26954
+postcode: "26954"
 city: Nordenham
 street: "Am Sieltief"
 housenumber: 1

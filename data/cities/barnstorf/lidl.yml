@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7051736
 longitude: 8.4935715
-postcode: 49406
+postcode: "49406"
 city: Barnstorf
 street: "Niedersachsenweg"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.5379805
 longitude: 8.5888687
-postcode: 27570
+postcode: "27570"
 city: Bremerhaven
 street: "Industriestraße"
 housenumber: 33-37

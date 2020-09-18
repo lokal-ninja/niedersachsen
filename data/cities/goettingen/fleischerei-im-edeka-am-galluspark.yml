@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.5457175
 longitude: 9.9296149
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Weender Landstraße"
 housenumber: 59

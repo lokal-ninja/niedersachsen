@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1198423
 longitude: 9.7397495
-postcode: 31008
+postcode: "31008"
 city: Elze
 street: "Bahnhofstraße"
 housenumber: 20

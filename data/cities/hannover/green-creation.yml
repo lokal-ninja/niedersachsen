@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.366359
 longitude: 9.8128288
-postcode: 30559
+postcode: "30559"
 city: Hannover
 street: "Tiergartenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2450108
 longitude: 10.217596100000002
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Am Thie"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.14063590000001
 longitude: 8.157607500000001
-postcode: 26129
+postcode: "26129"
 city: Oldenburg
 street: "Bloherfelder Straße"
 housenumber: 211a

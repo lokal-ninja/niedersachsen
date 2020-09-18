@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.5098132
 longitude: 9.9076485
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Rischenweg"
 housenumber: 4

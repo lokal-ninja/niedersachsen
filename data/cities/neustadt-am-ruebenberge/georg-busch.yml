@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.532874400000004
 longitude: 9.3324314
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Schneerener Straße"
 housenumber: 8

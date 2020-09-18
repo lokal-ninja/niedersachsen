@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.509382300000006
 longitude: 8.0688818
-postcode: 49434
+postcode: "49434"
 city: Neuenkirchen-Vörden
 street: "Bergstraße"
 housenumber: 2A

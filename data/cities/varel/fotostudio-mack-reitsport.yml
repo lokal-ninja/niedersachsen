@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.3946479
 longitude: 8.1390661
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Neue Straße"
 housenumber: 10a

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.3774299
 longitude: 9.8009097
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Berckhusenstraße"
 housenumber: 111

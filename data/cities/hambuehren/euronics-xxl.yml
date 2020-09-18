@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.6336719
 longitude: 9.958053900000001
-postcode: 29313
+postcode: "29313"
 city: Hambühren
 street: "Sudermannstraße"
 housenumber: 2

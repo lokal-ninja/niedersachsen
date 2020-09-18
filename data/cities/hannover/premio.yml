@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 52.4177137
 longitude: 9.751146
-postcode: 30179
+postcode: "30179"
 city: Hannover
 street: "Alter Flughafen"
 housenumber: 22

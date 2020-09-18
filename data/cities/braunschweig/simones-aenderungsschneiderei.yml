@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2644327
 longitude: 10.5473239
-postcode: 38104
+postcode: "38104"
 city: Braunschweig
 street: "Marienstraße"
 housenumber: 42

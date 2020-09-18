@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.8192438
 longitude: 9.8704584
-postcode: 37574
+postcode: "37574"
 city: Einbeck
 street: "Neuer Markt"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.8432874
 longitude: 8.038434200000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Eschstraße"
 housenumber: 40

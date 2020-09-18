@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 52.256634500000004
 longitude: 10.8188095
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Kupfermühlenberg"
 housenumber: 3

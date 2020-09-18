@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.168431600000005
 longitude: 9.0748099
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Braasstraße"
 housenumber: 7a

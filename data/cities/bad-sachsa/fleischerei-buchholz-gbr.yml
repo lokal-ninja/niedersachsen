@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.593912100000004
 longitude: 10.560334600000001
-postcode: 37441
+postcode: "37441"
 city: Bad Sachsa
 street: "Marktstraße"
 housenumber: 35

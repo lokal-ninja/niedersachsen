@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.200845300000005
 longitude: 9.0141171
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Eisberger Straße"
 housenumber: 436

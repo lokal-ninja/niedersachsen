@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.26604390000001
 longitude: 10.540840000000001
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Altewiekring"
 housenumber: 21

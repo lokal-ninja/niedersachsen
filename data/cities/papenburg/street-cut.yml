@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.084464100000005
 longitude: 7.3835778
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Deverweg"
 housenumber: 

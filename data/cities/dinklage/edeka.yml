@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.6654038
 longitude: 8.1176259
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Quakenbrücker Straße"
 housenumber: 8

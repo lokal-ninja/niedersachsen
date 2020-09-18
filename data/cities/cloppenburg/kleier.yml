@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.8446871
 longitude: 8.0480972
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Emsteker Straße"
 housenumber: 8

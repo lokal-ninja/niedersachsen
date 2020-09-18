@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.34059250000001
 longitude: 9.6921666
-postcode: 30457
+postcode: "30457"
 city: Hannover
 street: "Mühlenbergzentrum"
 housenumber: 12

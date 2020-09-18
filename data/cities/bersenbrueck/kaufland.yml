@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5556751
 longitude: 7.9349848000000005
-postcode: 49593
+postcode: "49593"
 city: Bersenbrück
 street: "Robert-Bosch-Straße"
 housenumber: 4

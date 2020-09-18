@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4211607
 longitude: 10.722062300000001
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Wolfsburger Landstraße"
 housenumber: 1a

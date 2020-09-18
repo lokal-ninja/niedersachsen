@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5368654
 longitude: 9.9345715
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Weender Straße"
 housenumber: 88

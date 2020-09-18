@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.4172748
 longitude: 7.0475775
-postcode: 48527
+postcode: "48527"
 city: Nordhorn
 street: "Ahauser Hof"
 housenumber: 6

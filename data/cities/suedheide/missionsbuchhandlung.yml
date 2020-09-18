@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.831216100000006
 longitude: 10.0955087
-postcode: 29320
+postcode: "29320"
 city: Südheide
 street: "Harmsstraße"
 housenumber: 2

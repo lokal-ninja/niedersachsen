@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2996271
 longitude: 8.029810900000001
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Winkelhausenstraße"
 housenumber: 9

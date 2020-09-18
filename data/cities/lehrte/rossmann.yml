@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.376344200000005
 longitude: 9.9767696
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Zuckerpassage"
 housenumber: 1-7

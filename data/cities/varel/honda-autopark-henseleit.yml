@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.380087800000005
 longitude: 8.1228751
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Am Tennisplatz"
 housenumber: 6

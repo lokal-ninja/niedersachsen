@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.946140500000006
 longitude: 10.1303438
-postcode: 38723
+postcode: "38723"
 city: Seesen
 street: "Ostlandstraße"
 housenumber: 2c

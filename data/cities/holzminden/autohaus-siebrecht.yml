@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.8424695
 longitude: 9.466971000000001
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Lilienthalstraße"
 housenumber: 4

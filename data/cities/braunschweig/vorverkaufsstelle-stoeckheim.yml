@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.2163328
 longitude: 10.5285984
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Senefelderstraße"
 housenumber: 5

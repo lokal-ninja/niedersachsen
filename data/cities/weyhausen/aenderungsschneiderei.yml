@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.467230400000005
 longitude: 10.7185058
-postcode: 38554
+postcode: "38554"
 city: Weyhausen
 street: "Lindenweg"
 housenumber: 2

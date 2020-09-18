@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.4719531
 longitude: 9.7893507
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Kurt-Schumacher-Straße"
 housenumber: 2

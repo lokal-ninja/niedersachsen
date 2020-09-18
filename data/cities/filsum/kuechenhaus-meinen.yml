@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 53.2616334
 longitude: 7.645628100000001
-postcode: 26849
+postcode: "26849"
 city: Filsum
 street: "Herrenmoorweg"
 housenumber: 25

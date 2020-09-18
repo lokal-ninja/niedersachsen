@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.078081700000006
 longitude: 8.801244
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Martinistraße"
 housenumber: 68-70

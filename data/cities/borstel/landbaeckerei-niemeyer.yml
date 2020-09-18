@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.670088
 longitude: 8.9661044
-postcode: 27246
+postcode: "27246"
 city: Borstel
 street: "Sulinger Straße"
 housenumber: 19

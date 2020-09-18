@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.661197200000004
 longitude: 8.1166075
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Drostestraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4840524
 longitude: 10.5636249
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Fuchsienweg"
 housenumber: 1

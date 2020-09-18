@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.0767419
 longitude: 8.8445564
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Friedrich-Karl-Straße"
 housenumber: 98

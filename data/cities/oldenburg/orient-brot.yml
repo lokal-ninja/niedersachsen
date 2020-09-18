@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.182846600000005
 longitude: 8.199354900000001
-postcode: 26127
+postcode: "26127"
 city: Oldenburg
 street: "Großmarktstraße"
 housenumber: 18

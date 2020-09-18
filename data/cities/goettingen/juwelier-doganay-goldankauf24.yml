@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.5319361
 longitude: 9.9328312
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Groner Straße"
 housenumber: 16

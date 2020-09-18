@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.36398500000001
 longitude: 9.8731773
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Harburger Straße"
 housenumber: 17

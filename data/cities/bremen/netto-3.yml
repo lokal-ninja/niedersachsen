@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.068443900000005
 longitude: 8.8501019
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Stader Straße"
 housenumber: 35

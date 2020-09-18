@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.57419410000001
 longitude: 8.0913499
-postcode: 26388
+postcode: "26388"
 city: Wilhelmshaven
 street: "Posener Straße"
 housenumber: 48

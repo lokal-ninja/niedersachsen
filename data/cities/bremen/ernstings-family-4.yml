@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.0662828
 longitude: 8.7697465
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Duckwitzstraße"
 housenumber: 55

@@ -1,12 +1,12 @@
-id: 348485157
+id: 295000328
 type: node
 shop: Supermarkt
-latitude: 52.4144584
-longitude: 9.7794448
-postcode: 30657
+latitude: 52.3913026
+longitude: 9.7444246
+postcode: "30163"
 city: Hannover
-street: "Elmstraße"
-housenumber: 10
+street: "Voßstraße"
+housenumber: 55
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 7:00-22:00"
 website: ""

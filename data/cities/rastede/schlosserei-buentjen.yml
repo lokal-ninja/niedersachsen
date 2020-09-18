@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 53.2190348
 longitude: 8.1886651
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Metjendorfer Straße"
 housenumber: 260

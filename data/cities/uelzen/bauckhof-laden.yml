@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.936691800000006
 longitude: 10.4885386
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Zum Gerdautal"
 housenumber: 2

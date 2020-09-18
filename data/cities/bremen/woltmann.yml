@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.182536400000004
 longitude: 8.626821600000001
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Martinsheide"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Friseurbedarf
 latitude: 52.2673404
 longitude: 10.5232816
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Hagenbrücke"
 housenumber: 12

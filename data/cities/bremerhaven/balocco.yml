@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.5416485
 longitude: 8.5751635
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Am Längengrad"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.324206000000004
 longitude: 9.205990100000001
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Niedernstraße"
 housenumber: 48

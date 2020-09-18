@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 53.0807968
 longitude: 8.810443300000001
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Bahnhofstraße"
 housenumber: 33-35

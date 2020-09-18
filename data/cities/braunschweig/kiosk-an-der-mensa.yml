@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.275568500000006
 longitude: 10.5261911
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Rebenring"
 housenumber: 17

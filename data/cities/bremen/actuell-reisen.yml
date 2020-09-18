@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.13839960000001
 longitude: 8.742449
-postcode: 28239
+postcode: "28239"
 city: Bremen
 street: "Schragestraße"
 housenumber: 4

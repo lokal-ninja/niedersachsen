@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.9780548
 longitude: 9.5164243
-postcode: 37619
+postcode: "37619"
 city: Bodenwerder
 street: "Große Straße"
 housenumber: 42

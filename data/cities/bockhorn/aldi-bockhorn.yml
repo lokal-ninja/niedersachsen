@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3921192
 longitude: 8.0084332
-postcode: 26345
+postcode: "26345"
 city: Bockhorn
 street: "Alte Bahnlinie"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.3731816
 longitude: 9.702306700000001
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Bethlehemplatz"
 housenumber: 6

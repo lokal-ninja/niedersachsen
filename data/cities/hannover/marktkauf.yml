@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.398557600000004
 longitude: 9.7370845
-postcode: 30165
+postcode: "30165"
 city: Hannover
 street: "Vahrenwalder Straße"
 housenumber: 140

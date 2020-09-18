@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.960811400000004
 longitude: 7.920171900000001
-postcode: 26169
+postcode: "26169"
 city: Friesoythe
 street: "Kurfürstendamm"
 housenumber: 11

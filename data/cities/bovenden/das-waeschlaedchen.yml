@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5866277
 longitude: 9.9297959
-postcode: 37120
+postcode: "37120"
 city: Bovenden
 street: "Rathausplatz"
 housenumber: 17

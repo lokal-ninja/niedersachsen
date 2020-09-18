@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.24922960000001
 longitude: 8.8118093
-postcode: 27711
+postcode: "27711"
 city: Osterholz-Scharmbeck
 street: "Edisonstraße"
 housenumber: 24

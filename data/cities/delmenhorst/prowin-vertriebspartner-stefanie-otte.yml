@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.029142
 longitude: 8.617353900000001
-postcode: 27755
+postcode: "27755"
 city: Delmenhorst
 street: "Adelheider Straße"
 housenumber: 102

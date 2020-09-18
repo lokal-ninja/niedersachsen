@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4173325
 longitude: 7.9783727
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Nordtangente"
 housenumber: 12

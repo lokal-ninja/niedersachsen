@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 52.5022237
 longitude: 10.525567800000001
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: ""
 housenumber: 

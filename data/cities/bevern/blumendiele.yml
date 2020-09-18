@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.858056600000005
 longitude: 9.4976552
-postcode: 37639
+postcode: "37639"
 city: Bevern
 street: "Kaspul"
 housenumber: 2

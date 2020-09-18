@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4163787
 longitude: 9.6513925
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Kirchplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.058336000000004
 longitude: 9.1681538
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: ""
 housenumber: 

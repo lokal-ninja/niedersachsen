@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 53.5285054
 longitude: 8.1073229
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Bismarckstraße"
 housenumber: 164

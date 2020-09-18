@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 53.281299000000004
 longitude: 10.438741100000001
-postcode: 21365
+postcode: "21365"
 city: Adendorf
 street: "Kirchweg"
 housenumber: 62

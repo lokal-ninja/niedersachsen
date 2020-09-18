@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.070036900000005
 longitude: 8.8360201
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Hamburger Straße"
 housenumber: 29h

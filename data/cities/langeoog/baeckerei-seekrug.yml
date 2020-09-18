@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.748072400000005
 longitude: 7.484560800000001
-postcode: 26465
+postcode: "26465"
 city: Langeoog
 street: "Gartenstraße"
 housenumber: 14

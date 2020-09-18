@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.0476195
 longitude: 8.848723900000001
-postcode: 28279
+postcode: "28279"
 city: Bremen
 street: "Steinsetzerstraße"
 housenumber: 13

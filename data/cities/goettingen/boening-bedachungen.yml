@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 51.553433500000004
 longitude: 9.8927371
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Wilhelm-Berg-Straße"
 housenumber: 8

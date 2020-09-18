@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 53.7359255
 longitude: 8.5197973
-postcode: 27639
+postcode: "27639"
 city: Wurster Nordseeküste
 street: "Sieltrift"
 housenumber: 4

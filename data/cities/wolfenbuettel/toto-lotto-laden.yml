@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.1577738
 longitude: 10.521707800000001
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Ernst-Moritz-Arndt-Straße"
 housenumber: 28

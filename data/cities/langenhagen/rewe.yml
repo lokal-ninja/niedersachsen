@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4791851
 longitude: 9.734653900000001
-postcode: 30855
+postcode: "30855"
 city: Langenhagen
 street: "Maria-Montessori-Straße"
 housenumber: 3

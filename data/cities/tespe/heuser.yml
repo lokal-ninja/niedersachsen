@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.369086900000006
 longitude: 10.4140796
-postcode: 21395
+postcode: "21395"
 city: Tespe
 street: "Auf dem Kamp"
 housenumber: 11

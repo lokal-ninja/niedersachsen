@@ -1,12 +1,12 @@
-id: 283331629
-type: node
+id: 45142289
+type: way
 shop: Supermarkt
-latitude: 52.3814615
-longitude: 9.753984
-postcode: 30161
+latitude: 52.389248200000004
+longitude: 9.856478300000001
+postcode: "30629"
 city: Hannover
-street: "Bödekerstraße"
-housenumber: 24
-phone: "+49 511 1693984"
+street: "Anderter Straße"
+housenumber: 11
+phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka-wucherpfennig.de/oststadt/"
+website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.0408045
 longitude: 8.6776692
-postcode: 27755
+postcode: "27755"
 city: Delmenhorst
 street: "Nienburger Straße"
 housenumber: 4

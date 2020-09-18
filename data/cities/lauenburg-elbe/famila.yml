@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 53.3839443
 longitude: 10.5442359
-postcode: 21481
+postcode: "21481"
 city: Lauenburg/Elbe
 street: "Mecklenburger Straße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-08:00"
 website: ""

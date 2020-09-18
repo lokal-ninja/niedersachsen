@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.6648627
 longitude: 9.2232391
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Verdener Landstraße"
 housenumber: 156

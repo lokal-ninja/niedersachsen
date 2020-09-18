@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.328901900000005
 longitude: 10.3612499
-postcode: 21357
+postcode: "21357"
 city: Wittorf
 street: "Hauptstraße"
 housenumber: 62

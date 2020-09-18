@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.206119900000004
 longitude: 10.013787800000001
-postcode: 31177
+postcode: "31177"
 city: Harsum
 street: "Hüddessumer Straße"
 housenumber: 2

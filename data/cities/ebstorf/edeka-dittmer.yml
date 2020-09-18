@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.020081600000005
 longitude: 10.4203831
-postcode: 29574
+postcode: "29574"
 city: Ebstorf
 street: "Georg-Marwede-Straße"
 housenumber: 32

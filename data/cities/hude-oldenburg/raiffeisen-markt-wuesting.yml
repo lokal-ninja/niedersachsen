@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.118707
 longitude: 8.3334487
-postcode: 27798
+postcode: "27798"
 city: Hude (Oldenburg)
 street: "Ladestraße"
 housenumber: 2

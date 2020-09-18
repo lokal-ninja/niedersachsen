@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.5326856
 longitude: 9.936132500000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Rote Straße"
 housenumber: 17

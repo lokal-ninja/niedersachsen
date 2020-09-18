@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.3317071
 longitude: 8.4779785
-postcode: 26919
+postcode: "26919"
 city: Brake (Unterweser)
 street: "Bahnhofstraße"
 housenumber: 79A

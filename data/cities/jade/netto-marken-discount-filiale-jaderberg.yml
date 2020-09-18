@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3379837
 longitude: 8.1855974
-postcode: 26349
+postcode: "26349"
 city: Jade
 street: "Tiergartenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.3279391
 longitude: 10.5613998
-postcode: 38110
+postcode: "38110"
 city: Braunschweig
 street: "Alter Stadtweg"
 housenumber: 14

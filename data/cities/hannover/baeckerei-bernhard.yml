@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.367074900000006
 longitude: 9.7080251
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Davenstedter Straße"
 housenumber: 2

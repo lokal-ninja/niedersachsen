@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5062852
 longitude: 9.4735528
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Ernst-Abbe-Ring"
 housenumber: 15

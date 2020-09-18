@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.9354394
 longitude: 8.2493163
-postcode: 26197
+postcode: "26197"
 city: Großenkneten
 street: "Am Brink"
 housenumber: 6

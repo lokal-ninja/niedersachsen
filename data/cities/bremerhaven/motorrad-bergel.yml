@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 53.5879069
 longitude: 8.6060572
-postcode: 27578
+postcode: "27578"
 city: Bremerhaven
 street: "Fritz-Erler-Straße"
 housenumber: 11

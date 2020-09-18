@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.572539500000005
 longitude: 10.110287600000001
-postcode: 37136
+postcode: "37136"
 city: Ebergötzen
 street: "Herzberger Straße"
 housenumber: 44

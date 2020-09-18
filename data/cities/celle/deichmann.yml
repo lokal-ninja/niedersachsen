@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.6088749
 longitude: 10.0751332
-postcode: 29227
+postcode: "29227"
 city: Celle
 street: "Hannoversche Heerstraße"
 housenumber: 52a;52b;52c

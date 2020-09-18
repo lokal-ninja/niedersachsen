@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 53.5550287
 longitude: 8.583171
-postcode: 27576
+postcode: "27576"
 city: Bremerhaven
 street: "Hafenstraße"
 housenumber: 71

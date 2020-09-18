@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 52.260153300000006
 longitude: 10.5202977
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Bruchstraße"
 housenumber: 1

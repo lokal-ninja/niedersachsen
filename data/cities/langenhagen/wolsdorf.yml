@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 52.429914000000004
 longitude: 9.7165665
-postcode: 30851
+postcode: "30851"
 city: Langenhagen
 street: "Hans-Böckler-Straße"
 housenumber: 60-66

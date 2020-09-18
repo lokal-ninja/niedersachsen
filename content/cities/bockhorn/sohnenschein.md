@@ -1,4 +1,4 @@
 ---
-title: "Sohnenschein"
+title: "sOHNEnschein"
 url: /bockhorn/sohnenschein/
 ---

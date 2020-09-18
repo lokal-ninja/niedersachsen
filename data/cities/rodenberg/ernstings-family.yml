@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.3124812
 longitude: 9.355367300000001
-postcode: 31552
+postcode: "31552"
 city: Rodenberg
 street: "Amtsstraße"
 housenumber: 6

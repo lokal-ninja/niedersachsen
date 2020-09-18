@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.539574200000004
 longitude: 9.986264400000001
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Im Beeke"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 08:00-13:00; Mo,Th,Th,Fr 15:00-18:00; PH off"
+opening_hours: "Mo-Sa 08:00-13:00, Mo,Tu,Th,Fr 15:00-18:00; PH off"
 website: ""

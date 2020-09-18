@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5187624
 longitude: 8.195491800000001
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Wiesenstraße"
 housenumber: 5

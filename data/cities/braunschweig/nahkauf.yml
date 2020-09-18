@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.329394900000004
 longitude: 10.5128508
-postcode: 38110
+postcode: "38110"
 city: Braunschweig
 street: "Aschenkamp"
 housenumber: 16a

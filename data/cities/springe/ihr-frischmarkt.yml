@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2144479
 longitude: 9.7062881
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Neustadtstraße"
 housenumber: 39

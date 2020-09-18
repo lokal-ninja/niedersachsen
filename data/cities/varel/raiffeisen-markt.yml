@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.3985403
 longitude: 8.1244596
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Gertrud-Barthel-Straße"
 housenumber: 1

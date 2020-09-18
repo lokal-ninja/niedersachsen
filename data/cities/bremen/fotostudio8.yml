@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.093106500000005
 longitude: 8.8042089
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Hemmstraße"
 housenumber: 145

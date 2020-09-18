@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.535112100000006
 longitude: 9.8963099
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Zollstock"
 housenumber: 52

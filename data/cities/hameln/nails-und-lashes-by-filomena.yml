@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.102174100000006
 longitude: 9.3542891
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Papenstraße"
 housenumber: 6

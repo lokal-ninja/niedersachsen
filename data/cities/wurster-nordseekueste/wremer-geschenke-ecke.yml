@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.649876600000006
 longitude: 8.5107139
-postcode: 27639
+postcode: "27639"
 city: Wurster Nordseeküste
 street: "Wremer Straße"
 housenumber: 132

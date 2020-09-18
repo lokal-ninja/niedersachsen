@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.1423518
 longitude: 8.206417
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Steinweg"
 housenumber: 8

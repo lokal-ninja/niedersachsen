@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.504591500000004
 longitude: 10.7145256
-postcode: 38556
+postcode: "38556"
 city: Bokensdorf
 street: "Berliner Ring"
 housenumber: 43

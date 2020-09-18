@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1976517
 longitude: 7.9799758
-postcode: 49170
+postcode: "49170"
 city: Hagen am Teutoburger Wald
 street: "Schulstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.3450336
 longitude: 9.8579972
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Zimmererstraße"
 housenumber: 1

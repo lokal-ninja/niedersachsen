@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.4560052
 longitude: 9.5106851
-postcode: 21698
+postcode: "21698"
 city: Harsefeld
 street: "Buxtehuder Straße"
 housenumber: 15

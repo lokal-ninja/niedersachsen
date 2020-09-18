@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.3113022
 longitude: 9.6030461
-postcode: 30989
+postcode: "30989"
 city: Gehrden
 street: "Dammtor"
 housenumber: 9a

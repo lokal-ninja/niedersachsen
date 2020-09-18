@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.0079745
 longitude: 10.120579900000001
-postcode: 31167
+postcode: "31167"
 city: Bockenem
 street: "Hachumer Straße"
 housenumber: 12

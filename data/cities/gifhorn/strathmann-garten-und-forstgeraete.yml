@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 52.461467500000005
 longitude: 10.534392
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Eyßelheideweg"
 housenumber: 15

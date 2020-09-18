@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.023017700000004
 longitude: 8.743422
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Stuhrer Feld"
 housenumber: 1

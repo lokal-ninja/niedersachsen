@@ -3,9 +3,9 @@ type: node
 shop: Supermarkt
 latitude: 53.4558606
 longitude: 9.5130485
-postcode: 21698
+postcode: "21698"
 city: Harsefeld
-street: ""
+street: "Buxtehuder Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

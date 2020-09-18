@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.441814
 longitude: 8.35269
-postcode: 32351
+postcode: "32351"
 city: Stemwede
 street: "Am Thie"
 housenumber: 24

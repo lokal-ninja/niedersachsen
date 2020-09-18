@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.6071693
 longitude: 8.3519678
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Wankelstraße"
 housenumber: 1

@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 53.0732817
 longitude: 8.812336400000001
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Altenwall"
 housenumber: 1-3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
 website: ""

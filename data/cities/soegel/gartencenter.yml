@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.833093000000005
 longitude: 7.5090909
-postcode: 49751
+postcode: "49751"
 city: Sögel
 street: "Püttkesberge"
 housenumber: 3

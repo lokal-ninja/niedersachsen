@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.372096500000005
 longitude: 9.7892665
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Kirchröder Straße"
 housenumber: 89

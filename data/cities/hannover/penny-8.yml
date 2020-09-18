@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3554784
 longitude: 9.7203216
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Ricklinger Straße"
 housenumber: 99

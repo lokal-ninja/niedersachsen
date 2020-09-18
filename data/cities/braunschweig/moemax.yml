@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.329731200000005
 longitude: 10.5229304
-postcode: 38110
+postcode: "38110"
 city: Braunschweig
 street: "Wendebrück"
 housenumber: 16

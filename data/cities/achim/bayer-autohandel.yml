@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.025687600000005
 longitude: 8.9819238
-postcode: 28832
+postcode: "28832"
 city: Achim
 street: "Uphuser Heerstraße"
 housenumber: 9A

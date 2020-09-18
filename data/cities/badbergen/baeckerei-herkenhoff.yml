@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.635237000000004
 longitude: 7.9817162
-postcode: 49635
+postcode: "49635"
 city: Badbergen
 street: "Hauptstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.0786243
 longitude: 8.809237600000001
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Sögestraße"
 housenumber: 59-61

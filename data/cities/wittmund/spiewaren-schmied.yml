@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.5768366
 longitude: 7.781352
-postcode: 26409
+postcode: "26409"
 city: Wittmund
 street: "Brückstraße"
 housenumber: 2

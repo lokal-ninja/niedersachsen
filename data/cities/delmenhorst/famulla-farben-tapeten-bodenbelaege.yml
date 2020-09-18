@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 53.05762180000001
 longitude: 8.6316331
-postcode: 27753
+postcode: "27753"
 city: Delmenhorst
 street: "Stedinger Straße"
 housenumber: 59

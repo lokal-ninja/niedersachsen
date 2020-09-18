@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.8062526
 longitude: 10.3492467
-postcode: 38678
+postcode: "38678"
 city: Clausthal-Zellerfeld
 street: "Am Ostbahnhof"
 housenumber: 1

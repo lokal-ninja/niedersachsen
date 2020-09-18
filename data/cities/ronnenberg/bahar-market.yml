@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.333351900000004
 longitude: 9.664782
-postcode: 30952
+postcode: "30952"
 city: Ronnenberg
 street: "Ronnenberger Straße"
 housenumber: 22
-phone: ""
-opening_hours: ""
+phone: "+49 511 47308787"
+opening_hours: "Mo-Sa 08:00-19:00"
 website: ""

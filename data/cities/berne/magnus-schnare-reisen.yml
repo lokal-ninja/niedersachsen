@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.1803645
 longitude: 8.4861059
-postcode: 27804
+postcode: "27804"
 city: Berne
 street: "Lange Straße"
 housenumber: 85

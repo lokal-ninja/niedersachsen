@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.1696478
 longitude: 10.518621600000001
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Hauptstraße"
 housenumber: 7

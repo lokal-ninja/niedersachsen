@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 53.490077600000006
 longitude: 9.1245537
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Hasenkamp"
 housenumber: 10

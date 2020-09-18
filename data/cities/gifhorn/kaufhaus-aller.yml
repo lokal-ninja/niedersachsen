@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 52.488538500000004
 longitude: 10.544404700000001
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Cardenap"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.3856484
 longitude: 10.2580072
-postcode: 31234
+postcode: "31234"
 city: Edemissen
 street: "Wöhrbergweg"
 housenumber: 1

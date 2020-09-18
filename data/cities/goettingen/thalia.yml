@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 51.5284617
 longitude: 9.8815284
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Am Kauf Park"
 housenumber: 2
-phone: "+49 551 50969246"
+phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5611/"
+website: ""

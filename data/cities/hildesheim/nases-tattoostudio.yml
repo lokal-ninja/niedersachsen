@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 52.1581817
 longitude: 9.9539807
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Bahnhofsallee"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.893305500000004
 longitude: 10.5450055
-postcode: 38667
+postcode: "38667"
 city: Bad Harzburg
 street: "Breite Straße"
 housenumber: 41a

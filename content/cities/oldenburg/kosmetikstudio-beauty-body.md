@@ -1,4 +1,4 @@
 ---
-title: "Kosmetikstudio  Beauty Body"
+title: "Kosmetikstudio Beauty Body"
 url: /oldenburg/kosmetikstudio-beauty-body/
 ---

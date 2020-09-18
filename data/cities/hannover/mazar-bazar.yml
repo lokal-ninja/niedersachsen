@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.41977850000001
 longitude: 9.7817779
-postcode: 30657
+postcode: "30657"
 city: Hannover
 street: "Meierwiesen"
 housenumber: 2

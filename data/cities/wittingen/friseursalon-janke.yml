@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.728948100000004
 longitude: 10.7323854
-postcode: 29378
+postcode: "29378"
 city: Wittingen
 street: "Bahnhofstraße"
 housenumber: 19

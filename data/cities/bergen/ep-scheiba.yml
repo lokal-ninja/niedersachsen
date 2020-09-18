@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.8091468
 longitude: 9.967176
-postcode: 29303
+postcode: "29303"
 city: Bergen
 street: "Bahnhofstraße"
 housenumber: 23

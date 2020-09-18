@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0974397
 longitude: 8.8121215
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Hemmstraße"
 housenumber: 313

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4558006
 longitude: 9.3991609
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Bordenauer Weg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.628732500000005
 longitude: 9.9371237
-postcode: 37176
+postcode: "37176"
 city: Nörten-Hardenberg
 street: "Göttinger Straße"
 housenumber: 15

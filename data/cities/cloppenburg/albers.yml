@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.842492
 longitude: 8.0614696
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Emsteker Straße"
 housenumber: 81

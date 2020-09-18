@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.330843900000005
 longitude: 10.2357299
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Schwarzer Weg"
 housenumber: 78

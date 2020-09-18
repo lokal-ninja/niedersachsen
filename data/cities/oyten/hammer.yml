@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.053701800000006
 longitude: 9.0332715
-postcode: 28876
+postcode: "28876"
 city: Oyten
 street: "Industriestraße"
 housenumber: 30

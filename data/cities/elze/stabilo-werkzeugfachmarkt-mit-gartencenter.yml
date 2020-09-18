@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.11241020000001
 longitude: 9.7297692
-postcode: 31008
+postcode: "31008"
 city: Elze
 street: "Heilswannenweg"
 housenumber: 52

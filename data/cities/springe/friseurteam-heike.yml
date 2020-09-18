@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.208368500000006
 longitude: 9.553956900000001
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Am Markt"
 housenumber: 15

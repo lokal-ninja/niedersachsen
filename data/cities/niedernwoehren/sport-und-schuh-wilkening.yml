@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.352411100000005
 longitude: 9.1454702
-postcode: 31712
+postcode: "31712"
 city: Niedernwöhren
 street: "Hauptstraße"
 housenumber: 35

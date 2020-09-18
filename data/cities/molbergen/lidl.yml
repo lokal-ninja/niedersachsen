@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.858213000000006
 longitude: 7.930100800000001
-postcode: 49696
+postcode: "49696"
 city: Molbergen
 street: "Cloppenburger Straße"
 housenumber: 33

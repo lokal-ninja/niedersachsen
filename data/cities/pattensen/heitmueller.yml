@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.264208700000005
 longitude: 9.7630478
-postcode: 30982
+postcode: "30982"
 city: Pattensen
 street: "Talstraße"
 housenumber: 8

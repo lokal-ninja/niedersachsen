@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.964435800000004
 longitude: 10.561422700000001
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Hutmacherstraße"
 housenumber: 11

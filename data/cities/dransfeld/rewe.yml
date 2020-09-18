@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5025927
 longitude: 9.7645502
-postcode: 37127
+postcode: "37127"
 city: Dransfeld
 street: "Wolfshof"
 housenumber: 2

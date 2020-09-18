@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 52.2513902
 longitude: 10.815999900000001
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Westernstraße"
 housenumber: 33

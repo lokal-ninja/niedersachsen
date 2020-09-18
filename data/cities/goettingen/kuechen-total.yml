@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.527332200000004
 longitude: 9.887831100000001
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Siekweg"
 housenumber: 30c

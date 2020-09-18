@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.307503700000005
 longitude: 9.270330300000001
-postcode: 27404
+postcode: "27404"
 city: Zeven
 street: "Gerberstraße"
 housenumber: 1

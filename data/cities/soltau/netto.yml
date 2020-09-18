@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.986283
 longitude: 9.854200800000001
-postcode: 29614
+postcode: "29614"
 city: Soltau
 street: "Lüneburger Straße"
 housenumber: 42-46

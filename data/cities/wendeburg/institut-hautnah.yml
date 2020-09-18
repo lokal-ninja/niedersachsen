@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.3448658
 longitude: 10.318685200000001
-postcode: 38176
+postcode: "38176"
 city: Wendeburg
 street: "Opferstraße"
 housenumber: 20

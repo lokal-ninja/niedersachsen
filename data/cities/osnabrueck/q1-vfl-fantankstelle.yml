@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.285104800000006
 longitude: 8.0789664
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Bremer Straße"
 housenumber: 90

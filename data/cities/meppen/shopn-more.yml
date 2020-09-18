@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.695988400000005
 longitude: 7.2977496
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Bahnhofstraße"
 housenumber: 41

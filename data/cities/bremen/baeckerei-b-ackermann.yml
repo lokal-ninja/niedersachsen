@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0876518
 longitude: 8.7616081
-postcode: 28197
+postcode: "28197"
 city: Bremen
 street: "Woltmershauser Straße"
 housenumber: 317

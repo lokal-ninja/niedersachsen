@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.0187442
 longitude: 8.3498002
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Hauptstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.2617452
 longitude: 10.5305902
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Ritterstraße"
 housenumber: 23

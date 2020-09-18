@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.4895669
 longitude: 7.225953400000001
-postcode: 49835
+postcode: "49835"
 city: Wietmarschen
 street: "Lohner Straße"
 housenumber: 4

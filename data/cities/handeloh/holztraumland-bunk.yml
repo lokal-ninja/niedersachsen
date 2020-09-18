@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.2534074
 longitude: 9.8078828
-postcode: 21256
+postcode: "21256"
 city: Handeloh
 street: "An der B3"
 housenumber: 8

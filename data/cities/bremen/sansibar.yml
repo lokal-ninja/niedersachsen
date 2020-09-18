@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.0782698
 longitude: 8.8382144
-postcode: 28211
+postcode: "28211"
 city: Bremen
 street: "Straßburger Straße"
 housenumber: 84

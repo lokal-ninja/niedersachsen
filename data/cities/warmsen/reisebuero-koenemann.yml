@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.453016500000004
 longitude: 8.851469100000001
-postcode: 31606
+postcode: "31606"
 city: Warmsen
 street: "Kreuzkruger Straße"
 housenumber: 5

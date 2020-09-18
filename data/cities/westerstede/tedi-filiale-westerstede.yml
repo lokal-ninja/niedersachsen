@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.255124900000006
 longitude: 7.930057000000001
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Meinardusstraße"
 housenumber: 20

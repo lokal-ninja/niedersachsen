@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 52.8376401
 longitude: 10.6533928
-postcode: 29389
+postcode: "29389"
 city: Bad Bodenteich
 street: "Industriestraße"
 housenumber: 14A

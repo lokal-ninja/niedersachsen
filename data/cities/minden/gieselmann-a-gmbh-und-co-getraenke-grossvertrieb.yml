@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.3062788
 longitude: 8.9767083
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Dresdener Straße"
 housenumber: 20

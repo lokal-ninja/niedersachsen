@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.2478616
 longitude: 10.3606814
-postcode: 21391
+postcode: "21391"
 city: Reppenstedt
 street: "Lüneburger Landstraße"
 housenumber: 14

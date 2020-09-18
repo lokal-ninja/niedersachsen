@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.271827200000004
 longitude: 10.486603500000001
-postcode: 38116
+postcode: "38116"
 city: Braunschweig
 street: "Luftstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4467785
 longitude: 10.009131400000001
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Marktstraße"
 housenumber: 16a

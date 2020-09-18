@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.9338302
 longitude: 10.349671500000001
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Lange Straße"
 housenumber: 64

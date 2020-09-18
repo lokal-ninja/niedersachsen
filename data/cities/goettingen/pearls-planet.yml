@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.5328633
 longitude: 9.9327349
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Johannisstraße"
 housenumber: 25c

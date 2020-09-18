@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.3702009
 longitude: 9.7277477
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Calenberger Straße"
 housenumber: 21

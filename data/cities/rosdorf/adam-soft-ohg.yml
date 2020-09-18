@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.5077201
 longitude: 9.9062649
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Raseweg"
 housenumber: 4

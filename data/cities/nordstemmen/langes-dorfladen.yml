@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.1763756
 longitude: 9.7288522
-postcode: 31171
+postcode: "31171"
 city: Nordstemmen
 street: "Adenoyser Straße"
 housenumber: 15

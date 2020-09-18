@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.456091900000004
 longitude: 9.8009564
-postcode: 30916
+postcode: "30916"
 city: Isernhagen
 street: "Am Ortfelde"
 housenumber: 65

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.2169206
 longitude: 10.5291621
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Senefelderstraße"
 housenumber: 4c

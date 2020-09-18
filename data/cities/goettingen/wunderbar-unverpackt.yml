@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5324286
 longitude: 9.9298496
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Groner-Tor-Straße"
 housenumber: 22

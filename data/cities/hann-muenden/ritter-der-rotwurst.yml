@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4176638
 longitude: 9.651992700000001
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Lange Straße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.56178430000001
 longitude: 7.912929600000001
-postcode: 26441
+postcode: "26441"
 city: Jever
 street: "Mühlenstraße"
 housenumber: 72

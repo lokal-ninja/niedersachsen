@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.3605274
 longitude: 9.851054000000001
-postcode: 30559
+postcode: "30559"
 city: Hannover
 street: "Freidingstraße"
 housenumber: 18 a

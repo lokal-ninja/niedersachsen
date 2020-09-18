@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3956364
 longitude: 9.590047100000001
-postcode: 30926
+postcode: "30926"
 city: Seelze
 street: "Am Kreuzweg"
 housenumber: 11

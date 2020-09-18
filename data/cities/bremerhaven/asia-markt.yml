@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.550653200000006
 longitude: 8.5801964
-postcode: 27576
+postcode: "27576"
 city: Bremerhaven
 street: "Hafenstraße"
 housenumber: 11

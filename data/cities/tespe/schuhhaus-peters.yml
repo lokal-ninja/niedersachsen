@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.402537
 longitude: 10.411331800000001
-postcode: 21395
+postcode: "21395"
 city: Tespe
 street: "Elbuferstraße"
 housenumber: 168

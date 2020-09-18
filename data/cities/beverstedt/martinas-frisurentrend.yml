@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.4410357
 longitude: 8.7348479
-postcode: 27616
+postcode: "27616"
 city: Beverstedt
 street: "Heerstedter Straße"
 housenumber: 18

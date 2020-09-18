@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4643048
 longitude: 10.1997426
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Burgdorfer Straße"
 housenumber: 16

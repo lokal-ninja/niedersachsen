@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.934406200000005
 longitude: 10.9527722
-postcode: 29459
+postcode: "29459"
 city: Clenze
 street: "Lange Straße"
 housenumber: 11-12

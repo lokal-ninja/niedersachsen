@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.5570967
 longitude: 8.0980494
-postcode: 26386
+postcode: "26386"
 city: Wilhelmshaven
 street: "Dodoweg"
 housenumber: 17

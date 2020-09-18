@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3636666
 longitude: 9.7544416
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Krausenstraße"
 housenumber: 38

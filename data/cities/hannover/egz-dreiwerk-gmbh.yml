@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.366834600000004
 longitude: 9.702916
-postcode: 30453
+postcode: "30453"
 city: Hannover
 street: "Davenstedter Straße"
 housenumber: 60

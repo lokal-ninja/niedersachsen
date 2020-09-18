@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4394025
 longitude: 10.8414002
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "An der Meine"
 housenumber: 6

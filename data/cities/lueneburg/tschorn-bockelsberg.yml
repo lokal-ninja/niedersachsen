@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.2238496
 longitude: 10.404722000000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Universitätsallee"
 housenumber: 13

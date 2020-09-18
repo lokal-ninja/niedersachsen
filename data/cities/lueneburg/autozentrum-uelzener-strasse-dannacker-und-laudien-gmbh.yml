@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.2242413
 longitude: 10.405096200000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Universitätsallee"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.541965000000005
 longitude: 9.9149706
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Königsallee"
 housenumber: 68

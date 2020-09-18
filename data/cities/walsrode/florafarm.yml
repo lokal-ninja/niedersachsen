@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.8317653
 longitude: 9.6705149
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Bockhorn"
 housenumber: 1

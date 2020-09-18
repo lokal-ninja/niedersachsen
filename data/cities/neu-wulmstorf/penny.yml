@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.4653846
 longitude: 9.7930018
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Bahnhofstraße"
 housenumber: 19

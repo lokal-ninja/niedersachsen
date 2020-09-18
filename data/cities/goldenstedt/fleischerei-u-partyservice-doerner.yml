@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.7852328
 longitude: 8.4312089
-postcode: 49424
+postcode: "49424"
 city: Goldenstedt
 street: "Hauptstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.731481300000006
 longitude: 8.2686664
-postcode: 49377
+postcode: "49377"
 city: Vechta
 street: "Falkenrotter Straße"
 housenumber: 153

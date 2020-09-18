@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.0518699
 longitude: 8.6408733
-postcode: 27749
+postcode: "27749"
 city: Delmenhorst
 street: "Bremer Straße"
 housenumber: 61

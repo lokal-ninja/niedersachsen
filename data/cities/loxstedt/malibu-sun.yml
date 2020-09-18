@@ -3,7 +3,7 @@ type: node
 shop: Solarium
 latitude: 53.470679100000005
 longitude: 8.6503308
-postcode: 27612
+postcode: "27612"
 city: Loxstedt
 street: "Bahnhofstraße"
 housenumber: 43a

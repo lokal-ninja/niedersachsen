@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.227335100000005
 longitude: 10.240547900000001
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Bierstraße"
 housenumber: 55

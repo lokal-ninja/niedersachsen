@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 52.187608700000006
 longitude: 9.0807493
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Marktplatz"
 housenumber: 11

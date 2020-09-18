@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.155316500000005
 longitude: 9.9643263
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Einumer Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 53.3615367
 longitude: 7.1690899
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Thüringer Straße"
 housenumber: 9

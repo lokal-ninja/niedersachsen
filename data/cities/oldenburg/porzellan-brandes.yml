@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 53.1396116
 longitude: 8.2133076
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Lange Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.499982100000004
 longitude: 9.4434191
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Beethovenstraße/Im Heidland"
 housenumber: 26

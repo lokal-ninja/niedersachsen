@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5521783
 longitude: 8.5852033
-postcode: 49419
+postcode: "49419"
 city: Wagenfeld
 street: "Sparkassenweg"
 housenumber: 5

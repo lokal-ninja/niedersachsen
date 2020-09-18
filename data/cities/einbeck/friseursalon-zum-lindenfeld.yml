@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.8026502
 longitude: 9.9030167
-postcode: 37574
+postcode: "37574"
 city: Einbeck
 street: "Zum Lindenfeld"
 housenumber: 3

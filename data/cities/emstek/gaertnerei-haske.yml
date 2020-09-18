@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.8322766
 longitude: 8.1645711
-postcode: 49685
+postcode: "49685"
 city: Emstek
 street: "Zum Gogericht"
 housenumber: 3

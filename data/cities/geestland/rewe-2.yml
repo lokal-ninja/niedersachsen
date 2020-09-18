@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.606736100000006
 longitude: 8.596727600000001
-postcode: 27607
+postcode: "27607"
 city: Geestland
 street: "Leher Landstraße"
 housenumber: 6

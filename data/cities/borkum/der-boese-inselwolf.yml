@@ -1,12 +1,12 @@
 id: 2431938162
 type: node
 shop: Supermarkt
-latitude: 53.58730370000001
-longitude: 6.658670600000001
-postcode: 26757
+latitude: 53.5873117
+longitude: 6.6587417
+postcode: "26757"
 city: Borkum
 street: "Bismarckstraße"
 housenumber: 38
 phone: "+49 4922 93970"
-opening_hours: ""
+opening_hours: "closed"
 website: ""

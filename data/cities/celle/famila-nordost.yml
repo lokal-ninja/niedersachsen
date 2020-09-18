@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.651904800000004
 longitude: 10.0697878
-postcode: 29229
+postcode: "29229"
 city: Celle
 street: "Zur Hasselklink"
 housenumber: 3-5

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.3396034
 longitude: 9.7631067
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Fiedelerplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1318872
 longitude: 10.966830600000002
-postcode: 38364
+postcode: "38364"
 city: Schöningen
 street: "Marienstraße"
 housenumber: 27

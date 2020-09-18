@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1028036
 longitude: 8.2102082
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Alter Postweg"
 housenumber: 125

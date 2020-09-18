@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.364466
 longitude: 9.747443200000001
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 35

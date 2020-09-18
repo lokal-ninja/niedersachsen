@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.106953000000004
 longitude: 9.78997
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Am Vogelsang"
 housenumber: 12

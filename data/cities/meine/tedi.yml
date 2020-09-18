@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.382262700000005
 longitude: 10.5343006
-postcode: 38527
+postcode: "38527"
 city: Meine
 street: "Bahnhofstraße"
 housenumber: 11

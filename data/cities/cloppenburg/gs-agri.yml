@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.843125300000004
 longitude: 8.054820600000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Emsteker Straße"
 housenumber: 41

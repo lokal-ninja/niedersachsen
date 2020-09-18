@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.2539042
 longitude: 10.6118585
-postcode: 38162
+postcode: "38162"
 city: Cremlingen
 street: "Helmstedter Straße"
 housenumber: 53

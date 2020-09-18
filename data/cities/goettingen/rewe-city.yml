@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5344611
 longitude: 9.934151400000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Prinzenstraße"
 housenumber: 13

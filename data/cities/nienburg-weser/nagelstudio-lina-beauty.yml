@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.639263400000004
 longitude: 9.207126500000001
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Georgstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.260018200000005
 longitude: 10.5489578
-postcode: 38104
+postcode: "38104"
 city: Braunschweig
 street: "Georg-Westermann-Allee"
 housenumber: 18

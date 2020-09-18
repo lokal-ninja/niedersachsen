@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.4301961
 longitude: 9.9326925
-postcode: 21077
+postcode: "21077"
 city: Hamburg
 street: "Maldfeldstraße"
 housenumber: 2 A

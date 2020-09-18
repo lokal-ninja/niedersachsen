@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.230903000000005
 longitude: 7.4598968
-postcode: 26789
+postcode: "26789"
 city: Leer
 street: "Mühlenstraße"
 housenumber: 

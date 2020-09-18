@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3010418
 longitude: 9.8050555
-postcode: 30880
+postcode: "30880"
 city: Laatzen
 street: "Am Kamp"
 housenumber: 11

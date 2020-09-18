@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.849144
 longitude: 8.0291102
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Dresdener Straße"
 housenumber: 1

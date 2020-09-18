@@ -1,4 +1,4 @@
 ---
-title: "Lottermanns Bikes"
+title: "Lottermann's Bikes"
 url: /soltau/lottermanns-bikes/
 ---

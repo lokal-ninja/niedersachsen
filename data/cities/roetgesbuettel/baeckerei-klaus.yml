@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.416509700000006
 longitude: 10.533618200000001
-postcode: 38531
+postcode: "38531"
 city: Rötgesbüttel
 street: "Masch"
 housenumber: 1

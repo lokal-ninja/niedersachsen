@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.065871200000004
 longitude: 8.794874700000001
-postcode: 28201
+postcode: "28201"
 city: Bremen
 street: "Gastfeldstraße"
 housenumber: 24

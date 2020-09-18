@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.568176300000005
 longitude: 10.217814
-postcode: 
+postcode: ""
 city: Rollshausen
 street: "Ziegeleistraße"
 housenumber: 3

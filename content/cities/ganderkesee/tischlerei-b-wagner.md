@@ -1,4 +1,4 @@
 ---
-title: "Tischlerei B.Wagner"
+title: "Tischlerei B. Wagner"
 url: /ganderkesee/tischlerei-b-wagner/
 ---

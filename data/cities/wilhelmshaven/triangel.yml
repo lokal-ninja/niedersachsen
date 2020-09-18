@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.5191566
 longitude: 8.1174421
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Bahnhofstraße"
 housenumber: 7

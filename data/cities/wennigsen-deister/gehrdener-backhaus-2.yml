@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 52.271829000000004
 longitude: 9.5229923
-postcode: 30974
+postcode: "30974"
 city: Wennigsen (Deister)
 street: "Egestorfer Straße"
 housenumber: 31
 phone: "+49 5103 927722"
-opening_hours: "Mo-Fr 06:00-13:00; Sa 06:00-12:00; So 08:00-11:00"
+opening_hours: "Mo-Fr 06:00-13:00; Sa 06:00-12:00; Su 08:00-11:00"
 website: "http://www.gehrdener-backhaus.de/"

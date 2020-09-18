@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 52.653193900000005
 longitude: 9.218711500000001
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Celler Straße"
 housenumber: 3
 phone: "+49 5021 6000 538"
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
 website: ""

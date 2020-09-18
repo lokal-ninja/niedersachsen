@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.172795400000005
 longitude: 9.667878400000001
-postcode: 27389
+postcode: "27389"
 city: Fintel
 street: "Am Markt"
 housenumber: 3

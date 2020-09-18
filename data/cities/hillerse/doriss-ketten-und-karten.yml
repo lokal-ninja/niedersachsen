@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.4170541
 longitude: 10.3974443
-postcode: 38543
+postcode: "38543"
 city: Hillerse
 street: "Poststraße"
 housenumber: 21

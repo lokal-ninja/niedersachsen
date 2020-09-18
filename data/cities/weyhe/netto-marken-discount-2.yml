@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.9862771
 longitude: 8.785749800000001
-postcode: 28844
+postcode: "28844"
 city: Weyhe
 street: "Seckenhauser Straße"
 housenumber: 1

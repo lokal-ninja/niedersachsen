@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 53.1795333
 longitude: 10.3498947
-postcode: 21409
+postcode: "21409"
 city: Embsen
 street: "Bahnhofstraße"
 housenumber: 13

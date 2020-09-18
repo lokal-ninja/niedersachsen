@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.254501700000006
 longitude: 8.113117800000001
-postcode: 26215
+postcode: "26215"
 city: Wiefelstede
 street: "August-Hinrichs-Straße"
 housenumber: 14

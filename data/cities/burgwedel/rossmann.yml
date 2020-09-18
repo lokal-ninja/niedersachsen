@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4913723
 longitude: 9.8587106
-postcode: 30938
+postcode: "30938"
 city: Burgwedel
 street: "Hannoversche Straße"
 housenumber: 8

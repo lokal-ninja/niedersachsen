@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4164223
 longitude: 9.4508493
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Auf Bösselhagen"
 housenumber: 8

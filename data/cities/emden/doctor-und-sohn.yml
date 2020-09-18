@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.3405958
 longitude: 7.2289133
-postcode: 26725
+postcode: "26725"
 city: Emden
 street: "Petkumer Straße"
 housenumber: 287

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.7715862
 longitude: 10.2086324
-postcode: 37534
+postcode: "37534"
 city: Badenhausen
 street: "Thüringer Straße"
 housenumber: 235

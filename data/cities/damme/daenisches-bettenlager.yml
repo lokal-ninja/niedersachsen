@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 52.519141700000006
 longitude: 8.1978793
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Wiesenstraße"
 housenumber: 9

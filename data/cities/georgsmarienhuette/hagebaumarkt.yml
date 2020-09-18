@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.2186959
 longitude: 8.0652297
-postcode: 49124
+postcode: "49124"
 city: Georgsmarienhütte
 street: "Bremer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.2576005
 longitude: 9.865863300000001
-postcode: 21256
+postcode: "21256"
 city: Handeloh
 street: "Zu den Fischteichen"
 housenumber: 3

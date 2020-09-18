@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.5882888
 longitude: 9.9274483
-postcode: 
+postcode: ""
 city: Bovenden
 street: "Feldtorweg"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.830789
 longitude: 8.043877
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Taubenstraße"
 housenumber: 31

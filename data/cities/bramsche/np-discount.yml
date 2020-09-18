@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.403741700000005
 longitude: 7.9679716
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Brucknerstraße"
 housenumber: 1

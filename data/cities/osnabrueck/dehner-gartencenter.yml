@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.3051946
 longitude: 8.034984600000001
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Oldenburger Landstraße"
 housenumber: 1

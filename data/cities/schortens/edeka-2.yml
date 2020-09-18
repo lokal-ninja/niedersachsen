@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.552190700000004
 longitude: 7.9910889
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "Peter-Grave-Straße"
 housenumber: 2

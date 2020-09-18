@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.0990066
 longitude: 11.0959236
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Am Markt"
 housenumber: 12

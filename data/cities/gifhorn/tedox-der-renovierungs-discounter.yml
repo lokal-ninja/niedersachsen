@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 52.475734
 longitude: 10.5418797
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Braunschweiger Straße"
 housenumber: 46

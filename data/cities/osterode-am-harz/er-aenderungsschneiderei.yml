@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.7280153
 longitude: 10.252960100000001
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Aegidienstraße"
 housenumber: 2

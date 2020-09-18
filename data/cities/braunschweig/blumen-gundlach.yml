@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.2728648
 longitude: 10.542702400000001
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Wabestraße"
 housenumber: 11a

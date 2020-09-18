@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.420836300000005
 longitude: 10.7099957
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Westerbreite"
 housenumber: 4

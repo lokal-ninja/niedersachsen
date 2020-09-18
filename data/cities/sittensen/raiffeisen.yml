@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.2805934
 longitude: 9.495919800000001
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Industriestraße"
 housenumber: 2

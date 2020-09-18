@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 53.233507900000006
 longitude: 8.790491900000001
-postcode: 27711
+postcode: "27711"
 city: Osterholz-Scharmbeck
 street: "Koppelstraße"
 housenumber: 37

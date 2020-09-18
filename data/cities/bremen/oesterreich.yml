@@ -3,10 +3,10 @@ type: node
 shop: Sanitätshaus
 latitude: 53.0822519
 longitude: 8.8076866
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Bürgermeister-Smidt-Straße"
 housenumber: 32-36
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-17:00"
 website: "https://www.facebook.com/OesterreichOrthopadieTechnikGmbhCokg"

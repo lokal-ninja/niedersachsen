@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.3319163
 longitude: 10.271800500000001
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "August-Bebel-Straße"
 housenumber: 49

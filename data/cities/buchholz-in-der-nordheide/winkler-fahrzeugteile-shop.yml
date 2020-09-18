@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 53.3535161
 longitude: 9.8642339
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Müllerstraße"
 housenumber: 13

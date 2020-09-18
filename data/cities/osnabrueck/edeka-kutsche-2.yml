@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.272337900000004
 longitude: 8.0492535
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Johannisstraße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.9139946
 longitude: 8.8273244
-postcode: 28857
+postcode: "28857"
 city: Syke
 street: "Herrlichkeit"
 housenumber: 10

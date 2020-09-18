@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 53.060427600000004
 longitude: 8.3571683
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Gewerbepark"
 housenumber: 17

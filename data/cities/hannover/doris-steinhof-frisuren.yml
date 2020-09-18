@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3931145
 longitude: 9.6849682
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Herrenhäuser Straße"
 housenumber: 65

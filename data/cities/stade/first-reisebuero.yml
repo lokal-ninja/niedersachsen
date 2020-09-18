@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.6024942
 longitude: 9.4757274
-postcode: 21682
+postcode: "21682"
 city: Stade
 street: "Hökerstraße"
 housenumber: 41

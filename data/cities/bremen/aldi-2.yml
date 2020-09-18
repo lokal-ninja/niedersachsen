@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.10116420000001
 longitude: 8.815357
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Hemmstraße"
 housenumber: 353-357

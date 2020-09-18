@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.271524500000005
 longitude: 8.0496314
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Johannisstraße"
 housenumber: 77

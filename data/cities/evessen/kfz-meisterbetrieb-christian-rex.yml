@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.190651700000004
 longitude: 10.7044619
-postcode: 38173
+postcode: "38173"
 city: Evessen
 street: "Schöppenstedter Straße"
 housenumber: 1

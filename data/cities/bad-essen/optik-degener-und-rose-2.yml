@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.3195132
 longitude: 8.340887500000001
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Lindenstraße"
 housenumber: 24

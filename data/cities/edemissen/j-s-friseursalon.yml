@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3872956
 longitude: 10.261790000000001
-postcode: 31234
+postcode: "31234"
 city: Edemissen
 street: "Zum Osterberge"
 housenumber: 3

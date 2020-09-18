@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.1045905
 longitude: 9.3590064
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Osterstraße"
 housenumber: 12

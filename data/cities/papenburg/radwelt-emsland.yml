@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 53.071861600000005
 longitude: 7.384437900000001
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Von-Herz-Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.1064723
 longitude: 8.275303000000001
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Borchersweg"
 housenumber: 2

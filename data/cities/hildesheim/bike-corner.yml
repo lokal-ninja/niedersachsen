@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 52.1749877
 longitude: 9.9425036
-postcode: 31137
+postcode: "31137"
 city: Hildesheim
 street: "Schinkelstraße"
 housenumber: 3

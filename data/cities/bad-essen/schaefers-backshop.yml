@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 52.3207223
 longitude: 8.340488800000001
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Gartenstraße"
 housenumber: 29
 phone: "+49 5472 95536"
-opening_hours: "Mo-Sa 07:00-21:00; So 08:00-13:00"
+opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-13:00"
 website: "https://www.schaefers-brot.de/"

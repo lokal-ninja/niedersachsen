@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.836319200000005
 longitude: 8.0257152
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Memelstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1815074
 longitude: 8.0053559
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Langenhof"
 housenumber: 24

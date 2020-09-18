@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 53.7218121
 longitude: 8.538070900000001
-postcode: 27639
+postcode: "27639"
 city: Wurster Nordseeküste
 street: "Dorumer Strichweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.269713200000005
 longitude: 9.7281732
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Zinnhütte"
 housenumber: 10 A

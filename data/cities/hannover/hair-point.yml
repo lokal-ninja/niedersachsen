@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.351741000000004
 longitude: 9.7222586
-postcode: 30459
+postcode: "30459"
 city: Hannover
 street: "Friedrich-Ebert-Platz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.3270209
 longitude: 10.352896300000001
-postcode: 21357
+postcode: "21357"
 city: Wittorf
 street: "Wittorfer Ecke"
 housenumber: 112

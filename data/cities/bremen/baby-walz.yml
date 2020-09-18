@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 53.0468641
 longitude: 8.7443605
-postcode: 28259
+postcode: "28259"
 city: Bremen
 street: "Alter Dorfweg"
 housenumber: 30-50

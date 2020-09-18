@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.2583904
 longitude: 8.0708965
-postcode: 49082
+postcode: "49082"
 city: Osnabrück
 street: "Meller Straße"
 housenumber: 200

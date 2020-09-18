@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.33832820000001
 longitude: 9.3873961
-postcode: 31542
+postcode: "31542"
 city: Bad Nenndorf
 street: "Haster Straße"
 housenumber: 1

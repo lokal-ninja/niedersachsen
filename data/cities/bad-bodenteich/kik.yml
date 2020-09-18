@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.8327953
 longitude: 10.675025600000001
-postcode: 29389
+postcode: "29389"
 city: Bad Bodenteich
 street: "Bergstraße"
 housenumber: 8

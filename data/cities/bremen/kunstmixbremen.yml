@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.072935
 longitude: 8.8111986
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Kolpingstraße"
 housenumber: 18

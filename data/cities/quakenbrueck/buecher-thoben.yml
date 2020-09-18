@@ -1,12 +1,12 @@
-id: 780314950
-type: way
+id: 7383151016
+type: node
 shop: Bücher
-latitude: 52.679222
-longitude: 7.9577429
-postcode: 49610
+latitude: 52.679179600000005
+longitude: 7.957811700000001
+postcode: "49610"
 city: Quakenbrück
 street: "Lange Straße"
 housenumber: 77
-phone: ""
-opening_hours: ""
+phone: "+49 5431 3486"
+opening_hours: "Mo-Fr 09:00-18:00; Sa,09:00-13:00"
 website: ""

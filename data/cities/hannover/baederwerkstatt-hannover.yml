@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.3272734
 longitude: 9.7805905
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 393

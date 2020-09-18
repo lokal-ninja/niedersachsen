@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.1382805
 longitude: 10.970638600000001
-postcode: 38364
+postcode: "38364"
 city: Schöningen
 street: "Bismarckstraße"
 housenumber: 2

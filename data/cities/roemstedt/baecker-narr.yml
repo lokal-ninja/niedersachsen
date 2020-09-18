@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.09762550000001
 longitude: 10.6512408
-postcode: 29591
+postcode: "29591"
 city: Römstedt
 street: "Niendorfer Weg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.451171800000004
 longitude: 9.4971596
-postcode: 21698
+postcode: "21698"
 city: Harsefeld
 street: "Friedrich-Huth-Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.263821
 longitude: 9.066671900000001
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Kreuzbreite"
 housenumber: 14b

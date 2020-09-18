@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.512225400000005
 longitude: 10.259886
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 48

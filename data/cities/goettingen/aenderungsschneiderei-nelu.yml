@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.5325453
 longitude: 9.9280231
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Groner-Tor-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.9846907
 longitude: 9.5788515
-postcode: 27374
+postcode: "27374"
 city: Visselhövede
 street: "Goethestraße"
 housenumber: 9,11,11a

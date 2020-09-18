@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.399613900000006
 longitude: 9.805362200000001
-postcode: 30655
+postcode: "30655"
 city: Hannover
 street: "Groß-Buchholzer Kirchweg"
 housenumber: 73

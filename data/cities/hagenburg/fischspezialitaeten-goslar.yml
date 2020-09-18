@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.437303
 longitude: 9.355447
-postcode: 31558
+postcode: "31558"
 city: Hagenburg
 street: "Am roten Stein"
 housenumber: 1

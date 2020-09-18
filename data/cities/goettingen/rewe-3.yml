@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5327155
 longitude: 9.9320892
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Groner Straße"
 housenumber: 54-55

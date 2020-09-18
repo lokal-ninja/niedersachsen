@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.052069800000005
 longitude: 8.803191
-postcode: 28201
+postcode: "28201"
 city: Bremen
 street: "Neuenlander Straße"
 housenumber: 111

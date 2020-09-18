@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.203281800000006
 longitude: 9.9151565
-postcode: 
+postcode: ""
 city: Giesen
 street: "Vor dem Kampe"
 housenumber: 1

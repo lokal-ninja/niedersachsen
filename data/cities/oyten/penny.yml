@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.067542200000005
 longitude: 9.0924133
-postcode: 28876
+postcode: "28876"
 city: Oyten
 street: "Sonnenblumenweg"
 housenumber: 14

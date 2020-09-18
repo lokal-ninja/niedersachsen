@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.248581300000005
 longitude: 10.4795911
-postcode: 38120
+postcode: "38120"
 city: Braunschweig
 street: "Elbestraße"
 housenumber: 22
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

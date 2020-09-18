@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 52.7056479
 longitude: 9.530998100000001
-postcode: 29690
+postcode: "29690"
 city: Gilten
 street: "Heidkampsweg"
 housenumber: 1

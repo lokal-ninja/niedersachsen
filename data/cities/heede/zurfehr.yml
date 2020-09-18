@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.993872700000004
 longitude: 7.301310900000001
-postcode: 26892
+postcode: "26892"
 city: Heede
 street: "Hauptstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.664911700000005
 longitude: 9.373581600000001
-postcode: 37688
+postcode: "37688"
 city: Beverungen
 street: "Lange Straße"
 housenumber: 43

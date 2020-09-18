@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.907237300000006
 longitude: 10.428403600000001
-postcode: 38640
+postcode: "38640"
 city: Goslar
 street: "Fischemäkerstraße"
 housenumber: 4

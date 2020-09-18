@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.346903100000006
 longitude: 9.828507100000001
-postcode: 30539
+postcode: "30539"
 city: Hannover
 street: "Bemeroder Rathausplatz"
 housenumber: 6

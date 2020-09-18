@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.1033271
 longitude: 9.805889500000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Schnuckenweide"
 housenumber: 4

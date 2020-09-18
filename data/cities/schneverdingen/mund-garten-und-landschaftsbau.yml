@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.1093029
 longitude: 9.775475
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Gustav-Bosselmann-Ring"
 housenumber: 25

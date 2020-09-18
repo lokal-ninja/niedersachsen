@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.5549054
 longitude: 10.611604100000001
-postcode: 38524
+postcode: "38524"
 city: Sassenburg
 street: "Iseweg"
 housenumber: 14b

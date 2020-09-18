@@ -1,12 +1,12 @@
-id: 377480408
+id: 667335382
 type: way
 shop: Supermarkt
-latitude: 53.073762900000006
-longitude: 8.7988699
-postcode: 28199
+latitude: 53.1011517
+longitude: 8.7959799
+postcode: "28219"
 city: Bremen
-street: "Westerstraße"
-housenumber: 19-31
+street: "Holsteiner Straße"
+housenumber: 91
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30; Su,PH off"
-website: "https://www.rewe.de/marktseite/rewe-markt-bremen-westerstra%C3%9Fe-19"
+opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+website: ""

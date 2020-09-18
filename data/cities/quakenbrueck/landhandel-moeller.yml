@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 52.676625300000005
 longitude: 7.9507143000000005
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Schiphorst"
 housenumber: 12-14

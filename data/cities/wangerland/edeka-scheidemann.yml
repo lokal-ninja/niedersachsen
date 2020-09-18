@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6860754
 longitude: 8.006475
-postcode: 26434
+postcode: "26434"
 city: Wangerland
 street: "Andelweg"
 housenumber: 1

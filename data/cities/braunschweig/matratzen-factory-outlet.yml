@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.266906600000006
 longitude: 10.514282000000001
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Güldenstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.1832896
 longitude: 8.2277165
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Stubbenweg"
 housenumber: 27

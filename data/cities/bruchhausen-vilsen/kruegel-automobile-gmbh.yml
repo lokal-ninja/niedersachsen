@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.829211
 longitude: 8.993008000000001
-postcode: 27305
+postcode: "27305"
 city: Bruchhausen-Vilsen
 street: "Am Scheunenacker"
 housenumber: 12-14

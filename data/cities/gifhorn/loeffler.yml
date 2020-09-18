@@ -1,9 +1,9 @@
-id: 1610020364
-type: node
-shop: Baumarkt
-latitude: 52.5012519
-longitude: 10.543489600000001
-postcode: 38518
+id: 260621290
+type: way
+shop: Gartenmöbel
+latitude: 52.5015305
+longitude: 10.543142300000001
+postcode: "38518"
 city: Gifhorn
 street: "Im Paulsumpf"
 housenumber: 12-14

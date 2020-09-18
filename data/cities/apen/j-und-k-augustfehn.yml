@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 53.2184177
 longitude: 7.7699495
-postcode: 26689
+postcode: "26689"
 city: Apen
 street: "Industriestraße"
 housenumber: 16

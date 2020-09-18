@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.1669655
 longitude: 8.222869600000001
-postcode: 26127
+postcode: "26127"
 city: Oldenburg
 street: "Hoffkamp"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.4880348
 longitude: 10.5447714
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Torstraße"
 housenumber: 1

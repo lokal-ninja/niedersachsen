@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.535729100000005
 longitude: 9.936937
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Ritterplan"
 housenumber: 3

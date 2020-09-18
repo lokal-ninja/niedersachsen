@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.237180200000005
 longitude: 8.3698871
-postcode: 26931
+postcode: "26931"
 city: Elsfleth
 street: "Bardenfleth"
 housenumber: 46

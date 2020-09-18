@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.330784
 longitude: 9.2337182
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Dülwaldstraße"
 housenumber: 4

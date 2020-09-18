@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.5547386
 longitude: 8.581231800000001
-postcode: 49419
+postcode: "49419"
 city: Wagenfeld
 street: "Diepholzer Straße"
 housenumber: 8

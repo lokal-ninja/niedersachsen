@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.60190660000001
 longitude: 7.412272400000001
-postcode: 49844
+postcode: "49844"
 city: Bawinkel
 street: "Haselünner Straße"
 housenumber: 15

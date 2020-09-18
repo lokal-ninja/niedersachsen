@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.340920800000006
 longitude: 10.0176628
-postcode: 21220
+postcode: "21220"
 city: Seevetal
 street: "Harmstorfer Straße"
 housenumber: 11

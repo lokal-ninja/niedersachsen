@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 53.250431500000005
 longitude: 10.409399800000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "An den Brodbänken"
 housenumber: 13

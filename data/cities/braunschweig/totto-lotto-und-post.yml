@@ -1,12 +1,12 @@
 id: 4847487278
 type: node
 shop: Kiosk
-latitude: 52.226450500000006
-longitude: 10.5659904
-postcode: 38126
+latitude: 52.2261801
+longitude: 10.566878
+postcode: "38126"
 city: Braunschweig
 street: "Am Mascheroder Holz"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-19:00; PH closed"
 website: ""

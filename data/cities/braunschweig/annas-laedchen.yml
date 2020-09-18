@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 52.2626836
 longitude: 10.536815800000001
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Helmstedter Straße"
 housenumber: 6

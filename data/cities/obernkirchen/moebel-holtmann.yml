@@ -3,10 +3,10 @@ type: node
 shop: Möbel
 latitude: 52.283118900000005
 longitude: 9.1315974
-postcode: 31683
+postcode: "31683"
 city: Obernkirchen
 street: "Gelldorfer Weg"
 housenumber: 44
 phone: "+49 5724 39639"
-opening_hours: ""
-website: "www.moebelholtmann.de"
+opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
+website: "https://www.moebelholtmann.de/"

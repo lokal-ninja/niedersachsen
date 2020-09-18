@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.394918700000005
 longitude: 8.1379588
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Hindenburgstraße"
 housenumber: 13

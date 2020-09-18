@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.0835766
 longitude: 9.9958726
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Hauptstraße"
 housenumber: 2

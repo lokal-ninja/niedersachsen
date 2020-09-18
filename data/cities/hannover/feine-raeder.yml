@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.378501
 longitude: 9.7490067
-postcode: 30175
+postcode: "30175"
 city: Hannover
 street: "Volgersweg"
 housenumber: 12

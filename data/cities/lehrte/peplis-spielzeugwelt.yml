@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.361119200000005
 longitude: 9.9141451
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Raiffeisenstraße"
 housenumber: 9

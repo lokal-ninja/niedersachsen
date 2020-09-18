@@ -3,7 +3,7 @@ type: node
 shop: Beschriftungen
 latitude: 52.2784357
 longitude: 8.0387529
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Bocksmauer"
 housenumber: 20

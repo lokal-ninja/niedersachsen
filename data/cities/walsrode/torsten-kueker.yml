@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.8669128
 longitude: 9.635876900000001
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Goldweg"
 housenumber: 2

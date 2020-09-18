@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.43702630000001
 longitude: 10.8616241
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "Sudammsbreite"
 housenumber: 43

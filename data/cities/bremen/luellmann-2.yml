@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0296746
 longitude: 8.814345900000001
-postcode: 28277
+postcode: "28277"
 city: Bremen
 street: "Kattenescher Weg"
 housenumber: 45

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.58956920000001
 longitude: 8.596967000000001
-postcode: 27578
+postcode: "27578"
 city: Bremerhaven
 street: "Langener Landstraße"
 housenumber: 267a

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.608936
 longitude: 8.3692893
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Lange Straße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.132423200000005
 longitude: 8.7350964
-postcode: 28239
+postcode: "28239"
 city: Bremen
 street: "Oslebshauser Landstraße"
 housenumber: 23

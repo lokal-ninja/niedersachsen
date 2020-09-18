@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.692495300000004
 longitude: 7.274395200000001
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Marienstraße"
 housenumber: 10-12

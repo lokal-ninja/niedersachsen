@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2330897
 longitude: 9.8666716
-postcode: 31157
+postcode: "31157"
 city: Sarstedt
 street: "Hildesheimer Straße"
 housenumber: 66

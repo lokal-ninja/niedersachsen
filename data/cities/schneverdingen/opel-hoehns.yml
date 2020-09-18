@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.1238703
 longitude: 9.804993600000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Alte Landesstraße"
 housenumber: 4

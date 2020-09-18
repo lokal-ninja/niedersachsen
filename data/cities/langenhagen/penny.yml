@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.441932
 longitude: 9.6987006
-postcode: 30855
+postcode: "30855"
 city: Langenhagen
 street: "Lohkamp"
 housenumber: 45-48

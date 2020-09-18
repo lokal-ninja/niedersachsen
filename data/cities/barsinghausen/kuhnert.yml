@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.3019836
 longitude: 9.4585902
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Altenhofstraße"
 housenumber: 13

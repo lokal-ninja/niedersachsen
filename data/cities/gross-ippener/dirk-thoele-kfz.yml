@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.9771348
 longitude: 8.6167482
-postcode: 27243
+postcode: "27243"
 city: Groß Ippener
 street: "Am Gewerbegebiet"
 housenumber: 2

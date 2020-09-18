@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.163195900000005
 longitude: 9.9711271
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Siemensstraße"
 housenumber: 11

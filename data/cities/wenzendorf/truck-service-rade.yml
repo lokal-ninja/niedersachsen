@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.366174
 longitude: 9.801373700000001
-postcode: 21279
+postcode: "21279"
 city: Wenzendorf
 street: "Schlepelsberg"
 housenumber: 16

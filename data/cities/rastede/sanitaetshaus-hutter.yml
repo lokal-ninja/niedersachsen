@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 53.249879500000006
 longitude: 8.1932147
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Raiffeisenstraße"
 housenumber: 10

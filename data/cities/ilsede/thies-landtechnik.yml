@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.226661
 longitude: 10.2477212
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Zum Marktplatz"
 housenumber: 5

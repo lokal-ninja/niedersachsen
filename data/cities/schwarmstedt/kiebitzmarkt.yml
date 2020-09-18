@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.6770283
 longitude: 9.6211059
-postcode: 29690
+postcode: "29690"
 city: Schwarmstedt
 street: "Tannhof"
 housenumber: 3A

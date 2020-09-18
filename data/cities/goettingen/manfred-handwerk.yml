@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.543925
 longitude: 9.885768800000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Karl-Arnold-Straße"
 housenumber: 6b

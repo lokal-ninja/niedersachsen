@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 53.8062514
 longitude: 8.8952256
-postcode: 21762
+postcode: "21762"
 city: Otterndorf
 street: "Bahnhofstraße"
 housenumber: 12
 phone: "+49 4751 2525"
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"
+website: "https://www.fleischerei-kindler.de/"

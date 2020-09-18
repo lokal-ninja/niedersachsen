@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.557881200000004
 longitude: 9.927829500000001
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Lutteranger"
 housenumber: 5

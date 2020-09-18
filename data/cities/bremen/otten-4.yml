@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.100042
 longitude: 8.8863502
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Wilhelm-Röntgen-Straße"
 housenumber: 

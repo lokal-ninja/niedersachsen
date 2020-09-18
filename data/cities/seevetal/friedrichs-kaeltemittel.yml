@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 53.3501143
 longitude: 10.0271548
-postcode: 21220
+postcode: "21220"
 city: Seevetal
 street: "Bei den Kämpen"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.159367
 longitude: 8.2085933
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Alexanderstraße"
 housenumber: 167a

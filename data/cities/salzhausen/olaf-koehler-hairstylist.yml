@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2254111
 longitude: 10.1684783
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Hauptstraße"
 housenumber: 10a

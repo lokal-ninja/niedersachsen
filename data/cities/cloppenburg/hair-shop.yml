@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.845928400000005
 longitude: 8.0475556
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Pingel-Anton"
 housenumber: 7

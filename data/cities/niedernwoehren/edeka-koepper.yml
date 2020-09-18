@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.34380650000001
 longitude: 9.1572571
-postcode: 31712
+postcode: "31712"
 city: Niedernwöhren
 street: "Fasanenkamp"
 housenumber: 1

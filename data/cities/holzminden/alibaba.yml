@@ -1,12 +1,12 @@
 id: 2341627117
 type: node
 shop: Einkaufszentrum
-latitude: 51.8194576
-longitude: 9.4601887
-postcode: 37603
+latitude: 51.8194559
+longitude: 9.460161900000001
+postcode: "37603"
 city: Holzminden
-street: "Von-Langen-Allee"
-housenumber: 9
+street: "Corveyblick"
+housenumber: 20
 phone: "+49 5531 7046761"
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.543199300000005
 longitude: 8.5791409
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Bürgermeister-Smidt-Straße"
 housenumber: 40

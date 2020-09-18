@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.9675534
 longitude: 11.1575162
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 12

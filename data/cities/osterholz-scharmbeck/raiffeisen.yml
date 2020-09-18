@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.2268764
 longitude: 8.8016638
-postcode: 27711
+postcode: "27711"
 city: Osterholz-Scharmbeck
 street: "Am Kleinbahnhof"
 housenumber: 2

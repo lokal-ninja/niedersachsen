@@ -1,4 +1,4 @@
 ---
-title: "Zweirad-Fabrik"
+title: "Zweirad Fabrik"
 url: /osnabrueck/zweirad-fabrik/
 ---

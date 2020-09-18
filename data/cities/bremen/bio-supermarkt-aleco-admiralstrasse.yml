@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.0888604
 longitude: 8.8073455
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Admiralstraße"
 housenumber: 14

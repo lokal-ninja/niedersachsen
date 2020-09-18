@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.251614200000006
 longitude: 8.192833400000001
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Oldenburger Straße"
 housenumber: 291

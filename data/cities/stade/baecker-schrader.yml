@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6083712
 longitude: 9.476083000000001
-postcode: 21682
+postcode: "21682"
 city: Stade
 street: "Hansestraße"
 housenumber: 30

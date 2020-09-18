@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.559195700000004
 longitude: 8.5855729
-postcode: 27576
+postcode: "27576"
 city: Bremerhaven
 street: "Hafenstraße"
 housenumber: 135

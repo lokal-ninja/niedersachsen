@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5707223
 longitude: 8.6059415
-postcode: 27578
+postcode: "27578"
 city: Bremerhaven
 street: "Spadener Straße"
 housenumber: 101

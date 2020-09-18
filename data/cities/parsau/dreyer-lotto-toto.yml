@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.534672500000006
 longitude: 10.8911668
-postcode: 38470
+postcode: "38470"
 city: Parsau
 street: "Hauptstraße"
 housenumber: 13

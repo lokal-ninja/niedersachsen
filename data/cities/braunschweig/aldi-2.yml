@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2599941
 longitude: 10.493727300000002
-postcode: 38118
+postcode: "38118"
 city: Braunschweig
 street: "Madamenweg"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.119584700000004
 longitude: 9.4240574
-postcode: 27356
+postcode: "27356"
 city: Rotenburg (Wümme)
 street: "Brockeler Straße"
 housenumber: 2-4

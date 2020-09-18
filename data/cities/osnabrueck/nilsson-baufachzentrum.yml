@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.3020037
 longitude: 8.0342555
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Fürstenauer Weg"
 housenumber: 2

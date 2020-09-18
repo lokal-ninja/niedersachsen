@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.085307400000005
 longitude: 8.8282962
-postcode: 28209
+postcode: "28209"
 city: Bremen
 street: "Wachmannstraße"
 housenumber: 16

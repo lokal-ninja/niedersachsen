@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.506233
 longitude: 9.630664000000001
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Altes Dorf"
 housenumber: 15

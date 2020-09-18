@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.1049711
 longitude: 8.854421
-postcode: 28359
+postcode: "28359"
 city: Bremen
 street: "Max-von-Laue-Straße"
 housenumber: 1

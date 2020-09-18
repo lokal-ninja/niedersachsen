@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.5240833
 longitude: 8.1914675
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Mühlenstraße"
 housenumber: 36

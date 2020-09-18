@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.9007675
 longitude: 10.5622358
-postcode: 38667
+postcode: "38667"
 city: Bad Harzburg
 street: "Kirchstraße"
 housenumber: 18

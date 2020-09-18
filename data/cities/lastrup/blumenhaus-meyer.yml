@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.794564300000005
 longitude: 7.8450626
-postcode: 49688
+postcode: "49688"
 city: Lastrup
 street: "Hammeler Straße"
 housenumber: 57

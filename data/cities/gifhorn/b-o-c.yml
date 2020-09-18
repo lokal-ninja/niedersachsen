@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.4582386
 longitude: 10.5401644
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Gerhard-Fieseler-Straße"
 housenumber: 1

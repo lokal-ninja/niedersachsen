@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.0248696
 longitude: 7.873333700000001
-postcode: 26169
+postcode: "26169"
 city: Friesoythe
 street: "Böseler Straße"
 housenumber: 1

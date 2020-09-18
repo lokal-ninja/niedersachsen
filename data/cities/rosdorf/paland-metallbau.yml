@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.5031012
 longitude: 9.899509100000001
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Sellenfried"
 housenumber: 2

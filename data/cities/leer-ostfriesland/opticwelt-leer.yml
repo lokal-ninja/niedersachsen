@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.2299365
 longitude: 7.456245000000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Mühlenstraße"
 housenumber: 64, 66

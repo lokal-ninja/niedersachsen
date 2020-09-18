@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.3747534
 longitude: 9.899744
-postcode: 21224
+postcode: "21224"
 city: Rosengarten
 street: "Ohepark"
 housenumber: 3

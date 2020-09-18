@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.6997445
 longitude: 7.264083100000001
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Sanddornstraße"
 housenumber: 9

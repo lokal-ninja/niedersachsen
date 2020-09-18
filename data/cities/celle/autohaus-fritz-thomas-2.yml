@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5947559
 longitude: 10.069631600000001
-postcode: 29227
+postcode: "29227"
 city: Celle
 street: "Hannoversche Heerstraße"
 housenumber: 147

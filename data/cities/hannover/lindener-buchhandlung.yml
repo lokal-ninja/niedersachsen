@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.373180000000005
 longitude: 9.7078631
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 46

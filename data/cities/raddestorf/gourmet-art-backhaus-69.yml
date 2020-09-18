@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 52.453830100000005
 longitude: 8.9557072
-postcode: 31604
+postcode: "31604"
 city: Raddestorf
 street: "Raddestorf"
 housenumber: 69
 phone: "+49 5765 208447"
-opening_hours: ""
-website: "http://konditorei-gourmet-art.de/"
+opening_hours: "Sa, Su 07:00-14:00"
+website: "https://konditorei-gourmet-art.de/"

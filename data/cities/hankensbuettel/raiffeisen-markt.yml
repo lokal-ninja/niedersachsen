@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.725987200000006
 longitude: 10.5961581
-postcode: 29386
+postcode: "29386"
 city: Hankensbüttel
 street: "Celler Straße"
 housenumber: 19

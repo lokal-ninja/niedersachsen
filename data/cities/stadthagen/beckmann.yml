@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.331602100000005
 longitude: 9.2064491
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Lauenhäger Straße"
 housenumber: 39

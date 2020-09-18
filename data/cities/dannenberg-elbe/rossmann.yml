@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 53.098883400000005
 longitude: 11.095665100000002
-postcode: 29451
+postcode: "29451"
 city: Dannenberg (Elbe)
 street: "Am Markt"
 housenumber: 15
-phone: "+49 5861 979046"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
-website: "http://www.rossmann.de"
+phone: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su off; PH off"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 51.7277569
 longitude: 10.251532000000001
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Kornmarkt"
 housenumber: 1

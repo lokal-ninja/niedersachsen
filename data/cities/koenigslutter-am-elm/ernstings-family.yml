@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2512192
 longitude: 10.8162275
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Westernstraße"
 housenumber: 8

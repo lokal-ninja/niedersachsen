@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.23499210000001
 longitude: 7.46766
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Bremer Straße"
 housenumber: 27b

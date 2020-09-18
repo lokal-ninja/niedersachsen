@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.0795065
 longitude: 9.8634807
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Hamburger Straße"
 housenumber: 10

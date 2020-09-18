@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.3943822
 longitude: 8.142387000000001
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Haferkampstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 52.438873
 longitude: 9.738265700000001
-postcode: 30853
+postcode: "30853"
 city: Langenhagen
 street: "Marktplatz"
 housenumber: 5

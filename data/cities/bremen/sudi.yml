@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.060376000000005
 longitude: 8.800275800000001
-postcode: 28201
+postcode: "28201"
 city: Bremen
 street: "Gottfried-Menken-Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.24888240000001
 longitude: 10.653274600000001
-postcode: 38162
+postcode: "38162"
 city: Cremlingen
 street: "Hauptstraße"
 housenumber: 32

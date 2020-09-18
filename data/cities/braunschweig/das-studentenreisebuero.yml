@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.2740817
 longitude: 10.5247829
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Mühlenpfordtstraße"
 housenumber: 18

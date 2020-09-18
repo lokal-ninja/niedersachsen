@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.5333442
 longitude: 9.677478500000001
-postcode: 21635
+postcode: "21635"
 city: Jork
 street: "Westerjork"
 housenumber: 21

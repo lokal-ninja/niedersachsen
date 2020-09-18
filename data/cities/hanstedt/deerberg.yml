@@ -3,9 +3,9 @@ type: way
 shop: Kleidung
 latitude: 53.090997800000004
 longitude: 10.4032827
-postcode: 29582
+postcode: "29582"
 city: Hanstedt
-street: "Velgen"
+street: ""
 housenumber: 35
 phone: ""
 opening_hours: ""

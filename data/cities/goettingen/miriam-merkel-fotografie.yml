@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.535361
 longitude: 9.932215900000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Am Leinekanal"
 housenumber: 4

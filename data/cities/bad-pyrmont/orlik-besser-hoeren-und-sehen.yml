@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.984966
 longitude: 9.2578644
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "Postweg"
 housenumber: 4

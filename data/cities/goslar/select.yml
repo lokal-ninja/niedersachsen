@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9069853
 longitude: 10.4305664
-postcode: 38640
+postcode: "38640"
 city: Goslar
 street: "Breite Straße"
 housenumber: 9

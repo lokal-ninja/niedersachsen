@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.2765482
 longitude: 7.905798900000001
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Am Wehlen"
 housenumber: 8

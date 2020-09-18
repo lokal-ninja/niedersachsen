@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4400247
 longitude: 9.185349500000001
-postcode: 31547
+postcode: "31547"
 city: Münchehagen
 street: "Lange Straße"
 housenumber: 2

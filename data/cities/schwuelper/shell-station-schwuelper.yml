@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.3236123
 longitude: 10.4428978
-postcode: 38179
+postcode: "38179"
 city: Schwülper
 street: "Celler Straße"
 housenumber: 5

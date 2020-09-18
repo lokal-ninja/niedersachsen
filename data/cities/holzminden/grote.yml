@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8286384
 longitude: 9.4471547
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: ""
 housenumber: 

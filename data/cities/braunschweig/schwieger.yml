@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.236305400000006
 longitude: 10.5623307
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "Heidehöhe"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.332698300000004
 longitude: 10.447255400000001
-postcode: 21382
+postcode: "21382"
 city: Brietlingen
 street: "Bundesstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.8749674
 longitude: 9.2335194
-postcode: 27313
+postcode: "27313"
 city: Dörverden
 street: "Geestefeld"
 housenumber: 5

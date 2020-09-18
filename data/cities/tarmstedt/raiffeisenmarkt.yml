@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.2265427
 longitude: 9.079270600000001
-postcode: 27412
+postcode: "27412"
 city: Tarmstedt
 street: "Hauptstraße"
 housenumber: 23

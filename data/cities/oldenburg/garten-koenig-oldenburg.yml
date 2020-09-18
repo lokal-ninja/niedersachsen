@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.1065714
 longitude: 8.2781461
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Bremer Heerstraße"
 housenumber: 575

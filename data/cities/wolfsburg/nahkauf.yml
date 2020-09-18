@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.411964100000006
 longitude: 10.7629801
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Eichelkamp"
 housenumber: 1

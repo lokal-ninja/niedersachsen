@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.1012986
 longitude: 8.787099000000001
-postcode: 28219
+postcode: "28219"
 city: Bremen
 street: "Waller Heerstraße"
 housenumber: 101

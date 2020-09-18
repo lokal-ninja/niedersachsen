@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.4445483
 longitude: 10.0169162
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Uetzer Straße"
 housenumber: 18

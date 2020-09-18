@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.24998840000001
 longitude: 10.4071029
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Waagestraße"
 housenumber: 1A

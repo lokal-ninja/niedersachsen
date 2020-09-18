@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2165465
 longitude: 10.3664897
-postcode: 38159
+postcode: "38159"
 city: Vechelde
 street: "Wallstraße"
 housenumber: 17

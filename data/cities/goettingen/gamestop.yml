@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 51.5339559
 longitude: 9.935476000000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Weender Straße"
 housenumber: 42

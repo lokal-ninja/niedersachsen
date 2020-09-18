@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.8642656
 longitude: 9.702918700000001
-postcode: 29683
+postcode: "29683"
 city: Bad Fallingbostel
 street: "Vogteistraße"
 housenumber: 35

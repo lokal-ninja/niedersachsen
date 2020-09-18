@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.030915
 longitude: 7.855385500000001
-postcode: 26169
+postcode: "26169"
 city: Friesoythe
 street: "Barßeler Straße"
 housenumber: 37

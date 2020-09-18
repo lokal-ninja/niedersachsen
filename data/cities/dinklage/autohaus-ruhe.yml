@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.667615500000004
 longitude: 8.116569
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Quakenbrücker Straße"
 housenumber: 17

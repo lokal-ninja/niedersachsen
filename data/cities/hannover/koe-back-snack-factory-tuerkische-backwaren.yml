@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3662829
 longitude: 9.7146393
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Falkenstraße"
 housenumber: 

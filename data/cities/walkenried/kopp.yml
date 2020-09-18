@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5859072
 longitude: 10.6172024
-postcode: 37445
+postcode: "37445"
 city: Walkenried
 street: "Harzstraße"
 housenumber: 9

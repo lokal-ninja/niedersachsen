@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.714814700000005
 longitude: 10.274988800000001
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Herzberger Landstraße"
 housenumber: 3b

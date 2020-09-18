@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5137015
 longitude: 10.260853800000001
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Jüdenstraße"
 housenumber: 23

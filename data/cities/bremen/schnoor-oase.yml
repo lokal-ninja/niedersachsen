@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.0725246
 longitude: 8.8096767
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Wüstestätte"
 housenumber: 1a

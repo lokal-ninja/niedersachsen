@@ -3,7 +3,7 @@ type: node
 shop: Gewürze
 latitude: 53.0579376
 longitude: 9.1683081
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: ""
 housenumber: 

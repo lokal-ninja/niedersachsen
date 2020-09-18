@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.895399600000005
 longitude: 8.415254800000001
-postcode: 27793
+postcode: "27793"
 city: Wildeshausen
 street: "Westring"
 housenumber: 7

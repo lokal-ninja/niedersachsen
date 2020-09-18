@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.041841600000005
 longitude: 8.595314700000001
-postcode: 27753
+postcode: "27753"
 city: Delmenhorst
 street: "Hannah-Arendt-Straße"
 housenumber: 3

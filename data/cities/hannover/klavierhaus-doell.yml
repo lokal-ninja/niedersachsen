@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 52.3720225
 longitude: 9.735919200000001
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Schmiedestraße"
 housenumber: 8

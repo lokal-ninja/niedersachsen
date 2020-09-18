@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1719644
 longitude: 9.4770921
-postcode: 27383
+postcode: "27383"
 city: Scheeßel
 street: "Zevener Straße"
 housenumber: 20

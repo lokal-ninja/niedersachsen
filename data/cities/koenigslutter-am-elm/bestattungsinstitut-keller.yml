@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.251275400000004
 longitude: 10.8135226
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Elmstraße"
 housenumber: 106

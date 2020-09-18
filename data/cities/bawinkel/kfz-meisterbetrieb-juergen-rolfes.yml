@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.601991600000005
 longitude: 7.411847300000001
-postcode: 49844
+postcode: "49844"
 city: Bawinkel
 street: "Haselünner Straße"
 housenumber: 15

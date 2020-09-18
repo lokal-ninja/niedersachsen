@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.690326400000004
 longitude: 9.9838036
-postcode: 37154
+postcode: "37154"
 city: Northeim
 street: "Hillerser Straße"
 housenumber: 11

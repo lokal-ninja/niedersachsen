@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.1729209
 longitude: 8.6197665
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Gerhard-Rohlfs-Straße"
 housenumber: 16

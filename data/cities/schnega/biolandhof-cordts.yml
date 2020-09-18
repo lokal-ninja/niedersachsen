@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.8949678
 longitude: 10.835815700000001
-postcode: 29465
+postcode: "29465"
 city: Schnega
 street: ""
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 53.1855501
 longitude: 8.200741
-postcode: 26127
+postcode: "26127"
 city: Oldenburg
 street: "Am Alexanderhaus"
 housenumber: 162

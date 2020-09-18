@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.36242420000001
 longitude: 9.7484666
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7954353
 longitude: 9.426575300000001
-postcode: 37671
+postcode: "37671"
 city: Lüchtringen
 street: "Braunschweiger Straße"
 housenumber: 2

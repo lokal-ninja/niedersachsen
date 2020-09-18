@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.638835400000005
 longitude: 9.206337300000001
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Kirchplatz"
 housenumber: 9a

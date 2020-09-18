@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.2517743
 longitude: 10.641741900000001
-postcode: 38162
+postcode: "38162"
 city: Cremlingen
 street: "Im Moorbusche"
 housenumber: 3a

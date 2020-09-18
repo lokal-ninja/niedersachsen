@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3364162
 longitude: 9.379245500000001
-postcode: 31542
+postcode: "31542"
 city: Bad Nenndorf
 street: "Hauptstraße"
 housenumber: 20-24

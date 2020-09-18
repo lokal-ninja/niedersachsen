@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 53.107325100000004
 longitude: 8.264522600000001
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Schlachthofstraße"
 housenumber: 32

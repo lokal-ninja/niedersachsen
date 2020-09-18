@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.3744473
 longitude: 9.738307200000001
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Niki-de-Saint-Phalle-Promenade"
 housenumber: 

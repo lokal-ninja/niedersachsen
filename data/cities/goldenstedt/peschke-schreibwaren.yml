@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.7872623
 longitude: 8.430910200000001
-postcode: 49424
+postcode: "49424"
 city: Goldenstedt
 street: "Hauptstraße"
 housenumber: 35

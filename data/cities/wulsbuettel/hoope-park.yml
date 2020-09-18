@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 53.3173089
 longitude: 8.6906765
-postcode: 27628
+postcode: "27628"
 city: Wulsbüttel
 street: "Wulsbütteler Straße"
 housenumber: 2

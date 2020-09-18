@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.975130400000005
 longitude: 8.873115
-postcode: 28844
+postcode: "28844"
 city: Weyhe
 street: "Sudweyher Straße"
 housenumber: 121

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.05118950000001
 longitude: 8.958995700000001
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 51.532175
 longitude: 9.9392686
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Lange-Geismar-Straße"
 housenumber: 69

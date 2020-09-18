@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.5443525
 longitude: 9.9339724
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Annastraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.5027461
 longitude: 9.760987
-postcode: 37127
+postcode: "37127"
 city: Dransfeld
 street: "Lange Straße"
 housenumber: 51

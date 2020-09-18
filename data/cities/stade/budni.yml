@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.6005848
 longitude: 9.474088
-postcode: 21682
+postcode: "21682"
 city: Stade
 street: "Steile Straße"
 housenumber: 1

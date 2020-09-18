@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.2497667
 longitude: 10.8179426
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Gänsemarkt"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 52.3969796
 longitude: 9.640571900000001
-postcode: 30926
+postcode: "30926"
 city: Seelze
 street: "Lange-Feld-Straße"
 housenumber: 20

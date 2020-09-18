@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.163045800000006
 longitude: 8.2447818
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Clausewitzstraße"
 housenumber: 3

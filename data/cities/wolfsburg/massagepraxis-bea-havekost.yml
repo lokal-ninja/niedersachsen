@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 52.434959500000005
 longitude: 10.8631399
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "Heinrichswinkel"
 housenumber: 7

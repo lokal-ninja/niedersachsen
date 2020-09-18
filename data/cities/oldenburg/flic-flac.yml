@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.139368000000005
 longitude: 8.2117545
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Gaststraße"
 housenumber: 13

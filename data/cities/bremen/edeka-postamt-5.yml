@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.081651300000004
 longitude: 8.816019800000001
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "An der Weide"
 housenumber: 50a

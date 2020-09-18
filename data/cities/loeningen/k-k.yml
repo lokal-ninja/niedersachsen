@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7327931
 longitude: 7.756445500000001
-postcode: 49624
+postcode: "49624"
 city: Löningen
 street: "Angelbecker Straße"
 housenumber: 4

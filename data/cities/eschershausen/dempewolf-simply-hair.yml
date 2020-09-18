@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.927164100000006
 longitude: 9.638161100000001
-postcode: 37632
+postcode: "37632"
 city: Eschershausen
 street: "Steinweg"
 housenumber: 23

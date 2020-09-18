@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.060492200000006
 longitude: 9.016701900000001
-postcode: 28876
+postcode: "28876"
 city: Oyten
 street: "Lindenstraße"
 housenumber: 5

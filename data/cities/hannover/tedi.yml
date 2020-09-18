@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 52.3243646
 longitude: 9.7809294
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 422

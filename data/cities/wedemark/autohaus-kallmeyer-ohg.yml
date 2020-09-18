@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.562457300000005
 longitude: 9.7247774
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Schwarmstedter Straße"
 housenumber: 3

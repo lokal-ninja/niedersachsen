@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.2484849
 longitude: 10.5837863
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "Kaulenbusch"
 housenumber: 1

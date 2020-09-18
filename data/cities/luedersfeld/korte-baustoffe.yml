@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.3620109
 longitude: 9.2382171
-postcode: 31702
+postcode: "31702"
 city: Lüdersfeld
 street: "Schachtstraße"
 housenumber: 4

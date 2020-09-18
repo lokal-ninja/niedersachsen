@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2738102
 longitude: 10.539502
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Gliesmaroder Straße"
 housenumber: 107

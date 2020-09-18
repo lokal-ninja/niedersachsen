@@ -3,7 +3,7 @@ type: way
 shop: Bioladen
 latitude: 52.86332530000001
 longitude: 9.587248
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Bergstraße"
 housenumber: 3

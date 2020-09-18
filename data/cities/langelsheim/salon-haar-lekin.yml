@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.935520200000006
 longitude: 10.335106300000001
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Ringstraße"
 housenumber: 10

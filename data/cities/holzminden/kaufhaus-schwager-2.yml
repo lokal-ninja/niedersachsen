@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.828040200000004
 longitude: 9.4501492
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Neue Straße"
 housenumber: 2

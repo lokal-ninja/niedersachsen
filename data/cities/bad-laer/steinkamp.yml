@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 52.1016702
 longitude: 8.089460800000001
-postcode: 49196
+postcode: "49196"
 city: Bad Laer
 street: "Bielefelder Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.28075380000001
 longitude: 9.705682300000001
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Unter den Linden"
 housenumber: 31

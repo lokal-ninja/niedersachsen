@@ -1,12 +1,12 @@
-id: 5462688499
+id: 6480438910
 type: node
 shop: Supermarkt
-latitude: 53.0728463
-longitude: 8.827109700000001
-postcode: 28203
+latitude: 53.0818261
+longitude: 8.812483700000001
+postcode: "28195"
 city: Bremen
-street: "Vor dem Steintor"
-housenumber: 74
-phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
+street: "Bahnhofsplatz"
+housenumber: 42
+phone: "+49 421 84919860"
+opening_hours: "Mo-Fr 06:00-00:00; Sa 06:00-23:30"
 website: ""

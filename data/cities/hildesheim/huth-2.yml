@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.160726000000004
 longitude: 9.9425608
-postcode: 31137
+postcode: "31137"
 city: Hildesheim
 street: "Cheruskerring"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 52.8376268
 longitude: 8.075690400000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Philipp-Reis-Straße"
 housenumber: 11

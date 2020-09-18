@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.1322915
 longitude: 7.7343877
-postcode: 26676
+postcode: "26676"
 city: Barßel
 street: "Oldenburger Straße"
 housenumber: 46

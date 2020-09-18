@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.6946121
 longitude: 7.294046300000001
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Bahnhofstraße"
 housenumber: 10

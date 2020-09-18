@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2702754
 longitude: 10.5403351
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Heinrichstraße"
 housenumber: 34

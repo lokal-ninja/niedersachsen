@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.3228342
 longitude: 10.488087
-postcode: 38110
+postcode: "38110"
 city: Braunschweig
 street: "Waller See"
 housenumber: 102

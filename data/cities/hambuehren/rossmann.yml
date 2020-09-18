@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.63337670000001
 longitude: 9.977957
-postcode: 29313
+postcode: "29313"
 city: Hambühren
 street: "Hehlenbruchweg"
 housenumber: 5

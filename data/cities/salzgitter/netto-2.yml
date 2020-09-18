@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.173236300000006
 longitude: 10.3298289
-postcode: 38226
+postcode: "38226"
 city: Salzgitter
 street: "Wildkamp"
 housenumber: 119

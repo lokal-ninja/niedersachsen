@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 52.8553336
 longitude: 7.6821511000000005
-postcode: 49757
+postcode: "49757"
 city: Werlte
 street: "Kirchstraße"
 housenumber: 27a

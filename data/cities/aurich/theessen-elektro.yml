@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.466722600000004
 longitude: 7.486103000000001
-postcode: 26603
+postcode: "26603"
 city: Aurich
 street: "Leerer Landstraße"
 housenumber: 16

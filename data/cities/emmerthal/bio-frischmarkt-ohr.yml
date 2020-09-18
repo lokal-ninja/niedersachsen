@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.06166270000001
 longitude: 9.3551444
-postcode: 31860
+postcode: "31860"
 city: Emmerthal
 street: "Rittergut Ohr"
 housenumber: 

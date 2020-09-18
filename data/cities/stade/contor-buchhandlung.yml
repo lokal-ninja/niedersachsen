@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 53.6011285
 longitude: 9.4761746
-postcode: 21682
+postcode: "21682"
 city: Stade
 street: "Hökerstraße"
 housenumber: 4
-phone: "+49 4141 46286"
+phone: ""
 opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-15:00"
-website: "https://buchhandlungcontor.de/"
+website: ""

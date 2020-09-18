@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5475575
 longitude: 9.958247700000001
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Nonnenstieg"
 housenumber: 51

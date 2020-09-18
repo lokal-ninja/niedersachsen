@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.9373803
 longitude: 10.4229265
-postcode: 38644
+postcode: "38644"
 city: Goslar
 street: "Magdeburger Kamp"
 housenumber: 14

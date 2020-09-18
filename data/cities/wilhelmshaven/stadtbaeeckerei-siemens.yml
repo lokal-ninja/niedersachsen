@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5258048
 longitude: 8.130345100000001
-postcode: 26384
+postcode: "26384"
 city: Wilhelmshaven
 street: "Bismarckstraße"
 housenumber: 41

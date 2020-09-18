@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.114150300000006
 longitude: 9.052594500000001
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: "Landstraße"
 housenumber: 27

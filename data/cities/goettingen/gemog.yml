@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.5337467
 longitude: 9.937174200000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Barfüßerstraße"
 housenumber: 

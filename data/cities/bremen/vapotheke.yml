@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 53.065594000000004
 longitude: 8.877277600000001
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Hastedter Heerstraße"
 housenumber: 369

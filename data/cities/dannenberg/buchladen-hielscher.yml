@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.09896560000001
 longitude: 11.0958375
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Am Markt"
 housenumber: 13

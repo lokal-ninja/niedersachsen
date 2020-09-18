@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.103121900000005
 longitude: 8.7890555
-postcode: 28219
+postcode: "28219"
 city: Bremen
 street: "Osterfeuerberger Ring"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.846516300000005
 longitude: 8.0429478
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Mühlenstraße"
 housenumber: 18

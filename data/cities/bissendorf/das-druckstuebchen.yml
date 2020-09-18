@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.235385900000004
 longitude: 8.1682796
-postcode: 49143
+postcode: "49143"
 city: Bissendorf
 street: "Osnabrücker Straße"
 housenumber: 1

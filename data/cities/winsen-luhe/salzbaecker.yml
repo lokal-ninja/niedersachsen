@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.3236075
 longitude: 10.1449779
-postcode: 21423
+postcode: "21423"
 city: Winsen (Luhe)
 street: "Blumenstraße"
 housenumber: 

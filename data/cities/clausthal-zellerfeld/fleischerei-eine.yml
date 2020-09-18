@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.8052343
 longitude: 10.3340627
-postcode: 38678
+postcode: "38678"
 city: Clausthal-Zellerfeld
 street: "Adolph-Roemer-Straße"
 housenumber: 11

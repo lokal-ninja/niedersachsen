@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.178731400000004
 longitude: 7.995683700000001
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Reihdamm"
 housenumber: 35

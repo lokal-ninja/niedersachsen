@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.267991200000004
 longitude: 8.0992656
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Mindener Straße"
 housenumber: 230

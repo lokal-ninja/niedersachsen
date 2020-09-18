@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.419450600000005
 longitude: 9.7980345
-postcode: 30659
+postcode: "30659"
 city: Hannover
 street: "Burgwedeler Straße"
 housenumber: 7-8

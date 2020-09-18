@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.7345368
 longitude: 8.278256200000001
-postcode: 49377
+postcode: "49377"
 city: Vechta
 street: "Falkenrotter Straße"
 housenumber: 74

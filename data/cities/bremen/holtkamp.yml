@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.047954100000005
 longitude: 8.891699800000001
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Marschstraße"
 housenumber: 2

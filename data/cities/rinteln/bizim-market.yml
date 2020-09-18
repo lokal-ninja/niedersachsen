@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1686126
 longitude: 9.067103600000001
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Braasstraße"
 housenumber: 2a

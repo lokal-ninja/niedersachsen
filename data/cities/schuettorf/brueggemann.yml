@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.320961700000005
 longitude: 7.2227437000000005
-postcode: 48465
+postcode: "48465"
 city: Schüttorf
 street: "Steinstraße"
 housenumber: 4

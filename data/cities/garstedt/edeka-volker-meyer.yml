@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.293517300000005
 longitude: 10.1435065
-postcode: 21441
+postcode: "21441"
 city: Garstedt
 street: "Bahnhofstraße"
 housenumber: 79

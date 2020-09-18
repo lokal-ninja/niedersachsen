@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 51.5540559
 longitude: 9.8850859
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Willi-Eichler-Straße"
 housenumber: 34
-phone: "+49 561 5000 0"
+phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.mercedes-benz-efautocenter-kassel.de/"
+website: ""

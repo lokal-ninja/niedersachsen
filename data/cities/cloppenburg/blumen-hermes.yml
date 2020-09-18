@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.8405252
 longitude: 8.027941700000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Kirchhofstraße"
 housenumber: 47

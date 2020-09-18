@@ -3,7 +3,7 @@ type: way
 shop: Solarium
 latitude: 52.4855432
 longitude: 10.5481735
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Michael-Clare-Straße"
 housenumber: 3

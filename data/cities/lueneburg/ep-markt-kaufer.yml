@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.2467096
 longitude: 10.4133045
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Am Wasserturm"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.005543700000004
 longitude: 8.7813044
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Studtriede"
 housenumber: 79

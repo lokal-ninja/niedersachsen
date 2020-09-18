@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.074676200000006
 longitude: 7.6905637
-postcode: 26683
+postcode: "26683"
 city: Saterland
 street: "Zur Ziegelei"
 housenumber: 16

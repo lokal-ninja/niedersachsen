@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.513837800000005
 longitude: 9.955023
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Hauptstraße"
 housenumber: 46

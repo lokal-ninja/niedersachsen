@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6863259
 longitude: 8.0059621
-postcode: 26434
+postcode: "26434"
 city: Wangerland
 street: "Andelweg"
 housenumber: 1

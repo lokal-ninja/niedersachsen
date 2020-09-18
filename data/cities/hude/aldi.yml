@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.10546780000001
 longitude: 8.4714571
-postcode: 27798
+postcode: "27798"
 city: Hude
 street: "Langenberger Straße"
 housenumber: 2

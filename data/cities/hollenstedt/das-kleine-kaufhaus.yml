@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.366775000000004
 longitude: 9.7150861
-postcode: 21279
+postcode: "21279"
 city: Hollenstedt
 street: "Hauptstraße"
 housenumber: 3

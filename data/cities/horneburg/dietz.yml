@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.504306400000004
 longitude: 9.5908552
-postcode: 21640
+postcode: "21640"
 city: Horneburg
 street: "Am Poggenpohl"
 housenumber: 2

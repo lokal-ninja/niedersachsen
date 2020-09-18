@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.0811499
 longitude: 9.995177100000001
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Soltauer Straße"
 housenumber: 1

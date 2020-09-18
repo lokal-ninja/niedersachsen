@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.217928900000004
 longitude: 10.644330400000001
-postcode: 38173
+postcode: "38173"
 city: Sickte
 street: "Schöninger Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.003655
 longitude: 9.6934657
-postcode: 31089
+postcode: "31089"
 city: Duingen
 street: "Triftstraße"
 housenumber: 16

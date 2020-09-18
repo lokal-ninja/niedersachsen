@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2748305
 longitude: 8.0102294
-postcode: 49078
+postcode: "49078"
 city: Osnabrück
 street: "Rheiner Landstraße"
 housenumber: 98

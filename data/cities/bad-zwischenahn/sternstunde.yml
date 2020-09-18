@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 53.220405500000005
 longitude: 8.016355800000001
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Stiller Bogen"
 housenumber: 20

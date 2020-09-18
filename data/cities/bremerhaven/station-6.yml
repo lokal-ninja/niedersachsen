@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.547522900000004
 longitude: 8.575536000000001
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Lloydstraße"
 housenumber: 35

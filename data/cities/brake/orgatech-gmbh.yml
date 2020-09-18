@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.3262337
 longitude: 8.4774261
-postcode: 26919
+postcode: "26919"
 city: Brake
 street: "Breite Straße"
 housenumber: 73

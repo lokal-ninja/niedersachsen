@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.170428300000005
 longitude: 8.196430300000001
-postcode: 26127
+postcode: "26127"
 city: Oldenburg
 street: "Alexanderstraße"
 housenumber: 342

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.218467200000006
 longitude: 7.7616516
-postcode: 26689
+postcode: "26689"
 city: Apen
 street: "Stahlwerkstraße"
 housenumber: 15

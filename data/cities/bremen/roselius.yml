@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 53.094422800000004
 longitude: 8.807934300000001
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Hemmstraße"
 housenumber: 185

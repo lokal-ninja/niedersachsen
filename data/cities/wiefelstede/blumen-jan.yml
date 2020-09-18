@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.2491551
 longitude: 8.123414
-postcode: 26215
+postcode: "26215"
 city: Wiefelstede
 street: "Hauptstraße"
 housenumber: 52

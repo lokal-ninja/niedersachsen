@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.3381461
 longitude: 10.2390623
-postcode: 31228
+postcode: "31228"
 city: Peine
 street: "Dieselstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.2744797
 longitude: 9.563948700000001
-postcode: 30974
+postcode: "30974"
 city: Wennigsen (Deister)
 street: "Hauptstraße"
 housenumber: 59

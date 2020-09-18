@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.823205900000005
 longitude: 8.6660574
-postcode: 27478
+postcode: "27478"
 city: Cuxhaven
 street: "Hauptstraße"
 housenumber: 48

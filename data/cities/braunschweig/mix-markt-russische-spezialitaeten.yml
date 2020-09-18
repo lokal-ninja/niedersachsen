@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.242395300000005
 longitude: 10.4804539
-postcode: 38120
+postcode: "38120"
 city: Braunschweig
 street: "Illerstraße"
 housenumber: 62

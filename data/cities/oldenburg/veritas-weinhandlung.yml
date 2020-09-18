@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.1335132
 longitude: 8.1989342
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Hauptstraße"
 housenumber: 30

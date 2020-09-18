@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.843572200000004
 longitude: 7.516041400000001
-postcode: 49751
+postcode: "49751"
 city: Sögel
 street: "Wahner Straße"
 housenumber: 19

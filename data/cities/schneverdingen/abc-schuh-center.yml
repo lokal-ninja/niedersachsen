@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.1199054
 longitude: 9.783646800000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Marktstraße"
 housenumber: 8c

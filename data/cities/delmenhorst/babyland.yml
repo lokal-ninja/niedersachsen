@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 53.022551400000005
 longitude: 8.6457008
-postcode: 27755
+postcode: "27755"
 city: Delmenhorst
 street: "Annenheider Straße"
 housenumber: 221

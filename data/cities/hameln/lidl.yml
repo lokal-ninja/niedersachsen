@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.0989073
 longitude: 9.361955400000001
-postcode: 
+postcode: ""
 city: Hameln
 street: "Hafenstraße"
 housenumber: 30
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

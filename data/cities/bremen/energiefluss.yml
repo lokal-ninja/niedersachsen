@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 53.1323536
 longitude: 8.7362493
-postcode: 28239
+postcode: "28239"
 city: Bremen
 street: "Oslebshauser Landstraße"
 housenumber: 18

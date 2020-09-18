@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.0829686
 longitude: 7.386559500000001
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Am Stadtpark"
 housenumber: 45

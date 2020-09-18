@@ -3,10 +3,10 @@ type: way
 shop: Sport
 latitude: 52.484276200000004
 longitude: 10.547462300000001
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Steinweg"
 housenumber: 55
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:30"
 website: ""

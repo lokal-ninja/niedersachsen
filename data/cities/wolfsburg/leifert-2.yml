@@ -1,12 +1,12 @@
-id: 1447797482
+id: 1133513240
 type: node
 shop: Bäckerei
-latitude: 52.393749500000006
-longitude: 10.7541948
-postcode: 38444
+latitude: 52.393988
+longitude: 10.714377
+postcode: "38442"
 city: Wolfsburg
-street: "Detmeroder Markt"
-housenumber: 7
-phone: "+49 5361 76949"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-15:00; Su 08:00-17:00"
+street: "Mörser Straße"
+housenumber: 67
+phone: ""
+opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-14:00, Su 07:00-10:00; PH off"
 website: "https://www.leifert.de/"

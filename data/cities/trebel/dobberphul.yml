@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.992133
 longitude: 11.308667300000002
-postcode: 29494
+postcode: "29494"
 city: Trebel
 street: "Hauptstraße"
 housenumber: 25

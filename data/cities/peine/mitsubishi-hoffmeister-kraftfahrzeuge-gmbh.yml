@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.318225600000005
 longitude: 10.2152118
-postcode: 31226
+postcode: "31226"
 city: Peine
 street: "Horst"
 housenumber: 5

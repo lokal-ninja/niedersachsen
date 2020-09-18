@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 52.7822016
 longitude: 8.431707900000001
-postcode: 49424
+postcode: "49424"
 city: Goldenstedt
 street: "Barnstorfer Straße"
 housenumber: 3

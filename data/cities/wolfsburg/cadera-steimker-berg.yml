@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4158374
 longitude: 10.8059446
-postcode: 38446
+postcode: "38446"
 city: Wolfsburg
 street: "Alte Landstraße"
 housenumber: 31

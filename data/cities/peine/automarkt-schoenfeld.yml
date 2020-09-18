@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.312569
 longitude: 10.210659000000001
-postcode: 31226
+postcode: "31226"
 city: Peine
 street: "Werner-Nordmeyer-Straße"
 housenumber: 31

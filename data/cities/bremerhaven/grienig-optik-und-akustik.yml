@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.590080300000004
 longitude: 8.598602900000001
-postcode: 27578
+postcode: "27578"
 city: Bremerhaven
 street: "Debstedter Weg"
 housenumber: 8

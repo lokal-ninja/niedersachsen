@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.0349493
 longitude: 8.828033600000001
-postcode: 28277
+postcode: "28277"
 city: Bremen
 street: "Gorsemannstraße"
 housenumber: 1

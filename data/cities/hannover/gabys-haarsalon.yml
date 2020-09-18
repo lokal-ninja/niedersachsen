@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.374990100000005
 longitude: 9.7944916
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Spilckerstraße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo 09:00-18:30; Tu-Fr 08:00-18:30; Sa 08:00-14:00"
 website: ""

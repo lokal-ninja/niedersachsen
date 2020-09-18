@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 52.6182345
 longitude: 8.378748400000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Stauffenbergstraße"
 housenumber: 1

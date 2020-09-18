@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8134704
 longitude: 9.878220500000001
-postcode: 37574
+postcode: "37574"
 city: Einbeck
 street: "Altendorfer Tor"
 housenumber: 24

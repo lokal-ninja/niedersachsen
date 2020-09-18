@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.54758270000001
 longitude: 9.906439800000001
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Stresemannstraße"
 housenumber: 26

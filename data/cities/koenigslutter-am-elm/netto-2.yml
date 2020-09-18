@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.25526
 longitude: 10.8153938
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Bahnhofstraße"
 housenumber: 27 b

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.080091900000006
 longitude: 7.392517700000001
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Hauptkanal links"
 housenumber: 56

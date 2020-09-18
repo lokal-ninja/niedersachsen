@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2511567
 longitude: 10.428051400000001
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "Bleckeder Landstraße"
 housenumber: 43

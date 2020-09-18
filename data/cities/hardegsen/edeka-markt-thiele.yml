@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6524665
 longitude: 9.830622100000001
-postcode: 37181
+postcode: "37181"
 city: Hardegsen
 street: "Vor dem Tore"
 housenumber: 6

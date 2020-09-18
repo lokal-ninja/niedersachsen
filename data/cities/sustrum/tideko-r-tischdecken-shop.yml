@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 52.8989315
 longitude: 7.169959400000001
-postcode: 49762
+postcode: "49762"
 city: Sustrum
 street: "Lindenstraße"
 housenumber: 11

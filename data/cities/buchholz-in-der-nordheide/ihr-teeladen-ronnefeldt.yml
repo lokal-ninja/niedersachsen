@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 53.3263879
 longitude: 9.879775500000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Lindenstraße"
 housenumber: 13

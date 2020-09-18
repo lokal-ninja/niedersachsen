@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.937028500000004
 longitude: 10.3353281
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Meisterstraße"
 housenumber: 13

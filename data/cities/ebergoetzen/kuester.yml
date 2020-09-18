@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.572430000000004
 longitude: 10.1161249
-postcode: 37136
+postcode: "37136"
 city: Ebergötzen
 street: "Am Böckelern"
 housenumber: 1

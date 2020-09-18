@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.542148600000004
 longitude: 8.5749172
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Am Längengrad"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.079952500000005
 longitude: 8.8090577
-postcode: 
+postcode: ""
 city: Bremen
 street: "Loriotplatz"
 housenumber: 1

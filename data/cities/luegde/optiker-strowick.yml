@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.9594735
 longitude: 9.2460644
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Mittlere Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.98425
 longitude: 9.807960000000001
-postcode: 31061
+postcode: "31061"
 city: Alfeld (Leine)
 street: ""
 housenumber: 

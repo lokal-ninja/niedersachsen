@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.073022
 longitude: 8.8219229
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Bauernstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5460106
 longitude: 8.5938797
-postcode: 27570
+postcode: "27570"
 city: Bremerhaven
 street: "Elbestraße"
 housenumber: 124

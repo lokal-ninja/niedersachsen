@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 52.4782554
 longitude: 10.5527212
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Calberlaher Damm"
 housenumber: 24

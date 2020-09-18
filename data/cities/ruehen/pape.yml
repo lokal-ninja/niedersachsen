@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.4886034
 longitude: 10.8846234
-postcode: 38471
+postcode: "38471"
 city: Rühen
 street: "Hauptstraße"
 housenumber: 34

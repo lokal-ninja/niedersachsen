@@ -3,7 +3,7 @@ type: way
 shop: Tee
 latitude: 53.698942300000006
 longitude: 7.695284000000001
-postcode: 26427
+postcode: "26427"
 city: Neuharlingersiel
 street: "Nordseestraße"
 housenumber: 2

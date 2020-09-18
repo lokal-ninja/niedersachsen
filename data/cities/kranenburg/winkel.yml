@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.6076454
 longitude: 9.2052375
-postcode: 21726
+postcode: "21726"
 city: Kranenburg
 street: "Am Brink"
 housenumber: 15

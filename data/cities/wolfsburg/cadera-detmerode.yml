@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3932664
 longitude: 10.7541782
-postcode: 38444
+postcode: "38444"
 city: Wolfsburg
 street: "Detmeroder Markt"
 housenumber: 9

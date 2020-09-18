@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.4700889
 longitude: 9.901044800000001
-postcode: 30916
+postcode: "30916"
 city: Isernhagen
 street: "Rothenfeld"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.0810174
 longitude: 8.814124600000001
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Bahnhofsplatz"
 housenumber: 22

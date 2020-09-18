@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.34481
 longitude: 10.347499000000001
-postcode: 21447
+postcode: "21447"
 city: Handorf
 street: "Schmiedekoppelweg"
 housenumber: 1

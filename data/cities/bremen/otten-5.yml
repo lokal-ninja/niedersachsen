@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.089448600000004
 longitude: 8.8430909
-postcode: 28213
+postcode: "28213"
 city: Bremen
 street: "H.-H.-Meier-Allee"
 housenumber: 8

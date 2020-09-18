@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 53.1204545
 longitude: 8.2163159
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Cloppenburger Straße"
 housenumber: 182

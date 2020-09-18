@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.6408787
 longitude: 10.2303178
-postcode: 37197
+postcode: "37197"
 city: Hattorf am Harz
 street: "Rotenbergstraße"
 housenumber: 40

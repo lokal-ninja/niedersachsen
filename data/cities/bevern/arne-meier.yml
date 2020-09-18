@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.856031200000004
 longitude: 9.4937137
-postcode: 37639
+postcode: "37639"
 city: Bevern
 street: "Holzmindener Straße"
 housenumber: 5

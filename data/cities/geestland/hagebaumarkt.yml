@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.596393400000004
 longitude: 8.6007888
-postcode: 27607
+postcode: "27607"
 city: Geestland
 street: "Leher Landstraße"
 housenumber: 98

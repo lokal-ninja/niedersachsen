@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.85305880000001
 longitude: 9.6912657
-postcode: 29683
+postcode: "29683"
 city: Bad Fallingbostel
 street: "Robert-Koch-Straße"
 housenumber: 4

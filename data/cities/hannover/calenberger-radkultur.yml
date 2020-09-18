@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.370102900000006
 longitude: 9.7273168
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Calenberger Straße"
 housenumber: 25

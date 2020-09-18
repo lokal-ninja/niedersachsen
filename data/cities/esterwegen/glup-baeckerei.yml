@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.992008500000004
 longitude: 7.628778400000001
-postcode: 26897
+postcode: "26897"
 city: Esterwegen
 street: "Poststraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 53.032143700000006
 longitude: 8.661958400000001
-postcode: 27751
+postcode: "27751"
 city: Delmenhorst
 street: "Annenheider Allee"
 housenumber: 114

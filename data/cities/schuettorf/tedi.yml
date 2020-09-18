@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.3189713
 longitude: 7.2269521
-postcode: 48465
+postcode: "48465"
 city: Schüttorf
 street: "Graf-Egbert-Straße"
 housenumber: 19

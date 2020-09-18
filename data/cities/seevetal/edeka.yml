@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3438571
 longitude: 10.0291501
-postcode: 21220
+postcode: "21220"
 city: Seevetal
 street: "Ohlendorfer Straße"
 housenumber: 3

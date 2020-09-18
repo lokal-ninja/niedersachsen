@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.2348234
 longitude: 7.448136300000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Hajo-Unken-Straße"
 housenumber: 56

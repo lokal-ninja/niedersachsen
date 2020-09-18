@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.101417600000005
 longitude: 9.3559829
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Bäckerstraße"
 housenumber: 35

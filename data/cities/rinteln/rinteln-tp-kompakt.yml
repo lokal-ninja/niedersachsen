@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.1955868
 longitude: 9.0710353
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Stoevesandtstraße"
 housenumber: 26

@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 51.7062924
 longitude: 9.9985128
-postcode: 
+postcode: "37154"
 city: Northeim
 street: "Grafenhof"
 housenumber: 1-5
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00; Su off; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.5717444
 longitude: 7.7834421
-postcode: 26409
+postcode: "26409"
 city: Wittmund
 street: "Isumser Straße"
 housenumber: 9

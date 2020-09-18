@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2029045
 longitude: 8.3402832
-postcode: 
+postcode: ""
 city: Melle
 street: "Dürrenberger Ring"
 housenumber: 16

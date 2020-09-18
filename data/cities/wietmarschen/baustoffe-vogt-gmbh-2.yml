@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.4861346
 longitude: 7.2174252
-postcode: 49835
+postcode: "49835"
 city: Wietmarschen
 street: "Borsigstraße"
 housenumber: 2

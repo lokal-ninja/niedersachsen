@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3218893
 longitude: 9.1078306
-postcode: 31693
+postcode: "31693"
 city: Hespe
 street: "Hesper Straße"
 housenumber: 29

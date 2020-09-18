@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 52.409463800000005
 longitude: 9.800530700000001
-postcode: 30659
+postcode: "30659"
 city: Hannover
 street: "Adolf-Emmelmann-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.5865425
 longitude: 9.9293204
-postcode: 37120
+postcode: "37120"
 city: Bovenden
 street: "Rathausplatz"
 housenumber: 22a

@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 52.5767309
 longitude: 10.089172600000001
-postcode: 29227
+postcode: "29227"
 city: Celle
 street: "Bennebostel"
 housenumber: 2

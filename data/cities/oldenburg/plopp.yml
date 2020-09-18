@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.130066400000004
 longitude: 8.180070200000001
-postcode: 
+postcode: ""
 city: Oldenburg
 street: "Edewechter Landstraße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.0124538
 longitude: 10.1315256
-postcode: 31167
+postcode: "31167"
 city: Bockenem
 street: "Jägerhausstraße"
 housenumber: 3

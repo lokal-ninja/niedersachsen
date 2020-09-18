@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.9073988
 longitude: 8.587938600000001
-postcode: 27243
+postcode: "27243"
 city: Harpstedt
 street: "Lange Straße"
 housenumber: 24

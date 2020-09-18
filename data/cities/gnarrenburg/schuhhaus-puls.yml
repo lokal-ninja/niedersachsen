@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.376644000000006
 longitude: 9.0062786
-postcode: 27442
+postcode: "27442"
 city: Gnarrenburg
 street: "Hindenburgstraße"
 housenumber: 19

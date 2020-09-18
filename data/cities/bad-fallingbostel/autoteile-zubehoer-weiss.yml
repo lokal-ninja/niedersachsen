@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 52.8996037
 longitude: 9.7572182
-postcode: 29683
+postcode: "29683"
 city: Bad Fallingbostel
 street: "Am Steinkamp"
 housenumber: 3

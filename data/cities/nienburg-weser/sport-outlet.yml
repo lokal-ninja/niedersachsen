@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.644254000000004
 longitude: 9.2089123
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Verdener Straße"
 housenumber: 16

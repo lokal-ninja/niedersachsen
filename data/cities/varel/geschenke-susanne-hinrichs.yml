@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 53.3950758
 longitude: 8.1407173
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Obernstraße"
 housenumber: 12

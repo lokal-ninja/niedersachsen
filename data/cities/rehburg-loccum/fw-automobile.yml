@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.4562801
 longitude: 9.1503808
-postcode: 31547
+postcode: "31547"
 city: Rehburg-Loccum
 street: "Leeser Straße"
 housenumber: 13

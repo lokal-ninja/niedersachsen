@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1507535
 longitude: 8.237169
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Wehdestraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.2143857
 longitude: 8.0211286
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Dreiberger Straße"
 housenumber: 8

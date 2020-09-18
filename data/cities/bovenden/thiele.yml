@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.5876341
 longitude: 9.9266153
-postcode: 37120
+postcode: "37120"
 city: Bovenden
 street: "Göttinger Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.3537899
 longitude: 9.4020852
-postcode: 31555
+postcode: "31555"
 city: Suthfeld
 street: "Auf der Riehe"
 housenumber: 9

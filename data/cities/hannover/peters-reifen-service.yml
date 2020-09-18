@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.363409600000004
 longitude: 9.694332300000001
-postcode: 30453
+postcode: "30453"
 city: Hannover
 street: "Bauweg"
 housenumber: 28

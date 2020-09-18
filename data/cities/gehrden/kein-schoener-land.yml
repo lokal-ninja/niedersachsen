@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 52.311060100000006
 longitude: 9.6007484
-postcode: 30989
+postcode: "30989"
 city: Gehrden
 street: "Dammstraße"
 housenumber: 19
-phone: "+49 163 6718991"
-opening_hours: "Tu,We,Th,Fr,Sa 9:30-13:00, Th,Fr 15:00-18:00"
-website: ""
+phone: "+49 5108 8793102"
+opening_hours: "Tu-Sa 9:30-13:00, Th,Fr 15:00-18:00; Su, Mo off"
+website: "https://www.keinschönerland.de"

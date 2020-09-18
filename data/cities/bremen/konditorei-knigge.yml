@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.077898600000005
 longitude: 8.807727400000001
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Sögestraße"
 housenumber: 42-44

@@ -3,10 +3,10 @@ type: way
 shop: Radiotechnik
 latitude: 53.1506959
 longitude: 8.216519
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Nadorster Straße"
 housenumber: 49
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:30-12:30"
 website: ""

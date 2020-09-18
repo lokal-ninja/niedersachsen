@@ -3,7 +3,7 @@ type: node
 shop: Beschriftungen
 latitude: 52.2758556
 longitude: 8.0410644
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Dielingerstraße"
 housenumber: 8

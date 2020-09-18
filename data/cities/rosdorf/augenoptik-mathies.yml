@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5092884
 longitude: 9.9096153
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Rischenweg"
 housenumber: 7

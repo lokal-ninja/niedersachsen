@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 51.6285437
 longitude: 9.9370294
-postcode: 37176
+postcode: "37176"
 city: Nörten-Hardenberg
 street: "Göttinger Straße"
-housenumber: 16
+housenumber: 15-16
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

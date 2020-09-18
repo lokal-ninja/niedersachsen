@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.700459900000006
 longitude: 7.273960700000001
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Krokusstraße"
 housenumber: 1

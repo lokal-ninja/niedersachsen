@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 53.0764416
 longitude: 8.8058636
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Kleine Waagestraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.532332100000005
 longitude: 9.935265300000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kornmarkt"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.446265800000006
 longitude: 9.6061487
-postcode: 30827
+postcode: "30827"
 city: Garbsen
 street: "Im Rehwinkel"
 housenumber: 5

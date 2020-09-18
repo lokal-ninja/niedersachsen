@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.062681700000006
 longitude: 8.8764006
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Alter Postweg"
 housenumber: 215

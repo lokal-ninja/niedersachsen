@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.0997247
 longitude: 8.8069781
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Utbremer Ring"
 housenumber: 158

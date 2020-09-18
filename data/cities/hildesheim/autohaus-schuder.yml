@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1701819
 longitude: 9.934806
-postcode: 31137
+postcode: "31137"
 city: Hildesheim
 street: "Steuerwalder Straße"
 housenumber: 161

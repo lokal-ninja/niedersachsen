@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.463094000000005
 longitude: 10.720187000000001
-postcode: 38554
+postcode: "38554"
 city: Weyhausen
 street: "Laischeweg"
 housenumber: 2

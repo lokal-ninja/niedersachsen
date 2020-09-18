@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.37718580000001
 longitude: 7.1886849
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Clara-Schumann-Straße"
 housenumber: 26

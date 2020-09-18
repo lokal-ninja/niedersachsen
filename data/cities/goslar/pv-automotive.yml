@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.9243061
 longitude: 10.4199804
-postcode: 38644
+postcode: "38644"
 city: Goslar
 street: "Bornhardtstraße"
 housenumber: 12

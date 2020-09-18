@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5421927
 longitude: 9.8830282
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Hans-Böckler-Straße"
 housenumber: 29

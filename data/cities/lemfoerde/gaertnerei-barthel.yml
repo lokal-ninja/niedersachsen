@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.4673887
 longitude: 8.3784565
-postcode: 49448
+postcode: "49448"
 city: Lemförde
 street: "Kochstraße"
 housenumber: 8

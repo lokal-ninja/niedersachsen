@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.217325100000004
 longitude: 10.528257700000001
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Senefelderstraße"
 housenumber: 5

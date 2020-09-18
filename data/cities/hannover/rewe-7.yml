@@ -1,12 +1,12 @@
-id: 5692546624
+id: 3071789950
 type: node
 shop: Supermarkt
-latitude: 52.3305408
-longitude: 9.787903700000001
-postcode: 30519
+latitude: 52.3767828
+longitude: 9.6931639
+postcode: "30453"
 city: Hannover
-street: "Karlsruher Straße"
-housenumber: 2
-phone: "+49 511 87654741"
-opening_hours: "Mo-Sa 07:00-21:30"
+street: "Wunstorfer Straße"
+housenumber: 26
+phone: ""
+opening_hours: "Mo-Sa 07:00-23:00"
 website: ""

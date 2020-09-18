@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.301722700000006
 longitude: 7.158557900000001
-postcode: 48455
+postcode: "48455"
 city: Bad Bentheim
 street: "Am Bismarckplatz"
 housenumber: 1a

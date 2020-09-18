@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.40624510000001
 longitude: 8.0545568
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Im Eikrode"
 housenumber: 10

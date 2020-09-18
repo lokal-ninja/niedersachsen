@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.41772460000001
 longitude: 9.7655159
-postcode: 30179
+postcode: "30179"
 city: Hannover
 street: "Holzwiesen"
 housenumber: 86
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 511 6046265"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.rewe.de/marktseite/hannover/540840/rewe-markt-holzwiesen-86/"

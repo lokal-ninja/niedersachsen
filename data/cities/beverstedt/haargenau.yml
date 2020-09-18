@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.4352151
 longitude: 8.8203751
-postcode: 27616
+postcode: "27616"
 city: Beverstedt
 street: "Poststraße"
 housenumber: 8

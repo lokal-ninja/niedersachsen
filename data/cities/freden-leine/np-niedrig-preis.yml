@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.930495900000004
 longitude: 9.899677800000001
-postcode: 31084
+postcode: "31084"
 city: Freden (Leine)
 street: "Alfelder Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 52.6068161
 longitude: 10.1001721
-postcode: 29227
+postcode: "29227"
 city: Celle
 street: "Altenceller Schneede"
 housenumber: 7

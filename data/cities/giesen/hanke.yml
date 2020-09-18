@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.196380000000005
 longitude: 9.8956481
-postcode: 31180
+postcode: "31180"
 city: Giesen
 street: "Rathausstraße"
 housenumber: 

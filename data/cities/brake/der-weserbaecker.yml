@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.3118774
 longitude: 8.4820201
-postcode: 26919
+postcode: "26919"
 city: Brake
 street: "Kirchenstraße"
 housenumber: 128A

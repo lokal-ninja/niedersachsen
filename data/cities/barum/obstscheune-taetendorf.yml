@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 53.046866400000006
 longitude: 10.53772
-postcode: 29576
+postcode: "29576"
 city: Barum
 street: "Uelzener Chaussee"
 housenumber: 4

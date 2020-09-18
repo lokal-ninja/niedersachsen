@@ -1,4 +1,4 @@
 ---
-title: "Edeka-Neukauf"
+title: "Edeka Neukauf"
 url: /lehre/edeka-neukauf/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.0350875
 longitude: 8.5440061
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Wittekindstraße"
 housenumber: 10

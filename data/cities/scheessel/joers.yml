@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.1657869
 longitude: 9.4798948
-postcode: 27383
+postcode: "27383"
 city: Scheeßel
 street: "Peterstraße"
 housenumber: 9

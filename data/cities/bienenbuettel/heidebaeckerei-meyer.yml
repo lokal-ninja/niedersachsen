@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.140705000000004
 longitude: 10.4875585
-postcode: 29553
+postcode: "29553"
 city: Bienenbüttel
 street: "Ladestraße"
 housenumber: 9

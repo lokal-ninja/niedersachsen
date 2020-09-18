@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.222673
 longitude: 9.075847000000001
-postcode: 27412
+postcode: "27412"
 city: Tarmstedt
 street: "Bremer Landstraße"
 housenumber: 4

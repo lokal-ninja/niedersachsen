@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.834821600000005
 longitude: 10.0896468
-postcode: 29320
+postcode: "29320"
 city: Südheide
 street: "Billingstraße"
 housenumber: 21

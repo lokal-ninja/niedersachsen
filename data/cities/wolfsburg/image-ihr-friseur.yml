@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4466473
 longitude: 10.7810871
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "Jembker Straße"
 housenumber: 1

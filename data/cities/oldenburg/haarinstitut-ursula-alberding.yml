@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.162845000000004
 longitude: 8.252262100000001
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "August-Hanken-Straße"
 housenumber: 7

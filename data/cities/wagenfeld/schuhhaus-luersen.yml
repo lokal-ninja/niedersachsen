@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.548796
 longitude: 8.588234
-postcode: 49419
+postcode: "49419"
 city: Wagenfeld
 street: "Hauptstraße"
 housenumber: 46

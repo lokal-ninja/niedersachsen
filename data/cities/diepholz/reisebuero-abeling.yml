@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 52.605659100000004
 longitude: 8.370907
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Lange Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.066779600000004
 longitude: 9.5859618
-postcode: 31020
+postcode: "31020"
 city: Salzhemmendorf
 street: "Hauptstraße"
 housenumber: 6

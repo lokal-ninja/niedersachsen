@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.485195000000004
 longitude: 10.1021026
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Steindamm"
 housenumber: 26

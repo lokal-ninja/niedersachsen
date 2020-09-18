@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2876424
 longitude: 8.0252268
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Natruper Straße"
 housenumber: 

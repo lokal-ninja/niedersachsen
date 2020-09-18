@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 52.5580414
 longitude: 9.140372900000001
-postcode: 31628
+postcode: "31628"
 city: Landesbergen
 street: "Brokeloher Straße"
 housenumber: 8 - 12

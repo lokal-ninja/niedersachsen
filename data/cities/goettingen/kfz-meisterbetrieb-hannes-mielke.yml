@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.554673400000006
 longitude: 9.9334941
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Rudolf-Diesel-Straße"
 housenumber: 14

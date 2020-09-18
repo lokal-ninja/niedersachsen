@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.6121695
 longitude: 6.8536583
-postcode: 49824
+postcode: "49824"
 city: Emlichheim
 street: "Mühlenstraße"
 housenumber: 20

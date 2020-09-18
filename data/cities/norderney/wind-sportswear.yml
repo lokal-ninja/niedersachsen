@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.708288200000005
 longitude: 7.1442258
-postcode: 26548
+postcode: "26548"
 city: Norderney
 street: "Friedrichstraße"
 housenumber: 23

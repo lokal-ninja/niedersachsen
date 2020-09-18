@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0282678
 longitude: 8.631889000000001
-postcode: 27755
+postcode: "27755"
 city: Delmenhorst
 street: "Jägerstraße"
 housenumber: 68

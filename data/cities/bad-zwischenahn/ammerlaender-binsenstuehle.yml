@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.171494300000006
 longitude: 8.154129900000001
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "August-Hinrichs-Straße"
 housenumber: 31

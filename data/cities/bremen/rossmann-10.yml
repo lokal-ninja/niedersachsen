@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.047679200000005
 longitude: 8.7415904
-postcode: 28259
+postcode: "28259"
 city: Bremen
 street: "Alter Dorfweg"
 housenumber: 30-50

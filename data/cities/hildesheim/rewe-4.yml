@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1474416
 longitude: 9.9628374
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Gravelottestraße"
 housenumber: 1

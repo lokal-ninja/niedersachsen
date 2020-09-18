@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.2632818
 longitude: 8.006538200000001
-postcode: 49078
+postcode: "49078"
 city: Osnabrück
 street: "Kurt-Schumacher-Damm"
 housenumber: 61

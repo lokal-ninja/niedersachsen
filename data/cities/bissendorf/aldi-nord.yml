@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2621295
 longitude: 8.2110977
-postcode: 49143
+postcode: "49143"
 city: Bissendorf
 street: "Mindener Straße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.271828500000005
 longitude: 8.045378900000001
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Neuer Graben"
 housenumber: 27

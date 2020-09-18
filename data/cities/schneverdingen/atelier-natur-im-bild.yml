@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.113548300000005
 longitude: 9.793104600000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Bahnhofstraße"
 housenumber: 26

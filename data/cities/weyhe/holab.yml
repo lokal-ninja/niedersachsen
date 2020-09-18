@@ -1,12 +1,12 @@
-id: 117771215
-type: way
+id: 1459107331
+type: node
 shop: Getränke
-latitude: 52.980392
-longitude: 8.8507788
-postcode: 28844
+latitude: 52.986103500000006
+longitude: 8.7855691
+postcode: "28844"
 city: Weyhe
-street: "Handelsweg"
-housenumber: 3
-phone: ""
-opening_hours: ""
+street: "Seckenhauser Straße"
+housenumber: 1
+phone: "+49 421 8090088"
+opening_hours: "Mo-Sa 08:00-19:00"
 website: ""

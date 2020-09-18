@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6170704
 longitude: 8.596582900000001
-postcode: 27607
+postcode: "27607"
 city: Geestland
 street: "Schmidtkuhlsweg"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.04602800000001
 longitude: 8.8944387
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Hemelinger Heerstraße"
 housenumber: 

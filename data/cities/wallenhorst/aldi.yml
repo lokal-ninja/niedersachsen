@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3340199
 longitude: 8.0250135
-postcode: 49134
+postcode: "49134"
 city: Wallenhorst
 street: "Osnabrücker Straße"
 housenumber: 13

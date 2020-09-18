@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.171046200000006
 longitude: 9.6521509
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Lange Straße"
 housenumber: 2

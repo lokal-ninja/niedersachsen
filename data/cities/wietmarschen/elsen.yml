@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.490435500000004
 longitude: 7.226763500000001
-postcode: 49835
+postcode: "49835"
 city: Wietmarschen
 street: "Lohner Straße"
 housenumber: 1

@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 53.66028300000001
 longitude: 7.718884200000001
-postcode: 26427
+postcode: "26427"
 city: Werdum
 street: "Edenserlooger Straße"
 housenumber: 13
 phone: "+49 4974 656"
-opening_hours: ""
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:30; Su 07:30-18:00"
 website: "http://www.cafepost.de/"

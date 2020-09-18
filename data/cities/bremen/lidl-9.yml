@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0390196
 longitude: 8.911053800000001
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Arberger Heerstraße"
 housenumber: 35

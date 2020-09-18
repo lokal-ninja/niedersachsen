@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.367469
 longitude: 9.708168800000001
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Nieschlagstraße"
 housenumber: 1a

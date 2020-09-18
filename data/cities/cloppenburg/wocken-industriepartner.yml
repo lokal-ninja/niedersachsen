@@ -3,10 +3,10 @@ type: way
 shop: Eisenwaren
 latitude: 52.847171
 longitude: 8.0847841
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Boschstraße"
 housenumber: 19
 phone: "+49 4471 9166-0"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"
+opening_hours: "Mo-Fr 07:15-16:30; Sa,Su,PH off"
 website: "https://www.wocken.com"

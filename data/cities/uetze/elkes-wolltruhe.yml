@@ -3,7 +3,7 @@ type: way
 shop: Wolle
 latitude: 52.465941
 longitude: 10.2004786
-postcode: 31311
+postcode: "31311"
 city: Uetze
 street: "Lange Straße"
 housenumber: 4

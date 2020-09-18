@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.614564
 longitude: 8.3647311
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Thüringer Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 52.2421786
 longitude: 10.4812632
-postcode: 38120
+postcode: "38120"
 city: Braunschweig
 street: "Illerstraße"
 housenumber: 61

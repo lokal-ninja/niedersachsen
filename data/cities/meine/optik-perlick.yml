@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.38141340000001
 longitude: 10.536548400000001
-postcode: 38527
+postcode: "38527"
 city: Meine
 street: "Zuckerallee"
 housenumber: 3

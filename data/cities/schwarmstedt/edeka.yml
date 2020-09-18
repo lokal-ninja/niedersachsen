@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6806118
 longitude: 9.6183378
-postcode: 29690
+postcode: "29690"
 city: Schwarmstedt
 street: "Celler Straße"
 housenumber: 31

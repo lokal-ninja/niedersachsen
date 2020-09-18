@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.368188100000005
 longitude: 7.192037
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Ubierstraße"
 housenumber: 4B

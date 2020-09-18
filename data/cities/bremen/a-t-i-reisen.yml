@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 53.1760114
 longitude: 8.6067771
-postcode: 28755
+postcode: "28755"
 city: Bremen
 street: "Lindenstraße"
 housenumber: 38

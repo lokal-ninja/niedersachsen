@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5019963
 longitude: 7.091024600000001
-postcode: 26736
+postcode: "26736"
 city: Krummhörn
 street: "Ankerstraße"
 housenumber: 1

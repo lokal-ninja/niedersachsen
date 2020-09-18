@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.442414500000005
 longitude: 10.025555500000001
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Ostlandring"
 housenumber: 6-8

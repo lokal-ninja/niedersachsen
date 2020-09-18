@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.255857400000004
 longitude: 10.249466
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Kirchstraße"
 housenumber: 4

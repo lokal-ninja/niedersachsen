@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3383933
 longitude: 9.7688743
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Peiner Straße"
 housenumber: 1

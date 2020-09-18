@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.3326842
 longitude: 9.7527614
-postcode: 21279
+postcode: "21279"
 city: Drestedt
 street: "Butterberg"
 housenumber: 3

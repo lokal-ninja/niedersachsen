@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.2364917
 longitude: 9.245792900000001
-postcode: 31749
+postcode: "31749"
 city: Auetal
 street: "Sandstraße"
 housenumber: 5

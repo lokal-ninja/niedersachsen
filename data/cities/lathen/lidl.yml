@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8615385
 longitude: 7.3190607000000005
-postcode: 49762
+postcode: "49762"
 city: Lathen
 street: "Große Straße"
 housenumber: 15

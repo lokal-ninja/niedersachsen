@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.397777000000005
 longitude: 8.1247845
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Panzerstraße"
 housenumber: 1

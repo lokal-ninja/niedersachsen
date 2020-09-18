@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.838762100000004
 longitude: 8.0691188
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Max-Planck-Straße"
 housenumber: 6

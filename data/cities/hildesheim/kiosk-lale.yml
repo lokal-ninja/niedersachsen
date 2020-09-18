@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.1535354
 longitude: 9.948574500000001
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Kurzer Hagen"
 housenumber: 12a

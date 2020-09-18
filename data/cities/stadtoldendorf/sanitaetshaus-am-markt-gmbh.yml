@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.884258900000006
 longitude: 9.626728
-postcode: 37627
+postcode: "37627"
 city: Stadtoldendorf
 street: "Markt"
 housenumber: 15

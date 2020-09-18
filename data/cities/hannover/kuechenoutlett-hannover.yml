@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.408534
 longitude: 9.7122075
-postcode: 30165
+postcode: "30165"
 city: Hannover
 street: "Krepenstraße"
 housenumber: 6

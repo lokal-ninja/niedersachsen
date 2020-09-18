@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.477993700000006
 longitude: 10.8741301
-postcode: 38471
+postcode: "38471"
 city: Rühen
 street: "Vorsfelder Straße"
 housenumber: 3

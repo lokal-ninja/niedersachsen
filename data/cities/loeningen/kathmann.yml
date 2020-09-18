@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.7421378
 longitude: 7.8548302
-postcode: 49624
+postcode: "49624"
 city: Löningen
 street: "Moorstraße"
 housenumber: 

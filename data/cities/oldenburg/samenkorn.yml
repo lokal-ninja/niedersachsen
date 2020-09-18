@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.143919800000006
 longitude: 8.2049354
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Katharinenstraße"
 housenumber: 6

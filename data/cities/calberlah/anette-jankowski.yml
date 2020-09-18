@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.421531400000006
 longitude: 10.6217693
-postcode: 38547
+postcode: "38547"
 city: Calberlah
 street: "Hauptstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.259241100000004
 longitude: 10.541186100000001
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Altewiekring"
 housenumber: 76

@@ -3,7 +3,7 @@ type: node
 shop: Pokal
 latitude: 53.5298938
 longitude: 8.590924300000001
-postcode: 27570
+postcode: "27570"
 city: Bremerhaven
 street: "An der Mühle"
 housenumber: 17

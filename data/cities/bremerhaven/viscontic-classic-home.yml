@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.542209400000004
 longitude: 8.5757531
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Am Längengrad"
 housenumber: 12

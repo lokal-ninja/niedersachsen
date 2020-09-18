@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.094752400000004
 longitude: 8.6467378
-postcode: 27751
+postcode: "27751"
 city: Delmenhorst
 street: "Stedinger Landstraße"
 housenumber: 101

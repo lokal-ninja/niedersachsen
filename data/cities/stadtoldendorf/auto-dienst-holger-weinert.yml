@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.8819827
 longitude: 9.6138315
-postcode: 37627
+postcode: "37627"
 city: Stadtoldendorf
 street: "Deenser Straße"
 housenumber: 42

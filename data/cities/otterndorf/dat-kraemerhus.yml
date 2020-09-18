@@ -3,10 +3,10 @@ type: way
 shop: Lebensmittel
 latitude: 53.826139000000005
 longitude: 8.8749801
-postcode: 21762
+postcode: "21762"
 city: Otterndorf
 street: "Am Campingplatz"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 07:30-12:00, 14:30-18:00"
 website: ""

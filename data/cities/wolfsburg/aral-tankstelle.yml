@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.426886800000005
 longitude: 10.7708534
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Heinrich-Nordhoff-Straße"
 housenumber: 117

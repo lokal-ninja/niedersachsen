@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.8966093
 longitude: 8.435959800000001
-postcode: 27793
+postcode: "27793"
 city: Wildeshausen
 street: "Westerstraße"
 housenumber: 9

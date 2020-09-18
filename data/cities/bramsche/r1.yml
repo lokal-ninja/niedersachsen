@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 52.3879838
 longitude: 8.0626166
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Im Alten Dorf"
-housenumber: 26
+housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 06:30-21:00, Sa 07:00-21:00, Su 09:00-20:00; PH closed"
 website: ""

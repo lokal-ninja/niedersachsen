@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.8568122
 longitude: 7.929679
-postcode: 49696
+postcode: "49696"
 city: Molbergen
 street: "Alter Schützenplatz"
 housenumber: 1

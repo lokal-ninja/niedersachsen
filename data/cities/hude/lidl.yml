@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1121065
 longitude: 8.456633100000001
-postcode: 27798
+postcode: "27798"
 city: Hude
 street: "Dr.-Gustav-Thye-Straße"
 housenumber: 4

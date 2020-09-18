@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.371485
 longitude: 9.712837
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 3-5
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.denns-biomarkt.de/"

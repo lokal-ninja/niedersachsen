@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.5288794
 longitude: 8.106972500000001
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Bismarckstraße"
 housenumber: 185

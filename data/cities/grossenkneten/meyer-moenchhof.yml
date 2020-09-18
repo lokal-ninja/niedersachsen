@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.900396400000005
 longitude: 8.2144036
-postcode: 26197
+postcode: "26197"
 city: Großenkneten
 street: "Wildeshauser Straße"
 housenumber: 8-10

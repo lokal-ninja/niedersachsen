@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8048803
 longitude: 10.3336287
-postcode: 38678
+postcode: "38678"
 city: Clausthal-Zellerfeld
 street: "Adolph-Roemer-Straße"
 housenumber: 5

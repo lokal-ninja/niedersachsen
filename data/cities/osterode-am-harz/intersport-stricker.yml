@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.728855100000004
 longitude: 10.2507768
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Eisensteinstraße"
 housenumber: 13

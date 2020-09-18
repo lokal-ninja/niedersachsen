@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.085154300000006
 longitude: 8.765465200000001
-postcode: 28197
+postcode: "28197"
 city: Bremen
 street: "Woltmershauser Straße"
 housenumber: 233

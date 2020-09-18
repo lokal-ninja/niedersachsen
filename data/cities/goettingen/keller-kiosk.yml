@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.5310757
 longitude: 9.9263007
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Rosdorfer Weg"
 housenumber: 5

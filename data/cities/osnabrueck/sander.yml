@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.2661552
 longitude: 8.056309
-postcode: 49082
+postcode: "49082"
 city: Osnabrück
 street: "Klöntrupstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.418469400000006
 longitude: 7.972482100000001
-postcode: 26340
+postcode: "26340"
 city: Zetel
 street: "Bohlenberger Straße"
 housenumber: 4

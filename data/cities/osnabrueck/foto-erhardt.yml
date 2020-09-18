@@ -3,10 +3,10 @@ type: node
 shop: Foto
 latitude: 52.272176
 longitude: 8.0493495
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Johannisstraße"
 housenumber: 56
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 541 21833"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
+website: "https://www.foto-erhardt.de/"

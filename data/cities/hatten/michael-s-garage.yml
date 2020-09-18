@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 53.0570437
 longitude: 8.355764
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Krumme Stroot"
 housenumber: 12

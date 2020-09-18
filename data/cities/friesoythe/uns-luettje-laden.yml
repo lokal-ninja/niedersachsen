@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.092021100000004
 longitude: 7.788940800000001
-postcode: 26169
+postcode: "26169"
 city: Friesoythe
 street: "Kreisstraße"
 housenumber: 61

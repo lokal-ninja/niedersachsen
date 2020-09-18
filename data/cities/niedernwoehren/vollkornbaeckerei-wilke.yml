@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3512154
 longitude: 9.1484591
-postcode: 31712
+postcode: "31712"
 city: Niedernwöhren
 street: "Hauptstraße"
 housenumber: 26

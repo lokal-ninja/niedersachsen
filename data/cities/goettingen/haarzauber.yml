@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5259471
 longitude: 9.9466862
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Geismar Landstraße"
 housenumber: 35

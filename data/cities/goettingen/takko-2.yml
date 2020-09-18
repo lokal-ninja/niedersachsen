@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5541811
 longitude: 9.9305641
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Hannoversche Straße"
 housenumber: 43-47

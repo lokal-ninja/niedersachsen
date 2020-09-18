@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2561085
 longitude: 8.0436238
-postcode: 49080
+postcode: "49080"
 city: Osnabrück
 street: "Lissy-Rieke-Straße"
 housenumber: 

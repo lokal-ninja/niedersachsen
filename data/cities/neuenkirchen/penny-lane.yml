@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.032510900000005
 longitude: 9.708383000000001
-postcode: 29643
+postcode: "29643"
 city: Neuenkirchen
 street: "Soltauer Straße"
 housenumber: 7

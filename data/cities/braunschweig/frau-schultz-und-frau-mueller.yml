@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2734917
 longitude: 10.5437931
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Wilhelm-Bode-Straße"
 housenumber: 39

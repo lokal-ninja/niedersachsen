@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9406723
 longitude: 9.8148742
-postcode: 31073
+postcode: "31073"
 city: Delligsen
 street: "Dr.-Jasper-Straße"
 housenumber: 

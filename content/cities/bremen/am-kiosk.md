@@ -1,4 +1,4 @@
 ---
-title: "AM.Kiosk"
+title: "AM. Kiosk"
 url: /bremen/am-kiosk/
 ---

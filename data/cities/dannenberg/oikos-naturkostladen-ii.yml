@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.088755600000006
 longitude: 11.0843442
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Lüchower Straße"
 housenumber: 80 A

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.6100299
 longitude: 9.3139768
-postcode: 21709
+postcode: "21709"
 city: Himmelpforten
 street: "Hauptstraße"
 housenumber: 1

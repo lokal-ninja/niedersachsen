@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.155403400000004
 longitude: 9.9521593
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Almsstraße"
 housenumber: 33

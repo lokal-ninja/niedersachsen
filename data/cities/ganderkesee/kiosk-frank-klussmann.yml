@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.087375200000004
 longitude: 8.583615100000001
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Nutzhorner Landstraße"
 housenumber: 33

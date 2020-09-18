@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.3620208
 longitude: 9.7487358
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 64

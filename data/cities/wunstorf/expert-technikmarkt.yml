@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.4199403
 longitude: 9.4507729
-postcode: 31515
+postcode: "31515"
 city: Wunstorf
 street: "Industriestraße"
 housenumber: 3

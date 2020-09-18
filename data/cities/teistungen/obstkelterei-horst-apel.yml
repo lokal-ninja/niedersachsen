@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.4716323
 longitude: 10.2659477
-postcode: 37339
+postcode: "37339"
 city: Teistungen
 street: "Bergstraße"
 housenumber: 4

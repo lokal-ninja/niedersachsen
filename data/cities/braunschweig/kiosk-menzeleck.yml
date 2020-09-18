@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.276251800000004
 longitude: 10.546576
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Menzelstraße"
 housenumber: 8

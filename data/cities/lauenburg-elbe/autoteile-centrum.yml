@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 53.3739574
 longitude: 10.545638400000001
-postcode: 21481
+postcode: "21481"
 city: Lauenburg/Elbe
 street: "Glüsinger Weg"
 housenumber: 11

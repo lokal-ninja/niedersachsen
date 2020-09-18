@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.1912207
 longitude: 8.356533
-postcode: 49324
+postcode: "49324"
 city: Melle
 street: "Industriestraße"
 housenumber: 26

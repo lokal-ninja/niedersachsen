@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.690637300000006
 longitude: 7.291266200000001
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Markt"
 housenumber: 2

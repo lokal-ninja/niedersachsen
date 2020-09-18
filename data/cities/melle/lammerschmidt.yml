@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.2038591
 longitude: 8.335411800000001
-postcode: 49324
+postcode: "49324"
 city: Melle
 street: "Grönenbergstraße"
 housenumber: 2-8

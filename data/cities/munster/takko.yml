@@ -3,10 +3,10 @@ type: way
 shop: Kleidung
 latitude: 52.988790900000005
 longitude: 10.1062531
-postcode: 29633
+postcode: "29633"
 city: Munster
 street: "Söhlstraße"
 housenumber: 17
 phone: "+49 5192 5386"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-15:00"
+opening_hours: "closed"
 website: ""

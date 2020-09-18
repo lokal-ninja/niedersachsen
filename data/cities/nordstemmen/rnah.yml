@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.182459300000005
 longitude: 9.810381900000001
-postcode: 31171
+postcode: "31171"
 city: Nordstemmen
 street: "Kirchstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.33674430000001
 longitude: 9.4057624
-postcode: 31542
+postcode: "31542"
 city: Bad Nenndorf
 street: "Piepmühle"
 housenumber: 11

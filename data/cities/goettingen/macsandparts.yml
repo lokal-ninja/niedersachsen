@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.5491107
 longitude: 9.903930800000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Wilhelm-Lambrecht-Straße"
 housenumber: 3

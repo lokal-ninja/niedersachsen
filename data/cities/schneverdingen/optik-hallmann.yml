@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.1175154
 longitude: 9.7887523
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Verdener Straße"
 housenumber: 9-11

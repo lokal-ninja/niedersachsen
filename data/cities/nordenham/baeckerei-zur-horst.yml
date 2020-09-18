@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.491207800000005
 longitude: 8.486101600000001
-postcode: 26954
+postcode: "26954"
 city: Nordenham
 street: "Friedrich-Ebert-Straße"
 housenumber: 74

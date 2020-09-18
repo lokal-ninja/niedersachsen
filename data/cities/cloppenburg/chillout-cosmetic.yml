@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.8451876
 longitude: 8.0417368
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Brandstraße"
 housenumber: 2

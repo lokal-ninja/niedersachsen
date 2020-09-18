@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.0841471
 longitude: 8.7665232
-postcode: 28197
+postcode: "28197"
 city: Bremen
 street: "Woltmershauser Straße"
 housenumber: 398

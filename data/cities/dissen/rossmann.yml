@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.1163499
 longitude: 8.204911000000001
-postcode: 49201
+postcode: "49201"
 city: Dissen
 street: "Dieckmannstraße"
 housenumber: 40

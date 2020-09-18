@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.8373567
 longitude: 8.073449700000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Philipp-Reis-Straße"
 housenumber: 4

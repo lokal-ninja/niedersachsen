@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.50977030000001
 longitude: 9.906696400000001
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Göttinger Straße"
 housenumber: 41

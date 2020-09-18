@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.3376425
 longitude: 10.417821100000001
-postcode: 38179
+postcode: "38179"
 city: Schwülper
 street: "Ruhmrischkamp"
 housenumber: 3

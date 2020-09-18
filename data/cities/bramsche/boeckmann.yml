@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.406923000000006
 longitude: 7.980826400000001
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Brückenort"
 housenumber: 20

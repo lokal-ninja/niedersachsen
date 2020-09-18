@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.0896361
 longitude: 8.859113
-postcode: 28213
+postcode: "28213"
 city: Bremen
 street: "Schwachhauser Heerstraße"
 housenumber: 208a

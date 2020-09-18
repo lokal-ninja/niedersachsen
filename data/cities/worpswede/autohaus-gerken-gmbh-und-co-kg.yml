@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.227020200000005
 longitude: 8.9295805
-postcode: 27726
+postcode: "27726"
 city: Worpswede
 street: "Osterweder Straße"
 housenumber: 5

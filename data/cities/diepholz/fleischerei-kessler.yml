@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.6071442
 longitude: 8.3694779
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Kolkstraße"
 housenumber: 13

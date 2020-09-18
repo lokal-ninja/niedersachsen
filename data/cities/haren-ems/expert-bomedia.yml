@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 52.7916557
 longitude: 7.238235700000001
-postcode: 49733
+postcode: "49733"
 city: Haren (Ems)
 street: "Neuer Markt"
 housenumber: 12

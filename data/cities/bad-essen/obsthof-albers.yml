@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 52.3147424
 longitude: 8.3568812
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Hüseder Straße"
 housenumber: 26

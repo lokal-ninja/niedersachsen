@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.5762177
 longitude: 9.431331100000001
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Hagener Straße"
 housenumber: 20

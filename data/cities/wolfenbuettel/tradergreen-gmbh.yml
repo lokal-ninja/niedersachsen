@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1640091
 longitude: 10.5121175
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Frankfurter Straße"
 housenumber: 33

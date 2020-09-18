@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.2425384
 longitude: 8.463450700000001
-postcode: 26931
+postcode: "26931"
 city: Elsfleth
 street: "Peterstraße"
 housenumber: 59

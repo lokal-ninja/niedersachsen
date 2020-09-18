@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.227446900000004
 longitude: 11.0054911
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Juliusstraße"
 housenumber: 14

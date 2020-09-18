@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2457184
 longitude: 10.5625903
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "Lindenbergplatz"
 housenumber: 17

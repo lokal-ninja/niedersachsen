@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.9091755
 longitude: 8.587856500000001
-postcode: 27243
+postcode: "27243"
 city: Harpstedt
 street: "Burgstraße"
 housenumber: 6

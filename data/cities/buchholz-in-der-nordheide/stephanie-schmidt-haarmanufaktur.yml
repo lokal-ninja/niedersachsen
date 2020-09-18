@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.3101245
 longitude: 9.8087257
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Niedersachsenstraße"
 housenumber: 8

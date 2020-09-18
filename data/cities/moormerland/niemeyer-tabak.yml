@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 53.309071700000004
 longitude: 7.4865966
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Rudolf-Eucken-Straße"
 housenumber: 3

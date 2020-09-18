@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4931052
 longitude: 7.2278298
-postcode: 49835
+postcode: "49835"
 city: Wietmarschen
 street: "Hauptstraße"
 housenumber: 46

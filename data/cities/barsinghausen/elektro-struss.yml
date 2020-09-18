@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 52.289438100000005
 longitude: 9.512778500000001
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Wennigser Straße"
 housenumber: 13
 phone: "+49 5105 8941"
 opening_hours: ""
-website: ""
+website: "https://strussundgut.de/"

@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 53.518530500000004
 longitude: 8.1041416
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Annenstraße"
 housenumber: 4

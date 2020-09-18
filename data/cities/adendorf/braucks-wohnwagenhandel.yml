@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 53.2908436
 longitude: 10.4274571
-postcode: 21365
+postcode: "21365"
 city: Adendorf
 street: "Bunsenstraße"
 housenumber: 5

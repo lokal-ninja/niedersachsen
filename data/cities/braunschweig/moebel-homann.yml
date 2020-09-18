@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.213214
 longitude: 10.529661
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Mascheroder Weg"
 housenumber: 5

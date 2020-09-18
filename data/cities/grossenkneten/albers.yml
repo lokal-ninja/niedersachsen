@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.89992650000001
 longitude: 8.215278600000001
-postcode: 26197
+postcode: "26197"
 city: Großenkneten
 street: "Wildeshauser Straße"
 housenumber: 17

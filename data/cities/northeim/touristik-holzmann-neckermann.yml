@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.7075079
 longitude: 10.000293300000001
-postcode: 
+postcode: ""
 city: Northeim
 street: "Mühlenstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.844452600000004
 longitude: 7.7770926000000005
-postcode: 49699
+postcode: "49699"
 city: Lindern
 street: "Werlter Straße"
 housenumber: 9

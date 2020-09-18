@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1550109
 longitude: 9.960863600000001
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Einumer Straße"
 housenumber: 10

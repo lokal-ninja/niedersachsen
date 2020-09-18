@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.521764000000005
 longitude: 9.939725800000001
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Reinhäuser Landstraße"
 housenumber: 78

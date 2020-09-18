@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.173070800000005
 longitude: 8.617210700000001
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Gerhard-Rohlfs-Straße"
 housenumber: 62

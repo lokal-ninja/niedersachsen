@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.3158205
 longitude: 10.2597017
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Woltorfer Straße"
 housenumber: 116a

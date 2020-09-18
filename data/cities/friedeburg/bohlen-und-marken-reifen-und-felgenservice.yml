@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 53.4412724
 longitude: 7.8533097000000005
-postcode: 26446
+postcode: "26446"
 city: Friedeburg
 street: "Im Gewerbepark"
 housenumber: 4

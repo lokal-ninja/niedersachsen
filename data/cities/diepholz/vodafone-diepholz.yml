@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.6082571
 longitude: 8.369987700000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Lange Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4337406
 longitude: 10.848323
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "Klingemannstraße"
 housenumber: 4

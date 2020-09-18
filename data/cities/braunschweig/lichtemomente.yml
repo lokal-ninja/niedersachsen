@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 52.2642256
 longitude: 10.5426287
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Altewiekring"
 housenumber: 49

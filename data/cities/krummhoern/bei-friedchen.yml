@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.464165
 longitude: 7.1084483
-postcode: 26736
+postcode: "26736"
 city: Krummhörn
 street: "Lärchenstraße"
 housenumber: 4

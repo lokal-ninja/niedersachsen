@@ -1,12 +1,12 @@
 id: 1021102267
 type: node
 shop: Kiosk
-latitude: 52.371769900000004
-longitude: 9.9073334
-postcode: 31275
+latitude: 52.368653300000005
+longitude: 9.9083207
+postcode: "31275"
 city: Lehrte
 street: "Zum Großen Freien"
-housenumber: 68
+housenumber: 40
 phone: "+49 5132 93932"
-opening_hours: ""
+opening_hours: "Mo-Sa 06:00-18:30: So 07:00-18:30"
 website: ""

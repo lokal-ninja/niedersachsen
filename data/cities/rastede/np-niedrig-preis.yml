@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.206819800000005
 longitude: 8.242493900000001
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Schulstraße"
 housenumber: 65

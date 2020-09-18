@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.0613624
 longitude: 8.1967475
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Oldenburger Straße"
 housenumber: 250A

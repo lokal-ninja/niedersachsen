@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.275280800000004
 longitude: 8.080181900000001
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Belmer Straße"
 housenumber: 38

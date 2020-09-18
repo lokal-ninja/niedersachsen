@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.115496300000004
 longitude: 9.232119800000001
-postcode: 
+postcode: ""
 city: Sottrum
 street: "Lienworth"
 housenumber: 4

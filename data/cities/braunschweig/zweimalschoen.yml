@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.261546100000004
 longitude: 10.5277936
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: ""
 housenumber: 

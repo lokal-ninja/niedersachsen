@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.118373000000005
 longitude: 9.7828859
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Rotenburger Straße"
 housenumber: 14

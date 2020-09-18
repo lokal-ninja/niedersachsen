@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.1745165
 longitude: 8.6982826
-postcode: 28717
+postcode: "28717"
 city: Bremen
 street: "Am Heidbergstift"
 housenumber: 45

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.073029000000005
 longitude: 8.8810622
-postcode: 28329
+postcode: "28329"
 city: Bremen
 street: "Amelinghauser Straße"
 housenumber: 19A

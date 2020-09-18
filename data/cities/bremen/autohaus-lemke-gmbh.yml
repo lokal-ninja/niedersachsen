@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 53.1029369
 longitude: 8.7931574
-postcode: 28219
+postcode: "28219"
 city: Bremen
 street: "Osterfeuerberger Ring"
-housenumber: new shop
+housenumber: 
 phone: ""
 opening_hours: ""
 website: ""

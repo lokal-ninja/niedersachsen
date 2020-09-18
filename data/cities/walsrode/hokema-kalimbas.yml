@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.867557000000005
 longitude: 9.6359556
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Silberweg"
 housenumber: 3

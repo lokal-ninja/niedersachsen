@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1692563
 longitude: 8.1997479
-postcode: 26127
+postcode: "26127"
 city: Oldenburg
 street: "Alexanderstraße"
 housenumber: 322

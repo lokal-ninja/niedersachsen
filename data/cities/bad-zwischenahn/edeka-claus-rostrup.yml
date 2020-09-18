@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.191982200000005
 longitude: 7.9815404
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Westersteder Straße"
 housenumber: 3

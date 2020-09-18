@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.251432400000006
 longitude: 10.5345109
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Berliner Platz"
 housenumber: 1

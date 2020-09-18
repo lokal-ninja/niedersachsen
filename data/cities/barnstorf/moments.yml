@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.711936400000006
 longitude: 8.5091786
-postcode: 49406
+postcode: "49406"
 city: Barnstorf
 street: "Brinkstraße"
 housenumber: 41

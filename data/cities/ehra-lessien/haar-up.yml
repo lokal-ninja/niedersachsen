@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.568178200000006
 longitude: 10.7875309
-postcode: 38468
+postcode: "38468"
 city: Ehra-Lessien
 street: "Fallerslebener Straße"
 housenumber: 2A

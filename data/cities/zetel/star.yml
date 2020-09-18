@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.386469700000006
 longitude: 7.953858200000001
-postcode: 26340
+postcode: "26340"
 city: Zetel
 street: "Westersteder Straße"
 housenumber: 14A

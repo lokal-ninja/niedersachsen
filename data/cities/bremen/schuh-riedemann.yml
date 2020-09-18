@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.0603227
 longitude: 8.885610400000001
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Hemelinger Bahnhofstraße"
 housenumber: 18

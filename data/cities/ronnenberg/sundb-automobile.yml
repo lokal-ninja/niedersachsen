@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.317945
 longitude: 9.6668318
-postcode: 30952
+postcode: "30952"
 city: Ronnenberg
 street: "Hamelner Straße"
 housenumber: 4

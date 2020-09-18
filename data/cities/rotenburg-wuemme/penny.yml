@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.104370900000006
 longitude: 9.396754900000001
-postcode: 27356
+postcode: "27356"
 city: Rotenburg (Wümme)
 street: "Mühlenstraße"
 housenumber: 26

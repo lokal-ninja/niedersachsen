@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1930339
 longitude: 8.7589219
-postcode: 27721
+postcode: "27721"
 city: Ritterhude
 street: "Rohwedderstraße"
 housenumber: 1

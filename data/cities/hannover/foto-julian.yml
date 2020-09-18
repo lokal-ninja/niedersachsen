@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.3735523
 longitude: 9.7075808
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 44

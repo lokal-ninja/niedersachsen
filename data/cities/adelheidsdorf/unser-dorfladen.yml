@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5525825
 longitude: 10.023867000000001
-postcode: 29352
+postcode: "29352"
 city: Adelheidsdorf
 street: "Hauptstraße"
 housenumber: 150

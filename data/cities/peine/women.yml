@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.3204798
 longitude: 10.2298763
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Gröpern"
 housenumber: 16

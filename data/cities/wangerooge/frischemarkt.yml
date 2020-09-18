@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 53.7916425
 longitude: 7.900303600000001
-postcode: 26486
+postcode: "26486"
 city: Wangerooge
 street: "Charlottenstraße"
 housenumber: 20
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-18:00; Su 14:00-18:00"
 website: ""

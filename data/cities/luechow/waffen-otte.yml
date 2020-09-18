@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 52.9676679
 longitude: 11.1530184
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 35

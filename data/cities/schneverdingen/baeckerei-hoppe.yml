@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.113737
 longitude: 9.793628100000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Bahnhofstraße"
 housenumber: 28

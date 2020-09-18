@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.2234495
 longitude: 10.6421767
-postcode: 38173
+postcode: "38173"
 city: Sickte
 street: "Am Bockshorn"
 housenumber: 8b

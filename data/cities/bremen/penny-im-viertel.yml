@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0727538
 longitude: 8.819526
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Ostertorsteinweg"
 housenumber: 28-29

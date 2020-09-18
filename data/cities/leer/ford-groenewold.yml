@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.2338755
 longitude: 7.4641052000000006
-postcode: 26789
+postcode: "26789"
 city: Leer
 street: "Große Roßbergstraße"
 housenumber: 3-5

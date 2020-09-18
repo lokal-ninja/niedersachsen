@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.4765937
 longitude: 7.396277
-postcode: 26624
+postcode: "26624"
 city: Südbrookmerland
 street: "Bürgermeister-Lüken-Platz"
 housenumber: 4

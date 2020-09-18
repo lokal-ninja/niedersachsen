@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.623550900000005
 longitude: 9.9342796
-postcode: 37176
+postcode: "37176"
 city: Nörten-Hardenberg
 street: "Klosteracker"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.367241500000006
 longitude: 7.2090974
-postcode: 26725
+postcode: "26725"
 city: Emden
 street: "Am Brauersgraben"
 housenumber: 2

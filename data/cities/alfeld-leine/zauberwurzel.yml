@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9858592
 longitude: 9.825446300000001
-postcode: 31061
+postcode: "31061"
 city: Alfeld (Leine)
 street: "Kurze Straße"
 housenumber: 11

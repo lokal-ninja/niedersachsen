@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.1669599
 longitude: 8.2269928
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Nadorster Straße"
 housenumber: 289

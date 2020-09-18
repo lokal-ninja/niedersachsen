@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.542723800000005
 longitude: 8.5777319
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Obere Bürger"
 housenumber: 39

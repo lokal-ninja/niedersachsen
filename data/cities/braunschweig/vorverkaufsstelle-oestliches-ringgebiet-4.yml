@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.272761700000004
 longitude: 10.5382332
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Karlstraße"
 housenumber: 10

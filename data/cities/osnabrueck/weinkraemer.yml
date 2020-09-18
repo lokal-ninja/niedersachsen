@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.2732782
 longitude: 8.028680600000001
-postcode: 49078
+postcode: "49078"
 city: Osnabrück
 street: "Am Kirchenkamp"
 housenumber: 15

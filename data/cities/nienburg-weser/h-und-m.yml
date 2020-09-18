@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.640129800000004
 longitude: 9.2060102
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Lange Straße"
 housenumber: 63

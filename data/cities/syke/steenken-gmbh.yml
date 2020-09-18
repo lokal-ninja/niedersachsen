@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.9135715
 longitude: 8.815389
-postcode: 28857
+postcode: "28857"
 city: Syke
 street: "An der Weide"
 housenumber: 2

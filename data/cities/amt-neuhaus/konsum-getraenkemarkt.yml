@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.2870281
 longitude: 10.933496600000002
-postcode: 19273
+postcode: "19273"
 city: Amt Neuhaus
 street: "Bahnhofstraße"
 housenumber: 13

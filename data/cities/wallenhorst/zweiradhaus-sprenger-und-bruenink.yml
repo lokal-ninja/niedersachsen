@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.3488345
 longitude: 8.012595300000001
-postcode: 49134
+postcode: "49134"
 city: Wallenhorst
 street: "Alter Pyer Kirchweg"
 housenumber: 7

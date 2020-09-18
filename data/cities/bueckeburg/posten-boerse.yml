@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.262478300000005
 longitude: 9.030862
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Wilhelm-Raabe-Straße"
 housenumber: 3

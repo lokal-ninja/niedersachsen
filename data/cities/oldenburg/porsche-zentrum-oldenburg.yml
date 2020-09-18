@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.1609714
 longitude: 8.223367900000001
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Nadorster Straße"
 housenumber: 202

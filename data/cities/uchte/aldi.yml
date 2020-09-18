@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4995017
 longitude: 8.9057755
-postcode: 31600
+postcode: "31600"
 city: Uchte
 street: "Burgstraße"
 housenumber: 4

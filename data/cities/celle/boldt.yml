@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.591839
 longitude: 10.058154700000001
-postcode: 29227
+postcode: "29227"
 city: Celle
 street: "Wernerusstraße"
 housenumber: 32A

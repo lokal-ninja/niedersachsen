@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.653835900000004
 longitude: 9.2167856
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Verdener Landstraße"
 housenumber: 55

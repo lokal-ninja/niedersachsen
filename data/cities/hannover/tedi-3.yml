@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.3910725
 longitude: 9.8543015
-postcode: 30629
+postcode: "30629"
 city: Hannover
 street: "Waldstraße"
 housenumber: 2

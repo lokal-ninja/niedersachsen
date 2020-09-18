@@ -3,9 +3,9 @@ type: node
 shop: Drogerie
 latitude: 53.45555400000001
 longitude: 9.509632100000001
-postcode: 21698
+postcode: "21698"
 city: Harsefeld
-street: ""
+street: "Buxtehuder Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-19:00; PH off"

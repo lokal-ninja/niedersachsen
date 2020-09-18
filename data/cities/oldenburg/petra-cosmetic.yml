@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.0920731
 longitude: 8.2123764
-postcode: 26133
+postcode: "26133"
 city: Oldenburg
 street: "Sandkruger Straße"
 housenumber: 188

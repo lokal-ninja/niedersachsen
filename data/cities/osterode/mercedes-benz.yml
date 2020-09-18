@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.738224900000006
 longitude: 10.229656700000001
-postcode: 37520
+postcode: "37520"
 city: Osterode
 street: "Petershütter Allee"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.1595327
 longitude: 9.782227500000001
-postcode: 31171
+postcode: "31171"
 city: Nordstemmen
 street: "Hauptstraße"
 housenumber: 39

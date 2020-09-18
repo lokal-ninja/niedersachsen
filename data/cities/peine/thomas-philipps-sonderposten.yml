@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.32518760000001
 longitude: 10.2104776
-postcode: 31228
+postcode: "31228"
 city: Peine
 street: "Vöhrumer Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.41569500000001
 longitude: 10.5330992
-postcode: 38531
+postcode: "38531"
 city: Rötgesbüttel
 street: "Hauptstraße"
 housenumber: 18

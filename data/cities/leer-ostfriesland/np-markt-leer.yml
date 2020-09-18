@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.239526500000004
 longitude: 7.498036000000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Logaer Weg"
 housenumber: 146

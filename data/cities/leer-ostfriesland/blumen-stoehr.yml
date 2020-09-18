@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.236305200000004
 longitude: 7.453995300000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Heisfelder Straße"
 housenumber: 105

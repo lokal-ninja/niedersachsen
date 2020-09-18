@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 53.3192079
 longitude: 10.435456
-postcode: 21382
+postcode: "21382"
 city: Brietlingen
 street: "Am Sportplatz"
 housenumber: 2

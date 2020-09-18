@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.03484520000001
 longitude: 8.8283471
-postcode: 28277
+postcode: "28277"
 city: Bremen
 street: "Gorsemannstraße"
 housenumber: 1c

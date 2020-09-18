@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.331293900000006
 longitude: 9.8837688
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Bendestorfer Straße"
 housenumber: 5

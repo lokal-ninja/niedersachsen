@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.194077
 longitude: 9.4646941
-postcode: 31848
+postcode: "31848"
 city: Bad Münder am Deister
 street: "Am Rohmel-Center"
 housenumber: 1

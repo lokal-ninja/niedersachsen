@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.5963525
 longitude: 7.2081758
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Osterstraße"
 housenumber: 17

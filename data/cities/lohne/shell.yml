@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.657905500000005
 longitude: 8.1694555
-postcode: 49393
+postcode: "49393"
 city: Lohne
 street: "Von-Siemens-Straße"
 housenumber: 1

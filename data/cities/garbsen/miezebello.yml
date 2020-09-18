@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.443681500000004
 longitude: 9.6162601
-postcode: 30827
+postcode: "30827"
 city: Garbsen
 street: "Heinkelstraße"
 housenumber: 1

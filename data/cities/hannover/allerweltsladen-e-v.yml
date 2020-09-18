@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.373529600000005
 longitude: 9.7076758
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.860902200000005
 longitude: 10.340288000000001
-postcode: 38644
+postcode: "38644"
 city: Goslar
 street: "Hindenburgstraße"
 housenumber: 1

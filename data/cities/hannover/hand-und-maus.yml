@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 52.3670612
 longitude: 9.706099700000001
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Erichstraße"
 housenumber: 2

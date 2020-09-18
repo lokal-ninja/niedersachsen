@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3740036
 longitude: 9.7061636
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 58

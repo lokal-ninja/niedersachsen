@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 52.384937
 longitude: 10.4528435
-postcode: 38528
+postcode: "38528"
 city: Adenbüttel
 street: "Gifhorner Straße"
 housenumber: 17

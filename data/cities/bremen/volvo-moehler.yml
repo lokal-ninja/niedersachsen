@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.171986100000005
 longitude: 8.683318100000001
-postcode: 28717
+postcode: "28717"
 city: Bremen
 street: "Lesumer Heerstraße"
 housenumber: 12

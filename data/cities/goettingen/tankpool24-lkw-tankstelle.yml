@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.52416100000001
 longitude: 9.8820387
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Herbert-Quandt-Straße"
 housenumber: 26

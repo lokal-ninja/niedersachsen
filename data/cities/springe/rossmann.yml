@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.2095295
 longitude: 9.554761000000001
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Fünfhausenstraße"
 housenumber: 2

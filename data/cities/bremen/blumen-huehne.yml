@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.180642500000005
 longitude: 8.6128312
-postcode: 28755
+postcode: "28755"
 city: Bremen
 street: "Fährer Flur"
 housenumber: 51

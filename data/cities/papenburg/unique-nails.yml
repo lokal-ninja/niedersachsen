@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.076689200000004
 longitude: 7.400246900000001
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Russellstraße"
 housenumber: 2

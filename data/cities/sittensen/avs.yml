@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.2823238
 longitude: 9.4914231
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Westerböhmen"
 housenumber: 6

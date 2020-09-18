@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 53.224946200000005
 longitude: 8.5906672
-postcode: 28790
+postcode: "28790"
 city: Schwanewede
 street: "Hospitalstraße"
 housenumber: 4

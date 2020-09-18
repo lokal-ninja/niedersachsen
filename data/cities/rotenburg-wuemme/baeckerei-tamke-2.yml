@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1105625
 longitude: 9.405234400000001
-postcode: 27356
+postcode: "27356"
 city: Rotenburg (Wümme)
 street: "Große Straße"
 housenumber: 42

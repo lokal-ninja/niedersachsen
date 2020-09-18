@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.0727532
 longitude: 8.810108300000001
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Schnoor"
 housenumber: 9

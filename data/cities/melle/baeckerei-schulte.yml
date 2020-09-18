@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.137236900000005
 longitude: 8.388478600000001
-postcode: 49326
+postcode: "49326"
 city: Melle
 street: "Hauptstraße"
 housenumber: 1

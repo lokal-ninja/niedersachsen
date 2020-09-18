@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.279975300000004
 longitude: 8.022432700000001
-postcode: 49076
+postcode: "49076"
 city: Osnabrück
 street: "Caprivistraße"
 housenumber: 

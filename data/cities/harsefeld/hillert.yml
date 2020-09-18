@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.45337850000001
 longitude: 9.5040137
-postcode: 21698
+postcode: "21698"
 city: Harsefeld
 street: "Marktstraße"
 housenumber: 22

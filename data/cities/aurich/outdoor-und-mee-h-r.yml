@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 53.4695289
 longitude: 7.4799446000000005
-postcode: 26603
+postcode: "26603"
 city: Aurich
 street: "Kirchstraße"
 housenumber: 3

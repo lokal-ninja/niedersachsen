@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.526332800000006
 longitude: 9.9459871
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Geismar Landstraße"
 housenumber: 29

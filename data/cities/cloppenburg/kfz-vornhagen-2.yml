@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.838478800000004
 longitude: 8.0322724
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Löninger Straße"
 housenumber: 54

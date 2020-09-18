@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.365920700000004
 longitude: 7.205532300000001
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Burgstraße"
 housenumber: 2

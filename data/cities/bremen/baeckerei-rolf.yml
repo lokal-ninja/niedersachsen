@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.103004000000006
 longitude: 8.8615027
-postcode: 28359
+postcode: "28359"
 city: Bremen
 street: "Kremser Straße"
 housenumber: 4

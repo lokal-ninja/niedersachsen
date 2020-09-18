@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.502296
 longitude: 9.901603900000001
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Siedlungsweg"
 housenumber: 1

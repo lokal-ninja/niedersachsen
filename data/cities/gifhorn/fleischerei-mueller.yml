@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.511388600000004
 longitude: 10.4776532
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Mühlenstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.1700552
 longitude: 7.9987279000000004
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Im Doorgrund"
 housenumber: 2

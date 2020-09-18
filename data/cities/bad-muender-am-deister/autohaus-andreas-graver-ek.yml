@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.164847300000005
 longitude: 9.4841332
-postcode: 31848
+postcode: "31848"
 city: Bad Münder am Deister
 street: "Katzbergweg"
 housenumber: 2

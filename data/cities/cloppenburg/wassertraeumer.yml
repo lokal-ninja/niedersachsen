@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.844562100000005
 longitude: 8.048947100000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Emsteker Straße"
 housenumber: 7a

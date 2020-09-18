@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3299929
 longitude: 10.2459685
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Eichendorffstraße"
 housenumber: 11

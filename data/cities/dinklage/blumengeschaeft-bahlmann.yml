@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.660590500000005
 longitude: 8.122209400000001
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Lange Straße"
 housenumber: 13

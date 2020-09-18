@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.2443797
 longitude: 10.4888521
-postcode: 38120
+postcode: "38120"
 city: Braunschweig
 street: "Lechstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.1350252
 longitude: 11.276299100000001
-postcode: 19303
+postcode: "19303"
 city: Dömitz
 street: "Leopoldsbrunnen"
 housenumber: 1

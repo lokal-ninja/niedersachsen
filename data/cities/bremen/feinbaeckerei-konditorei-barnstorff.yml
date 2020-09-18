@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0919942
 longitude: 8.8084431
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Herbststraße"
 housenumber: 109

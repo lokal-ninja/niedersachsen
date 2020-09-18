@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.400520900000004
 longitude: 9.7766658
-postcode: 30177
+postcode: "30177"
 city: Hannover
 street: "Klopstockstraße"
 housenumber: 14

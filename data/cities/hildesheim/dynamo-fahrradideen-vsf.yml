@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.147010900000005
 longitude: 9.954745800000001
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Goschenstraße"
 housenumber: 69-70

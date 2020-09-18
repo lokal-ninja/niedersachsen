@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.8656146
 longitude: 9.6971871
-postcode: 29683
+postcode: "29683"
 city: Bad Fallingbostel
 street: "Vogteistraße"
 housenumber: 12

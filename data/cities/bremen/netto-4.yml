@@ -1,12 +1,12 @@
-id: 443334171
+id: 862835176
 type: node
 shop: Supermarkt
-latitude: 53.076564100000006
-longitude: 8.8453911
-postcode: 28205
+latitude: 53.0606097
+longitude: 8.7995526
+postcode: "28201"
 city: Bremen
-street: "Friedrich-Karl-Straße"
-housenumber: 91
+street: "Gottfried-Menken-Straße"
+housenumber: 19
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

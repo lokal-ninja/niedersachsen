@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.944295800000006
 longitude: 10.1304934
-postcode: 38723
+postcode: "38723"
 city: Seesen
 street: "Hildesheimer Straße"
 housenumber: 17

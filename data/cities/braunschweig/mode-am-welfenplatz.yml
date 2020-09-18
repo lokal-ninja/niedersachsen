@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.2340651
 longitude: 10.5586801
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "Welfenplatz"
 housenumber: 12

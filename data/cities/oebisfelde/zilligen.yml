@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 52.4311306
 longitude: 10.985173600000001
-postcode: 39646
+postcode: "39646"
 city: Oebisfelde
 street: "Lindenstraße"
 housenumber: 37

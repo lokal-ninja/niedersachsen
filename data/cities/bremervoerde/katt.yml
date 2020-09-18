@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.4869673
 longitude: 9.1470151
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Neue Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 53.389582000000004
 longitude: 7.954428900000001
-postcode: 26340
+postcode: "26340"
 city: Zetel
 street: "Urwaldstraße"
 housenumber: 14

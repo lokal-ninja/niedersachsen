@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.387990200000004
 longitude: 9.7245208
-postcode: 30167
+postcode: "30167"
 city: Hannover
 street: "Kopernikusstraße"
 housenumber: 5

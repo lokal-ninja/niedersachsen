@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5127095
 longitude: 9.951247
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Stadtstieg"
 housenumber: 5a

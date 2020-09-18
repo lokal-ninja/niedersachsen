@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 52.9360525
 longitude: 8.386000600000001
-postcode: 27801
+postcode: "27801"
 city: Dötlingen
 street: "Ostertor"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:30-12:00,14:30-18:00;Sa 06:30-13:00"
 website: "https://www.cafe-brockshus.de/"

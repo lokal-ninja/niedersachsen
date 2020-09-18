@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.3725898
 longitude: 9.785185100000001
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Scheidestraße"
 housenumber: 

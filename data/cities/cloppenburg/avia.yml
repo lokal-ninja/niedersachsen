@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 52.874385000000004
 longitude: 8.0932787
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Kellerhöher Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.990297500000004
 longitude: 9.2342332
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "Grießemer Straße"
 housenumber: 20

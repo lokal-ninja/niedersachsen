@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.539385100000004
 longitude: 9.8987358
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Industriestraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.230269500000006
 longitude: 7.4512602
-postcode: 26789
+postcode: "26789"
 city: Leer
 street: "Heisfelder Straße"
 housenumber: 17

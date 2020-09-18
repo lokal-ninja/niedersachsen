@@ -3,10 +3,10 @@ type: node
 shop: Schneiderei
 latitude: 52.376818400000005
 longitude: 9.7961612
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Pertzstraße"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; We 09:00-13:00; Sa 10:00-12:00; PH off"
 website: ""

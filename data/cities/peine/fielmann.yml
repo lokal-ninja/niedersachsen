@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.3204142
 longitude: 10.2302704
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Gröpern"
 housenumber: 11

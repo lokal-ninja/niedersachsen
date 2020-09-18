@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2283994
 longitude: 7.450705200000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Brunnenstraße"
 housenumber: 15

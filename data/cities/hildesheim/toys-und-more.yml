@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.164535900000004
 longitude: 9.9701763
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Bavenstedter Straße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.2896378
 longitude: 9.502153400000001
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Stoppstraße"
 housenumber: 28

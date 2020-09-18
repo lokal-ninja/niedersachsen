@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.8286116
 longitude: 10.1048021
-postcode: 29320
+postcode: "29320"
 city: Südheide
 street: "Lotharstraße"
 housenumber: 57A

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.8035134
 longitude: 8.9073475
-postcode: 21762
+postcode: "21762"
 city: Otterndorf
 street: "Breslauer Straße"
 housenumber: 13

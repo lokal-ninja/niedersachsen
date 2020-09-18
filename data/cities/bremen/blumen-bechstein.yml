@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.0644702
 longitude: 8.878791300000001
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Föhrenstraße"
 housenumber: 6-8

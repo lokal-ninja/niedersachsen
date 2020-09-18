@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.579130400000004
 longitude: 9.4305781
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Pflasterweg"
 housenumber: 8

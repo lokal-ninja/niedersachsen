@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.286206
 longitude: 10.5381847
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Bienroder Weg"
 housenumber: 27

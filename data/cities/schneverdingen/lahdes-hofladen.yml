@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.07995450000001
 longitude: 9.857427300000001
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Schneverdinger Straße"
 housenumber: 17

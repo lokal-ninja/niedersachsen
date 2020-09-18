@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.059443800000004
 longitude: 8.896667
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Sebaldsbrücker Heerstraße"
 housenumber: 156

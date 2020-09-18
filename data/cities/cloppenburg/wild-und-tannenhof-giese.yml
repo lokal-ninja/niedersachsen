@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 52.873032800000004
 longitude: 8.088119200000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Ahlhorner Straße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.419647600000005
 longitude: 10.020759
-postcode: 21217
+postcode: "21217"
 city: Seevetal
 street: "Am Saal"
 housenumber: 2

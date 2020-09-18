@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.510981
 longitude: 9.951529800000001
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Auf dem Paul"
 housenumber: 4a

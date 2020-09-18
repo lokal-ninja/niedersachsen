@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.051448300000004
 longitude: 10.374278700000001
-postcode: 38259
+postcode: "38259"
 city: Salzgitter
 street: "Breslauer Straße"
 housenumber: 13

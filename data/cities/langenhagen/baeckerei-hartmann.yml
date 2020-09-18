@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.437089
 longitude: 9.7062132
-postcode: 30855
+postcode: "30855"
 city: Langenhagen
 street: "Hauptstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.264482400000006
 longitude: 10.220991000000001
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "Gerhardstraße"
 housenumber: 46

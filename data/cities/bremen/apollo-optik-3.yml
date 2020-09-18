@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 53.065991000000004
 longitude: 8.7697102
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Duckwitzstraße"
 housenumber: 55

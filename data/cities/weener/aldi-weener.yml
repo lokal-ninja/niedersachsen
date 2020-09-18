@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.169032
 longitude: 7.350061200000001
-postcode: 26826
+postcode: "26826"
 city: Weener
 street: "Neue Feldstraße"
 housenumber: 4

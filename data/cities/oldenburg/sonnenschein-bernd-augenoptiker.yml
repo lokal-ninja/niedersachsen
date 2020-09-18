@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 53.160622100000005
 longitude: 8.2229028
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Nadorster Straße"
 housenumber: 198

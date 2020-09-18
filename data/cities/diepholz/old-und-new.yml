@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.6063083
 longitude: 8.369976000000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Mühlenstraße"
 housenumber: 1

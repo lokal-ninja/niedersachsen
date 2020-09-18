@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.6448327
 longitude: 9.208918
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Verdener Straße"
 housenumber: 11

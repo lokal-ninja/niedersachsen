@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.126372
 longitude: 8.9027612
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Borgfelder Heerstraße"
 housenumber: 55

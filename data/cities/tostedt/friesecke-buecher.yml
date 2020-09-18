@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.281080300000006
 longitude: 9.708424
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Unter den Linden"
 housenumber: 16

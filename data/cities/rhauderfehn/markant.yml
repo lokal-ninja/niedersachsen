@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.158979800000004
 longitude: 7.528642700000001
-postcode: 26817
+postcode: "26817"
 city: Rhauderfehn
 street: "Hauptstraße"
 housenumber: 153a

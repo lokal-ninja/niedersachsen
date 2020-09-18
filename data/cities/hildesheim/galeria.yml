@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.1539949
 longitude: 9.9515285
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Almsstraße"
 housenumber: 41

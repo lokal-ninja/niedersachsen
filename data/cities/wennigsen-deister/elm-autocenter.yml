@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.2801637
 longitude: 9.5745242
-postcode: 30974
+postcode: "30974"
 city: Wennigsen (Deister)
 street: "Degerser Straße"
 housenumber: 9

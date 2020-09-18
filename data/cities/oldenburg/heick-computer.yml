@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 53.1594466
 longitude: 8.2212603
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Nadorster Straße"
 housenumber: 181

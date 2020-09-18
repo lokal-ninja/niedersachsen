@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 53.36827520000001
 longitude: 7.2030488
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Bismarckstraße"
 housenumber: 6

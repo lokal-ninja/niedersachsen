@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.5408258
 longitude: 10.1401941
-postcode: 29339
+postcode: "29339"
 city: Wathlingen
 street: "Bachstraße"
 housenumber: 2

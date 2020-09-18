@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.170971400000006
 longitude: 8.6237489
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Sagerstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 52.3428528
 longitude: 10.1807472
-postcode: 31228
+postcode: "31228"
 city: Peine
 street: "Kirchvordener Straße"
 housenumber: 12

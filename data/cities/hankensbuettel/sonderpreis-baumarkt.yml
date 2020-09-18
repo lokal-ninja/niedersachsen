@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.72367010000001
 longitude: 10.5932391
-postcode: 29386
+postcode: "29386"
 city: Hankensbüttel
 street: "Handwerkerring"
 housenumber: 14

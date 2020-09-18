@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.5498369
 longitude: 9.867700800000001
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Diedershäuser Straße"
 housenumber: 26

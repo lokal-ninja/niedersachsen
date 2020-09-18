@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.689057000000005
 longitude: 9.9879136
-postcode: 37154
+postcode: "37154"
 city: Northeim
 street: "Göttinger Straße"
 housenumber: 67

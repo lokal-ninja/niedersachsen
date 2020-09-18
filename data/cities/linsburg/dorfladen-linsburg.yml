@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5924605
 longitude: 9.305903800000001
-postcode: 31636
+postcode: "31636"
 city: Linsburg
 street: "Grund"
 housenumber: 7

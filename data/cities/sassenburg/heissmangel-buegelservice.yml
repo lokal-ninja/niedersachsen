@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.512536700000005
 longitude: 10.6323301
-postcode: 38524
+postcode: "38524"
 city: Sassenburg
 street: "Ringstraße"
 housenumber: 40

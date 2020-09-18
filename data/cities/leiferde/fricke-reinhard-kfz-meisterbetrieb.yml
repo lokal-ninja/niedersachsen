@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.436453500000006
 longitude: 10.4365149
-postcode: 38542
+postcode: "38542"
 city: Leiferde
 street: "Hoher Graben"
 housenumber: 5

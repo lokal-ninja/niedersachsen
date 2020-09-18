@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.98536180000001
 longitude: 9.8392257
-postcode: 29614
+postcode: "29614"
 city: Soltau
 street: "Hagen"
 housenumber: 16

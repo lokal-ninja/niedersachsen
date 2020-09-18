@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 53.171046600000004
 longitude: 8.6225735
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Sagerstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.372206000000006
 longitude: 9.711369000000001
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 12

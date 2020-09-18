@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.1968508
 longitude: 9.4642912
-postcode: 31848
+postcode: "31848"
 city: Bad Münder
 street: "Lange Straße"
 housenumber: 22

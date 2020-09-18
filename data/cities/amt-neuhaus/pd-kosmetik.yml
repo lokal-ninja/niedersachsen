@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 53.2809292
 longitude: 10.934460300000001
-postcode: 19273
+postcode: "19273"
 city: Amt Neuhaus
 street: "Laaver Weg"
 housenumber: 2 a

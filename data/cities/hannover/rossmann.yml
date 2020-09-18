@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3694087
 longitude: 9.749702800000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Marienstraße"
 housenumber: 43

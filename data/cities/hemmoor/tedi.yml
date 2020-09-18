@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.684541200000005
 longitude: 9.1583731
-postcode: 21745
+postcode: "21745"
 city: Hemmoor
 street: "Otto-Peschel-Straße"
 housenumber: 2-8

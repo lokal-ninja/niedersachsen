@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.298134000000005
 longitude: 10.520502200000001
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Wiener Straße"
 housenumber: 22

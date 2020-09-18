@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.8410391
 longitude: 9.464971100000001
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Bülte"
 housenumber: 7

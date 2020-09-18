@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.3855956
 longitude: 9.397189200000001
-postcode: 31559
+postcode: "31559"
 city: Haste
 street: "Hauptstraße"
 housenumber: 67

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.4187213
 longitude: 10.7175185
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Marktstraße"
 housenumber: 4

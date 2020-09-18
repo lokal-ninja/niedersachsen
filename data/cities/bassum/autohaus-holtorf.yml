@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 52.852506700000006
 longitude: 8.7267768
-postcode: 27211
+postcode: "27211"
 city: Bassum
 street: "Bremer Straße"
 housenumber: 47
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 4241 93550"
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
+website: "https://www.ford-holtorf-bassum.de/"

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.199609900000006
 longitude: 8.5730879
-postcode: 28779
+postcode: "28779"
 city: Bremen
 street: "Schwaneweder Straße"
 housenumber: 45-47

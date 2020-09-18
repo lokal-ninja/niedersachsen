@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.3202154
 longitude: 10.2301783
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Bahnhofstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.317549500000005
 longitude: 10.5286741
-postcode: 38110
+postcode: "38110"
 city: Braunschweig
 street: "Altmarkstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4968736
 longitude: 10.7619884
-postcode: 38477
+postcode: "38477"
 city: Jembke
 street: "Hauptstraße"
 housenumber: 34

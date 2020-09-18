@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.412549600000006
 longitude: 7.7319639
-postcode: 26639
+postcode: "26639"
 city: Wiesmoor
 street: "Hauptstraße"
 housenumber: 188

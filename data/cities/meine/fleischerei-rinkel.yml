@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.3827319
 longitude: 10.5410149
-postcode: 38527
+postcode: "38527"
 city: Meine
 street: "Mittelstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.4113611
 longitude: 8.4599697
-postcode: 26935
+postcode: "26935"
 city: Stadland
 street: "Hartwarder Straße"
 housenumber: 1-3

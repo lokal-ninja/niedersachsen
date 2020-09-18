@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.306603700000004
 longitude: 11.0146101
-postcode: 
+postcode: ""
 city: Grasleben
 street: "Helmstedter Straße"
 housenumber: 9

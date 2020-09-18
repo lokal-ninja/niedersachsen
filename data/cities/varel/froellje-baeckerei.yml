@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.379508200000004
 longitude: 8.1418427
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Bürgermeister-Osterloh-Straße"
 housenumber: 24a

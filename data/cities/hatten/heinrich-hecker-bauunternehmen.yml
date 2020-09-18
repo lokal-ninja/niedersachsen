@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.0792803
 longitude: 8.293730400000001
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Hatter Landstraße"
 housenumber: 27

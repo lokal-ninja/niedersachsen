@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.579259900000004
 longitude: 8.5980903
-postcode: 27580
+postcode: "27580"
 city: Bremerhaven
 street: "Langener Landstraße"
 housenumber: 128-132

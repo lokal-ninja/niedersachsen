@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.24999570000001
 longitude: 10.409086100000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Große Bäckerstraße"
 housenumber: 31

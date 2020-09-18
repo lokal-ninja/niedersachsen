@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.5740993
 longitude: 8.0905108
-postcode: 26388
+postcode: "26388"
 city: Wilhelmshaven
 street: "Posener Straße"
 housenumber: 56

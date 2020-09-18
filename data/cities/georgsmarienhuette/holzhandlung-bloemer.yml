@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.218732800000005
 longitude: 8.072102000000001
-postcode: 49124
+postcode: "49124"
 city: Georgsmarienhütte
 street: "Raiffeisenstraße"
 housenumber: 4

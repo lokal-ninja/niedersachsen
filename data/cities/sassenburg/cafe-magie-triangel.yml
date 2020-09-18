@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5127615
 longitude: 10.581806400000001
-postcode: 38524
+postcode: "38524"
 city: Sassenburg
 street: "Zum Holzplatz"
 housenumber: 2

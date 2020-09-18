@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.1902296
 longitude: 8.7035926
-postcode: 27721
+postcode: "27721"
 city: Ritterhude
 street: "Max-Planck-Straße"
 housenumber: 3

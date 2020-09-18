@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.3114142
 longitude: 11.0138985
-postcode: 38368
+postcode: "38368"
 city: Grasleben
 street: "Vorsfelder Straße"
 housenumber: 1

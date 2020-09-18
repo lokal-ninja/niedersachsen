@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.992894400000004
 longitude: 8.762203600000001
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Hauptstraße"
 housenumber: 30

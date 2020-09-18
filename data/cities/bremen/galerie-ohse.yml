@@ -3,10 +3,10 @@ type: node
 shop: Kunst
 latitude: 53.076295300000005
 longitude: 8.8150397
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Contrescarpe"
 housenumber: 36
 phone: ""
-opening_hours: ""
+opening_hours: "Th,Fr 15:00-19:00; Sa 12:00-16:00"
 website: "http://www.galerie-ohse.de/"

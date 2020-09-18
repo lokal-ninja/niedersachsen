@@ -3,10 +3,10 @@ type: way
 shop: Friseur
 latitude: 53.1527468
 longitude: 8.218384
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Nadorster Straße"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:30-12:30,14:00-18:00; Sa 09:30-13:00"
 website: ""

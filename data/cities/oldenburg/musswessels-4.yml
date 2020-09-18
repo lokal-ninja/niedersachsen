@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.141408600000005
 longitude: 8.2081888
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Friedensplatz"
 housenumber: 1

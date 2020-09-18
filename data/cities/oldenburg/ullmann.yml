@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.1436999
 longitude: 8.212796800000001
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Heiligengeiststr."
 housenumber: 31-32

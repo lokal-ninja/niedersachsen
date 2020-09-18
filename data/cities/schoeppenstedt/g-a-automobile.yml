@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.143325600000004
 longitude: 10.7670785
-postcode: 38170
+postcode: "38170"
 city: Schöppenstedt
 street: "An der Actien-Zuckerfabrik"
 housenumber: 1

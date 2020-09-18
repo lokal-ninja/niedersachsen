@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.097053
 longitude: 8.811783400000001
-postcode: 28215
+postcode: "28215"
 city: Bremen
 street: "Hemmstraße"
 housenumber: 303

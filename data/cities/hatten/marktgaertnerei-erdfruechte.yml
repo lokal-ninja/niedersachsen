@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.0405852
 longitude: 8.2537442
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Landschulheimweg"
 housenumber: 14

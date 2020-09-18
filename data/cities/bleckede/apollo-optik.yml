@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 53.2927839
 longitude: 10.7307495
-postcode: 21354
+postcode: "21354"
 city: Bleckede
 street: "Breite Straße"
 housenumber: 28

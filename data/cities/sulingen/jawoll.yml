@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.684591100000006
 longitude: 8.835117
-postcode: 27232
+postcode: "27232"
 city: Sulingen
 street: "Nienburger Straße"
 housenumber: 135

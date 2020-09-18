@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.2304133
 longitude: 8.939162300000001
-postcode: 27726
+postcode: "27726"
 city: Worpswede
 street: "Osterweder Straße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.541889600000005
 longitude: 7.882672400000001
-postcode: 49577
+postcode: "49577"
 city: Ankum
 street: "Knörlpatt"
 housenumber: 17

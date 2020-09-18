@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.608425000000004
 longitude: 8.3693843
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Lappenberger Rott"
 housenumber: 6

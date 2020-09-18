@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.163833000000004
 longitude: 10.5401045
-postcode: 38300
+postcode: "38300"
 city: Wolfenbüttel
 street: "Breite Herzogstraße"
 housenumber: 20

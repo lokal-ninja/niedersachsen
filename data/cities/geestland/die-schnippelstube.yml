@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.537084400000005
 longitude: 8.874421100000001
-postcode: 27624
+postcode: "27624"
 city: Geestland
 street: "Am Mühlenberg"
 housenumber: 17

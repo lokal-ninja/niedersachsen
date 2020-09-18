@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 53.2504226
 longitude: 10.409724
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "An den Brodbänken"
 housenumber: 9-11

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.3212928
 longitude: 10.229242000000001
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Breite Straße"
 housenumber: 28

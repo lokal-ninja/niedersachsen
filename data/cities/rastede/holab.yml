@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.2487725
 longitude: 8.1892301
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Raiffeisenstraße"
 housenumber: 34

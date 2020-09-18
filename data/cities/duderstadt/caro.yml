@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5121939
 longitude: 10.2583643
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 24

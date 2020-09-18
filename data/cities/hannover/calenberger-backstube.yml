@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3617441
 longitude: 9.755167400000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Stephansplatz"
 housenumber: 13

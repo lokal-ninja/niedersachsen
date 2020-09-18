@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.740963
 longitude: 10.232714000000001
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Bremketal"
 housenumber: 1

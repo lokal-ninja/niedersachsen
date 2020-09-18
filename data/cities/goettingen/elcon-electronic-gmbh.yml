@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.5443061
 longitude: 9.8847398
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Gerhard-Gerdes-Straße"
 housenumber: 9

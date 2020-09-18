@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1607241
 longitude: 8.2654815
-postcode: 49326
+postcode: "49326"
 city: Melle
 street: "Wellingholzhausener Straße"
 housenumber: 121

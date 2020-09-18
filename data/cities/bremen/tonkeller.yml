@@ -3,10 +3,10 @@ type: node
 shop: Töpferei
 latitude: 53.075976600000004
 longitude: 8.806800200000001
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Am Markt"
 housenumber: 11
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Sa 11:30-18:00"
 website: ""

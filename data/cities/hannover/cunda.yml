@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 52.3753837
 longitude: 9.735281800000001
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Georgstraße"
 housenumber: 21
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-19:00"
 website: ""

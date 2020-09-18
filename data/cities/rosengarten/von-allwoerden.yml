@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.367814100000004
 longitude: 9.9276316
-postcode: 21224
+postcode: "21224"
 city: Rosengarten
 street: "Bürgermeister-Glade-Straße"
 housenumber: 3

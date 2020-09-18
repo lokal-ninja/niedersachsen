@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.2533876
 longitude: 10.432399700000001
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "Lübecker Straße"
 housenumber: 70

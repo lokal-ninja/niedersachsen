@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.5493466
 longitude: 9.900117700000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Elliehäuser Weg"
 housenumber: 23

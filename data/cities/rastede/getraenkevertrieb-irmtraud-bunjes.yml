@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.2182139
 longitude: 8.2350369
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Tannenkrugstraße"
 housenumber: 31

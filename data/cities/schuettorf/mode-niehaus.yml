@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.322050600000004
 longitude: 7.224884800000001
-postcode: 48465
+postcode: "48465"
 city: Schüttorf
 street: "Färberstraße"
 housenumber: 1

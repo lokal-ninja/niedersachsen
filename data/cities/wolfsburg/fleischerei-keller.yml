@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4218011
 longitude: 10.7530558
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Grauhorststraße"
 housenumber: 38

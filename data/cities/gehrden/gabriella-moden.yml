@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.3125269
 longitude: 9.600473500000001
-postcode: 30989
+postcode: "30989"
 city: Gehrden
 street: "Am Markt"
 housenumber: 3

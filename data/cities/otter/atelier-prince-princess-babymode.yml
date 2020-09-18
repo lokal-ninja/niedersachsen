@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.2083366
 longitude: 9.7900202
-postcode: 21259
+postcode: "21259"
 city: Otter
 street: "Lärchenweg"
 housenumber: 2

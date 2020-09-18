@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.4147121
 longitude: 9.6434748
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Jädekamp"
 housenumber: 19

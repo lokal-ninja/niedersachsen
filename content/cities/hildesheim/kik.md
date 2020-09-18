@@ -1,4 +1,4 @@
 ---
-title: "kik"
+title: "KiK"
 url: /hildesheim/kik/
 ---

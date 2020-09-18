@@ -1,12 +1,12 @@
-id: 6137616383
-type: node
+id: 729669428
+type: way
 shop: Supermarkt
-latitude: 51.5088877
-longitude: 10.2552921
-postcode: 37115
+latitude: 51.5089983
+longitude: 10.255338
+postcode: "37115"
 city: Duderstadt
-street: "Wolfsgärten"
-housenumber: 6-16
+street: "Schützenring"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-14:00"
 website: ""

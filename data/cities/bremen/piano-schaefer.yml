@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 53.0716612
 longitude: 8.8445129
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Am Hulsberg"
 housenumber: 25

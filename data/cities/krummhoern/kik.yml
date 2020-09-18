@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.42764390000001
 longitude: 7.1063983
-postcode: 26736
+postcode: "26736"
 city: Krummhörn
 street: "Handelsstraße"
 housenumber: 1

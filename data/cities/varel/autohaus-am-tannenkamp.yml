@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.368906800000005
 longitude: 8.1266276
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Am Tannenkamp"
 housenumber: 91

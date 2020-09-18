@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.8659047
 longitude: 9.6930151
-postcode: 29683
+postcode: "29683"
 city: Bad Fallingbostel
 street: "Walsroder Straße"
 housenumber: 4

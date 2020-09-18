@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.562392800000005
 longitude: 9.986160700000001
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Resedaweg"
 housenumber: 4

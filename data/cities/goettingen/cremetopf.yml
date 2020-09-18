@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.5344342
 longitude: 9.938292800000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Burgstraße"
 housenumber: 21

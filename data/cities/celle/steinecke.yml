@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.622394
 longitude: 10.080842
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Großer Plan"
 housenumber: 13

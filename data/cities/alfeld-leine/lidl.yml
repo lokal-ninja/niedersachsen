@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9864084
 longitude: 9.8061962
-postcode: 31061
+postcode: "31061"
 city: Alfeld (Leine)
 street: "Hannoversche Straße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.1404347
 longitude: 8.211215000000001
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Haarenstraße"
 housenumber: 15

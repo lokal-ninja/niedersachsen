@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.286922000000004
 longitude: 10.5397078
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Bienroder Weg"
 housenumber: 78-79

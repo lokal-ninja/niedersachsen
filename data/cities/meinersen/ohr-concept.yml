@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.4740003
 longitude: 10.3513406
-postcode: 38536
+postcode: "38536"
 city: Meinersen
 street: "Am Marktplatz"
 housenumber: 1

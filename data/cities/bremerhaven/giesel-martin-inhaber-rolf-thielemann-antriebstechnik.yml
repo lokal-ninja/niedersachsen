@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 53.529574700000005
 longitude: 8.590239500000001
-postcode: 27570
+postcode: "27570"
 city: Bremerhaven
 street: "An der Mühle"
 housenumber: 9

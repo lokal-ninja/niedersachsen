@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.966429000000005
 longitude: 10.552458600000001
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Bahnhofstraße"
 housenumber: 2

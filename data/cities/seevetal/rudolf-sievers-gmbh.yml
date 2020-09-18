@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.385964300000005
 longitude: 10.0064762
-postcode: 21218
+postcode: "21218"
 city: Seevetal
 street: "Bosteler Feld"
 housenumber: 2

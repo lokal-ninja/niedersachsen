@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.1023347
 longitude: 9.3552827
-postcode: 
+postcode: ""
 city: Hameln
 street: "Bäckerstraße"
 housenumber: 43a

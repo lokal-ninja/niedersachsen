@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 52.9886521
 longitude: 8.4614878
-postcode: 27801
+postcode: "27801"
 city: Dötlingen
 street: "Im Dorfe"
 housenumber: 12

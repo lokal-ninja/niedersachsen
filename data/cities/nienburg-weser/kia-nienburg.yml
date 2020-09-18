@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.6239508
 longitude: 9.2392327
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Nienburger Damm"
 housenumber: 7

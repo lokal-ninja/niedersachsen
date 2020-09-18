@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.26341
 longitude: 10.543969
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Kastanienallee"
 housenumber: 18,19

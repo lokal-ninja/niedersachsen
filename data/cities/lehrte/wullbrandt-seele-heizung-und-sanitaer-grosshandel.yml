@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.3659465
 longitude: 9.9131123
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Backhausstraße"
 housenumber: 2

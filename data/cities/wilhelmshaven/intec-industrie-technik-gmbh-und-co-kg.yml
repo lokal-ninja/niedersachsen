@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.519812900000005
 longitude: 8.116468300000001
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Parkstraße"
 housenumber: 1

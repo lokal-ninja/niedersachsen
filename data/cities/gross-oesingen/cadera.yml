@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.652347400000004
 longitude: 10.464035
-postcode: 29393
+postcode: "29393"
 city: Groß Oesingen
 street: "Rübenkamp"
 housenumber: 2a

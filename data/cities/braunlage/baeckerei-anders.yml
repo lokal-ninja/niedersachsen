@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.724768000000005
 longitude: 10.611509100000001
-postcode: 38700
+postcode: "38700"
 city: Braunlage
 street: "Herzog-Wilhelm-Straße"
 housenumber: 37

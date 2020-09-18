@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.592430400000005
 longitude: 8.3455741
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Siemensstraße"
 housenumber: 2

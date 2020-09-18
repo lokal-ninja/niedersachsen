@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.697584400000004
 longitude: 8.0173915
-postcode: 26434
+postcode: "26434"
 city: Wangerland
 street: "Deichstraße"
 housenumber: 57

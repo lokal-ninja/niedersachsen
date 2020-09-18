@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.421675
 longitude: 8.7413405
-postcode: 31603
+postcode: "31603"
 city: Diepenau
 street: "Schulstraße"
 housenumber: 1-3

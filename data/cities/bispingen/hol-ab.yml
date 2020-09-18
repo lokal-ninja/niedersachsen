@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.0805816
 longitude: 9.9953684
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Töpinger Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.2477875
 longitude: 10.821005000000001
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
 street: "Helmstedter Straße"
 housenumber: 34

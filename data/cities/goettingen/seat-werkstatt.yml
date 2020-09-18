@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.5299155
 longitude: 9.8971421
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Kasseler Landstraße"
 housenumber: 53-69

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.532010500000005
 longitude: 9.9316186
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Groner Straße"
 housenumber: 7

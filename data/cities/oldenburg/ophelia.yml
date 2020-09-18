@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 53.1402823
 longitude: 8.2092081
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Theaterwall"
 housenumber: 34

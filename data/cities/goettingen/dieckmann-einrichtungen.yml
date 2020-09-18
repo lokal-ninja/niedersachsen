@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.5345881
 longitude: 9.938010400000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Burgstraße"
 housenumber: 47

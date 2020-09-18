@@ -3,7 +3,7 @@ type: way
 shop: Angeln
 latitude: 53.1862818
 longitude: 8.2309795
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Wilhelmshavener Heerstraße"
 housenumber: 248

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.086192100000005
 longitude: 8.5776792
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Schierbroker Mühlenweg"
 housenumber: 11

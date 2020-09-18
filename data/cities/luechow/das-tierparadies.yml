@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.966571300000005
 longitude: 11.150175200000001
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Drawehner Straße"
 housenumber: 15

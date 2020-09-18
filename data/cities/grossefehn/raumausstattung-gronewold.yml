@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.403654700000004
 longitude: 7.6039197000000005
-postcode: 26629
+postcode: "26629"
 city: Großefehn
 street: "Jahnstraße"
 housenumber: 1

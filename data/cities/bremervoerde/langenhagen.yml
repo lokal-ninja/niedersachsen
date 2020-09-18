@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.4862254
 longitude: 9.144650500000001
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Brunnenstraße"
 housenumber: 10

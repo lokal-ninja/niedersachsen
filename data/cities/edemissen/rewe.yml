@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.386327200000004
 longitude: 10.2579284
-postcode: 31234
+postcode: "31234"
 city: Edemissen
 street: "Peiner Straße"
 housenumber: 25a

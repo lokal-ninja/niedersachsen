@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 53.4891371
 longitude: 8.598357
-postcode: 27572
+postcode: "27572"
 city: Bremerhaven
 street: "Am Lunedeich"
 housenumber: 193

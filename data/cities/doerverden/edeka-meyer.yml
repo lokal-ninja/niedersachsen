@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.846611700000004
 longitude: 9.2252127
-postcode: 27313
+postcode: "27313"
 city: Dörverden
 street: "Große Straße"
 housenumber: 37

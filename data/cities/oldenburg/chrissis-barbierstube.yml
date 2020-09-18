@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1548237
 longitude: 8.2198805
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Nadorster Straße"
 housenumber: 118

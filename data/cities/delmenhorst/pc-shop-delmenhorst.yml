@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.049034400000004
 longitude: 8.6169245
-postcode: 27753
+postcode: "27753"
 city: Delmenhorst
 street: "Oldenburger Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.6604849
 longitude: 8.121993400000001
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Lange Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.970514300000005
 longitude: 8.7947948
-postcode: 28844
+postcode: "28844"
 city: Weyhe
 street: "Syker Straße"
 housenumber: 41

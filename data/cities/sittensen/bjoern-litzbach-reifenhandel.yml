@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 53.298463500000004
 longitude: 9.5041053
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Nütteler Weg"
 housenumber: 12

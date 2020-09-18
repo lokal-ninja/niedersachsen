@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 52.518277600000005
 longitude: 10.5881985
-postcode: 38524
+postcode: "38524"
 city: Sassenburg
 street: "Dorfstraße"
 housenumber: 18a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5018882
 longitude: 7.0931432
-postcode: 26736
+postcode: "26736"
 city: Krummhörn
 street: "Kalvarienweg"
 housenumber: 2b

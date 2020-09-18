@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.419867800000006
 longitude: 10.717009000000001
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Bahnhofstraße"
 housenumber: 12

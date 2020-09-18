@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 53.006175500000005
 longitude: 8.7913303
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Syker Straße"
 housenumber: 57

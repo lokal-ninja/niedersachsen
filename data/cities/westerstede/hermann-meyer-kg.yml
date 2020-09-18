@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.2666911
 longitude: 7.9462931
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Neukamp"
 housenumber: 1

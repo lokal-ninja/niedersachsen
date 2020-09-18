@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 53.1844144
 longitude: 8.0062346
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Peterstraße"
 housenumber: 25
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su 14:00-18:00"
 website: "https://www.vanessa-exclusiv.de/"

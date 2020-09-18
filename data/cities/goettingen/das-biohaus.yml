@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.512452800000005
 longitude: 9.9412164
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Benzstraße"
 housenumber: 2c

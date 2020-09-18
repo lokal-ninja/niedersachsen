@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.3807982
 longitude: 10.536602100000001
-postcode: 38527
+postcode: "38527"
 city: Meine
 street: "Am Marktplatz"
 housenumber: 3a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3018457
 longitude: 8.113782200000001
-postcode: 49191
+postcode: "49191"
 city: Belm
 street: "Weberstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.934162500000006
 longitude: 10.3481296
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Lange Straße"
 housenumber: 64

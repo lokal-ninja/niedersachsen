@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2585704
 longitude: 8.1123115
-postcode: 49086
+postcode: "49086"
 city: Osnabrück
 street: "Sandforter Straße"
 housenumber: 165

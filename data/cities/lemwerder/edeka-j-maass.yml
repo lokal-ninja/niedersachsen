@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.159087500000005
 longitude: 8.6112591
-postcode: 27809
+postcode: "27809"
 city: Lemwerder
 street: "Stedinger Straße"
 housenumber: 65

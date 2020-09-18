@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.1936863
 longitude: 8.5438174
-postcode: 28777
+postcode: "28777"
 city: Bremen
 street: "Bahnstraße"
 housenumber: 14

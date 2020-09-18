@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.3095555
 longitude: 7.487193
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Rudolf-Eucken-Straße"
 housenumber: 5, 7, 9

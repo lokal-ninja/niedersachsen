@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.2814418
 longitude: 9.4996816
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Eckerworth"
 housenumber: 6

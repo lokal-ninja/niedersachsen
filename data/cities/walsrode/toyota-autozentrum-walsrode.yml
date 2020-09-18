@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.832540800000004
 longitude: 9.630549
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Fallingbosteler Straße"
 housenumber: 15

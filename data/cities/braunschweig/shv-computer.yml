@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.2743662
 longitude: 10.5342038
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Bültenweg"
 housenumber: 81

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.547155700000005
 longitude: 9.9069274
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Stresemannstraße"
 housenumber: 25a

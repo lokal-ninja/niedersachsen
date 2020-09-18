@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.2805447
 longitude: 9.7088094
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Schützenstraße"
 housenumber: 2

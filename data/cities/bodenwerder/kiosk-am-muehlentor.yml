@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.9802017
 longitude: 9.5181707
-postcode: 37619
+postcode: "37619"
 city: Bodenwerder
 street: "Am Mühlentor"
 housenumber: A

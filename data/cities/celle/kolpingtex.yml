@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.6132557
 longitude: 10.051798400000001
-postcode: 29225
+postcode: "29225"
 city: Celle
 street: "Welfenallee"
 housenumber: 34/36

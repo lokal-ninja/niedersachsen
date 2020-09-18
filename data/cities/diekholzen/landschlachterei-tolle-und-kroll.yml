@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.0955469
 longitude: 9.919723000000001
-postcode: 31199
+postcode: "31199"
 city: Diekholzen
 street: "Marienburger Straße"
 housenumber: 12

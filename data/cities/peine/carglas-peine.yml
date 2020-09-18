@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.309939
 longitude: 10.2324252
-postcode: 31226
+postcode: "31226"
 city: Peine
 street: "Ilseder Straße"
 housenumber: 56

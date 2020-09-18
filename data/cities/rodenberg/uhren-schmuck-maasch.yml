@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.311340200000004
 longitude: 9.355297
-postcode: 31552
+postcode: "31552"
 city: Rodenberg
 street: "Lange Straße"
 housenumber: 37

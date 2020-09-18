@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2389
 longitude: 9.0341328
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Am Dornbach"
 housenumber: 2

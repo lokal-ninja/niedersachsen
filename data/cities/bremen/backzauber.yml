@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 53.0592886
 longitude: 8.9295307
-postcode: 28327
+postcode: "28327"
 city: Bremen
 street: "Osterholzer Heerstraße"
 housenumber: 84a

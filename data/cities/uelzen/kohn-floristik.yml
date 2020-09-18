@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.9703753
 longitude: 10.560370500000001
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Lüneburger Straße"
 housenumber: 70

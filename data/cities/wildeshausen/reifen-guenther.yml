@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 52.892068
 longitude: 8.414512100000001
-postcode: 27793
+postcode: "27793"
 city: Wildeshausen
 street: "An der Reithwiese"
 housenumber: 1

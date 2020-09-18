@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.18830740000001
 longitude: 9.8130158
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Kiefernbusch"
 housenumber: 1

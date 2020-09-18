@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.39618
 longitude: 9.7660309
-postcode: 30177
+postcode: "30177"
 city: Hannover
 street: "Podbielskistraße"
 housenumber: 111

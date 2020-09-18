@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.9147186
 longitude: 8.817709200000001
-postcode: 28857
+postcode: "28857"
 city: Syke
 street: "Hauptstraße"
 housenumber: 56;58

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.151546700000004
 longitude: 8.2368244
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Donnerschweer Straße"
 housenumber: 215

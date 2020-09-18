@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.8029323
 longitude: 8.6445399
-postcode: 27239
+postcode: "27239"
 city: Twistringen
 street: "Bremer Straße"
 housenumber: 22

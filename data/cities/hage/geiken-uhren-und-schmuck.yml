@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 53.60291
 longitude: 7.2826354
-postcode: 26524
+postcode: "26524"
 city: Hage
 street: "Hauptstraße"
 housenumber: 68

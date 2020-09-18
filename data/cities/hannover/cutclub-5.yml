@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3548484
 longitude: 9.6707412
-postcode: 30455
+postcode: "30455"
 city: Hannover
 street: "Badenstedter Straße"
 housenumber: 223

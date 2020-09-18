@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8403524
 longitude: 8.0387843
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Fritz-Reuter-Straße"
 housenumber: 79

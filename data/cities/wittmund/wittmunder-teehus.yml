@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 53.5768204
 longitude: 7.7828322000000005
-postcode: 26409
+postcode: "26409"
 city: Wittmund
 street: "Norderstraße"
 housenumber: 4

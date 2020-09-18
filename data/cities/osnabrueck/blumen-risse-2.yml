@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.271691100000005
 longitude: 8.0494441
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Johannisstraße"
 housenumber: 73

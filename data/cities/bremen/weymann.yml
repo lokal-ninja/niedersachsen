@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.093972
 longitude: 8.788160000000001
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Wartburgstraße"
 housenumber: 56

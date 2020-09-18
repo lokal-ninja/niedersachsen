@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.347226600000006
 longitude: 9.7236513
-postcode: 30459
+postcode: "30459"
 city: Hannover
 street: "Ricklinger Stadtweg"
 housenumber: 41

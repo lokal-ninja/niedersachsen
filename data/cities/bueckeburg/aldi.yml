@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.266228600000005
 longitude: 9.07036
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Kreuzbreite"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3179358
 longitude: 10.5340846
-postcode: 38110
+postcode: "38110"
 city: Braunschweig
 street: "Waggumer Straße"
 housenumber: 8 c

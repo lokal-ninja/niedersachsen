@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.1567774
 longitude: 9.9548369
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Bahnhofsallee"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.011589400000005
 longitude: 9.035729700000001
-postcode: 28832
+postcode: "28832"
 city: Achim
 street: "Obernstraße"
 housenumber: 45

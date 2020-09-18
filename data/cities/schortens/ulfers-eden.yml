@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.573498400000005
 longitude: 7.985715600000001
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "Jeversche Landstraße"
 housenumber: 6

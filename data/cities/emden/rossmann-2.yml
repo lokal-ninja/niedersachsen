@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.389678800000006
 longitude: 7.209458000000001
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Fritz-Reuter-Straße"
 housenumber: 4

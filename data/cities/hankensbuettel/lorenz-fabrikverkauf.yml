@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 52.723109400000006
 longitude: 10.6111733
-postcode: 29386
+postcode: "29386"
 city: Hankensbüttel
 street: "An den Fischteichen"
 housenumber: 5

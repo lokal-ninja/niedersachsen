@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.163755800000004
 longitude: 10.5375028
-postcode: 38300
+postcode: "38300"
 city: Wolfenbüttel
 street: "Lange Herzogstraße"
 housenumber: 17

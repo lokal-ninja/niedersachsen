@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.085720200000004
 longitude: 9.6643694
-postcode: 29643
+postcode: "29643"
 city: Neuenkirchen
 street: "Moorstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.500970800000005
 longitude: 9.4564651
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Wunstorfer Straße"
 housenumber: 28

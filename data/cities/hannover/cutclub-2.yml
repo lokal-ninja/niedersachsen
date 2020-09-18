@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4068382
 longitude: 9.8003122
-postcode: 30659
+postcode: "30659"
 city: Hannover
 street: "Sutelstraße"
 housenumber: 2

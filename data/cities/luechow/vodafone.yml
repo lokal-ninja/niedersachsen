@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.967241
 longitude: 11.155149000000002
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Schmiedestraße"
 housenumber: 1a

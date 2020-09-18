@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.679253100000004
 longitude: 6.9952958
-postcode: 26571
+postcode: "26571"
 city: Juist
 street: "Strandstraße"
 housenumber: 10

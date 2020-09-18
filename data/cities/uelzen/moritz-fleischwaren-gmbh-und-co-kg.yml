@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.9911601
 longitude: 10.5369592
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Am Funkturm"
 housenumber: 18

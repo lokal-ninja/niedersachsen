@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.692921600000005
 longitude: 7.291123600000001
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Hasestraße"
 housenumber: 8

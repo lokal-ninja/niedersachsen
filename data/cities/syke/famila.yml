@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.915748
 longitude: 8.825079800000001
-postcode: 28857
+postcode: "28857"
 city: Syke
 street: "Zum Hachepark"
 housenumber: 8

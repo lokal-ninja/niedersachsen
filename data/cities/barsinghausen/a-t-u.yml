@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.3091797
 longitude: 9.4895086
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Röntgenstraße"
 housenumber: 1a

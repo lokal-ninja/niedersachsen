@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.7485164
 longitude: 9.3865514
-postcode: 37691
+postcode: "37691"
 city: Boffzen
 street: "Obere Dorfstraße"
 housenumber: 5

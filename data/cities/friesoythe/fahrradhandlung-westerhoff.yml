@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.9382054
 longitude: 7.8368985
-postcode: 26169
+postcode: "26169"
 city: Friesoythe
 street: "Alte Tulpenstraße"
 housenumber: 1

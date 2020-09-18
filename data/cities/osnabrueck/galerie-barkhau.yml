@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 52.2743034
 longitude: 8.048658
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Öwer de Hase"
 housenumber: 20

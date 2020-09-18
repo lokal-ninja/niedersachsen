@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.3148203
 longitude: 7.434120600000001
-postcode: 48432
+postcode: "48432"
 city: Rheine
 street: "Röntgenstraße"
 housenumber: 41

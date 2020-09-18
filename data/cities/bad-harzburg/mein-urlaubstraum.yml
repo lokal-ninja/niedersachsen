@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.887208300000005
 longitude: 10.5716623
-postcode: 38667
+postcode: "38667"
 city: Bad Harzburg
 street: "Goethestraße"
 housenumber: 40

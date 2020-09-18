@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.544623900000005
 longitude: 9.9262376
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Maschmühlenweg"
 housenumber: 81

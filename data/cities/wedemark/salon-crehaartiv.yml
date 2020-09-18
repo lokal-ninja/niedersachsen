@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5225195
 longitude: 9.757067000000001
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Burgwedeler Straße"
 housenumber: 10

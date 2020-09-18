@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.8590717
 longitude: 9.583683800000001
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Von-Stoltzenberg-Straße"
 housenumber: 10

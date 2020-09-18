@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.6583647
 longitude: 10.126366500000001
-postcode: 29229
+postcode: "29229"
 city: Celle
 street: "Riethkamp"
 housenumber: 2b

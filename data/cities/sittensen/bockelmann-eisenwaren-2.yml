@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 53.2804154
 longitude: 9.4849884
-postcode: 27419
+postcode: "27419"
 city: Sittensen
 street: "Sittabogen"
 housenumber: 9

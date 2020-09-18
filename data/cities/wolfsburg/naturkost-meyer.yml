@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3930997
 longitude: 10.7334261
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Feldscheunenweg"
 housenumber: 2

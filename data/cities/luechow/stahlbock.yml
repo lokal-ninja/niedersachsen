@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.9676161
 longitude: 11.1549881
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 25

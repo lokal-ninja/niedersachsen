@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.097571200000004
 longitude: 8.870483700000001
-postcode: 28359
+postcode: "28359"
 city: Bremen
 street: "Berckstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5349146
 longitude: 9.9380188
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Theaterstraße"
 housenumber: 9

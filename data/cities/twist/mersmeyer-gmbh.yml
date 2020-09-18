@@ -3,7 +3,7 @@ type: node
 shop: Klempner
 latitude: 52.6349832
 longitude: 7.058671
-postcode: 49767
+postcode: "49767"
 city: Twist
 street: "Am Marktplatz"
 housenumber: 7

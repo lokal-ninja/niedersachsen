@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.5230163
 longitude: 9.739316200000001
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Scherenbosteler Straße"
 housenumber: 70

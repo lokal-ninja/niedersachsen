@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.268480100000005
 longitude: 7.457254900000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Benzstraße"
 housenumber: 8

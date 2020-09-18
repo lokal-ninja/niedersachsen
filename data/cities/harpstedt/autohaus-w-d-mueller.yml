@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.9024713
 longitude: 8.5659606
-postcode: 27243
+postcode: "27243"
 city: Harpstedt
 street: "Altes Heidland"
 housenumber: 1

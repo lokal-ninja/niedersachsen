@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.986902400000005
 longitude: 9.8427851
-postcode: 29614
+postcode: "29614"
 city: Soltau
 street: "Wilhelmstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.181161
 longitude: 8.5717996
-postcode: 28779
+postcode: "28779"
 city: Bremen
 street: "Weserstrandstraße"
 housenumber: 5

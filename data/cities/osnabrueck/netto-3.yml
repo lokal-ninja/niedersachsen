@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.281330000000004
 longitude: 8.1105037
-postcode: 49086
+postcode: "49086"
 city: Osnabrück
 street: "Nordstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 53.17768280000001
 longitude: 8.5982561
-postcode: 28755
+postcode: "28755"
 city: Bremen
 street: "Lindenstraße"
 housenumber: 90

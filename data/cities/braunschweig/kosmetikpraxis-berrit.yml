@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.273291
 longitude: 10.543891100000002
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Wilhelm-Bode-Straße"
 housenumber: 40

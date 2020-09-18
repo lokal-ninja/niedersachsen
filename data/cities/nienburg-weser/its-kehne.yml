@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.63975670000001
 longitude: 9.2094143
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Friedrich-Ludwig-Jahn-Straße"
 housenumber: 39

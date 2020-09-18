@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.080378700000004
 longitude: 8.7705939
-postcode: 28197
+postcode: "28197"
 city: Bremen
 street: "Dötlinger Straße"
 housenumber: 10-12

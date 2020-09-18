@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.267371000000004
 longitude: 8.0529502
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Johannisstraße"
 housenumber: 124

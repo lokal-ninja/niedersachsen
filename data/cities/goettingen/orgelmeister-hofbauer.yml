@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.5304786
 longitude: 9.9253012
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Rosdorfer Weg"
 housenumber: 14

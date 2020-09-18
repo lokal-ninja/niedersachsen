@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.432208200000005
 longitude: 9.732867800000001
-postcode: 30851
+postcode: "30851"
 city: Langenhagen
 street: "Hindenburgstraße"
 housenumber: 5

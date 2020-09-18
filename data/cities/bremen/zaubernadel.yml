@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.1006209
 longitude: 8.8863451
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Wilhelm-Röntgen-Straße"
 housenumber: 12

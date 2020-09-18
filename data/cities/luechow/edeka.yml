@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.967337300000004
 longitude: 11.1506921
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Drawehner Straße"
 housenumber: 6-10

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.2622713
 longitude: 8.0623831
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Meller Straße"
 housenumber: 95

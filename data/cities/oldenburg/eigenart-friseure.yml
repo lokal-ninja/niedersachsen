@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1352392
 longitude: 8.2178336
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Koppelstraße"
 housenumber: 1

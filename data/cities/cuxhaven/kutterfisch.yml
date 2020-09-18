@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.862106000000004
 longitude: 8.708681
-postcode: 27472
+postcode: "27472"
 city: Cuxhaven
 street: "Neufelder Straße"
 housenumber: 14

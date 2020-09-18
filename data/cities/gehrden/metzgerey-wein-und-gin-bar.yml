@@ -3,10 +3,10 @@ type: way
 shop: Wein
 latitude: 52.3148703
 longitude: 9.5988439
-postcode: 30989
+postcode: "30989"
 city: Gehrden
 street: "Steinweg"
 housenumber: 2
 phone: "+49 5108 6070638"
-opening_hours: "Mi-So ab 17:00"
-website: ""
+opening_hours: "We-Su 17:00+"
+website: "https://www.metzgerey.de/"

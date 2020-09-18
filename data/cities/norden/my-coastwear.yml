@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.6184762
 longitude: 7.159713000000001
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Kolkstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.0847993
 longitude: 9.994366600000001
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Bahnhofstraße"
 housenumber: 17

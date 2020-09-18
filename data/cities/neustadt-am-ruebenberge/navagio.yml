@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.489260200000004
 longitude: 9.2933059
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Mardorfer Straße"
 housenumber: 22

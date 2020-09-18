@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.151724800000004
 longitude: 9.9522597
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Scheelenstraße"
 housenumber: 23

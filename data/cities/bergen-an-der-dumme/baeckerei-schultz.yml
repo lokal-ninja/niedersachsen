@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.89069490000001
 longitude: 10.960422000000001
-postcode: 29468
+postcode: "29468"
 city: Bergen an der Dumme
 street: "Breite Straße"
 housenumber: 33

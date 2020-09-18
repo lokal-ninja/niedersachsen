@@ -3,7 +3,7 @@ type: node
 shop: Gasflaschen
 latitude: 52.723250900000004
 longitude: 10.6662017
-postcode: 29378
+postcode: "29378"
 city: Wittingen
 street: "Am Kanal"
 housenumber: 5-7

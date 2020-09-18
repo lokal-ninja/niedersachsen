@@ -1,4 +1,4 @@
 ---
-title: "inkoop"
+title: "Inkoop"
 url: /delmenhorst/inkoop/
 ---

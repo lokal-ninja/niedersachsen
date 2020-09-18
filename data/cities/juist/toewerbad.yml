@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 53.6788393
 longitude: 6.9962619
-postcode: 26571
+postcode: "26571"
 city: Juist
 street: "Strandstraße"
 housenumber: 15-16

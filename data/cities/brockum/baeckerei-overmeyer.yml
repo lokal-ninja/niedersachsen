@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.4658552
 longitude: 8.420333600000001
-postcode: 49448
+postcode: "49448"
 city: Brockum
 street: "An der Esse"
 housenumber: 32

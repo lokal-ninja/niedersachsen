@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.421750100000004
 longitude: 8.740833700000001
-postcode: 31603
+postcode: "31603"
 city: Diepenau
 street: "Lavelsloher Straße"
 housenumber: 4

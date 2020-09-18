@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.1748598
 longitude: 9.667614700000001
-postcode: 27389
+postcode: "27389"
 city: Fintel
 street: "Wohlsberg"
 housenumber: 14

@@ -3,10 +3,10 @@ type: node
 shop: Sammler
 latitude: 53.1129514
 longitude: 8.7550883
-postcode: 28237
+postcode: "28237"
 city: Bremen
 street: "Lindenhofstraße"
 housenumber: 44f
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Th 10:00-15:00; We,Fr 10:00-13:00"
 website: ""

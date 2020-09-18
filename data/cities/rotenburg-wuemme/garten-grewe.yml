@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.09423150000001
 longitude: 9.403105
-postcode: 27356
+postcode: "27356"
 city: Rotenburg (Wümme)
 street: "Knickchaussee"
 housenumber: 5

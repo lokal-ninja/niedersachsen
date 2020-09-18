@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.9816998
 longitude: 10.572046
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Zum Moorfeld"
 housenumber: 2

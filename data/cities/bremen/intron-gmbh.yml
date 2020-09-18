@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.1586409
 longitude: 8.7031725
-postcode: 28719
+postcode: "28719"
 city: Bremen
 street: "Bremer Heerstraße"
 housenumber: 8

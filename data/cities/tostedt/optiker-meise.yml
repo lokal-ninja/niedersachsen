@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.280876500000005
 longitude: 9.7111227
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Unter den Linden"
 housenumber: 5

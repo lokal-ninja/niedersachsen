@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 51.42033970000001
 longitude: 9.9132055
-postcode: 37133
+postcode: "37133"
 city: Friedland
 street: "Heimkehrerstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: ""
+website: "https://www.edeka.de/eh/hessenring/angela-w%C3%BCstefeld-e.k.-heimkehrerstr.-2/index.jsp"

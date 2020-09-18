@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.3762921
 longitude: 9.704283
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Ungerstraße"
 housenumber: 

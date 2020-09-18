@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.163851400000006
 longitude: 10.5372661
-postcode: 38300
+postcode: "38300"
 city: Wolfenbüttel
 street: "Krambuden"
 housenumber: 48

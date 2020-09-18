@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 53.161152400000006
 longitude: 8.7035281
-postcode: 28719
+postcode: "28719"
 city: Bremen
 street: "Bremer Heerstraße"
 housenumber: 19

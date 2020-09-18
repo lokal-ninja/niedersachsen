@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.37034980000001
 longitude: 9.7274571
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Calenberger Straße"
 housenumber: 14

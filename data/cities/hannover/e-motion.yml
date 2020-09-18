@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.371104200000005
 longitude: 9.7355309
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Am Markte"
 housenumber: 13

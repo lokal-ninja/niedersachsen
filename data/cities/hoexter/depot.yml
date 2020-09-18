@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.7744347
 longitude: 9.382295800000001
-postcode: 37671
+postcode: "37671"
 city: Höxter
 street: "Am Markt"
 housenumber: 6

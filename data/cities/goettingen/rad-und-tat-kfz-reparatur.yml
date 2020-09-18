@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5426021
 longitude: 9.9064574
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Grätzelstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.982852300000005
 longitude: 9.1808253
-postcode: 27299
+postcode: "27299"
 city: Langwedel
 street: "Roggenkamp"
 housenumber: 5

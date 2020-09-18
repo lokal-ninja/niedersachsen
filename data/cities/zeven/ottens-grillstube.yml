@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.2988763
 longitude: 9.2773796
-postcode: 27404
+postcode: "27404"
 city: Zeven
 street: "Feldstraße"
 housenumber: 16a

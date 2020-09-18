@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.143837600000005
 longitude: 8.192823500000001
-postcode: 26129
+postcode: "26129"
 city: Oldenburg
 street: "Ammerländer Heerstraße"
 housenumber: 4

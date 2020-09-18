@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.828092600000005
 longitude: 9.4626637
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Sollingstraße"
 housenumber: 94

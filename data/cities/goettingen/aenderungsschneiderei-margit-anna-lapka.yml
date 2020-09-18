@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.5349098
 longitude: 9.894250300000001
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Heinrich-Warnecke-Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4173309
 longitude: 10.411566800000001
-postcode: 38543
+postcode: "38543"
 city: Hillerse
 street: "Schier-Rähmen-Weg"
 housenumber: 2

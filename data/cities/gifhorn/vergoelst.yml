@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4627205
 longitude: 10.5451729
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Eyßelkamp"
 housenumber: 1

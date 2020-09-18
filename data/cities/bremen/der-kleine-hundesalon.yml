@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 53.0976681
 longitude: 8.869827200000001
-postcode: 28359
+postcode: "28359"
 city: Bremen
 street: "Leher Heerstraße"
 housenumber: 2a

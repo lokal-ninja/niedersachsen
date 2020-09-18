@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0763903
 longitude: 9.7243224
-postcode: 31036
+postcode: "31036"
 city: Eime
 street: "Hauptstraße"
 housenumber: 19a

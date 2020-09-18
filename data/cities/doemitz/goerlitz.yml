@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 53.137210700000004
 longitude: 11.2649462
-postcode: 19303
+postcode: "19303"
 city: Dömitz
 street: "Roggenfelder Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo 06:30-11:30; Tu-Fr 06:00-17:00; Sa 06:00-11:30"
-website: ""
+website: "http://www.baeckerei-goerlitz.de/"

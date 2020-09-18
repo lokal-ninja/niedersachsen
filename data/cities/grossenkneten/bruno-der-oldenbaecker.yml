@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.9438345
 longitude: 8.2520547
-postcode: 26197
+postcode: "26197"
 city: Großenkneten
 street: "Hauptstr."
 housenumber: 64

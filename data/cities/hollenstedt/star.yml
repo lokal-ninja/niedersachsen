@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.365165600000005
 longitude: 9.7118084
-postcode: 21279
+postcode: "21279"
 city: Hollenstedt
 street: "Tostedter Straße"
 housenumber: 1

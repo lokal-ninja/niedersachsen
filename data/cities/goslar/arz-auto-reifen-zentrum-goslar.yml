@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.948786500000004
 longitude: 10.5410336
-postcode: 38690
+postcode: "38690"
 city: Goslar
 street: "Okerstraße"
 housenumber: 45

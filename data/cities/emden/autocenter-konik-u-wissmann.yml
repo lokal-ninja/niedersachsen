@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.361932700000004
 longitude: 7.176205100000001
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Dithmarscher Straße"
 housenumber: 19

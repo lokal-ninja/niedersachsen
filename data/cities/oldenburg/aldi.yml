@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.1304195
 longitude: 8.2251489
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Bremer Straße"
 housenumber: 47-53

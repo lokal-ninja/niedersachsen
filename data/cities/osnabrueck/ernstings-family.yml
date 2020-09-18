@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2731829
 longitude: 8.049184200000001
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Neumarkt"
 housenumber: 4

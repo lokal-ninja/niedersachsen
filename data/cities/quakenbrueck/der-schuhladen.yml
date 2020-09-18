@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.6753908
 longitude: 7.9453119
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Friedrichstraße"
 housenumber: 6

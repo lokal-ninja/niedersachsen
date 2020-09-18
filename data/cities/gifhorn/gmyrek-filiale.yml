@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4813259
 longitude: 10.5649841
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Gladiolenweg"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.528876800000006
 longitude: 8.106442300000001
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Bismarckstraße"
 housenumber: 185

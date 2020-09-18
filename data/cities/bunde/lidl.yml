@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1840756
 longitude: 7.2628503
-postcode: 26831
+postcode: "26831"
 city: Bunde
 street: "Neuschanzer Straße"
 housenumber: 22

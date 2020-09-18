@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.142094500000006
 longitude: 8.1913734
-postcode: 26129
+postcode: "26129"
 city: Oldenburg
 street: "Bloherfelder Straße"
 housenumber: 2-4

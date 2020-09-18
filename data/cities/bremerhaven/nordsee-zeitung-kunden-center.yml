@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.543464500000006
 longitude: 8.5772426
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Obere Bürger"
 housenumber: 48

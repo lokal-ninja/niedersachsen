@@ -3,7 +3,7 @@ type: way
 shop: Landwirtschaftlich
 latitude: 52.328586200000004
 longitude: 8.3262377
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Im Felde"
 housenumber: 1

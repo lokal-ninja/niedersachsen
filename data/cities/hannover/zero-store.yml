@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.373845700000004
 longitude: 9.737965200000001
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Karmarschstraße"
 housenumber: 8

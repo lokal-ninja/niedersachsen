@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.366670500000005
 longitude: 9.7523833
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Lutherstraße"
 housenumber: 40

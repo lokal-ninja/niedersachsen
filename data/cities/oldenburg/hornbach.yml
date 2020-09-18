@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.1255254
 longitude: 8.1653231
-postcode: 26131
+postcode: "26131"
 city: Oldenburg
 street: "Edewechter Landstraße"
 housenumber: 149

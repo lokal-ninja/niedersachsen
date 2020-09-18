@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.4439986
 longitude: 10.0210035
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Hülptingser Weg"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5046952
 longitude: 9.452549900000001
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Landwehr"
 housenumber: 9

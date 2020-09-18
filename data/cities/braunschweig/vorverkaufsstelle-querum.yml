@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.2905012
 longitude: 10.555244700000001
-postcode: 38108
+postcode: "38108"
 city: Braunschweig
 street: "Westfalenplatz"
 housenumber: 3

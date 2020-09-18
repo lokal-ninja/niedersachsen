@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 53.314771900000004
 longitude: 7.9197398
-postcode: 26655
+postcode: "26655"
 city: Westerstede
 street: "Brinkstraße"
 housenumber: 4

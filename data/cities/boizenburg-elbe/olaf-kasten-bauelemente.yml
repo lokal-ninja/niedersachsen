@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 53.382814100000004
 longitude: 10.717527800000001
-postcode: 19258
+postcode: "19258"
 city: Boizenburg/Elbe
 street: "Schillerstraße"
 housenumber: 19

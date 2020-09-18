@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.914992100000006
 longitude: 8.4260889
-postcode: 27801
+postcode: "27801"
 city: Dötlingen
 street: "Hunteweg"
 housenumber: 12

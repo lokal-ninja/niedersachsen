@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.1524888
 longitude: 9.950626600000001
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Hoher Weg"
 housenumber: 4

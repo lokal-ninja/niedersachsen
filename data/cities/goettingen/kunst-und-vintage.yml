@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.535392800000004
 longitude: 9.9310053
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Obere-Masch-Straße"
 housenumber: 18

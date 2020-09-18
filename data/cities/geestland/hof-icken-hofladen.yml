@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.647987400000005
 longitude: 8.5987304
-postcode: 27607
+postcode: "27607"
 city: Geestland
 street: "Hörn"
 housenumber: 4

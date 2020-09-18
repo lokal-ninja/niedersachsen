@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.9373008
 longitude: 10.3343638
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Meisterstraße"
 housenumber: 4

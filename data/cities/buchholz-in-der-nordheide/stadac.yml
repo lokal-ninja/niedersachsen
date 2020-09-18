@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.3256475
 longitude: 9.8130751
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Hanomagstraße"
 housenumber: 25

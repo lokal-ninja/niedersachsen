@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3558262
 longitude: 9.5925939
-postcode: 34355
+postcode: "34355"
 city: Staufenberg
 street: "Hannoversche Straße"
 housenumber: 41

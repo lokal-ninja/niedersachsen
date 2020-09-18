@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.469857000000005
 longitude: 8.3748293
-postcode: 49448
+postcode: "49448"
 city: Lemförde
 street: "Burgstraße"
 housenumber: 2

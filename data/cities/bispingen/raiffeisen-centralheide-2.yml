@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.09986670000001
 longitude: 10.036862000000001
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Steinbecker Straße"
 housenumber: 30

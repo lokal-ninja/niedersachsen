@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.2808178
 longitude: 8.0435833
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Hasestraße"
 housenumber: 4

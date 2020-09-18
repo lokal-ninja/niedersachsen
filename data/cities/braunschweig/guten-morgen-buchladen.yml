@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.273129000000004
 longitude: 10.533836
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Bültenweg"
 housenumber: 87

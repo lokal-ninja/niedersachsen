@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.477771700000005
 longitude: 8.6533847
-postcode: 27612
+postcode: "27612"
 city: Loxstedt
 street: "Robert-Bosch-Straße"
 housenumber: 1

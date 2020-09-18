@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.088860700000005
 longitude: 8.8584979
-postcode: 28211
+postcode: "28211"
 city: Bremen
 street: "Clausewitzstraße"
 housenumber: 4

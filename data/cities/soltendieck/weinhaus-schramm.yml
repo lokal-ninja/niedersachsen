@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 52.859773600000004
 longitude: 10.8239172
-postcode: 29594
+postcode: "29594"
 city: Soltendieck
 street: "Zur Kapelle"
 housenumber: 3

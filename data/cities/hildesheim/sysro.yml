@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.1546096
 longitude: 9.9573582
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Zingel"
 housenumber: 24

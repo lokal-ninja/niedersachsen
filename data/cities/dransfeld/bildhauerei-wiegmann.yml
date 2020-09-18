@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.502399700000005
 longitude: 9.7617802
-postcode: 37127
+postcode: "37127"
 city: Dransfeld
 street: "Lange Straße"
 housenumber: 64

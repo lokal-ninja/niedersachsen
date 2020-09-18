@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.6147092
 longitude: 8.3644315
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Thüringer Straße"
 housenumber: 17

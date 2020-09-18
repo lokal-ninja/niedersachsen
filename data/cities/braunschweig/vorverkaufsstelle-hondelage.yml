@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.31438300000001
 longitude: 10.606891200000002
-postcode: 38108
+postcode: "38108"
 city: Braunschweig
 street: "Ackerweg"
 housenumber: 1 F

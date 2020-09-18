@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.114624600000006
 longitude: 8.4544847
-postcode: 27798
+postcode: "27798"
 city: Hude
 street: "Parkstraße"
 housenumber: 63

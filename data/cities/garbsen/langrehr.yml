@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4077867
 longitude: 9.6086679
-postcode: 30823
+postcode: "30823"
 city: Garbsen
 street: "Am Hasenberge"
 housenumber: 14

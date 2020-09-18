@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.65485760000001
 longitude: 9.4026416
-postcode: 31634
+postcode: "31634"
 city: Steimbke
 street: "Altes Ölfeld"
 housenumber: 1

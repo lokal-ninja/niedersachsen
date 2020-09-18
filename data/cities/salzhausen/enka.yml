@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2256598
 longitude: 10.1660278
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Eyendorfer Straße"
 housenumber: 4

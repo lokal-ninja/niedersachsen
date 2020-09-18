@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.3276946
 longitude: 9.879890300000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Breite Straße"
 housenumber: 16

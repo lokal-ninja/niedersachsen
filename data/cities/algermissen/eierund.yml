@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2547134
 longitude: 9.969672500000001
-postcode: 31191
+postcode: "31191"
 city: Algermissen
 street: "Neue Straße"
 housenumber: 11-12

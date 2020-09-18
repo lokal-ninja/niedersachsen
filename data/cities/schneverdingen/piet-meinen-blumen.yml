@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.1072046
 longitude: 9.7899735
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Am Vogelsang"
 housenumber: 12

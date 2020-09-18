@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.1120717
 longitude: 8.4590043
-postcode: 27798
+postcode: "27798"
 city: Hude
 street: "Parkstraße"
 housenumber: 22

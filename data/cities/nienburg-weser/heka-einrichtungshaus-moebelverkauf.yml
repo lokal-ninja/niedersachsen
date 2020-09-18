@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.6601736
 longitude: 9.237569
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Celler Straße"
 housenumber: 112

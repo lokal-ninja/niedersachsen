@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.736878600000004
 longitude: 7.7572824
-postcode: 49624
+postcode: "49624"
 city: Löningen
 street: "Linderner Straße"
 housenumber: 2

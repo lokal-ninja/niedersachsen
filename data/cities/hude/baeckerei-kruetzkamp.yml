@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.108665900000005
 longitude: 8.461311700000001
-postcode: 27798
+postcode: "27798"
 city: Hude
 street: "Hohe Straße"
 housenumber: 27

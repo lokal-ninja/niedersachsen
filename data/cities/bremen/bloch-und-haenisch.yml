@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.173219800000005
 longitude: 8.6890105
-postcode: 28717
+postcode: "28717"
 city: Bremen
 street: "Bördestraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.3774225
 longitude: 10.403231700000001
-postcode: 38530
+postcode: "38530"
 city: Didderse
 street: "An der Schule"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.3883006
 longitude: 9.8141326
-postcode: 30627
+postcode: "30627"
 city: Hannover
 street: "Winkelriede"
 housenumber: 10

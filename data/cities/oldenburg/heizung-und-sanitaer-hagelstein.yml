@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 53.1913173
 longitude: 8.202688100000001
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Ofenerdieker Straße"
 housenumber: 88

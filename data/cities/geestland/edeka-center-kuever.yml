@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 53.627692800000005
 longitude: 8.811263
-postcode: 27624
+postcode: "27624"
 city: Geestland
 street: "Handelspark"
 housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

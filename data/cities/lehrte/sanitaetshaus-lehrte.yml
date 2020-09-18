@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.3795628
 longitude: 9.976286400000001
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Burgdorfer Straße"
 housenumber: 32

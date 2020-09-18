@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.16104300000001
 longitude: 10.5165196
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Adersheimer Straße"
 housenumber: 29

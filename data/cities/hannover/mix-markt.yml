@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.411210700000005
 longitude: 9.7497322
-postcode: 30179
+postcode: "30179"
 city: Hannover
 street: "Vahrenheider Markt"
 housenumber: 6

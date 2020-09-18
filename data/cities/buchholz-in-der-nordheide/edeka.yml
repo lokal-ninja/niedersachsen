@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.311582800000004
 longitude: 9.811567
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Niedersachsenstraße"
 housenumber: 19

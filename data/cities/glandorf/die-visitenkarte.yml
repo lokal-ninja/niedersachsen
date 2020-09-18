@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.080418300000005
 longitude: 7.9975513000000005
-postcode: 49219
+postcode: "49219"
 city: Glandorf
 street: "Münsterstraße"
 housenumber: 23

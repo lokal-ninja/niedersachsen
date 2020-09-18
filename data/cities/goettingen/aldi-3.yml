@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5301483
 longitude: 9.881662700000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Am Kauf Park"
 housenumber: 2

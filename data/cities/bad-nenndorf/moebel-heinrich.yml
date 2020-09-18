@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.337015
 longitude: 9.401610900000001
-postcode: 31542
+postcode: "31542"
 city: Bad Nenndorf
 street: "Auf dem Wachtlande"
 housenumber: 2

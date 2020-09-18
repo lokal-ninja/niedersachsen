@@ -3,7 +3,7 @@ type: way
 shop: Radiotechnik
 latitude: 53.2063312
 longitude: 8.229659
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Sandbergstraße"
 housenumber: 1

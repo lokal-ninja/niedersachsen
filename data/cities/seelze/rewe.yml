@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3986992
 longitude: 9.5921555
-postcode: 30926
+postcode: "30926"
 city: Seelze
 street: "Brüggefeld"
 housenumber: 1

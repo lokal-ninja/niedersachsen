@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.2596089
 longitude: 10.5432251
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Herderstraße"
 housenumber: 30a

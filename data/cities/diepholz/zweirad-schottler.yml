@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.6185793
 longitude: 8.380099900000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Stauffenbergstraße"
 housenumber: 64

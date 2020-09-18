@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2887106
 longitude: 10.563502000000002
-postcode: 
+postcode: ""
 city: Braunschweig
 street: ""
 housenumber: 

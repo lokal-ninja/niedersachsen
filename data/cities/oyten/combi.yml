@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0602948
 longitude: 9.026997
-postcode: 28876
+postcode: "28876"
 city: Oyten
 street: "Wehlacker"
 housenumber: 6

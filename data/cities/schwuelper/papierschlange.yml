@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.3534997
 longitude: 10.432183
-postcode: 38179
+postcode: "38179"
 city: Schwülper
 street: "Hauptstraße"
 housenumber: 12

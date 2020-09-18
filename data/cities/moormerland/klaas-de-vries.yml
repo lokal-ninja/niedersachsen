@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.3267377
 longitude: 7.525912000000001
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Westerwieke"
 housenumber: 51

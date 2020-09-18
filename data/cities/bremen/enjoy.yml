@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.174493600000005
 longitude: 8.6151044
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Bermpohlstraße"
 housenumber: 13

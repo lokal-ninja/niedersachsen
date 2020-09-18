@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.2761958
 longitude: 8.0425912
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Krahnstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.6555577
 longitude: 8.1136181
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Dohlenweg"
 housenumber: 7

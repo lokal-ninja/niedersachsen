@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.2273493
 longitude: 7.4457116
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Steinburgsgang"
 housenumber: 2-4

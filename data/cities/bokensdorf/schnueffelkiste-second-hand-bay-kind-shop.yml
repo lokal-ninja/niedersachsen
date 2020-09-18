@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.5003029
 longitude: 10.7159671
-postcode: 38556
+postcode: "38556"
 city: Bokensdorf
 street: "Grußendorfer Straße"
 housenumber: 8

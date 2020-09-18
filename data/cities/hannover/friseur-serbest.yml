@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3275872
 longitude: 9.7801708
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 389

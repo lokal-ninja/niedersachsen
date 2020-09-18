@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.1899935
 longitude: 8.201781800000001
-postcode: 26125
+postcode: "26125"
 city: Oldenburg
 street: "Ofenerdieker Straße"
 housenumber: 61

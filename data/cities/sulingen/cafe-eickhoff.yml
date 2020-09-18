@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6826372
 longitude: 8.806666
-postcode: 27232
+postcode: "27232"
 city: Sulingen
 street: "Lange Straße"
 housenumber: 32

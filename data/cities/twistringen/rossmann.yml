@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.803176400000005
 longitude: 8.6448047
-postcode: 27239
+postcode: "27239"
 city: Twistringen
 street: "Bremer Straße"
 housenumber: 26

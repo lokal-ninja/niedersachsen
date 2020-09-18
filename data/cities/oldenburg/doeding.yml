@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.1376599
 longitude: 8.214956800000001
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Schlossplatz"
 housenumber: 17

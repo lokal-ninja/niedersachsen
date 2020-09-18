@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.0753287
 longitude: 8.8240427
-postcode: 28203
+postcode: "28203"
 city: Bremen
 street: "Humboldtstraße"
 housenumber: 16

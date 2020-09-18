@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.2621016
 longitude: 8.0474124
-postcode: 49080
+postcode: "49080"
 city: Osnabrück
 street: "Sutthauser Straße"
 housenumber: 76

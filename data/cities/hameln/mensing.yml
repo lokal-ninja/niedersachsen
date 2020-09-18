@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.104172000000005
 longitude: 9.3565014
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Bäckerstraße"
 housenumber: 1

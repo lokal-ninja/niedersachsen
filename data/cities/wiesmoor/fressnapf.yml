@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.4175933
 longitude: 7.739105200000001
-postcode: 26639
+postcode: "26639"
 city: Wiesmoor
 street: "Marktstraße"
 housenumber: 4

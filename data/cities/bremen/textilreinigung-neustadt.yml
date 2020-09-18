@@ -3,10 +3,10 @@ type: node
 shop: Wäscherei
 latitude: 53.0739802
 longitude: 8.7975154
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Heinrich-Bierbaum-Straße"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th 09:00-19:00; We 09:00-13:00,15:00-19:00; Fr 09:00-18:00; Sa 10:00-14:00"
 website: ""

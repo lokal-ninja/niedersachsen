@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.471862200000004
 longitude: 8.3729232
-postcode: 49448
+postcode: "49448"
 city: Lemförde
 street: "Pommernstraße"
 housenumber: 4

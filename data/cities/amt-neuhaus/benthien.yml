@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 53.288899300000004
 longitude: 10.9363855
-postcode: 19273
+postcode: "19273"
 city: Amt Neuhaus
 street: "Am Alten Bahnhof"
 housenumber: 7

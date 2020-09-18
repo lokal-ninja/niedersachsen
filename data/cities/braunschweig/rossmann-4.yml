@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.2304514
 longitude: 10.535142
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Jenastieg"
 housenumber: 7

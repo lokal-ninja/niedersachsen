@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.329069700000005
 longitude: 9.1934015
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Bahnhofstraße"
 housenumber: 59

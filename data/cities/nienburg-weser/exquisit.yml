@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.63941440000001
 longitude: 9.207076200000001
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Georgstraße"
 housenumber: 11

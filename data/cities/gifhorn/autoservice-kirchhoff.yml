@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.458471900000006
 longitude: 10.538985700000001
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Hugo-Junkers-Straße"
 housenumber: 3

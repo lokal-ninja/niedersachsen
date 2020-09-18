@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.968074300000005
 longitude: 9.517089
-postcode: 27374
+postcode: "27374"
 city: Visselhövede
 street: "Bremer Straße"
 housenumber: 103

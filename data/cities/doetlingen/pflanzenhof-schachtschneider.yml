@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.9379228
 longitude: 8.4248128
-postcode: 27801
+postcode: "27801"
 city: Dötlingen
 street: "Iserloyer Straße"
 housenumber: 2

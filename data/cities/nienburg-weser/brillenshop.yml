@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.642148600000006
 longitude: 9.2091104
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Hafenstraße"
 housenumber: 

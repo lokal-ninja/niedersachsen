@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.262170100000006
 longitude: 10.502618700000001
-postcode: 38118
+postcode: "38118"
 city: Braunschweig
 street: "Altstadtring"
 housenumber: 26

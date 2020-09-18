@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.556125300000005
 longitude: 8.581871300000001
-postcode: 49419
+postcode: "49419"
 city: Wagenfeld
 street: "Am Reuterhof"
 housenumber: 2

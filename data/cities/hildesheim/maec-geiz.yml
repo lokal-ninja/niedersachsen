@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 52.15163080000001
 longitude: 9.9509656
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Hoher Weg"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.432905500000004
 longitude: 10.8472731
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "Neuhäuser Straße"
 housenumber: 20

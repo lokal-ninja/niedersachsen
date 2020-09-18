@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.23363560000001
 longitude: 9.865452600000001
-postcode: 31157
+postcode: "31157"
 city: Sarstedt
 street: "Hildesheimer Straße"
 housenumber: 62

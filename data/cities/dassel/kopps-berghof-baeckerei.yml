@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8141794
 longitude: 9.7702563
-postcode: 37586
+postcode: "37586"
 city: Dassel
 street: "Ilmebahnstraße"
 housenumber: 10

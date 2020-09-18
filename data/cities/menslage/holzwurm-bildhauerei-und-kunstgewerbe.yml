@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 52.6757586
 longitude: 7.817957300000001
-postcode: 49637
+postcode: "49637"
 city: Menslage
 street: "Hauptstraße"
 housenumber: 9

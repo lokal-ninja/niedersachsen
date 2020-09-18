@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.503652900000006
 longitude: 8.4762687
-postcode: 26954
+postcode: "26954"
 city: Nordenham
 street: "An der Sielbrücke"
 housenumber: 1 A

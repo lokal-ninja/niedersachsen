@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 53.408530000000006
 longitude: 10.3916616
-postcode: 21436
+postcode: "21436"
 city: Marschacht
 street: "Weidenweg"
 housenumber: 1C

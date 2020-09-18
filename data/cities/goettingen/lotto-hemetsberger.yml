@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.5597818
 longitude: 9.934278200000001
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Hennebergstraße"
 housenumber: 12

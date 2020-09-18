@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.150541600000004
 longitude: 8.0386653
-postcode: 49186
+postcode: "49186"
 city: Bad Iburg
 street: "Am Bahnhof"
 housenumber: 3

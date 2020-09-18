@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.246089100000006
 longitude: 10.4033929
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Heiligengeiststraße"
 housenumber: 26

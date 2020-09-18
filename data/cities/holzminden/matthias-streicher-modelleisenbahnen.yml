@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.8238914
 longitude: 9.4552347
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Wilhelmstraße"
 housenumber: 32

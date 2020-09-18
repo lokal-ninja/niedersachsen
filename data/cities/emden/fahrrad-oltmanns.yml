@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.366483900000006
 longitude: 7.202197000000001
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Große Straße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.227907900000005
 longitude: 10.402169500000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Scharnhorststraße"
 housenumber: 1

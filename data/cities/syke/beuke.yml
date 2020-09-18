@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 52.9125844
 longitude: 8.8240114
-postcode: 28857
+postcode: "28857"
 city: Syke
 street: "Hauptstraße"
 housenumber: 2A
 phone: ""
-opening_hours: "Montag	bis Freitag 7 – 18, Samstag	8 – 13 Uhr"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
 website: ""

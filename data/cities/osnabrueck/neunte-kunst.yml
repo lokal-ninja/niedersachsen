@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.273887200000004
 longitude: 8.0440629
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Redlingerstraße"
 housenumber: 8

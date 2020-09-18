@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.2319685
 longitude: 10.446302900000001
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "Bülows Kamp"
 housenumber: 31

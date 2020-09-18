@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.257514
 longitude: 10.2143855
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "An der Hütte"
 housenumber: 3

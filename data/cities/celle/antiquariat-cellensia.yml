@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.6248664
 longitude: 10.0810604
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Markt"
 housenumber: 17

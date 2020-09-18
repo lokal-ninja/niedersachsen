@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.113207700000004
 longitude: 9.7953104
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Bahnhofstraße"
 housenumber: 40

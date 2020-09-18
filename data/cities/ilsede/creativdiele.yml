@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.246935
 longitude: 10.164698600000001
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Dreschereistraße"
 housenumber: 7

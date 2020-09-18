@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.2798419
 longitude: 9.908202900000001
-postcode: 21271
+postcode: "21271"
 city: Hanstedt
 street: "Seevestraße"
 housenumber: 36

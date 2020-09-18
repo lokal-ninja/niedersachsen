@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.8422065
 longitude: 7.1074852
-postcode: 49733
+postcode: "49733"
 city: Haren (Ems)
 street: "Bürgermeister-Esders-Straße"
 housenumber: 1

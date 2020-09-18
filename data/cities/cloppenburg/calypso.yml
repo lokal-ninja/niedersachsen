@@ -3,7 +3,7 @@ type: way
 shop: Musik
 latitude: 52.854812200000005
 longitude: 8.043674000000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Garreler Weg"
 housenumber: 39

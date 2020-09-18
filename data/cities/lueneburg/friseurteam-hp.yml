@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2377042
 longitude: 10.3841789
-postcode: 21339
+postcode: "21339"
 city: Lüneburg
 street: "Auf der Höhe"
 housenumber: 69

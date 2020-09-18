@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.116666200000004
 longitude: 8.2072766
-postcode: 49201
+postcode: "49201"
 city: Dissen
 street: "Teutoburger Straße"
 housenumber: 2

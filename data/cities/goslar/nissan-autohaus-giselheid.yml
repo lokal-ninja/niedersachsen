@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.924570200000005
 longitude: 10.4192009
-postcode: 38644
+postcode: "38644"
 city: Goslar
 street: "Bornhardtstraße"
 housenumber: 9

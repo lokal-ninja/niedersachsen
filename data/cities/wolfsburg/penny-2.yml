@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4474219
 longitude: 10.8012903
-postcode: 38448
+postcode: "38448"
 city: Wolfsburg
 street: "Schulenburgallee"
 housenumber: 14

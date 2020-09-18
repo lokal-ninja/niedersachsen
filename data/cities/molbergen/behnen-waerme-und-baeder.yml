@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 52.8544818
 longitude: 7.941476400000001
-postcode: 49696
+postcode: "49696"
 city: Molbergen
 street: "Hohe Feldstraße"
 housenumber: 16

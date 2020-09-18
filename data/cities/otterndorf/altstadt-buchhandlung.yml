@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.8075222
 longitude: 8.898491100000001
-postcode: 21762
+postcode: "21762"
 city: Otterndorf
 street: "Johann-Heinrich-Voß-Straße"
 housenumber: 8

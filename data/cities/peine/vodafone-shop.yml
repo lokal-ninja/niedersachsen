@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.319864100000004
 longitude: 10.2312741
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Glockenstraße"
 housenumber: 2

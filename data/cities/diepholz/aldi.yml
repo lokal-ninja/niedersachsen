@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6079931
 longitude: 8.366281500000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Mollerstraße"
 housenumber: 20

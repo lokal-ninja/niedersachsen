@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8865276
 longitude: 10.8907634
-postcode: 29465
+postcode: "29465"
 city: Schnega
 street: "Lange Straße"
 housenumber: 37

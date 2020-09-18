@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6617395
 longitude: 8.1209836
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Tappehornstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6573841
 longitude: 9.3858826
-postcode: 37697
+postcode: "37697"
 city: Lauenförde
 street: "Würgasser Straße"
 housenumber: 10

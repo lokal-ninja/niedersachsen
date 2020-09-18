@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0833443
 longitude: 8.787741
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Eduard-Schopf-Allee"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.532775400000006
 longitude: 9.9361491
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Rote Straße"
 housenumber: 17

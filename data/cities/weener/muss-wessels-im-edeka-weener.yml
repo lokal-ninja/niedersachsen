@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.168494900000006
 longitude: 7.3495672
-postcode: 26826
+postcode: "26826"
 city: Weener
 street: "Neue Feldstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.267306500000004
 longitude: 8.0508931
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Johannistorwall"
 housenumber: 16

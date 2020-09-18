@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.613546400000004
 longitude: 10.6020412
-postcode: 29399
+postcode: "29399"
 city: Wahrenholz
 street: "Hauptstraße"
 housenumber: 46

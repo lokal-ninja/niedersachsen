@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.522502800000005
 longitude: 8.1938586
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Mühlenstraße"
 housenumber: 19

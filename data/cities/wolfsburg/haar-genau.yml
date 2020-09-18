@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.421252700000004
 longitude: 10.7529082
-postcode: 38440
+postcode: "38440"
 city: Wolfsburg
 street: "Grauhorststraße"
 housenumber: 48

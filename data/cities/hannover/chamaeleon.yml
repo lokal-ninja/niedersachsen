@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.39325710000001
 longitude: 9.6845722
-postcode: 30419
+postcode: "30419"
 city: Hannover
 street: "Herrenhäuser Straße"
 housenumber: 69

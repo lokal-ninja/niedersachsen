@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.391020700000006
 longitude: 7.997637200000001
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Wiechmanns Ecke"
 housenumber: 19

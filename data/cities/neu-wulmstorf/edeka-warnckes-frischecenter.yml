@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.4758568
 longitude: 9.787132000000001
-postcode: 21629
+postcode: "21629"
 city: Neu Wulmstorf
 street: "Wulmstorfer Wiesen"
 housenumber: 2

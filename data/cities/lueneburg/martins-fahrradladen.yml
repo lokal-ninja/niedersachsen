@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.2159557
 longitude: 10.388664100000002
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Alter Hessenweg"
 housenumber: 23A

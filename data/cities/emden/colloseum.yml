@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.3615884
 longitude: 7.1694227
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Thüringer Straße"
 housenumber: 9

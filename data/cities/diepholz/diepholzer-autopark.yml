@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.597703300000006
 longitude: 8.367026300000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Willenberg"
 housenumber: 47

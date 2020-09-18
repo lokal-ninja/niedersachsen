@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.0937635
 longitude: 8.1916689
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Oldenburger Straße"
 housenumber: 18

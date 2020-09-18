@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.0923256
 longitude: 8.7900402
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Wartburgstraße"
 housenumber: 12

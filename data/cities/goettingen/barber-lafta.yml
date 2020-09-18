@@ -1,12 +1,12 @@
 id: 5436049037
 type: node
 shop: Friseur
-latitude: 51.534949700000006
-longitude: 9.911964600000001
-postcode: 37081
+latitude: 51.534929500000004
+longitude: 9.9118856
+postcode: "37081"
 city: Göttingen
 street: "Posthof"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
 website: ""

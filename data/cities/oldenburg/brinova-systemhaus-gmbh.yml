@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.1123629
 longitude: 8.2576237
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Gerhard-Stalling-Straße"
 housenumber: 19

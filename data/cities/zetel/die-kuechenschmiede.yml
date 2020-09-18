@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 53.421950800000005
 longitude: 7.9852445
-postcode: 26340
+postcode: "26340"
 city: Zetel
 street: "Weberstraße"
 housenumber: 2

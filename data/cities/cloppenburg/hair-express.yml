@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.8448664
 longitude: 8.0399037
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Lange Straße"
 housenumber: 37

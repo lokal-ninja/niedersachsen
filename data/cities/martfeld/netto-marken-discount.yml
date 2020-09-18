@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8736108
 longitude: 9.058434
-postcode: 27327
+postcode: "27327"
 city: Martfeld
 street: "Bruchhauser Straße"
 housenumber: 3

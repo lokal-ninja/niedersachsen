@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.54807460000001
 longitude: 9.8916301
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Robert-Bosch-Breite"
 housenumber: 9

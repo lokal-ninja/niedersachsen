@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.6109932
 longitude: 8.4813486
-postcode: 49453
+postcode: "49453"
 city: Rehden
 street: "Dickeler Straße"
 housenumber: 5

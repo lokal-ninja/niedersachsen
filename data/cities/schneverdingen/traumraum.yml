@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.118943300000005
 longitude: 9.7906913
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Harburger Straße"
 housenumber: 14

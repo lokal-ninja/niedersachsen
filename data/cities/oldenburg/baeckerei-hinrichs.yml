@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1294916
 longitude: 8.2262497
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Bremer Straße"
 housenumber: 64

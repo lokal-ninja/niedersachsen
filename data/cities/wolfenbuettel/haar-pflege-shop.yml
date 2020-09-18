@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.1641179
 longitude: 10.537847000000001
-postcode: 38300
+postcode: "38300"
 city: Wolfenbüttel
 street: "Okerstraße"
 housenumber: 17

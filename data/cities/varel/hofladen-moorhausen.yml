@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 53.421319100000005
 longitude: 8.1270903
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Mittelweg"
 housenumber: 7

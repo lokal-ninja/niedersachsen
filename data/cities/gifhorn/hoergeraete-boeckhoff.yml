@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.48338630000001
 longitude: 10.5459641
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Steinweg"
 housenumber: 69

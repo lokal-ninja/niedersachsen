@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.208344600000004
 longitude: 10.3017991
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Am Kreisel"
 housenumber: 

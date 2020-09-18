@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.68195540000001
 longitude: 9.9098469
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Poststraße"
 housenumber: 22

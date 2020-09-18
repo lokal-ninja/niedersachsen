@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.32372590000001
 longitude: 9.2025734
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Marktstraße"
 housenumber: 4

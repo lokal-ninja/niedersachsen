@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.861879300000005
 longitude: 9.591885900000001
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Moorstraße"
 housenumber: 39

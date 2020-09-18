@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.559506500000005
 longitude: 8.5855908
-postcode: 27576
+postcode: "27576"
 city: Bremerhaven
 street: "Hafenstraße"
 housenumber: 141

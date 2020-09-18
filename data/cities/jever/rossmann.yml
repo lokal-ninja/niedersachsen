@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5732623
 longitude: 7.8990035
-postcode: 26441
+postcode: "26441"
 city: Jever
 street: "Große Wasserpfortstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.509365800000005
 longitude: 9.9061816
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Göttinger Straße"
 housenumber: 37a

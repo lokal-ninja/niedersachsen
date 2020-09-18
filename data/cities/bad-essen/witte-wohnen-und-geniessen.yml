@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.3199051
 longitude: 8.3392665
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Kirchplatz"
 housenumber: 

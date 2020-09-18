@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.4098746
 longitude: 7.979428100000001
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Große Straße"
 housenumber: 23

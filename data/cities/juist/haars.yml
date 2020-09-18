@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6776276
 longitude: 6.996569300000001
-postcode: 26571
+postcode: "26571"
 city: Juist
 street: "Wilhelmstraße"
 housenumber: 16

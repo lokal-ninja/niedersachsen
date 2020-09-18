@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.226172700000006
 longitude: 10.2384447
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Marktstraße"
 housenumber: 6

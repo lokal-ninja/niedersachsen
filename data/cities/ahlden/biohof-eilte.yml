@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.761307
 longitude: 9.498447
-postcode: 29693
+postcode: "29693"
 city: Ahlden
 street: "Großer Garten"
 housenumber: 6

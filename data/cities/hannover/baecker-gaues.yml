@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.367192
 longitude: 9.7548124
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Sallstraße"
 housenumber: 24

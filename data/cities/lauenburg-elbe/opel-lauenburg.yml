@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.3850799
 longitude: 10.5431425
-postcode: 21481
+postcode: "21481"
 city: Lauenburg/Elbe
 street: "Mecklenburger Straße"
 housenumber: 2

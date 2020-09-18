@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 53.361879
 longitude: 7.170891900000001
-postcode: 26723
+postcode: "26723"
 city: Emden
 street: "Thüringer Straße"
 housenumber: 9

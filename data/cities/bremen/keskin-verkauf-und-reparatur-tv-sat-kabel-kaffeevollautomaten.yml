@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.048143
 longitude: 8.892011400000001
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Hannoversche Straße"
 housenumber: 121

@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 52.3329661
 longitude: 9.779449600000001
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "Völgerstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.3537515
 longitude: 9.2891221
-postcode: 31698
+postcode: "31698"
 city: Lindhorst
 street: "Gewerbestraße"
 housenumber: 3a

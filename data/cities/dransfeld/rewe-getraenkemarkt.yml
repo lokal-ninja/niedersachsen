@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.5025569
 longitude: 9.764092
-postcode: 37127
+postcode: "37127"
 city: Dransfeld
 street: "Wolfshof"
 housenumber: 3

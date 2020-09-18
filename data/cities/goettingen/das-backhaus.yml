@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5342355
 longitude: 9.9384951
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Burgstraße"
 housenumber: 18

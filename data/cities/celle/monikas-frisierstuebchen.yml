@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.6330315
 longitude: 10.0805571
-postcode: 29223
+postcode: "29223"
 city: Celle
 street: "Harburger Heerstraße"
 housenumber: 59

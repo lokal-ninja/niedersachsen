@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.226268600000004
 longitude: 10.164973
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Bahnhofstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.285721
 longitude: 10.2290256
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "Breite Straße"
 housenumber: 18a

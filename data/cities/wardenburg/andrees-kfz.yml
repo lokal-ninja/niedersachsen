@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.0460749
 longitude: 8.2135045
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Ostkamp"
 housenumber: 15

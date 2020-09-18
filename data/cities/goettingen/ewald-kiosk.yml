@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.5417451
 longitude: 9.954600300000001
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Ewaldstraße"
 housenumber: 79a

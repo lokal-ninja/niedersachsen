@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.551912800000004
 longitude: 10.3795172
-postcode: 37345
+postcode: "37345"
 city: Sonnenstein
 street: "Dorfstraße"
 housenumber: 107

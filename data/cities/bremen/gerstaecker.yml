@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 53.0952107
 longitude: 8.7728559
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Überseetor"
 housenumber: 13

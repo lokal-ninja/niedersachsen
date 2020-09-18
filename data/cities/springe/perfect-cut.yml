@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.209961400000005
 longitude: 9.555956100000001
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Nordwall"
 housenumber: 16

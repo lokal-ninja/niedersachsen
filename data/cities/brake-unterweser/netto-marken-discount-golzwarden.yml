@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.347675
 longitude: 8.467354400000001
-postcode: 26919
+postcode: "26919"
 city: Brake (Unterweser)
 street: "Sinaburger Straße"
 housenumber: 10

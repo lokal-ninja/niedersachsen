@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.356664800000004
 longitude: 9.3479171
-postcode: 31559
+postcode: "31559"
 city: Hohnhorst
 street: "Im Winkel"
 housenumber: 2

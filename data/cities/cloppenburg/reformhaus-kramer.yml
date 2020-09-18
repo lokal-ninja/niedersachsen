@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.8472893
 longitude: 8.0426322
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Mühlenstraße"
 housenumber: 26

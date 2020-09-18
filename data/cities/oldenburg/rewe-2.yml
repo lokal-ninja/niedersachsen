@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.1334231
 longitude: 8.1907648
-postcode: 26131
+postcode: "26131"
 city: Oldenburg
 street: "Hauptstraße"
 housenumber: 89;91;93;95

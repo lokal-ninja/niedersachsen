@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3443125
 longitude: 9.1585607
-postcode: 31712
+postcode: "31712"
 city: Niedernwöhren
 street: "Horsthöfe"
 housenumber: 9

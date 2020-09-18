@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0912701
 longitude: 11.0893884
-postcode: 29451
+postcode: "29451"
 city: Dannenberg (Elbe)
 street: "Develangring"
 housenumber: 72

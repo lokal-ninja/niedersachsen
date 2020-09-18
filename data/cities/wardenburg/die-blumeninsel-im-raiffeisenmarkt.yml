@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.0507568
 longitude: 8.1994263
-postcode: 26203
+postcode: "26203"
 city: Wardenburg
 street: "Rheinstraße"
 housenumber: 15

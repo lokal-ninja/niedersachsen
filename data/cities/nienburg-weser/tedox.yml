@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.6221237
 longitude: 9.202141300000001
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Mindener Landstraße"
 housenumber: 46

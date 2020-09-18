@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7798754
 longitude: 9.135434100000001
-postcode: 27333
+postcode: "27333"
 city: Bücken
 street: "Nienburger Straße"
 housenumber: 1

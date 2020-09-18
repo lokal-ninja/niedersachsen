@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.39599990000001
 longitude: 10.041732300000001
-postcode: 21220
+postcode: "21220"
 city: Seevetal
 street: "Schulstraße"
 housenumber: 36a

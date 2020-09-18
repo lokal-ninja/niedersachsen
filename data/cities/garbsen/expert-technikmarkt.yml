@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.426341900000004
 longitude: 9.5977634
-postcode: 30823
+postcode: "30823"
 city: Garbsen
 street: "Havelser Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2285594
 longitude: 10.2501745
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Bierstraße"
 housenumber: 115

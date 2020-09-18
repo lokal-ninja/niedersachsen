@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.367344900000006
 longitude: 9.761643600000001
-postcode: 
+postcode: ""
 city: Hannover
 street: "Anna-Zammert-Straße"
 housenumber: 17

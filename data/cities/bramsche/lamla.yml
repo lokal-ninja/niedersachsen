@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.413597300000006
 longitude: 8.0989547
-postcode: 49565
+postcode: "49565"
 city: Bramsche
 street: "Neustädter Straße"
 housenumber: 6

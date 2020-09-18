@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3738546
 longitude: 10.7292711
-postcode: 19258
+postcode: "19258"
 city: Boizenburg/Elbe
 street: "Ellernholzplatz"
 housenumber: 1

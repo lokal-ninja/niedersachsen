@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 53.18216
 longitude: 7.2499359000000005
-postcode: 26831
+postcode: "26831"
 city: Bunde
 street: "Bunde-West"
 housenumber: 18

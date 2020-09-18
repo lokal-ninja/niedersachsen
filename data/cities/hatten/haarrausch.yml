@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.0531518
 longitude: 8.2512547
-postcode: 26209
+postcode: "26209"
 city: Hatten
 street: "Astruper Straße"
 housenumber: 6D

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.512511
 longitude: 9.940380600000001
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Benzstraße"
 housenumber: 2d

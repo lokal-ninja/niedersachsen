@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.318871200000004
 longitude: 9.657449100000001
-postcode: 30952
+postcode: "30952"
 city: Ronnenberg
 street: "Über den Beeken"
 housenumber: 10

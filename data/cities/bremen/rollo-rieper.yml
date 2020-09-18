@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 53.043823100000004
 longitude: 8.9520738
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 64

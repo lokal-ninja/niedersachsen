@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.9955949
 longitude: 10.5395768
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Ludwig-Erhard-Straße"
 housenumber: 4

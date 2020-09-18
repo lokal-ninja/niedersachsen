@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.08793360000001
 longitude: 8.794157
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Landwehrstraße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.2246571
 longitude: 8.591220100000001
-postcode: 28790
+postcode: "28790"
 city: Schwanewede
 street: "Hospitalstraße"
 housenumber: 9

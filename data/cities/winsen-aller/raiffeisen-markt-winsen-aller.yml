@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.6824218
 longitude: 9.907385000000001
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Am Junkernhof"
 housenumber: 10

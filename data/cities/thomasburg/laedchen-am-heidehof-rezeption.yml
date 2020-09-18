@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.22105740000001
 longitude: 10.6248457
-postcode: 21401
+postcode: "21401"
 city: Thomasburg
 street: "Am Mausethal"
 housenumber: 6

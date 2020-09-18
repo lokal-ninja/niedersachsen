@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 53.1769722
 longitude: 8.604112
-postcode: 28755
+postcode: "28755"
 city: Bremen
 street: "Lindenstraße"
 housenumber: 61

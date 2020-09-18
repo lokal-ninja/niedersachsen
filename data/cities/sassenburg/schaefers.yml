@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5094116
 longitude: 10.6296476
-postcode: 38524
+postcode: "38524"
 city: Sassenburg
 street: "Dannenbütteler Weg"
 housenumber: 1

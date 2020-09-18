@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 53.1401319
 longitude: 8.2130635
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Lange Straße"
 housenumber: 37

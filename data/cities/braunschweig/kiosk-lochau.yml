@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.2623187
 longitude: 10.5129452
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Sonnenstraße"
 housenumber: 9

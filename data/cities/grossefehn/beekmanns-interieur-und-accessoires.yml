@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 53.377270300000006
 longitude: 7.5914698000000005
-postcode: 26629
+postcode: "26629"
 city: Großefehn
 street: "Hanomagstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 52.3259033
 longitude: 10.4756274
-postcode: 38179
+postcode: "38179"
 city: Schwülper
 street: "Waller See"
 housenumber: 4

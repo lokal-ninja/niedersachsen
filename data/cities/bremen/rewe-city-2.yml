@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.086187800000005
 longitude: 8.8317634
-postcode: 28209
+postcode: "28209"
 city: Bremen
 street: "Wachmannstraße"
 housenumber: 64

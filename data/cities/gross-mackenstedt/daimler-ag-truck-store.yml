@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.0072035
 longitude: 8.7043847
-postcode: 28816
+postcode: "28816"
 city: Groß Mackenstedt
 street: "Im Meer"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 53.144347200000006
 longitude: 8.2127798
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Heiligengeiststraße"
 housenumber: 27

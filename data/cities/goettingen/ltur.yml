@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.532072500000005
 longitude: 9.935248900000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kornmarkt"
 housenumber: 3

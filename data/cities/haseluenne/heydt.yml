@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.674663200000005
 longitude: 7.489701800000001
-postcode: 49740
+postcode: "49740"
 city: Haselünne
 street: "Neustadtstraße"
 housenumber: 11

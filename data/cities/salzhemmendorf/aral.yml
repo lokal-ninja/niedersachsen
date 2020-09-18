@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.068102800000005
 longitude: 9.584894400000001
-postcode: 31020
+postcode: "31020"
 city: Salzhemmendorf
 street: "Calenberger Allee"
 housenumber: 1

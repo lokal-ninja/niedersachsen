@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.545471000000006
 longitude: 8.593164400000001
-postcode: 27570
+postcode: "27570"
 city: Bremerhaven
 street: "Elbestraße"
 housenumber: 120

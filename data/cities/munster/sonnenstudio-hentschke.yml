@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 52.9866936
 longitude: 10.0942127
-postcode: 29633
+postcode: "29633"
 city: Munster
 street: "Lüneburger Straße"
 housenumber: 18

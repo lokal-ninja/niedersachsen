@@ -1,4 +1,4 @@
 ---
-title: "nah und gut  Humpe"
+title: "nah und gut Humpe"
 url: /twistringen/nah-und-gut-humpe/
 ---

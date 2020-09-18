@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.281846400000006
 longitude: 10.5264339
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Weinbergweg"
 housenumber: 35

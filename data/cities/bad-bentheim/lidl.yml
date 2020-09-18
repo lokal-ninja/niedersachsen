@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.30501700000001
 longitude: 7.1523493
-postcode: 48455
+postcode: "48455"
 city: Bad Bentheim
 street: ""
 housenumber: 

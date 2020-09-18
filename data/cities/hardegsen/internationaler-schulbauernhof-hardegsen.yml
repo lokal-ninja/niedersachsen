@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 51.638519
 longitude: 9.8728522
-postcode: 37181
+postcode: "37181"
 city: Hardegsen
 street: "Lehmkuhlenstraße"
 housenumber: 3

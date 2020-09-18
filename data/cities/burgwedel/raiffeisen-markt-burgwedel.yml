@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.49320710000001
 longitude: 9.8669305
-postcode: 30938
+postcode: "30938"
 city: Burgwedel
 street: "Thönser Straße"
 housenumber: 20

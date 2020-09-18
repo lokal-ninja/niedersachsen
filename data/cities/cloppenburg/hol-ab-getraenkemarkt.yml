@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 52.8355265
 longitude: 8.0229605
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Warthestraße"
 housenumber: 22

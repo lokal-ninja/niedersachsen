@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 53.2144166
 longitude: 8.2247672
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Klein Feldhus"
 housenumber: 44

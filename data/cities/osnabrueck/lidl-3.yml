@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.267268200000004
 longitude: 8.0011612
-postcode: 49078
+postcode: "49078"
 city: Osnabrück
 street: "Hans-Wunderlich-Straße"
 housenumber: 2

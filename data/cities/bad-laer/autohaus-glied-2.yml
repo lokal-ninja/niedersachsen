@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.09478360000001
 longitude: 8.0847736
-postcode: 49196
+postcode: "49196"
 city: Bad Laer
 street: "Warendorfer Straße"
 housenumber: 20

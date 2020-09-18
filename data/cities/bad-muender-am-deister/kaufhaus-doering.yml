@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.197222700000005
 longitude: 9.462863800000001
-postcode: 31848
+postcode: "31848"
 city: Bad Münder am Deister
 street: "Lange Straße"
 housenumber: 6-8

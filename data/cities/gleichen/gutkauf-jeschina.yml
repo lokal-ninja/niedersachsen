@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.507278500000005
 longitude: 10.0332971
-postcode: 37130
+postcode: "37130"
 city: Gleichen
 street: "Am Kampe"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.384085500000005
 longitude: 9.745844
-postcode: 30161
+postcode: "30161"
 city: Hannover
 street: "Gretchenstraße"
 housenumber: 7

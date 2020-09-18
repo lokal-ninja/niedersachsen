@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5935884
 longitude: 9.5459109
-postcode: 21720
+postcode: "21720"
 city: Hollern-Twielenfleth
 street: "Hollernstraße"
 housenumber: 85

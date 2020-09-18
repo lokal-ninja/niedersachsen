@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.975044600000004
 longitude: 7.7759267
-postcode: 26169
+postcode: "26169"
 city: Friesoythe
 street: "Gehlenberger Kirchstraße"
 housenumber: 41

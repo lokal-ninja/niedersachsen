@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.1083452
 longitude: 9.1522541
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: "Alter Weg"
 housenumber: 59

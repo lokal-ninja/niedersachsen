@@ -3,7 +3,7 @@ type: way
 shop: Waffen
 latitude: 52.221085200000005
 longitude: 10.6199153
-postcode: 38173
+postcode: "38173"
 city: Sickte
 street: "Hauptstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 52.509547000000005
 longitude: 10.5848279
-postcode: 38524
+postcode: "38524"
 city: Sassenburg
 street: "Triangeler Hauptstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.1397935
 longitude: 8.2110728
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Burgstraße"
 housenumber: 6

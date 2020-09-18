@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.366023500000004
 longitude: 9.7464489
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 23

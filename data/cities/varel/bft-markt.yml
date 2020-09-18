@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.403877400000006
 longitude: 8.153561100000001
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Hafenstraße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.50258710000001
 longitude: 9.7616323
-postcode: 37127
+postcode: "37127"
 city: Dransfeld
 street: "Lange Straße"
 housenumber: 59

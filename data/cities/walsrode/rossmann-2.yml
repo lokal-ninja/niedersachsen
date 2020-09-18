@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.8624427
 longitude: 9.5894055
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Moorstraße"
 housenumber: 61-63

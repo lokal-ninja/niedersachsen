@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 53.5741043
 longitude: 7.900467300000001
-postcode: 26441
+postcode: "26441"
 city: Jever
 street: "Am Kirchplatz"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6333713
 longitude: 9.9603964
-postcode: 29313
+postcode: "29313"
 city: Hambühren
 street: "Sudermannstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.0453221
 longitude: 8.8431613
-postcode: 28279
+postcode: "28279"
 city: Bremen
 street: "Borgwardstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.6016464
 longitude: 9.099066800000001
-postcode: 31618
+postcode: "31618"
 city: Liebenau
 street: "Lange Straße"
 housenumber: 

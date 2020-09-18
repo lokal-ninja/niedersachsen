@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7138773
 longitude: 10.274663100000001
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Herzberger Landstraße"
 housenumber: 8

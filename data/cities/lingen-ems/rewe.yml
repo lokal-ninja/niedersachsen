@@ -1,12 +1,12 @@
-id: 148516294
+id: 98650776
 type: way
 shop: Supermarkt
-latitude: 52.5071025
-longitude: 7.3225693000000005
-postcode: 49809
+latitude: 52.525788500000004
+longitude: 7.3433657000000006
+postcode: "49809"
 city: Lingen (Ems)
-street: "Rheiner Straße"
-housenumber: 110a
-phone: ""
-opening_hours: "Mo-Sa 07:00-21:30; PH off"
-website: ""
+street: "Josefstraße"
+housenumber: 29
+phone: "+49 591 7984"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.rewe.de/marktseite/lingen/241079/rewe-markt-josefstrasse-29/"

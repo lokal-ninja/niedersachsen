@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4818402
 longitude: 7.2069441
-postcode: 49835
+postcode: "49835"
 city: Wietmarschen
 street: "Einsteinstraße"
 housenumber: 6

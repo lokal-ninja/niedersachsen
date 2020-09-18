@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6862378
 longitude: 8.5631649
-postcode: 27639
+postcode: "27639"
 city: Wurster Nordseeküste
 street: "Poststraße"
 housenumber: 20

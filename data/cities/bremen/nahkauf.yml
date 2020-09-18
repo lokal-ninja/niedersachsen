@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.114453600000004
 longitude: 8.770714
-postcode: 28237
+postcode: "28237"
 city: Bremen
 street: "Seewenjestraße"
 housenumber: 77

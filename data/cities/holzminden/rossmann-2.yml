@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.841241100000005
 longitude: 9.4647673
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Bülte"
 housenumber: 7

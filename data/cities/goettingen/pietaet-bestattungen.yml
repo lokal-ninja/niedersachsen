@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.545039700000004
 longitude: 9.932005400000001
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Weender Landstraße"
 housenumber: 68

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.187554000000006
 longitude: 9.079542
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Weserstraße"
 housenumber: 18

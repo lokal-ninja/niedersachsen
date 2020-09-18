@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.0967416
 longitude: 8.005970000000001
-postcode: 49219
+postcode: "49219"
 city: Glandorf
 street: "Iburger Straße"
 housenumber: 6

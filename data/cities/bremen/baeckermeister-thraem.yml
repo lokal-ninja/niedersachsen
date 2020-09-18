@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0773785
 longitude: 8.8378294
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Sankt-Jürgen-Straße"
 housenumber: 161

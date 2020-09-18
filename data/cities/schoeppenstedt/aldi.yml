@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.142997400000006
 longitude: 10.766548400000001
-postcode: 38170
+postcode: "38170"
 city: Schöppenstedt
 street: "Neue Straße"
 housenumber: 1D

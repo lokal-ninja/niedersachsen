@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 53.194082
 longitude: 9.2893185
-postcode: 27404
+postcode: "27404"
 city: Gyhum
 street: "An der Autobahn"
 housenumber: 1a

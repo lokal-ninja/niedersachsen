@@ -1,4 +1,4 @@
 ---
-title: "Lucca  herren Friseur"
+title: "Lucca herren Friseur"
 url: /hude/lucca-herren-friseur/
 ---

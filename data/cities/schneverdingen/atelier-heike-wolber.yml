@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.104869300000004
 longitude: 9.8033917
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Auf dem Horn"
 housenumber: 3

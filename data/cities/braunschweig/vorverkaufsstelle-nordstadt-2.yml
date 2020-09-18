@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.287691800000005
 longitude: 10.527451500000002
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Siegfriedstraße"
 housenumber: 42

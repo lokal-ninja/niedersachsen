@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 52.6282841
 longitude: 10.0766177
-postcode: 29223
+postcode: "29223"
 city: Celle
 street: "Alter Bremer Weg"
 housenumber: 29

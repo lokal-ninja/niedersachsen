@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.249085
 longitude: 10.4090529
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Große Bäckerstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 52.3726556
 longitude: 9.7844005
-postcode: 30625
+postcode: "30625"
 city: Hannover
 street: "Scheidestraße"
 housenumber: 15

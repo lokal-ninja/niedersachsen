@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2815415
 longitude: 9.5755117
-postcode: 30974
+postcode: "30974"
 city: Wennigsen (Deister)
 street: "Degerser Straße"
 housenumber: 30

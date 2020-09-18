@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 53.84365390000001
 longitude: 8.6940027
-postcode: 27472
+postcode: "27472"
 city: Cuxhaven
 street: "Abschnede"
 housenumber: 203

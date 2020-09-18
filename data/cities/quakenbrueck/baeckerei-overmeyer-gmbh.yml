@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 52.6816036
 longitude: 7.957674900000001
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Oldenburger Straße"
-housenumber: 
+housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; PH off"
 website: ""

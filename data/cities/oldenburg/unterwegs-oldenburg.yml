@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 53.1398145
 longitude: 8.212123
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Gaststraße"
 housenumber: 27

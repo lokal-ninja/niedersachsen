@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.2313527
 longitude: 10.448888400000001
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "Käthe-Krüger-Straße"
 housenumber: 13

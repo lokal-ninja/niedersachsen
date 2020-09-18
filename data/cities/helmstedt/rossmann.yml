@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.227668800000004
 longitude: 11.0080063
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Neumärker Straße"
 housenumber: 30

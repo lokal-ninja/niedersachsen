@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.6579131
 longitude: 10.1291113
-postcode: 29229
+postcode: "29229"
 city: Celle
 street: "Alvernsche Straße"
 housenumber: 1

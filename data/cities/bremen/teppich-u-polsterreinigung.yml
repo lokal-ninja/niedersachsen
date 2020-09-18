@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.0674441
 longitude: 8.8747553
-postcode: 28207
+postcode: "28207"
 city: Bremen
 street: "Winkelstraße"
 housenumber: 14

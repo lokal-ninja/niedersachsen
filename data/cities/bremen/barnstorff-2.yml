@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.113889900000004
 longitude: 8.756717
-postcode: 28237
+postcode: "28237"
 city: Bremen
 street: "Pastorenweg"
 housenumber: 210

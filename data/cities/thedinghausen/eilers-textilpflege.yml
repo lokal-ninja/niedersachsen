@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.962569200000004
 longitude: 9.0206658
-postcode: 27321
+postcode: "27321"
 city: Thedinghausen
 street: "Blankenburger Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.736130300000006
 longitude: 9.7944714
-postcode: 37186
+postcode: "37186"
 city: Moringen
 street: "Kampweg"
 housenumber: 2

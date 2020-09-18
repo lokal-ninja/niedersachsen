@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 52.257540500000005
 longitude: 8.0718099
-postcode: 49082
+postcode: "49082"
 city: Osnabrück
 street: "Neelmeyerstraße"
 housenumber: 2

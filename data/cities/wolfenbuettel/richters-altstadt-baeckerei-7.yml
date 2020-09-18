@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.1650362
 longitude: 10.520554200000001
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Dr.-Heinrich-Jasper-Straße"
 housenumber: 65

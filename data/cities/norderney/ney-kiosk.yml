@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.707335300000004
 longitude: 7.146898800000001
-postcode: 26548
+postcode: "26548"
 city: Norderney
 street: "Jann-Berghaus-Straße"
 housenumber: 66

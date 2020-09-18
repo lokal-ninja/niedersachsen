@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.343159
 longitude: 10.1854761
-postcode: 31228
+postcode: "31228"
 city: Peine
 street: "Kirchvordener Straße"
 housenumber: 45

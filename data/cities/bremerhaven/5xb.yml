@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.535430700000006
 longitude: 8.585423
-postcode: 27570
+postcode: "27570"
 city: Bremerhaven
 street: "Berliner Platz"
 housenumber: 1

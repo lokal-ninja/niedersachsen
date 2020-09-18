@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.318270000000005
 longitude: 8.361313500000001
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Lindenstraße"
 housenumber: 

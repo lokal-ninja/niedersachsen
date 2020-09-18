@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.904002600000005
 longitude: 10.435085200000001
-postcode: 38640
+postcode: "38640"
 city: Goslar
 street: "Dr.-Wilhelm-Kempe-Straße"
 housenumber: 4

@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 52.685089000000005
 longitude: 7.608705100000001
-postcode: 49770
+postcode: "49770"
 city: Herzlake
 street: "Löninger Straße"
 housenumber: 14b
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.rossmann.de/"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+website: ""

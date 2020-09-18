@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.245384
 longitude: 8.198503500000001
-postcode: 26180
+postcode: "26180"
 city: Rastede
 street: "Oldenburger Straße"
 housenumber: 221

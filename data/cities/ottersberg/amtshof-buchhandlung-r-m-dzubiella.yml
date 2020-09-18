@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 53.108495500000004
 longitude: 9.1425405
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: "Am Vie"
 housenumber: 1

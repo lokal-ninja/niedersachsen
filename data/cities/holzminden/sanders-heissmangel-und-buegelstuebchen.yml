@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.8220898
 longitude: 9.4541698
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Steinstraße"
 housenumber: 1

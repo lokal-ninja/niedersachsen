@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.1658807
 longitude: 9.9628276
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Kennedydamm"
 housenumber: 33

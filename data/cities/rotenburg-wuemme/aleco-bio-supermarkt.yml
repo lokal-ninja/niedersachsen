@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.1035838
 longitude: 9.3963701
-postcode: 27356
+postcode: "27356"
 city: Rotenburg (Wümme)
 street: "Verdener Straße"
 housenumber: 4

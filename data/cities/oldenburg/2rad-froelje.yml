@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 53.125523400000006
 longitude: 8.220141400000001
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Cloppenburger Straße"
 housenumber: 98

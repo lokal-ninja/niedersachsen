@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.6196252
 longitude: 10.0533838
-postcode: 29225
+postcode: "29225"
 city: Celle
 street: "Neustadt"
 housenumber: 42a

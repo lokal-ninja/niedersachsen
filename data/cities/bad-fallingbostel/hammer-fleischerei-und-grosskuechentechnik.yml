@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 52.91009450000001
 longitude: 9.768660800000001
-postcode: 29683
+postcode: "29683"
 city: Bad Fallingbostel
 street: "Westendorfer Straße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.5472389
 longitude: 9.9255057
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Maschmühlenweg"
 housenumber: 40-42

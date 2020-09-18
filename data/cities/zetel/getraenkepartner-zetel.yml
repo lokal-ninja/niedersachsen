@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.4192838
 longitude: 7.9558685
-postcode: 26340
+postcode: "26340"
 city: Zetel
 street: "Wehdestraße"
 housenumber: 6

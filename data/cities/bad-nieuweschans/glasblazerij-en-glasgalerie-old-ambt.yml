@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.159932700000006
 longitude: 7.188216100000001
-postcode: 9693TB
+postcode: "9693TB"
 city: Bad Nieuweschans
 street: "Hamdijk"
 housenumber: 21

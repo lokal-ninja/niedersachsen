@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.98609930000001
 longitude: 10.0874631
-postcode: 29633
+postcode: "29633"
 city: Munster
 street: "Winkelmannshof"
 housenumber: 1

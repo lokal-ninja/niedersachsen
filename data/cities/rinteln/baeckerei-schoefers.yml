@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.177590800000004
 longitude: 9.0762129
-postcode: 31737
+postcode: "31737"
 city: Rinteln
 street: "Detmolder Straße"
 housenumber: 35

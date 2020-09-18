@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.153200500000004
 longitude: 9.9493053
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
 street: "Kurzer Hagen"
 housenumber: 16

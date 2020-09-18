@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0712744
 longitude: 8.850899700000001
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Stader Straße"
 housenumber: 81

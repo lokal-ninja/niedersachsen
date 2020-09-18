@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.807304
 longitude: 8.896056
-postcode: 21762
+postcode: "21762"
 city: Otterndorf
 street: "Bahnhofstraße"
 housenumber: 1

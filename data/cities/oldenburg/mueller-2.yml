@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.1411609
 longitude: 8.2143159
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Achternstraße"
 housenumber: 9-10

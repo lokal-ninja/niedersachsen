@@ -3,7 +3,7 @@ type: node
 shop: Werkzeuge
 latitude: 53.038923600000004
 longitude: 11.0611715
-postcode: 29479
+postcode: "29479"
 city: Jameln
 street: "Dorfstraße"
 housenumber: 8

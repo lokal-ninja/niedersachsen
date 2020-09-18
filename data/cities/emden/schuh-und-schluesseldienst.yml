@@ -1,12 +1,12 @@
-id: 161366719
-type: way
+id: 5016102321
+type: node
 shop: Schlüsseldienst
-latitude: 53.36154620000001
-longitude: 7.1691592
-postcode: 26723
+latitude: 53.365980400000005
+longitude: 7.209476
+postcode: "26725"
 city: Emden
-street: "Thüringer Straße"
-housenumber: 9
-phone: "+49 4921 923789"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: "Hinter der Halle"
+housenumber: 
+phone: "+49 160 98505097"
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:30"
 website: ""

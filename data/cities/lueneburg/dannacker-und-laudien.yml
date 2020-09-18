@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.2393172
 longitude: 10.457453300000001
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "August-Horch-Straße"
 housenumber: 22

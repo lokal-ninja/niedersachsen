@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.572459900000005
 longitude: 8.5998134
-postcode: 27580
+postcode: "27580"
 city: Bremerhaven
 street: "Pferdebade"
 housenumber: 6

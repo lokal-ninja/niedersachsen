@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.223558600000004
 longitude: 10.176168
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Lüneburger Straße"
 housenumber: 27

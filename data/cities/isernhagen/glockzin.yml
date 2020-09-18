@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.4850809
 longitude: 9.814767
-postcode: 30916
+postcode: "30916"
 city: Isernhagen
 street: "Kupferstraße"
 housenumber: 3

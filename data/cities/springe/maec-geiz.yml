@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.2084325
 longitude: 9.5523998
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Zum Oberntor"
 housenumber: 6-8

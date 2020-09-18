@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.465998600000006
 longitude: 9.7052218
-postcode: 21614
+postcode: "21614"
 city: Buxtehude
 street: "Alter Postweg"
 housenumber: 5b

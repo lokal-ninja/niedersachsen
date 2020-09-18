@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6006274
 longitude: 10.1097482
-postcode: 29227
+postcode: "29227"
 city: Celle
 street: "Lärchenweg"
 housenumber: 4

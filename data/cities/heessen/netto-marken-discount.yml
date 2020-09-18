@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.231783300000004
 longitude: 9.095050500000001
-postcode: 31707
+postcode: "31707"
 city: Heeßen
 street: "Eilser Straße"
 housenumber: 5

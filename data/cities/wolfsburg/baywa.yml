@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.371504200000004
 longitude: 10.745817200000001
-postcode: 38444
+postcode: "38444"
 city: Wolfsburg
 street: "Wolfsacker"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 53.804104900000006
 longitude: 8.9064464
-postcode: 21762
+postcode: "21762"
 city: Otterndorf
 street: "Scholienstraße"
 housenumber: 25

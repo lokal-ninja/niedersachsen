@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.539846700000005
 longitude: 10.145639300000001
-postcode: 29339
+postcode: "29339"
 city: Wathlingen
 street: "Nienhagener Straße"
 housenumber: 1a

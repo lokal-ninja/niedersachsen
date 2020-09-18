@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.372901000000006
 longitude: 9.708812
-postcode: 30451
+postcode: "30451"
 city: Hannover
 street: "Limmerstraße"
 housenumber: 

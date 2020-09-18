@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.984653400000006
 longitude: 9.2553047
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "Altenaustraße"
 housenumber: 6

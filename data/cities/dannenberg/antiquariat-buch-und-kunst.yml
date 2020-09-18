@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.097579200000006
 longitude: 11.092869100000001
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Lange Straße"
 housenumber: 27

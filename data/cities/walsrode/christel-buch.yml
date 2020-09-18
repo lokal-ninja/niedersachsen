@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.861761200000004
 longitude: 9.592919100000001
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Moorstraße"
 housenumber: 27

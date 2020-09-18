@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.522521100000006
 longitude: 7.3184718
-postcode: 49808
+postcode: "49808"
 city: Lingen (Ems)
 street: "Burgstraße"
 housenumber: 13

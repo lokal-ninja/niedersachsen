@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.205854300000006
 longitude: 10.303899000000001
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Lafferder Straße"
 housenumber: 5

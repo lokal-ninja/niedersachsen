@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.6406715
 longitude: 9.2079208
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Friedrich-Ludwig-Jahn-Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.640865600000005
 longitude: 9.2068332
-postcode: 31582
+postcode: "31582"
 city: Nienburg/Weser
 street: "Lange Straße"
 housenumber: 74

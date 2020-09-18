@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.334963
 longitude: 9.4018005
-postcode: 31542
+postcode: "31542"
 city: Bad Nenndorf
 street: "Bückethaler Straße"
 housenumber: 2

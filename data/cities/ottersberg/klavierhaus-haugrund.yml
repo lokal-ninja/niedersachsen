@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 53.1078709
 longitude: 9.1417105
-postcode: 28870
+postcode: "28870"
 city: Ottersberg
 street: "Große Straße"
 housenumber: 9

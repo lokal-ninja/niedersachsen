@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 52.32495960000001
 longitude: 9.2062291
-postcode: 31655
+postcode: "31655"
 city: Stadthagen
 street: "Niedernstraße"
 housenumber: 41

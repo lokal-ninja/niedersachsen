@@ -3,10 +3,10 @@ type: way
 shop: Elektronik
 latitude: 53.5197615
 longitude: 8.1172412
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Marktstraße"
-housenumber: 28
+housenumber: 26
 phone: "+49 4421 77490"
 opening_hours: "Mo-Sa 10:00-22:00"
 website: ""

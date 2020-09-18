@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.262885600000004
 longitude: 10.525019
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Schloßpassage"
 housenumber: 26

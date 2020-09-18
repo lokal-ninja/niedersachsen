@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.5953547
 longitude: 8.366577300000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Enge Straße"
 housenumber: 97

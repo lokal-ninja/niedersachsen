@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.041873700000004
 longitude: 10.3628313
-postcode: 38259
+postcode: "38259"
 city: Salzgitter
 street: "Hinter dem Salze"
 housenumber: 101

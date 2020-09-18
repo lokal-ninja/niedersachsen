@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.706144200000004
 longitude: 9.9975035
-postcode: 37154
+postcode: "37154"
 city: Northeim
 street: "Grafenhof"
 housenumber: 4

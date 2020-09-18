@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.2659748
 longitude: 10.5443961
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Nußbergstraße"
 housenumber: 9

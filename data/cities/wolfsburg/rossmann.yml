@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4201398
 longitude: 10.7149794
-postcode: 38442
+postcode: "38442"
 city: Wolfsburg
 street: "Schulzen Hof"
 housenumber: 12

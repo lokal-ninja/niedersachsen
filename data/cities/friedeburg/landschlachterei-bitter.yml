@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.4529992
 longitude: 7.943105200000001
-postcode: 26446
+postcode: "26446"
 city: Friedeburg
 street: "Kirchstraße"
 housenumber: 11

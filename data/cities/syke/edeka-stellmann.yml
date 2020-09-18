@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.8731986
 longitude: 8.867684200000001
-postcode: 28857
+postcode: "28857"
 city: Syke
 street: "Steinheide"
 housenumber: 1

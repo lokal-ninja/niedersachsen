@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.6202422
 longitude: 10.2453451
-postcode: 29331
+postcode: "29331"
 city: Lachendorf
 street: "Ackerstraße"
 housenumber: 9a

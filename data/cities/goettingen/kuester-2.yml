@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5254264
 longitude: 9.939248800000001
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Reinhäuser Landstraße"
 housenumber: 34

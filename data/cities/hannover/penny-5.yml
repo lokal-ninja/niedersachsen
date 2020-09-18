@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3356963
 longitude: 9.772944500000001
-postcode: 30519
+postcode: "30519"
 city: Hannover
 street: "An der Wollebahn"
 housenumber: 3

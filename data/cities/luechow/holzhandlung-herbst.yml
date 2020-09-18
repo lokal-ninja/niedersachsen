@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.9655027
 longitude: 11.166746100000001
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Am Bahnhof"
 housenumber: 7

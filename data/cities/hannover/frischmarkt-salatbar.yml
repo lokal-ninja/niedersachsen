@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.356562600000004
 longitude: 9.753500500000001
-postcode: 30173
+postcode: "30173"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 109

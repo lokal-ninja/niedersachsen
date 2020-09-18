@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.395121100000004
 longitude: 8.138019700000001
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Hindenburgstraße"
 housenumber: 11a

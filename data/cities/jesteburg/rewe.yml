@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3069513
 longitude: 9.945176100000001
-postcode: 21266
+postcode: "21266"
 city: Jesteburg
 street: "Allerbeeksring"
 housenumber: 3

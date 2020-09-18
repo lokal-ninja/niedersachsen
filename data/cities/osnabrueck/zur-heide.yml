@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.275534900000004
 longitude: 8.0421944
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Dielingerstraße"
 housenumber: 42B

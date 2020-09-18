@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.2664589
 longitude: 9.0556921
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Scheier Straße"
 housenumber: 17

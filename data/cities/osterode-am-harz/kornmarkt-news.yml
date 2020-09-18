@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.727951100000006
 longitude: 10.2512012
-postcode: 37520
+postcode: "37520"
 city: Osterode am Harz
 street: "Kornmarkt"
 housenumber: 6

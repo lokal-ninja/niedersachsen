@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.3094856
 longitude: 7.4870602
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Rudolf-Eucken-Straße"
 housenumber: 5, 7, 9

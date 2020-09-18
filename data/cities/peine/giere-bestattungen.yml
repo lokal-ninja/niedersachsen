@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.3231103
 longitude: 10.2230539
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Damm"
 housenumber: 46

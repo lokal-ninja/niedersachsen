@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.6040937
 longitude: 9.9984804
-postcode: 29225
+postcode: "29225"
 city: Celle
 street: "Gut Wietzenbruch"
 housenumber: 3

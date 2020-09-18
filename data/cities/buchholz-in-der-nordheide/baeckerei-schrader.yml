@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.328613600000004
 longitude: 9.8805723
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Breite Straße"
 housenumber: 23

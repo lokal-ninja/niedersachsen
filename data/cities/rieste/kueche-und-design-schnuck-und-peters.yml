@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.4935872
 longitude: 8.0151818
-postcode: 49597
+postcode: "49597"
 city: Rieste
 street: "Lager Allee"
 housenumber: 1

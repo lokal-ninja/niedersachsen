@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.5218964
 longitude: 8.1926713
-postcode: 49401
+postcode: "49401"
 city: Damme
 street: "Im Hofe"
 housenumber: 1

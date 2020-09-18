@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1427817
 longitude: 10.7810079
-postcode: 38170
+postcode: "38170"
 city: Schöppenstedt
 street: "Neue Straße"
 housenumber: 25

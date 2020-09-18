@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.507787300000004
 longitude: 9.5826326
-postcode: 21640
+postcode: "21640"
 city: Horneburg
 street: "Burggraben"
 housenumber: 1

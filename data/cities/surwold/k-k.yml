@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.9767887
 longitude: 7.5167567
-postcode: 26903
+postcode: "26903"
 city: Surwold
 street: "Schleusenstraße"
 housenumber: 130

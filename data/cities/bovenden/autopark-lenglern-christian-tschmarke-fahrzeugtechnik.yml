@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.591492300000006
 longitude: 9.883150500000001
-postcode: 37120
+postcode: "37120"
 city: Bovenden
 street: "Pappelweg"
 housenumber: 45

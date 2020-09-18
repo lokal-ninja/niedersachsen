@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.315542900000004
 longitude: 7.279210900000001
-postcode: 26844
+postcode: "26844"
 city: Jemgum
 street: "Mühlenstraße"
 housenumber: 6

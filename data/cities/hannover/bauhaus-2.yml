@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.409744700000005
 longitude: 9.705419500000001
-postcode: 30165
+postcode: "30165"
 city: Hannover
 street: "Schulenburger Landstraße"
 housenumber: 

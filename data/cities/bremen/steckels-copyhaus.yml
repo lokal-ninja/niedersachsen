@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.098263700000004
 longitude: 8.8391628
-postcode: 28213
+postcode: "28213"
 city: Bremen
 street: "Crüsemannallee"
 housenumber: 82

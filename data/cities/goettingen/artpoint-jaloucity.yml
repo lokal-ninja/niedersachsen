@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.534506900000004
 longitude: 9.9311691
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Goethe-Allee"
 housenumber: 6

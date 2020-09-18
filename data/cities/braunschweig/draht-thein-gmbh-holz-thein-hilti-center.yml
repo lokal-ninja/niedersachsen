@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.2497315
 longitude: 10.5829707
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "Vorlingskamp"
 housenumber: 8

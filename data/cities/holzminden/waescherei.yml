@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.842652300000005
 longitude: 9.4635993
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Bülte"
 housenumber: 10

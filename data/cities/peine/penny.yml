@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.313715900000005
 longitude: 10.2281847
-postcode: 31226
+postcode: "31226"
 city: Peine
 street: "Wiesenstraße"
 housenumber: 11

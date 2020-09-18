@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.96759470000001
 longitude: 11.1674717
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Glockenberg"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.496653
 longitude: 10.7605263
-postcode: 38477
+postcode: "38477"
 city: Jembke
 street: "Hauptstraße"
 housenumber: 30

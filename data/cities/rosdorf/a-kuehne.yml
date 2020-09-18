@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.509720200000004
 longitude: 9.9089352
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Rischenweg"
 housenumber: 5

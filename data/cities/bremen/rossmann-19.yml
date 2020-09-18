@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.0784305
 longitude: 8.804287200000001
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Hanseatenhof"
 housenumber: 6-8

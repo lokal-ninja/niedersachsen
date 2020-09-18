@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 52.321410900000004
 longitude: 7.2216572
-postcode: 48465
+postcode: "48465"
 city: Schüttorf
 street: "Markt"
 housenumber: 12

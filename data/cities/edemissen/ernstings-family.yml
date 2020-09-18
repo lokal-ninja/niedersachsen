@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.386660000000006
 longitude: 10.2577815
-postcode: 31234
+postcode: "31234"
 city: Edemissen
 street: "Peiner Straße"
 housenumber: 25a

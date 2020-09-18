@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.61382450000001
 longitude: 9.300607300000001
-postcode: 21709
+postcode: "21709"
 city: Himmelpforten
 street: "Mühlenstraße"
 housenumber: 36

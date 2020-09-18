@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.104105700000005
 longitude: 9.369203200000001
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Deisterstraße"
 housenumber: 45

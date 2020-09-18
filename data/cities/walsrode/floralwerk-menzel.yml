@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 52.8661551
 longitude: 9.5865639
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Bergstraße"
 housenumber: 36
 phone: "+49 5161 3563"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; So 10:00-12:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 10:00-12:00"
 website: "https://www.gaertnerei-menzel.de/floristik"

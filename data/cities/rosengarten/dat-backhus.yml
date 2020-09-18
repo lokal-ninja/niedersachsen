@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.379487100000006
 longitude: 9.8962999
-postcode: 21224
+postcode: "21224"
 city: Rosengarten
 street: "Bremer Straße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.4985645
 longitude: 9.451522800000001
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Hans-Böckler-Straße"
 housenumber: 44A

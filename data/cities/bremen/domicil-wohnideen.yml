@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.086317
 longitude: 8.7781
-postcode: 28217
+postcode: "28217"
 city: Bremen
 street: "Hoerneckestraße"
 housenumber: 7

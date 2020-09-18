@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 53.4734685
 longitude: 8.6529406
-postcode: 27612
+postcode: "27612"
 city: Loxstedt
 street: "Bahnhofstraße"
 housenumber: 11

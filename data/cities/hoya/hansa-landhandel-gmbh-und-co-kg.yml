@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 52.8211748
 longitude: 9.153336000000001
-postcode: 27318
+postcode: "27318"
 city: Hoya
 street: "Hingster Straße"
 housenumber: 13

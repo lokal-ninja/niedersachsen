@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 53.1940134
 longitude: 8.7581763
-postcode: 27721
+postcode: "27721"
 city: Ritterhude
 street: "Rohwedderstraße"
 housenumber: 5

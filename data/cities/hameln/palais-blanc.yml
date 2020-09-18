@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.09895040000001
 longitude: 9.3502624
-postcode: 31789
+postcode: "31789"
 city: Hameln
 street: "Pyrmonter Straße"
 housenumber: 28

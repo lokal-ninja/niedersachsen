@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 53.0193443
 longitude: 8.5194729
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Ganderkeseer Weg"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.560340700000005
 longitude: 9.9270796
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Große Breite"
 housenumber: 6

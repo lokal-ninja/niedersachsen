@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.1661651
 longitude: 8.6287602
-postcode: 
+postcode: ""
 city: Bremen
 street: "Zum Alten Speicher"
 housenumber: 2

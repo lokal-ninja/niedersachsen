@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.2891223
 longitude: 7.481258
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Hauptstraße"
 housenumber: 107, 109

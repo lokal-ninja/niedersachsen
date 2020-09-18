@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 53.3832837
 longitude: 7.1939501
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Kürenweg"
 housenumber: 9

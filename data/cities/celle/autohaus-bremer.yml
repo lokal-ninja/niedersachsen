@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.5960216
 longitude: 10.1099379
-postcode: 29227
+postcode: "29227"
 city: Celle
 street: "Braunschweiger Heerstraße"
 housenumber: 98

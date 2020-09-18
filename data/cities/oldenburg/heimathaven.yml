@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.139972500000006
 longitude: 8.2111085
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Burgstraße"
 housenumber: 24

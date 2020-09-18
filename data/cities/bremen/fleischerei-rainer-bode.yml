@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 53.0450487
 longitude: 8.858889600000001
-postcode: 28279
+postcode: "28279"
 city: Bremen
 street: "Baumhauser Weg"
 housenumber: 12
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 07:00-13:00,15:00-18:00; Sa 07:00-12:00"
 website: ""

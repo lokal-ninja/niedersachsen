@@ -3,7 +3,7 @@ type: node
 shop: Badezimmer
 latitude: 53.232865800000006
 longitude: 7.463986500000001
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Mühlenstraße"
 housenumber: 153

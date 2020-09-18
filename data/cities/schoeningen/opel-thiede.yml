@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1368525
 longitude: 10.9491098
-postcode: 38364
+postcode: "38364"
 city: Schöningen
 street: "Am Galgenberg"
 housenumber: 5

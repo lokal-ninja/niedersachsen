@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.3839818
 longitude: 9.724949200000001
-postcode: 30167
+postcode: "30167"
 city: Hannover
 street: "Nelkenstraße"
 housenumber: 1

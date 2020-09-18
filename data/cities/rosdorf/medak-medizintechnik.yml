@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 51.5141433
 longitude: 9.8972727
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Hinter dem Hamberge"
 housenumber: 24

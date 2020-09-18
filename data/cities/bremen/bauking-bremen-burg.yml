@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.1588949
 longitude: 8.7043503
-postcode: 28719
+postcode: "28719"
 city: Bremen
 street: "Bremer Heerstraße"
 housenumber: 7-9

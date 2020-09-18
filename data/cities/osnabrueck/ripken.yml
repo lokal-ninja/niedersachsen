@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.26780350000001
 longitude: 8.0526807
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Johannisstraße"
 housenumber: 118

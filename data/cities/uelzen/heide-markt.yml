@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.0052554
 longitude: 10.534094300000001
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Kirchweyher Straße"
 housenumber: 21

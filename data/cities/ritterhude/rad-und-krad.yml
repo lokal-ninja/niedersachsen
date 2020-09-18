@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.186678
 longitude: 8.6994647
-postcode: 27721
+postcode: "27721"
 city: Ritterhude
 street: "Klemperhagen"
 housenumber: 12a

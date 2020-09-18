@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.236102300000006
 longitude: 8.1634218
-postcode: 49143
+postcode: "49143"
 city: Bissendorf
 street: "Friedensweg"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.36062870000001
 longitude: 9.727746400000001
-postcode: 21279
+postcode: "21279"
 city: Hollenstedt
 street: "Dierstorfer Straße"
 housenumber: 1

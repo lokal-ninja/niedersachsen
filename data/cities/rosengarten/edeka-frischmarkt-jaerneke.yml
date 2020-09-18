@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.432503800000006
 longitude: 9.905450100000001
-postcode: 21224
+postcode: "21224"
 city: Rosengarten
 street: "Harburger Straße"
 housenumber: 27

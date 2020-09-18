@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.281866900000004
 longitude: 9.7064689
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Heidenauer Straße"
 housenumber: 3

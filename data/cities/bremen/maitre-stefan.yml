@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0735332
 longitude: 8.8125254
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Am Wall"
 housenumber: 201

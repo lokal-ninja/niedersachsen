@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.127654400000004
 longitude: 7.982118700000001
-postcode: 26188
+postcode: "26188"
 city: Edewecht
 street: "Bahnhofstraße"
 housenumber: 3

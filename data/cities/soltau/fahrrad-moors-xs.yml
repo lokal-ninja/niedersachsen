@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.9879776
 longitude: 9.833908300000001
-postcode: 29614
+postcode: "29614"
 city: Soltau
 street: "Bergstraße"
 housenumber: 8

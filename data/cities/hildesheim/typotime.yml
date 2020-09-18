@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.1158634
 longitude: 9.9014836
-postcode: 31139
+postcode: "31139"
 city: Hildesheim
 street: "Robert-Bosch-Straße"
 housenumber: 189

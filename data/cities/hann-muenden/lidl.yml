@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4183147
 longitude: 9.6697106
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Hedemündener Straße"
 housenumber: 19

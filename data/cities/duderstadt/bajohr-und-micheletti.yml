@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.512448500000005
 longitude: 10.258368800000001
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 37

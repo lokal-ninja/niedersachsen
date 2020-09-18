@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.967478
 longitude: 11.1535136
-postcode: 29439
+postcode: "29439"
 city: Lüchow
 street: "Lange Straße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.1210049
 longitude: 10.2246445
-postcode: 38272
+postcode: "38272"
 city: Burgdorf
 street: "Bachstraße"
 housenumber: 2

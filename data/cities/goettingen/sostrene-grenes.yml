@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 51.532058600000006
 longitude: 9.9340569
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Groner Straße"
 housenumber: 39

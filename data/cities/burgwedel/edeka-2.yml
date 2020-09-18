@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.50809580000001
 longitude: 9.926587900000001
-postcode: 30938
+postcode: "30938"
 city: Burgwedel
 street: "Hauptstraße"
 housenumber: 7

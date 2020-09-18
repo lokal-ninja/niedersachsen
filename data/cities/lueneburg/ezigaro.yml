@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.2512528
 longitude: 10.4138003
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Lünertorstraße"
 housenumber: 1

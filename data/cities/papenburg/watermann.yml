@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0766335
 longitude: 7.4013077
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Hauptkanal rechts"
 housenumber: 90

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.2814783
 longitude: 9.7125689
-postcode: 21255
+postcode: "21255"
 city: Tostedt
 street: "Kastanienallee"
 housenumber: 1

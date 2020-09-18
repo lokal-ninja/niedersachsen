@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.2657048
 longitude: 8.0618864
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Hannoversche Straße"
 housenumber: 1

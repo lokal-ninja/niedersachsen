@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.170146100000004
 longitude: 9.239085000000001
-postcode: 31840
+postcode: "31840"
 city: Hessisch Oldendorf
 street: "Welseder Straße"
 housenumber: 13

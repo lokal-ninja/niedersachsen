@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.114555800000005
 longitude: 8.185583300000001
-postcode: 26131
+postcode: "26131"
 city: Oldenburg
 street: "Schlagbaumweg"
 housenumber: 31

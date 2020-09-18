@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5345437
 longitude: 9.930934
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Goethe-Allee"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.54399960000001
 longitude: 9.902894100000001
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Rudolf-Winkel-Straße"
 housenumber: 16

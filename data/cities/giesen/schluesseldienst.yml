@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.1980986
 longitude: 9.9017513
-postcode: 31180
+postcode: "31180"
 city: Giesen
 street: "Rathausstraße"
 housenumber: 

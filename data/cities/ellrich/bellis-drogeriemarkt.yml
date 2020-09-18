@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.5868176
 longitude: 10.6655128
-postcode: 99755
+postcode: "99755"
 city: Ellrich
 street: "Am Markt"
 housenumber: 13

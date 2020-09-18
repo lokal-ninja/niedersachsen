@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.515939100000004
 longitude: 9.9119779
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "An der Ziegelei"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.1384601
 longitude: 10.9668214
-postcode: 38364
+postcode: "38364"
 city: Schöningen
 street: "Brauhof"
 housenumber: 8

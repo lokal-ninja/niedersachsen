@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2680352
 longitude: 8.0549181
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Petersburger Wall"
 housenumber: 29

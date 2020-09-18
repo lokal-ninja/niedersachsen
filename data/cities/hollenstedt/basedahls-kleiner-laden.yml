@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.368931200000006
 longitude: 9.7189896
-postcode: 21279
+postcode: "21279"
 city: Hollenstedt
 street: "Estetalstraße"
 housenumber: 10

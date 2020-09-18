@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.058648700000006
 longitude: 8.961775300000001
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Otto-Brenner-Allee"
 housenumber: 18

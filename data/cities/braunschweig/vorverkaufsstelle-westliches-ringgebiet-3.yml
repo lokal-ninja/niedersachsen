@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.2660065
 longitude: 10.5050291
-postcode: 38118
+postcode: "38118"
 city: Braunschweig
 street: "Goslarsche Straße"
 housenumber: 74

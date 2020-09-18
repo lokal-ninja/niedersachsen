@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.1590714
 longitude: 10.5047487
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Am Rehmanger"
 housenumber: 10

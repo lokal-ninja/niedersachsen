@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.0824992
 longitude: 11.1949158
-postcode: 29476
+postcode: "29476"
 city: Gusborn
 street: "Alte Dorfstraße"
 housenumber: 27

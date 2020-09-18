@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.539189900000004
 longitude: 8.591445
-postcode: 49419
+postcode: "49419"
 city: Wagenfeld
 street: "Am Entenplatz"
 housenumber: 33

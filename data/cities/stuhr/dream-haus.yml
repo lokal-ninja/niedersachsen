@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.013063700000004
 longitude: 8.7891122
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Bremer Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.5331084
 longitude: 9.8904706
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Schlagemühlenweg"
 housenumber: 13

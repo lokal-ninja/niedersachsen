@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.66152640000001
 longitude: 8.1236157
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Am Markt"
 housenumber: 9

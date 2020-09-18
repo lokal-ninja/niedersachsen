@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 53.045054900000004
 longitude: 8.847509
-postcode: 28279
+postcode: "28279"
 city: Bremen
 street: "Ernst-Buchholz-Straße"
 housenumber: 3

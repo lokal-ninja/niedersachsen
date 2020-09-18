@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.63196730000001
 longitude: 10.0529329
-postcode: 29223
+postcode: "29223"
 city: Celle
 street: "Zugbrückenstraße"
 housenumber: 40

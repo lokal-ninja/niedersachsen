@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 53.168805400000004
 longitude: 8.6956177
-postcode: 28717
+postcode: "28717"
 city: Bremen
 street: "Hindenburgstraße"
 housenumber: 23

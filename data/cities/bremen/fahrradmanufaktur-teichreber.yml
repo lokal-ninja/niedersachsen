@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 53.169911400000004
 longitude: 8.634388300000001
-postcode: 28759
+postcode: "28759"
 city: Bremen
 street: "Hermann-Fortmann-Straße"
 housenumber: 23

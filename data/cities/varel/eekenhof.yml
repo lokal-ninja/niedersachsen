@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.3737281
 longitude: 8.140538300000001
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Flachsweg"
 housenumber: 40

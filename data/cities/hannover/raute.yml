@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 52.3372308
 longitude: 9.6940156
-postcode: 30457
+postcode: "30457"
 city: Hannover
 street: "Tresckowstraße"
 housenumber: 143
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 06:30-20:00; Su 08:00-11:00"
 website: ""

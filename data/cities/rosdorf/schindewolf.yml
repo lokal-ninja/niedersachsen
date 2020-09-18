@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.507842200000006
 longitude: 9.9129238
-postcode: 37124
+postcode: "37124"
 city: Rosdorf
 street: "Am Flüthedamm"
 housenumber: 10

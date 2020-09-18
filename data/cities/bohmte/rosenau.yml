@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.367019500000005
 longitude: 8.3082958
-postcode: 49163
+postcode: "49163"
 city: Bohmte
 street: "Am Feuerwehrhaus"
 housenumber: 6

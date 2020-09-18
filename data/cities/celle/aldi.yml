@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.6052065
 longitude: 10.0537547
-postcode: 29225
+postcode: "29225"
 city: Celle
 street: "An der Hasenbahn"
 housenumber: 3

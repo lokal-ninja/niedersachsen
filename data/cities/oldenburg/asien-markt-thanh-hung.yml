@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.142059
 longitude: 8.2147998
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Staulinie"
 housenumber: 10

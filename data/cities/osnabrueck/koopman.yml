@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.262196
 longitude: 8.065149400000001
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Braunschweiger Straße"
 housenumber: 18

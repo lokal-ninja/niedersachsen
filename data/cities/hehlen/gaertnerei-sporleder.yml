@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.984130300000004
 longitude: 9.480302700000001
-postcode: 37619
+postcode: "37619"
 city: Hehlen
 street: "Am Weißen Bach"
 housenumber: 2

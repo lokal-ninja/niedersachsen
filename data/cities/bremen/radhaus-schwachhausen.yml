@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.084918900000005
 longitude: 8.8481051
-postcode: 28211
+postcode: "28211"
 city: Bremen
 street: "Schwachhauser Heerstraße"
 housenumber: 183

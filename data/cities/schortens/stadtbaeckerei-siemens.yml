@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5253336
 longitude: 8.0352981
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "Olympiastraße"
 housenumber: 11

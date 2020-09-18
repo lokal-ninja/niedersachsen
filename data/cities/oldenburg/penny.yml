@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.124586300000004
 longitude: 8.2503968
-postcode: 26135
+postcode: "26135"
 city: Oldenburg
 street: "Herrenweg"
 housenumber: 173

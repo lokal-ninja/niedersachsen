@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.285589300000005
 longitude: 8.4160333
-postcode: 49152
+postcode: "49152"
 city: Bad Essen
 street: "Buersche Straße"
 housenumber: 144

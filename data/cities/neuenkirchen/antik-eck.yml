@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 53.0369072
 longitude: 9.7080213
-postcode: 29643
+postcode: "29643"
 city: Neuenkirchen
 street: "Brochdorfer Straße"
 housenumber: 4

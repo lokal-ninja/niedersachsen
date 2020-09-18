@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0778509
 longitude: 8.0018235
-postcode: 49219
+postcode: "49219"
 city: Glandorf
 street: "Sudendorfer Esch"
 housenumber: 3

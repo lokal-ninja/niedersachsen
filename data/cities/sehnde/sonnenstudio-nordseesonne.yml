@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.3161889
 longitude: 9.964602600000001
-postcode: 31319
+postcode: "31319"
 city: Sehnde
 street: "Peiner Straße"
 housenumber: 11

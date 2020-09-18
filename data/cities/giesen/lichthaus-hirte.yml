@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.201390800000006
 longitude: 9.9160243
-postcode: 31180
+postcode: "31180"
 city: Giesen
 street: "Hannoversche Straße"
 housenumber: 55

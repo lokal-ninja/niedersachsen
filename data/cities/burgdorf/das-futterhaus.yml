@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.4581766
 longitude: 9.9906599
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Weserstraße"
 housenumber: 3

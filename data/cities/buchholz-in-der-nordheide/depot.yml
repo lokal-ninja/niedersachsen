@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.327011600000006
 longitude: 9.8801146
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Breite Straße"
 housenumber: 16

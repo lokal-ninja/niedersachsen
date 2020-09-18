@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.31938460000001
 longitude: 10.230285
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Bahnhofstraße"
 housenumber: 22

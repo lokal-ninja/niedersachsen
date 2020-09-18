@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 52.8941165
 longitude: 8.4308934
-postcode: 27793
+postcode: "27793"
 city: Wildeshausen
 street: "Visbeker Straße"
 housenumber: 

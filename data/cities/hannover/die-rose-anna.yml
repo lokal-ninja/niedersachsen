@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.367477900000004
 longitude: 9.7550509
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Lutherstraße"
 housenumber: 61

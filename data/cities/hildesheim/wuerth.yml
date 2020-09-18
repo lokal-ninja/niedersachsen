@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 52.1587674
 longitude: 9.9663409
-postcode: 31135
+postcode: "31135"
 city: Hildesheim
 street: "Bismarckplatz"
 housenumber: 10-11

@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 52.3033237
 longitude: 9.4584737
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Kaltenbornstraße"
 housenumber: 2

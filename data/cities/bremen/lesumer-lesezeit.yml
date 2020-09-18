@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 53.168987
 longitude: 8.691217400000001
-postcode: 28717
+postcode: "28717"
 city: Bremen
 street: "Hindenburgstraße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.6350562
 longitude: 10.0566803
-postcode: 29223
+postcode: "29223"
 city: Celle
 street: "Bremer Weg"
 housenumber: 171

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 53.3032485
 longitude: 8.0590817
-postcode: 26215
+postcode: "26215"
 city: Wiefelstede
 street: "Petersfelder Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.5808697
 longitude: 8.6309656
-postcode: 27619
+postcode: "27619"
 city: Schiffdorf
 street: "Jahnstraße"
 housenumber: 17

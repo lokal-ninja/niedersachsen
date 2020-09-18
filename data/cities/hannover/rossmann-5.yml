@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3986334
 longitude: 9.7329337
-postcode: 30165
+postcode: "30165"
 city: Hannover
 street: "Melanchthonstraße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.8568021
 longitude: 7.9290963
-postcode: 49696
+postcode: "49696"
 city: Molbergen
 street: "Alter Schützenplatz"
 housenumber: 1

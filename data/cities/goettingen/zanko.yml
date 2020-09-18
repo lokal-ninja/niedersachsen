@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.537232
 longitude: 9.934426700000001
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Weender Straße"
 housenumber: 98

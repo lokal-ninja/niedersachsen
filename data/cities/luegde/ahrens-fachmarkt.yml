@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.966046500000004
 longitude: 9.2517036
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Pyrmonter Straße"
 housenumber: 43 a

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.185145000000006
 longitude: 8.1741028
-postcode: 26215
+postcode: "26215"
 city: Wiefelstede
 street: "Metjendorfer Landstraße"
 housenumber: 23B

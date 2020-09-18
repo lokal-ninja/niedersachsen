@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.4182586
 longitude: 7.7415951000000005
-postcode: 26639
+postcode: "26639"
 city: Wiesmoor
 street: "Hauptstraße"
 housenumber: 145

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.093705400000005
 longitude: 8.4530159
-postcode: 27798
+postcode: "27798"
 city: Hude
 street: "Am Sandfang"
 housenumber: 5

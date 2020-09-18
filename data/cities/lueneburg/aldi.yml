@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.221672000000005
 longitude: 10.3838266
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Häcklinger Weg"
 housenumber: 66b

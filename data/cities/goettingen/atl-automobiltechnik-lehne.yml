@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.559400600000004
 longitude: 9.9298968
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Werner-von-Siemens-Straße"
 housenumber: 2

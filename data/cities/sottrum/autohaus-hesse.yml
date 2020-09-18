@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.1133031
 longitude: 9.2286965
-postcode: 27367
+postcode: "27367"
 city: Sottrum
 street: "Bremer Straße"
 housenumber: 40

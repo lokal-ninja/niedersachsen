@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1803364
 longitude: 8.686427400000001
-postcode: 27721
+postcode: "27721"
 city: Ritterhude
 street: "Schulstraße"
 housenumber: 1

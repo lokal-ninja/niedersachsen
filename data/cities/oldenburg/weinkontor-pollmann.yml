@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.1177232
 longitude: 8.192191600000001
-postcode: 26131
+postcode: "26131"
 city: Oldenburg
 street: "Hundsmühler Straße"
 housenumber: 167

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.1728819
 longitude: 9.6566775
-postcode: 27389
+postcode: "27389"
 city: Fintel
 street: "Lauenbrücker Straße"
 housenumber: 50

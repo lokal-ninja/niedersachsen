@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.7306066
 longitude: 10.6040489
-postcode: 29386
+postcode: "29386"
 city: Hankensbüttel
 street: "Bahnhofstraße"
 housenumber: 4

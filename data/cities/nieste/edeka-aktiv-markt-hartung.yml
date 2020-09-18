@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.312448100000005
 longitude: 9.6704354
-postcode: 34329
+postcode: "34329"
 city: Nieste
 street: "Kaufunger Straße"
 housenumber: 9a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3177645
 longitude: 9.3588159
-postcode: 31552
+postcode: "31552"
 city: Rodenberg
 street: "Allee"
 housenumber: 33

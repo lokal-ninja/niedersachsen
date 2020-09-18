@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.5308841
 longitude: 9.9357574
-postcode: 37073
+postcode: "37073"
 city: Göttingen
 street: "Kurze Straße"
 housenumber: 14

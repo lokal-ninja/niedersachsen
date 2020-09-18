@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.0522718
 longitude: 8.900658
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Osterhop"
 housenumber: 3

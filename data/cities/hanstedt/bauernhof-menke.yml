@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.259889900000005
 longitude: 10.000439400000001
-postcode: 21271
+postcode: "21271"
 city: Hanstedt
 street: "Oheweg"
 housenumber: 2

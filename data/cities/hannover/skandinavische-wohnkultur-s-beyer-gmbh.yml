@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.3656468
 longitude: 9.746691700000001
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 25

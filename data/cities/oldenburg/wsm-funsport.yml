@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 53.1621887
 longitude: 8.2255479
-postcode: 26123
+postcode: "26123"
 city: Oldenburg
 street: "Ammergaustraße"
 housenumber: 10

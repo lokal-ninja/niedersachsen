@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 52.2854127
 longitude: 8.0423349
-postcode: 49088
+postcode: "49088"
 city: Osnabrück
 street: "Bramscher Straße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3290494
 longitude: 10.250190400000001
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Duttenstedter Straße"
 housenumber: 136

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.9297399
 longitude: 10.3397635
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Kropskamp"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.231337700000005
 longitude: 8.7847425
-postcode: 27711
+postcode: "27711"
 city: Osterholz-Scharmbeck
 street: "Poststraße"
 housenumber: 11

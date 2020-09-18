@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.5453574
 longitude: 9.7350665
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Bissendorfer Straße"
 housenumber: 8

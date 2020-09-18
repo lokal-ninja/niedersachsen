@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.977451
 longitude: 9.279543
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "Siemensstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.2209681
 longitude: 9.080764100000001
-postcode: 27412
+postcode: "27412"
 city: Tarmstedt
 street: "Wilstedter Straße"
 housenumber: 21

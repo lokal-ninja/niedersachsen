@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.1703151
 longitude: 8.623949300000001
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Reeder-Bischoff-Straße"
 housenumber: 32

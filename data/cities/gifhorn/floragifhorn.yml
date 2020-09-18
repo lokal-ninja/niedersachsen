@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 52.485871800000005
 longitude: 10.547357100000001
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Rathausstraße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
 website: ""

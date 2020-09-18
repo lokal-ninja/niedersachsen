@@ -1,12 +1,12 @@
-id: 6186011770
+id: 6186022886
 type: node
 shop: Baumarkt
-latitude: 53.2793361
-longitude: 9.701055100000001
-postcode: 21255
+latitude: 53.288611100000004
+longitude: 9.728954100000001
+postcode: "21255"
 city: Tostedt
-street: "Am Westbahnhof"
-housenumber: 3
+street: "Friedrich-Vorwerk-Straße"
+housenumber: 21a
 phone: ""
-opening_hours: "Mo-Th 06:30-16:30; Fr 06:30-15:00"
+opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-15:00"
 website: "https://www.gc-gruppe.de/"

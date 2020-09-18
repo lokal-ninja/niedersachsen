@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.182632600000005
 longitude: 7.997180500000001
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Westersteder Straße"
 housenumber: 2

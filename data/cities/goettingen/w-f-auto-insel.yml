@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5445441
 longitude: 9.8997344
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Adolf-Hoyer-Straße"
 housenumber: 2

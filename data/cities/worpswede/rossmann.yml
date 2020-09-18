@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 53.220784200000004
 longitude: 8.9202849
-postcode: 27726
+postcode: "27726"
 city: Worpswede
 street: "Findorffstraße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://rossmann.de"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-17:00; PH off"
+website: ""

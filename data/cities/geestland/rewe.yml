@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.617235300000004
 longitude: 8.5965504
-postcode: 27607
+postcode: "27607"
 city: Geestland
 street: "Schmidtkuhlsweg"
 housenumber: 19

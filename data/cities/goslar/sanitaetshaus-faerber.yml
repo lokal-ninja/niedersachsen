@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.925875000000005
 longitude: 10.4355068
-postcode: 38642
+postcode: "38642"
 city: Goslar
 street: "Danziger Straße"
 housenumber: 79

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.212629
 longitude: 10.5229029
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Leipziger Straße"
 housenumber: 201

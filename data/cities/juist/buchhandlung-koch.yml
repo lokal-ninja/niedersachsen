@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.678369200000006
 longitude: 6.9965495
-postcode: 26571
+postcode: "26571"
 city: Juist
 street: "Friesenstraße"
 housenumber: 23

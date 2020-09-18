@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.5198637
 longitude: 8.1151087
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: "Marktstraße"
 housenumber: 46

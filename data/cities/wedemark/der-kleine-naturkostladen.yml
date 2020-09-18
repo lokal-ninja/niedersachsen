@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5471815
 longitude: 9.7416924
-postcode: 30900
+postcode: "30900"
 city: Wedemark
 street: "Stargarder Straße"
 housenumber: 1a

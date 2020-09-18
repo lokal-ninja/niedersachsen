@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 52.272005400000005
 longitude: 8.0494675
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Johannisstraße"
 housenumber: 54
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
 website: ""

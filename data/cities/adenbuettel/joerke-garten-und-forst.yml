@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.3970543
 longitude: 10.4240352
-postcode: 38528
+postcode: "38528"
 city: Adenbüttel
 street: "Hillerser Straße"
 housenumber: 6

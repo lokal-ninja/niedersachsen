@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.4705914
 longitude: 8.3737914
-postcode: 49448
+postcode: "49448"
 city: Lemförde
 street: "Hauptstraße"
 housenumber: 44

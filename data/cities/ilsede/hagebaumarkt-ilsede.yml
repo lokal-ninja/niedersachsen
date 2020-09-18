@@ -1,12 +1,12 @@
 id: 490997989
 type: node
 shop: Baumarkt
-latitude: 52.2623444
-longitude: 10.199114900000001
-postcode: 31241
+latitude: 52.261970100000006
+longitude: 10.1983183
+postcode: "31241"
 city: Ilsede
 street: "Gerhard-Lukas-Straße"
-housenumber: 37
+housenumber: 37-45
 phone: "+49 5172 6035"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
 website: "http://www.hagebaumarkt-ilsede.de"

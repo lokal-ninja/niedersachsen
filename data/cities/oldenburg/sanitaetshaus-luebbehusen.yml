@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.1419439
 longitude: 8.198128800000001
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Ofener Straße"
 housenumber: 27

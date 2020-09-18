@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.22752680000001
 longitude: 11.0095196
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Neumärker Straße"
 housenumber: 38

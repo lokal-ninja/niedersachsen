@@ -3,7 +3,7 @@ type: node
 shop: Milch
 latitude: 52.968924300000005
 longitude: 10.988646300000001
-postcode: 29459
+postcode: "29459"
 city: Clenze
 street: ""
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.97504240000001
 longitude: 10.5638305
-postcode: 29525
+postcode: "29525"
 city: Uelzen
 street: "Spottweg"
 housenumber: 4

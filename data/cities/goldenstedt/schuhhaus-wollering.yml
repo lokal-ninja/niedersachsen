@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.789535300000004
 longitude: 8.4293203
-postcode: 49424
+postcode: "49424"
 city: Goldenstedt
 street: "Hauptstraße"
 housenumber: 58

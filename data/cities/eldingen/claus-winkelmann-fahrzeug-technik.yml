@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.6793667
 longitude: 10.337669700000001
-postcode: 29351
+postcode: "29351"
 city: Eldingen
 street: "Behrbom"
 housenumber: 1

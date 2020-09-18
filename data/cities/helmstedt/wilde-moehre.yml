@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.2686755
 longitude: 10.9496216
-postcode: 38350
+postcode: "38350"
 city: Helmstedt
 street: "Zum Stüh"
 housenumber: 16

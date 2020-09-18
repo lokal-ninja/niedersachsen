@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.27500980000001
 longitude: 8.0757401
-postcode: 49084
+postcode: "49084"
 city: Osnabrück
 street: "Schützenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6379931
 longitude: 9.5576591
-postcode: 37194
+postcode: "37194"
 city: Bodenfelde
 street: "Kottberg"
 housenumber: 10

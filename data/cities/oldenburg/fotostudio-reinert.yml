@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.140001100000006
 longitude: 8.2127373
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Gaststraße"
 housenumber: 1

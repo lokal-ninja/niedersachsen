@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.176586
 longitude: 8.606183600000001
-postcode: 28755
+postcode: "28755"
 city: Bremen
 street: "Lindenstraße"
 housenumber: 45-49

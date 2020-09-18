@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 51.5608974
 longitude: 9.9339379
-postcode: 37077
+postcode: "37077"
 city: Göttingen
 street: "Mittelstraße"
 housenumber: 6a

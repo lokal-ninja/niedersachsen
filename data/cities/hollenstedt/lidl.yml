@@ -1,12 +1,12 @@
-id: 315996239
-type: way
+id: 1273633585
+type: node
 shop: Supermarkt
-latitude: 53.36623
-longitude: 9.708505200000001
-postcode: 21279
+latitude: 53.3661006
+longitude: 9.7087819
+postcode: "21279"
 city: Hollenstedt
 street: "Hauptstraße"
 housenumber: 25
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: "https://www.lidl.de/"

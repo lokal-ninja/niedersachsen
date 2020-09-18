@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.5782097
 longitude: 10.294556700000001
-postcode: 37434
+postcode: "37434"
 city: Rhumspringe
 street: "Bahnhofstraße"
 housenumber: 5

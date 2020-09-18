@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.1626963
 longitude: 8.2091413
-postcode: 26121
+postcode: "26121"
 city: Oldenburg
 street: "Ehnernstraße"
 housenumber: 189

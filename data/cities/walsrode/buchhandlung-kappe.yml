@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.8618207
 longitude: 9.592390700000001
-postcode: 29664
+postcode: "29664"
 city: Walsrode
 street: "Moorstraße"
 housenumber: 33

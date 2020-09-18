@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 53.0727782
 longitude: 8.8090846
-postcode: 28195
+postcode: "28195"
 city: Bremen
 street: "Stavendamm"
 housenumber: 8

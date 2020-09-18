@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.8948145
 longitude: 8.433489400000001
-postcode: 27793
+postcode: "27793"
 city: Wildeshausen
 street: "Westertor"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.2265719
 longitude: 10.164952300000001
-postcode: 21376
+postcode: "21376"
 city: Salzhausen
 street: "Bahnhofstraße"
 housenumber: 8

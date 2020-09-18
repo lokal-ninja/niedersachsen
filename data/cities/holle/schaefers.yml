@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.085609600000005
 longitude: 10.161033900000001
-postcode: 31188
+postcode: "31188"
 city: Holle
 street: "Marktstraße"
 housenumber: 25

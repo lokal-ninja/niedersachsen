@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9272446
 longitude: 9.6388029
-postcode: 37632
+postcode: "37632"
 city: Eschershausen
 street: "Steinweg"
 housenumber: 29

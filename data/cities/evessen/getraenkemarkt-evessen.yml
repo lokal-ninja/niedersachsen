@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.1894165
 longitude: 10.7047679
-postcode: 38173
+postcode: "38173"
 city: Evessen
 street: "Schöppenstedter Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.889835700000006
 longitude: 10.175434300000001
-postcode: 38723
+postcode: "38723"
 city: Seesen
 street: "Jacobsonstraße"
 housenumber: 23a

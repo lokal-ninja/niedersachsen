@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.8075045
 longitude: 8.060607000000001
-postcode: 49692
+postcode: "49692"
 city: Cappeln
 street: "Dorfstraße"
 housenumber: 2

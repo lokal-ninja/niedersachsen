@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.3991952
 longitude: 9.7769755
-postcode: 30177
+postcode: "30177"
 city: Hannover
 street: "Podbielskistraße"
 housenumber: 183

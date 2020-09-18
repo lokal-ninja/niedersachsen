@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.0842796
 longitude: 8.7661467
-postcode: 28197
+postcode: "28197"
 city: Bremen
 street: "Woltmershauser Straße"
 housenumber: 402

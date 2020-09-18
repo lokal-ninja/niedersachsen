@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.4311056
 longitude: 9.7125166
-postcode: 30851
+postcode: "30851"
 city: Langenhagen
 street: "Weidenbruch"
 housenumber: 33

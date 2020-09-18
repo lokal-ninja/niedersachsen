@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0477786
 longitude: 9.2634007
-postcode: 31855
+postcode: "31855"
 city: Aerzen
 street: "Osterstraße"
 housenumber: 28

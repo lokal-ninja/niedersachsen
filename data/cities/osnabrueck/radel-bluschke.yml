@@ -1,12 +1,12 @@
-id: 180158938
-type: way
+id: 7062747521
+type: node
 shop: Fahrrad
-latitude: 52.2591763
-longitude: 8.056060200000001
-postcode: 49082
+latitude: 52.2592719
+longitude: 8.0566043
+postcode: "49082"
 city: Osnabrück
 street: "Iburger Straße"
 housenumber: 74a
-phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
-website: ""
+phone: "+49 (0)541 587024"
+opening_hours: ""
+website: "http://www.c14-bikes.de"

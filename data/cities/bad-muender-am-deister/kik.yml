@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.194808300000005
 longitude: 9.464733500000001
-postcode: 31848
+postcode: "31848"
 city: Bad Münder am Deister
 street: "Bahnhofstraße"
 housenumber: 12-14

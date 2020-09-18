@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.9758433
 longitude: 9.549100000000001
-postcode: 27374
+postcode: "27374"
 city: Visselhövede
 street: "Paterbusch"
 housenumber: 2

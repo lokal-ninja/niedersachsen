@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.3682328
 longitude: 7.206133
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Neutorstraße"
 housenumber: 29

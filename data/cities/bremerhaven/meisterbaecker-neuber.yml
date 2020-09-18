@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.560101
 longitude: 8.5707725
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Rickmersstraße"
 housenumber: 

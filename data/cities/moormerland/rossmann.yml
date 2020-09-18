@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.3094626
 longitude: 7.488319100000001
-postcode: 26802
+postcode: "26802"
 city: Moormerland
 street: "Karl-Carstens-Straße"
 housenumber: 11a

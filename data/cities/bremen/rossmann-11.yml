@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.0723391
 longitude: 8.8433826
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Friedrich-Karl-Straße"
 housenumber: 1

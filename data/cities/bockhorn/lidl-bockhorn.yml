@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3969207
 longitude: 8.0159184
-postcode: 26345
+postcode: "26345"
 city: Bockhorn
 street: "Steinhauser Straße"
 housenumber: 25-29

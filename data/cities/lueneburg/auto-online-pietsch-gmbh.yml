@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.236442600000004
 longitude: 10.461312300000001
-postcode: 21337
+postcode: "21337"
 city: Lüneburg
 street: "Friedrich-Penseler-Straße"
 housenumber: 7b

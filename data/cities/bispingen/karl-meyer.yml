@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.1048885
 longitude: 10.0570023
-postcode: 29646
+postcode: "29646"
 city: Bispingen
 street: "Am Lütten Stimbeck"
 housenumber: 1

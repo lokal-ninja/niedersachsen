@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 52.3639347
 longitude: 9.758828600000001
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Heidornstraße"
 housenumber: 19
-phone: ""
-opening_hours: ""
+phone: "+49 511 852921"
+opening_hours: "Mo-Fr 10:00-18:00"
 website: "http://www.rad-concept.de/"

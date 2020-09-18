@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.1722547
 longitude: 10.5160098
-postcode: 38304
+postcode: "38304"
 city: Wolfenbüttel
 street: "Hauptstraße"
 housenumber: 36

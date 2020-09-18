@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.277814400000004
 longitude: 10.493797200000001
-postcode: 38116
+postcode: "38116"
 city: Braunschweig
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.865374200000005
 longitude: 9.6975548
-postcode: 29683
+postcode: "29683"
 city: Bad Fallingbostel
 street: "Hindenburgstraße"
 housenumber: 2

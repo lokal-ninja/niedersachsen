@@ -1,4 +1,4 @@
 ---
-title: "Bäckerei  Schmidt"
+title: "Bäckerei Schmidt"
 url: /preussisch-oldendorf/baeckerei-schmidt/
 ---

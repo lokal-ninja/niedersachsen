@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.36547770000001
 longitude: 9.747135
-postcode: 30171
+postcode: "30171"
 city: Hannover
 street: "Schlägerstraße"
 housenumber: 1

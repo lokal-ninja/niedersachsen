@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.372912500000005
 longitude: 10.485943500000001
-postcode: 21380
+postcode: "21380"
 city: Artlenburg
 street: "Stremel"
 housenumber: 8

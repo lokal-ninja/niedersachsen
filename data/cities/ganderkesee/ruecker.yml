@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 53.061295900000005
 longitude: 8.5301679
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Zur Hesterei"
 housenumber: 1

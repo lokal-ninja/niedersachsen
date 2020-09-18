@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.927072100000004
 longitude: 9.6392526
-postcode: 37632
+postcode: "37632"
 city: Eschershausen
 street: "Steinweg"
 housenumber: 37

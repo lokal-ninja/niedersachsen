@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.8258694
 longitude: 8.764270400000001
-postcode: 27478
+postcode: "27478"
 city: Cuxhaven
 street: "Alter Weg"
 housenumber: 35

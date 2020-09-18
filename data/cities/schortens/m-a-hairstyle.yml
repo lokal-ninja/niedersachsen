@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5232
 longitude: 8.039712
-postcode: 26419
+postcode: "26419"
 city: Schortens
 street: "Hauptstraße"
 housenumber: 2

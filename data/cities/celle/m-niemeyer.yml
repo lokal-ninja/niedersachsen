@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.622782
 longitude: 10.08195
-postcode: 
+postcode: ""
 city: Celle
 street: "Großer Plan"
 housenumber: 4

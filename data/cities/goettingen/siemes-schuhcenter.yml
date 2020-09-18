@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.5442158
 longitude: 9.9326399
-postcode: 37075
+postcode: "37075"
 city: Göttingen
 street: "Weender Landstraße"
 housenumber: 56-58

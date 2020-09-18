@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.7467551
 longitude: 7.4798065000000005
-postcode: 26465
+postcode: "26465"
 city: Langeoog
 street: "Hauptstraße"
 housenumber: 27

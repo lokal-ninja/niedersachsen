@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.258118100000004
 longitude: 8.1149583
-postcode: 26215
+postcode: "26215"
 city: Wiefelstede
 street: "Hauptstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.563515800000005
 longitude: 8.5860032
-postcode: 27568
+postcode: "27568"
 city: Bremerhaven
 street: "Hafenstraße"
 housenumber: 207

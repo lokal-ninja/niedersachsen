@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.393399900000006
 longitude: 7.2934868
-postcode: 48488
+postcode: "48488"
 city: Emsbüren
 street: "Bahnhofstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8282734
 longitude: 8.996279000000001
-postcode: 27305
+postcode: "27305"
 city: Bruchhausen-Vilsen
 street: "Am Bahnhof"
 housenumber: 19-21

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4477641
 longitude: 9.988285900000001
-postcode: 31303
+postcode: "31303"
 city: Burgdorf
 street: "Mönkeburgstraße"
 housenumber: 98

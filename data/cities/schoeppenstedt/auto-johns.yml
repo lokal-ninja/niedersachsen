@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.1473705
 longitude: 10.773008200000001
-postcode: 38170
+postcode: "38170"
 city: Schöppenstedt
 street: "Braunschweiger Straße"
 housenumber: 33a

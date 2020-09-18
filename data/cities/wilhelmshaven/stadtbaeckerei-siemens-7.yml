@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.51923540000001
 longitude: 8.1163892
-postcode: 26382
+postcode: "26382"
 city: Wilhelmshaven
 street: ""
 housenumber: 

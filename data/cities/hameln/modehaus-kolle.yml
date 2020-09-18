@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1054217
 longitude: 9.3559432
-postcode: 31785
+postcode: "31785"
 city: Hameln
 street: "Ritterstraße"
 housenumber: 1

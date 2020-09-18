@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.215248100000004
 longitude: 9.628893300000001
-postcode: 31832
+postcode: "31832"
 city: Springe
 street: "Steinhauerstraße"
 housenumber: 22

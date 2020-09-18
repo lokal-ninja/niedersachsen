@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.3825572
 longitude: 10.257498400000001
-postcode: 31234
+postcode: "31234"
 city: Edemissen
 street: "Peiner Straße"
 housenumber: 21

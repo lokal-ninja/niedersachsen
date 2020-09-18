@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.9268641
 longitude: 10.769238600000001
-postcode: 29562
+postcode: "29562"
 city: Suhlendorf
 street: "Am Alten Wehrturm"
 housenumber: 2

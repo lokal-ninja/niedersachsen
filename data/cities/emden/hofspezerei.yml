@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.36815180000001
 longitude: 7.2044727
-postcode: 26721
+postcode: "26721"
 city: Emden
 street: "Zwischen Beiden Sielen"
 housenumber: 23

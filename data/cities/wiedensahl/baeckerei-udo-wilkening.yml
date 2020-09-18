@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.389936000000006
 longitude: 9.1181664
-postcode: 31719
+postcode: "31719"
 city: Wiedensahl
 street: "Hauptstraße"
 housenumber: 151

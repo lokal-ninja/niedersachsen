@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.6244102
 longitude: 10.081873100000001
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Markt"
 housenumber: 10

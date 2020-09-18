@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.801956000000004
 longitude: 9.694069200000001
-postcode: 37586
+postcode: "37586"
 city: Dassel
 street: "Bahnhofstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.5004877
 longitude: 7.4840454
-postcode: 49832
+postcode: "49832"
 city: Thuine
 street: "Hauptstraße"
 housenumber: 33

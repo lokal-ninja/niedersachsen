@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.08581040000001
 longitude: 8.8426253
-postcode: 28209
+postcode: "28209"
 city: Bremen
 street: "Georg-Gröning-Straße"
 housenumber: 119

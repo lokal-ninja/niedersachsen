@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6706055
 longitude: 7.9353943000000005
-postcode: 49610
+postcode: "49610"
 city: Quakenbrück
 street: "Artlandstraße"
 housenumber: 41-43

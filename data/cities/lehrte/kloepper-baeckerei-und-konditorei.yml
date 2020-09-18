@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.3647969
 longitude: 9.909890200000001
-postcode: 31275
+postcode: "31275"
 city: Lehrte
 street: "Zum Großen Freien"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.682626000000006
 longitude: 9.911131800000001
-postcode: 29308
+postcode: "29308"
 city: Winsen (Aller)
 street: "Poststraße"
 housenumber: 30

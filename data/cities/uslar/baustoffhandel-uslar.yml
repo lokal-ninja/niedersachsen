@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.6608195
 longitude: 9.6304998
-postcode: 37170
+postcode: "37170"
 city: Uslar
 street: "Wiesenstraße"
 housenumber: 

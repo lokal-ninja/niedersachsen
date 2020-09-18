@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.3962286
 longitude: 10.4290965
-postcode: 38528
+postcode: "38528"
 city: Adenbüttel
 street: "Große Wiese"
 housenumber: 6

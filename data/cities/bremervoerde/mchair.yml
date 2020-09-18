@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.487312800000005
 longitude: 9.1457844
-postcode: 27432
+postcode: "27432"
 city: Bremervörde
 street: "Neue Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.395173400000004
 longitude: 7.349665000000001
-postcode: 26632
+postcode: "26632"
 city: Ihlow
 street: "Friesenstraße"
 housenumber: 205

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.607600600000005
 longitude: 8.370009300000001
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Lange Straße"
 housenumber: 53

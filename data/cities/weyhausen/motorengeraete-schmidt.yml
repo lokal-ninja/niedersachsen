@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 52.463818200000006
 longitude: 10.714907
-postcode: 38554
+postcode: "38554"
 city: Weyhausen
 street: "Vor dem Dorfe"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.852555
 longitude: 8.715816100000001
-postcode: 27472
+postcode: "27472"
 city: Cuxhaven
 street: "Meyerstraße"
 housenumber: 46

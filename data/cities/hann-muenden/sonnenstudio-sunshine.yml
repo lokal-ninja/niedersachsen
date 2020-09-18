@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.421287500000005
 longitude: 9.6427502
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Veckerhäger Straße"
 housenumber: 48

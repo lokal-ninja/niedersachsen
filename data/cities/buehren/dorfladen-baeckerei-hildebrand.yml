@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.484750000000005
 longitude: 9.680596300000001
-postcode: 
+postcode: ""
 city: Bühren
 street: "Tiestraße"
 housenumber: 15

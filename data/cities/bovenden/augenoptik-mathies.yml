@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.588075
 longitude: 9.929277
-postcode: 37120
+postcode: "37120"
 city: Bovenden
 street: "Mühlenweg"
 housenumber: 2

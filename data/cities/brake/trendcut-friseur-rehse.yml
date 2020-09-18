@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.3266342
 longitude: 8.480970300000001
-postcode: 26919
+postcode: "26919"
 city: Brake
 street: "Breite Straße"
 housenumber: 40

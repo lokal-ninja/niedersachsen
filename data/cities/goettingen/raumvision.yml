@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.5666974
 longitude: 9.9274156
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Friedrich-Ebert-Straße"
 housenumber: 26

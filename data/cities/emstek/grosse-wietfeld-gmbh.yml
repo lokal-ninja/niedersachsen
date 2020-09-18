@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.832980000000006
 longitude: 8.1497468
-postcode: 49685
+postcode: "49685"
 city: Emstek
 street: "Clemens-August-Straße"
 housenumber: 19

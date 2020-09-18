@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.30456160000001
 longitude: 9.4882319
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Bunsenstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1903421
 longitude: 8.6363429
-postcode: 28755
+postcode: "28755"
 city: Bremen
 street: "Lerchenstraße"
 housenumber: 36

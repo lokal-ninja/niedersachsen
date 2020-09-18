@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.633963800000004
 longitude: 9.9321006
-postcode: 29313
+postcode: "29313"
 city: Hambühren
 street: "Celler Straße"
 housenumber: 7

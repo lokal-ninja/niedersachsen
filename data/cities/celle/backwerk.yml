@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6243471
 longitude: 10.0819071
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Markt"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.241374900000004
 longitude: 7.4589715000000005
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Ringstraße"
 housenumber: 22-24

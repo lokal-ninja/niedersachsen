@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.3777771
 longitude: 9.7422251
-postcode: 30161
+postcode: "30161"
 city: Hannover
 street: "Niki-de-Saint-Phalle-Promenade"
 housenumber: 75

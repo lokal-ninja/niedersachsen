@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.68061590000001
 longitude: 9.6188891
-postcode: 29690
+postcode: "29690"
 city: Schwarmstedt
 street: "Celler Straße"
 housenumber: 31

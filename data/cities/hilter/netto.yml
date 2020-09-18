@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1338816
 longitude: 8.1516798
-postcode: 49176
+postcode: "49176"
 city: Hilter
 street: "Bielefelder Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.6997689
 longitude: 7.2902354
-postcode: 49716
+postcode: "49716"
 city: Meppen
 street: "Schützenstraße"
 housenumber: 55

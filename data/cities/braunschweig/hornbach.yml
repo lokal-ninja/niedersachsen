@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.2495356
 longitude: 10.5114172
-postcode: 38122
+postcode: "38122"
 city: Braunschweig
 street: "Fabrikstraße"
 housenumber: 2

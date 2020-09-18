@@ -1,4 +1,4 @@
 ---
-title: "bon prix outlet"
+title: "Bon Prix Outlet"
 url: /stade/bon-prix-outlet/
 ---

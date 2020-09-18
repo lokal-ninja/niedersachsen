@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.549649
 longitude: 9.9342891
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Theodor-Heuss-Straße"
 housenumber: 66

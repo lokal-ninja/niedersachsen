@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.268092800000005
 longitude: 8.0528616
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Johannisstraße"
 housenumber: 16

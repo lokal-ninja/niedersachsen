@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.273937000000004
 longitude: 8.0459466
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Kleine Hamkenstraße"
 housenumber: 5-7

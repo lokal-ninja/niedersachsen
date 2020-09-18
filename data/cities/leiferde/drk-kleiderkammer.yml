@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4378426
 longitude: 10.4421329
-postcode: 38542
+postcode: "38542"
 city: Leiferde
 street: "Badenbütteler Straße"
 housenumber: 2

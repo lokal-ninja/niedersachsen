@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.623110600000004
 longitude: 9.5555699
-postcode: 34399
+postcode: "34399"
 city: Wesertal
 street: "Deckenstraße"
 housenumber: 3

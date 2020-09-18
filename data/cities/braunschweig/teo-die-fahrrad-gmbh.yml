@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.2609093
 longitude: 10.541416
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Helmstedter Straße"
 housenumber: 20a

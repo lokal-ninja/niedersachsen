@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.8286899
 longitude: 9.4492767
-postcode: 37603
+postcode: "37603"
 city: Holzminden
 street: "Oberbachstraße"
 housenumber: 41-43

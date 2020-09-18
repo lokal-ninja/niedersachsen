@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2395434
 longitude: 10.5818066
-postcode: 38126
+postcode: "38126"
 city: Braunschweig
 street: "Gemeindestraße"
 housenumber: 6

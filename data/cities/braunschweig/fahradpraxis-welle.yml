@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.26881040000001
 longitude: 10.5288585
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
 street: "Fallersleber Straße"
 housenumber: 38

@@ -1,4 +1,4 @@
 ---
-title: "Autohaus H.Thole"
+title: "Autohaus H. Thole"
 url: /schuettorf/autohaus-h-thole/
 ---

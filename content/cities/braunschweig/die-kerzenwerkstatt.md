@@ -1,4 +1,4 @@
 ---
-title: "die Kerzenwerkstatt"
+title: "Die Kerzenwerkstatt"
 url: /braunschweig/die-kerzenwerkstatt/
 ---

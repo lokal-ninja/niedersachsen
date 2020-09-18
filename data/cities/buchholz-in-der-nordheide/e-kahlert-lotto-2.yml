@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 53.3269193
 longitude: 9.8787801
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
 street: "Poststraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.575803300000004
 longitude: 8.591451900000001
-postcode: 27580
+postcode: "27580"
 city: Bremerhaven
 street: "Wurster Straße"
 housenumber: 53

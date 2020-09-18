@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4150111
 longitude: 9.6509845
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Lange Straße"
 housenumber: 98

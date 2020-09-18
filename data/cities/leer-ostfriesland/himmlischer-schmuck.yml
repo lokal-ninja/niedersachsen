@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.226136200000006
 longitude: 7.4503706
-postcode: 26789
+postcode: "26789"
 city: Leer (Ostfriesland)
 street: "Neue Straße"
 housenumber: 10

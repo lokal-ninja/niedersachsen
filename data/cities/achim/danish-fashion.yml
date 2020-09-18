@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.012156000000004
 longitude: 9.0354544
-postcode: 28832
+postcode: "28832"
 city: Achim
 street: "Obernstraße"
 housenumber: 39

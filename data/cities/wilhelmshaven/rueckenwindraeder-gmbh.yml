@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 53.5764488
 longitude: 8.1138533
-postcode: 26388
+postcode: "26388"
 city: Wilhelmshaven
 street: "Tidestraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.050512600000005
 longitude: 8.9582271
-postcode: 28307
+postcode: "28307"
 city: Bremen
 street: "Hans-Bredow-Straße"
 housenumber: 19

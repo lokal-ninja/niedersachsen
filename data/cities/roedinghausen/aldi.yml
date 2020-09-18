@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2026655
 longitude: 8.461208000000001
-postcode: 32289
+postcode: "32289"
 city: Rödinghausen
 street: "Bruchstraße"
 housenumber: 193

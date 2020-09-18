@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.5146777
 longitude: 9.939411400000001
-postcode: 37083
+postcode: "37083"
 city: Göttingen
 street: "Reinhäuser Landstraße"
 housenumber: 156

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.360933
 longitude: 9.749532
-postcode: 30169
+postcode: "30169"
 city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 76

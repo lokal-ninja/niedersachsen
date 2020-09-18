@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 53.1088625
 longitude: 8.8854228
-postcode: 28357
+postcode: "28357"
 city: Bremen
 street: "Haferwende"
 housenumber: 28

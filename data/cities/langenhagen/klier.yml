@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4298787
 longitude: 9.7166739
-postcode: 30851
+postcode: "30851"
 city: Langenhagen
 street: "Hans-Böckler-Straße"
 housenumber: 60

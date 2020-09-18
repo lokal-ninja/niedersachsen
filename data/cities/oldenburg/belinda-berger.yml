@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.1419507
 longitude: 8.2120832
-postcode: 26122
+postcode: "26122"
 city: Oldenburg
 street: "Herbartgang"
 housenumber: 18

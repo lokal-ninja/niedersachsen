@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.243298
 longitude: 10.5126889
-postcode: 38122
+postcode: "38122"
 city: Braunschweig
 street: "Otto-von-Guericke-Straße"
 housenumber: 9

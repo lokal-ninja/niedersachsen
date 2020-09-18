@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3844161
 longitude: 9.7247233
-postcode: 30167
+postcode: "30167"
 city: Hannover
 street: "Engelbosteler Damm"
 housenumber: 23a

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.104842600000005
 longitude: 9.7940609
-postcode: 29640
+postcode: "29640"
 city: Schneverdingen
 street: "Südring"
 housenumber: 19

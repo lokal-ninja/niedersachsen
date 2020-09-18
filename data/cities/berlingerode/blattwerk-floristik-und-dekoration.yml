@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4581263
 longitude: 10.2379435
-postcode: 37339
+postcode: "37339"
 city: Berlingerode
 street: "Hauptstraße"
 housenumber: 61

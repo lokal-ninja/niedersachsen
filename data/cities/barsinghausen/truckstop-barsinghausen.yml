@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.3329534
 longitude: 9.4150252
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
 street: "Kronskamp"
 housenumber: 3

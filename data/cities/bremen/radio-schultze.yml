@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 53.17704680000001
 longitude: 8.618547000000001
-postcode: 28757
+postcode: "28757"
 city: Bremen
 street: "Georg-Gleistein-Straße"
 housenumber: 16

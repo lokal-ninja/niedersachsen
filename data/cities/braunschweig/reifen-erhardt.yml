@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.3031116
 longitude: 10.5169864
-postcode: 38112
+postcode: "38112"
 city: Braunschweig
 street: "Gifhorner Straße"
 housenumber: 147

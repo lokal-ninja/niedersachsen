@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.286577300000005
 longitude: 8.0409238
-postcode: 49090
+postcode: "49090"
 city: Osnabrück
 street: "Wachsbleiche"
 housenumber: 59-61

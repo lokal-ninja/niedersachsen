@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.234904900000004
 longitude: 10.4822021
-postcode: 38122
+postcode: "38122"
 city: Braunschweig
 street: "Kruckweg"
 housenumber: 5

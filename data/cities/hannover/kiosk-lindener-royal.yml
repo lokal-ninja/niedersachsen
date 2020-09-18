@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.3667206
 longitude: 9.7129837
-postcode: 30449
+postcode: "30449"
 city: Hannover
 street: "Egestorffstraße"
 housenumber: 3

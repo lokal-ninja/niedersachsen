@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.748568000000006
 longitude: 8.2803743
-postcode: 49377
+postcode: "49377"
 city: Vechta
 street: "Gutenbergstraße"
 housenumber: 2

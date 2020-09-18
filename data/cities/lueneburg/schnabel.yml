@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.2515207
 longitude: 10.409307700000001
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
 street: "Bardowicker Straße"
 housenumber: 12

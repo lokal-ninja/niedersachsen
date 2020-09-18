@@ -1,12 +1,12 @@
-id: 322131469
-type: way
+id: 1390130086
+type: node
 shop: Metzgerei
-latitude: 53.473294700000004
-longitude: 8.636704700000001
-postcode: 27612
+latitude: 53.470610400000005
+longitude: 8.6501806
+postcode: "27612"
 city: Loxstedt
-street: "An der Reitbahn"
-housenumber: 12
-phone: ""
-opening_hours: ""
-website: ""
+street: "Bahnhofstraße"
+housenumber: 43b
+phone: "+49 4744 9138616"
+opening_hours: "Mo-Fr 06:30-13:30,14:30-18:00"
+website: "http://www.party-service-bitzer.de/"

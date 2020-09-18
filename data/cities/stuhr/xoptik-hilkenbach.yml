@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 53.0073542
 longitude: 8.7910236
-postcode: 28816
+postcode: "28816"
 city: Stuhr
 street: "Syker Straße"
 housenumber: 49a

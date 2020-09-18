@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.9359509
 longitude: 10.3277613
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
 street: "Harzstraße"
 housenumber: 42A

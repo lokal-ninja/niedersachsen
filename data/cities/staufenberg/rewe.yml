@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3570867
 longitude: 9.5926117
-postcode: 34355
+postcode: "34355"
 city: Staufenberg
 street: "Hannoversche Straße"
 housenumber: 45

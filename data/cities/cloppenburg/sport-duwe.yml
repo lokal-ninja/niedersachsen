@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.8431696
 longitude: 8.037800800000001
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Eschstraße"
 housenumber: 46

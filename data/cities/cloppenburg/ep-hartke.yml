@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.83918250000001
 longitude: 8.0740231
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
 street: "Otto-Hahn-Straße"
 housenumber: 1

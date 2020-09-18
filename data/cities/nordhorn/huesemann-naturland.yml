@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.4123595
 longitude: 7.1193486
-postcode: 48531
+postcode: "48531"
 city: Nordhorn
 street: "Feldkämpe"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.587992
 longitude: 8.6165479
-postcode: 27578
+postcode: "27578"
 city: Bremerhaven
 street: "Hans-Böckler-Straße"
 housenumber: 32 b

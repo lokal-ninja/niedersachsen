@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5961269
 longitude: 7.2079725
-postcode: 26506
+postcode: "26506"
 city: Norden
 street: "Osterstraße"
 housenumber: 147-149

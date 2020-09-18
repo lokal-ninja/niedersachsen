@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.072340700000005
 longitude: 8.8420834
-postcode: 28205
+postcode: "28205"
 city: Bremen
 street: "Am Schwarzen Meer"
 housenumber: 165

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.966447800000005
 longitude: 7.3300495
-postcode: 26892
+postcode: "26892"
 city: Dörpen
 street: "Hauptstraße"
 housenumber: 35

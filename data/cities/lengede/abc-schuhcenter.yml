@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.191896500000006
 longitude: 10.3266457
-postcode: 38268
+postcode: "38268"
 city: Lengede
 street: "Barbecker Straße"
 housenumber: 2b

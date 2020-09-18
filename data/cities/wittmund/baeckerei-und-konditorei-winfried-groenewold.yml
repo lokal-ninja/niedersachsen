@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.6911769
 longitude: 7.8032633
-postcode: 26409
+postcode: "26409"
 city: Wittmund
 street: "Bahnhofstraße"
 housenumber: 20

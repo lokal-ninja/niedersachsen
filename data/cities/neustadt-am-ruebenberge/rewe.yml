@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5001553
 longitude: 9.4559201
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
 street: "Siemensstraße"
 housenumber: 4

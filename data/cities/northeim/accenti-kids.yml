@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7063488
 longitude: 9.9978637
-postcode: 
+postcode: ""
 city: Northeim
 street: "Grafenhof"
 housenumber: 1-5

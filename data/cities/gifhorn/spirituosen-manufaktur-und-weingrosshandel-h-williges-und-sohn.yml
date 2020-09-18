@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 52.487682400000004
 longitude: 10.5435558
-postcode: 38518
+postcode: "38518"
 city: Gifhorn
 street: "Torstraße"
 housenumber: 9

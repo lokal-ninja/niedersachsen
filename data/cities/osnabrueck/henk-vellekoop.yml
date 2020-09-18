@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.2655535
 longitude: 8.0537112
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Rosenplatz"
 housenumber: 24

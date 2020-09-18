@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 52.2180321
 longitude: 10.529414200000002
-postcode: 38124
+postcode: "38124"
 city: Braunschweig
 street: "Senefelderstraße"
 housenumber: 6

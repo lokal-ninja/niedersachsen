@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2741368
 longitude: 8.0438743
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Redlingerstraße"
 housenumber: 4a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.789968800000004
 longitude: 8.4283289
-postcode: 49424
+postcode: "49424"
 city: Goldenstedt
 street: "Hauptstraße"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.9605758
 longitude: 9.018933800000001
-postcode: 27321
+postcode: "27321"
 city: Thedinghausen
 street: "Syker Straße"
 housenumber: 14

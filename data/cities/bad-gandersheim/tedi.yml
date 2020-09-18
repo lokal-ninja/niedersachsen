@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.867290000000004
 longitude: 10.0126495
-postcode: 37581
+postcode: "37581"
 city: Bad Gandersheim
 street: "Neue Straße"
 housenumber: 51D

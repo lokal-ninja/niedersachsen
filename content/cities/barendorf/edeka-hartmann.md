@@ -1,4 +1,4 @@
 ---
-title: "EDEKA Hartmann"
+title: "Edeka Hartmann"
 url: /barendorf/edeka-hartmann/
 ---

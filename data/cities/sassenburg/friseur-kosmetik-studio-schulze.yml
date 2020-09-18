@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.508023400000006
 longitude: 10.6293018
-postcode: 38524
+postcode: "38524"
 city: Sassenburg
 street: "Dannenbütteler Weg"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.3638436
 longitude: 8.3115878
-postcode: 49163
+postcode: "49163"
 city: Bohmte
 street: "Bremer Straße"
 housenumber: 33

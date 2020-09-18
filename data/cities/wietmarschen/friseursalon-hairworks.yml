@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5188695
 longitude: 7.1326678
-postcode: 49835
+postcode: "49835"
 city: Wietmarschen
 street: "Am Markt"
 housenumber: 1d

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.9832783
 longitude: 9.243954
-postcode: 31812
+postcode: "31812"
 city: Bad Pyrmont
 street: "Schillerstraße"
 housenumber: 15

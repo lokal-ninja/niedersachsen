@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.425578400000006
 longitude: 9.325517900000001
-postcode: 31558
+postcode: "31558"
 city: Hagenburg
 street: "Lütgen Hagen"
 housenumber: 21

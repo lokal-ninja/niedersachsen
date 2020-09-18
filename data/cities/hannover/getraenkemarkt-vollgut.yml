@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.397822500000004
 longitude: 9.732392800000001
-postcode: 30165
+postcode: "30165"
 city: Hannover
 street: "Melanchthonstraße"
 housenumber: 50

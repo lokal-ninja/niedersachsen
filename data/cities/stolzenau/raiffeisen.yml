@@ -3,10 +3,10 @@ type: node
 shop: Garten-Center
 latitude: 52.525960000000005
 longitude: 9.0746088
-postcode: 31592
+postcode: "31592"
 city: Stolzenau
 street: "Am See"
 housenumber: 1
-phone: ""
+phone: "+49 5761 902206"
 opening_hours: "Mo-Fr: 09.00-18.30 Uhr, Sa: 09.00-14.00 Uhr"
 website: "https://www.raiffeisenmitte.de/raiffeisen-markt/maerkte/stolzenau/"

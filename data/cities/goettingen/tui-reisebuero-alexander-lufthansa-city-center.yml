@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.535319300000005
 longitude: 9.9126621
-postcode: 37081
+postcode: "37081"
 city: Göttingen
 street: "Posthof"
 housenumber: 2

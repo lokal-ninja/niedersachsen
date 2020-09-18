@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.03241310000001
 longitude: 8.8390915
-postcode: 28279
+postcode: "28279"
 city: Bremen
 street: "Heukämpendamm"
 housenumber: 56

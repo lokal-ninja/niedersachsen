@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.985393300000005
 longitude: 8.8713525
-postcode: 28844
+postcode: "28844"
 city: Weyhe
 street: "Kirchweyher Straße"
 housenumber: 2b

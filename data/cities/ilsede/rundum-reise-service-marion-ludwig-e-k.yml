@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.264845900000005
 longitude: 10.221034900000001
-postcode: 31241
+postcode: "31241"
 city: Ilsede
 street: "Gerhardstraße"
 housenumber: 46

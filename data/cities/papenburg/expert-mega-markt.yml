@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.091439900000005
 longitude: 7.400891100000001
-postcode: 26871
+postcode: "26871"
 city: Papenburg
 street: "Zur Seeschleuse"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 53.046975
 longitude: 8.893706
-postcode: 28309
+postcode: "28309"
 city: Bremen
 street: "Hemelinger Heerstraße"
 housenumber: 17

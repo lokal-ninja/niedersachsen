@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.699713700000004
 longitude: 9.2488752
-postcode: 21706
+postcode: "21706"
 city: Drochtersen
 street: "Rönndeich"
 housenumber: 18

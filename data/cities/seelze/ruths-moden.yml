@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.3969892
 longitude: 9.6407
-postcode: 30926
+postcode: "30926"
 city: Seelze
 street: "Lange-Feld-Straße"
 housenumber: 20

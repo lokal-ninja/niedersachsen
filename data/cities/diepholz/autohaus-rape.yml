@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.595894
 longitude: 8.3651552
-postcode: 49356
+postcode: "49356"
 city: Diepholz
 street: "Maschstraße"
 housenumber: 1

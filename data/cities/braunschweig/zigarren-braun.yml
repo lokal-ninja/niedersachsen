@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.2872678
 longitude: 10.526885400000001
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Nibelungenplatz"
 housenumber: 14

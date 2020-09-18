@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6629488
 longitude: 8.1227044
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Bahnhofstraße"
 housenumber: 7

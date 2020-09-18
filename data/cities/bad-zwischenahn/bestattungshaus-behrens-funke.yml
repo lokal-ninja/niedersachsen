@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.1795825
 longitude: 7.983463700000001
-postcode: 26160
+postcode: "26160"
 city: Bad Zwischenahn
 street: "Diekweg"
 housenumber: 56

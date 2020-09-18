@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.0995033
 longitude: 11.0956673
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "An der Kirche"
 housenumber: 4a

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.531283300000005
 longitude: 9.9240647
-postcode: 
+postcode: ""
 city: Göttingen
 street: "Schiefer Weg"
 housenumber: 10

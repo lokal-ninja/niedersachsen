@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.192622400000005
 longitude: 8.3552426
-postcode: 49324
+postcode: "49324"
 city: Melle
 street: "Industriestraße"
 housenumber: 11

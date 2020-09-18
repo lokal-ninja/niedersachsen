@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 53.0683273
 longitude: 8.7846008
-postcode: 28199
+postcode: "28199"
 city: Bremen
 street: "Langemarckstraße"
 housenumber: 273-275
 phone: ""
-opening_hours: ""
+opening_hours: "Su-Th 10:00-24:00, Fr,Sa 10:00-02:00"
 website: ""

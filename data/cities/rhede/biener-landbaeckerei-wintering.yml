@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0620951
 longitude: 7.2764737
-postcode: 26899
+postcode: "26899"
 city: Rhede
 street: "Burgstraße"
 housenumber: 14

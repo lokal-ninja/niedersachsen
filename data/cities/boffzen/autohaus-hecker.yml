@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.7540441
 longitude: 9.388214300000001
-postcode: 37691
+postcode: "37691"
 city: Boffzen
 street: "Untere Dorfstraße"
 housenumber: 23

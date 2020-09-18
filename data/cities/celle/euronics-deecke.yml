@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.617418900000004
 longitude: 10.094299300000001
-postcode: 29221
+postcode: "29221"
 city: Celle
 street: "Blumlage"
 housenumber: 64

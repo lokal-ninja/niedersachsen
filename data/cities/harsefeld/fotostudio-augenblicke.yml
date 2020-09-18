@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.45330250000001
 longitude: 9.5037611
-postcode: 21698
+postcode: "21698"
 city: Harsefeld
 street: "Marktstraße"
 housenumber: 20

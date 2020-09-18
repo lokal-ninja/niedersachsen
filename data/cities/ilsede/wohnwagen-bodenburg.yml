@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.228335900000005
 longitude: 10.2517203
-postcode: 31246
+postcode: "31246"
 city: Ilsede
 street: "Bierstraße"
 housenumber: 118

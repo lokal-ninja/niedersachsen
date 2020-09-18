@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.170774900000005
 longitude: 10.564461600000001
-postcode: 38302
+postcode: "38302"
 city: Wolfenbüttel
 street: "Akazienstraße"
 housenumber: 28

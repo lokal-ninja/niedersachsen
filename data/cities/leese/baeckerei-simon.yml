@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.505717800000006
 longitude: 9.1141685
-postcode: 31633
+postcode: "31633"
 city: Leese
 street: "Stolzenauer Straße"
 housenumber: 3

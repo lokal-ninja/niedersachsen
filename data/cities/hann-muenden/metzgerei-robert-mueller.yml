@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.401722400000004
 longitude: 9.657995300000001
-postcode: 34346
+postcode: "34346"
 city: Hann. Münden
 street: "Quedlinburger Straße"
 housenumber: 5

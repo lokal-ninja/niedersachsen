@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.505741500000006
 longitude: 6.8009632
-postcode: 49847
+postcode: "49847"
 city: Itterbeck
 street: "Hauptstraße"
 housenumber: 30

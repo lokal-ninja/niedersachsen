@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.15925
 longitude: 9.3609034
-postcode: 31840
+postcode: "31840"
 city: Hessisch Oldendorf
 street: "Alte Berliner Heerstraße"
 housenumber: 66

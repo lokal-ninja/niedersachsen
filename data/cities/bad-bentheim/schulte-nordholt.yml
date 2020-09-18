@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.292203
 longitude: 7.113054900000001
-postcode: 48455
+postcode: "48455"
 city: Bad Bentheim
 street: ""
 housenumber: 24

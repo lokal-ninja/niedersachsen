@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.400102000000004
 longitude: 8.1208238
-postcode: 26316
+postcode: "26316"
 city: Varel
 street: "Torhegenhausstraße"
 housenumber: 1a

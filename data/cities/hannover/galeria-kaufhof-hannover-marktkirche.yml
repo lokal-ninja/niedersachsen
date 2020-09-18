@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.3729542
 longitude: 9.735780400000001
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Seilwinderstraße"
 housenumber: 8

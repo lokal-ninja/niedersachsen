@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.6582784
 longitude: 8.118867100000001
-postcode: 49413
+postcode: "49413"
 city: Dinklage
 street: "Webergasse"
 housenumber: 9-11

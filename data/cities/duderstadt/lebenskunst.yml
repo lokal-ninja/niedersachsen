@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.512547100000006
 longitude: 10.2574305
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 23

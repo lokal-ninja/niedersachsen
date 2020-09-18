@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.90943600000001
 longitude: 8.5879568
-postcode: 27243
+postcode: "27243"
 city: Harpstedt
 street: "Burgstraße"
 housenumber: 9

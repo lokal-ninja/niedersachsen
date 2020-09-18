@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4727198
 longitude: 9.9756926
-postcode: 
+postcode: ""
 city: Gleichen
 street: "Am Rischenplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3056539
 longitude: 7.167902600000001
-postcode: 48455
+postcode: "48455"
 city: Bad Bentheim
 street: "Heinrich-Böll-Straße"
 housenumber: 1

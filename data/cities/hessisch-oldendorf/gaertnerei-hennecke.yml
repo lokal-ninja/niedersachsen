@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.1692101
 longitude: 9.2427498
-postcode: 31840
+postcode: "31840"
 city: Hessisch Oldendorf
 street: "Mühlenbachstraße"
 housenumber: 3

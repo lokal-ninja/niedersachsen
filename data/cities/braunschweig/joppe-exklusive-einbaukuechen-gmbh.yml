@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.251227
 longitude: 10.532452800000002
-postcode: 38102
+postcode: "38102"
 city: Braunschweig
 street: "Heinrich-Büssing-Ring"
 housenumber: 34

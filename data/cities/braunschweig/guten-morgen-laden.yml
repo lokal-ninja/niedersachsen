@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.273738300000005
 longitude: 10.5430852
-postcode: 38106
+postcode: "38106"
 city: Braunschweig
 street: "Schunterstraße"
 housenumber: 17

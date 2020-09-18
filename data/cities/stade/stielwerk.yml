@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.5857955
 longitude: 9.4726505
-postcode: 21680
+postcode: "21680"
 city: Stade
 street: "Harsefelder Straße"
 housenumber: 84

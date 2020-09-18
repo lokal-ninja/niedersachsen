@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.5122311
 longitude: 10.259029
-postcode: 
+postcode: ""
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0626048
 longitude: 8.5845517
-postcode: 27777
+postcode: "27777"
 city: Ganderkesee
 street: "Elmeloher Straße"
 housenumber: 39

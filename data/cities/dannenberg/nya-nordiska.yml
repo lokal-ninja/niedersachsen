@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.1010439
 longitude: 11.0997064
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
 street: "Marschtorstraße"
 housenumber: 20

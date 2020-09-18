@@ -1,12 +1,12 @@
-id: 722793929
+id: 664190961
 type: node
 shop: Bäckerei
-latitude: 53.3670362
-longitude: 7.1647761
-postcode: 26723
+latitude: 53.3738036
+longitude: 7.199136500000001
+postcode: "26721"
 city: Emden
-street: "Lise-Meitner-Straße"
-housenumber: 9
-phone: "+49 4921 996747"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-12:00; Su 07:30-10:30"
+street: "Steinweg"
+housenumber: 15
+phone: "+49 4921 929409"
+opening_hours: "Mo-Fr 05:30-18:00; Sa 05:45-13:00; Su 08:00-11:00"
 website: "https://www.sikken.de/"

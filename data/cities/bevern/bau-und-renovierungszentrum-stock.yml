@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.8584072
 longitude: 9.486852200000001
-postcode: 37639
+postcode: "37639"
 city: Bevern
 street: "Birkenweg"
 housenumber: 2

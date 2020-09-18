@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.305037500000005
 longitude: 10.3131459
-postcode: 31224
+postcode: "31224"
 city: Peine
 street: "Stegmannstraße"
 housenumber: 10

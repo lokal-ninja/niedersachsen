@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.4625593
 longitude: 8.057751600000001
-postcode: 26345
+postcode: "26345"
 city: Bockhorn
 street: "Am Jadebusen"
 housenumber: 2

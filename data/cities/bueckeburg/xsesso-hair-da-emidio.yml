@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2649107
 longitude: 9.076463200000001
-postcode: 31675
+postcode: "31675"
 city: Bückeburg
 street: "Kreuzbreite"
 housenumber: 34

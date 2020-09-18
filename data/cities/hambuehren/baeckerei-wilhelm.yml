@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.6413402
 longitude: 9.934532500000001
-postcode: 29313
+postcode: "29313"
 city: Hambühren
 street: "Im Gehäge"
 housenumber: 2

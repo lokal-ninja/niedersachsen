@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 52.3735081
 longitude: 9.7352278
-postcode: 30159
+postcode: "30159"
 city: Hannover
 street: "Osterstraße"
 housenumber: 3

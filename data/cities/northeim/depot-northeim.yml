@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.6988976
 longitude: 10.000376000000001
-postcode: 37154
+postcode: "37154"
 city: Northeim
 street: "Robert-Schnabel-Straße"
 housenumber: 1

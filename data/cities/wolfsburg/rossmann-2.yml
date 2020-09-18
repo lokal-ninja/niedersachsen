@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3939771
 longitude: 10.7538581
-postcode: 38444
+postcode: "38444"
 city: Wolfsburg
 street: "Detmeroder Markt"
 housenumber: 8

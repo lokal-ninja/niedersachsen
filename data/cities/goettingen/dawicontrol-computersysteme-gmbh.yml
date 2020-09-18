@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 51.543713800000006
 longitude: 9.884448
-postcode: 37079
+postcode: "37079"
 city: Göttingen
 street: "Gerhard-Gerdes-Straße"
 housenumber: 3

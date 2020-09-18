@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.2819293
 longitude: 10.439234500000001
-postcode: 21365
+postcode: "21365"
 city: Adendorf
 street: "Rathausplatz"
 housenumber: 2

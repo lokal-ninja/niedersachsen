@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.843566900000006
 longitude: 8.3906313
-postcode: 49429
+postcode: "49429"
 city: Visbek
 street: "Broamkamp"
 housenumber: 21

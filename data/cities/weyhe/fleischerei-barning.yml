@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.992687000000004
 longitude: 8.8714648
-postcode: 28844
+postcode: "28844"
 city: Weyhe
 street: "Dorfstraße"
 housenumber: 8

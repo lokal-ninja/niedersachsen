@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.2758163
 longitude: 8.040930300000001
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
 street: "Dielingerstraße"
 housenumber: 9

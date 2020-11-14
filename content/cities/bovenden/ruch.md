@@ -1,4 +1,4 @@
 ---
-title: "Ruch"
+title: "ruch"
 url: /bovenden/ruch/
 ---

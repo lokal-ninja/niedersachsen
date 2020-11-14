@@ -1,4 +1,4 @@
 ---
-title: "Netto"
+title: "netto"
 url: /laatzen/netto/
 ---

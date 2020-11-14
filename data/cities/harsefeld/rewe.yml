@@ -1,12 +1,12 @@
-id: 417008760
-type: node
+id: 44048983
+type: way
 shop: Supermarkt
-latitude: 53.455271100000004
-longitude: 9.5128571
+latitude: 53.455344600000004
+longitude: 9.512213500000001
 postcode: "21698"
 city: Harsefeld
 street: "Paschberg"
 housenumber: 18
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:45; PH off"
+opening_hours: ""
 website: ""

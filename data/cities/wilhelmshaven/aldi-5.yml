@@ -1,12 +1,12 @@
-id: 420412912
-type: node
+id: 497584257
+type: way
 shop: Supermarkt
-latitude: 53.5356996
-longitude: 8.1254959
-postcode: "26384"
+latitude: 53.52835940000001
+longitude: 8.098649
+postcode: "26382"
 city: Wilhelmshaven
-street: "Gökerstraße"
-housenumber: 109
+street: "Werftstraße"
+housenumber: 161
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"
 website: ""

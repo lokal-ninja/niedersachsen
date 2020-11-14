@@ -1,12 +1,12 @@
-id: 151292309
-type: way
+id: 1036418215
+type: node
 shop: Getränke
-latitude: 52.2617228
-longitude: 8.0745661
-postcode: "49084"
+latitude: 52.295079300000005
+longitude: 8.0168212
+postcode: "49090"
 city: Osnabrück
-street: "Hannoversche Straße"
-housenumber: 57
+street: "Pagenstecherstraße"
+housenumber: 142
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00; PH off"
-website: "https://www.getraenke-hoffmann.de/"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-19:00"
+website: ""

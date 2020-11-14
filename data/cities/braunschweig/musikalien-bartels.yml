@@ -1,12 +1,12 @@
-id: 116132661
-type: way
+id: 3792666525
+type: node
 shop: Instrumente
-latitude: 52.26323300000001
-longitude: 10.524562900000001
+latitude: 52.267267000000004
+longitude: 10.527499200000001
 postcode: "38100"
 city: Braunschweig
-street: "Schloßpassage"
-housenumber: 1
-phone: ""
+street: "Wilhelmstraße"
+housenumber: 89
+phone: "+49 531 49491"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00"
-website: "http://www.musikalien-bartels.de/"
+website: "https://www.musik-bartels.de/"

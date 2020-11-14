@@ -1,12 +1,12 @@
-id: 4324823592
+id: 5965871692
 type: node
 shop: Tickets
-latitude: 52.2737728
-longitude: 10.50566
-postcode: "38114"
+latitude: 52.2660065
+longitude: 10.5050291
+postcode: "38118"
 city: Braunschweig
-street: "Celler Straße"
-housenumber: 33
+street: "Goslarsche Straße"
+housenumber: 74
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off"
-website: ""
+opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 15:00-18:00"
+website: "https://www.verkehr-bs.de/tickets/vorverkaufsstellen.html"

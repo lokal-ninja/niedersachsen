@@ -1,12 +1,12 @@
-id: 2284270299
-type: node
+id: 223757242
+type: way
 shop: Metzgerei
-latitude: 52.8338745
-longitude: 8.1560153
+latitude: 52.833869500000006
+longitude: 8.1559805
 postcode: "49685"
 city: Emstek
 street: "Lange Straße"
 housenumber: 2
-phone: ""
-opening_hours: ""
-website: "www.fleischerei-moors.de"
+phone: "+49 4473 381"
+opening_hours: "Mo-Fr 07:00-12:30, 14:00-18:00; Sa 06:00-13:00; Su,PH off"
+website: "http://fleischerei-moors.com/"

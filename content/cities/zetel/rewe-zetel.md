@@ -1,4 +1,4 @@
 ---
-title: "REWE Zetel"
+title: "Rewe Zetel"
 url: /zetel/rewe-zetel/
 ---

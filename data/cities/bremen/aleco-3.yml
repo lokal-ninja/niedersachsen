@@ -1,12 +1,12 @@
-id: 180561221
-type: way
-shop: Lebensmittel
-latitude: 53.1692241
-longitude: 8.6898025
-postcode: ""
+id: 6285846285
+type: node
+shop: Supermarkt
+latitude: 53.1049711
+longitude: 8.854421
+postcode: "28359"
 city: Bremen
-street: "Hindenburgstraße"
-housenumber: 36
-phone: ""
+street: "Max-von-Laue-Straße"
+housenumber: 1
+phone: "+49 421 89806012"
 opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.alecobio.de/"
+website: "https://www.aleco.bio/standorte/28359-hb-bremen"

@@ -1,12 +1,12 @@
-id: 558645783
+id: 559888955
 type: node
 shop: Bäckerei
-latitude: 53.5437876
-longitude: 8.5785972
-postcode: "27568"
+latitude: 53.534529500000005
+longitude: 8.5929192
+postcode: "27570"
 city: Bremerhaven
-street: "Bürgermeister-Smidt-Straße"
-housenumber: 48
+street: "Schillerstraße"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00;Sa 08:30-18:00"
-website: "http://www.stadtbaeckerei-engelbrecht.de"
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-10:30"
+website: ""

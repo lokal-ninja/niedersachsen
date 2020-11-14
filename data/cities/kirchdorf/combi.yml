@@ -1,6 +1,6 @@
 id: 224284699
 type: way
-shop: Einkaufszentrum
+shop: Supermarkt
 latitude: 52.5942817
 longitude: 8.8308854
 postcode: "27245"
@@ -8,5 +8,5 @@ city: Kirchdorf
 street: "Bahrenborsteler Straße"
 housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

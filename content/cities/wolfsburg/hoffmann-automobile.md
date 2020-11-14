@@ -1,4 +1,4 @@
 ---
-title: "HOFFMANN Automobile"
+title: "Hoffmann Automobile"
 url: /wolfsburg/hoffmann-automobile/
 ---

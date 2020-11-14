@@ -1,12 +1,12 @@
-id: 425523268
-type: node
+id: 276194361
+type: way
 shop: Supermarkt
-latitude: 53.5934444
-longitude: 7.2049456
+latitude: 53.585836300000004
+longitude: 7.219368500000001
 postcode: "26506"
 city: Norden
-street: "Am Markt"
-housenumber: 22-23
-phone: "+49 4931 93950"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: "Addinggaster Weg"
+housenumber: 4
+phone: ""
+opening_hours: "Mo-Sa 08:00-19:00"
 website: ""

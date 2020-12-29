@@ -1,12 +1,12 @@
-id: 143931018
-type: way
+id: 8124518343
+type: node
 shop: Autohaus
-latitude: 53.011432000000006
-longitude: 9.0788726
+latitude: 53.011747400000004
+longitude: 9.078784800000001
 postcode: "28832"
 city: Achim
 street: "Finienweg"
-housenumber: 13;15
-phone: ""
+housenumber: 15
+phone: "+49 4202 977844"
 opening_hours: ""
-website: ""
+website: "https://www.autohaus-kempf.de/"

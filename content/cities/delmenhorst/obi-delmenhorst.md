@@ -1,4 +1,4 @@
 ---
-title: "OBI Delmenhorst"
+title: "OBI (Delmenhorst)"
 url: /delmenhorst/obi-delmenhorst/
 ---

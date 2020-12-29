@@ -1,4 +1,4 @@
 ---
-title: "köpping babyausstattung"
+title: "Köpping Babyausstattung"
 url: /stadthagen/koepping-babyausstattung/
 ---

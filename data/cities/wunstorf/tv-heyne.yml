@@ -8,5 +8,5 @@ city: Wunstorf
 street: "Lange Straße"
 housenumber: 64
 phone: "+49 5031 13445"
-opening_hours: "Mo, Di, Do, Fr 09:00-13:00, 15:00-18:00; Mi, Sa 09:00-13:00"
-website: "http://www.tv-heyne.de"
+opening_hours: "Mo,Tu,Th,Fr 09:00-13:00, 15:00-18:00; We,Sa 09:00-13:00"
+website: "https://www.tv-heyne.de"

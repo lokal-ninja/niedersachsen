@@ -1,6 +1,6 @@
 id: 1998619060
 type: node
-shop: Wein
+shop: Spirituosen
 latitude: 52.4125814
 longitude: 9.7990925
 postcode: "30659"
@@ -8,5 +8,5 @@ city: Hannover
 street: "Klein-Buchholzer Kirchweg"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-14:00"
+opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-14:00"
 website: ""

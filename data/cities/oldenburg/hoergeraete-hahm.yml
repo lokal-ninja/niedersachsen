@@ -1,12 +1,12 @@
-id: 152645976
-type: way
+id: 8144871610
+type: node
 shop: Hörgeräte
-latitude: 53.1333381
-longitude: 8.197377600000001
-postcode: ""
+latitude: 53.189635200000005
+longitude: 8.201924400000001
+postcode: "26127"
 city: Oldenburg
-street: "Hauptstraße"
-housenumber: 42
-phone: "+49 441 502050"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:30-12:30"
-website: "https://hoergeraete-hahm.com/"
+street: "Karuschenweg"
+housenumber: 1
+phone: "+49 441 80007757"
+opening_hours: "Mo-Fr 09:00-13:00; Mo, Tu, Th, Fr 14:30-18:00"
+website: "https://hoergeraete-hahm.com"

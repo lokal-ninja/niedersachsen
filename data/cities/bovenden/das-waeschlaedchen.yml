@@ -8,5 +8,5 @@ city: Bovenden
 street: "Rathausplatz"
 housenumber: 17
 phone: ""
-opening_hours: "Mo-Th 10:00-13:00,15:00-18:00; Fr 10:00-18:00; Sa 10:00-13:00; PH off"
+opening_hours: "Mo-Th,Sa 10:00-13:00, Th 15:00-18:00; Fr 10:00-18:00; PH off"
 website: ""

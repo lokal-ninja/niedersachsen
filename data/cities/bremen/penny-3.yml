@@ -1,12 +1,12 @@
-id: 2493721021
-type: node
+id: 26850846
+type: way
 shop: Supermarkt
-latitude: 53.066616800000006
-longitude: 8.8034586
-postcode: "28201"
+latitude: 53.0336118
+longitude: 8.8327798
+postcode: "28277"
 city: Bremen
-street: "Buntentorsteinweg"
-housenumber: 53-59
+street: "Alfred-Faust-Straße"
+housenumber: 7
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su off; PH off"
+opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
 website: ""

@@ -1,4 +1,4 @@
 ---
-title: "Kik"
+title: "KiK"
 url: /tostedt/kik/
 ---

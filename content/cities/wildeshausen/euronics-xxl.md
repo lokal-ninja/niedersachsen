@@ -1,4 +1,4 @@
 ---
-title: "EURONICS XXL"
+title: "Euronics XXL"
 url: /wildeshausen/euronics-xxl/
 ---

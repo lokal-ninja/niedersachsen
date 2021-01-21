@@ -1,6 +1,5 @@
 id: 85579286
 type: node
-shop: Bäckerei
 latitude: 52.3393693
 longitude: 9.759964400000001
 postcode: "30519"
@@ -8,5 +7,5 @@ city: Hannover
 street: "Bernwardstraße"
 housenumber: 38
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-14:00"
 website: ""

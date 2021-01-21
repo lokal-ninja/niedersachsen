@@ -1,6 +1,5 @@
 id: 6453298844
 type: node
-shop: Uhren
 latitude: 52.4200421
 longitude: 9.696114600000001
 postcode: "30419"
@@ -8,5 +7,5 @@ city: Hannover
 street: "Alt-Vinnhorst"
 housenumber: 12
 phone: "+49 (0)511 748340"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00"
 website: "http://www.uhren-schremmer.de/"

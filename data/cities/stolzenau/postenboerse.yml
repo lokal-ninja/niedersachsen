@@ -1,12 +1,11 @@
-id: 7197235296
-type: node
-shop: Kramladen
-latitude: 52.5119144
-longitude: 9.061025
+id: 889018863
+type: way
+latitude: 52.512075800000005
+longitude: 9.0607813
 postcode: "31592"
 city: Stolzenau
 street: "Bürgermeister-Heuvemann-Straße"
-housenumber: 
+housenumber: 2
 phone: ""
 opening_hours: ""
 website: ""

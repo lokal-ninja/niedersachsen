@@ -1,6 +1,5 @@
 id: 290738596
 type: node
-shop: Bäckerei
 latitude: 53.1803364
 longitude: 8.686427400000001
 postcode: "27721"
@@ -8,5 +7,5 @@ city: Ritterhude
 street: "Schulstraße"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Th 06:00-18:00, Fr 06:00-18:00 Sa 06:00-12:00 Su: 08:00-11:00"
+opening_hours: "Mo-Th 06:00-18:00, Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"
 website: "https://www.tenters-backhaus.de/"

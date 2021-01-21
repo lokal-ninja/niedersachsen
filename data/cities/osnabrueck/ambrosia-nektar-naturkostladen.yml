@@ -1,6 +1,5 @@
 id: 5887433316
 type: node
-shop: Lebensmittel
 latitude: 52.273637
 longitude: 8.0489181
 postcode: "49074"
@@ -8,5 +7,5 @@ city: Osnabrück
 street: "Öwer de Hase"
 housenumber: 7
 phone: "+49 541 22458"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00; "
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
 website: "http://ambrosia-nektar.de/"

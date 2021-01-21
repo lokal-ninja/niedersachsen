@@ -1,12 +1,11 @@
-id: 389160471
+id: 160826168
 type: way
-shop: Supermarkt
-latitude: 52.8305092
-longitude: 8.0318881
+latitude: 52.850822400000006
+longitude: 8.0520905
 postcode: "49661"
 city: Cloppenburg
-street: "Freesienstraße"
-housenumber: 1
+street: "Osterstraße"
+housenumber: 96
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.netto-online.de"

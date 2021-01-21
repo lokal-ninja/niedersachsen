@@ -1,6 +1,5 @@
 id: 293032285
 type: node
-shop: Bäckerei
 latitude: 53.140985300000004
 longitude: 8.1838196
 postcode: "26129"
@@ -8,5 +7,5 @@ city: Oldenburg
 street: "Bloherfelder Straße"
 housenumber: 60
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-13:00, Su 07:30-10:30"
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:30; Su 07:30-10:30"
 website: ""

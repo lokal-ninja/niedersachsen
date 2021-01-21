@@ -1,6 +1,5 @@
 id: 8005973069
 type: node
-shop: Angeln
 latitude: 53.120084500000004
 longitude: 10.5339585
 postcode: "29585"
@@ -8,5 +7,5 @@ city: Jelmstorf
 street: "An den Fischteichen"
 housenumber: 1
 phone: "+49 5823 1811"
-opening_hours: "Täglich 6-18 Uhr, Dienstag Ruhetag. November-Februar: täglich 7-17 Uhr, Dienstag Ruhetag."
+opening_hours: "Tu off; Nov-Feb: We-Mo 07:00-17:00; Mrz-Oct: We-Mo 06:00-18:00"
 website: "https://forellenzucht-benecke.de"

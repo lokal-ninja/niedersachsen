@@ -1,12 +1,11 @@
-id: 161366677
-type: way
-shop: Handy
-latitude: 53.3615367
-longitude: 7.1690899
-postcode: "26723"
+id: 1863104788
+type: node
+latitude: 53.36822960000001
+longitude: 7.205842100000001
+postcode: "26721"
 city: Emden
-street: "Thüringer Straße"
-housenumber: 9
-phone: "+49 4921 946808"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.o2online.de/"
+street: "Zwischen Beiden Sielen"
+housenumber: 3
+phone: ""
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+website: ""

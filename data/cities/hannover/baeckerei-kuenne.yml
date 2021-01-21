@@ -1,6 +1,5 @@
 id: 125447079
 type: node
-shop: Bäckerei
 latitude: 52.356902600000005
 longitude: 9.762513400000001
 postcode: "30173"
@@ -8,5 +7,5 @@ city: Hannover
 street: "Altenbekener Damm"
 housenumber: 26
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-13:00, So 08:00-11:00"
+opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-13:00, Su 08:00-11:00"
 website: ""

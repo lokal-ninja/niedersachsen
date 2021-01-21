@@ -1,6 +1,5 @@
 id: 5094636787
 type: node
-shop: Bäckerei
 latitude: 52.5253832
 longitude: 9.075391
 postcode: "31592"
@@ -9,4 +8,4 @@ street: "Schinnaer Landstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"
-website: ""
+website: "https://landbaeckerei-niemeyer.de/"

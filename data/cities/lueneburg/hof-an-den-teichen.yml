@@ -1,6 +1,5 @@
 id: 4883382980
 type: node
-shop: Hofladen
 latitude: 53.2137577
 longitude: 10.3601916
 postcode: "21335"
@@ -8,5 +7,5 @@ city: Lüneburg
 street: "Heiligenthaler Straße"
 housenumber: 1
 phone: ""
-opening_hours: "Fr,Sa 14:00-18:00; Su 10:00-18:00"
+opening_hours: "PH,Mo-Su 12:00-18:00"
 website: ""

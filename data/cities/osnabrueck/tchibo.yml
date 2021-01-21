@@ -1,6 +1,5 @@
 id: 1671945744
 type: node
-shop: Kaffee
 latitude: 52.274304300000004
 longitude: 8.0476431
 postcode: "49074"
@@ -8,5 +7,5 @@ city: Osnabrück
 street: "Große Straße"
 housenumber: 21
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; "
+opening_hours: "Mo-Sa 08:30-20:00"
 website: ""

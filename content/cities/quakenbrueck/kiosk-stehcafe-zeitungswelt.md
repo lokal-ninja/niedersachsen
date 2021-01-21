@@ -1,4 +1,5 @@
 ---
 title: "Kiosk Stehcafé Zeitungswelt"
 url: /quakenbrueck/kiosk-stehcafe-zeitungswelt/
+shop: Kiosk
 ---

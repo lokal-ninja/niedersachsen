@@ -1,6 +1,5 @@
 id: 4777492921
 type: node
-shop: Kramladen
 latitude: 53.5379805
 longitude: 8.5888687
 postcode: "27570"
@@ -8,5 +7,5 @@ city: Bremerhaven
 street: "Industriestraße"
 housenumber: 33-37
 phone: ""
-opening_hours: "Mo-Sa 9:00-20:00; So geschlossen"
+opening_hours: "Mo-Sa 09:00-20:00; Su closed"
 website: ""

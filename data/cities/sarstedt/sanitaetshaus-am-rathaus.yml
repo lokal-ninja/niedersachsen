@@ -1,6 +1,5 @@
 id: 2301166646
 type: node
-shop: Sanitätshaus
 latitude: 52.2341971
 longitude: 9.8531572
 postcode: "31157"
@@ -8,5 +7,5 @@ city: Sarstedt
 street: "Steinstraße"
 housenumber: 23
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00 -18:00;"
+opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00"
 website: ""

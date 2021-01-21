@@ -1,12 +1,11 @@
-id: 1316150729
+id: 1316150731
 type: node
-shop: Drogerie
-latitude: 52.3383933
-longitude: 9.7688743
-postcode: "30519"
+latitude: 52.3673585
+longitude: 9.719877700000001
+postcode: "30449"
 city: Hannover
-street: "Peiner Straße"
-housenumber: 1
+street: "Deisterstraße"
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-14:00; PH off"
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH off"
 website: ""

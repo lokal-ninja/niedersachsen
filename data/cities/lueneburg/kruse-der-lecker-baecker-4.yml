@@ -1,6 +1,5 @@
 id: 2419949134
 type: node
-shop: Bäckerei
 latitude: 53.212625700000004
 longitude: 10.3880348
 postcode: "21335"
@@ -8,5 +7,5 @@ city: Lüneburg
 street: "Alter Hessenweg"
 housenumber: 4
 phone: "+494131 246231"
-opening_hours: "Mo-Fr 06:15-18:30; Sa 06:15-14:00; So 08:00-11:00"
+opening_hours: "Mo-Fr 06:15-18:30; Sa 06:15-14:00; Su 08:00-11:00"
 website: ""

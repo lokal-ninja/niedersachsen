@@ -1,6 +1,5 @@
 id: 2584399832
 type: node
-shop: Hörgeräte
 latitude: 53.0780819
 longitude: 8.8240899
 postcode: "28203"
@@ -8,5 +7,5 @@ city: Bremen
 street: "Am Dobben"
 housenumber: 129
 phone: "+4942179478490"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Mi 10:00-13:00"
+opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; We 10:00-13:00"
 website: "https://www.hoergeraete-ketz.de"

@@ -1,6 +1,5 @@
 id: 153048431
 type: way
-shop: Supermarkt
 latitude: 53.0322648
 longitude: 8.8109213
 postcode: "28277"
@@ -8,5 +7,5 @@ city: Bremen
 street: "Kattenturmer Heerstraße"
 housenumber: 326
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

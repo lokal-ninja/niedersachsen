@@ -1,6 +1,5 @@
 id: 3260261291
 type: node
-shop: Fahrrad
 latitude: 53.2159557
 longitude: 10.388664100000002
 postcode: "21335"
@@ -8,5 +7,5 @@ city: Lüneburg
 street: "Alter Hessenweg"
 housenumber: 23A
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 10:00-15:00"
 website: ""

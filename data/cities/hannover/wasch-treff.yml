@@ -1,6 +1,5 @@
 id: 485087954
 type: node
-shop: Wäscherei
 latitude: 52.3627258
 longitude: 9.7544229
 postcode: "30171"
@@ -8,5 +7,5 @@ city: Hannover
 street: "Oesterleystraße"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 06:00-23:00"
 website: ""

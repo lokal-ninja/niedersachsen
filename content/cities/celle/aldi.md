@@ -1,4 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /celle/aldi/
+shop: Supermarkt
 ---

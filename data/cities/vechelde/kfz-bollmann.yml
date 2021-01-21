@@ -1,6 +1,5 @@
 id: 220559290
 type: way
-shop: Autowerkstatt
 latitude: 52.2360824
 longitude: 10.407551900000001
 postcode: "38159"
@@ -8,5 +7,5 @@ city: Vechelde
 street: "Burgstraße"
 housenumber: 9
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-16:00"
 website: ""

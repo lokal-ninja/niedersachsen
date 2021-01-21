@@ -1,6 +1,5 @@
 id: 600142265
 type: node
-shop: Supermarkt
 latitude: 52.876921200000005
 longitude: 10.1140937
 postcode: "29328"
@@ -8,5 +7,5 @@ city: Faßberg
 street: "Hauptstraße"
 housenumber: 4a
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; So 13:00-16:00"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 13:00-16:00"
 website: ""

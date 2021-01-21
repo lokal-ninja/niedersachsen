@@ -1,6 +1,5 @@
 id: 6071580643
 type: node
-shop: Bäckerei
 latitude: 52.420665400000004
 longitude: 8.7428094
 postcode: "31603"
@@ -8,5 +7,5 @@ city: Diepenau
 street: "Hauptstraße"
 housenumber: 23
 phone: "+49 5775 9689510"
-opening_hours: "Mo-Fr 6:00-18:00 Sa 6:00-13:00 So 7:30-12:00"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-12:00"
 website: "https://www.baeckerei-schmidt.de/filialen/lavelsloh"

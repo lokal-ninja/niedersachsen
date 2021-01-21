@@ -1,4 +1,5 @@
 ---
-title: "real,-"
+title: "Real"
 url: /celle/real/
+shop: Supermarkt
 ---

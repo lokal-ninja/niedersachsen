@@ -1,12 +1,11 @@
-id: 391050416
-type: node
-shop: Supermarkt
-latitude: 53.2990116
-longitude: 7.595424100000001
+id: 116968505
+type: way
+latitude: 53.2989831
+longitude: 7.5952988
 postcode: "26835"
 city: Hesel
 street: "Im Brink"
-housenumber: 1
+housenumber: 15
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off; PH off"
+opening_hours: "Mo-Sa 07:00-21:00; Su off; PH off"
 website: ""

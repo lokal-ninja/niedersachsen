@@ -1,6 +1,5 @@
 id: 1324586947
 type: node
-shop: Sport
 latitude: 52.4228548
 longitude: 10.728698900000001
 postcode: "38442"
@@ -9,4 +8,4 @@ street: "Wolfsburger Landstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: ""
+website: "https://www.fachmarkt-sport2000.de/"

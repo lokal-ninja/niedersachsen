@@ -1,6 +1,5 @@
 id: 938884644
 type: node
-shop: Friseur
 latitude: 52.328014
 longitude: 9.778041700000001
 postcode: "30519"
@@ -8,5 +7,5 @@ city: Hannover
 street: "Hildesheimer Straße"
 housenumber: 379
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
 website: ""

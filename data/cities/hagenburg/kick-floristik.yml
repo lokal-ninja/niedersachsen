@@ -1,6 +1,5 @@
 id: 6002354686
 type: node
-shop: Blumen
 latitude: 52.434057100000004
 longitude: 9.3239929
 postcode: "31558"
@@ -8,5 +7,5 @@ city: Hagenburg
 street: "Lange Straße"
 housenumber: 18
 phone: "+49 5033 7462"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-14:00; So 10:00-12:00"
+opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-14:00; Su 10:00-12:00"
 website: "http://www.blumen-kick.de/"

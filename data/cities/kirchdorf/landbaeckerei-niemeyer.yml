@@ -1,6 +1,5 @@
 id: 5094636788
 type: node
-shop: Bäckerei
 latitude: 52.5942859
 longitude: 8.830760100000001
 postcode: "27245"
@@ -9,4 +8,4 @@ street: "Bahrenborsteler Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su 07:30-10:00"
-website: ""
+website: "https://landbaeckerei-niemeyer.de/"

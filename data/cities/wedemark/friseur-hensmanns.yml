@@ -1,6 +1,5 @@
 id: 1231219352
 type: node
-shop: Friseur
 latitude: 52.547508300000004
 longitude: 9.739473400000001
 postcode: "30900"
@@ -8,5 +7,5 @@ city: Wedemark
 street: "Am Behrenberg"
 housenumber: 2
 phone: "+49 5130 2311"
-opening_hours: "Mo off,Tu 09:00-18:00, We-Fr 08:00-18:00, Sa 08:00-14:00"
+opening_hours: "Tu 09:00-18:00, We-Fr 08:00-18:00, Sa 08:00-14:00"
 website: ""

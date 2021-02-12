@@ -1,5 +1,5 @@
 baseURL = "https://de.shoogle.net/niedersachsen"
-languageCode = "de-DE"
+languageCode = "de"
 title = "Niedersachsen"
 theme = "ln-base"
 

@@ -7,5 +7,5 @@ city: Bremen
 street: "Mindener Straße"
 housenumber: 58
 phone: ""
-opening_hours: "Mo 15:00-18:00; Tu-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"
+opening_hours: "Mo,Tu,Th-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00; We off"
 website: ""

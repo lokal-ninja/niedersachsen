@@ -1,5 +1,5 @@
 ---
 title: "Weltladen"
 url: /schneverdingen/weltladen/
-shop: Warenhaus
+shop: Lebensmittel
 ---

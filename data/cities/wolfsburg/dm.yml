@@ -1,11 +1,11 @@
-id: 996345612
-type: node
-latitude: 52.4211607
-longitude: 10.722062300000001
-postcode: "38442"
+id: 693668134
+type: way
+latitude: 52.424175600000005
+longitude: 10.7887337
+postcode: "38440"
 city: Wolfsburg
-street: "Wolfsburger Landstraße"
-housenumber: 1a
+street: "Porschestraße"
+housenumber: 35a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

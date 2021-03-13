@@ -1,5 +1,5 @@
 ---
-title: "real,-"
+title: "Real"
 url: /cuxhaven/real-2/
-shop: Einkaufszentrum
+shop: Supermarkt
 ---

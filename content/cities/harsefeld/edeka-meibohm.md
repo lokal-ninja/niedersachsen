@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Meibohm"
+title: "Edeka Meibohm"
 url: /harsefeld/edeka-meibohm/
 shop: Supermarkt
 ---

@@ -1,11 +1,11 @@
-id: 2465428493
-type: node
-latitude: 53.458289300000004
-longitude: 7.497283800000001
-postcode: "26603"
+id: 877284531
+type: way
+latitude: 53.487797
+longitude: 7.4967924
+postcode: "26607"
 city: Aurich
-street: "Raiffeisenstraße"
-housenumber: 18
+street: "Esenser Straße"
+housenumber: 140 a
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: ""
 website: ""

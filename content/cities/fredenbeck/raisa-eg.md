@@ -1,5 +1,5 @@
 ---
 title: "RAISA eg"
 url: /fredenbeck/raisa-eg/
-shop: Supermarkt
+shop: Landwirtschaftlich
 ---

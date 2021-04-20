@@ -1,11 +1,11 @@
-id: 377955889
-type: way
-latitude: 53.2244065
-longitude: 8.797366700000001
+id: 3813635479
+type: node
+latitude: 53.23536240000001
+longitude: 8.8112659
 postcode: "27711"
 city: Osterholz-Scharmbeck
-street: "Bahnhofstraße"
-housenumber: 30-32
-phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: ""
+street: "Penningbütteler Straße"
+housenumber: 20
+phone: "+49 4791 905666"
+opening_hours: "Mo-Fr 06:30-20:00; Sa 06:30-19:00; Su,PH off"
+website: "https://www.baeckerei-rolf.de/startseite/"

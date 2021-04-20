@@ -1,5 +1,5 @@
 ---
-title: "DEPOT"
+title: "Depot"
 url: /hannover/depot/
 shop: Raumausstattung
 ---

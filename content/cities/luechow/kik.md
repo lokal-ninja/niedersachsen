@@ -1,5 +1,5 @@
 ---
-title: "kik"
+title: "KiK"
 url: /luechow/kik/
 shop: Kleidung
 ---

@@ -1,11 +1,11 @@
-id: 89441701
-type: way
-latitude: 51.517203300000006
-longitude: 9.970964400000002
+id: 7135914681
+type: node
+latitude: 51.522786800000006
+longitude: 9.962224800000001
 postcode: "37085"
 city: Göttingen
-street: "Schöneberger Straße"
-housenumber: 3
+street: "Alfred-Delp-Weg"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 08:00-17:00; easter off; whitsun off; Dec 25 off; Dec 26 off; Jan 1 off"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 08:00-17:00; easter +1 day off; easter +50 days off; Dec 25 off; Dec 26 off; Jan 1 off"
 website: ""

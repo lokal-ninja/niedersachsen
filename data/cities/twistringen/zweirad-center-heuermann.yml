@@ -7,5 +7,5 @@ city: Twistringen
 street: "Langenstraße"
 housenumber: 7
 phone: ""
-opening_hours: "Mo-Fr 08:00 - 12:30 und 14:00 - 18:00, Sa 08:00 - 12:00, Mi nachmittag geschlossen"
+opening_hours: "Mo,Tu,Th,Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:00; We 08:00-12:30"
 website: ""

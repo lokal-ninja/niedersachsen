@@ -1,11 +1,11 @@
-id: 3218054243
-type: node
-latitude: 53.034849400000006
-longitude: 8.8277324
-postcode: "28277"
+id: 162209613
+type: way
+latitude: 53.037696000000004
+longitude: 8.726723900000001
+postcode: "28259"
 city: Bremen
-street: "Gorsemannstraße"
-housenumber: 8
+street: "Dovemoorstraße"
+housenumber: 10a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
 website: ""

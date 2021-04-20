@@ -1,5 +1,5 @@
 ---
-title: "Famila-Getränkemarkt"
+title: "famila-Getränkemarkt"
 url: /schneverdingen/famila-getraenkemarkt/
-shop: Getränke
+shop: Supermarkt
 ---

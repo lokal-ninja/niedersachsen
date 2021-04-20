@@ -1,5 +1,5 @@
 ---
-title: "Aldi Baddeckenstedt"
+title: "ALDI Baddeckenstedt"
 url: /baddeckenstedt/aldi-baddeckenstedt/
 shop: Supermarkt
 ---

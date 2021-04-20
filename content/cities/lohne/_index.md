@@ -1,6 +1,6 @@
 ---
 title: Lohne
 url: /lohne/
-latitude: 
-longitude: 
+latitude: 52.494078
+longitude: 7.22604
 ---

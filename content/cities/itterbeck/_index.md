@@ -1,6 +1,6 @@
 ---
 title: Itterbeck
 url: /itterbeck/
-latitude: 52.5027139
-longitude: 6.8011637
+latitude: 52.50466410000001
+longitude: 6.8021931
 ---

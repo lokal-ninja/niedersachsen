@@ -1,5 +1,5 @@
 ---
 title: "Herrman"
 url: /bevern/herrman/
-shop: Allgemein
+shop: Haushaltsgeräte
 ---

@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Getränkemarkt"
+title: "Edeka Getränkemarkt"
 url: /bramsche/edeka-getraenkemarkt/
 shop: Getränke
 ---

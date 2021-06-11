@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /papenburg/vodafone/
-shop: Computer
+shop: Handy
 ---

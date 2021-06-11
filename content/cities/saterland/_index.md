@@ -1,6 +1,6 @@
 ---
 title: Saterland
 url: /saterland/
-latitude: 
-longitude: 
+latitude: 53.0845859
+longitude: 7.6937446000000005
 ---

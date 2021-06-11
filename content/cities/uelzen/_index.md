@@ -1,6 +1,6 @@
 ---
 title: Uelzen
 url: /uelzen/
-latitude: 52.966838
-longitude: 10.558615000000001
+latitude: 52.96668450000001
+longitude: 10.5584863
 ---

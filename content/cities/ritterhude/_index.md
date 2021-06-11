@@ -1,6 +1,6 @@
 ---
 title: Ritterhude
 url: /ritterhude/
-latitude: 
-longitude: 
+latitude: 53.1886097
+longitude: 8.7521428
 ---

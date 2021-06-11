@@ -1,6 +1,6 @@
 ---
 title: Friedeburg
 url: /friedeburg/
-latitude: 
-longitude: 
+latitude: 53.45290000000001
+longitude: 7.840160000000001
 ---

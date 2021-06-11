@@ -1,11 +1,11 @@
-id: 5339381325
-type: node
-latitude: 53.053391700000006
-longitude: 8.958503
-postcode: "28307"
+id: 316385589
+type: way
+latitude: 53.0642228
+longitude: 8.7741558
+postcode: "28199"
 city: Bremen
-street: "Werner-Steenken-Straße"
-housenumber: 5
+street: "Duckwitzstraße"
+housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+website: "https://www.hornbach.de/"

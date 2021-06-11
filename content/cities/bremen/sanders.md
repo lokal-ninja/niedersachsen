@@ -1,5 +1,5 @@
 ---
 title: "Sanders"
 url: /bremen/sanders/
-shop: Warenhaus
+shop: Spielzeug
 ---

@@ -1,11 +1,11 @@
-id: 244258843
-type: way
-latitude: 51.5557639
-longitude: 9.9401477
-postcode: "37075"
+id: 429155091
+type: node
+latitude: 51.536356000000005
+longitude: 9.9339741
+postcode: "37073"
 city: Göttingen
-street: "An der Lutter"
-housenumber: 22
+street: "Weender Straße"
+housenumber: 75
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: "Mo-Sa 08:00-22:00; PH off"
 website: ""

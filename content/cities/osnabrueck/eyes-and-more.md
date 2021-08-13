@@ -1,5 +1,5 @@
 ---
-title: "Eyes and more"
+title: "eyes and more"
 url: /osnabrueck/eyes-and-more/
 shop: Optiker
 ---

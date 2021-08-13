@@ -1,5 +1,5 @@
 ---
-title: "Leo"
+title: "LEO"
 url: /seelze/leo/
 shop: Lebensmittel
 ---

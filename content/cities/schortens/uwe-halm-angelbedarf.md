@@ -1,5 +1,5 @@
 ---
 title: "Uwe Halm Angelbedarf"
 url: /schortens/uwe-halm-angelbedarf/
-shop: Allgemein
+shop: Angeln
 ---

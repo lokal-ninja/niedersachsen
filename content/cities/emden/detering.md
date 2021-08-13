@@ -1,5 +1,5 @@
 ---
 title: "Detering"
 url: /emden/detering/
-shop: Warenhaus
+shop: Großhandel
 ---

@@ -1,11 +1,11 @@
-id: 463169320
-type: node
-latitude: 53.5169536
-longitude: 8.1015923
-postcode: "26382"
+id: 31791891
+type: way
+latitude: 53.5552233
+longitude: 8.0951593
+postcode: "26386"
 city: Wilhelmshaven
-street: "Weserstraße"
-housenumber: 135
+street: "Dodoweg"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "NKD"
 url: /luechow/nkd/
-shop: Kramladen
+shop: Kleidung
 ---

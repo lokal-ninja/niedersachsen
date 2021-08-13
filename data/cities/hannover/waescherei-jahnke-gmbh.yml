@@ -7,5 +7,5 @@ city: Hannover
 street: "Völgerstraße"
 housenumber: 8
 phone: "+49 511 864733"
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: "Mo,We,Fr 07:00-16:00;Tu,Th 07:00-18:00; PH off"
 website: "https://jahnke-textilpflege.de/"

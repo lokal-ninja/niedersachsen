@@ -1,5 +1,5 @@
 ---
 title: "Selgros"
 url: /braunschweig/selgros/
-shop: Supermarkt
+shop: Getränke
 ---

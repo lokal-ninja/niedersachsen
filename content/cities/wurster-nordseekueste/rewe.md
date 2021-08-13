@@ -1,5 +1,5 @@
 ---
-title: "Rewe"
+title: "REWE"
 url: /wurster-nordseekueste/rewe/
 shop: Supermarkt
 ---

@@ -1,11 +1,11 @@
-id: 246213658
-type: way
-latitude: 52.43878290000001
-longitude: 10.8410627
-postcode: "38448"
+id: 5580820190
+type: node
+latitude: 52.422115700000006
+longitude: 10.7235575
+postcode: "38442"
 city: Wolfsburg
-street: "An der Meine"
-housenumber: 4a
-phone: ""
-opening_hours: ""
+street: "Wolfsburger Landstraße"
+housenumber: 6
+phone: "+49 5362 9371115"
+opening_hours: "Mo-Sa 09:00-20:00"
 website: ""

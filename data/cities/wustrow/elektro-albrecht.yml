@@ -7,5 +7,5 @@ city: Wustrow
 street: "Fehlstraße"
 housenumber: 7-9
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30; PH,Su off"
+opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; We,Sa 09:00-12:30; PH,Su off"
 website: ""

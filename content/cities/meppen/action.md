@@ -1,5 +1,5 @@
 ---
-title: "ACTION"
+title: "Action"
 url: /meppen/action/
-shop: Allgemein
+shop: Kramladen
 ---

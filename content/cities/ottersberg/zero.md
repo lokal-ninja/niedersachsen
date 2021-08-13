@@ -1,5 +1,5 @@
 ---
-title: "Zero"
+title: "zero"
 url: /ottersberg/zero/
 shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beckedorf
 url: /beckedorf/
-latitude: 53.4190783
-longitude: 9.9659093
+latitude: 53.2001332
+longitude: 8.6055276
 ---

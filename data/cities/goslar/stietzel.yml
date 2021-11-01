@@ -1,11 +1,11 @@
-id: 901255706
-type: node
-latitude: 51.906596
-longitude: 10.4291356
+id: 336972761
+type: way
+latitude: 51.906651700000005
+longitude: 10.428982600000001
 postcode: "38640"
 city: Goslar
 street: "Breite Straße"
-housenumber: 100-101
+housenumber: 101;100-101
 phone: ""
 opening_hours: "Mo-Fr 09:15-18:30; Sa 09:15-18:00"
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "Rossmann"
+title: "ROSSMANN"
 url: /rastede/rossmann/
 shop: Drogerie
 ---

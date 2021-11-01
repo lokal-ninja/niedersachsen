@@ -1,11 +1,11 @@
-id: 122435396
-type: way
-latitude: 53.185314500000004
-longitude: 8.605052200000001
-postcode: "28755"
+id: 299717143
+type: node
+latitude: 53.068443900000005
+longitude: 8.8501019
+postcode: "28205"
 city: Bremen
-street: "Hammersbecker Straße"
-housenumber: 167
+street: "Stader Straße"
+housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
 website: ""

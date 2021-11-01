@@ -1,11 +1,11 @@
-id: 342375743
-type: way
-latitude: 52.0669254
-longitude: 9.3730031
-postcode: "31789"
+id: 5694784242
+type: node
+latitude: 52.106127900000004
+longitude: 9.359745400000001
+postcode: "31785"
 city: Hameln
-street: "Nordstraße"
-housenumber: 4a
+street: "Kastanienwall"
+housenumber: 36
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-16:00"
-website: ""
+opening_hours: "Mo-Su 07:00-21:00"
+website: "https://rewe.de"

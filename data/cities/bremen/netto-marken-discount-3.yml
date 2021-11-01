@@ -1,11 +1,11 @@
-id: 123325459
-type: way
-latitude: 53.0899293
-longitude: 8.857017
-postcode: "28213"
+id: 1779502018
+type: node
+latitude: 53.0540121
+longitude: 8.7147269
+postcode: "28259"
 city: Bremen
-street: "Riensberger Straße"
-housenumber: 2
+street: "Luxemburger Straße"
+housenumber: 20
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
 website: ""

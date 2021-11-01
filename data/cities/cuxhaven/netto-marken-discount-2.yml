@@ -1,11 +1,11 @@
-id: 830502960
-type: way
-latitude: 53.88052630000001
-longitude: 8.678080600000001
-postcode: "27476"
+id: 1897013517
+type: node
+latitude: 53.859192500000006
+longitude: 8.675740900000001
+postcode: ""
 city: Cuxhaven
-street: "Strichweg"
-housenumber: 150
+street: "Brockeswalder Chaussee"
+housenumber: 33
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 10:00-18:00; PH off"
-website: "https://www.netto-online.de/"
+opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-18:00; PH off"
+website: ""

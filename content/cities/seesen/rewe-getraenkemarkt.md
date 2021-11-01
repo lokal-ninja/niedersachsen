@@ -1,5 +1,5 @@
 ---
-title: "Rewe Getränkemarkt"
+title: "REWE Getränkemarkt"
 url: /seesen/rewe-getraenkemarkt/
 shop: Getränke
 ---

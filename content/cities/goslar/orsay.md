@@ -1,5 +1,5 @@
 ---
-title: "Orsay"
+title: "orsay"
 url: /goslar/orsay/
 shop: Kleidung
 ---

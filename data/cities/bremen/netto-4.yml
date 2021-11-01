@@ -1,11 +1,11 @@
-id: 862835176
-type: node
-latitude: 53.0606097
-longitude: 8.7995526
-postcode: "28201"
+id: 41143714
+type: way
+latitude: 53.1856592
+longitude: 8.571817600000001
+postcode: "28779"
 city: Bremen
-street: "Gottfried-Menken-Straße"
-housenumber: 19
+street: "Mühlenstraße"
+housenumber: 47
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
 website: ""

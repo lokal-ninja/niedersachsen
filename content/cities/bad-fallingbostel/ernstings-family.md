@@ -1,5 +1,5 @@
 ---
-title: "Ernstings family"
+title: "Ernsting's family"
 url: /bad-fallingbostel/ernstings-family/
-shop: Modehaus
+shop: Kleidung
 ---

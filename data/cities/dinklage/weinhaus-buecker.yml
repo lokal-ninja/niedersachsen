@@ -5,7 +5,7 @@ longitude: 8.1174335
 postcode: "49413"
 city: Dinklage
 street: "An der Bleiche"
-housenumber: 
-phone: "+494443751"
-opening_hours: ""
-website: ""
+housenumber: 1
+phone: "+49 4443 751"
+opening_hours: "Mo-Th 09:00-12:30,14:00-18:30; Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
+website: "https://weinhaus-buecker.de/"

@@ -1,11 +1,11 @@
-id: 230995932
-type: way
-latitude: 53.1012986
-longitude: 8.787099000000001
-postcode: "28219"
+id: 29195574
+type: node
+latitude: 53.061918500000004
+longitude: 8.8746769
+postcode: "28207"
 city: Bremen
-street: "Waller Heerstraße"
-housenumber: 101
+street: "Pfalzburger Straße"
+housenumber: 73
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.daenischesbettenlager.de/"
+opening_hours: ""
+website: ""

@@ -1,11 +1,11 @@
-id: 246213658
-type: way
-latitude: 52.43878290000001
-longitude: 10.8410627
-postcode: "38448"
+id: 7835076633
+type: node
+latitude: 52.3988208
+longitude: 10.836738700000002
+postcode: ""
 city: Wolfsburg
-street: "An der Meine"
-housenumber: 4a
+street: "Hehlinger Straße"
+housenumber: 21
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 09:00-20:00"
+website: "https://www.fressnapf.de/stores/fressnapf-wolfsburg-1/"

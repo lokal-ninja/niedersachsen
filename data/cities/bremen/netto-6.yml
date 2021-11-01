@@ -1,11 +1,11 @@
-id: 2333703484
-type: node
-latitude: 53.0395228
-longitude: 8.7300824
-postcode: "28259"
+id: 167858184
+type: way
+latitude: 53.1206213
+longitude: 8.9002326
+postcode: "28357"
 city: Bremen
-street: "Kirchhuchtinger Landstraße"
-housenumber: 190
+street: "Borgfelder Heerstraße"
+housenumber: 15
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

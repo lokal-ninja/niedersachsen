@@ -1,5 +1,5 @@
 ---
-title: "Liberty woman"
+title: "liberty woman"
 url: /goslar/liberty-woman/
 shop: Kleidung
 ---

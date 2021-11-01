@@ -1,10 +1,10 @@
-id: 6914113857
-type: node
-latitude: 51.7051962
-longitude: 9.995023900000001
+id: 134502626
+type: way
+latitude: 51.7051967
+longitude: 9.9949308
 postcode: ""
 city: Northeim
-street: "Bahnhofsstraße"
+street: "Bahnhofstraße;Bahnhofsstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /bremervoerde/vodafone/
-shop: Elektronik
+shop: Handy
 ---

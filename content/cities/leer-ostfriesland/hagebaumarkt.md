@@ -1,5 +1,5 @@
 ---
-title: "hagebaumarkt"
+title: "Hagebaumarkt"
 url: /leer-ostfriesland/hagebaumarkt/
 shop: Baumarkt
 ---

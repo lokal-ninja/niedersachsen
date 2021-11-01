@@ -1,11 +1,11 @@
-id: 5352656283
-type: node
-latitude: 51.893305500000004
-longitude: 10.5450055
+id: 110233911
+type: way
+latitude: 51.8936435
+longitude: 10.5453881
 postcode: "38667"
 city: Bad Harzburg
 street: "Breite Straße"
-housenumber: 41a
+housenumber: 41A;41a
 phone: ""
 opening_hours: ""
 website: "https://www.zimmermann.de/"

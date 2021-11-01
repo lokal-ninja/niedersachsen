@@ -1,11 +1,11 @@
-id: 5009351969
-type: node
-latitude: 51.9087029
-longitude: 10.4275771
+id: 855557676
+type: way
+latitude: 51.9089104
+longitude: 10.4276976
 postcode: "38640"
 city: Goslar
 street: "Petersilienstraße"
-housenumber: 33
+housenumber: 33-35a;33
 phone: "+49 5321 4693341"
 opening_hours: ""
 website: "https://www.ebike-kasten.de"

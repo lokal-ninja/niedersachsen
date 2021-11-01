@@ -1,5 +1,5 @@
 ---
 title: "Holzberg, Dessous & Mehr"
 url: /goslar/holzberg-dessous-und-mehr/
-shop: Allgemein
+shop: Kleidung
 ---

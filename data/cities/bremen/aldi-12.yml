@@ -1,11 +1,11 @@
-id: 5952040537
-type: node
-latitude: 53.1047431
-longitude: 8.8532319
-postcode: "28359"
+id: 118961507
+type: way
+latitude: 53.068189800000006
+longitude: 8.8649971
+postcode: "28207"
 city: Bremen
-street: "Enrique-Schmidt-Straße"
-housenumber: 1
+street: "Emil-von-Behring-Straße"
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
 website: ""

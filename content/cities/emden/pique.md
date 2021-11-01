@@ -1,5 +1,5 @@
 ---
 title: "Pique"
 url: /emden/pique/
-shop: Allgemein
+shop: Kleidung
 ---

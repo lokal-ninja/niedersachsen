@@ -1,5 +1,5 @@
 ---
-title: "mömax"
+title: "Mömax"
 url: /wolfsburg/moemax/
 shop: Möbel
 ---

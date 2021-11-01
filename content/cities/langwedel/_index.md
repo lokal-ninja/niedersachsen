@@ -1,6 +1,6 @@
 ---
 title: Langwedel
 url: /langwedel/
-latitude: 52.6786564
-longitude: 10.5369176
+latitude: 52.976021300000006
+longitude: 9.1910608
 ---

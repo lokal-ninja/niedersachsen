@@ -1,11 +1,11 @@
-id: 316161645
-type: way
-latitude: 53.0789309
-longitude: 8.8041325
-postcode: "28195"
+id: 5339595261
+type: node
+latitude: 53.0478759
+longitude: 8.958109400000001
+postcode: "28307"
 city: Bremen
-street: "Hanseatenhof"
-housenumber: 1
-phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH,Su off"
-website: ""
+street: "Hans-Bredow-Straße"
+housenumber: 19
+phone: "+49 421 48470"
+opening_hours: "Mo-Sa 09:30-20:00; PH off"
+website: "http://www.cunda.de/"

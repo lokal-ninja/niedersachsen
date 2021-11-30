@@ -1,5 +1,5 @@
 ---
-title: "Rewe Getränkemarkt"
+title: "REWE Getränkemarkt"
 url: /duingen/rewe-getraenkemarkt/
 shop: Getränke
 ---

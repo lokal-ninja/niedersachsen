@@ -1,11 +1,11 @@
-id: 170176464
-type: way
-latitude: 53.1007557
-longitude: 8.878297700000001
-postcode: "28359"
+id: 2466677519
+type: node
+latitude: 53.0488578
+longitude: 8.7448347
+postcode: "28259"
 city: Bremen
-street: "Leher Heerstraße"
-housenumber: 107
+street: "Alter Dorfweg"
+housenumber: 30-50
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

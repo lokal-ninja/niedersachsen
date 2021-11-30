@@ -1,5 +1,5 @@
 ---
 title: "Louis"
 url: /hannover/louis/
-shop: Motorrad
+shop: Kleidung
 ---

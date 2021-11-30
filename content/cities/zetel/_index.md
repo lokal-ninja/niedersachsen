@@ -1,6 +1,6 @@
 ---
 title: Zetel
 url: /zetel/
-latitude: 53.4159207
-longitude: 7.970575900000001
+latitude: 53.4159196
+longitude: 7.9704832
 ---

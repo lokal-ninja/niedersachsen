@@ -1,11 +1,11 @@
-id: 236491409
-type: way
-latitude: 53.1728803
-longitude: 8.7026672
-postcode: "28717"
+id: 9253750709
+type: node
+latitude: 53.0381988
+longitude: 8.9445748
+postcode: "28307"
 city: Bremen
-street: "Bremerhavener Heerstraße"
-housenumber: 46
-phone: ""
-opening_hours: "Mo-Sa 08:00-21; PH off"
-website: ""
+street: "Mahndorfer Heerstraße"
+housenumber: 44-46
+phone: "+49 421 488368"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: "https://www.edeka.de/eh/minden-hannover/edeka-fehner-mahndorfer-heerstr.-44-46/index.jsp"

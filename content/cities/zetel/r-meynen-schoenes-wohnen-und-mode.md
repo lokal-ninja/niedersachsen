@@ -1,5 +1,5 @@
 ---
-title: "R. Meynen Schönes wohnen und Mode"
+title: "R. Meynen - Schönes Wohnen und Mode"
 url: /zetel/r-meynen-schoenes-wohnen-und-mode/
 shop: Allgemein
 ---

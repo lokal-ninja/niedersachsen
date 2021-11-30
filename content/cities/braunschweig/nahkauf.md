@@ -1,5 +1,5 @@
 ---
-title: "nahkauf"
+title: "Nahkauf"
 url: /braunschweig/nahkauf/
-shop: Lebensmittel
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Arko"
+title: "arko"
 url: /goettingen/arko/
 shop: Süßwaren
 ---

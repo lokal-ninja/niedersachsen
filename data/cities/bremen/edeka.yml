@@ -1,11 +1,11 @@
-id: 157014247
-type: way
-latitude: 53.038464600000005
-longitude: 8.9445937
+id: 5339595341
+type: node
+latitude: 53.0497159
+longitude: 8.957069800000001
 postcode: "28307"
 city: Bremen
-street: "Mahndorfer Heerstraße"
-housenumber: 44-46
-phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: ""
+street: "Hans-Bredow-Straße"
+housenumber: 19
+phone: "+49 421 2783150"
+opening_hours: "Mo-Sa 08:00-21:00"
+website: "http://www.ecenter-weserpark.de/"

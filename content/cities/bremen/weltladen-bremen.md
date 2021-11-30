@@ -1,5 +1,5 @@
 ---
 title: "Weltladen Bremen"
 url: /bremen/weltladen-bremen/
-shop: Raumausstattung
+shop: Lebensmittel
 ---

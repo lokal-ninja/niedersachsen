@@ -7,5 +7,5 @@ city: Bremen
 street: "Domshof"
 housenumber: 21a
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su,PH off"
+opening_hours: "PH,Su off; Mo-Sa 10:00-19:00"
 website: ""

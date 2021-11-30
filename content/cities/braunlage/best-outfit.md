@@ -1,5 +1,5 @@
 ---
 title: "Best Outfit"
 url: /braunlage/best-outfit/
-shop: Modehaus
+shop: Kleidung
 ---

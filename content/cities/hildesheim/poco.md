@@ -1,5 +1,5 @@
 ---
-title: "Poco"
+title: "POCO"
 url: /hildesheim/poco/
 shop: Möbel
 ---

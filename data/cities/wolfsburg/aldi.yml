@@ -1,11 +1,11 @@
-id: 666355320
-type: node
-latitude: 52.4328604
-longitude: 10.8485905
-postcode: "38448"
+id: 46973904
+type: way
+latitude: 52.421402300000004
+longitude: 10.7182217
+postcode: "38442"
 city: Wolfsburg
-street: "Neuhäuser Straße"
-housenumber: 9
+street: ""
+housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

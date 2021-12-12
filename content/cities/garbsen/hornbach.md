@@ -1,5 +1,5 @@
 ---
-title: "Hornbach"
+title: "HORNBACH"
 url: /garbsen/hornbach/
 shop: Baumarkt
 ---

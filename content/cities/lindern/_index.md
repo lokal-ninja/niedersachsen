@@ -1,6 +1,6 @@
 ---
 title: Lindern
 url: /lindern/
-latitude: 53.2168342
-longitude: 7.8873351000000005
+latitude: 52.6682829
+longitude: 8.833478300000001
 ---

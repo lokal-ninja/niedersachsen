@@ -1,11 +1,11 @@
-id: 5906157226
-type: node
-latitude: 52.386681700000004
-longitude: 9.7240099
-postcode: "30167"
+id: 206684043
+type: way
+latitude: 52.4080365
+longitude: 9.8017353
+postcode: "30659"
 city: Hannover
-street: "Engelbosteler Damm"
-housenumber: 60
+street: "Adolf-Emmelmann-Straße"
+housenumber: 6
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
 website: ""

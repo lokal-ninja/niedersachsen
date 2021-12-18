@@ -1,5 +1,5 @@
 ---
-title: "Edeka Getränkemarkt"
+title: "EDEKA Getränkemarkt"
 url: /barsinghausen/edeka-getraenkemarkt/
 shop: Getränke
 ---

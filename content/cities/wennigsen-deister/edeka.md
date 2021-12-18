@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /wennigsen-deister/edeka/
 shop: Supermarkt
 ---

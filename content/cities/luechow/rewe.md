@@ -1,5 +1,5 @@
 ---
-title: "Rewe"
+title: "REWE"
 url: /luechow/rewe/
-shop: Getränke
+shop: Supermarkt
 ---

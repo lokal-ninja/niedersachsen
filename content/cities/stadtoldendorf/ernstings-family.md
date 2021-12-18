@@ -1,5 +1,5 @@
 ---
-title: "Ernstings Family"
+title: "Ernsting's family"
 url: /stadtoldendorf/ernstings-family/
-shop: Warenhaus
+shop: Kleidung
 ---

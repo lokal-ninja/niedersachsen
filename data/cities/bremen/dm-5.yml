@@ -1,11 +1,11 @@
-id: 442418753
-type: way
-latitude: 53.0657093
-longitude: 8.7684251
-postcode: "28199"
+id: 6377154443
+type: node
+latitude: 53.081524900000005
+longitude: 8.813142500000001
+postcode: ""
 city: Bremen
-street: "Duckwitzstraße"
-housenumber: 55
-phone: "+49 421 52079467"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+street: ""
+housenumber: 
+phone: ""
+opening_hours: "PH off; Mo-Fr 07:00-22:00; Sa 09:00-22:00"
 website: "https://www.dm.de/"

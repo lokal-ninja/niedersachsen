@@ -1,6 +1,6 @@
 ---
 title: Vrees
 url: /vrees/
-latitude: 52.8864862
-longitude: 7.773148300000001
+latitude: 52.889
+longitude: 7.764
 ---

@@ -1,6 +1,6 @@
 ---
 title: Borgholzhausen
 url: /borgholzhausen/
-latitude: 
-longitude: 
+latitude: 52.106
+longitude: 8.228
 ---

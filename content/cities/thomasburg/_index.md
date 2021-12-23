@@ -1,6 +1,6 @@
 ---
 title: Thomasburg
 url: /thomasburg/
-latitude: 53.23293820000001
-longitude: 10.659273500000001
+latitude: 53.221
+longitude: 10.625
 ---

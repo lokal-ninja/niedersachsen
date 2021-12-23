@@ -1,6 +1,6 @@
 ---
 title: Amelinghausen
 url: /amelinghausen/
-latitude: 53.1276759
-longitude: 10.2160653
+latitude: 53.132
+longitude: 10.218
 ---

@@ -1,6 +1,6 @@
 ---
 title: Danndorf
 url: /danndorf/
-latitude: 52.427934400000005
-longitude: 10.9162247
+latitude: 52.426
+longitude: 10.911
 ---

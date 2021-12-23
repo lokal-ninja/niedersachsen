@@ -1,6 +1,6 @@
 ---
 title: Ahlden
 url: /ahlden/
-latitude: 
-longitude: 
+latitude: 52.761
+longitude: 9.498
 ---

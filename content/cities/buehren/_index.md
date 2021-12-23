@@ -1,6 +1,6 @@
 ---
 title: Bühren
 url: /buehren/
-latitude: 51.4846797
-longitude: 9.6801458
+latitude: 51.485
+longitude: 9.681
 ---

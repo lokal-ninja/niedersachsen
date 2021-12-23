@@ -1,6 +1,6 @@
 ---
 title: Stavern
 url: /stavern/
-latitude: 
-longitude: 
+latitude: 52.798
+longitude: 7.44
 ---

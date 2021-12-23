@@ -1,6 +1,6 @@
 ---
 title: Bohmte
 url: /bohmte/
-latitude: 52.3666812
-longitude: 8.3135426
+latitude: 52.364
+longitude: 8.312
 ---

@@ -1,6 +1,6 @@
 ---
 title: Diepholz
 url: /diepholz/
-latitude: 52.6113677
-longitude: 8.372661
+latitude: 52.615
+longitude: 8.364
 ---

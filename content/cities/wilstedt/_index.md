@@ -1,6 +1,6 @@
 ---
 title: Wilstedt
 url: /wilstedt/
-latitude: 
-longitude: 
+latitude: 53.196
+longitude: 9.09
 ---

@@ -1,6 +1,6 @@
 ---
 title: Schneiderkrug
 url: /schneiderkrug/
-latitude: 52.8120041
-longitude: 8.2391231
+latitude: 52.827
+longitude: 8.235
 ---

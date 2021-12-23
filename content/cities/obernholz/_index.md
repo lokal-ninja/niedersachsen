@@ -1,6 +1,6 @@
 ---
 title: Obernholz
 url: /obernholz/
-latitude: 
-longitude: 
+latitude: 52.747
+longitude: 10.603
 ---

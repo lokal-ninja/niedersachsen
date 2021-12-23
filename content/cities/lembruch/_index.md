@@ -1,6 +1,6 @@
 ---
 title: Lembruch
 url: /lembruch/
-latitude: 52.5237215
-longitude: 8.3700191
+latitude: 52.521
+longitude: 8.372
 ---

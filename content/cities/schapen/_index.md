@@ -1,6 +1,6 @@
 ---
 title: Schapen
 url: /schapen/
-latitude: 52.3984754
-longitude: 7.562425800000001
+latitude: 52.4
+longitude: 7.571
 ---

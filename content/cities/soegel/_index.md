@@ -1,6 +1,6 @@
 ---
 title: Sögel
 url: /soegel/
-latitude: 52.841809700000006
-longitude: 7.519561400000001
+latitude: 52.841
+longitude: 7.52
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wallenhorst
 url: /wallenhorst/
-latitude: 
-longitude: 
+latitude: 52.358
+longitude: 8.004
 ---

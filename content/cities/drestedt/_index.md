@@ -1,6 +1,6 @@
 ---
 title: Drestedt
 url: /drestedt/
-latitude: 53.3295936
-longitude: 9.763055000000001
+latitude: 53.331
+longitude: 9.757
 ---

@@ -1,6 +1,6 @@
 ---
 title: Minden
 url: /minden/
-latitude: 
-longitude: 
+latitude: 52.318
+longitude: 8.996
 ---

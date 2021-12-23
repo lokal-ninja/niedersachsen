@@ -1,6 +1,6 @@
 ---
 title: Velpke
 url: /velpke/
-latitude: 52.406805500000004
-longitude: 10.9384998
+latitude: 52.406
+longitude: 10.931
 ---

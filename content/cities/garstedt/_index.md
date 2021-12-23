@@ -1,6 +1,6 @@
 ---
 title: Garstedt
 url: /garstedt/
-latitude: 53.285710800000004
-longitude: 10.1602824
+latitude: 53.294
+longitude: 10.143
 ---

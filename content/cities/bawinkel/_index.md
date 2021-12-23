@@ -1,6 +1,6 @@
 ---
 title: Bawinkel
 url: /bawinkel/
-latitude: 52.5999813
-longitude: 7.409462
+latitude: 52.602
+longitude: 7.413
 ---

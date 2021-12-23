@@ -1,6 +1,6 @@
 ---
 title: Quakenbrück
 url: /quakenbrueck/
-latitude: 52.675712700000005
-longitude: 7.9567402000000005
+latitude: 52.682
+longitude: 7.957
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rhumspringe
 url: /rhumspringe/
-latitude: 51.582403400000004
-longitude: 10.2963249
+latitude: 51.584
+longitude: 10.297
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wistedt
 url: /wistedt/
-latitude: 53.271093
-longitude: 9.6834693
+latitude: 53.271
+longitude: 9.682
 ---

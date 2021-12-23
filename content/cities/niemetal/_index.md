@@ -1,6 +1,6 @@
 ---
 title: Niemetal
 url: /niemetal/
-latitude: 
-longitude: 
+latitude: 51.52
+longitude: 9.708
 ---

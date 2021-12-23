@@ -1,6 +1,6 @@
 ---
 title: Seulingen
 url: /seulingen/
-latitude: 51.5420255
-longitude: 10.1615404
+latitude: 51.542
+longitude: 10.161
 ---

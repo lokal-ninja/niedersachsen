@@ -1,6 +1,6 @@
 ---
 title: Otterndorf
 url: /otterndorf/
-latitude: 53.808132
-longitude: 8.899715
+latitude: 53.81
+longitude: 8.893
 ---

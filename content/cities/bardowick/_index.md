@@ -1,6 +1,6 @@
 ---
 title: Bardowick
 url: /bardowick/
-latitude: 53.29318790000001
-longitude: 10.390650500000001
+latitude: 53.297
+longitude: 10.382
 ---

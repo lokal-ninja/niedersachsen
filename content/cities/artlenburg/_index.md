@@ -1,6 +1,6 @@
 ---
 title: Artlenburg
 url: /artlenburg/
-latitude: 53.373402000000006
-longitude: 10.489904800000001
+latitude: 53.368
+longitude: 10.485
 ---

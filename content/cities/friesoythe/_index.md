@@ -1,6 +1,6 @@
 ---
 title: Friesoythe
 url: /friesoythe/
-latitude: 53.020700000000005
-longitude: 7.85911
+latitude: 53.021
+longitude: 7.86
 ---

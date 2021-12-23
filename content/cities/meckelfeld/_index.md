@@ -1,6 +1,6 @@
 ---
 title: Meckelfeld
 url: /meckelfeld/
-latitude: 53.4218063
-longitude: 10.024229
+latitude: 53.42
+longitude: 10.021
 ---

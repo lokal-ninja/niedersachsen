@@ -1,6 +1,6 @@
 ---
 title: Ahausen
 url: /ahausen/
-latitude: 52.555139800000006
-longitude: 7.916006100000001
+latitude: 53.061
+longitude: 9.313
 ---

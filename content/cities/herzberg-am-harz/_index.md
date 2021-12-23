@@ -1,6 +1,6 @@
 ---
 title: Herzberg am Harz
 url: /herzberg-am-harz/
-latitude: 51.6565219
-longitude: 10.3428415
+latitude: 51.664
+longitude: 10.335
 ---

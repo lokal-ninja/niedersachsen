@@ -1,6 +1,6 @@
 ---
 title: Banteln
 url: /banteln/
-latitude: 52.0682191
-longitude: 9.7508776
+latitude: 52.065
+longitude: 9.756
 ---

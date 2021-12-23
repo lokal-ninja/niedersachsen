@@ -1,6 +1,6 @@
 ---
 title: Hoogstede
 url: /hoogstede/
-latitude: 52.5771938
-longitude: 6.949289500000001
+latitude: 52.577
+longitude: 6.95
 ---

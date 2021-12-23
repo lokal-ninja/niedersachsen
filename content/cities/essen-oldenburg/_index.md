@@ -1,6 +1,6 @@
 ---
 title: Essen (Oldenburg)
 url: /essen-oldenburg/
-latitude: 52.722488000000006
-longitude: 7.935230600000001
+latitude: 52.716
+longitude: 7.939
 ---

@@ -1,6 +1,6 @@
 ---
 title: Scheden
 url: /scheden/
-latitude: 51.459026900000005
-longitude: 9.7288799
+latitude: 51.46
+longitude: 9.728
 ---

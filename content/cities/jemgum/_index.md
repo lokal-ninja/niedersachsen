@@ -1,6 +1,6 @@
 ---
 title: Jemgum
 url: /jemgum/
-latitude: 53.2667955
-longitude: 7.3834995
+latitude: 53.315
+longitude: 7.276
 ---

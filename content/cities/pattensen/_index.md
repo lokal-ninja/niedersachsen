@@ -1,6 +1,6 @@
 ---
 title: Pattensen
 url: /pattensen/
-latitude: 
-longitude: 
+latitude: 52.263
+longitude: 9.762
 ---

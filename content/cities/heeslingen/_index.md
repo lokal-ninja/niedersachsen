@@ -1,6 +1,6 @@
 ---
 title: Heeslingen
 url: /heeslingen/
-latitude: 53.3165879
-longitude: 9.3374117
+latitude: 53.311
+longitude: 9.333
 ---

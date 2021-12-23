@@ -1,6 +1,6 @@
 ---
 title: Hohnhorst
 url: /hohnhorst/
-latitude: 52.653977600000005
-longitude: 10.3302586
+latitude: 52.357
+longitude: 9.348
 ---

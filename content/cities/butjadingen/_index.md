@@ -1,6 +1,6 @@
 ---
 title: Butjadingen
 url: /butjadingen/
-latitude: 
-longitude: 
+latitude: 53.535
+longitude: 8.269
 ---

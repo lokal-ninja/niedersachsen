@@ -1,6 +1,6 @@
 ---
 title: Rethem
 url: /rethem/
-latitude: 
-longitude: 
+latitude: 52.785
+longitude: 9.379
 ---

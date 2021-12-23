@@ -1,6 +1,6 @@
 ---
 title: Schwanewede
 url: /schwanewede/
-latitude: 53.2254676
-longitude: 8.5943316
+latitude: 53.231
+longitude: 8.596
 ---

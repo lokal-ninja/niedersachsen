@@ -1,6 +1,6 @@
 ---
 title: Bad Salzdetfurth
 url: /bad-salzdetfurth/
-latitude: 52.059514400000005
-longitude: 10.006472800000001
+latitude: 52.049
+longitude: 10.007
 ---

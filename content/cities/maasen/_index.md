@@ -1,6 +1,6 @@
 ---
 title: Maasen
 url: /maasen/
-latitude: 52.6899467
-longitude: 8.886731900000001
+latitude: 52.679
+longitude: 8.899
 ---

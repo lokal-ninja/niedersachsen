@@ -1,6 +1,6 @@
 ---
 title: Garbsen
 url: /garbsen/
-latitude: 52.4276606
-longitude: 9.6005102
+latitude: 52.449
+longitude: 9.624
 ---

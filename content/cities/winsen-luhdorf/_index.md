@@ -1,6 +1,6 @@
 ---
 title: Winsen-Luhdorf
 url: /winsen-luhdorf/
-latitude: 
-longitude: 
+latitude: 53.33
+longitude: 10.2
 ---

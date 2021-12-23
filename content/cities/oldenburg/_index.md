@@ -1,6 +1,6 @@
 ---
 title: Oldenburg
 url: /oldenburg/
-latitude: 
-longitude: 
+latitude: 53.15
+longitude: 8.202
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gehrden
 url: /gehrden/
-latitude: 
-longitude: 
+latitude: 52.32
+longitude: 9.593
 ---

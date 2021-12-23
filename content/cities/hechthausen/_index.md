@@ -1,6 +1,6 @@
 ---
 title: Hechthausen
 url: /hechthausen/
-latitude: 53.642317500000004
-longitude: 9.2352937
+latitude: 53.641
+longitude: 9.24
 ---

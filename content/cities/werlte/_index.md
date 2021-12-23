@@ -1,6 +1,6 @@
 ---
 title: Werlte
 url: /werlte/
-latitude: 
-longitude: 
+latitude: 52.852
+longitude: 7.675
 ---

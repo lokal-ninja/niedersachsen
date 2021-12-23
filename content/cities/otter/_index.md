@@ -1,6 +1,6 @@
 ---
 title: Otter
 url: /otter/
-latitude: 53.240477500000004
-longitude: 9.7413015
+latitude: 53.213
+longitude: 9.779
 ---

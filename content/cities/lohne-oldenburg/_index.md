@@ -1,6 +1,6 @@
 ---
 title: Lohne (Oldenburg)
 url: /lohne-oldenburg/
-latitude: 52.665257000000004
-longitude: 8.2363523
+latitude: 52.669
+longitude: 8.259
 ---

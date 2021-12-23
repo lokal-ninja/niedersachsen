@@ -1,6 +1,6 @@
 ---
 title: Himbergen
 url: /himbergen/
-latitude: 52.2314645
-longitude: 8.1970515
+latitude: 53.09
+longitude: 10.731
 ---

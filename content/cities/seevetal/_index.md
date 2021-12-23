@@ -1,6 +1,6 @@
 ---
 title: Seevetal
 url: /seevetal/
-latitude: 
-longitude: 
+latitude: 53.391
+longitude: 10.045
 ---

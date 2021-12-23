@@ -1,6 +1,6 @@
 ---
 title: Gronau
 url: /gronau/
-latitude: 
-longitude: 
+latitude: 52.088
+longitude: 9.785
 ---

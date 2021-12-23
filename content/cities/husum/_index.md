@@ -1,6 +1,6 @@
 ---
 title: Husum
 url: /husum/
-latitude: 53.1418991
-longitude: 8.5878152
+latitude: 52.593
+longitude: 9.253
 ---

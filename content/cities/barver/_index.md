@@ -1,6 +1,6 @@
 ---
 title: Barver
 url: /barver/
-latitude: 52.621506600000004
-longitude: 8.595066600000001
+latitude: 52.609
+longitude: 8.588
 ---

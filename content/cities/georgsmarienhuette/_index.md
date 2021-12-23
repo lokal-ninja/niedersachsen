@@ -1,6 +1,6 @@
 ---
 title: Georgsmarienhütte
 url: /georgsmarienhuette/
-latitude: 52.2
-longitude: 8.05
+latitude: 52.219
+longitude: 8.06
 ---

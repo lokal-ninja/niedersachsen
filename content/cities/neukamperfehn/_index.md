@@ -1,6 +1,6 @@
 ---
 title: Neukamperfehn
 url: /neukamperfehn/
-latitude: 53.334667
-longitude: 7.552501100000001
+latitude: 53.338
+longitude: 7.558
 ---

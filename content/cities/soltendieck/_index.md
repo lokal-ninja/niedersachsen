@@ -1,6 +1,6 @@
 ---
 title: Soltendieck
 url: /soltendieck/
-latitude: 52.8737562
-longitude: 10.7592931
+latitude: 52.86
+longitude: 10.824
 ---

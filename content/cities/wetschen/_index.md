@@ -1,6 +1,6 @@
 ---
 title: Wetschen
 url: /wetschen/
-latitude: 52.6139068
-longitude: 8.4505715
+latitude: 52.614
+longitude: 8.453
 ---

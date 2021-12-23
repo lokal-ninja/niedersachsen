@@ -1,6 +1,6 @@
 ---
 title: Walmsburg
 url: /walmsburg/
-latitude: 53.2406828
-longitude: 10.8452284
+latitude: 53.239
+longitude: 10.85
 ---

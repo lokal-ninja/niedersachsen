@@ -1,6 +1,6 @@
 ---
 title: Ganderkesee
 url: /ganderkesee/
-latitude: 53.034498400000004
-longitude: 8.5451469
+latitude: 53.018
+longitude: 8.57
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hüde
 url: /huede/
-latitude: 
-longitude: 
+latitude: 52.496
+longitude: 8.357
 ---

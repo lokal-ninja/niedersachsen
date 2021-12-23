@@ -1,6 +1,6 @@
 ---
 title: Jühnde
 url: /juehnde/
-latitude: 
-longitude: 
+latitude: 51.464
+longitude: 9.794
 ---

@@ -1,6 +1,6 @@
 ---
 title: Heuerßen
 url: /heuerssen/
-latitude: 52.3294148
-longitude: 9.2784759
+latitude: 52.342
+longitude: 9.282
 ---

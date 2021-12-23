@@ -1,6 +1,6 @@
 ---
 title: Hollenstedt
 url: /hollenstedt/
-latitude: 
-longitude: 
+latitude: 53.365
+longitude: 9.712
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gusborn
 url: /gusborn/
-latitude: 53.079293
-longitude: 11.203523200000001
+latitude: 53.082
+longitude: 11.195
 ---

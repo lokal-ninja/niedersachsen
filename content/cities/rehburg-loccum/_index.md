@@ -1,6 +1,6 @@
 ---
 title: Rehburg-Loccum
 url: /rehburg-loccum/
-latitude: 
-longitude: 
+latitude: 52.454
+longitude: 9.153
 ---

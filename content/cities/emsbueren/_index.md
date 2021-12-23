@@ -1,6 +1,6 @@
 ---
 title: Emsbüren
 url: /emsbueren/
-latitude: 
-longitude: 
+latitude: 52.448
+longitude: 7.338
 ---

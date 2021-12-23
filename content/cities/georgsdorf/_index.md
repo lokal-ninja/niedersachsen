@@ -1,6 +1,6 @@
 ---
 title: Georgsdorf
 url: /georgsdorf/
-latitude: 52.5692505
-longitude: 7.0758963
+latitude: 52.572
+longitude: 7.071
 ---

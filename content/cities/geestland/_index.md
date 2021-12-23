@@ -1,6 +1,6 @@
 ---
 title: Geestland
 url: /geestland/
-latitude: 
-longitude: 
+latitude: 53.626
+longitude: 8.838
 ---

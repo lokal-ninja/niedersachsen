@@ -1,6 +1,6 @@
 ---
 title: Geeste
 url: /geeste/
-latitude: 52.600977300000004
-longitude: 7.268098
+latitude: 52.587
+longitude: 7.228
 ---

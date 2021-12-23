@@ -1,6 +1,6 @@
 ---
 title: Seesen
 url: /seesen/
-latitude: 51.890556600000004
-longitude: 10.1703902
+latitude: 51.891
+longitude: 10.183
 ---

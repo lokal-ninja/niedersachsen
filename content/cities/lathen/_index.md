@@ -1,6 +1,6 @@
 ---
 title: Lathen
 url: /lathen/
-latitude: 52.863669800000004
-longitude: 7.3163422
+latitude: 52.861
+longitude: 7.316
 ---

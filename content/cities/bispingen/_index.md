@@ -1,6 +1,6 @@
 ---
 title: Bispingen
 url: /bispingen/
-latitude: 
-longitude: 
+latitude: 53.164
+longitude: 9.961
 ---

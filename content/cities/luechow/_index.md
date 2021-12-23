@@ -1,6 +1,6 @@
 ---
 title: Lüchow
 url: /luechow/
-latitude: 
-longitude: 
+latitude: 52.963
+longitude: 11.166
 ---

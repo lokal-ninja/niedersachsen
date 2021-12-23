@@ -1,6 +1,6 @@
 ---
 title: Schladen-Werla
 url: /schladen-werla/
-latitude: 
-longitude: 
+latitude: 52.02
+longitude: 10.55
 ---

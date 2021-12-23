@@ -1,6 +1,6 @@
 ---
 title: Neuenhaus
 url: /neuenhaus/
-latitude: 52.5
-longitude: 6.966670000000001
+latitude: 52.491
+longitude: 6.981
 ---

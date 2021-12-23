@@ -1,6 +1,6 @@
 ---
 title: Bockhorn
 url: /bockhorn/
-latitude: 53.391645200000006
-longitude: 8.0161221
+latitude: 53.388
+longitude: 8.018
 ---

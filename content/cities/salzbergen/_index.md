@@ -1,6 +1,6 @@
 ---
 title: Salzbergen
 url: /salzbergen/
-latitude: 
-longitude: 
+latitude: 52.333
+longitude: 7.381
 ---

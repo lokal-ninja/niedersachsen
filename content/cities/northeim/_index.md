@@ -1,6 +1,6 @@
 ---
 title: Northeim
 url: /northeim/
-latitude: 51.705401
-longitude: 9.9972782
+latitude: 51.706
+longitude: 10
 ---

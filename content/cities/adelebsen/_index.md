@@ -1,6 +1,6 @@
 ---
 title: Adelebsen
 url: /adelebsen/
-latitude: 51.579484
-longitude: 9.752447700000001
+latitude: 51.548
+longitude: 9.773
 ---

@@ -1,6 +1,6 @@
 ---
 title: Schortens
 url: /schortens/
-latitude: 53.53665470000001
-longitude: 7.946734800000001
+latitude: 53.525
+longitude: 8.035
 ---

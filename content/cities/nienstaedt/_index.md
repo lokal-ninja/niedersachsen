@@ -1,6 +1,6 @@
 ---
 title: Nienstädt
 url: /nienstaedt/
-latitude: 52.2926512
-longitude: 9.1665556
+latitude: 52.284
+longitude: 9.165
 ---

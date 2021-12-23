@@ -1,6 +1,6 @@
 ---
 title: Hodenhagen
 url: /hodenhagen/
-latitude: 
-longitude: 
+latitude: 52.763
+longitude: 9.583
 ---

@@ -1,6 +1,6 @@
 ---
 title: Twistringen
 url: /twistringen/
-latitude: 52.7992604
-longitude: 8.6421452
+latitude: 52.773
+longitude: 8.547
 ---

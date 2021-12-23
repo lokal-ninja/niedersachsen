@@ -1,6 +1,6 @@
 ---
 title: Hemsloh
 url: /hemsloh/
-latitude: 52.6018752
-longitude: 8.5114017
+latitude: 52.601
+longitude: 8.531
 ---

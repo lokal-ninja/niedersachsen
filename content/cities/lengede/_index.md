@@ -1,6 +1,6 @@
 ---
 title: Lengede
 url: /lengede/
-latitude: 
-longitude: 
+latitude: 52.208
+longitude: 10.302
 ---

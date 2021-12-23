@@ -1,6 +1,6 @@
 ---
 title: Westerholt
 url: /westerholt/
-latitude: 53.5916548
-longitude: 7.452648300000001
+latitude: 53.592
+longitude: 7.457
 ---

@@ -1,6 +1,6 @@
 ---
 title: Holzminden
 url: /holzminden/
-latitude: 51.828835000000005
-longitude: 9.4466591
+latitude: 51.821
+longitude: 9.449
 ---

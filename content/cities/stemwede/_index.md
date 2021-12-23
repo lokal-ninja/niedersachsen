@@ -1,6 +1,6 @@
 ---
 title: Stemwede
 url: /stemwede/
-latitude: 
-longitude: 
+latitude: 52.446
+longitude: 8.316
 ---

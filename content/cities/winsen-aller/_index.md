@@ -1,6 +1,6 @@
 ---
 title: Winsen (Aller)
 url: /winsen-aller/
-latitude: 52.6796244
-longitude: 9.9101449
+latitude: 52.683
+longitude: 9.911
 ---

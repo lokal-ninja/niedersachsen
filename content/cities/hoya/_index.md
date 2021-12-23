@@ -1,6 +1,6 @@
 ---
 title: Hoya
 url: /hoya/
-latitude: 52.8065
-longitude: 9.13957
+latitude: 52.805
+longitude: 9.136
 ---

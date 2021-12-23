@@ -1,6 +1,6 @@
 ---
 title: Gorleben
 url: /gorleben/
-latitude: 53.048299
-longitude: 11.3568364
+latitude: 53.048
+longitude: 11.351
 ---

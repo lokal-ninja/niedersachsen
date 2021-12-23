@@ -1,6 +1,6 @@
 ---
 title: Spahnharrenstätte
 url: /spahnharrenstaette/
-latitude: 52.8694137
-longitude: 7.6013706
+latitude: 52.869
+longitude: 7.599
 ---

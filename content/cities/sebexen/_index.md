@@ -1,6 +1,6 @@
 ---
 title: Sebexen
 url: /sebexen/
-latitude: 51.817217400000004
-longitude: 10.023758800000001
+latitude: 51.816
+longitude: 10.025
 ---

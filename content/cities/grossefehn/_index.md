@@ -1,6 +1,6 @@
 ---
 title: Großefehn
 url: /grossefehn/
-latitude: 53.397000000000006
-longitude: 7.59189
+latitude: 53.366
+longitude: 7.521
 ---

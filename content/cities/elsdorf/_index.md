@@ -1,6 +1,6 @@
 ---
 title: Elsdorf
 url: /elsdorf/
-latitude: 53.2419954
-longitude: 9.353484400000001
+latitude: 53.274
+longitude: 9.419
 ---

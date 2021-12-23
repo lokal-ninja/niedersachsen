@@ -1,6 +1,6 @@
 ---
 title: Haste
 url: /haste/
-latitude: 52.3076231
-longitude: 8.0467343
+latitude: 52.386
+longitude: 9.406
 ---

@@ -1,6 +1,6 @@
 ---
 title: Diekholzen
 url: /diekholzen/
-latitude: 52.094441700000004
-longitude: 9.915534000000001
+latitude: 52.096
+longitude: 9.92
 ---

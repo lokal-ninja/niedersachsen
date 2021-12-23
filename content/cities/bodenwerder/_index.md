@@ -1,6 +1,6 @@
 ---
 title: Bodenwerder
 url: /bodenwerder/
-latitude: 51.9752481
-longitude: 9.5139063
+latitude: 51.982
+longitude: 9.504
 ---

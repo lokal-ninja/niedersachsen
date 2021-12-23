@@ -1,6 +1,6 @@
 ---
 title: Scharnebeck
 url: /scharnebeck/
-latitude: 53.290249300000006
-longitude: 10.4985102
+latitude: 53.29
+longitude: 10.503
 ---

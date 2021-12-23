@@ -1,6 +1,6 @@
 ---
 title: Scheeßel
 url: /scheessel/
-latitude: 53.166796100000006
-longitude: 9.4840648
+latitude: 53.169
+longitude: 9.488
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kissenbrück
 url: /kissenbrueck/
-latitude: 52.1106094
-longitude: 10.589631200000001
+latitude: 52.11
+longitude: 10.582
 ---

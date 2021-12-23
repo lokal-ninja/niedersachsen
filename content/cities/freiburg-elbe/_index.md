@@ -1,6 +1,6 @@
 ---
 title: Freiburg (Elbe)
 url: /freiburg-elbe/
-latitude: 53.825248
-longitude: 9.288720000000001
+latitude: 53.826
+longitude: 9.287
 ---

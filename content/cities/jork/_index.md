@@ -1,6 +1,6 @@
 ---
 title: Jork
 url: /jork/
-latitude: 53.53284360000001
-longitude: 9.6814319
+latitude: 53.533
+longitude: 9.68
 ---

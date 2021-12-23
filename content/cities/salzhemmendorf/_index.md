@@ -1,6 +1,6 @@
 ---
 title: Salzhemmendorf
 url: /salzhemmendorf/
-latitude: 52.0681341
-longitude: 9.5878533
+latitude: 52.065
+longitude: 9.585
 ---

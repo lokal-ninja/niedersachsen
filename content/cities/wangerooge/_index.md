@@ -1,6 +1,6 @@
 ---
 title: Wangerooge
 url: /wangerooge/
-latitude: 
-longitude: 
+latitude: 53.79
+longitude: 7.899
 ---

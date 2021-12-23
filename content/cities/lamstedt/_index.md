@@ -1,6 +1,6 @@
 ---
 title: Lamstedt
 url: /lamstedt/
-latitude: 53.634996
-longitude: 9.101264500000001
+latitude: 53.625
+longitude: 9.09
 ---

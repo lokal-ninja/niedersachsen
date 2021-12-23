@@ -1,6 +1,6 @@
 ---
 title: Werpeloh
 url: /werpeloh/
-latitude: 52.8757742
-longitude: 7.5078271
+latitude: 52.865
+longitude: 7.513
 ---

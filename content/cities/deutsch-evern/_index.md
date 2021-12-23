@@ -1,6 +1,6 @@
 ---
 title: Deutsch Evern
 url: /deutsch-evern/
-latitude: 53.2
-longitude: 10.433300000000001
+latitude: 53.206
+longitude: 10.43
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dassel
 url: /dassel/
-latitude: 51.802141500000005
-longitude: 9.688311200000001
+latitude: 51.77
+longitude: 9.657
 ---

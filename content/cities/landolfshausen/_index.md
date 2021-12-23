@@ -1,6 +1,6 @@
 ---
 title: Landolfshausen
 url: /landolfshausen/
-latitude: 51.5393879
-longitude: 10.1035597
+latitude: 51.53
+longitude: 10.064
 ---

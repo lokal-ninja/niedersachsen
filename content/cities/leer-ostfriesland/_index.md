@@ -1,6 +1,6 @@
 ---
 title: Leer (Ostfriesland)
 url: /leer-ostfriesland/
-latitude: 53.2502087
-longitude: 7.456303500000001
+latitude: 53.247
+longitude: 7.458
 ---

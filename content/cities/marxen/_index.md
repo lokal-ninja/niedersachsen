@@ -1,6 +1,6 @@
 ---
 title: Marxen
 url: /marxen/
-latitude: 53.3137106
-longitude: 10.0058928
+latitude: 53.316
+longitude: 10.008
 ---

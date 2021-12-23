@@ -1,6 +1,6 @@
 ---
 title: Haren
 url: /haren/
-latitude: 
-longitude: 
+latitude: 52.781
+longitude: 7.294
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eicklingen
 url: /eicklingen/
-latitude: 52.5497631
-longitude: 10.1827919
+latitude: 52.552
+longitude: 10.19
 ---

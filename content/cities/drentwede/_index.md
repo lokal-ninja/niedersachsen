@@ -1,6 +1,6 @@
 ---
 title: Drentwede
 url: /drentwede/
-latitude: 52.7365501
-longitude: 8.561876400000001
+latitude: 52.75
+longitude: 8.57
 ---

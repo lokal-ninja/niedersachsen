@@ -1,6 +1,6 @@
 ---
 title: Ottersberg
 url: /ottersberg/
-latitude: 
-longitude: 
+latitude: 53.126
+longitude: 9.058
 ---

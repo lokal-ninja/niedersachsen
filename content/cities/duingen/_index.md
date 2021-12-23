@@ -1,6 +1,6 @@
 ---
 title: Duingen
 url: /duingen/
-latitude: 52.0057957
-longitude: 9.6970268
+latitude: 52.005
+longitude: 9.698
 ---

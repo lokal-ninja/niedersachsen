@@ -1,6 +1,6 @@
 ---
 title: Grethem
 url: /grethem/
-latitude: 52.724643
-longitude: 9.5802846
+latitude: 52.726
+longitude: 9.579
 ---

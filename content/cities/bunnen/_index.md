@@ -1,6 +1,6 @@
 ---
 title: Bunnen
 url: /bunnen/
-latitude: 
-longitude: 
+latitude: 52.741
+longitude: 7.854
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kirchlinteln
 url: /kirchlinteln/
-latitude: 52.939008
-longitude: 9.315048
+latitude: 52.941
+longitude: 9.319
 ---

@@ -1,6 +1,6 @@
 ---
 title: Flöthe
 url: /floethe/
-latitude: 
-longitude: 
+latitude: 52.077
+longitude: 10.487
 ---

@@ -1,6 +1,6 @@
 ---
 title: Uehrde
 url: /uehrde/
-latitude: 52.0999198
-longitude: 10.764118400000001
+latitude: 52.097
+longitude: 10.807
 ---

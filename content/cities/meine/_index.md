@@ -1,6 +1,6 @@
 ---
 title: Meine
 url: /meine/
-latitude: 52.384917
-longitude: 10.539227
+latitude: 52.381
+longitude: 10.537
 ---

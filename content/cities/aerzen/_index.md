@@ -1,6 +1,6 @@
 ---
 title: Aerzen
 url: /aerzen/
-latitude: 52.049607200000004
-longitude: 9.2638158
+latitude: 52.072
+longitude: 9.225
 ---

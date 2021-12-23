@@ -1,6 +1,6 @@
 ---
 title: Hanstedt
 url: /hanstedt/
-latitude: 52.832852900000006
-longitude: 8.4241612
+latitude: 53.258
+longitude: 10.015
 ---

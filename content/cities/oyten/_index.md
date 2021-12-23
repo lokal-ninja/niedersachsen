@@ -1,6 +1,6 @@
 ---
 title: Oyten
 url: /oyten/
-latitude: 53.059451300000006
-longitude: 9.0188655
+latitude: 53.049
+longitude: 9.012
 ---

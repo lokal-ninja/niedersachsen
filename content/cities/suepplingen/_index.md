@@ -1,6 +1,6 @@
 ---
 title: Süpplingen
 url: /suepplingen/
-latitude: 52.2271049
-longitude: 10.9040619
+latitude: 52.228
+longitude: 10.903
 ---

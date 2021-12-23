@@ -1,6 +1,6 @@
 ---
 title: Adelheidsdorf
 url: /adelheidsdorf/
-latitude: 52.565616000000006
-longitude: 10.0571661
+latitude: 52.553
+longitude: 10.024
 ---

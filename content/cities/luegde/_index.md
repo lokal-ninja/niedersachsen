@@ -1,6 +1,6 @@
 ---
 title: Lügde
 url: /luegde/
-latitude: 
-longitude: 
+latitude: 51.97
+longitude: 9.261
 ---

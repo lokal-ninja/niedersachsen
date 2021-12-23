@@ -1,6 +1,6 @@
 ---
 title: Lastrup
 url: /lastrup/
-latitude: 52.7963973
-longitude: 7.8642693
+latitude: 52.796
+longitude: 7.859
 ---

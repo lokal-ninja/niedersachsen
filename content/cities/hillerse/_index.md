@@ -1,6 +1,6 @@
 ---
 title: Hillerse
 url: /hillerse/
-latitude: 51.6861424
-longitude: 9.952894500000001
+latitude: 52.417
+longitude: 10.397
 ---

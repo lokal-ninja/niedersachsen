@@ -1,6 +1,6 @@
 ---
 title: Cremlingen
 url: /cremlingen/
-latitude: 
-longitude: 
+latitude: 52.269
+longitude: 10.687
 ---

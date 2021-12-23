@@ -1,6 +1,6 @@
 ---
 title: Fürstenau
 url: /fuerstenau/
-latitude: 52.302114700000004
-longitude: 10.332938500000001
+latitude: 52.515
+longitude: 7.688
 ---

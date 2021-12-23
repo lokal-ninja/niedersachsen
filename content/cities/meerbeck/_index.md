@@ -1,6 +1,6 @@
 ---
 title: Meerbeck
 url: /meerbeck/
-latitude: 52.3424582
-longitude: 9.147837500000001
+latitude: 52.343
+longitude: 9.145
 ---

@@ -1,6 +1,6 @@
 ---
 title: Stadtoldendorf
 url: /stadtoldendorf/
-latitude: 51.884211400000005
-longitude: 9.625220500000001
+latitude: 51.882
+longitude: 9.633
 ---

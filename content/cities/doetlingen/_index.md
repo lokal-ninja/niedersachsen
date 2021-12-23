@@ -1,6 +1,6 @@
 ---
 title: Dötlingen
 url: /doetlingen/
-latitude: 52.9356656
-longitude: 8.3820642
+latitude: 52.938
+longitude: 8.425
 ---

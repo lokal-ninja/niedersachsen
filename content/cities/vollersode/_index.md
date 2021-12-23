@@ -1,6 +1,6 @@
 ---
 title: Vollersode
 url: /vollersode/
-latitude: 53.333792900000006
-longitude: 8.916742000000001
+latitude: 53.292
+longitude: 8.884
 ---

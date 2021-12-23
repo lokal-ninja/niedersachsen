@@ -1,6 +1,6 @@
 ---
 title: Sibbesse
 url: /sibbesse/
-latitude: 52.0541312
-longitude: 9.9045818
+latitude: 52.054
+longitude: 9.902
 ---

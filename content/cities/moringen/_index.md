@@ -1,6 +1,6 @@
 ---
 title: Moringen
 url: /moringen/
-latitude: 51.6982506
-longitude: 9.869155600000001
+latitude: 51.734
+longitude: 9.789
 ---

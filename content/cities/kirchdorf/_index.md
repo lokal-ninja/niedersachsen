@@ -1,6 +1,6 @@
 ---
 title: Kirchdorf
 url: /kirchdorf/
-latitude: 53.45030800000001
-longitude: 7.4786187
+latitude: 52.597
+longitude: 8.823
 ---

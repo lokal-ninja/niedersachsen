@@ -1,6 +1,6 @@
 ---
 title: Rastdorf
 url: /rastdorf/
-latitude: 
-longitude: 
+latitude: 52.915
+longitude: 7.71
 ---

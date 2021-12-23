@@ -1,6 +1,6 @@
 ---
 title: Waddeweitz
 url: /waddeweitz/
-latitude: 52.996253900000006
-longitude: 10.9588113
+latitude: 52.999
+longitude: 11.017
 ---

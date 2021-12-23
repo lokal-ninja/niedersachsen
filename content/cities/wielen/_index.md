@@ -1,6 +1,6 @@
 ---
 title: Wielen
 url: /wielen/
-latitude: 52.547350800000004
-longitude: 6.731582700000001
+latitude: 52.486
+longitude: 6.715
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pollhagen
 url: /pollhagen/
-latitude: 52.3832479
-longitude: 9.1896505
+latitude: 52.385
+longitude: 9.189
 ---

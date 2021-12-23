@@ -1,6 +1,6 @@
 ---
 title: Hespe
 url: /hespe/
-latitude: 52.3248
-longitude: 9.110100000000001
+latitude: 52.335
+longitude: 9.104
 ---

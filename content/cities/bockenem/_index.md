@@ -1,6 +1,6 @@
 ---
 title: Bockenem
 url: /bockenem/
-latitude: 52.0111484
-longitude: 10.1331159
+latitude: 52.002
+longitude: 10.134
 ---

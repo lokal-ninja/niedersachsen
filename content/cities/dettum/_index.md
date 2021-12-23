@@ -1,6 +1,6 @@
 ---
 title: Dettum
 url: /dettum/
-latitude: 
-longitude: 
+latitude: 52.17
+longitude: 10.667
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eystrup
 url: /eystrup/
-latitude: 52.7814673
-longitude: 9.224219900000001
+latitude: 52.781
+longitude: 9.226
 ---

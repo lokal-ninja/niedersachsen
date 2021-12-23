@@ -1,6 +1,6 @@
 ---
 title: Apen
 url: /apen/
-latitude: 53.2214255
-longitude: 7.8097336
+latitude: 53.218
+longitude: 7.762
 ---

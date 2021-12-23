@@ -1,6 +1,6 @@
 ---
 title: Achim
 url: /achim/
-latitude: 
-longitude: 
+latitude: 53.034
+longitude: 8.954
 ---

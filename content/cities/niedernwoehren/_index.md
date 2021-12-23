@@ -1,6 +1,6 @@
 ---
 title: Niedernwöhren
 url: /niedernwoehren/
-latitude: 52.3519
-longitude: 9.1486
+latitude: 52.358
+longitude: 9.125
 ---

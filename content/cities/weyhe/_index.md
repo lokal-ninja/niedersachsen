@@ -1,6 +1,6 @@
 ---
 title: Weyhe
 url: /weyhe/
-latitude: 52.982125700000005
-longitude: 8.8495643
+latitude: 52.986
+longitude: 8.786
 ---

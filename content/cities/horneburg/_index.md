@@ -1,6 +1,6 @@
 ---
 title: Horneburg
 url: /horneburg/
-latitude: 53.508793000000004
-longitude: 9.577211
+latitude: 53.505
+longitude: 9.59
 ---

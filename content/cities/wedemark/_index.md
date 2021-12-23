@@ -1,6 +1,6 @@
 ---
 title: Wedemark
 url: /wedemark/
-latitude: 
-longitude: 
+latitude: 52.604
+longitude: 9.725
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wildeshausen
 url: /wildeshausen/
-latitude: 52.897103
-longitude: 8.4364342
+latitude: 52.899
+longitude: 8.418
 ---

@@ -1,6 +1,6 @@
 ---
 title: Werdum
 url: /werdum/
-latitude: 53.6601252
-longitude: 7.718358200000001
+latitude: 53.66
+longitude: 7.719
 ---

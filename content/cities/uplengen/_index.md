@@ -1,6 +1,6 @@
 ---
 title: Uplengen
 url: /uplengen/
-latitude: 53.3072809
-longitude: 7.7653243000000005
+latitude: 53.304
+longitude: 7.745
 ---

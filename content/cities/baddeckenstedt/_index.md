@@ -1,6 +1,6 @@
 ---
 title: Baddeckenstedt
 url: /baddeckenstedt/
-latitude: 52.0833
-longitude: 10.2333
+latitude: 52.088
+longitude: 10.236
 ---

@@ -1,6 +1,6 @@
 ---
 title: Heede
 url: /heede/
-latitude: 
-longitude: 
+latitude: 52.994
+longitude: 7.301
 ---

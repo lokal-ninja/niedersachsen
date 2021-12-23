@@ -1,6 +1,6 @@
 ---
 title: Dünsen
 url: /duensen/
-latitude: 52.926512200000005
-longitude: 8.642875
+latitude: 52.924
+longitude: 8.646
 ---

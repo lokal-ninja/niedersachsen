@@ -1,6 +1,6 @@
 ---
 title: Wolfsburg
 url: /wolfsburg/
-latitude: 52.4205588
-longitude: 10.7861682
+latitude: 52.42
+longitude: 10.715
 ---

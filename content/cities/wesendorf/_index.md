@@ -1,6 +1,6 @@
 ---
 title: Wesendorf
 url: /wesendorf/
-latitude: 52.592945
-longitude: 10.5347367
+latitude: 52.59
+longitude: 10.534
 ---

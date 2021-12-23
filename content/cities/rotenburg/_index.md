@@ -1,6 +1,6 @@
 ---
 title: Rotenburg
 url: /rotenburg/
-latitude: 
-longitude: 
+latitude: 53.121
+longitude: 9.322
 ---

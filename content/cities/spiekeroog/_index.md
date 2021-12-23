@@ -1,6 +1,6 @@
 ---
 title: Spiekeroog
 url: /spiekeroog/
-latitude: 53.7710589
-longitude: 7.6946627
+latitude: 53.771
+longitude: 7.697
 ---

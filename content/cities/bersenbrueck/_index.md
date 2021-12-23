@@ -1,6 +1,6 @@
 ---
 title: Bersenbrück
 url: /bersenbrueck/
-latitude: 52.555329300000004
-longitude: 7.947184200000001
+latitude: 52.556
+longitude: 7.936
 ---

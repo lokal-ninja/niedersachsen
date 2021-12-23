@@ -1,6 +1,6 @@
 ---
 title: Harbke
 url: /harbke/
-latitude: 52.187760000000004
-longitude: 11.0483065
+latitude: 52.189
+longitude: 11.046
 ---

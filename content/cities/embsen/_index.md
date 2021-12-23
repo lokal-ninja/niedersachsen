@@ -1,6 +1,6 @@
 ---
 title: Embsen
 url: /embsen/
-latitude: 53.177149500000006
-longitude: 10.3484577
+latitude: 53.18
+longitude: 10.35
 ---

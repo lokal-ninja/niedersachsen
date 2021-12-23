@@ -1,6 +1,6 @@
 ---
 title: Voltlage
 url: /voltlage/
-latitude: 52.430844400000005
-longitude: 7.745689700000001
+latitude: 52.427
+longitude: 7.744
 ---

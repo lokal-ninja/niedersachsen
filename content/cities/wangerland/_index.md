@@ -1,6 +1,6 @@
 ---
 title: Wangerland
 url: /wangerland/
-latitude: 
-longitude: 
+latitude: 53.702
+longitude: 7.836
 ---

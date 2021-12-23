@@ -1,6 +1,6 @@
 ---
 title: Ostercappeln
 url: /ostercappeln/
-latitude: 52.344785300000005
-longitude: 8.2268006
+latitude: 52.372
+longitude: 8.207
 ---

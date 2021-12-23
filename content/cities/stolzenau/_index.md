@@ -1,6 +1,6 @@
 ---
 title: Stolzenau
 url: /stolzenau/
-latitude: 52.5105264
-longitude: 9.077340000000001
+latitude: 52.511
+longitude: 9.078
 ---

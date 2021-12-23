@@ -1,6 +1,6 @@
 ---
 title: Altenmedingen
 url: /altenmedingen/
-latitude: 53.130178300000004
-longitude: 10.6021202
+latitude: 53.13
+longitude: 10.603
 ---

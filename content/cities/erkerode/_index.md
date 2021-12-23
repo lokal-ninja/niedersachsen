@@ -1,6 +1,6 @@
 ---
 title: Erkerode
 url: /erkerode/
-latitude: 52.2037891
-longitude: 10.708449100000001
+latitude: 52.206
+longitude: 10.691
 ---

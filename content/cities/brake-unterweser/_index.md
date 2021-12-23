@@ -1,6 +1,6 @@
 ---
 title: Brake (Unterweser)
 url: /brake-unterweser/
-latitude: 53.3256109
-longitude: 8.4806296
+latitude: 53.326
+longitude: 8.481
 ---

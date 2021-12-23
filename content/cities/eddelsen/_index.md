@@ -1,6 +1,6 @@
 ---
 title: Eddelsen
 url: /eddelsen/
-latitude: 53.385528
-longitude: 9.9611623
+latitude: 53.385
+longitude: 9.96
 ---

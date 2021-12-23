@@ -1,6 +1,6 @@
 ---
 title: Wittorf
 url: /wittorf/
-latitude: 53.332027000000004
-longitude: 10.3786492
+latitude: 53.33
+longitude: 10.367
 ---

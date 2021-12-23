@@ -1,6 +1,6 @@
 ---
 title: Breddorf
 url: /breddorf/
-latitude: 53.2918796
-longitude: 9.0792564
+latitude: 53.293
+longitude: 9.079
 ---

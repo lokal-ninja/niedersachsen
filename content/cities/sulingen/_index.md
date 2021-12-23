@@ -1,6 +1,6 @@
 ---
 title: Sulingen
 url: /sulingen/
-latitude: 52.682837400000004
-longitude: 8.8018923
+latitude: 52.683
+longitude: 8.807
 ---

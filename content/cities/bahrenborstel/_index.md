@@ -1,6 +1,6 @@
 ---
 title: Bahrenborstel
 url: /bahrenborstel/
-latitude: 52.571392100000004
-longitude: 8.812641300000001
+latitude: 52.568
+longitude: 8.808
 ---

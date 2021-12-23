@@ -1,6 +1,6 @@
 ---
 title: Wiedensahl
 url: /wiedensahl/
-latitude: 52.383591700000004
-longitude: 9.1203263
+latitude: 52.375
+longitude: 9.121
 ---

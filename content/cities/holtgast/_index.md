@@ -1,6 +1,6 @@
 ---
 title: Holtgast
 url: /holtgast/
-latitude: 53.213025300000005
-longitude: 7.716240600000001
+latitude: 53.632
+longitude: 7.527
 ---

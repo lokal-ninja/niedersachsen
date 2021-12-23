@@ -1,6 +1,6 @@
 ---
 title: Handeloh
 url: /handeloh/
-latitude: 53.245882800000004
-longitude: 9.836515400000001
+latitude: 53.244
+longitude: 9.844
 ---

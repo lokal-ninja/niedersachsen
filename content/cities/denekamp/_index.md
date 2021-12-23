@@ -1,6 +1,6 @@
 ---
 title: Denekamp
 url: /denekamp/
-latitude: 
-longitude: 
+latitude: 52.403
+longitude: 7.035
 ---

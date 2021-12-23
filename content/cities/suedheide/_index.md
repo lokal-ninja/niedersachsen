@@ -1,6 +1,6 @@
 ---
 title: Südheide
 url: /suedheide/
-latitude: 
-longitude: 
+latitude: 52.831
+longitude: 10.096
 ---

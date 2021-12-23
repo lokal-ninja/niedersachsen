@@ -1,6 +1,6 @@
 ---
 title: Walsrode
 url: /walsrode/
-latitude: 
-longitude: 
+latitude: 52.862
+longitude: 9.587
 ---

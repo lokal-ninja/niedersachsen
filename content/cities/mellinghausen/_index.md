@@ -1,6 +1,6 @@
 ---
 title: Mellinghausen
 url: /mellinghausen/
-latitude: 52.7001342
-longitude: 8.8942446
+latitude: 52.732
+longitude: 8.929
 ---

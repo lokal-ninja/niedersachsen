@@ -1,6 +1,6 @@
 ---
 title: Rehden
 url: /rehden/
-latitude: 52.609467800000004
-longitude: 8.480664500000001
+latitude: 52.61
+longitude: 8.48
 ---

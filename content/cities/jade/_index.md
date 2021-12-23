@@ -1,6 +1,6 @@
 ---
 title: Jade
 url: /jade/
-latitude: 
-longitude: 
+latitude: 53.338
+longitude: 8.187
 ---

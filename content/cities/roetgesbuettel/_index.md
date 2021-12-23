@@ -1,6 +1,6 @@
 ---
 title: Rötgesbüttel
 url: /roetgesbuettel/
-latitude: 52.4150907
-longitude: 10.5296465
+latitude: 52.416
+longitude: 10.533
 ---

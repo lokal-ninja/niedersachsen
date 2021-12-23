@@ -1,6 +1,6 @@
 ---
 title: Steinkirchen
 url: /steinkirchen/
-latitude: 53.5585632
-longitude: 9.6062553
+latitude: 53.56
+longitude: 9.608
 ---

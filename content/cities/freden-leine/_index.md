@@ -1,6 +1,6 @@
 ---
 title: Freden (Leine)
 url: /freden-leine/
-latitude: 51.9282454
-longitude: 9.8967232
+latitude: 51.93
+longitude: 9.9
 ---

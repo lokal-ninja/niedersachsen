@@ -1,6 +1,6 @@
 ---
 title: Bokensdorf
 url: /bokensdorf/
-latitude: 52.500389000000006
-longitude: 10.7161714
+latitude: 52.5
+longitude: 10.716
 ---

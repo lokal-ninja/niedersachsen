@@ -1,6 +1,6 @@
 ---
 title: Sassenburg
 url: /sassenburg/
-latitude: 52.5107611
-longitude: 10.6328083
+latitude: 52.548
+longitude: 10.699
 ---

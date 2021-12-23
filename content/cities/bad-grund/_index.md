@@ -1,6 +1,6 @@
 ---
 title: Bad Grund
 url: /bad-grund/
-latitude: 
-longitude: 
+latitude: 51.806
+longitude: 10.226
 ---

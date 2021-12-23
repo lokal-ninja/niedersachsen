@@ -1,6 +1,6 @@
 ---
 title: Walchum
 url: /walchum/
-latitude: 52.9286047
-longitude: 7.2720453
+latitude: 52.927
+longitude: 7.282
 ---

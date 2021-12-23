@@ -1,6 +1,6 @@
 ---
 title: Dersum
 url: /dersum/
-latitude: 52.9604493
-longitude: 7.2743256
+latitude: 52.961
+longitude: 7.276
 ---

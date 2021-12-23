@@ -1,6 +1,6 @@
 ---
 title: Zernien
 url: /zernien/
-latitude: 
-longitude: 
+latitude: 53.067
+longitude: 10.885
 ---

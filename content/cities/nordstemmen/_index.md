@@ -1,6 +1,6 @@
 ---
 title: Nordstemmen
 url: /nordstemmen/
-latitude: 
-longitude: 
+latitude: 52.154
+longitude: 9.789
 ---

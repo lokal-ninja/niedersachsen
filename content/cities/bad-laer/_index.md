@@ -1,6 +1,6 @@
 ---
 title: Bad Laer
 url: /bad-laer/
-latitude: 52.1014143
-longitude: 8.0865168
+latitude: 52.098
+longitude: 8.098
 ---

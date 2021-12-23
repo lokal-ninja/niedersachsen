@@ -1,6 +1,6 @@
 ---
 title: Handorf
 url: /handorf/
-latitude: 52.292512200000004
-longitude: 10.2120317
+latitude: 53.344
+longitude: 10.345
 ---

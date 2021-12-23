@@ -1,6 +1,6 @@
 ---
 title: Lüchow (Wendland)
 url: /luechow-wendland/
-latitude: 
-longitude: 
+latitude: 52.967
+longitude: 11.151
 ---

@@ -1,6 +1,6 @@
 ---
 title: Soltau
 url: /soltau/
-latitude: 
-longitude: 
+latitude: 52.985
+longitude: 9.838
 ---

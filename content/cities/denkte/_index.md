@@ -1,6 +1,6 @@
 ---
 title: Denkte
 url: /denkte/
-latitude: 
-longitude: 
+latitude: 52.143
+longitude: 10.613
 ---

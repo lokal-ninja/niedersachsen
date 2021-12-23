@@ -1,6 +1,6 @@
 ---
 title: Meinersen
 url: /meinersen/
-latitude: 52.471379400000004
-longitude: 10.36109
+latitude: 52.484
+longitude: 10.336
 ---

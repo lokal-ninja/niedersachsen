@@ -1,6 +1,6 @@
 ---
 title: Lehre
 url: /lehre/
-latitude: 52.3277901
-longitude: 10.668703500000001
+latitude: 52.357
+longitude: 10.698
 ---

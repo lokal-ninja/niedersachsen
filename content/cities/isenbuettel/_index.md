@@ -1,6 +1,6 @@
 ---
 title: Isenbüttel
 url: /isenbuettel/
-latitude: 52.4362812
-longitude: 10.578323300000001
+latitude: 52.435
+longitude: 10.578
 ---

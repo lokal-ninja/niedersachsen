@@ -1,6 +1,6 @@
 ---
 title: Martfeld
 url: /martfeld/
-latitude: 52.8742875
-longitude: 9.0626827
+latitude: 52.876
+longitude: 9.063
 ---

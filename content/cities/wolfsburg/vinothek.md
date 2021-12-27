@@ -1,5 +1,5 @@
 ---
 title: "Vinothek"
 url: /wolfsburg/vinothek/
-shop: Wein
+shop: Spirituosen
 ---

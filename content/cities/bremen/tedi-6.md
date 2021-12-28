@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /bremen/tedi-3/
+url: /bremen/tedi-6/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ölmühle Solling Mühlenladen"
 url: /boffzen/oelmuehle-solling-muehlenladen/
-shop: Andenken
+shop: Lebensmittel
 ---

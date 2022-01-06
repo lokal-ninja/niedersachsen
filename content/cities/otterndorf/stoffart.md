@@ -1,5 +1,5 @@
 ---
-title: "Stoffart"
+title: "StoffArt"
 url: /otterndorf/stoffart/
 shop: Textil
 ---

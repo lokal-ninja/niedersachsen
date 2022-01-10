@@ -1,6 +1,6 @@
 ---
 title: Berge
 url: /berge/
-latitude: 52.622
-longitude: 7.754
+latitude: 52.625
+longitude: 7.672
 ---

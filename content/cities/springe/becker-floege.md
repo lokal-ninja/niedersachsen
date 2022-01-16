@@ -1,5 +1,5 @@
 ---
-title: "becker + flöge"
+title: "Becker + Flöge"
 url: /springe/becker-floege/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Aldi Nord"
+title: "ALDI Nord"
 url: /bad-salzdetfurth/aldi-nord/
 shop: Supermarkt
 ---

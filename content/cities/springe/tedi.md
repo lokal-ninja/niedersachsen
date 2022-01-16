@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /springe/tedi/
 shop: Kramladen
 ---

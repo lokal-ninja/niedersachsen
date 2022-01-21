@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /diepholz/tedi/
-shop: Haushaltsartikel
+shop: Kramladen
 ---

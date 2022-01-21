@@ -1,11 +1,11 @@
-id: 442218470
-type: way
-latitude: 53.06624
-longitude: 8.76983
-postcode: "28199"
+id: 9431042713
+type: node
+latitude: 53.159
+longitude: 8.70221
+postcode: "28719"
 city: Bremen
-street: "Duckwitzstraße"
-housenumber: 55
+street: "Bremer Heerstraße"
+housenumber: 8A
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-18:00"
+website: "www.futterhaus.de"

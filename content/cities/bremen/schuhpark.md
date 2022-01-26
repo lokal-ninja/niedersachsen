@@ -1,5 +1,5 @@
 ---
-title: "SchuhPark"
+title: "Schuhpark"
 url: /bremen/schuhpark/
 shop: Schuhe
 ---

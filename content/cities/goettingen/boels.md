@@ -1,5 +1,5 @@
 ---
 title: "Boels"
 url: /goettingen/boels/
-shop: Allgemein
+shop: Werkzeuge
 ---

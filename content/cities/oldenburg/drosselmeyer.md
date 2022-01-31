@@ -1,5 +1,5 @@
 ---
 title: "Drosselmeyer"
 url: /oldenburg/drosselmeyer/
-shop: Allgemein
+shop: Katalog
 ---

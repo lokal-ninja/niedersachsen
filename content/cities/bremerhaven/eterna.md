@@ -1,5 +1,5 @@
 ---
-title: "ETERNA"
+title: "Eterna"
 url: /bremerhaven/eterna/
 shop: Kleidung
 ---

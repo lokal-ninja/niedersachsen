@@ -7,5 +7,5 @@ city: Meinersen
 street: "Auf der Schafweide"
 housenumber: 7
 phone: ""
-opening_hours: "Mo-Th 07:00-12:00,14:00-17:00, Fr 07:00-15:00"
+opening_hours: "Mo,Tu,Th 07:00-12:00, Mo-Th 14:00-17:00, Fr 07:00-14:00, We 07:00-12:00"
 website: ""

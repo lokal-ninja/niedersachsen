@@ -1,11 +1,11 @@
-id: 373751694
-type: way
-latitude: 53.11176
-longitude: 8.74908
-postcode: ""
+id: 3147983447
+type: node
+latitude: 53.04833
+longitude: 8.95785
+postcode: "28307"
 city: Bremen
-street: ""
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+street: "Hans-Bredow-Straße"
+housenumber: 19
+phone: "+49 421 42809661"
+opening_hours: "Mo-Sa 10:00-20:00; PH off"
+website: "https://www.eyesandmore.de/"

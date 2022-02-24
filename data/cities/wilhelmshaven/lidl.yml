@@ -1,11 +1,11 @@
-id: 1300717964
-type: node
-latitude: 53.52796
-longitude: 8.10707
-postcode: "26382"
+id: 444628444
+type: way
+latitude: 53.57377
+longitude: 8.08055
+postcode: "26388"
 city: Wilhelmshaven
-street: "Mitscherlichstraße"
-housenumber: 60-62
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

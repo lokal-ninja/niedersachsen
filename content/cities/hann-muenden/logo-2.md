@@ -1,5 +1,5 @@
 ---
-title: "LOGO!"
+title: "Logo"
 url: /hann-muenden/logo-2/
-shop: Spirituosen
+shop: Getränke
 ---

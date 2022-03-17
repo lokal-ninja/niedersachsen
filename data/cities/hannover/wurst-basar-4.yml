@@ -1,11 +1,11 @@
-id: 3259895362
-type: node
-latitude: 52.39057
-longitude: 9.85442
-postcode: "30629"
+id: 213549790
+type: way
+latitude: 52.42059
+longitude: 9.79896
+postcode: "30659"
 city: Hannover
-street: "Anderter Straße"
-housenumber: 1
+street: "Kurze-Kamp-Straße"
+housenumber: 18
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-13:00"
+opening_hours: ""
 website: ""

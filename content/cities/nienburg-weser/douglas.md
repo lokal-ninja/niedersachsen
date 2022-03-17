@@ -1,5 +1,5 @@
 ---
-title: "douglas"
+title: "Douglas"
 url: /nienburg-weser/douglas/
-shop: Kosmetik
+shop: Parfümerie
 ---

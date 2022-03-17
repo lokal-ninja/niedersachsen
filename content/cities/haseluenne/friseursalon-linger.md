@@ -1,5 +1,5 @@
 ---
 title: "Friseursalon Linger"
 url: /haseluenne/friseursalon-linger/
-shop: Blumen
+shop: Friseur
 ---

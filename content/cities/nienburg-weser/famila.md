@@ -1,5 +1,5 @@
 ---
-title: "Famila"
+title: "famila"
 url: /nienburg-weser/famila/
 shop: Supermarkt
 ---

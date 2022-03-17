@@ -1,5 +1,5 @@
 ---
 title: "staccato"
 url: /nienburg-weser/staccato/
-shop: Modehaus
+shop: Kleidung
 ---

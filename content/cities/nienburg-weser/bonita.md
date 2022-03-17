@@ -1,5 +1,5 @@
 ---
-title: "Bonita"
+title: "BONITA"
 url: /nienburg-weser/bonita/
-shop: Modehaus
+shop: Kleidung
 ---

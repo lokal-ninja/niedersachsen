@@ -1,5 +1,5 @@
 ---
-title: "S. Oliver"
+title: "s.Oliver"
 url: /nienburg-weser/s-oliver/
-shop: Modehaus
+shop: Kleidung
 ---

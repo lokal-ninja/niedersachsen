@@ -1,5 +1,5 @@
 ---
-title: "GS Energie"
+title: "GS energie"
 url: /friesoythe/gs-energie/
 shop: Lebensmittel
 ---

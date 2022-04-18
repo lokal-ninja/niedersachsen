@@ -1,11 +1,11 @@
-id: 2987148216
-type: node
-latitude: 52.28283
-longitude: 10.52034
-postcode: "38114"
+id: 9721169
+type: way
+latitude: 52.28327
+longitude: 10.58038
+postcode: "38104"
 city: Braunschweig
-street: "Hamburger Straße"
-housenumber: 250
-phone: "+49 531 237750"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: "Berliner Straße"
+housenumber: 53
+phone: "+49-531-237330"
+opening_hours: "Mo-Sa 08:00-22:00"
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
 url: /braunschweig/kaufland-2/
-shop: Getränke
+shop: Supermarkt
 ---

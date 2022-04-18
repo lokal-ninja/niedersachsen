@@ -1,5 +1,5 @@
 ---
-title: "Famila"
+title: "famila"
 url: /lingen-ems/famila/
 shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 id: 6051876552
 type: node
-latitude: 51.5124
+latitude: 51.51243
 longitude: 10.26074
 postcode: "37115"
 city: Duderstadt
@@ -8,4 +8,4 @@ street: "Marktstraße"
 housenumber: 67
 phone: "+49 5527 941430"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:30; PH off"
-website: ""
+website: "https://www.sattler-optik.de/duderstadt/"

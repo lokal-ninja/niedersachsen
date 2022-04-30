@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /braunschweig/edeka-4/
-shop: Getränke
+shop: Supermarkt
 ---

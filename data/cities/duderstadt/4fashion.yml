@@ -1,11 +1,11 @@
 id: 6051744511
 type: node
-latitude: 51.51248
-longitude: 10.25821
-postcode: ""
+latitude: 51.51249
+longitude: 10.2582
+postcode: "37115"
 city: Duderstadt
 street: "Marktstraße"
 housenumber: 33
 phone: ""
-opening_hours: "Mo-Sa 09:30-14:00; PH off"
-website: ""
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH off"
+website: "https://www.4fashion-duderstadt.de/"

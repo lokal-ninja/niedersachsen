@@ -1,11 +1,11 @@
-id: 2418698842
-type: node
-latitude: 52.16484
-longitude: 10.55517
-postcode: "38302"
+id: 27790892
+type: way
+latitude: 52.15845
+longitude: 10.50997
+postcode: "38304"
 city: Wolfenbüttel
-street: "Elmweg"
-housenumber: 15
-phone: "+49 5331 9045061"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 07:00-17:00"
+street: "Adersheimer Straße"
+housenumber: 62a
+phone: "+49 5331 856 753"
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00"
 website: "http://www.brotversteher.de"

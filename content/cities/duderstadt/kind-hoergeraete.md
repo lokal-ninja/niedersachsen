@@ -1,5 +1,5 @@
 ---
-title: "Kind Hörgeräte"
+title: "KIND Hörgeräte"
 url: /duderstadt/kind-hoergeraete/
 shop: Hörgeräte
 ---

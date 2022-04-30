@@ -1,5 +1,5 @@
 ---
-title: "Bauking"
+title: "BAUKING"
 url: /wolfsburg/bauking/
 shop: Baumarkt
 ---

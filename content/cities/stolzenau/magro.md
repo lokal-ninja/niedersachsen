@@ -1,5 +1,5 @@
 ---
 title: "Magro"
 url: /stolzenau/magro/
-shop: Allgemein
+shop: Warenhaus
 ---

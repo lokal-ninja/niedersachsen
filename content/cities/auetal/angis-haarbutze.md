@@ -1,5 +1,5 @@
 ---
-title: "Angi's Haarbutze"
+title: "Angis Haarbutze"
 url: /auetal/angis-haarbutze/
 shop: Friseur
 ---

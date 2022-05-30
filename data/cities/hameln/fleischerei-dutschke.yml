@@ -1,11 +1,11 @@
-id: 342796500
-type: way
-latitude: 52.06532
-longitude: 9.37244
+id: 9754349000
+type: node
+latitude: 52.06535
+longitude: 9.37243
 postcode: "31789"
 city: Hameln
 street: "Lange Straße"
 housenumber: 5
 phone: "+49 5151 22228"
-opening_hours: "Mo-Fr 07:00-13:00,15:00-18:00, Sa 06:30-13:00"
+opening_hours: "Mo-Sa 06:30-13:00, Tu,Th,Fr 15:00-18:00"
 website: "https://www.knabberstangen.com/"

@@ -1,11 +1,11 @@
-id: 174786698
-type: way
-latitude: 52.34613
-longitude: 9.76178
-postcode: "30519"
+id: 4475310694
+type: node
+latitude: 52.39022
+longitude: 9.85435
+postcode: "30629"
 city: Hannover
-street: "Hildesheimer Straße"
-housenumber: 201
+street: "Hannoversche Straße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00"
+opening_hours: ""
 website: ""

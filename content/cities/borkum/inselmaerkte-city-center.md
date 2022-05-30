@@ -1,5 +1,5 @@
 ---
-title: "inselmärkte City-Center"
+title: "Inselmärkte City-Center"
 url: /borkum/inselmaerkte-city-center/
 shop: Supermarkt
 ---

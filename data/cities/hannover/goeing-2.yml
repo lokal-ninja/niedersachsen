@@ -1,11 +1,11 @@
-id: 256699459
+id: 260196731
 type: node
-latitude: 52.37285
-longitude: 9.70958
-postcode: "30451"
+latitude: 52.36202
+longitude: 9.75925
+postcode: "30171"
 city: Hannover
-street: "Limmerstraße"
-housenumber: 28
+street: "Sallstraße"
+housenumber: 77
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00"
-website: "https://www.goeing.de/limmerstrasse-28"
+opening_hours: "Mo-Th 06:00-18:00; Fr 06:00-17:00; Sa 06:30-12:30; Su,PH 08:00-11:00"
+website: "https://goeing.de"

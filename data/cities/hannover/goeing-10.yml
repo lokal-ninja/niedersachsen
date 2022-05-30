@@ -1,11 +1,11 @@
-id: 4515569237
-type: node
-latitude: 52.36752
-longitude: 9.71934
-postcode: "30449"
+id: 213550638
+type: way
+latitude: 52.42002
+longitude: 9.79907
+postcode: "30659"
 city: Hannover
-street: "Falkenstraße"
-housenumber: 2
-phone: "+49 511 92018183"
-opening_hours: "Mo-Fr 06:00-17:00; Sa 07:00-13:00; Su 08:00-12:00"
-website: "https://www.goeing.de/falkenstrasse"
+street: "Kurze-Kamp-Straße"
+housenumber: 1c
+phone: ""
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00"
+website: ""

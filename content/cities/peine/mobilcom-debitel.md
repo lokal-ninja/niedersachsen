@@ -1,5 +1,5 @@
 ---
 title: "Mobilcom Debitel"
 url: /peine/mobilcom-debitel/
-shop: Elektronik
+shop: Handy
 ---

@@ -1,11 +1,11 @@
-id: 31770742
-type: way
-latitude: 52.30459
-longitude: 10.46675
-postcode: "38112"
+id: 9807104008
+type: node
+latitude: 52.27405
+longitude: 10.54242
+postcode: "38106"
 city: Braunschweig
-street: "Celler Heerstraße"
-housenumber: 312
+street: "Karlstraße"
+housenumber: 78-80
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH Off"
+opening_hours: ""
 website: ""

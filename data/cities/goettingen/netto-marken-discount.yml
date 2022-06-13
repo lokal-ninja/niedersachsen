@@ -1,11 +1,11 @@
-id: 520695769
-type: way
-latitude: 51.54844
-longitude: 9.87509
-postcode: "37079"
+id: 245919733
+type: node
+latitude: 51.54268
+longitude: 9.93113
+postcode: "37073"
 city: Göttingen
-street: "Gesundbrunnen"
-housenumber: 31
+street: "Güterbahnhofstraße"
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: "https://www.netto-online.de"

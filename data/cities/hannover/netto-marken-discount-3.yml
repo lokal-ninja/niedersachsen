@@ -1,11 +1,11 @@
-id: 96047228
-type: way
-latitude: 52.32863
-longitude: 9.79095
-postcode: "30519"
+id: 363735270
+type: node
+latitude: 52.36577
+longitude: 9.76205
+postcode: "30171"
 city: Hannover
-street: "Karlsruher Straße"
-housenumber: 31
+street: "Tiestestraße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.netto-online.de"

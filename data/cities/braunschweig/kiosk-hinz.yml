@@ -1,11 +1,11 @@
 id: 259646148
 type: node
 latitude: 52.27329
-longitude: 10.54032
+longitude: 10.54027
 postcode: "38106"
 city: Braunschweig
 street: "Karlstraße"
 housenumber: 90
 phone: ""
-opening_hours: "Mo 06:00-20:00; Tu off; We-Fr 06:00-20:00; Sa 08:00-19:00; Su 09:00-19:00"
+opening_hours: "Tu off; Mo,We-Sa 08:00-19:00; Su 09:00-19:00"
 website: ""

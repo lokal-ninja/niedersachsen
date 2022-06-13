@@ -1,11 +1,11 @@
-id: 375867746
-type: way
-latitude: 51.54693
-longitude: 9.9239
-postcode: "37081"
+id: 9807589977
+type: node
+latitude: 51.54929
+longitude: 9.90566
+postcode: "37079"
 city: Göttingen
-street: "Maschmühlenweg"
-housenumber: 111
+street: "Wilhelm-Lambrecht-Straße"
+housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
 website: ""

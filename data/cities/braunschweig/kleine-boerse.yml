@@ -7,5 +7,5 @@ city: Braunschweig
 street: "Wilhelm-Bode-Straße"
 housenumber: 32
 phone: "+49 531 34 54 80"
-opening_hours: "Mo-Fr 15:00-18:30; Sa 10:00-13:00"
+opening_hours: "Mo,Tu,Th,Fr 15:00-18:00; Sa 10:00-13:00; We 10:00-12:30"
 website: ""

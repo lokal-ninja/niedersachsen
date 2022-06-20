@@ -1,5 +1,5 @@
 ---
 title: "Raiffeisen Centralheide"
 url: /bispingen/raiffeisen-centralheide/
-shop: Lebensmittel
+shop: Baumarkt
 ---

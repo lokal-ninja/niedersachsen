@@ -1,11 +1,11 @@
-id: 1389483320
-type: node
-latitude: 53.09929
-longitude: 9.97812
+id: 256495602
+type: way
+latitude: 53.09987
+longitude: 10.03686
 postcode: "29646"
 city: Bispingen
-street: "Behringer Straße"
-housenumber: 63
+street: "Steinbecker Straße"
+housenumber: 30
 phone: ""
-opening_hours: "24/7"
-website: ""
+opening_hours: "Tu,Th 08:30-12:30"
+website: "https://www.centralheide.com/"

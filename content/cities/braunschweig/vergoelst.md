@@ -1,5 +1,5 @@
 ---
 title: "Vergölst"
 url: /braunschweig/vergoelst/
-shop: Autowerkstatt
+shop: Reifen
 ---

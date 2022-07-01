@@ -1,6 +1,6 @@
 ---
 title: Brietlingen
 url: /brietlingen/
-latitude: 53.327
-longitude: 10.443
+latitude: 53.319
+longitude: 10.437
 ---

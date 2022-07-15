@@ -1,5 +1,5 @@
 ---
 title: "Jawoll"
 url: /bardowick/jawoll/
-shop: Supermarkt
+shop: Kramladen
 ---

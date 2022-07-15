@@ -1,5 +1,5 @@
 ---
-title: "Liberty Woman"
+title: "liberty woman"
 url: /osnabrueck/liberty-woman/
 shop: Kleidung
 ---

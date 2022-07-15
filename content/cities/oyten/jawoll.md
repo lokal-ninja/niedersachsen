@@ -1,5 +1,5 @@
 ---
 title: "Jawoll"
 url: /oyten/jawoll/
-shop: Allgemein
+shop: Kramladen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Riede
 url: /riede/
-latitude: 52.957
-longitude: 8.931
+latitude: 52.965
+longitude: 8.941
 ---

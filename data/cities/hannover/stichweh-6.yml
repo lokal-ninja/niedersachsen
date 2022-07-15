@@ -1,11 +1,11 @@
-id: 213551902
-type: way
-latitude: 52.42013
-longitude: 9.79921
-postcode: "30659"
+id: 8308702941
+type: node
+latitude: 52.39171
+longitude: 9.85417
+postcode: "30629"
 city: Hannover
-street: "Kurze-Kamp-Straße"
-housenumber: 1e
+street: "Waldstraße"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Fr 08:15-18:00; Sa 08:15-13:00"
+opening_hours: "Mo-Fr 08:15-13:00,15:00-18:00; Sa 08:15-12:30"
 website: ""

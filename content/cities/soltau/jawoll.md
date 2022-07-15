@@ -1,5 +1,5 @@
 ---
 title: "Jawoll"
 url: /soltau/jawoll/
-shop: Supermarkt
+shop: Kramladen
 ---

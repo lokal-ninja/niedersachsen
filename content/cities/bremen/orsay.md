@@ -1,5 +1,5 @@
 ---
-title: "orsay"
+title: "Orsay"
 url: /bremen/orsay/
 shop: Kleidung
 ---

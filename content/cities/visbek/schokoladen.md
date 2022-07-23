@@ -1,5 +1,5 @@
 ---
-title: "Schokoladen"
+title: "SchokoLaden"
 url: /visbek/schokoladen/
-shop: Süßwaren
+shop: Schokolade
 ---

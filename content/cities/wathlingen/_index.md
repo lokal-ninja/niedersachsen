@@ -1,6 +1,6 @@
 ---
 title: Wathlingen
 url: /wathlingen/
-latitude: 52.541
-longitude: 10.134
+latitude: 52.542
+longitude: 10.133
 ---

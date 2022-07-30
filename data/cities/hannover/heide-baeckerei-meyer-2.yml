@@ -1,11 +1,11 @@
-id: 208240606
-type: way
-latitude: 52.42034
-longitude: 9.79947
-postcode: "30659"
+id: 5292159538
+type: node
+latitude: 52.3607
+longitude: 9.82774
+postcode: "30559"
 city: Hannover
-street: "Kurze-Kamp-Straße"
-housenumber: 15
+street: "Tiergartenstraße"
+housenumber: 124
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 06:30-17:00; We,Sa 06:30-13:00; Su 08:00-11:00"
-website: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su 08:00-11:00"
+website: "www.baeckerei-meyer.de"

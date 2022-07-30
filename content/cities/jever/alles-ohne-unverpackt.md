@@ -1,5 +1,5 @@
 ---
 title: "ALLES OHNE unverpackt"
 url: /jever/alles-ohne-unverpackt/
-shop: Allgemein
+shop: Lebensmittel
 ---

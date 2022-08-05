@@ -1,5 +1,5 @@
 ---
-title: "BACH Bäder & Fliesen"
+title: "Bach Bäder und Fliesen"
 url: /goettingen/bach-baeder-und-fliesen/
-shop: Baumarkt
+shop: Badezimmer
 ---

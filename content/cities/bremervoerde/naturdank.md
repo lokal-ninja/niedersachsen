@@ -1,5 +1,5 @@
 ---
 title: "NATURdank"
 url: /bremervoerde/naturdank/
-shop: Lebensmittel
+shop: Leerstehend
 ---

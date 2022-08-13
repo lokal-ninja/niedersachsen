@@ -1,11 +1,11 @@
-id: 410664670
-type: way
-latitude: 51.53662
-longitude: 9.92645
-postcode: "37073"
+id: 9935039209
+type: node
+latitude: 51.53875
+longitude: 9.9494
+postcode: ""
 city: Göttingen
-street: "Bahnhofsplatz"
-housenumber: 1
+street: "Düstere-Eichen-Weg"
+housenumber: 34
 phone: ""
-opening_hours: "Mo-Fr 05:00-20:00; Sa,Su,PH 07:00-19:00"
+opening_hours: "off"
 website: ""

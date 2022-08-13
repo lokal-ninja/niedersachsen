@@ -1,11 +1,11 @@
-id: 244982612
-type: way
-latitude: 53.03958
-longitude: 8.59255
+id: 378092763
+type: node
+latitude: 53.05531
+longitude: 8.63092
 postcode: "27753"
 city: Delmenhorst
-street: "Wildeshauser Straße"
-housenumber: 50
+street: "Weberstraße"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: ""
+website: ""

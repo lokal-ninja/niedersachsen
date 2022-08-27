@@ -1,5 +1,5 @@
 ---
-title: "Lieblingsstück"
+title: "lieblingsstück"
 url: /emden/lieblingsstueck/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Möbelhalle Oslebshausen"
 url: /bremen/moebelhalle-oslebshausen/
-shop: Möbel
+shop: Gebrauchtwaren
 ---

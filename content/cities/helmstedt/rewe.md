@@ -1,5 +1,5 @@
 ---
-title: "Rewe"
+title: "REWE"
 url: /helmstedt/rewe/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Kruse Der Lecker Bäcker"
+title: "Kruse - Der Lecker Bäcker"
 url: /bienenbuettel/kruse-der-lecker-baecker/
 shop: Bäckerei
 ---

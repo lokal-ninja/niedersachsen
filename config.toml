@@ -1,0 +1,20 @@
+baseURL = "https://de.shoogle.net/niedersachsen/"
+languageCode = "de"
+title = "Niedersachsen"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "niedersachsen"
+
+[taxonomies]
+  shop = "shops"
+

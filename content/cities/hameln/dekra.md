@@ -1,5 +1,5 @@
 ---
-title: "Dekra"
+title: "DEKRA"
 url: /hameln/dekra/
 shop: Autowerkstatt
 ---

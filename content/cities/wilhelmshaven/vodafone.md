@@ -1,5 +1,5 @@
 ---
-title: "vodafone"
+title: "Vodafone"
 url: /wilhelmshaven/vodafone/
 shop: Handy
 ---

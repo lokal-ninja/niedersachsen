@@ -1,6 +1,6 @@
 ---
 title: Obernkirchen
 url: /obernkirchen/
-latitude: 52.271
-longitude: 9.13
+latitude: 52.274
+longitude: 9.131
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ostrhauderfehn
 url: /ostrhauderfehn/
-latitude: 53.14
-longitude: 7.619
+latitude: 53.148
+longitude: 7.638
 ---

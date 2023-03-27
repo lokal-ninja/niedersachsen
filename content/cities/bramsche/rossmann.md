@@ -1,5 +1,5 @@
 ---
-title: "ROSSMANN"
+title: "Rossmann"
 url: /bramsche/rossmann/
 shop: Drogerie
 ---

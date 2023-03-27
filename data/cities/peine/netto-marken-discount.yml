@@ -1,11 +1,11 @@
-id: 186824734
-type: way
-latitude: 52.31954
-longitude: 10.24681
-postcode: "31224"
+id: 286231738
+type: node
+latitude: 52.34721
+longitude: 10.24066
+postcode: "31228"
 city: Peine
-street: "Woltorfer Straße"
-housenumber: 96
+street: "Peiner Straße"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: ""

@@ -1,11 +1,11 @@
-id: 238224160
+id: 252162470
 type: node
-latitude: 53.05807
-longitude: 8.93626
-postcode: "28307"
+latitude: 53.13729
+longitude: 8.74473
+postcode: "28239"
 city: Bremen
-street: "Osterholzer Heerstraße"
-housenumber: 113
+street: "Schragestraße"
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+website: "http://holab.de/"

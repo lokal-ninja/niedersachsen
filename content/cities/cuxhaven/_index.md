@@ -1,6 +1,6 @@
 ---
 title: Cuxhaven
 url: /cuxhaven/
-latitude: 53.885
-longitude: 8.643
+latitude: 53.853
+longitude: 8.712
 ---

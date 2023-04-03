@@ -1,6 +1,6 @@
 ---
 title: Wittmund
 url: /wittmund/
-latitude: 53.572
-longitude: 7.783
+latitude: 53.574
+longitude: 7.775
 ---

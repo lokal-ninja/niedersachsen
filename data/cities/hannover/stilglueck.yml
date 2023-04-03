@@ -7,5 +7,5 @@ city: Hannover
 street: "Fiedelerplatz"
 housenumber: 1
 phone: ""
-opening_hours: "Mo 16:30-18:30; Tu 10:30-13:00,15:00-18:00; We 10:30-13:00; Th 10:30-13:00,15:00-18:00; Fr 10:00-13:00,15:00-18:00,10:00-14:00"
+opening_hours: "Mo 16:30-18:30; Tu,Th,Fr 10:30-13:00,15:30-18:00; We 10:30-13:00; Sa 10:30-13:00"
 website: ""

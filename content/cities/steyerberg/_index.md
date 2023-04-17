@@ -1,6 +1,6 @@
 ---
 title: Steyerberg
 url: /steyerberg/
-latitude: 52.564
-longitude: 9.028
+latitude: 52.568
+longitude: 9.027
 ---

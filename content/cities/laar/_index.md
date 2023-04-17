@@ -1,6 +1,6 @@
 ---
 title: Laar
 url: /laar/
-latitude: 52.616
-longitude: 6.755
+latitude: 52.626
+longitude: 6.757
 ---

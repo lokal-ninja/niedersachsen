@@ -1,11 +1,11 @@
-id: 92445385
-type: way
-latitude: 53.53724
-longitude: 7.5948
-postcode: "26607"
+id: 10871365035
+type: node
+latitude: 53.53742
+longitude: 7.59465
+postcode: ""
 city: Aurich
-street: "Hengstforde"
-housenumber: 1
+street: ""
+housenumber: 
 phone: "+49 4947 9177-0"
-opening_hours: "Mo-We 10:00-18:00, Th 10:00-20:00, Fr 10:00-18:00, Sa 09:00-14:00"
+opening_hours: "Mo-We, Fr 10:00-18:00; Th 10:00-20:00; Sa 09:00-14:00; Sa[1] 09:00-16:00"
 website: "https://www.heiken-kuechen.de/"

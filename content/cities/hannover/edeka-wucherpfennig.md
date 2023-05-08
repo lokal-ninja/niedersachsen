@@ -1,5 +1,5 @@
 ---
-title: "Edeka Wucherpfennig"
+title: "EDEKA Wucherpfennig"
 url: /hannover/edeka-wucherpfennig/
 shop: Supermarkt
 ---

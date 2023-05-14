@@ -1,6 +1,6 @@
 ---
 title: Schwülper
 url: /schwuelper/
-latitude: 52.354
-longitude: 10.434
+latitude: 52.355
+longitude: 10.44
 ---

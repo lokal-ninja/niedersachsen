@@ -1,6 +1,6 @@
 ---
 title: Wischhafen
 url: /wischhafen/
-latitude: 53.78
-longitude: 9.323
+latitude: 53.768
+longitude: 9.32
 ---

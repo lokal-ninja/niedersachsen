@@ -7,5 +7,5 @@ city: Hannover
 street: "Jakobistraße"
 housenumber: 2
 phone: "+49 511 70036780"
-opening_hours: "Mo-FR 07:00-17:00, Sa-So 08:00-16:00"
+opening_hours: "Mo-Fr 07:00-17:00, Sa,Su 08:00-16:00"
 website: "www.goeing.de"

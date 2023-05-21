@@ -1,5 +1,5 @@
 ---
-title: "WÜRTH"
+title: "Würth"
 url: /hameln/wuerth/
-shop: Baustoffe
+shop: Eisenwaren
 ---

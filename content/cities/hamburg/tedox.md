@@ -1,5 +1,5 @@
 ---
-title: "tedox"
+title: "Tedox"
 url: /hamburg/tedox/
 shop: Baumarkt
 ---

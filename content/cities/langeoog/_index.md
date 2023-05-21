@@ -1,6 +1,6 @@
 ---
 title: Langeoog
 url: /langeoog/
-latitude: 53.749
-longitude: 7.482
+latitude: 53.747
+longitude: 7.481
 ---

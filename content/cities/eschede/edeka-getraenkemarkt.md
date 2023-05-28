@@ -1,5 +1,5 @@
 ---
 title: "Edeka Getränkemarkt"
 url: /eschede/edeka-getraenkemarkt/
-shop: Getränke
+shop: Supermarkt
 ---

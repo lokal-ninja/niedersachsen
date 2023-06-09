@@ -1,5 +1,5 @@
 ---
-title: "Le creuset"
+title: "Le Creuset"
 url: /soltau/le-creuset/
-shop: Küchen
+shop: Haushaltsartikel
 ---

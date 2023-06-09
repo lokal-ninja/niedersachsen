@@ -1,5 +1,5 @@
 ---
-title: "asics"
+title: "ASICS"
 url: /soltau/asics/
-shop: Kleidung
+shop: Schuhe
 ---

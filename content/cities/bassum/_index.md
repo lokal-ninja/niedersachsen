@@ -1,6 +1,6 @@
 ---
 title: Bassum
 url: /bassum/
-latitude: 52.846
-longitude: 8.726
+latitude: 52.847
+longitude: 8.735
 ---

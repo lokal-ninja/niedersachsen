@@ -1,6 +1,6 @@
 ---
 title: Hohne
 url: /hohne/
-latitude: 52.591
-longitude: 10.387
+latitude: 52.589
+longitude: 10.376
 ---

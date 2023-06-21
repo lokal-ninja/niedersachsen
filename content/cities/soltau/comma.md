@@ -1,5 +1,5 @@
 ---
-title: "comma"
+title: "Comma"
 url: /soltau/comma/
 shop: Kleidung
 ---

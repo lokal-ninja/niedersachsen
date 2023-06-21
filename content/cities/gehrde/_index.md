@@ -1,6 +1,6 @@
 ---
 title: Gehrde
 url: /gehrde/
-latitude: 52.576
-longitude: 7.998
+latitude: 52.58
+longitude: 8
 ---

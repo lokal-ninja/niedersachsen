@@ -1,6 +1,6 @@
 ---
 title: Buchholz in der Nordheide
 url: /buchholz-in-der-nordheide/
-latitude: 53.308
-longitude: 9.803
+latitude: 53.327
+longitude: 9.875
 ---

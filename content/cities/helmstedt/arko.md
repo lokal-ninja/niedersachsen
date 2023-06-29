@@ -1,5 +1,5 @@
 ---
-title: "Arko"
+title: "arko"
 url: /helmstedt/arko/
-shop: Schokolade
+shop: Süßwaren
 ---

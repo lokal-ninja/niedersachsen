@@ -1,5 +1,5 @@
 ---
-title: "Rapin"
+title: "rapin"
 url: /quakenbrueck/rapin/
-shop: Schmuck
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Kind Hörgeräte"
+title: "KIND Hörgeräte"
 url: /helmstedt/kind-hoergeraete/
 shop: Hörgeräte
 ---

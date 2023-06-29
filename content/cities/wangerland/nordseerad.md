@@ -1,5 +1,5 @@
 ---
-title: "Nordseerad"
+title: "nordseerad"
 url: /wangerland/nordseerad/
 shop: Fahrrad
 ---

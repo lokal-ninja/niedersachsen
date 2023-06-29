@@ -1,5 +1,5 @@
 ---
-title: "Aldi Nord"
+title: "ALDI Nord"
 url: /bad-bevensen/aldi-nord/
 shop: Supermarkt
 ---

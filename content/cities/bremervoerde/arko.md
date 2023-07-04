@@ -1,5 +1,5 @@
 ---
-title: "Arko"
+title: "arko"
 url: /bremervoerde/arko/
-shop: Warenhaus
+shop: Feinkost
 ---

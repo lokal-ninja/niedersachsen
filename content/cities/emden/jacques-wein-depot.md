@@ -1,5 +1,5 @@
 ---
-title: "Jacques' Wein-Depot"
+title: "Jacques’ Wein-Depot"
 url: /emden/jacques-wein-depot/
-shop: Spirituosen
+shop: Wein
 ---

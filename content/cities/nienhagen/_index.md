@@ -1,6 +1,6 @@
 ---
 title: Nienhagen
 url: /nienhagen/
-latitude: 52.557
-longitude: 10.107
+latitude: 52.559
+longitude: 10.089
 ---

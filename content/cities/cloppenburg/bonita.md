@@ -1,5 +1,5 @@
 ---
-title: "Bonita"
+title: "BONITA"
 url: /cloppenburg/bonita/
 shop: Kleidung
 ---

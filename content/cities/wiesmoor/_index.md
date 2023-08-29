@@ -1,6 +1,6 @@
 ---
 title: Wiesmoor
 url: /wiesmoor/
-latitude: 53.408
-longitude: 7.725
+latitude: 53.415
+longitude: 7.737
 ---

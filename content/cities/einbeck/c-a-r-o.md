@@ -1,5 +1,5 @@
 ---
-title: "C.A.R.O"
+title: "c.a.r.o"
 url: /einbeck/c-a-r-o/
 shop: Kleidung
 ---

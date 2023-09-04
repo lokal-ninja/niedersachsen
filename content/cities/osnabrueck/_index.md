@@ -1,6 +1,6 @@
 ---
 title: Osnabrück
 url: /osnabrueck/
-latitude: 52.288
-longitude: 8.032
+latitude: 52.265
+longitude: 8.005
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /papenburg/combi/
+url: /papenburg/combi-an-den-bleicherkolken/
 shop: Supermarkt
 ---

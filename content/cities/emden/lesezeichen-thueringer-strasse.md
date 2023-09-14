@@ -1,5 +1,5 @@
 ---
 title: "Lesezeichen"
-url: /emden/lesezeichen/
+url: /emden/lesezeichen-thueringer-strasse/
 shop: Bücher
 ---

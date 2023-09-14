@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /cloppenburg/deichmann/
+url: /cloppenburg/deichmann-cappelner-strasse/
 shop: Schuhe
 ---

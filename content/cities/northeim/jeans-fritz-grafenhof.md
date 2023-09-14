@@ -1,5 +1,5 @@
 ---
 title: "Jeans Fritz"
-url: /northeim/jeans-fritz/
+url: /northeim/jeans-fritz-grafenhof/
 shop: Kleidung
 ---

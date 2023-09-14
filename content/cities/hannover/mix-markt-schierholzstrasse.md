@@ -1,5 +1,5 @@
 ---
 title: "Mix Markt"
-url: /hannover/mix-markt/
+url: /hannover/mix-markt-schierholzstrasse/
 shop: Supermarkt
 ---

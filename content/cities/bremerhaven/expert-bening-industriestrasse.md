@@ -1,5 +1,5 @@
 ---
 title: "Expert Bening"
-url: /bremerhaven/expert-bening/
+url: /bremerhaven/expert-bening-industriestrasse/
 shop: Elektronik
 ---

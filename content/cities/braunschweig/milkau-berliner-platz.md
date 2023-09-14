@@ -1,5 +1,5 @@
 ---
 title: "Milkau"
-url: /braunschweig/milkau/
+url: /braunschweig/milkau-berliner-platz/
 shop: Bäckerei
 ---

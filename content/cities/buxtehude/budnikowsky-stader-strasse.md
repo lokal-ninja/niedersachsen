@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /buxtehude/budnikowsky/
+url: /buxtehude/budnikowsky-stader-strasse/
 shop: Drogerie
 ---

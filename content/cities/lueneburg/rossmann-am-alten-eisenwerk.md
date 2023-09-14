@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /lueneburg/rossmann/
+url: /lueneburg/rossmann-am-alten-eisenwerk/
 shop: Drogerie
 ---

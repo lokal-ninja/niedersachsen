@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /goettingen/aldi/
+url: /goettingen/aldi-alfred-delp-weg/
 shop: Supermarkt
 ---

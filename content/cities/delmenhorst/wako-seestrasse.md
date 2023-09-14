@@ -1,5 +1,5 @@
 ---
 title: "Wako"
-url: /delmenhorst/wako/
+url: /delmenhorst/wako-seestrasse/
 shop: Autohaus
 ---

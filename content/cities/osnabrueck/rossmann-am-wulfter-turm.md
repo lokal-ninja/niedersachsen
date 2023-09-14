@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /osnabrueck/rossmann/
+url: /osnabrueck/rossmann-am-wulfter-turm/
 shop: Drogerie
 ---

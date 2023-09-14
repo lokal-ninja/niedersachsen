@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /meppen/lidl/
+url: /meppen/lidl-fuerstenbergstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /wurster-nordseekueste/lidl/
+url: /wurster-nordseekueste/lidl-oderstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wüstefeld"
-url: /goettingen/wuestefeld/
+url: /goettingen/wuestefeld-gesundbrunnen/
 shop: Bäckerei
 ---

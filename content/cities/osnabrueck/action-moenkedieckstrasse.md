@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /osnabrueck/action/
+url: /osnabrueck/action-moenkedieckstrasse/
 shop: Kramladen
 ---

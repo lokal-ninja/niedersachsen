@@ -1,5 +1,5 @@
 ---
 title: "ruch"
-url: /goettingen/ruch/
+url: /goettingen/ruch-hauptstrasse/
 shop: Bäckerei
 ---

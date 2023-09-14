@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /wolfsburg/steinecke/
+url: /wolfsburg/steinecke-berliner-ring/
 shop: Bäckerei
 ---

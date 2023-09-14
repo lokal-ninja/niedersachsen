@@ -1,5 +1,5 @@
 ---
 title: "Fön-ix"
-url: /hildesheim/foen-ix/
+url: /hildesheim/foen-ix-dingworthstrasse/
 shop: Friseur
 ---

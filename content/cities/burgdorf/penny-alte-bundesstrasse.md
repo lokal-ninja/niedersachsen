@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /burgdorf/penny/
+url: /burgdorf/penny-alte-bundesstrasse/
 shop: Supermarkt
 ---

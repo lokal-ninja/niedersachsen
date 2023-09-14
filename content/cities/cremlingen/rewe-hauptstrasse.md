@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /cremlingen/rewe/
+url: /cremlingen/rewe-hauptstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /bremen/thalia/
+url: /bremen/thalia-alter-dorfweg/
 shop: Bücher
 ---

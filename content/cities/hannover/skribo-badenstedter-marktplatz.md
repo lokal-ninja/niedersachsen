@@ -1,5 +1,5 @@
 ---
 title: "SKRIBO"
-url: /hannover/skribo/
+url: /hannover/skribo-badenstedter-marktplatz/
 shop: Schreibwaren
 ---

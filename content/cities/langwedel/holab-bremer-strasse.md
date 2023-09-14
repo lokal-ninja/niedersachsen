@@ -1,5 +1,5 @@
 ---
 title: "Hol'ab"
-url: /langwedel/holab/
+url: /langwedel/holab-bremer-strasse/
 shop: Getränke
 ---

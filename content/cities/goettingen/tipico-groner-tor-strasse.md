@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /goettingen/tipico/
+url: /goettingen/tipico-groner-tor-strasse/
 shop: Wettbüro
 ---

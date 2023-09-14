@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /sarstedt/rewe/
+url: /sarstedt/rewe-moorberg/
 shop: Supermarkt
 ---

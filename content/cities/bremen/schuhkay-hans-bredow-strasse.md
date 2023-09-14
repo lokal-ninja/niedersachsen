@@ -1,5 +1,5 @@
 ---
 title: "Schuhkay"
-url: /bremen/schuhkay/
+url: /bremen/schuhkay-hans-bredow-strasse/
 shop: Schuhe
 ---

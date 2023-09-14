@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /bremen/douglas/
+url: /bremen/douglas-hans-bredow-strasse/
 shop: Parfümerie
 ---

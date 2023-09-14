@@ -1,5 +1,5 @@
 ---
 title: "Haarologie"
-url: /braunschweig/haarologie/
+url: /braunschweig/haarologie-ligusterweg/
 shop: Friseur
 ---

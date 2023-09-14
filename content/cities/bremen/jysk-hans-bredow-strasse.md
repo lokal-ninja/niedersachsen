@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /bremen/jysk/
+url: /bremen/jysk-hans-bredow-strasse/
 shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
-url: /peine/tui/
+url: /peine/tui-breite-strasse/
 shop: Reisebüro
 ---

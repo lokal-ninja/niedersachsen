@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
-url: /bremen/rituals/
+url: /bremen/rituals-2/
 shop: Kosmetik
 ---

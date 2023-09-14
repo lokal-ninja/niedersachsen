@@ -1,5 +1,5 @@
 ---
 title: "Nanu-Nana"
-url: /oldenburg/nanu-nana/
+url: /oldenburg/nanu-nana-achternstrasse/
 shop: Andenken
 ---

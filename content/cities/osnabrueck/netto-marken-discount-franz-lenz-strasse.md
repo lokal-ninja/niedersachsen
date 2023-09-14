@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /osnabrueck/netto-marken-discount/
+url: /osnabrueck/netto-marken-discount-franz-lenz-strasse/
 shop: Supermarkt
 ---

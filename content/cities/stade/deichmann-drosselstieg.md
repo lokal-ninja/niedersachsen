@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /stade/deichmann/
+url: /stade/deichmann-drosselstieg/
 shop: Schuhe
 ---

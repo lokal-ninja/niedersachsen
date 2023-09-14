@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /gifhorn/fressnapf/
+url: /gifhorn/fressnapf-braunschweiger-strasse/
 shop: Tiere
 ---

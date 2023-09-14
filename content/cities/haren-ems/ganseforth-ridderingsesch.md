@@ -1,5 +1,5 @@
 ---
 title: "Ganseforth"
-url: /haren-ems/ganseforth/
+url: /haren-ems/ganseforth-ridderingsesch/
 shop: Bäckerei
 ---

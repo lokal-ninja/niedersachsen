@@ -1,5 +1,5 @@
 ---
 title: "Leifert"
-url: /wolfsburg/leifert/
+url: /wolfsburg/leifert-detmeroder-markt/
 shop: Bäckerei
 ---

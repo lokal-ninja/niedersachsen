@@ -1,5 +1,5 @@
 ---
 title: "Peinemann"
-url: /braunlage/peinemann/
+url: /braunlage/peinemann-am-buchholzplatz/
 shop: Autowerkstatt
 ---

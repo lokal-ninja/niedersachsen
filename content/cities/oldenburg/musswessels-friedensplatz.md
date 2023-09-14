@@ -1,5 +1,5 @@
 ---
 title: "MussWessels"
-url: /oldenburg/musswessels/
+url: /oldenburg/musswessels-friedensplatz/
 shop: Bäckerei
 ---

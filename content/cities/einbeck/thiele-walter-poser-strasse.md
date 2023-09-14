@@ -1,5 +1,5 @@
 ---
 title: "Thiele"
-url: /einbeck/thiele/
+url: /einbeck/thiele-walter-poser-strasse/
 shop: Bäckerei
 ---

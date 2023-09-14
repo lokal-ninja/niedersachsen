@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /bremen/edeka/
+url: /bremen/edeka-meinert-loeffler-strasse/
 shop: Supermarkt
 ---

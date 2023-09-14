@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /wilhelmshaven/deichmann/
+url: /wilhelmshaven/deichmann-goekerstrasse/
 shop: Schuhe
 ---

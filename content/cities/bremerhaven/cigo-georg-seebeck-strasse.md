@@ -1,5 +1,5 @@
 ---
 title: "Cigo"
-url: /bremerhaven/cigo/
+url: /bremerhaven/cigo-georg-seebeck-strasse/
 shop: Zeitungen
 ---

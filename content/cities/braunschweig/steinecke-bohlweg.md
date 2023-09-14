@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /braunschweig/steinecke/
+url: /braunschweig/steinecke-bohlweg/
 shop: Bäckerei
 ---

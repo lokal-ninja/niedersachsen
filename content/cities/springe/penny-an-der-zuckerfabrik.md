@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /springe/penny/
+url: /springe/penny-an-der-zuckerfabrik/
 shop: Supermarkt
 ---

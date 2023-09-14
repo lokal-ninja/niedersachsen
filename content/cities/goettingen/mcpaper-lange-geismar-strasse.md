@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /goettingen/mcpaper/
+url: /goettingen/mcpaper-lange-geismar-strasse/
 shop: Schreibwaren
 ---

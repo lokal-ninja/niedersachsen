@@ -1,5 +1,5 @@
 ---
 title: "Hörgeräte Böckhoff"
-url: /braunschweig/hoergeraete-boeckhoff/
+url: /braunschweig/hoergeraete-boeckhoff-elbestrasse/
 shop: Hörgeräte
 ---

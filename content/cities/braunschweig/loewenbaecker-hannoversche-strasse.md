@@ -1,5 +1,5 @@
 ---
 title: "Löwenbäcker"
-url: /braunschweig/loewenbaecker/
+url: /braunschweig/loewenbaecker-hannoversche-strasse/
 shop: Bäckerei
 ---

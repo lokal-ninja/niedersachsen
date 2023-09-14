@@ -1,5 +1,5 @@
 ---
 title: "Knolles Markt"
-url: /seevetal/knolles-markt/
+url: /seevetal/knolles-markt-ohlendorfer-strasse/
 shop: Supermarkt
 ---

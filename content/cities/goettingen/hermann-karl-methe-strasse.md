@@ -1,5 +1,5 @@
 ---
 title: "Hermann"
-url: /goettingen/hermann/
+url: /goettingen/hermann-karl-methe-strasse/
 shop: Bäckerei
 ---

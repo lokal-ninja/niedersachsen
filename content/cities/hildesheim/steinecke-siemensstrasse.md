@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /hildesheim/steinecke/
+url: /hildesheim/steinecke-siemensstrasse/
 shop: Bäckerei
 ---

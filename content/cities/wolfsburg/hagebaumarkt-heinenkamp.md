@@ -1,5 +1,5 @@
 ---
 title: "Hagebaumarkt"
-url: /wolfsburg/hagebaumarkt/
+url: /wolfsburg/hagebaumarkt-heinenkamp/
 shop: Baumarkt
 ---

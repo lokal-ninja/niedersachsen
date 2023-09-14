@@ -1,5 +1,5 @@
 ---
 title: "Hol'ab"
-url: /hannover/holab/
+url: /hannover/holab-alte-stoeckener-strasse/
 shop: Getränke
 ---

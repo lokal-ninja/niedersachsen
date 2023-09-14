@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hoffmann"
-url: /oldenburg/getraenke-hoffmann/
+url: /oldenburg/getraenke-hoffmann-bremer-heerstrasse/
 shop: Getränke
 ---

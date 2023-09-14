@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /langenhagen/klier/
+url: /langenhagen/klier-marktplatz/
 shop: Friseur
 ---

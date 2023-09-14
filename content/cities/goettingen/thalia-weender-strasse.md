@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /goettingen/thalia/
+url: /goettingen/thalia-weender-strasse/
 shop: Bücher
 ---

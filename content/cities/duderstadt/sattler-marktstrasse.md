@@ -1,5 +1,5 @@
 ---
 title: "Sattler"
-url: /duderstadt/sattler/
+url: /duderstadt/sattler-marktstrasse/
 shop: Hörgeräte
 ---

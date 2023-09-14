@@ -1,5 +1,5 @@
 ---
 title: "McClean SB-Waschsalon"
-url: /goettingen/mcclean-sb-waschsalon/
+url: /goettingen/mcclean-sb-waschsalon-hannoversche-strasse/
 shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oecotop"
-url: /bremen/oecotop/
+url: /bremen/oecotop-friedrich-karl-strasse/
 shop: Lebensmittel
 ---

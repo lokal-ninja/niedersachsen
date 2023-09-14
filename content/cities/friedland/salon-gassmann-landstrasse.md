@@ -1,5 +1,5 @@
 ---
 title: "Salon Gassmann"
-url: /friedland/salon-gassmann/
+url: /friedland/salon-gassmann-landstrasse/
 shop: Friseur
 ---

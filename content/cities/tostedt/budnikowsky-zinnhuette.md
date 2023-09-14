@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /tostedt/budnikowsky/
+url: /tostedt/budnikowsky-zinnhuette/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Getränke-Quelle"
-url: /goettingen/getraenke-quelle/
+url: /goettingen/getraenke-quelle-grosse-breite/
 shop: Getränke
 ---

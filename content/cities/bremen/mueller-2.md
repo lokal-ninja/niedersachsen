@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /bremen/mueller/
+url: /bremen/mueller-2/
 shop: Drogerie
 ---

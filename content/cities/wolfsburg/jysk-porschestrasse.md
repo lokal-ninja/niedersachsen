@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /wolfsburg/jysk/
+url: /wolfsburg/jysk-porschestrasse/
 shop: Möbel
 ---

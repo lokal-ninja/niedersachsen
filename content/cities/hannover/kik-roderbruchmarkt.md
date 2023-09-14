@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /hannover/kik/
+url: /hannover/kik-roderbruchmarkt/
 shop: Kleidung
 ---

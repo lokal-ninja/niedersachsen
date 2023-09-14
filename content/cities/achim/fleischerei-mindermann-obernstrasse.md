@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Mindermann"
-url: /achim/fleischerei-mindermann/
+url: /achim/fleischerei-mindermann-obernstrasse/
 shop: Metzgerei
 ---

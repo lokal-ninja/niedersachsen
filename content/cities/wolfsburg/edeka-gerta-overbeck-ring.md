@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /wolfsburg/edeka/
+url: /wolfsburg/edeka-gerta-overbeck-ring/
 shop: Supermarkt
 ---

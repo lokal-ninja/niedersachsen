@@ -1,5 +1,5 @@
 ---
 title: "Aleco"
-url: /bremen/aleco/
+url: /bremen/aleco-kirchweg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /brake-unterweser/netto-marken-discount/
+url: /brake-unterweser/netto-marken-discount-sinaburger-strasse/
 shop: Supermarkt
 ---

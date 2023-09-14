@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /garbsen/netto-marken-discount/
+url: /garbsen/netto-marken-discount-feldriethe/
 shop: Supermarkt
 ---

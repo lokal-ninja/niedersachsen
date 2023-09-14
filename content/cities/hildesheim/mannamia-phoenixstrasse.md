@@ -1,5 +1,5 @@
 ---
 title: "Mannamia"
-url: /hildesheim/mannamia/
+url: /hildesheim/mannamia-phoenixstrasse/
 shop: Bäckerei
 ---

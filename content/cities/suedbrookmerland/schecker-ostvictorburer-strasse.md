@@ -1,5 +1,5 @@
 ---
 title: "Schecker"
-url: /suedbrookmerland/schecker/
+url: /suedbrookmerland/schecker-ostvictorburer-strasse/
 shop: Allgemein
 ---

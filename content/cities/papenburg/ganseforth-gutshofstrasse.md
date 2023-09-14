@@ -1,5 +1,5 @@
 ---
 title: "Ganseforth"
-url: /papenburg/ganseforth/
+url: /papenburg/ganseforth-gutshofstrasse/
 shop: Bäckerei
 ---

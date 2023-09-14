@@ -1,5 +1,5 @@
 ---
 title: "Shabbythek"
-url: /luechow/shabbythek/
+url: /luechow/shabbythek-lange-strasse/
 shop: Raumausstattung
 ---

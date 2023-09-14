@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäckerei Engelbrecht"
-url: /bremerhaven/stadtbaeckerei-engelbrecht/
+url: /bremerhaven/stadtbaeckerei-engelbrecht-friedrich-ebert-strasse/
 shop: Bäckerei
 ---

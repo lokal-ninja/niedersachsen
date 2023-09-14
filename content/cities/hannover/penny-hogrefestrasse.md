@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /hannover/penny/
+url: /hannover/penny-hogrefestrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "mannamia"
-url: /goettingen/mannamia/
+url: /goettingen/mannamia-groner-strasse/
 shop: Bäckerei
 ---

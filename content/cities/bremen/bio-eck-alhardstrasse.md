@@ -1,5 +1,5 @@
 ---
 title: "Bio-Eck"
-url: /bremen/bio-eck/
+url: /bremen/bio-eck-alhardstrasse/
 shop: Lebensmittel
 ---

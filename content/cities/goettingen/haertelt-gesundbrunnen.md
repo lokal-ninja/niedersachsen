@@ -1,5 +1,5 @@
 ---
 title: "Härtelt"
-url: /goettingen/haertelt/
+url: /goettingen/haertelt-gesundbrunnen/
 shop: Friseur
 ---

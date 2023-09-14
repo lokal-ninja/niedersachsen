@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /cuxhaven/lidl/
+url: /cuxhaven/lidl-gruener-weg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biwak"
-url: /oldenburg/biwak/
+url: /oldenburg/biwak-haarenstrasse/
 shop: Kleidung
 ---

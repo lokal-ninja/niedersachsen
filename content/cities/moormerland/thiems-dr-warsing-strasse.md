@@ -1,5 +1,5 @@
 ---
 title: "Thiems"
-url: /moormerland/thiems/
+url: /moormerland/thiems-dr-warsing-strasse/
 shop: Möbel
 ---

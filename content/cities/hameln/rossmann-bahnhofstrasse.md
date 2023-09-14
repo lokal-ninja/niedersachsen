@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /hameln/rossmann/
+url: /hameln/rossmann-bahnhofstrasse/
 shop: Drogerie
 ---

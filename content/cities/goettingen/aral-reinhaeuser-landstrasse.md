@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /goettingen/aral/
+url: /goettingen/aral-reinhaeuser-landstrasse/
 shop: Kiosk
 ---

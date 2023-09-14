@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /wolfsburg/fressnapf/
+url: /wolfsburg/fressnapf-an-der-meine/
 shop: Tiere
 ---

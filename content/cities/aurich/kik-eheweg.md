@@ -1,5 +1,5 @@
 ---
 title: "KIK"
-url: /aurich/kik/
+url: /aurich/kik-eheweg/
 shop: Kleidung
 ---

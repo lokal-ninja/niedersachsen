@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
-url: /wallenhorst/nissan/
+url: /wallenhorst/nissan-osnabruecker-strasse/
 shop: Autowerkstatt
 ---

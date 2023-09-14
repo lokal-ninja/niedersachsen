@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /bremerhaven/fielmann/
+url: /bremerhaven/fielmann-grashoffstrasse/
 shop: Optiker
 ---

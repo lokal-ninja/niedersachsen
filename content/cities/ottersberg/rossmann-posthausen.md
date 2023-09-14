@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /ottersberg/rossmann/
+url: /ottersberg/rossmann-posthausen/
 shop: Drogerie
 ---

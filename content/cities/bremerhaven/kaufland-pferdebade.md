@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /bremerhaven/kaufland/
+url: /bremerhaven/kaufland-pferdebade/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barnstorff"
-url: /bremen/barnstorff/
+url: /bremen/barnstorff-pastorenweg/
 shop: Bäckerei
 ---

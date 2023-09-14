@@ -1,5 +1,5 @@
 ---
 title: "Saturn"
-url: /bremen/saturn/
+url: /bremen/saturn-duckwitzstrasse/
 shop: Elektronik
 ---

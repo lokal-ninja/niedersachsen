@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /goettingen/nahkauf/
+url: /goettingen/nahkauf-hauptstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /hannover/dm/
+url: /hannover/dm-ernst-august-platz/
 shop: Drogerie
 ---

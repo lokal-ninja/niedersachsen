@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /wunstorf/lidl/
+url: /wunstorf/lidl-hagenburger-strasse/
 shop: Supermarkt
 ---

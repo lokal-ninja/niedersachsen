@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /lueneburg/budnikowsky/
+url: /lueneburg/budnikowsky-bei-der-keulahuette/
 shop: Drogerie
 ---

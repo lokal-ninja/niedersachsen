@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /duderstadt/rossmann/
+url: /duderstadt/rossmann-sachsenring/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /drochtersen/rewe/
+url: /drochtersen/rewe-sietwender-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /goettingen/kaufland/
+url: /goettingen/kaufland-kurze-geismar-strasse/
 shop: Supermarkt
 ---

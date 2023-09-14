@@ -1,5 +1,5 @@
 ---
 title: "Ganseforth"
-url: /soegel/ganseforth/
+url: /soegel/ganseforth-sigiltrastrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /braunschweig/klier/
+url: /braunschweig/klier-2/
 shop: Friseur
 ---

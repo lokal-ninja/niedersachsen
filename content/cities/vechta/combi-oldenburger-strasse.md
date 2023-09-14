@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /vechta/combi/
+url: /vechta/combi-oldenburger-strasse/
 shop: Supermarkt
 ---

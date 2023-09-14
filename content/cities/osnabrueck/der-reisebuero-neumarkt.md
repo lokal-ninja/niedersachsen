@@ -1,5 +1,5 @@
 ---
 title: "DER Reisebüro"
-url: /osnabrueck/der-reisebuero/
+url: /osnabrueck/der-reisebuero-neumarkt/
 shop: Reisebüro
 ---

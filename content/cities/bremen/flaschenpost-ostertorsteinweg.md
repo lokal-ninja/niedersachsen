@@ -1,5 +1,5 @@
 ---
 title: "Flaschenpost"
-url: /bremen/flaschenpost/
+url: /bremen/flaschenpost-ostertorsteinweg/
 shop: Kiosk
 ---

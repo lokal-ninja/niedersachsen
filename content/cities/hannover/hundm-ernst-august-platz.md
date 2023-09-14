@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /hannover/hundm/
+url: /hannover/hundm-ernst-august-platz/
 shop: Kleidung
 ---

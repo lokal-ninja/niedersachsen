@@ -1,5 +1,5 @@
 ---
 title: "Rector"
-url: /emden/rector/
+url: /emden/rector-hansastrasse/
 shop: Bäckerei
 ---

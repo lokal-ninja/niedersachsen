@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /oldenburg/penny/
+url: /oldenburg/penny-nadorster-strasse/
 shop: Supermarkt
 ---

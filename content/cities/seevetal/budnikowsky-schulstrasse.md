@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /seevetal/budnikowsky/
+url: /seevetal/budnikowsky-schulstrasse/
 shop: Drogerie
 ---

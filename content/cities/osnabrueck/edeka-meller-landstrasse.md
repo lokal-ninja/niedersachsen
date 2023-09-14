@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /osnabrueck/edeka/
+url: /osnabrueck/edeka-meller-landstrasse/
 shop: Supermarkt
 ---

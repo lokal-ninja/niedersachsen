@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /goettingen/kik/
+url: /goettingen/kik-maschmuehlenweg/
 shop: Kleidung
 ---

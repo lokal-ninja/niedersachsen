@@ -1,5 +1,5 @@
 ---
 title: "Ganseforth"
-url: /meppen/ganseforth/
+url: /meppen/ganseforth-fuerstenbergstrasse/
 shop: Bäckerei
 ---

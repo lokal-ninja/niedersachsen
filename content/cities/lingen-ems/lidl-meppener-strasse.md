@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /lingen-ems/lidl/
+url: /lingen-ems/lidl-meppener-strasse/
 shop: Supermarkt
 ---

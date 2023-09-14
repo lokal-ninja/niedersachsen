@@ -1,5 +1,5 @@
 ---
 title: "Dost"
-url: /hildesheim/dost/
+url: /hildesheim/dost-porschestrasse/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /goettingen/vodafone/
+url: /goettingen/vodafone-am-kauf-park/
 shop: Handy
 ---

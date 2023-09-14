@@ -1,5 +1,5 @@
 ---
 title: "Herzapfelhof"
-url: /jork/herzapfelhof/
+url: /jork/herzapfelhof-osterjork/
 shop: Hofladen
 ---

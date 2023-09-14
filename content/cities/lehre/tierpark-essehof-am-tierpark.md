@@ -1,5 +1,5 @@
 ---
 title: "Tierpark Essehof"
-url: /lehre/tierpark-essehof/
+url: /lehre/tierpark-essehof-am-tierpark/
 shop: Tickets
 ---

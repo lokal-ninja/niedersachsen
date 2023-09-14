@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /aurich/tedi/
+url: /aurich/tedi-fischteichweg/
 shop: Kramladen
 ---

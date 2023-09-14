@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /walsrode/rossmann/
+url: /walsrode/rossmann-moorstrasse/
 shop: Drogerie
 ---

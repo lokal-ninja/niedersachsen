@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /bremen/amplifon/
+url: /bremen/amplifon-kirchhuchtinger-landstrasse/
 shop: Hörgeräte
 ---

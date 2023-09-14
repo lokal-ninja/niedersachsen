@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /burgwedel/penny/
+url: /burgwedel/penny-hauptstrasse/
 shop: Supermarkt
 ---

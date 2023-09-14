@@ -1,5 +1,5 @@
 ---
 title: "TUI"
-url: /rastede/tui/
+url: /rastede/tui-oldenburger-strasse/
 shop: Reisebüro
 ---

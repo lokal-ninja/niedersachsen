@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /wolfsburg/kik/
+url: /wolfsburg/kik-hehlinger-strasse/
 shop: Kleidung
 ---

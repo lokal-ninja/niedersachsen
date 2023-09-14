@@ -1,5 +1,5 @@
 ---
 title: "SchuhPark"
-url: /bremen/schuhpark/
+url: /bremen/schuhpark-doelvesstrasse/
 shop: Schuhe
 ---

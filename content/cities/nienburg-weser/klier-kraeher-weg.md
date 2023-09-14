@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /nienburg-weser/klier/
+url: /nienburg-weser/klier-kraeher-weg/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pieper"
-url: /hannover/pieper/
+url: /hannover/pieper-berckhusenstrasse/
 shop: Bäckerei
 ---

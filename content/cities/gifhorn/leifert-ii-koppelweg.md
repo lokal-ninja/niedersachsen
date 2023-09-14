@@ -1,5 +1,5 @@
 ---
 title: "Leifert"
-url: /gifhorn/leifert/
+url: /gifhorn/leifert-ii-koppelweg/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schneider"
-url: /soltau/schneider/
+url: /soltau/schneider-neuer-hagen/
 shop: Fahrrad
 ---

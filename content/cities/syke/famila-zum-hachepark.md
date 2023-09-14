@@ -1,5 +1,5 @@
 ---
 title: "famila"
-url: /syke/famila/
+url: /syke/famila-zum-hachepark/
 shop: Einkaufszentrum
 ---

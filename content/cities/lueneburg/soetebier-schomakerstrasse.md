@@ -1,5 +1,5 @@
 ---
 title: "Soetebier"
-url: /lueneburg/soetebier/
+url: /lueneburg/soetebier-schomakerstrasse/
 shop: Bäckerei
 ---

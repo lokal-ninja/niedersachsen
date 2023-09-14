@@ -1,5 +1,5 @@
 ---
 title: "Tuchtfelds"
-url: /northeim/tuchtfelds/
+url: /northeim/tuchtfelds-goettinger-strasse/
 shop: Bäckerei
 ---

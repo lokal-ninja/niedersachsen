@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /bremen/nahkauf/
+url: /bremen/nahkauf-seewenjestrasse/
 shop: Supermarkt
 ---

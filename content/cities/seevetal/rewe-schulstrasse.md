@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /seevetal/rewe/
+url: /seevetal/rewe-schulstrasse/
 shop: Supermarkt
 ---

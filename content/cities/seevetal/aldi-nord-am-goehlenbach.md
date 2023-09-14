@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /seevetal/aldi-nord/
+url: /seevetal/aldi-nord-am-goehlenbach/
 shop: Supermarkt
 ---

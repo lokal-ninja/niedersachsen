@@ -1,5 +1,5 @@
 ---
 title: "Inselbäckerei Nabrotzky"
-url: /borkum/inselbaeckerei-nabrotzky/
+url: /borkum/inselbaeckerei-nabrotzky-strandstrasse/
 shop: Bäckerei
 ---

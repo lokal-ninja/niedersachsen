@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /nienburg-weser/rossmann/
+url: /nienburg-weser/rossmann-ziegelkampstrasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /bremen/kik/
+url: /bremen/kik-schragestrasse/
 shop: Kleidung
 ---

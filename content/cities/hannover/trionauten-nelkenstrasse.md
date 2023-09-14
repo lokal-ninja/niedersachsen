@@ -1,5 +1,5 @@
 ---
 title: "Trionauten"
-url: /hannover/trionauten/
+url: /hannover/trionauten-nelkenstrasse/
 shop: Friseur
 ---

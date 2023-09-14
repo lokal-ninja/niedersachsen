@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /bremerhaven/deichmann/
+url: /bremerhaven/deichmann-buergermeister-smidt-strasse/
 shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Middelberg"
-url: /osnabrueck/middelberg/
+url: /osnabrueck/middelberg-iburger-strasse/
 shop: Bäckerei
 ---

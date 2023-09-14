@@ -1,5 +1,5 @@
 ---
 title: "Aldi Nord"
-url: /hann-muenden/aldi-nord/
+url: /hann-muenden/aldi-nord-quedlinburger-strasse/
 shop: Supermarkt
 ---

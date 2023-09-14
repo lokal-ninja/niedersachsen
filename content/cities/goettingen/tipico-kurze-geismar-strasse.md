@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /goettingen/tipico/
+url: /goettingen/tipico-kurze-geismar-strasse/
 shop: Wettbüro
 ---

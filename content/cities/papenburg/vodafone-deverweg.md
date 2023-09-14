@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /papenburg/vodafone/
+url: /papenburg/vodafone-deverweg/
 shop: Handy
 ---

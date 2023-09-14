@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /oldenburg/edeka/
+url: /oldenburg/edeka-bloherfelder-strasse/
 shop: Supermarkt
 ---

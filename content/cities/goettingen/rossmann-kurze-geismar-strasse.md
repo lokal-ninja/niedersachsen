@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /goettingen/rossmann/
+url: /goettingen/rossmann-kurze-geismar-strasse/
 shop: Drogerie
 ---

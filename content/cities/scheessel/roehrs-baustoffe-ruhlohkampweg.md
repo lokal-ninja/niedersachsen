@@ -1,5 +1,5 @@
 ---
 title: "Röhrs Baustoffe"
-url: /scheessel/roehrs-baustoffe/
+url: /scheessel/roehrs-baustoffe-ruhlohkampweg/
 shop: Baumarkt
 ---

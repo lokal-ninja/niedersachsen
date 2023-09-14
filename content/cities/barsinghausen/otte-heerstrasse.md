@@ -1,5 +1,5 @@
 ---
 title: "Otte"
-url: /barsinghausen/otte/
+url: /barsinghausen/otte-heerstrasse/
 shop: Optiker
 ---

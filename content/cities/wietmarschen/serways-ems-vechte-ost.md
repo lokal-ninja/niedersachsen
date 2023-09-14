@@ -1,5 +1,5 @@
 ---
 title: "Serways"
-url: /wietmarschen/serways/
+url: /wietmarschen/serways-ems-vechte-ost/
 shop: Dorfladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /bremen/fielmann/
+url: /bremen/fielmann-gerhard-rohlfs-strasse/
 shop: Optiker
 ---

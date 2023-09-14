@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /bremen/cunda/
+url: /bremen/cunda-2/
 shop: Kleidung
 ---

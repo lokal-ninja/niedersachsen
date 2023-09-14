@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /osnabrueck/aldi/
+url: /osnabrueck/aldi-petersburger-wall/
 shop: Supermarkt
 ---

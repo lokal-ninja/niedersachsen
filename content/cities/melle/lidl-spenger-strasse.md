@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /melle/lidl/
+url: /melle/lidl-spenger-strasse/
 shop: Supermarkt
 ---

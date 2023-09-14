@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /oldenburg/douglas/
+url: /oldenburg/douglas-achternstrasse/
 shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /celle/penny/
+url: /celle/penny-hannoversche-heerstrasse/
 shop: Supermarkt
 ---

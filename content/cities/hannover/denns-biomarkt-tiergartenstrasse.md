@@ -1,5 +1,5 @@
 ---
 title: "denn's Biomarkt"
-url: /hannover/denns-biomarkt/
+url: /hannover/denns-biomarkt-tiergartenstrasse/
 shop: Supermarkt
 ---

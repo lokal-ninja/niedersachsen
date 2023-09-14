@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /goettingen/dm/
+url: /goettingen/dm-weender-strasse/
 shop: Drogerie
 ---

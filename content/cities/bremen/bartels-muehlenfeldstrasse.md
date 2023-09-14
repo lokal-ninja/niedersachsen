@@ -1,5 +1,5 @@
 ---
 title: "Bartels"
-url: /bremen/bartels/
+url: /bremen/bartels-muehlenfeldstrasse/
 shop: Fahrrad
 ---

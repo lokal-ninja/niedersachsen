@@ -1,5 +1,5 @@
 ---
 title: "Die Drei"
-url: /isernhagen/die-drei/
+url: /isernhagen/die-drei-dorfstrasse/
 shop: Bäckerei
 ---

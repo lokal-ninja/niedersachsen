@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /buxtehude/rewe/
+url: /buxtehude/rewe-harburger-strasse/
 shop: Supermarkt
 ---

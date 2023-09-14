@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /isernhagen/rossmann/
+url: /isernhagen/rossmann-krendelstrasse/
 shop: Drogerie
 ---

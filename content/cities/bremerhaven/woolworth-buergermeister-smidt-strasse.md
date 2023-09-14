@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /bremerhaven/woolworth/
+url: /bremerhaven/woolworth-buergermeister-smidt-strasse/
 shop: Warenhaus
 ---

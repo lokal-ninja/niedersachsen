@@ -1,5 +1,5 @@
 ---
 title: "Ganseforth"
-url: /weener/ganseforth/
+url: /weener/ganseforth-boenster-strasse/
 shop: Bäckerei
 ---

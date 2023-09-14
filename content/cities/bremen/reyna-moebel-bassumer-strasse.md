@@ -1,5 +1,5 @@
 ---
 title: "Reyna Möbel"
-url: /bremen/reyna-moebel/
+url: /bremen/reyna-moebel-bassumer-strasse/
 shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /hannover/mediamarkt/
+url: /hannover/mediamarkt-vahrenwalder-strasse/
 shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heitmann"
-url: /diepholz/heitmann/
+url: /diepholz/heitmann-willenberg/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /seelze/rossmann/
+url: /seelze/rossmann-lange-feld-strasse/
 shop: Drogerie
 ---

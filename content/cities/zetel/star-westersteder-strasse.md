@@ -1,5 +1,5 @@
 ---
 title: "Star"
-url: /zetel/star/
+url: /zetel/star-westersteder-strasse/
 shop: Allgemein
 ---

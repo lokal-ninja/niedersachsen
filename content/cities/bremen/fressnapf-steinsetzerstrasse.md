@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /bremen/fressnapf/
+url: /bremen/fressnapf-steinsetzerstrasse/
 shop: Tiere
 ---

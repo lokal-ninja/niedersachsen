@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /laatzen/rossmann/
+url: /laatzen/rossmann-hildesheimer-strasse/
 shop: Drogerie
 ---

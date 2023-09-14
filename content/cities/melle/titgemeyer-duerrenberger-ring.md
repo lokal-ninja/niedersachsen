@@ -1,5 +1,5 @@
 ---
 title: "Titgemeyer"
-url: /melle/titgemeyer/
+url: /melle/titgemeyer-duerrenberger-ring/
 shop: Bäckerei
 ---

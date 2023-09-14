@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /braunschweig/rossmann/
+url: /braunschweig/rossmann-jenastieg/
 shop: Drogerie
 ---

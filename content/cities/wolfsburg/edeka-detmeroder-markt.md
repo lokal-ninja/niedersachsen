@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /wolfsburg/edeka/
+url: /wolfsburg/edeka-detmeroder-markt/
 shop: Supermarkt
 ---

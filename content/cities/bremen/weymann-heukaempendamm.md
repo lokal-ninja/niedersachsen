@@ -1,5 +1,5 @@
 ---
 title: "Weymann"
-url: /bremen/weymann/
+url: /bremen/weymann-heukaempendamm/
 shop: Bäckerei
 ---

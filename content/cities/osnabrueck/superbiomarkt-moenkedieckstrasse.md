@@ -1,5 +1,5 @@
 ---
 title: "SuperBioMarkt"
-url: /osnabrueck/superbiomarkt/
+url: /osnabrueck/superbiomarkt-moenkedieckstrasse/
 shop: Supermarkt
 ---

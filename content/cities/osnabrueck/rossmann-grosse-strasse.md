@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /osnabrueck/rossmann/
+url: /osnabrueck/rossmann-grosse-strasse/
 shop: Drogerie
 ---

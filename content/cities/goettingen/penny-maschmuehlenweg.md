@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /goettingen/penny/
+url: /goettingen/penny-maschmuehlenweg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /oldenburg/aldi-nord/
+url: /oldenburg/aldi-nord-posthalterweg/
 shop: Supermarkt
 ---

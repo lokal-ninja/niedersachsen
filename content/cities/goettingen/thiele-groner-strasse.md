@@ -1,5 +1,5 @@
 ---
 title: "Thiele"
-url: /goettingen/thiele/
+url: /goettingen/thiele-groner-strasse/
 shop: Bäckerei
 ---

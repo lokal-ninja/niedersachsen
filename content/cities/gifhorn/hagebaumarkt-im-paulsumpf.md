@@ -1,5 +1,5 @@
 ---
 title: "Hagebaumarkt"
-url: /gifhorn/hagebaumarkt/
+url: /gifhorn/hagebaumarkt-im-paulsumpf/
 shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hansemann"
-url: /stuhr/hansemann/
+url: /stuhr/hansemann-hauptstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /papenburg/kik/
+url: /papenburg/kik-an-der-alten-werft/
 shop: Kleidung
 ---

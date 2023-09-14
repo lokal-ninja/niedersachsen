@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /geestland/rossmann/
+url: /geestland/rossmann-debstedter-strasse/
 shop: Drogerie
 ---

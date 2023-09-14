@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
-url: /braunschweig/kiosk/
+url: /braunschweig/kiosk-hannoversche-strasse/
 shop: Kiosk
 ---

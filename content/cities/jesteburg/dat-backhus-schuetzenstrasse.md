@@ -1,5 +1,5 @@
 ---
 title: "Dat Backhus"
-url: /jesteburg/dat-backhus/
+url: /jesteburg/dat-backhus-schuetzenstrasse/
 shop: Bäckerei
 ---

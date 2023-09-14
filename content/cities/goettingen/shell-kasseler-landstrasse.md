@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /goettingen/shell/
+url: /goettingen/shell-kasseler-landstrasse/
 shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /rinteln/combi/
+url: /rinteln/combi-extertalstrasse/
 shop: Supermarkt
 ---

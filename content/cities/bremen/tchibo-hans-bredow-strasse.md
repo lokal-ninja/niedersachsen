@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /bremen/tchibo/
+url: /bremen/tchibo-hans-bredow-strasse/
 shop: Kaffee
 ---

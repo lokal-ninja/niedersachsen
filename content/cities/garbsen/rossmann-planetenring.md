@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /garbsen/rossmann/
+url: /garbsen/rossmann-planetenring/
 shop: Drogerie
 ---

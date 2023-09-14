@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /norden/vodafone/
+url: /norden/vodafone-neuer-weg/
 shop: Handy
 ---

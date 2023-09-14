@@ -1,5 +1,5 @@
 ---
 title: "Rector"
-url: /norden/rector/
+url: /norden/rector-osterstrasse/
 shop: Bäckerei
 ---

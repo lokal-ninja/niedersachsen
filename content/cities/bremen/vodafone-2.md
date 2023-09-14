@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /bremen/vodafone/
+url: /bremen/vodafone-2/
 shop: Handy
 ---

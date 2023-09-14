@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /bremen/mediamarkt/
+url: /bremen/mediamarkt-2/
 shop: Elektronik
 ---

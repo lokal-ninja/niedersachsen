@@ -1,5 +1,5 @@
 ---
 title: "Hol'ab"
-url: /bremerhaven/holab/
+url: /bremerhaven/holab-twischlehe/
 shop: Getränke
 ---

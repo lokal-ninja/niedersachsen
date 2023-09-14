@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /wolfsburg/penny/
+url: /wolfsburg/penny-moerser-strasse/
 shop: Supermarkt
 ---

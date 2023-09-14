@@ -1,5 +1,5 @@
 ---
 title: "Emigholz"
-url: /bremen/emigholz/
+url: /bremen/emigholz-utbremer-strasse/
 shop: Reifen
 ---

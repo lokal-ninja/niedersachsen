@@ -1,5 +1,5 @@
 ---
 title: "Schäfer's"
-url: /hannover/schaefers/
+url: /hannover/schaefers-hildesheimer-strasse/
 shop: Bäckerei
 ---

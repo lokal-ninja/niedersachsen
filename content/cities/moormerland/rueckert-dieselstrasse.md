@@ -1,5 +1,5 @@
 ---
 title: "Rückert"
-url: /moormerland/rueckert/
+url: /moormerland/rueckert-dieselstrasse/
 shop: Autowerkstatt
 ---

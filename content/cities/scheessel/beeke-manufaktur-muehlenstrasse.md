@@ -1,5 +1,5 @@
 ---
 title: "Beeke Manufaktur"
-url: /scheessel/beeke-manufaktur/
+url: /scheessel/beeke-manufaktur-muehlenstrasse/
 shop: Kunst
 ---

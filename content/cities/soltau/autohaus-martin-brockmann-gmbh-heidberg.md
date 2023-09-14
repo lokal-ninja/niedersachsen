@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Martin Brockmann GmbH"
-url: /soltau/autohaus-martin-brockmann-gmbh/
+url: /soltau/autohaus-martin-brockmann-gmbh-heidberg/
 shop: Autowerkstatt
 ---

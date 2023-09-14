@@ -1,5 +1,5 @@
 ---
 title: "Henke"
-url: /hannover/henke/
+url: /hannover/henke-celler-strasse/
 shop: Bäckerei
 ---

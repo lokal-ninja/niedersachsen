@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /bremen/rossmann/
+url: /bremen/rossmann-friedrich-karl-strasse/
 shop: Drogerie
 ---

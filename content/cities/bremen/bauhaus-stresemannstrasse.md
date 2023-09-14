@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /bremen/bauhaus/
+url: /bremen/bauhaus-stresemannstrasse/
 shop: Baumarkt
 ---

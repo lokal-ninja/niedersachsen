@@ -1,5 +1,5 @@
 ---
 title: "Brandes & Diesing"
-url: /hannover/brandes-und-diesing/
+url: /hannover/brandes-und-diesing-rathenaustrasse/
 shop: Sanitätshaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Happy-Shop"
-url: /oldenburg/happy-shop/
+url: /oldenburg/happy-shop-eichenstrasse/
 shop: Lebensmittel
 ---

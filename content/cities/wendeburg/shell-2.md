@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /wendeburg/shell/
+url: /wendeburg/shell-2/
 shop: Lebensmittel
 ---

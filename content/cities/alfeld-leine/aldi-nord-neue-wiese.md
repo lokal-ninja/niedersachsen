@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /alfeld-leine/aldi-nord/
+url: /alfeld-leine/aldi-nord-neue-wiese/
 shop: Supermarkt
 ---

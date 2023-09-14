@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
-url: /lengerich/volkswagen/
+url: /lengerich/volkswagen-handruper-strasse/
 shop: Autowerkstatt
 ---

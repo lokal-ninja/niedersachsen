@@ -1,5 +1,5 @@
 ---
 title: "Piepers"
-url: /goettingen/piepers/
+url: /goettingen/piepers-burgstrasse/
 shop: Kleidung
 ---

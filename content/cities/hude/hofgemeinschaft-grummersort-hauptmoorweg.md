@@ -1,5 +1,5 @@
 ---
 title: "Hofgemeinschaft Grummersort"
-url: /hude/hofgemeinschaft-grummersort/
+url: /hude/hofgemeinschaft-grummersort-hauptmoorweg/
 shop: Hofladen
 ---

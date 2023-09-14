@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /giesen/rewe/
+url: /giesen/rewe-vor-dem-kampe/
 shop: Getränke
 ---

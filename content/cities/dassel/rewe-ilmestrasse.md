@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /dassel/rewe/
+url: /dassel/rewe-ilmestrasse/
 shop: Supermarkt
 ---

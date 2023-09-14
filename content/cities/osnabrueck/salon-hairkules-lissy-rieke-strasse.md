@@ -1,5 +1,5 @@
 ---
 title: "Salon Hairkules"
-url: /osnabrueck/salon-hairkules/
+url: /osnabrueck/salon-hairkules-lissy-rieke-strasse/
 shop: Friseur
 ---

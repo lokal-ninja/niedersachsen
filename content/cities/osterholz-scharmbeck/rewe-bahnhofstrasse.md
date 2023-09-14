@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /osterholz-scharmbeck/rewe/
+url: /osterholz-scharmbeck/rewe-bahnhofstrasse/
 shop: Supermarkt
 ---

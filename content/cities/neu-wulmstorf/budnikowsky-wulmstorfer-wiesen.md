@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /neu-wulmstorf/budnikowsky/
+url: /neu-wulmstorf/budnikowsky-wulmstorfer-wiesen/
 shop: Drogerie
 ---

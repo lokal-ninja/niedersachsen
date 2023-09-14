@@ -1,5 +1,5 @@
 ---
 title: "Janssen"
-url: /oldenburg/janssen/
+url: /oldenburg/janssen-gaststrasse/
 shop: Bäckerei
 ---

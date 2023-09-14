@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /goettingen/vodafone/
+url: /goettingen/vodafone-kurze-geismar-strasse/
 shop: Handy
 ---

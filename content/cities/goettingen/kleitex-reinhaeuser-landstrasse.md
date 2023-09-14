@@ -1,5 +1,5 @@
 ---
 title: "Kleitex"
-url: /goettingen/kleitex/
+url: /goettingen/kleitex-reinhaeuser-landstrasse/
 shop: Wäscherei
 ---

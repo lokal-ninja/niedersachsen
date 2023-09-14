@@ -1,5 +1,5 @@
 ---
 title: "Inkoop"
-url: /delmenhorst/inkoop/
+url: /delmenhorst/inkoop-brendelweg/
 shop: Supermarkt
 ---

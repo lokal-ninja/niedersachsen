@@ -1,5 +1,5 @@
 ---
 title: "Küster"
-url: /goettingen/kuester/
+url: /goettingen/kuester-heinrich-warnecke-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hagebaumarkt"
-url: /otterndorf/hagebaumarkt/
+url: /otterndorf/hagebaumarkt-cuxhavener-landstrasse/
 shop: Baumarkt
 ---

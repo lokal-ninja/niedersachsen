@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /oldenburg/rossmann/
+url: /oldenburg/rossmann-alexanderstrasse/
 shop: Drogerie
 ---

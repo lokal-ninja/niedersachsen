@@ -1,5 +1,5 @@
 ---
 title: "Maître Stefan"
-url: /bremen/maitre-stefan/
+url: /bremen/maitre-stefan-stader-strasse/
 shop: Bäckerei
 ---

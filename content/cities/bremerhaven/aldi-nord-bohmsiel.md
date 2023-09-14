@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /bremerhaven/aldi-nord/
+url: /bremerhaven/aldi-nord-bohmsiel/
 shop: Supermarkt
 ---

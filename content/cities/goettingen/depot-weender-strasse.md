@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /goettingen/depot/
+url: /goettingen/depot-weender-strasse/
 shop: Möbel
 ---

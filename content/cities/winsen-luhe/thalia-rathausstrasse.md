@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /winsen-luhe/thalia/
+url: /winsen-luhe/thalia-rathausstrasse/
 shop: Bücher
 ---

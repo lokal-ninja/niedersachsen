@@ -1,5 +1,5 @@
 ---
 title: "Score"
-url: /emden/score/
+url: /emden/score-neutorstrasse/
 shop: Allgemein
 ---

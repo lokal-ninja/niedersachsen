@@ -1,5 +1,5 @@
 ---
 title: "Sikken"
-url: /emden/sikken/
+url: /emden/sikken-auricher-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /bremerhaven/lidl/
+url: /bremerhaven/lidl-twischlehe/
 shop: Supermarkt
 ---

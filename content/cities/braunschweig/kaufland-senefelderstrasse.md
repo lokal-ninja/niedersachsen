@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /braunschweig/kaufland/
+url: /braunschweig/kaufland-senefelderstrasse/
 shop: Supermarkt
 ---

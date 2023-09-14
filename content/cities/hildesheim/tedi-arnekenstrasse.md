@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /hildesheim/tedi/
+url: /hildesheim/tedi-arnekenstrasse/
 shop: Kramladen
 ---

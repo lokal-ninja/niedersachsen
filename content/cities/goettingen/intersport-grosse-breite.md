@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /goettingen/intersport/
+url: /goettingen/intersport-grosse-breite/
 shop: Sport
 ---

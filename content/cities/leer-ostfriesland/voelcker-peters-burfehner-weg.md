@@ -1,5 +1,5 @@
 ---
 title: "Völcker + Peters"
-url: /leer-ostfriesland/voelcker-peters/
+url: /leer-ostfriesland/voelcker-peters-burfehner-weg/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sander"
-url: /osnabrueck/sander/
+url: /osnabrueck/sander-kloentrupstrasse/
 shop: Autohaus
 ---

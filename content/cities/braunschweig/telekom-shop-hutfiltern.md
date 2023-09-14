@@ -1,5 +1,5 @@
 ---
 title: "Telekom Shop"
-url: /braunschweig/telekom-shop/
+url: /braunschweig/telekom-shop-hutfiltern/
 shop: Handy
 ---

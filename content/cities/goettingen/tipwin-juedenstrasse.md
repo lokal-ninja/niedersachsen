@@ -1,5 +1,5 @@
 ---
 title: "tipwin"
-url: /goettingen/tipwin/
+url: /goettingen/tipwin-juedenstrasse/
 shop: Wettbüro
 ---

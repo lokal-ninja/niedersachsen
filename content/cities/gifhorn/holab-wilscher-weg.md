@@ -1,5 +1,5 @@
 ---
 title: "Hol'ab"
-url: /gifhorn/holab/
+url: /gifhorn/holab-wilscher-weg/
 shop: Getränke
 ---

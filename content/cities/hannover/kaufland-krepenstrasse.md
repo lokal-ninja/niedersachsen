@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /hannover/kaufland/
+url: /hannover/kaufland-krepenstrasse/
 shop: Supermarkt
 ---

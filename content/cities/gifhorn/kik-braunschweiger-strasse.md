@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /gifhorn/kik/
+url: /gifhorn/kik-braunschweiger-strasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musswessels"
-url: /emden/musswessels/
+url: /emden/musswessels-bahnhofsplatz/
 shop: Bäckerei
 ---

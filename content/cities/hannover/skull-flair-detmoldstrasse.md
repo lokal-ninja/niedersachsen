@@ -1,5 +1,5 @@
 ---
 title: "Skull Flair"
-url: /hannover/skull-flair/
+url: /hannover/skull-flair-detmoldstrasse/
 shop: Tabak
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /salzgitter/rossmann/
+url: /salzgitter/rossmann-am-pfingstanger/
 shop: Drogerie
 ---

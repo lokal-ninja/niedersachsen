@@ -1,5 +1,5 @@
 ---
 title: "Poco"
-url: /hannover/poco/
+url: /hannover/poco-schulenburger-landstrasse/
 shop: Möbel
 ---

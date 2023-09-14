@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /celle/steinecke/
+url: /celle/steinecke-2/
 shop: Bäckerei
 ---

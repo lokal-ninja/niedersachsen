@@ -1,5 +1,5 @@
 ---
 title: "Leifert"
-url: /isenbuettel/leifert/
+url: /isenbuettel/leifert-am-krainhop/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /emden/rossmann/
+url: /emden/rossmann-fritz-reuter-strasse/
 shop: Drogerie
 ---

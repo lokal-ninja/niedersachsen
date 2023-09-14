@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /gifhorn/penny/
+url: /gifhorn/penny-wilscher-weg/
 shop: Supermarkt
 ---

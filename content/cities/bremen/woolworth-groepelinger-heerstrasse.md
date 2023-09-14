@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /bremen/woolworth/
+url: /bremen/woolworth-groepelinger-heerstrasse/
 shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /holzminden/rossmann/
+url: /holzminden/rossmann-buelte/
 shop: Drogerie
 ---

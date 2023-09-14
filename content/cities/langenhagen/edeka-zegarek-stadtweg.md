@@ -1,5 +1,5 @@
 ---
 title: "EDEKA Zegarek"
-url: /langenhagen/edeka-zegarek/
+url: /langenhagen/edeka-zegarek-stadtweg/
 shop: Supermarkt
 ---

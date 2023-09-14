@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /edewecht/kik/
+url: /edewecht/kik-hauptstrasse/
 shop: Kleidung
 ---

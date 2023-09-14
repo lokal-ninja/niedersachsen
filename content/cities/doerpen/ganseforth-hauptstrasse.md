@@ -1,5 +1,5 @@
 ---
 title: "Ganseforth"
-url: /doerpen/ganseforth/
+url: /doerpen/ganseforth-hauptstrasse/
 shop: Bäckerei
 ---

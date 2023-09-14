@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /schneverdingen/penny/
+url: /schneverdingen/penny-rotenburger-strasse/
 shop: Supermarkt
 ---

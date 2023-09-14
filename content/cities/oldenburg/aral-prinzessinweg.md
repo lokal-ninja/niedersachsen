@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /oldenburg/aral/
+url: /oldenburg/aral-prinzessinweg/
 shop: Lebensmittel
 ---

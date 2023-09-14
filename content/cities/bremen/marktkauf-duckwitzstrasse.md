@@ -1,5 +1,5 @@
 ---
 title: "Marktkauf"
-url: /bremen/marktkauf/
+url: /bremen/marktkauf-duckwitzstrasse/
 shop: Supermarkt
 ---

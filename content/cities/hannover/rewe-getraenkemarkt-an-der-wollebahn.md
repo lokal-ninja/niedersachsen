@@ -1,5 +1,5 @@
 ---
 title: "Rewe Getränkemarkt"
-url: /hannover/rewe-getraenkemarkt/
+url: /hannover/rewe-getraenkemarkt-an-der-wollebahn/
 shop: Getränke
 ---

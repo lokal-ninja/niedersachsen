@@ -1,5 +1,5 @@
 ---
 title: "Göing"
-url: /hannover/goeing/
+url: /hannover/goeing-koenigsworther-strasse/
 shop: Bäckerei
 ---

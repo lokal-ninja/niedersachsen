@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /delmenhorst/rossmann/
+url: /delmenhorst/rossmann-lange-strasse/
 shop: Drogerie
 ---

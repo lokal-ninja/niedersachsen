@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /haren-ems/combi/
+url: /haren-ems/combi-ridderingsesch/
 shop: Supermarkt
 ---

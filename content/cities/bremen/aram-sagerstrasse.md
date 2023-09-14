@@ -1,5 +1,5 @@
 ---
 title: "Aram"
-url: /bremen/aram/
+url: /bremen/aram-sagerstrasse/
 shop: Leiher
 ---

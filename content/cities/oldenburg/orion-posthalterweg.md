@@ -1,5 +1,5 @@
 ---
 title: "Orion"
-url: /oldenburg/orion/
+url: /oldenburg/orion-posthalterweg/
 shop: Erotik
 ---

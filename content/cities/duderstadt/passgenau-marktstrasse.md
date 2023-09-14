@@ -1,5 +1,5 @@
 ---
 title: "Passgenau"
-url: /duderstadt/passgenau/
+url: /duderstadt/passgenau-marktstrasse/
 shop: Kleidung
 ---

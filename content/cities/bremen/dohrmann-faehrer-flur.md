@@ -1,5 +1,5 @@
 ---
 title: "Dohrmann"
-url: /bremen/dohrmann/
+url: /bremen/dohrmann-faehrer-flur/
 shop: Metzgerei
 ---

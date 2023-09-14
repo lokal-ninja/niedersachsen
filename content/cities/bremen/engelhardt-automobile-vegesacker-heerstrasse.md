@@ -1,5 +1,5 @@
 ---
 title: "Engelhardt-Automobile"
-url: /bremen/engelhardt-automobile/
+url: /bremen/engelhardt-automobile-vegesacker-heerstrasse/
 shop: Autohaus
 ---

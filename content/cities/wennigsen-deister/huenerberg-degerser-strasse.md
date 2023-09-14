@@ -1,5 +1,5 @@
 ---
 title: "Hünerberg"
-url: /wennigsen-deister/huenerberg/
+url: /wennigsen-deister/huenerberg-degerser-strasse/
 shop: Bäckerei
 ---

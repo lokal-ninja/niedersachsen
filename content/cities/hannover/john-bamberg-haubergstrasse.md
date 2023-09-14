@@ -1,5 +1,5 @@
 ---
 title: "John+Bamberg"
-url: /hannover/john-bamberg/
+url: /hannover/john-bamberg-haubergstrasse/
 shop: Sanitätshaus
 ---

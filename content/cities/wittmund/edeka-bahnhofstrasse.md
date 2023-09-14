@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /wittmund/edeka/
+url: /wittmund/edeka-bahnhofstrasse/
 shop: Supermarkt
 ---

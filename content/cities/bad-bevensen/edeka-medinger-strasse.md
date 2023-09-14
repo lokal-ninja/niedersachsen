@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /bad-bevensen/edeka/
+url: /bad-bevensen/edeka-medinger-strasse/
 shop: Supermarkt
 ---

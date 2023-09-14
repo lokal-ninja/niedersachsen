@@ -1,5 +1,5 @@
 ---
 title: "EDEKA Sievers"
-url: /papenburg/edeka-sievers/
+url: /papenburg/edeka-sievers-moorstrasse/
 shop: Supermarkt
 ---

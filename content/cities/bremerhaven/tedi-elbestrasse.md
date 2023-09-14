@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /bremerhaven/tedi/
+url: /bremerhaven/tedi-elbestrasse/
 shop: Kramladen
 ---

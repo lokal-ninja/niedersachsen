@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /goettingen/douglas/
+url: /goettingen/douglas-am-kauf-park/
 shop: Parfümerie
 ---

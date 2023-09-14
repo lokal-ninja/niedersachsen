@@ -1,5 +1,5 @@
 ---
 title: "Salon Nowak"
-url: /uelzen/salon-nowak/
+url: /uelzen/salon-nowak-karlstrasse/
 shop: Friseur
 ---

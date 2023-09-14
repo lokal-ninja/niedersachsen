@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /salzgitter/netto-marken-discount/
+url: /salzgitter/netto-marken-discount-wildkamp/
 shop: Supermarkt
 ---

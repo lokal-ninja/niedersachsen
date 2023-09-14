@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /wilhelmshaven/np/
+url: /wilhelmshaven/np-weserstrasse/
 shop: Supermarkt
 ---

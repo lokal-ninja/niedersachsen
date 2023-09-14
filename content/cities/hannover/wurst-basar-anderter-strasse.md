@@ -1,5 +1,5 @@
 ---
 title: "Wurst-Basar"
-url: /hannover/wurst-basar/
+url: /hannover/wurst-basar-anderter-strasse/
 shop: Metzgerei
 ---

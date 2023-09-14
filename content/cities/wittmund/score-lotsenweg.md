@@ -1,5 +1,5 @@
 ---
 title: "Score"
-url: /wittmund/score/
+url: /wittmund/score-lotsenweg/
 shop: Allgemein
 ---

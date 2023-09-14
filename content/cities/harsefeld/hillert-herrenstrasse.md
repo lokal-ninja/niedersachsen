@@ -1,5 +1,5 @@
 ---
 title: "Hillert"
-url: /harsefeld/hillert/
+url: /harsefeld/hillert-herrenstrasse/
 shop: Bäckerei
 ---

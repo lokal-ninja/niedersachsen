@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /goettingen/aldi/
+url: /goettingen/aldi-am-kauf-park/
 shop: Supermarkt
 ---

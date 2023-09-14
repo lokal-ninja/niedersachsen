@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /hannover/tipico/
+url: /hannover/tipico-roderbruchmarkt/
 shop: Wettbüro
 ---

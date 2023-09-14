@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /bremen/edeka/
+url: /bremen/edeka-charlotte-wolff-allee/
 shop: Supermarkt
 ---

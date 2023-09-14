@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /osnabrueck/fressnapf/
+url: /osnabrueck/fressnapf-2/
 shop: Tiere
 ---

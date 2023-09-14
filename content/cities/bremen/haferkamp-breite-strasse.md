@@ -1,5 +1,5 @@
 ---
 title: "Haferkamp"
-url: /bremen/haferkamp/
+url: /bremen/haferkamp-breite-strasse/
 shop: Bäckerei
 ---

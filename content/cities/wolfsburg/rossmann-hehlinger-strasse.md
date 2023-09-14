@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /wolfsburg/rossmann/
+url: /wolfsburg/rossmann-hehlinger-strasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /bremen/hunkemoeller/
+url: /bremen/hunkemoeller-soegestrasse/
 shop: Kleidung
 ---

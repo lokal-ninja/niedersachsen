@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /hannover/bauhaus/
+url: /hannover/bauhaus-schulenburger-landstrasse/
 shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dat Backhus"
-url: /rosengarten/dat-backhus/
+url: /rosengarten/dat-backhus-bremer-strasse/
 shop: Bäckerei
 ---

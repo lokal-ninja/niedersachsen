@@ -1,5 +1,5 @@
 ---
 title: "Derpart"
-url: /wolfsburg/derpart/
+url: /wolfsburg/derpart-porschestrasse/
 shop: Reisebüro
 ---

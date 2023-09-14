@@ -1,5 +1,5 @@
 ---
 title: "BUSPUNKT"
-url: /wingst/buspunkt/
+url: /wingst/buspunkt-molkereistrasse/
 shop: Reisebüro
 ---

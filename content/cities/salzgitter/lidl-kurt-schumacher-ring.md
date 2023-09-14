@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /salzgitter/lidl/
+url: /salzgitter/lidl-kurt-schumacher-ring/
 shop: Supermarkt
 ---

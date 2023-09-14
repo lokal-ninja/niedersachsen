@@ -1,5 +1,5 @@
 ---
 title: "Hermann"
-url: /northeim/hermann/
+url: /northeim/hermann-stadtweg/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hol'ab"
-url: /weyhe/holab/
+url: /weyhe/holab-handelsweg/
 shop: Getränke
 ---

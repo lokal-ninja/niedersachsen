@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /buxtehude/lidl/
+url: /buxtehude/lidl-bei-der-fischtreppe/
 shop: Supermarkt
 ---

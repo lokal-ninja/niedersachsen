@@ -1,5 +1,5 @@
 ---
 title: "Hillert"
-url: /buxtehude/hillert/
+url: /buxtehude/hillert-lange-strasse/
 shop: Bäckerei
 ---

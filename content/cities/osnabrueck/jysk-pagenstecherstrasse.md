@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /osnabrueck/jysk/
+url: /osnabrueck/jysk-pagenstecherstrasse/
 shop: Möbel
 ---

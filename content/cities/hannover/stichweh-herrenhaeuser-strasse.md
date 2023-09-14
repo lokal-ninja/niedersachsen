@@ -1,5 +1,5 @@
 ---
 title: "Stichweh"
-url: /hannover/stichweh/
+url: /hannover/stichweh-herrenhaeuser-strasse/
 shop: Schneiderei
 ---

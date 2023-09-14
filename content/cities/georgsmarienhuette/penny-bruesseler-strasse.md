@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /georgsmarienhuette/penny/
+url: /georgsmarienhuette/penny-bruesseler-strasse/
 shop: Supermarkt
 ---

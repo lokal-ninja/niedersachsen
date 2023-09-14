@@ -1,5 +1,5 @@
 ---
 title: "Hol'ab"
-url: /syke/holab/
+url: /syke/holab-wiesenstrasse/
 shop: Getränke
 ---

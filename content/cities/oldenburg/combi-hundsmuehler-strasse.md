@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /oldenburg/combi/
+url: /oldenburg/combi-hundsmuehler-strasse/
 shop: Supermarkt
 ---

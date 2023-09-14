@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /wolfsburg/rossmann/
+url: /wolfsburg/rossmann-detmeroder-markt/
 shop: Drogerie
 ---

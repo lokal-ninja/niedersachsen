@@ -1,5 +1,5 @@
 ---
 title: "Schuback"
-url: /bremerhaven/schuback/
+url: /bremerhaven/schuback-georgstrasse/
 shop: Parfümerie
 ---

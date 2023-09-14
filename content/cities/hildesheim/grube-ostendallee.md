@@ -1,5 +1,5 @@
 ---
 title: "Grube"
-url: /hildesheim/grube/
+url: /hildesheim/grube-ostendallee/
 shop: Bäckerei
 ---

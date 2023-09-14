@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /hildesheim/penny/
+url: /hildesheim/penny-sachsenring/
 shop: Supermarkt
 ---

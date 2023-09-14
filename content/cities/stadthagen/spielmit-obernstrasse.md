@@ -1,5 +1,5 @@
 ---
 title: "Spielmit"
-url: /stadthagen/spielmit/
+url: /stadthagen/spielmit-obernstrasse/
 shop: Spielzeug
 ---

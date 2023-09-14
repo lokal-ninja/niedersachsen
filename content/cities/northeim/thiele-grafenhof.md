@@ -1,5 +1,5 @@
 ---
 title: "Thiele"
-url: /northeim/thiele/
+url: /northeim/thiele-grafenhof/
 shop: Bäckerei
 ---

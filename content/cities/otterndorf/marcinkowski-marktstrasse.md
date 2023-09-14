@@ -1,5 +1,5 @@
 ---
 title: "Marcinkowski"
-url: /otterndorf/marcinkowski/
+url: /otterndorf/marcinkowski-marktstrasse/
 shop: Schmuck
 ---

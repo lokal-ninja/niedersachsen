@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /braunschweig/aldi/
+url: /braunschweig/aldi-madamenweg/
 shop: Supermarkt
 ---

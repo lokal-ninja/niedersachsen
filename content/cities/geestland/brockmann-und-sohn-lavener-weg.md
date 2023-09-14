@@ -1,5 +1,5 @@
 ---
 title: "Brockmann & Sohn"
-url: /geestland/brockmann-und-sohn/
+url: /geestland/brockmann-und-sohn-lavener-weg/
 shop: Autowerkstatt
 ---

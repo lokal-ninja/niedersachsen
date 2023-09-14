@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /schortens/edeka/
+url: /schortens/edeka-peter-grave-strasse/
 shop: Supermarkt
 ---

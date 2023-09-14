@@ -1,5 +1,5 @@
 ---
 title: "toom Baumarkt"
-url: /bremen/toom-baumarkt/
+url: /bremen/toom-baumarkt-schragestrasse/
 shop: Baumarkt
 ---

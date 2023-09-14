@@ -1,5 +1,5 @@
 ---
 title: "Wüstefeld"
-url: /goettingen/wuestefeld/
+url: /goettingen/wuestefeld-kurze-geismar-strasse/
 shop: Bäckerei
 ---

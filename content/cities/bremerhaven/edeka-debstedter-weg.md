@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /bremerhaven/edeka/
+url: /bremerhaven/edeka-debstedter-weg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "eWine"
-url: /celle/ewine/
+url: /celle/ewine-westcellertorstrasse/
 shop: Wein
 ---

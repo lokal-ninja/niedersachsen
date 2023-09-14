@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /bramsche/np/
+url: /bramsche/np-brucknerstrasse/
 shop: Supermarkt
 ---

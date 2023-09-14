@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /papenburg/aldi-nord/
+url: /papenburg/aldi-nord-zu-den-emsauen/
 shop: Supermarkt
 ---

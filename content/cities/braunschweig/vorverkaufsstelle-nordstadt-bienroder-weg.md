@@ -1,5 +1,5 @@
 ---
 title: "Vorverkaufsstelle Nordstadt"
-url: /braunschweig/vorverkaufsstelle-nordstadt/
+url: /braunschweig/vorverkaufsstelle-nordstadt-bienroder-weg/
 shop: Tickets
 ---

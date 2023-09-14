@@ -1,5 +1,5 @@
 ---
 title: "Hol'ab"
-url: /hannover/holab/
+url: /hannover/holab-am-listholze/
 shop: Getränke
 ---

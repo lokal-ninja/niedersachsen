@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /lehrte/penny/
+url: /lehrte/penny-stackmannstrasse/
 shop: Supermarkt
 ---

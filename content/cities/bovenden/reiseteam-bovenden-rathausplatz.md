@@ -1,5 +1,5 @@
 ---
 title: "Reiseteam Bovenden"
-url: /bovenden/reiseteam-bovenden/
+url: /bovenden/reiseteam-bovenden-rathausplatz/
 shop: Reisebüro
 ---

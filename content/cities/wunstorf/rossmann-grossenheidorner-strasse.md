@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /wunstorf/rossmann/
+url: /wunstorf/rossmann-grossenheidorner-strasse/
 shop: Drogerie
 ---

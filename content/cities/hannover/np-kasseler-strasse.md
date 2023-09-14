@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /hannover/np/
+url: /hannover/np-kasseler-strasse/
 shop: Supermarkt
 ---

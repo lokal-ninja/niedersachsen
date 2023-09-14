@@ -1,5 +1,5 @@
 ---
 title: "Heitmüller"
-url: /pattensen/heitmueller/
+url: /pattensen/heitmueller-talstrasse/
 shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mohr Bestattungen"
-url: /wolfsburg/mohr-bestattungen/
+url: /wolfsburg/mohr-bestattungen-muehlenkamp/
 shop: Bestattungen
 ---

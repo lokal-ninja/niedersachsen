@@ -1,5 +1,5 @@
 ---
 title: "Berelsmann"
-url: /wallenhorst/berelsmann/
+url: /wallenhorst/berelsmann-johannisstrasse/
 shop: Bäckerei
 ---

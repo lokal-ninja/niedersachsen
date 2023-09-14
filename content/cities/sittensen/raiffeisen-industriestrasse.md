@@ -1,5 +1,5 @@
 ---
 title: "Raiffeisen"
-url: /sittensen/raiffeisen/
+url: /sittensen/raiffeisen-industriestrasse/
 shop: Baumarkt
 ---

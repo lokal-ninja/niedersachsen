@@ -1,5 +1,5 @@
 ---
 title: "E-Center"
-url: /bremerhaven/e-center/
+url: /bremerhaven/e-center-rudloffstrasse/
 shop: Supermarkt
 ---

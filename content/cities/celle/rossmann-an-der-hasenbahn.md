@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /celle/rossmann/
+url: /celle/rossmann-an-der-hasenbahn/
 shop: Drogerie
 ---

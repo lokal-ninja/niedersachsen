@@ -1,5 +1,5 @@
 ---
 title: "famila"
-url: /oldenburg/famila/
+url: /oldenburg/famila-posthalterweg/
 shop: Supermarkt
 ---

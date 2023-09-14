@@ -1,5 +1,5 @@
 ---
 title: "Seberts"
-url: /goettingen/seberts/
+url: /goettingen/seberts-hauptstrasse/
 shop: Metzgerei
 ---

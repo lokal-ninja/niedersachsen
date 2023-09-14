@@ -1,5 +1,5 @@
 ---
 title: "Only"
-url: /bremen/only/
+url: /bremen/only-2/
 shop: Kleidung
 ---

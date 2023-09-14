@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /peine/rossmann/
+url: /peine/rossmann-kirchvordener-strasse/
 shop: Drogerie
 ---

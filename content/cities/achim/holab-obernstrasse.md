@@ -1,5 +1,5 @@
 ---
 title: "Hol'ab"
-url: /achim/holab/
+url: /achim/holab-obernstrasse/
 shop: Getränke
 ---

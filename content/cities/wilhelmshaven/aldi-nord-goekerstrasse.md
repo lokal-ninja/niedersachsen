@@ -1,5 +1,5 @@
 ---
 title: "Aldi Nord"
-url: /wilhelmshaven/aldi-nord/
+url: /wilhelmshaven/aldi-nord-goekerstrasse/
 shop: Supermarkt
 ---

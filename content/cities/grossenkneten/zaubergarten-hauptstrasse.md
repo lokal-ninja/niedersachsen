@@ -1,5 +1,5 @@
 ---
 title: "Zaubergarten"
-url: /grossenkneten/zaubergarten/
+url: /grossenkneten/zaubergarten-hauptstrasse/
 shop: Blumen
 ---

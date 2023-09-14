@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /goettingen/rewe/
+url: /goettingen/rewe-kurze-geismar-strasse/
 shop: Supermarkt
 ---

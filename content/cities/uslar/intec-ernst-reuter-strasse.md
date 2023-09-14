@@ -1,5 +1,5 @@
 ---
 title: "INTEC"
-url: /uslar/intec/
+url: /uslar/intec-ernst-reuter-strasse/
 shop: Autowerkstatt
 ---

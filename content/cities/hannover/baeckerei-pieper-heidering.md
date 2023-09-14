@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Pieper"
-url: /hannover/baeckerei-pieper/
+url: /hannover/baeckerei-pieper-heidering/
 shop: Bäckerei
 ---

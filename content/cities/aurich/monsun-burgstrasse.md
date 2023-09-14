@@ -1,5 +1,5 @@
 ---
 title: "Monsun"
-url: /aurich/monsun/
+url: /aurich/monsun-burgstrasse/
 shop: Kleidung
 ---

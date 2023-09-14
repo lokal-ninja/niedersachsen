@@ -1,5 +1,5 @@
 ---
 title: "Huth"
-url: /hildesheim/huth/
+url: /hildesheim/huth-bernwardstrasse/
 shop: Friseur
 ---

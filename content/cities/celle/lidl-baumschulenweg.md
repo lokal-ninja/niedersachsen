@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /celle/lidl/
+url: /celle/lidl-baumschulenweg/
 shop: Supermarkt
 ---

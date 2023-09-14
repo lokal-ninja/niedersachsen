@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /goettingen/edeka/
+url: /goettingen/edeka-salinenweg/
 shop: Supermarkt
 ---

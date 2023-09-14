@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /wedemark/rossmann/
+url: /wedemark/rossmann-lindenstrasse/
 shop: Drogerie
 ---

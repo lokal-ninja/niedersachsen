@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schmidt"
-url: /bueckeburg/baeckerei-schmidt/
+url: /bueckeburg/baeckerei-schmidt-kreuzbreite/
 shop: Bäckerei
 ---

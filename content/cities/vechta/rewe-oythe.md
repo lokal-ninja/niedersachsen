@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /vechta/rewe/
+url: /vechta/rewe-oythe/
 shop: Supermarkt
 ---

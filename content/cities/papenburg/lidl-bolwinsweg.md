@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /papenburg/lidl/
+url: /papenburg/lidl-bolwinsweg/
 shop: Supermarkt
 ---

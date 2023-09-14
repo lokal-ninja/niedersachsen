@@ -1,5 +1,5 @@
 ---
 title: "VivoLoVin"
-url: /bremen/vivolovin/
+url: /bremen/vivolovin-duckwitzstrasse/
 shop: Spirituosen
 ---

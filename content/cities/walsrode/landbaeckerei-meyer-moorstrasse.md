@@ -1,5 +1,5 @@
 ---
 title: "Landbäckerei Meyer"
-url: /walsrode/landbaeckerei-meyer/
+url: /walsrode/landbaeckerei-meyer-moorstrasse/
 shop: Bäckerei
 ---

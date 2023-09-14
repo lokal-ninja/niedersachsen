@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /bremerhaven/rossmann/
+url: /bremerhaven/rossmann-elbestrasse/
 shop: Drogerie
 ---

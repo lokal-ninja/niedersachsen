@@ -1,5 +1,5 @@
 ---
 title: "Gärtnerei Jörs"
-url: /scheessel/gaertnerei-joers/
+url: /scheessel/gaertnerei-joers-peterstrasse/
 shop: Blumen
 ---

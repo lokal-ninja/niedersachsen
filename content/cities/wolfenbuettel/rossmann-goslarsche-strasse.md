@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /wolfenbuettel/rossmann/
+url: /wolfenbuettel/rossmann-goslarsche-strasse/
 shop: Drogerie
 ---

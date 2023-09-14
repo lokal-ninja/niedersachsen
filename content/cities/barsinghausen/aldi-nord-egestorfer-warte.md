@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /barsinghausen/aldi-nord/
+url: /barsinghausen/aldi-nord-egestorfer-warte/
 shop: Supermarkt
 ---

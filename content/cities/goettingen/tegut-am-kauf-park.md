@@ -1,5 +1,5 @@
 ---
 title: "Tegut"
-url: /goettingen/tegut/
+url: /goettingen/tegut-am-kauf-park/
 shop: Supermarkt
 ---

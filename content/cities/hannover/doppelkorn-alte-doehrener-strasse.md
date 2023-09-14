@@ -1,5 +1,5 @@
 ---
 title: "Doppelkorn"
-url: /hannover/doppelkorn/
+url: /hannover/doppelkorn-alte-doehrener-strasse/
 shop: Bäckerei
 ---

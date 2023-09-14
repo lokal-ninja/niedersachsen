@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /bremen/combi/
+url: /bremen/combi-volkmannstrasse/
 shop: Supermarkt
 ---

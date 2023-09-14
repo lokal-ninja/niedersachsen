@@ -1,5 +1,5 @@
 ---
 title: "Schäfer's"
-url: /lingen-ems/schaefers/
+url: /lingen-ems/schaefers-josefstrasse/
 shop: Bäckerei
 ---

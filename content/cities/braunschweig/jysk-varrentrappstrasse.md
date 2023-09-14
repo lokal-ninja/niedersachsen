@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /braunschweig/jysk/
+url: /braunschweig/jysk-varrentrappstrasse/
 shop: Möbel
 ---

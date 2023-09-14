@@ -1,5 +1,5 @@
 ---
 title: "Apollo-Optik"
-url: /goettingen/apollo-optik/
+url: /goettingen/apollo-optik-kornmarkt/
 shop: Optiker
 ---

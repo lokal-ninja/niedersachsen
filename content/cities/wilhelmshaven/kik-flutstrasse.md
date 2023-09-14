@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /wilhelmshaven/kik/
+url: /wilhelmshaven/kik-flutstrasse/
 shop: Kleidung
 ---

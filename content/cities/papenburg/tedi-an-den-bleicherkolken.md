@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /papenburg/tedi/
+url: /papenburg/tedi-an-den-bleicherkolken/
 shop: Kramladen
 ---

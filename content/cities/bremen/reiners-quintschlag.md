@@ -1,5 +1,5 @@
 ---
 title: "Reiners"
-url: /bremen/reiners/
+url: /bremen/reiners-quintschlag/
 shop: Baumarkt
 ---

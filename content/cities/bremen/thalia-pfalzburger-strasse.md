@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /bremen/thalia/
+url: /bremen/thalia-pfalzburger-strasse/
 shop: Bücher
 ---

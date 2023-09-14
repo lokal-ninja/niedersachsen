@@ -1,5 +1,5 @@
 ---
 title: "KIND Hörgeräte"
-url: /bremerhaven/kind-hoergeraete/
+url: /bremerhaven/kind-hoergeraete-georgstrasse/
 shop: Hörgeräte
 ---

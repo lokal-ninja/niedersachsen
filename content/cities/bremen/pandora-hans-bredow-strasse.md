@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
-url: /bremen/pandora/
+url: /bremen/pandora-hans-bredow-strasse/
 shop: Schmuck
 ---

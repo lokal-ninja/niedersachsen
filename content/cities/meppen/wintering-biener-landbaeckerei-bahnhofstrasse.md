@@ -1,5 +1,5 @@
 ---
 title: "Wintering Biener Landbäckerei"
-url: /meppen/wintering-biener-landbaeckerei/
+url: /meppen/wintering-biener-landbaeckerei-bahnhofstrasse/
 shop: Bäckerei
 ---

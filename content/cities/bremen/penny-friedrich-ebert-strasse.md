@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /bremen/penny/
+url: /bremen/penny-friedrich-ebert-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bruno"
-url: /oldenburg/bruno/
+url: /oldenburg/bruno-melkbrink/
 shop: Bäckerei
 ---

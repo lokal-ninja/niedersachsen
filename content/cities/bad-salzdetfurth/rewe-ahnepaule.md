@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /bad-salzdetfurth/rewe/
+url: /bad-salzdetfurth/rewe-ahnepaule/
 shop: Supermarkt
 ---

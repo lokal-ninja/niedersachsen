@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /wolfenbuettel/lidl/
+url: /wolfenbuettel/lidl-neuer-weg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /bramsche/aldi/
+url: /bramsche/aldi-meyers-tannen/
 shop: Supermarkt
 ---

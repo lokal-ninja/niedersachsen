@@ -1,5 +1,5 @@
 ---
 title: "Jysk"
-url: /goettingen/jysk/
+url: /goettingen/jysk-lutteranger/
 shop: Möbel
 ---

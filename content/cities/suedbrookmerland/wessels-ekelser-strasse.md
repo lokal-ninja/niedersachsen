@@ -1,5 +1,5 @@
 ---
 title: "Wessels"
-url: /suedbrookmerland/wessels/
+url: /suedbrookmerland/wessels-ekelser-strasse/
 shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Overmeyer"
-url: /damme/baeckerei-overmeyer/
+url: /damme/baeckerei-overmeyer-muehlenstrasse/
 shop: Bäckerei
 ---

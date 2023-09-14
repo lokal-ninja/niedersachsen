@@ -1,5 +1,5 @@
 ---
 title: "Strickdiele"
-url: /stadthagen/strickdiele/
+url: /stadthagen/strickdiele-obernstrasse/
 shop: Textil
 ---

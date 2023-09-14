@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /oldenburg/rossmann/
+url: /oldenburg/rossmann-alter-postweg/
 shop: Drogerie
 ---

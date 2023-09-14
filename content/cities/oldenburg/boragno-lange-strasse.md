@@ -1,5 +1,5 @@
 ---
 title: "Boragno"
-url: /oldenburg/boragno/
+url: /oldenburg/boragno-lange-strasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /wittmund/netto-marken-discount/
+url: /wittmund/netto-marken-discount-wittmunder-strasse/
 shop: Supermarkt
 ---

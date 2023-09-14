@@ -1,5 +1,5 @@
 ---
 title: "Rosmarin"
-url: /jever/rosmarin/
+url: /jever/rosmarin-alter-markt/
 shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salzbäcker"
-url: /winsen-luhe/salzbaecker/
+url: /winsen-luhe/salzbaecker-niedersachsenstrasse/
 shop: Bäckerei
 ---

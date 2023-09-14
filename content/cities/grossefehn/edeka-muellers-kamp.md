@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /grossefehn/edeka/
+url: /grossefehn/edeka-muellers-kamp/
 shop: Supermarkt
 ---

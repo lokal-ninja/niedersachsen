@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
-url: /wolfsburg/kiosk/
+url: /wolfsburg/kiosk-schulenburgallee/
 shop: Kiosk
 ---

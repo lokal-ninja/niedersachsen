@@ -1,5 +1,5 @@
 ---
 title: "Bitzer"
-url: /loxstedt/bitzer/
+url: /loxstedt/bitzer-an-der-reitbahn/
 shop: Metzgerei
 ---

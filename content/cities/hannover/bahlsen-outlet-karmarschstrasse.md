@@ -1,5 +1,5 @@
 ---
 title: "Bahlsen Outlet"
-url: /hannover/bahlsen-outlet/
+url: /hannover/bahlsen-outlet-karmarschstrasse/
 shop: Süßwaren
 ---

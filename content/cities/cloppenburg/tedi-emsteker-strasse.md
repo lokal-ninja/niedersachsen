@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /cloppenburg/tedi/
+url: /cloppenburg/tedi-emsteker-strasse/
 shop: Kramladen
 ---

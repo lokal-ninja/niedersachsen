@@ -1,5 +1,5 @@
 ---
 title: "Wellmann"
-url: /osnabrueck/wellmann/
+url: /osnabrueck/wellmann-buersche-strasse/
 shop: Bäckerei
 ---

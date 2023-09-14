@@ -1,5 +1,5 @@
 ---
 title: "Meyer"
-url: /meppen/meyer/
+url: /meppen/meyer-teglinger-strasse/
 shop: Bäckerei
 ---

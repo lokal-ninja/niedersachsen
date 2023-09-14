@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /bremerhaven/kik/
+url: /bremerhaven/kik-wilhelm-leuschner-strasse/
 shop: Kleidung
 ---

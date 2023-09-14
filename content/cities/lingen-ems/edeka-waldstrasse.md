@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /lingen-ems/edeka/
+url: /lingen-ems/edeka-waldstrasse/
 shop: Supermarkt
 ---

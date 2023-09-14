@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /langenhagen/rossmann/
+url: /langenhagen/rossmann-marktplatz/
 shop: Drogerie
 ---

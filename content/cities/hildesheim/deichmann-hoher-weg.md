@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /hildesheim/deichmann/
+url: /hildesheim/deichmann-hoher-weg/
 shop: Schuhe
 ---

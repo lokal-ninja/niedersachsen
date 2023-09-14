@@ -1,5 +1,5 @@
 ---
 title: "Frischemarkt Foltmer"
-url: /stade/frischemarkt-foltmer/
+url: /stade/frischemarkt-foltmer-hohenwedeler-weg/
 shop: Supermarkt
 ---

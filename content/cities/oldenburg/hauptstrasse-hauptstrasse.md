@@ -1,5 +1,5 @@
 ---
 title: "Hauptstraße"
-url: /oldenburg/hauptstrasse/
+url: /oldenburg/hauptstrasse-hauptstrasse/
 shop: Friseur
 ---

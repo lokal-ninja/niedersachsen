@@ -1,5 +1,5 @@
 ---
 title: "Schäfer's"
-url: /braunschweig/schaefers/
+url: /braunschweig/schaefers-juliusstrasse/
 shop: Bäckerei
 ---

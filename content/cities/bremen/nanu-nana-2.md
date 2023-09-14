@@ -1,5 +1,5 @@
 ---
 title: "Nanu-Nana"
-url: /bremen/nanu-nana/
+url: /bremen/nanu-nana-2/
 shop: Andenken
 ---

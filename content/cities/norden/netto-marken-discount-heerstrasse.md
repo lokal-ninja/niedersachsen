@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /norden/netto-marken-discount/
+url: /norden/netto-marken-discount-heerstrasse/
 shop: Supermarkt
 ---

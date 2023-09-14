@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /papenburg/rossmann/
+url: /papenburg/rossmann-deverweg/
 shop: Drogerie
 ---

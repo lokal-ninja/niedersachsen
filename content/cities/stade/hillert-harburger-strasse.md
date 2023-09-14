@@ -1,5 +1,5 @@
 ---
 title: "Hillert"
-url: /stade/hillert/
+url: /stade/hillert-harburger-strasse/
 shop: Bäckerei
 ---

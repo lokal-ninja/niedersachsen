@@ -1,5 +1,5 @@
 ---
 title: "Flaschenpost XXL"
-url: /bremen/flaschenpost-xxl/
+url: /bremen/flaschenpost-xxl-hemmstrasse/
 shop: Kiosk
 ---

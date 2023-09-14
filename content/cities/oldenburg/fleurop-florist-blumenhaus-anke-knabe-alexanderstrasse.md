@@ -1,5 +1,5 @@
 ---
 title: "Fleurop-Florist Blumenhaus Anke Knabe"
-url: /oldenburg/fleurop-florist-blumenhaus-anke-knabe/
+url: /oldenburg/fleurop-florist-blumenhaus-anke-knabe-alexanderstrasse/
 shop: Blumen
 ---

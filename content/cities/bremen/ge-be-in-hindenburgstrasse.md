@@ -1,5 +1,5 @@
 ---
 title: "GE-BE-IN"
-url: /bremen/ge-be-in/
+url: /bremen/ge-be-in-hindenburgstrasse/
 shop: Bestattungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /hannover/steinecke/
+url: /hannover/steinecke-kopernikusstrasse/
 shop: Bäckerei
 ---

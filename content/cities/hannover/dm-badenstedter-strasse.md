@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /hannover/dm/
+url: /hannover/dm-badenstedter-strasse/
 shop: Drogerie
 ---

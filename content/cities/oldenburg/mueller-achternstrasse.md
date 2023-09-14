@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /oldenburg/mueller/
+url: /oldenburg/mueller-achternstrasse/
 shop: Drogerie
 ---

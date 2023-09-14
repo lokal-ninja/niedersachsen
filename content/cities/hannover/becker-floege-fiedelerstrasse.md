@@ -1,5 +1,5 @@
 ---
 title: "becker + flöge"
-url: /hannover/becker-floege/
+url: /hannover/becker-floege-fiedelerstrasse/
 shop: Optiker
 ---

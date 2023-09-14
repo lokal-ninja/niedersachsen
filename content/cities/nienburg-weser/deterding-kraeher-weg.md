@@ -1,5 +1,5 @@
 ---
 title: "Deterding"
-url: /nienburg-weser/deterding/
+url: /nienburg-weser/deterding-kraeher-weg/
 shop: Eisenwaren
 ---

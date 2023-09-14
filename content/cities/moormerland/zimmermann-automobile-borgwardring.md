@@ -1,5 +1,5 @@
 ---
 title: "Zimmermann Automobile"
-url: /moormerland/zimmermann-automobile/
+url: /moormerland/zimmermann-automobile-borgwardring/
 shop: Autowerkstatt
 ---

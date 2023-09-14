@@ -1,5 +1,5 @@
 ---
 title: "Edeka Kutsche"
-url: /osnabrueck/edeka-kutsche/
+url: /osnabrueck/edeka-kutsche-johannisstrasse/
 shop: Supermarkt
 ---

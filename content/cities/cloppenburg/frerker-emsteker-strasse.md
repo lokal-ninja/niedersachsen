@@ -1,5 +1,5 @@
 ---
 title: "Frerker"
-url: /cloppenburg/frerker/
+url: /cloppenburg/frerker-emsteker-strasse/
 shop: Bäckerei
 ---

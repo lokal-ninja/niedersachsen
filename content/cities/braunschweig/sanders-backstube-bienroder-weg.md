@@ -1,5 +1,5 @@
 ---
 title: "sander's backstube"
-url: /braunschweig/sanders-backstube/
+url: /braunschweig/sanders-backstube-bienroder-weg/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /uelzen/netto/
+url: /uelzen/netto-hugo-steinfeld-strasse/
 shop: Supermarkt
 ---

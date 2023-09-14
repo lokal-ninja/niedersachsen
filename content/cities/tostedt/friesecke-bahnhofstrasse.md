@@ -1,5 +1,5 @@
 ---
 title: "Friesecke"
-url: /tostedt/friesecke/
+url: /tostedt/friesecke-bahnhofstrasse/
 shop: Kiosk
 ---

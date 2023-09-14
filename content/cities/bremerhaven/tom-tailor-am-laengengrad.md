@@ -1,5 +1,5 @@
 ---
 title: "Tom Tailor"
-url: /bremerhaven/tom-tailor/
+url: /bremerhaven/tom-tailor-am-laengengrad/
 shop: Kleidung
 ---

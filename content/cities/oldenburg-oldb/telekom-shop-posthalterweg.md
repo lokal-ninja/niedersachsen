@@ -1,5 +1,5 @@
 ---
 title: "Telekom Shop"
-url: /oldenburg-oldb/telekom-shop/
+url: /oldenburg-oldb/telekom-shop-posthalterweg/
 shop: Handy
 ---

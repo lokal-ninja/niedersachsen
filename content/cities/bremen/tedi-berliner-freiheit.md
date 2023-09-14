@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /bremen/tedi/
+url: /bremen/tedi-berliner-freiheit/
 shop: Kramladen
 ---

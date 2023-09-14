@@ -1,5 +1,5 @@
 ---
 title: "Leisner"
-url: /duderstadt/leisner/
+url: /duderstadt/leisner-am-pferdeteich/
 shop: Bestattungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hol'ab"
-url: /bremen/holab/
+url: /bremen/holab-dovemoorstrasse/
 shop: Getränke
 ---

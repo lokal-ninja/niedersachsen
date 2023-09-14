@@ -1,5 +1,5 @@
 ---
 title: "Raiffeisen-Markt"
-url: /westoverledingen/raiffeisen-markt/
+url: /westoverledingen/raiffeisen-markt-papenburger-strasse/
 shop: Landwirtschaftlich
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckermeister Thräm"
-url: /bremen/baeckermeister-thraem/
+url: /bremen/baeckermeister-thraem-schwachhauser-heerstrasse/
 shop: Bäckerei
 ---

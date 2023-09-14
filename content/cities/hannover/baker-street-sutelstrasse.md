@@ -1,5 +1,5 @@
 ---
 title: "Baker-Street"
-url: /hannover/baker-street/
+url: /hannover/baker-street-sutelstrasse/
 shop: Bäckerei
 ---

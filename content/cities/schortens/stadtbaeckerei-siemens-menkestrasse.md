@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäckerei Siemens"
-url: /schortens/stadtbaeckerei-siemens/
+url: /schortens/stadtbaeckerei-siemens-menkestrasse/
 shop: Bäckerei
 ---

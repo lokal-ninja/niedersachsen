@@ -1,5 +1,5 @@
 ---
 title: "ruch"
-url: /dransfeld/ruch/
+url: /dransfeld/ruch-wolfshof/
 shop: Bäckerei
 ---

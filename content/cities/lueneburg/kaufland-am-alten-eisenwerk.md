@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /lueneburg/kaufland/
+url: /lueneburg/kaufland-am-alten-eisenwerk/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /delmenhorst/kaufland/
+url: /delmenhorst/kaufland-reinersweg/
 shop: Supermarkt
 ---

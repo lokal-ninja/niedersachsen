@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /wilhelmshaven/combi/
+url: /wilhelmshaven/combi-goekerstrasse/
 shop: Supermarkt
 ---

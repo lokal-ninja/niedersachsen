@@ -1,5 +1,5 @@
 ---
 title: "Würth"
-url: /tostedt/wuerth/
+url: /tostedt/wuerth-friedrich-vorwerk-strasse/
 shop: Eisenwaren
 ---

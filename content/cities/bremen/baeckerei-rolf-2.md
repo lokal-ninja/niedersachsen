@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Rolf"
-url: /bremen/baeckerei-rolf/
+url: /bremen/baeckerei-rolf-2/
 shop: Bäckerei
 ---

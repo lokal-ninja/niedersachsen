@@ -1,5 +1,5 @@
 ---
 title: "toom Baumarkt"
-url: /bremen/toom-baumarkt/
+url: /bremen/toom-baumarkt-vegesacker-heerstrasse/
 shop: Baumarkt
 ---

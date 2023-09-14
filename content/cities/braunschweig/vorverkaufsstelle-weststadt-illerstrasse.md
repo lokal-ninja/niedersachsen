@@ -1,5 +1,5 @@
 ---
 title: "Vorverkaufsstelle Weststadt"
-url: /braunschweig/vorverkaufsstelle-weststadt/
+url: /braunschweig/vorverkaufsstelle-weststadt-illerstrasse/
 shop: Tickets
 ---

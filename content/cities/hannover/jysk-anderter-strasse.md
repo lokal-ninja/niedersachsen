@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /hannover/jysk/
+url: /hannover/jysk-anderter-strasse/
 shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /hannover/depot/
+url: /hannover/depot-ernst-august-platz/
 shop: Raumausstattung
 ---

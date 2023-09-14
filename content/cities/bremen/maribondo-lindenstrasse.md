@@ -1,5 +1,5 @@
 ---
 title: "Maribondo"
-url: /bremen/maribondo/
+url: /bremen/maribondo-lindenstrasse/
 shop: Supermarkt
 ---

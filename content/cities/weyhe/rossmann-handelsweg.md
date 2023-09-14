@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /weyhe/rossmann/
+url: /weyhe/rossmann-handelsweg/
 shop: Drogerie
 ---

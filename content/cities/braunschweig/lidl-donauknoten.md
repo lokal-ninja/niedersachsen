@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /braunschweig/lidl/
+url: /braunschweig/lidl-donauknoten/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KFZ Kathmann"
-url: /lastrup/kfz-kathmann/
+url: /lastrup/kfz-kathmann-adam-opel-strasse/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stegwaren"
-url: /damme/stegwaren/
+url: /damme/stegwaren-hunteburger-strasse/
 shop: Kleidung
 ---

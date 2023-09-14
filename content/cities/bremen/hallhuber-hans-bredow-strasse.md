@@ -1,5 +1,5 @@
 ---
 title: "Hallhuber"
-url: /bremen/hallhuber/
+url: /bremen/hallhuber-hans-bredow-strasse/
 shop: Kleidung
 ---

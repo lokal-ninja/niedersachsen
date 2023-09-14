@@ -1,5 +1,5 @@
 ---
 title: "Postenhandel Nord"
-url: /bremen/postenhandel-nord/
+url: /bremen/postenhandel-nord-schragestrasse/
 shop: Dorfladen
 ---

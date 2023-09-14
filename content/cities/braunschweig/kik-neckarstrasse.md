@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /braunschweig/kik/
+url: /braunschweig/kik-neckarstrasse/
 shop: Kleidung
 ---

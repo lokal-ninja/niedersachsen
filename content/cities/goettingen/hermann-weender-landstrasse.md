@@ -1,5 +1,5 @@
 ---
 title: "Hermann"
-url: /goettingen/hermann/
+url: /goettingen/hermann-weender-landstrasse/
 shop: Bäckerei
 ---

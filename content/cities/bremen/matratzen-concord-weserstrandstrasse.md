@@ -1,5 +1,5 @@
 ---
 title: "Matratzen Concord"
-url: /bremen/matratzen-concord/
+url: /bremen/matratzen-concord-weserstrandstrasse/
 shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hol'Ab!"
-url: /braunschweig/holab/
+url: /braunschweig/holab-2/
 shop: Getränke
 ---

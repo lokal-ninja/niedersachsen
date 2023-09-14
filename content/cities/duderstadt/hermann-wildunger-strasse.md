@@ -1,5 +1,5 @@
 ---
 title: "Hermann"
-url: /duderstadt/hermann/
+url: /duderstadt/hermann-wildunger-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /goettingen/nahkauf/
+url: /goettingen/nahkauf-ludwig-prandtl-strasse/
 shop: Supermarkt
 ---

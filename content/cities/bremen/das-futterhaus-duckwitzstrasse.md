@@ -1,5 +1,5 @@
 ---
 title: "Das Futterhaus"
-url: /bremen/das-futterhaus/
+url: /bremen/das-futterhaus-duckwitzstrasse/
 shop: Tiere
 ---

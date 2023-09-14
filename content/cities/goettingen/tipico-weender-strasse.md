@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /goettingen/tipico/
+url: /goettingen/tipico-weender-strasse/
 shop: Wettbüro
 ---

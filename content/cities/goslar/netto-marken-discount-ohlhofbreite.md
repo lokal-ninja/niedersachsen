@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /goslar/netto-marken-discount/
+url: /goslar/netto-marken-discount-ohlhofbreite/
 shop: Supermarkt
 ---

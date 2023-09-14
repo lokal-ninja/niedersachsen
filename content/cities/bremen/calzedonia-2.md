@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
-url: /bremen/calzedonia/
+url: /bremen/calzedonia-2/
 shop: Kleidung
 ---

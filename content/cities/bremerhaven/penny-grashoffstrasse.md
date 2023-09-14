@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /bremerhaven/penny/
+url: /bremerhaven/penny-grashoffstrasse/
 shop: Supermarkt
 ---

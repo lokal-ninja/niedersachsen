@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /emden/deichmann/
+url: /emden/deichmann-auricher-strasse/
 shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kalieber Stützpunkt"
-url: /lastrup/kalieber-stuetzpunkt/
+url: /lastrup/kalieber-stuetzpunkt-dillen/
 shop: Metzgerei
 ---

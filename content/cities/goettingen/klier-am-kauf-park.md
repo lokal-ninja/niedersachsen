@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /goettingen/klier/
+url: /goettingen/klier-am-kauf-park/
 shop: Friseur
 ---

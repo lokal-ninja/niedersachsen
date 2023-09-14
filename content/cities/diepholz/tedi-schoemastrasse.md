@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /diepholz/tedi/
+url: /diepholz/tedi-schoemastrasse/
 shop: Kramladen
 ---

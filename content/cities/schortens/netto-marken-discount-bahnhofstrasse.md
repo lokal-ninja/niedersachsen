@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /schortens/netto-marken-discount/
+url: /schortens/netto-marken-discount-bahnhofstrasse/
 shop: Supermarkt
 ---

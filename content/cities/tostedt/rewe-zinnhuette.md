@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /tostedt/rewe/
+url: /tostedt/rewe-zinnhuette/
 shop: Supermarkt
 ---

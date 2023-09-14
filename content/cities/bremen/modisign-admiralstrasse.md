@@ -1,5 +1,5 @@
 ---
 title: "ModiSign"
-url: /bremen/modisign/
+url: /bremen/modisign-admiralstrasse/
 shop: Kleidung
 ---

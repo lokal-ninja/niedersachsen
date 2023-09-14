@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /goettingen/fressnapf/
+url: /goettingen/fressnapf-werner-von-siemens-strasse/
 shop: Tiere
 ---

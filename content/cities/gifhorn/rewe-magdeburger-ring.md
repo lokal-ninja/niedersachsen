@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /gifhorn/rewe/
+url: /gifhorn/rewe-magdeburger-ring/
 shop: Supermarkt
 ---

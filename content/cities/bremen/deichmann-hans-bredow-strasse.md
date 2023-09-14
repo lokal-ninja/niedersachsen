@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /bremen/deichmann/
+url: /bremen/deichmann-hans-bredow-strasse/
 shop: Schuhe
 ---

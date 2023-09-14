@@ -1,5 +1,5 @@
 ---
 title: "Musswessels"
-url: /moormerland/musswessels/
+url: /moormerland/musswessels-theodor-heuss-strasse/
 shop: Bäckerei
 ---

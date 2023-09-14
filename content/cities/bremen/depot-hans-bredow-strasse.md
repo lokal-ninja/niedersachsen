@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /bremen/depot/
+url: /bremen/depot-hans-bredow-strasse/
 shop: Raumausstattung
 ---

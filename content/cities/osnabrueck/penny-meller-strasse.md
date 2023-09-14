@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /osnabrueck/penny/
+url: /osnabrueck/penny-meller-strasse/
 shop: Supermarkt
 ---

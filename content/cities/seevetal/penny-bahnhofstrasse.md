@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /seevetal/penny/
+url: /seevetal/penny-bahnhofstrasse/
 shop: Supermarkt
 ---

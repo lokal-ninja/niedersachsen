@@ -1,5 +1,5 @@
 ---
 title: "Buck's Backparadies"
-url: /hannover/bucks-backparadies/
+url: /hannover/bucks-backparadies-marienstrasse/
 shop: Bäckerei
 ---

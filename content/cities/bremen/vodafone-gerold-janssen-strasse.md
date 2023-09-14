@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /bremen/vodafone/
+url: /bremen/vodafone-gerold-janssen-strasse/
 shop: Handy
 ---

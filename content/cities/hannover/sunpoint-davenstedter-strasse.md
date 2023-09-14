@@ -1,5 +1,5 @@
 ---
 title: "Sunpoint"
-url: /hannover/sunpoint/
+url: /hannover/sunpoint-davenstedter-strasse/
 shop: Kosmetik
 ---

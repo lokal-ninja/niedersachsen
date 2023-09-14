@@ -1,5 +1,5 @@
 ---
 title: "Fahrzeughaus Klugkist"
-url: /weener/fahrzeughaus-klugkist/
+url: /weener/fahrzeughaus-klugkist-neue-strasse/
 shop: Fahrrad
 ---

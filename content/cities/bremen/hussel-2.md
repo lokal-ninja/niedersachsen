@@ -1,5 +1,5 @@
 ---
 title: "Hussel"
-url: /bremen/hussel/
+url: /bremen/hussel-2/
 shop: Süßwaren
 ---

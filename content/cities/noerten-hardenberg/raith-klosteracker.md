@@ -1,5 +1,5 @@
 ---
 title: "Raith"
-url: /noerten-hardenberg/raith/
+url: /noerten-hardenberg/raith-klosteracker/
 shop: Autohaus
 ---

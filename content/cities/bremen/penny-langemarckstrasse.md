@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /bremen/penny/
+url: /bremen/penny-langemarckstrasse/
 shop: Supermarkt
 ---

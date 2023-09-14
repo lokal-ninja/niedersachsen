@@ -1,5 +1,5 @@
 ---
 title: "Autogalerie"
-url: /bremerhaven/autogalerie/
+url: /bremerhaven/autogalerie-barkhausenstrasse/
 shop: Autowerkstatt
 ---

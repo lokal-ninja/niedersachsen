@@ -1,5 +1,5 @@
 ---
 title: "Handy Hospital"
-url: /bremen/handy-hospital/
+url: /bremen/handy-hospital-pappelstrasse/
 shop: Handy
 ---

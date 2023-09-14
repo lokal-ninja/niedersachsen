@@ -1,5 +1,5 @@
 ---
 title: "digibet"
-url: /goettingen/digibet/
+url: /goettingen/digibet-koenigsallee/
 shop: Wettbüro
 ---

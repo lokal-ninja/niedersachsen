@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /langelsheim/nahkauf/
+url: /langelsheim/nahkauf-hauptstrasse/
 shop: Supermarkt
 ---

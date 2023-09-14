@@ -1,5 +1,5 @@
 ---
 title: "Cadera"
-url: /wolfsburg/cadera/
+url: /wolfsburg/cadera-helmstedter-strasse/
 shop: Bäckerei
 ---

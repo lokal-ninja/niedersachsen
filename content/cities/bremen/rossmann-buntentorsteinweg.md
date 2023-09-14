@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /bremen/rossmann/
+url: /bremen/rossmann-buntentorsteinweg/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /celle/rewe/
+url: /celle/rewe-riethkamp/
 shop: Supermarkt
 ---

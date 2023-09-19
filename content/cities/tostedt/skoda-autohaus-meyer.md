@@ -1,5 +1,5 @@
 ---
-title: "Skoda Autohaus Meyer"
+title: "Škoda Autohaus Meyer"
 url: /tostedt/skoda-autohaus-meyer/
-shop: Autowerkstatt
+shop: Autohaus
 ---

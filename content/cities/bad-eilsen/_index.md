@@ -1,6 +1,6 @@
 ---
 title: Bad Eilsen
 url: /bad-eilsen/
-latitude: 52.245
-longitude: 9.101
+latitude: 52.246
+longitude: 9.108
 ---

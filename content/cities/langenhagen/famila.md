@@ -1,5 +1,5 @@
 ---
-title: "Famila"
+title: "famila"
 url: /langenhagen/famila/
 shop: Supermarkt
 ---

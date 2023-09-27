@@ -1,5 +1,5 @@
 ---
 title: "FORD Groenewold"
 url: /leer/ford-groenewold-grosse-rossbergstrasse/
-shop: Autowerkstatt
+shop: Autohaus
 ---

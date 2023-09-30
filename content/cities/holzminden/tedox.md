@@ -1,5 +1,5 @@
 ---
-title: "Tedox"
+title: "tedox"
 url: /holzminden/tedox/
 shop: Raumausstattung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nienburg
 url: /nienburg/
-latitude: 52.638
-longitude: 9.205
+latitude: 52.631
+longitude: 9.218
 ---

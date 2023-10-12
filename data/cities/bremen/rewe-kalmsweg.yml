@@ -1,11 +1,11 @@
-id: 252160718
-type: node
-latitude: 53.13584
-longitude: 8.74
+id: 26719057
+type: way
+latitude: 53.13563
+longitude: 8.7403
 postcode: "28239"
 city: Bremen
 street: "Kalmsweg"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/mein-markt/10320"
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: ""

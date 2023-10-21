@@ -1,6 +1,6 @@
 ---
 title: Hermannsburg
 url: /hermannsburg/
-latitude: 52.831
-longitude: 10.089
+latitude: 52.823
+longitude: 10.079
 ---

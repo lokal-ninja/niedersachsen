@@ -1,6 +1,6 @@
 ---
 title: Wrestedt
 url: /wrestedt/
-latitude: 52.891
-longitude: 10.655
+latitude: 52.902
+longitude: 10.571
 ---

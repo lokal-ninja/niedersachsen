@@ -1,5 +1,5 @@
 ---
-title: "Jacques´ Wein-Depot"
+title: "Jacques’ Wein-Depot"
 url: /isernhagen/jacques-wein-depot/
-shop: Spirituosen
+shop: Wein
 ---

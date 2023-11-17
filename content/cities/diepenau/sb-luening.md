@@ -1,5 +1,5 @@
 ---
 title: "sb Lüning"
 url: /diepenau/sb-luening/
-shop: Allgemein
+shop: Supermarkt
 ---

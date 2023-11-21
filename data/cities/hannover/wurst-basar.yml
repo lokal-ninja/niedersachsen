@@ -1,11 +1,11 @@
-id: 1123344004
+id: 1717762599
 type: node
-latitude: 52.34723
-longitude: 9.72365
-postcode: "30459"
+latitude: 52.33582
+longitude: 9.76824
+postcode: "30519"
 city: Hannover
-street: "Ricklinger Stadtweg"
-housenumber: 41
+street: "Innstraße"
+housenumber: 20
 phone: ""
-opening_hours: "Sa 08:00-13:00; Mo-Th 08:00-14:00; Fr 08:00-17:00"
-website: "https://www.wurst-basar.de/essen/restaurants-und-imbisse/hannover-ricklingen/"
+opening_hours: "Mo-Th 08:00-13:00,14:30-18:00, Fr 08:00-18:00, Sa 08:00-13:00"
+website: ""

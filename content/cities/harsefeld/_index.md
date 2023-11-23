@@ -1,6 +1,6 @@
 ---
 title: Harsefeld
 url: /harsefeld/
-latitude: 53.457
-longitude: 9.499
+latitude: 53.456
+longitude: 9.51
 ---

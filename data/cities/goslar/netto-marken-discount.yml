@@ -1,11 +1,11 @@
-id: 743695022
-type: way
-latitude: 51.89961
-longitude: 10.4936
-postcode: "38642"
+id: 3229763545
+type: node
+latitude: 51.91961
+longitude: 10.41598
+postcode: "38640"
 city: Goslar
-street: "Harzburger Straße"
-housenumber: 20
+street: "Hildesheimer Straße"
+housenumber: 35
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00"
+website: "https://www.netto-online.de"

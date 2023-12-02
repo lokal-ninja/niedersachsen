@@ -1,6 +1,6 @@
 ---
 title: Hattorf am Harz
 url: /hattorf-am-harz/
-latitude: 51.641
-longitude: 10.23
+latitude: 51.649
+longitude: 10.236
 ---

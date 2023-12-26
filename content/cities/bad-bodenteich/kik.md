@@ -1,5 +1,5 @@
 ---
-title: "kik"
+title: "KiK"
 url: /bad-bodenteich/kik/
 shop: Kleidung
 ---

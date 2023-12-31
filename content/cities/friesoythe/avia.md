@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /friesoythe/avia/
-shop: Autowerkstatt
+shop: Kiosk
 ---

@@ -1,11 +1,11 @@
-id: 324339288
-type: way
-latitude: 53.40995
-longitude: 7.72762
+id: 11462439335
+type: node
+latitude: 53.4098
+longitude: 7.72766
 postcode: "26639"
 city: Wiesmoor
 street: "Hauptstraße"
-housenumber: 218
-phone: "+49 4944 2596"
-opening_hours: ""
-website: "http://www.jeans-hosenecke-wiesmoor.de"
+housenumber: 220
+phone: "+4949442596"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+website: "https://hosenecke-wiesmoor.de/"

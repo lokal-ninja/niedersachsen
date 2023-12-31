@@ -1,6 +1,6 @@
 ---
 title: Göttingen
 url: /goettingen/
-latitude: 51.534
-longitude: 9.934
+latitude: 51.543
+longitude: 9.931
 ---

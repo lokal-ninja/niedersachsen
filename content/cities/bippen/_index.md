@@ -1,6 +1,6 @@
 ---
 title: Bippen
 url: /bippen/
-latitude: 52.605
-longitude: 7.677
+latitude: 52.582
+longitude: 7.74
 ---

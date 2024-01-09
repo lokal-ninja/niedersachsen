@@ -1,5 +1,5 @@
 ---
 title: "WMF"
 url: /soltau/wmf/
-shop: Küchen
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /soltau/guess/
-shop: Uhren
+shop: Kleidung
 ---

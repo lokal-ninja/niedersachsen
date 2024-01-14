@@ -1,6 +1,6 @@
 ---
 title: Kirchbrak
 url: /kirchbrak/
-latitude: 51.966
-longitude: 9.575
+latitude: 51.945
+longitude: 9.561
 ---

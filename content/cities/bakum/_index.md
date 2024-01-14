@@ -1,6 +1,6 @@
 ---
 title: Bakum
 url: /bakum/
-latitude: 52.727
-longitude: 8.179
+latitude: 52.741
+longitude: 8.195
 ---

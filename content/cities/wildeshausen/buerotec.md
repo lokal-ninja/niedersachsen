@@ -1,5 +1,5 @@
 ---
 title: "Bürotec"
 url: /wildeshausen/buerotec/
-shop: Allgemein
+shop: Computer
 ---

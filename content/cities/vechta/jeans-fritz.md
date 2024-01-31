@@ -1,5 +1,5 @@
 ---
-title: "jeans fritz"
+title: "Jeans Fritz"
 url: /vechta/jeans-fritz/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schecker"
 url: /suedbrookmerland/schecker/
-shop: Allgemein
+shop: Tiersalon
 ---

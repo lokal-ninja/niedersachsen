@@ -1,5 +1,5 @@
 ---
-title: "nah und gut"
+title: "nah & gut"
 url: /boerger/nah-und-gut/
 shop: Supermarkt
 ---

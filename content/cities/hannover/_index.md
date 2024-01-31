@@ -1,6 +1,6 @@
 ---
 title: Hannover
 url: /hannover/
-latitude: 52.369
-longitude: 9.749
+latitude: 52.399
+longitude: 9.737
 ---

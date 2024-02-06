@@ -1,5 +1,5 @@
 ---
-title: "Nanu Nana"
+title: "Nanu-Nana"
 url: /hannover/nanu-nana-ernst-august-platz/
-shop: Raumausstattung
+shop: Lebensmittel
 ---

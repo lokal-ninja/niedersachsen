@@ -1,6 +1,6 @@
 ---
 title: Neu Darchau
 url: /neu-darchau/
-latitude: 53.23
+latitude: 53.231
 longitude: 10.887
 ---

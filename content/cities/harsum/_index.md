@@ -1,6 +1,6 @@
 ---
 title: Harsum
 url: /harsum/
-latitude: 52.212
-longitude: 9.971
+latitude: 52.207
+longitude: 10.005
 ---

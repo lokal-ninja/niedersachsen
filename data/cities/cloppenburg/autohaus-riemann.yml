@@ -1,11 +1,11 @@
-id: 221553108
+id: 221553110
 type: way
-latitude: 52.83807
-longitude: 8.07074
+latitude: 52.83835
+longitude: 8.07086
 postcode: "49661"
 city: Cloppenburg
-street: "Lise-Meitner-Straße"
-housenumber: 4
-phone: "+49 4471 1840 80"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-13:00"
+street: "Max-Planck-Straße"
+housenumber: 12
+phone: "+49 4471 999 50"
+opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-13:00; Su,PH off"
 website: "https://www.autohaus-riemann.de/"

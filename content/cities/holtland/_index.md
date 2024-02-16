@@ -1,6 +1,6 @@
 ---
 title: Holtland
 url: /holtland/
-latitude: 53.279
-longitude: 7.575
+latitude: 53.283
+longitude: 7.569
 ---

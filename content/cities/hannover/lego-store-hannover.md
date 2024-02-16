@@ -1,5 +1,5 @@
 ---
-title: "Lego Store Hannover"
+title: "LEGO Store Hannover"
 url: /hannover/lego-store-hannover/
 shop: Spielzeug
 ---

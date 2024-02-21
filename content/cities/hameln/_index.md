@@ -1,6 +1,6 @@
 ---
 title: Hameln
 url: /hameln/
-latitude: 52.092
-longitude: 9.374
+latitude: 52.117
+longitude: 9.343
 ---

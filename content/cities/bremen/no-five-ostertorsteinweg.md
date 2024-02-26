@@ -1,5 +1,5 @@
 ---
-title: "no. five"
+title: "no.five"
 url: /bremen/no-five-ostertorsteinweg/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Avia"
+title: "AVIA"
 url: /barssel/avia/
 shop: Lebensmittel
 ---

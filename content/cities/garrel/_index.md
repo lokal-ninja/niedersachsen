@@ -1,6 +1,6 @@
 ---
 title: Garrel
 url: /garrel/
-latitude: 52.962
-longitude: 8.033
+latitude: 52.95
+longitude: 8.027
 ---

@@ -1,11 +1,11 @@
-id: 373530809
-type: way
-latitude: 53.08305
-longitude: 8.81306
-postcode: "28195"
+id: 8700896752
+type: node
+latitude: 53.16971
+longitude: 8.62945
+postcode: "28757"
 city: Bremen
-street: "Bahnhofsplatz"
-housenumber: 15
+street: "Vegesacker Bahnhofsplatz"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 06:30-21:00; Sa-Su 07:30-21:00"
+opening_hours: "Mo-Fr 08:30-12:30,13:30-18:00; Sa 09:00-13:30"
 website: ""

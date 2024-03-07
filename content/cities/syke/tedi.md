@@ -1,5 +1,5 @@
 ---
-title: "TEDi"
+title: "Tedi"
 url: /syke/tedi/
-shop: Kramladen
+shop: Supermarkt
 ---

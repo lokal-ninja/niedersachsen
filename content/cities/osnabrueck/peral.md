@@ -1,5 +1,5 @@
 ---
 title: "Peral"
 url: /osnabrueck/peral/
-shop: Spirituosen
+shop: Wein
 ---

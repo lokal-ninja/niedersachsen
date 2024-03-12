@@ -1,5 +1,5 @@
 ---
 title: "Magicbet"
 url: /bremen/magicbet/
-shop: Spielkasino
+shop: Wettbüro
 ---

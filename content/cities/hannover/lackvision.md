@@ -1,5 +1,5 @@
 ---
 title: "Lackvision"
 url: /hannover/lackvision/
-shop: Allgemein
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trödelmarkt"
 url: /schortens/troedelmarkt/
-shop: Allgemein
+shop: Gebrauchtwaren
 ---

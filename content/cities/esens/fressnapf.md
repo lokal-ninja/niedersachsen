@@ -1,5 +1,5 @@
 ---
-title: "fressnapf"
+title: "Fressnapf"
 url: /esens/fressnapf/
-shop: Supermarkt
+shop: Tiere
 ---

@@ -1,6 +1,6 @@
 ---
 title: Braunschweig
 url: /braunschweig/
-latitude: 52.271
-longitude: 10.534
+latitude: 52.275
+longitude: 10.521
 ---

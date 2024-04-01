@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /sehnde/aldi/
 shop: Supermarkt
 ---

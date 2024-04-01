@@ -1,5 +1,5 @@
 ---
-title: "Politz-Autoteile"
+title: "Politz Autoteile"
 url: /wahrenholz/politz-autoteile/
 shop: Autoteile
 ---

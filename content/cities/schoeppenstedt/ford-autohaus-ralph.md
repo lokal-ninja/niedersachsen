@@ -1,5 +1,5 @@
 ---
-title: "Ford Autohaus Ralph"
+title: "Ford - Autohaus Ralph"
 url: /schoeppenstedt/ford-autohaus-ralph/
 shop: Autohaus
 ---

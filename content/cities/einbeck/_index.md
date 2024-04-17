@@ -1,6 +1,6 @@
 ---
 title: Einbeck
 url: /einbeck/
-latitude: 51.812
-longitude: 9.846
+latitude: 51.815
+longitude: 9.874
 ---

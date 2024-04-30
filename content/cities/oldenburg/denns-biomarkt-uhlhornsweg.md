@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denn's Biomarkt"
 url: /oldenburg/denns-biomarkt-uhlhornsweg/
-shop: Supermarkt
+shop: Bäckerei
 ---

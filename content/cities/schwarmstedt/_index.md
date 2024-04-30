@@ -1,6 +1,6 @@
 ---
 title: Schwarmstedt
 url: /schwarmstedt/
-latitude: 52.684
-longitude: 9.614
+latitude: 52.678
+longitude: 9.623
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /nordhorn/tedi/
-shop: Haushaltsartikel
+shop: Kramladen
 ---

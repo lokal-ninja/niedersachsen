@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
 url: /bremen/tchibo/
-shop: Warenhaus
+shop: Kaffee
 ---

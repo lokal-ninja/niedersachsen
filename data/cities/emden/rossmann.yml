@@ -1,11 +1,11 @@
-id: 4140926195
+id: 4083665089
 type: node
-latitude: 53.36794
-longitude: 7.20655
+latitude: 53.36736
+longitude: 7.2066
 postcode: "26721"
 city: Emden
 street: "Neutorstraße"
-housenumber: 26
+housenumber: 10;12
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su off; PH off"
+opening_hours: ""
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Mythos"
 url: /lueneburg/mythos/
-shop: Spielzeug
+shop: Spiele
 ---

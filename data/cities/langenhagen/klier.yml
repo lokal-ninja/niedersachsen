@@ -1,11 +1,11 @@
-id: 7305399496
-type: node
-latitude: 52.42988
-longitude: 9.71667
-postcode: "30851"
+id: 376836285
+type: way
+latitude: 52.4392
+longitude: 9.73824
+postcode: "30853"
 city: Langenhagen
-street: "Hans-Böckler-Straße"
-housenumber: 60
-phone: "+49 511 89758516"
-opening_hours: "Mo-Sa 09:00-18:00; PH off"
-website: "https://www.klier.de/salons/details/eroeffnung-demnaechst-im-famila-langenhagen"
+street: "Marktplatz"
+housenumber: 7
+phone: ""
+opening_hours: "Mo-Sa 09:30-20:00"
+website: ""

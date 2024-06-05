@@ -1,5 +1,5 @@
 ---
 title: "GS Raiffeisen-Markt"
 url: /nutteln/gs-raiffeisen-markt/
-shop: Eisenwaren
+shop: Gasflaschen
 ---

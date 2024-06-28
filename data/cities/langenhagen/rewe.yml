@@ -1,11 +1,11 @@
-id: 135627883
-type: way
-latitude: 52.47933
-longitude: 9.73462
-postcode: "30855"
+id: 280986277
+type: node
+latitude: 52.43512
+longitude: 9.75563
+postcode: "30851"
 city: Langenhagen
-street: "Maria-Montessori-Straße"
-housenumber: 3
-phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: ""
+street: "Erich-Ollenhauer-Straße"
+housenumber: 9
+phone: "+49 511 2359332"
+opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+website: "https://www.rewe.de/marktseite/langenhagen/565543/rewe-markt-erich-ollenhauer-str-9/"

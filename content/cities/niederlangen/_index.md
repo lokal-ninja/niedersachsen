@@ -1,6 +1,6 @@
 ---
 title: Niederlangen
 url: /niederlangen/
-latitude: 52.857
-longitude: 7.286
+latitude: 52.859
+longitude: 7.281
 ---

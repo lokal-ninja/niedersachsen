@@ -1,5 +1,5 @@
 ---
-title: "Hol'ab"
+title: "HolAb"
 url: /brome/holab/
 shop: Getränke
 ---

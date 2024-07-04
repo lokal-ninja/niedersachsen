@@ -1,5 +1,5 @@
 ---
-title: "Sigikid"
+title: "sigikid"
 url: /soltau/sigikid/
 shop: Kleidung
 ---

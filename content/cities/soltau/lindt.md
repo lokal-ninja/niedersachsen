@@ -1,5 +1,5 @@
 ---
 title: "Lindt"
 url: /soltau/lindt/
-shop: Feinkost
+shop: Schokolade
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bösel
 url: /boesel/
-latitude: 53.006
-longitude: 7.953
+latitude: 53.005
+longitude: 7.956
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scala"
 url: /goettingen/scala/
-shop: Modehaus
+shop: Kleidung
 ---

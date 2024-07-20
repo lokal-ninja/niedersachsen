@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /munster/lidl/
-shop: Supermarkt
+shop: Leerstehend
 ---

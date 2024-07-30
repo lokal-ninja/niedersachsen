@@ -7,5 +7,5 @@ city: Wolfsburg
 street: "Porschestraße"
 housenumber: 41 c
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00; PH,Su,Mo off"
+opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00; Su,Mo,PH off"
 website: ""

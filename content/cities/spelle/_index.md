@@ -1,6 +1,6 @@
 ---
 title: Spelle
 url: /spelle/
-latitude: 52.368
-longitude: 7.471
+latitude: 52.366
+longitude: 7.47
 ---

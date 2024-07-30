@@ -1,6 +1,6 @@
 ---
 title: Rühen
 url: /ruehen/
-latitude: 52.478
-longitude: 10.874
+latitude: 52.484
+longitude: 10.885
 ---

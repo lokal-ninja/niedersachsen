@@ -1,5 +1,5 @@
 ---
 title: "Mega"
 url: /bremerhaven/mega/
-shop: Raumausstattung
+shop: Großhandel
 ---

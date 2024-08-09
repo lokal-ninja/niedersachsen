@@ -1,6 +1,6 @@
 ---
 title: Egestorf
 url: /egestorf/
-latitude: 53.194
-longitude: 10.077
+latitude: 53.195
+longitude: 10.063
 ---

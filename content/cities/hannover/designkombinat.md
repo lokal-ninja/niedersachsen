@@ -1,5 +1,5 @@
 ---
 title: "Designkombinat"
 url: /hannover/designkombinat/
-shop: Modehaus
+shop: Kleidung
 ---

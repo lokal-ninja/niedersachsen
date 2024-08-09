@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /hannover/denns-biomarkt-engelbosteler-damm/
 shop: Supermarkt
 ---

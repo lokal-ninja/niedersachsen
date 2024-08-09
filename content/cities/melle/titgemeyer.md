@@ -1,5 +1,5 @@
 ---
 title: "Titgemeyer"
 url: /melle/titgemeyer/
-shop: Bäckerei
+shop: Kaffee
 ---

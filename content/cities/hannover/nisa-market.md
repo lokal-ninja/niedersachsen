@@ -1,5 +1,5 @@
 ---
-title: "NISA Market"
+title: "nisa Market"
 url: /hannover/nisa-market/
 shop: Supermarkt
 ---

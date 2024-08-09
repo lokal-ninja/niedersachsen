@@ -1,5 +1,5 @@
 ---
-title: "Nahkauf"
+title: "nahkauf"
 url: /eschershausen/nahkauf/
 shop: Supermarkt
 ---

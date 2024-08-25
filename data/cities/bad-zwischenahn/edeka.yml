@@ -1,11 +1,11 @@
-id: 261051877
-type: way
-latitude: 53.19198
-longitude: 7.98154
+id: 253748117
+type: node
+latitude: 53.16688
+longitude: 8.15588
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Westersteder Straße"
-housenumber: 3
-phone: "+49 4403 7440"
-opening_hours: "Mo-Sa 07:00-20:00, Su 10:00-18:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-claus-westersteder-str.-3/index.jsp"
+street: "Heideweg"
+housenumber: 2
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+website: ""

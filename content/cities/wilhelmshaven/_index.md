@@ -1,6 +1,6 @@
 ---
 title: Wilhelmshaven
 url: /wilhelmshaven/
-latitude: 53.527
-longitude: 8.093
+latitude: 53.559
+longitude: 8.103
 ---

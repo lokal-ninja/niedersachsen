@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Konditorei Scheer"
 url: /auetal/baeckerei-konditorei-scheer/
-shop: Bäckerei
+shop: Leerstehend
 ---

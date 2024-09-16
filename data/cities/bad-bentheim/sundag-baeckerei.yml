@@ -1,11 +1,11 @@
 id: 1064626983
-type: way
+type: node
 latitude: 52.30628
 longitude: 7.16662
 postcode: "48455"
 city: Bad Bentheim
-street: "Rheiner Straße"
-housenumber: 20
-phone: "+49 5922 9947622"
-opening_hours: "Mo-Fr 06:00-18:30; Sa-Su 06:00-17:00"
-website: "https://sundag.de/filialen/bad-bentheim"
+street: Rheiner Straße
+housenumber: "20"
+phone: +49 5922 9947622
+opening_hours: Mo-Fr 06:00-18:30; Sa-Su 06:00-17:00
+website: https://sundag.de/filialen/bad-bentheim

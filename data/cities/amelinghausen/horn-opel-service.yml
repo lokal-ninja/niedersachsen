@@ -1,11 +1,11 @@
 id: 228011776
-type: way
+type: node
 latitude: 53.12462
 longitude: 10.20928
 postcode: "21385"
 city: Amelinghausen
-street: "Soltauer Straße"
-housenumber: 9
-phone: "+49 4132 600"
+street: Soltauer Straße
+housenumber: "9"
+phone: +49 4132 600
 opening_hours: ""
-website: "https://www.opelhorn.de/"
+website: https://www.opelhorn.de/

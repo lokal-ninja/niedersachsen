@@ -1,11 +1,11 @@
 id: 376115047
-type: way
+type: node
 latitude: 53.28357
 longitude: 10.93017
 postcode: "19273"
 city: Amt Neuhaus
-street: "Poststraße"
-housenumber: 2
-phone: "+49 3884220040"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Poststraße
+housenumber: "2"
+phone: +49 3884220040
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

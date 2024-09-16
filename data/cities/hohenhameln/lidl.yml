@@ -1,11 +1,11 @@
 id: 450118467
-type: way
+type: node
 latitude: 52.26
 longitude: 10.06576
 postcode: "31249"
 city: Hohenhameln
-street: "Marktstraße"
-housenumber: 28
+street: Marktstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

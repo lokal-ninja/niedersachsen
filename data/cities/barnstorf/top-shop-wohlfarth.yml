@@ -1,11 +1,11 @@
 id: 413142285
-type: way
+type: node
 latitude: 52.70853
 longitude: 8.50713
 postcode: "49406"
 city: Barnstorf
-street: "Bahnhofstraße"
-housenumber: 6
+street: Bahnhofstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

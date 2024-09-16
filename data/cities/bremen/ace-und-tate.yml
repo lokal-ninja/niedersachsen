@@ -4,8 +4,8 @@ latitude: 53.07287
 longitude: 8.82139
 postcode: "28203"
 city: Bremen
-street: "Ostertorsteinweg"
-housenumber: 12
-phone: "+49 421 36583238"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.aceandtate.com/de/stores/deutschland/bremen/ostertorsteinweg-12"
+street: Ostertorsteinweg
+housenumber: "12"
+phone: +49 421 36583238
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.aceandtate.com/de/stores/deutschland/bremen/ostertorsteinweg-12

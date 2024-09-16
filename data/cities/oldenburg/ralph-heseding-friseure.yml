@@ -4,8 +4,8 @@ latitude: 53.15609
 longitude: 8.20729
 postcode: "26121"
 city: Oldenburg
-street: "Melkbrink"
-housenumber: 19
-phone: "+49 441 30441058"
-opening_hours: "Tu-Fr 08:30-19:00; Mo,Sa,Su,PH off"
-website: "https://ralph-h.de"
+street: Melkbrink
+housenumber: "19"
+phone: +49 441 30441058
+opening_hours: Tu-Fr 08:30-19:00; Mo,Sa,Su,PH off
+website: https://ralph-h.de

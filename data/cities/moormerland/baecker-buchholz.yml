@@ -4,8 +4,8 @@ latitude: 53.31256
 longitude: 7.48537
 postcode: "26802"
 city: Moormerland
-street: "Heinrich-Lübke-Straße"
-housenumber: 10
+street: Heinrich-Lübke-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off; PH off"
-website: "http://www.baeckerbuchholz.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su off; PH off
+website: http://www.baeckerbuchholz.de/

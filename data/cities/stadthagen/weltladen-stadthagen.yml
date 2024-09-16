@@ -4,8 +4,8 @@ latitude: 52.32341
 longitude: 9.20746
 postcode: "31655"
 city: Stadthagen
-street: "Am Kirchhof"
-housenumber: 5
-phone: "+49 5721 71809"
-opening_hours: "Tu-Th 09:30-13:00,15:00-18:00; Sa 09:30-13:00; Mo 09:30-13:00; Fr 09:30-13:00"
-website: "https://weltlaeden.de/stadthagen/"
+street: Am Kirchhof
+housenumber: "5"
+phone: +49 5721 71809
+opening_hours: Tu-Th 09:30-13:00,15:00-18:00; Sa 09:30-13:00; Mo 09:30-13:00; Fr 09:30-13:00
+website: https://weltlaeden.de/stadthagen/

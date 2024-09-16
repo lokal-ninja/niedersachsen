@@ -4,8 +4,9 @@ latitude: 52.68373
 longitude: 9.62812
 postcode: "29690"
 city: Schwarmstedt
-street: "Am Varrenbruch"
-housenumber: 8
-phone: "+49 5071 9668234"
-opening_hours: "Apr-Sep: Mo-Sa 10:00-18:00, Su 10:00-12:00; Oct-Mar: Mo-Fr 10:00-18:00, Sa 10:00-15:00"
-website: "https://www.cafe-konfitee.de/hofladen-schwarmstedt/"
+street: Am Varrenbruch
+housenumber: "8"
+phone: +49 5071 9668234
+opening_hours: 'Apr-Sep: Mo-Sa 10:00-18:00, Su 10:00-12:00; Oct-Mar: Mo-Fr 10:00-18:00,
+    Sa 10:00-15:00'
+website: https://www.cafe-konfitee.de/hofladen-schwarmstedt/

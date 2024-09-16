@@ -1,11 +1,11 @@
 id: 753503275
-type: way
+type: node
 latitude: 53.00441
 longitude: 7.95491
 postcode: "26219"
 city: Bösel
-street: "Am Kirchplatz"
-housenumber: 18
-phone: "+49 4494 921093"
+street: Am Kirchplatz
+housenumber: "18"
+phone: +49 4494 921093
 opening_hours: ""
 website: ""

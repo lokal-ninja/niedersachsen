@@ -1,11 +1,11 @@
 id: 206839900
-type: way
+type: node
 latitude: 52.50785
 longitude: 10.59166
 postcode: "38524"
 city: Sassenburg
-street: "Triangeler Hauptstraße"
-housenumber: 71
+street: Triangeler Hauptstraße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

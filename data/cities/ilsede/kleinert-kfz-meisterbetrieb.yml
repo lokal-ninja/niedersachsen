@@ -1,11 +1,11 @@
 id: 367984420
-type: way
+type: node
 latitude: 52.22856
 longitude: 10.25017
 postcode: "31246"
 city: Ilsede
-street: "Bierstraße"
-housenumber: 115
+street: Bierstraße
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

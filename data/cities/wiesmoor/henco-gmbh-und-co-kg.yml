@@ -1,11 +1,11 @@
 id: 738808059
-type: way
+type: node
 latitude: 53.41059
 longitude: 7.72555
 postcode: "26639"
 city: Wiesmoor
-street: "Neuer Weg"
-housenumber: 9
-phone: "+49 4944 6329"
-opening_hours: "Tu-Sa 08:30-13:00; Tu-Fr 14:30-18:00"
-website: "https://www.henco-bikes.de/"
+street: Neuer Weg
+housenumber: "9"
+phone: +49 4944 6329
+opening_hours: Tu-Sa 08:30-13:00; Tu-Fr 14:30-18:00
+website: https://www.henco-bikes.de/

@@ -1,11 +1,11 @@
 id: 305915532
-type: way
+type: node
 latitude: 53.63595
 longitude: 9.09712
 postcode: "21769"
 city: Lamstedt
-street: "Große Straße"
-housenumber: 19
+street: Große Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 06:30-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 06:30-18:00
 website: ""

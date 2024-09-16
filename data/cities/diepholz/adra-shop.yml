@@ -1,11 +1,11 @@
 id: 196366182
-type: way
+type: node
 latitude: 52.59461
 longitude: 8.36868
 postcode: "49356"
 city: Diepholz
-street: "Enge Straße"
-housenumber: 19
+street: Enge Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo,We 15:00-18:00; Tu 10:00-18:00; Th 10:00-13:00"
+opening_hours: Mo,We 15:00-18:00; Tu 10:00-18:00; Th 10:00-13:00
 website: ""

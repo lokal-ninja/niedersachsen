@@ -4,8 +4,8 @@ latitude: 53.14052
 longitude: 8.21225
 postcode: "26122"
 city: Oldenburg
-street: "Haarenstraße"
-housenumber: 58
-phone: "+49 441 2198313"
-opening_hours: "Mo-Sa 10:00-18:30"
-website: "https://www.scharmanns.de/"
+street: Haarenstraße
+housenumber: "58"
+phone: +49 441 2198313
+opening_hours: Mo-Sa 10:00-18:30
+website: https://www.scharmanns.de/

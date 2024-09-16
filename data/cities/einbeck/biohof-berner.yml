@@ -4,8 +4,8 @@ latitude: 51.8256
 longitude: 9.99349
 postcode: "37574"
 city: Einbeck
-street: "Zum Anger"
-housenumber: 5
-phone: "+49 5563 910705"
-opening_hours: "Fr 14:00-18:00"
-website: "https://www.biohof-berner.de/"
+street: Zum Anger
+housenumber: "5"
+phone: +49 5563 910705
+opening_hours: Fr 14:00-18:00
+website: https://www.biohof-berner.de/

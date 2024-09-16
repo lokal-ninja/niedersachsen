@@ -1,11 +1,11 @@
 id: 186296457
-type: way
+type: node
 latitude: 52.37526
 longitude: 9.73974
 postcode: "30159"
 city: Hannover
-street: "Bahnhofstraße"
-housenumber: 7
+street: Bahnhofstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

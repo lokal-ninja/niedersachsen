@@ -1,11 +1,11 @@
 id: 142881542
-type: way
+type: node
 latitude: 52.22775
 longitude: 11.00629
 postcode: "38350"
 city: Helmstedt
-street: "Neumärker Straße"
-housenumber: 17
+street: Neumärker Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

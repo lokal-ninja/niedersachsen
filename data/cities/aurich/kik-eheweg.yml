@@ -1,11 +1,11 @@
 id: 92457012
-type: way
+type: node
 latitude: 53.48931
 longitude: 7.49758
 postcode: "26607"
 city: Aurich
-street: "Eheweg"
-housenumber: 4
+street: Eheweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

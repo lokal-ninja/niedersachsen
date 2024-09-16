@@ -1,11 +1,11 @@
 id: 1279877308
-type: way
+type: node
 latitude: 52.15694
 longitude: 10.32778
 postcode: "38226"
 city: Salzgitter
-street: "Chemnitzer Straße"
-housenumber: 92
+street: Chemnitzer Straße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

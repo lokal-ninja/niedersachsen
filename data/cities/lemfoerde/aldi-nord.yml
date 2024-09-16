@@ -1,11 +1,11 @@
 id: 124449743
-type: way
+type: node
 latitude: 52.4705
 longitude: 8.37258
 postcode: "49448"
 city: Lemförde
-street: "Burgstraße"
+street: Burgstraße
 housenumber: 18b
 phone: ""
-opening_hours: "Su off; Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Su off; Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/

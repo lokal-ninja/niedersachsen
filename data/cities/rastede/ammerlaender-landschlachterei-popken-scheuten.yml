@@ -1,11 +1,11 @@
 id: 459445821
-type: way
+type: node
 latitude: 53.29664
 longitude: 8.16194
 postcode: "26180"
 city: Rastede
-street: "Wilhelmshavener Straße"
-housenumber: 271
+street: Wilhelmshavener Straße
+housenumber: "271"
 phone: ""
-opening_hours: "Tu-Fr 08:30-17:30; Sa 08:00-13:00"
-website: "http://ammerlaender-landschlachterei.com"
+opening_hours: Tu-Fr 08:30-17:30; Sa 08:00-13:00
+website: http://ammerlaender-landschlachterei.com

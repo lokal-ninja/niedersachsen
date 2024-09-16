@@ -4,8 +4,9 @@ latitude: 53.52623
 longitude: 8.1274
 postcode: "26384"
 city: Wilhelmshaven
-street: "Bismarckstraße"
-housenumber: 67
+street: Bismarckstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Sa 07:00-12:30; Su,PH off; Mo 07:00-13:30; Tu 07:00-18:00; We 07:00-18:00; Th 07:00-18:00; Fr 06:30-18:00"
+opening_hours: Sa 07:00-12:30; Su,PH off; Mo 07:00-13:30; Tu 07:00-18:00; We 07:00-18:00;
+    Th 07:00-18:00; Fr 06:30-18:00
 website: ""

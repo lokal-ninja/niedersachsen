@@ -1,11 +1,11 @@
 id: 45777528
-type: way
+type: node
 latitude: 53.18045
 longitude: 8.74199
 postcode: "27721"
 city: Ritterhude
-street: "An der Untermühle"
-housenumber: 17
+street: An der Untermühle
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

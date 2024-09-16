@@ -1,11 +1,11 @@
 id: 28703308
-type: way
+type: node
 latitude: 52.91846
 longitude: 9.97327
 postcode: "29649"
 city: Wietzendorf
-street: "Königstraße"
-housenumber: 6
+street: Königstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 149722792
-type: way
+type: node
 latitude: 53.18157
 longitude: 8.57244
 postcode: "28779"
 city: Bremen
-street: "Kapitän-Dallmann-Straße"
-housenumber: 1
+street: Kapitän-Dallmann-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

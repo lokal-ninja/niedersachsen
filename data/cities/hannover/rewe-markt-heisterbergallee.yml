@@ -1,11 +1,11 @@
 id: 90170741
-type: way
+type: node
 latitude: 52.37621
 longitude: 9.66102
 postcode: "30453"
 city: Hannover
-street: "Heisterbergallee"
-housenumber: 101
+street: Heisterbergallee
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.2721
 longitude: 8.0294
 postcode: "49078"
 city: Osnabrück
-street: "Katharinenstraße"
-housenumber: 99
-phone: "+49 541 76089691"
-opening_hours: "Mo,We,Fr 13:00-18:00"
-website: "https://www.45music.biz/"
+street: Katharinenstraße
+housenumber: "99"
+phone: +49 541 76089691
+opening_hours: Mo,We,Fr 13:00-18:00
+website: https://www.45music.biz/

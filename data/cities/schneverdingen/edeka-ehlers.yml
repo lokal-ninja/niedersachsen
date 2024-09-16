@@ -4,8 +4,8 @@ latitude: 53.11319
 longitude: 9.79711
 postcode: "29640"
 city: Schneverdingen
-street: "Bahnhofstraße"
-housenumber: 39
-phone: "+49 5193 52434"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka-ehlers.de/"
+street: Bahnhofstraße
+housenumber: "39"
+phone: +49 5193 52434
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka-ehlers.de/

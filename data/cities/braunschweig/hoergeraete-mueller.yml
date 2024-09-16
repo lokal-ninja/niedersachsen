@@ -4,8 +4,8 @@ latitude: 52.264
 longitude: 10.52592
 postcode: "38100"
 city: Braunschweig
-street: "Langer Hof"
-housenumber: 4
-phone: "+49 531 44139"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.muellerhoergeraete.de/"
+street: Langer Hof
+housenumber: "4"
+phone: +49 531 44139
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.muellerhoergeraete.de/

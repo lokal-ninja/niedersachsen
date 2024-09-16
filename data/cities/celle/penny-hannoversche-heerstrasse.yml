@@ -1,11 +1,11 @@
 id: 145631748
-type: way
+type: node
 latitude: 52.61068
 longitude: 10.07602
 postcode: "29221"
 city: Celle
-street: "Hannoversche Heerstraße"
-housenumber: 30
+street: Hannoversche Heerstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

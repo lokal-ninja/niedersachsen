@@ -1,11 +1,11 @@
 id: 96657447
-type: way
+type: node
 latitude: 53.13981
 longitude: 8.20575
 postcode: "26122"
 city: Oldenburg
-street: "Herbartstraße"
-housenumber: 4
-phone: "+49 174 7325345"
-opening_hours: "Mo-Th"
-website: "https://herbartgymnasium.de/leben-lernen/mensa/"
+street: Herbartstraße
+housenumber: "4"
+phone: +49 174 7325345
+opening_hours: Mo-Th
+website: https://herbartgymnasium.de/leben-lernen/mensa/

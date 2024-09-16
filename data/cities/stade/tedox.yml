@@ -1,11 +1,11 @@
 id: 114553156
-type: way
+type: node
 latitude: 53.59707
 longitude: 9.4219
 postcode: "21682"
 city: Stade
-street: "Drosselstieg"
-housenumber: 54
+street: Drosselstieg
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

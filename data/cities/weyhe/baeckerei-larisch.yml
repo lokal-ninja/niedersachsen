@@ -1,11 +1,11 @@
 id: 399085253
-type: way
+type: node
 latitude: 52.97051
 longitude: 8.79479
 postcode: "28844"
 city: Weyhe
-street: "Syker Straße"
-housenumber: 41
-phone: "+49 421 8098100"
-opening_hours: "Mo-Fr 05:00-14:00; Sa 05:00-12:00; Su 08:00-11:00"
+street: Syker Straße
+housenumber: "41"
+phone: +49 421 8098100
+opening_hours: Mo-Fr 05:00-14:00; Sa 05:00-12:00; Su 08:00-11:00
 website: ""

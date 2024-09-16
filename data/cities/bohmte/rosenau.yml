@@ -1,11 +1,11 @@
 id: 601365976
-type: way
+type: node
 latitude: 52.36697
 longitude: 8.30871
 postcode: "49163"
 city: Bohmte
-street: "Am Feuerwehrhaus"
-housenumber: 6
-phone: "+49 5471 953880"
+street: Am Feuerwehrhaus
+housenumber: "6"
+phone: +49 5471 953880
 opening_hours: ""
-website: "https://kfz-rosenau.de/"
+website: https://kfz-rosenau.de/

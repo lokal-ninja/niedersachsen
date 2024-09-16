@@ -4,8 +4,8 @@ latitude: 53.17642
 longitude: 8.60665
 postcode: "28755"
 city: Bremen
-street: "Lindenstraße"
-housenumber: 43
+street: Lindenstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.gaertnerei-claussen.de/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.gaertnerei-claussen.de/

@@ -1,11 +1,11 @@
 id: 204940226
-type: way
+type: node
 latitude: 52.70139
 longitude: 7.29004
 postcode: "49716"
 city: Meppen
-street: "Schützenhof"
-housenumber: 5
+street: Schützenhof
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-partner.de/"
+website: https://www.getraenke-partner.de/

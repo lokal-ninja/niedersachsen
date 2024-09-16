@@ -1,11 +1,11 @@
 id: 316315185
-type: way
+type: node
 latitude: 53.17719
 longitude: 8.22688
 postcode: "26125"
 city: Oldenburg
-street: "Stubbenweg"
-housenumber: 3
+street: Stubbenweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

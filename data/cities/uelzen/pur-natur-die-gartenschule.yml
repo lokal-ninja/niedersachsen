@@ -1,11 +1,11 @@
 id: 48572243
-type: way
+type: node
 latitude: 52.93814
 longitude: 10.52837
 postcode: "29525"
 city: Uelzen
-street: "Celler Straße"
-housenumber: 138
-phone: "+49 581 2910"
+street: Celler Straße
+housenumber: "138"
+phone: +49 581 2910
 opening_hours: ""
-website: "https://purnatur-gartenschule.de/"
+website: https://purnatur-gartenschule.de/

@@ -1,11 +1,11 @@
 id: 188444084
-type: way
+type: node
 latitude: 52.41703
 longitude: 9.79756
 postcode: "30659"
 city: Hannover
-street: "Puritzweg"
-housenumber: 4
+street: Puritzweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu 07:00-21:00; We off; Th-Sa 07:00-21:00"
+opening_hours: Mo,Tu 07:00-21:00; We off; Th-Sa 07:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.48751
 longitude: 10.54577
 postcode: "38518"
 city: Gifhorn
-street: "Steinweg"
-housenumber: 12
-phone: "+49 5371 6369331"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-14:00; Mo 15:00-18:30"
-website: "https://wiertz-genussvoll.de/"
+street: Steinweg
+housenumber: "12"
+phone: +49 5371 6369331
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-14:00; Mo 15:00-18:30
+website: https://wiertz-genussvoll.de/

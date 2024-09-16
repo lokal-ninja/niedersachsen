@@ -4,8 +4,8 @@ latitude: 52.58803
 longitude: 8.12289
 postcode: "49451"
 city: Holdorf
-street: "Große Straße"
-housenumber: 2
-phone: "+49 5494 995053"
-opening_hours: "Mo-Fr 05:00-18:30; Sa 05:00-13:00; Su 07:30-11:00"
-website: "https://www.baeckerei-heitmann.de"
+street: Große Straße
+housenumber: "2"
+phone: +49 5494 995053
+opening_hours: Mo-Fr 05:00-18:30; Sa 05:00-13:00; Su 07:30-11:00
+website: https://www.baeckerei-heitmann.de

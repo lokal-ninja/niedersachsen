@@ -1,11 +1,11 @@
 id: 442545432
-type: way
+type: node
 latitude: 53.06599
 longitude: 8.76971
 postcode: "28199"
 city: Bremen
-street: "Duckwitzstraße"
-housenumber: 55
+street: Duckwitzstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.apollo.de/"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.apollo.de/

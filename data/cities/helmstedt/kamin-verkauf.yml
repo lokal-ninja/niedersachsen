@@ -1,11 +1,11 @@
 id: 302366403
-type: way
+type: node
 latitude: 52.25153
 longitude: 10.99091
 postcode: "38350"
 city: Helmstedt
-street: "Am Lohen"
-housenumber: 2
+street: Am Lohen
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

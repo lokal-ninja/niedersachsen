@@ -1,11 +1,11 @@
 id: 424577665
-type: way
+type: node
 latitude: 52.85103
 longitude: 7.67745
 postcode: "49757"
 city: Werlte
-street: "Hauptstraße"
-housenumber: 19
-phone: "+49 5951 2799"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00"
-website: "http://www.handarbeitstruhe-werlte.de"
+street: Hauptstraße
+housenumber: "19"
+phone: +49 5951 2799
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00
+website: http://www.handarbeitstruhe-werlte.de

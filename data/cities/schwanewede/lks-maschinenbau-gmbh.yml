@@ -4,8 +4,9 @@ latitude: 53.22362
 longitude: 8.54669
 postcode: "28790"
 city: Schwanewede
-street: "An der Kaserne"
-housenumber: 166
+street: An der Kaserne
+housenumber: "166"
 phone: ""
-opening_hours: "Mo-Th 07:00-09:00, 09:15-12:00, 12:15-15:00; Fr 07:00-09:00, 09:15-12:00, 12:15-14:00"
-website: "http://www.lks-maschinenbau-gmbh.de"
+opening_hours: Mo-Th 07:00-09:00, 09:15-12:00, 12:15-15:00; Fr 07:00-09:00, 09:15-12:00,
+    12:15-14:00
+website: http://www.lks-maschinenbau-gmbh.de

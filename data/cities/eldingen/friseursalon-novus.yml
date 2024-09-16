@@ -4,8 +4,9 @@ latitude: 52.68606
 longitude: 10.34173
 postcode: "29351"
 city: Eldingen
-street: "Dorfstraße"
-housenumber: 8
+street: Dorfstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu,Th,Fr 08:30-13:00,14:00-18:00; We 08:30-13:00,14:00-20:00; Sa 08:30-13:00; Mo off"
+opening_hours: Tu,Th,Fr 08:30-13:00,14:00-18:00; We 08:30-13:00,14:00-20:00; Sa 08:30-13:00;
+    Mo off
 website: ""

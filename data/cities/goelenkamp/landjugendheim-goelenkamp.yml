@@ -1,11 +1,11 @@
 id: 135211951
-type: way
+type: node
 latitude: 52.51141
 longitude: 6.92136
 postcode: "49843"
 city: Gölenkamp
-street: "Am Mühlenberg"
-housenumber: 11
+street: Am Mühlenberg
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

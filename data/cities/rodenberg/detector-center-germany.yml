@@ -4,8 +4,8 @@ latitude: 52.31726
 longitude: 9.36149
 postcode: "31552"
 city: Rodenberg
-street: "Grover Straße"
-housenumber: 64
-phone: "+49 5723 6694"
-opening_hours: "on appointment"
-website: "https://detectorcenter.de/"
+street: Grover Straße
+housenumber: "64"
+phone: +49 5723 6694
+opening_hours: '"on appointment"'
+website: https://detectorcenter.de/

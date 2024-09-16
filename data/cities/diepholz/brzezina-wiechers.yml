@@ -1,11 +1,11 @@
 id: 197769235
-type: way
+type: node
 latitude: 52.59317
 longitude: 8.35151
 postcode: "49356"
 city: Diepholz
-street: "Dieselstraße"
-housenumber: 20
-phone: "+49 5441 98890"
-opening_hours: "24/7"
+street: Dieselstraße
+housenumber: "20"
+phone: +49 5441 98890
+opening_hours: 24/7
 website: ""

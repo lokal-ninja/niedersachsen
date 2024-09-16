@@ -4,8 +4,8 @@ latitude: 53.07784
 longitude: 8.80236
 postcode: "28195"
 city: Bremen
-street: "Martinistraße"
-housenumber: 57
-phone: "+49 421 558694"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"
-website: "https://www.hifi-city-bremen.de/"
+street: Martinistraße
+housenumber: "57"
+phone: +49 421 558694
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
+website: https://www.hifi-city-bremen.de/

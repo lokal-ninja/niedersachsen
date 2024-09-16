@@ -1,11 +1,11 @@
 id: 235196615
-type: way
+type: node
 latitude: 51.63006
 longitude: 10.46882
 postcode: "37431"
 city: Bad Lauterberg im Harz
-street: "Wissmannstraße"
-housenumber: 47
+street: Wissmannstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

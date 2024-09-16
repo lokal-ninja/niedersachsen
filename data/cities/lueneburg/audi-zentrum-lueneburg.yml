@@ -1,11 +1,11 @@
 id: 88244227
-type: way
+type: node
 latitude: 53.23914
 longitude: 10.45747
 postcode: "21337"
 city: Lüneburg
-street: "August-Horch-Straße"
-housenumber: 24
-phone: "+49 4131 8886888"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-16:00"
-website: "https://www.mein-autozentrum.de/audi-zentrum-lueneburg.html"
+street: August-Horch-Straße
+housenumber: "24"
+phone: +49 4131 8886888
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-16:00
+website: https://www.mein-autozentrum.de/audi-zentrum-lueneburg.html

@@ -1,11 +1,11 @@
 id: 32148157
-type: way
+type: node
 latitude: 53.18332
 longitude: 8.22879
 postcode: "26125"
 city: Oldenburg
-street: "Stubbenweg"
-housenumber: 27
-phone: "+49 441 4057360"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://filiale.kaufland.de/service/filiale/oldenburg-4673.html"
+street: Stubbenweg
+housenumber: "27"
+phone: +49 441 4057360
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://filiale.kaufland.de/service/filiale/oldenburg-4673.html

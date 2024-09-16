@@ -1,11 +1,11 @@
 id: 198275043
-type: way
+type: node
 latitude: 52.75275
 longitude: 7.77736
 postcode: "49624"
 city: Löningen
-street: "Europaring"
-housenumber: 
+street: Europaring
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://wittrock.de/wiro-tankstellen/wiro-tankpunkte"
+opening_hours: 24/7
+website: https://wittrock.de/wiro-tankstellen/wiro-tankpunkte

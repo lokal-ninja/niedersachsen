@@ -1,11 +1,11 @@
 id: 455888732
-type: way
+type: node
 latitude: 52.19771
 longitude: 9.46246
 postcode: "31848"
 city: Bad Münder am Deister
-street: "Marktstraße"
-housenumber: 11
+street: Marktstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

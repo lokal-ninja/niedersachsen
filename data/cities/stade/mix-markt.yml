@@ -1,11 +1,11 @@
 id: 257541072
-type: way
+type: node
 latitude: 53.58637
 longitude: 9.42059
 postcode: "21684"
 city: Stade
-street: "Alte Dorfstraße"
-housenumber: 25
+street: Alte Dorfstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

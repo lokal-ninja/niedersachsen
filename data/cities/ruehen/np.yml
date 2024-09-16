@@ -1,11 +1,11 @@
 id: 228209119
-type: way
+type: node
 latitude: 52.48929
 longitude: 10.88597
 postcode: "38471"
 city: Rühen
-street: "Hauptstraße"
-housenumber: 38
+street: Hauptstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

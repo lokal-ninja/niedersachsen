@@ -4,8 +4,8 @@ latitude: 53.36686
 longitude: 7.20083
 postcode: "26721"
 city: Emden
-street: "Große Straße"
-housenumber: 64
-phone: "+49 4921 583126"
-opening_hours: "Tu-Th 15:00-19:00; Fr 13:00-19:00; Sa 10:00-15:00"
-website: "https://www.jacques.de/"
+street: Große Straße
+housenumber: "64"
+phone: +49 4921 583126
+opening_hours: Tu-Th 15:00-19:00; Fr 13:00-19:00; Sa 10:00-15:00
+website: https://www.jacques.de/

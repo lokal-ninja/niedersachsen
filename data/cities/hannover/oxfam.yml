@@ -4,8 +4,8 @@ latitude: 52.37173
 longitude: 9.73698
 postcode: "30159"
 city: Hannover
-street: "Karmarschstraße"
-housenumber: 38
+street: Karmarschstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://www.oxfam.de/shops/hannover"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://www.oxfam.de/shops/hannover

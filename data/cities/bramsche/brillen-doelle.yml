@@ -4,8 +4,8 @@ latitude: 52.41118
 longitude: 7.97931
 postcode: "49565"
 city: Bramsche
-street: "Große Straße"
-housenumber: 50
+street: Große Straße
+housenumber: "50"
 phone: "+4954614331"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00"
-website: "https://www.brillen-doelle.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-13:00
+website: https://www.brillen-doelle.de/

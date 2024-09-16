@@ -1,11 +1,11 @@
 id: 186648562
-type: way
+type: node
 latitude: 52.41981
 longitude: 9.73817
 postcode: "30179"
 city: Hannover
-street: "Lilienthalstraße"
+street: Lilienthalstraße
 housenumber: 15A
-phone: "+49 511 72717272"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.relagio.de/"
+phone: +49 511 72717272
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.relagio.de/

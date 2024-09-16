@@ -4,8 +4,8 @@ latitude: 53.63837
 longitude: 9.37168
 postcode: "21714"
 city: Hammah
-street: "Groß Sterneberger Straße"
-housenumber: 60
+street: Groß Sterneberger Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Tu-Sa 08:00-12:00, 14:00-18:00"
-website: "https://www.hof-bohlmann.de/"
+opening_hours: Tu-Sa 08:00-12:00, 14:00-18:00
+website: https://www.hof-bohlmann.de/

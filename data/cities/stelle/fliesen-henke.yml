@@ -1,11 +1,11 @@
 id: 270243815
-type: way
+type: node
 latitude: 53.37292
 longitude: 10.13029
 postcode: "21435"
 city: Stelle
-street: "Duvendahl"
-housenumber: 98
+street: Duvendahl
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

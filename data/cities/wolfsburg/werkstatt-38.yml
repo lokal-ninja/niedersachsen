@@ -1,11 +1,11 @@
 id: 44684200
-type: way
+type: node
 latitude: 52.42847
 longitude: 10.82444
 postcode: "38446"
 city: Wolfsburg
-street: "Beesestraße"
-housenumber: 2
-phone: "+49 5361 890297000"
+street: Beesestraße
+housenumber: "2"
+phone: +49 5361 890297000
 opening_hours: ""
-website: "https://werkstatt38.com/"
+website: https://werkstatt38.com/

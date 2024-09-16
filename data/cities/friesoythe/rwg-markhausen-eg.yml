@@ -1,11 +1,11 @@
 id: 183991723
-type: way
+type: node
 latitude: 52.94275
 longitude: 7.83582
 postcode: "26169"
 city: Friesoythe
-street: "Hauptstraße"
-housenumber: 56
-phone: "+49 4496 9241-0"
+street: Hauptstraße
+housenumber: "56"
+phone: +49 4496 9241-0
 opening_hours: ""
-website: "https://www.raiffeisen.com/standorte/976"
+website: https://www.raiffeisen.com/standorte/976

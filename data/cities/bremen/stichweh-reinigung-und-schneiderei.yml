@@ -4,8 +4,8 @@ latitude: 53.04792
 longitude: 8.9571
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 438810"
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.stichweh.com/"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 438810
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.stichweh.com/

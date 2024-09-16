@@ -1,11 +1,11 @@
 id: 129700253
-type: way
+type: node
 latitude: 52.35471
 longitude: 9.88432
 postcode: "31319"
 city: Sehnde
-street: "Gretlade"
-housenumber: 6
+street: Gretlade
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

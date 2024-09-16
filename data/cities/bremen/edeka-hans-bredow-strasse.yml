@@ -4,8 +4,8 @@ latitude: 53.04972
 longitude: 8.95707
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 2783150"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "http://www.ecenter-weserpark.de/"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 2783150
+opening_hours: Mo-Sa 08:00-21:00
+website: http://www.ecenter-weserpark.de/

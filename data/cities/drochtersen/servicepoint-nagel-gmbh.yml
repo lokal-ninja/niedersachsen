@@ -1,11 +1,11 @@
 id: 1026321237
-type: way
+type: node
 latitude: 53.70598
 longitude: 9.39689
 postcode: "21706"
 city: Drochtersen
-street: "Werkstraße"
-housenumber: 1
-phone: "+49 4143 252"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:30-20:00; Su 09:00-20:00; PH off; "
-website: "https://www.servicepoint-nagel.de/"
+street: Werkstraße
+housenumber: "1"
+phone: +49 4143 252
+opening_hours: 'Mo-Fr 06:00-20:00; Sa 07:30-20:00; Su 09:00-20:00; PH off; '
+website: https://www.servicepoint-nagel.de/

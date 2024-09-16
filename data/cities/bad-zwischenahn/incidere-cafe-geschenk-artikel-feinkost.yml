@@ -1,11 +1,11 @@
 id: 89886803
-type: way
+type: node
 latitude: 53.21945
 longitude: 8.01741
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Stiller Bogen"
-housenumber: 31
-phone: "+49 4403 6026883"
-opening_hours: "We-Su 08:30-18:00"
-website: "http://cafe-incidere.de/"
+street: Stiller Bogen
+housenumber: "31"
+phone: +49 4403 6026883
+opening_hours: We-Su 08:30-18:00
+website: http://cafe-incidere.de/

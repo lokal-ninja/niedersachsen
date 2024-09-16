@@ -1,11 +1,11 @@
 id: 504568023
-type: way
+type: node
 latitude: 53.07468
 longitude: 7.69056
 postcode: "26683"
 city: Saterland
-street: "Zur Ziegelei"
-housenumber: 16
+street: Zur Ziegelei
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.schultes-vollkornbrot.de/"
+website: https://www.schultes-vollkornbrot.de/

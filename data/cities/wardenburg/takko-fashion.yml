@@ -1,11 +1,11 @@
 id: 1182029289
-type: way
+type: node
 latitude: 53.05315
 longitude: 8.20234
 postcode: "26203"
 city: Wardenburg
-street: "Rheinstraße"
-housenumber: 4
+street: Rheinstraße
+housenumber: "4"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Sa 09:30-19:00; Su,PH off
 website: ""

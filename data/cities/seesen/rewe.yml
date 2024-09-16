@@ -4,8 +4,8 @@ latitude: 51.8914
 longitude: 10.18258
 postcode: "38723"
 city: Seesen
-street: "Zimmerstraße"
-housenumber: 2
+street: Zimmerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.rewe.de/marktseite/seesen/1465558/rewe-markt-zimmerstrasse-2"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.rewe.de/marktseite/seesen/1465558/rewe-markt-zimmerstrasse-2

@@ -1,11 +1,11 @@
 id: 265913559
-type: way
+type: node
 latitude: 53.24156
 longitude: 8.1705
 postcode: "26180"
 city: Rastede
-street: "Düserweg"
-housenumber: 2
-phone: "+49 4402 9268-0"
+street: Düserweg
+housenumber: "2"
+phone: +49 4402 9268-0
 opening_hours: ""
-website: "https://www.kuechen-tenne-rastede.de/"
+website: https://www.kuechen-tenne-rastede.de/

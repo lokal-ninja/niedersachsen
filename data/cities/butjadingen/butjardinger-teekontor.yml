@@ -4,8 +4,8 @@ latitude: 53.59827
 longitude: 8.31238
 postcode: "26969"
 city: Butjadingen
-street: "Burmeidsweg"
-housenumber: 1
-phone: "+49 4733 173731"
-opening_hours: "We-Sa 10:00-12:00,14:00-16:00"
-website: "http://www.teekontor-nordsee.de/"
+street: Burmeidsweg
+housenumber: "1"
+phone: +49 4733 173731
+opening_hours: We-Sa 10:00-12:00,14:00-16:00
+website: http://www.teekontor-nordsee.de/

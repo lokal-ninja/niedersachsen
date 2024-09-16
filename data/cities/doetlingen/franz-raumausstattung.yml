@@ -1,11 +1,11 @@
 id: 160339597
-type: way
+type: node
 latitude: 52.97657
 longitude: 8.39957
 postcode: "27801"
 city: Dötlingen
-street: "Auf dem Brink"
-housenumber: 15
+street: Auf dem Brink
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

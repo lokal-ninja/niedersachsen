@@ -4,8 +4,8 @@ latitude: 52.36937
 longitude: 9.74927
 postcode: "30171"
 city: Hannover
-street: "Marienstraße"
-housenumber: 43
+street: Marienstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-15:00; Su off; PH off"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-15:00; Su off; PH off
 website: ""

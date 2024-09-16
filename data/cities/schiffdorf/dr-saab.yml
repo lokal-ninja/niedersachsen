@@ -1,11 +1,11 @@
 id: 174391734
-type: way
+type: node
 latitude: 53.55244
 longitude: 8.69844
 postcode: "27619"
 city: Schiffdorf
-street: "Lange Straße"
-housenumber: 67
+street: Lange Straße
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

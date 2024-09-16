@@ -4,8 +4,8 @@ latitude: 52.15508
 longitude: 8.04454
 postcode: "49186"
 city: Bad Iburg
-street: "Mühlentor"
-housenumber: 3
-phone: "+49 5403 780303"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.beermann-optik.de/"
+street: Mühlentor
+housenumber: "3"
+phone: +49 5403 780303
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.beermann-optik.de/

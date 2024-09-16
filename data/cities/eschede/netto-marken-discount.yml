@@ -1,11 +1,11 @@
 id: 109288466
-type: way
+type: node
 latitude: 52.73212
 longitude: 10.23398
 postcode: "29348"
 city: Eschede
-street: "Celler Straße"
-housenumber: 8
+street: Celler Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
 website: ""

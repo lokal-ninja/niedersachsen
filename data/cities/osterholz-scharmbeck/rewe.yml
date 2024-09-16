@@ -1,11 +1,11 @@
 id: 24720177
-type: way
+type: node
 latitude: 53.21745
 longitude: 8.77904
 postcode: "27711"
 city: Osterholz-Scharmbeck
-street: "Ritterhuder Straße"
-housenumber: 62
+street: Ritterhuder Straße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 7:00-22:00"
+opening_hours: Mo-Sa 7:00-22:00
 website: ""

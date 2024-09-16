@@ -1,11 +1,11 @@
 id: 257827318
-type: way
+type: node
 latitude: 52.90073
 longitude: 8.21235
 postcode: "26197"
 city: Großenkneten
-street: "Wildeshauser Straße"
-housenumber: 4
+street: Wildeshauser Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
-website: "https://www.holab.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
+website: https://www.holab.de/

@@ -1,11 +1,11 @@
 id: 225383716
-type: way
+type: node
 latitude: 53.26257
 longitude: 8.31037
 postcode: "26939"
 city: Ovelgönne
-street: "Meerkircher Straße"
-housenumber: 10
+street: Meerkircher Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

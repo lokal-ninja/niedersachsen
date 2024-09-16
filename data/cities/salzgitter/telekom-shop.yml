@@ -4,8 +4,8 @@ latitude: 52.15341
 longitude: 10.33154
 postcode: "38226"
 city: Salzgitter
-street: "Fischzug"
-housenumber: 12
-phone: "+49 53 41 17 84 25"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-14:00"
-website: "https://shopseite.telekom.de/nord-ost/salzgitter/fischzug-12"
+street: Fischzug
+housenumber: "12"
+phone: +49 53 41 17 84 25
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-14:00
+website: https://shopseite.telekom.de/nord-ost/salzgitter/fischzug-12

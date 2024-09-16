@@ -4,8 +4,8 @@ latitude: 53.38504
 longitude: 10.11051
 postcode: "21435"
 city: Stelle
-street: "Harburger Straße"
-housenumber: 1
-phone: "04174 668749-0"
-opening_hours: "Montag-Freitag 09:00-18:00 Uhr; Samstag 09:00-15:00 Uhr"
-website: "https://www.vr-plus.de/startseite.html"
+street: Harburger Straße
+housenumber: "1"
+phone: 04174 668749-0
+opening_hours: Montag-Freitag 09:00-18:00 Uhr; Samstag 09:00-15:00 Uhr
+website: https://www.vr-plus.de/startseite.html

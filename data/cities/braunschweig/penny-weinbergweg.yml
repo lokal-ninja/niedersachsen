@@ -1,11 +1,11 @@
 id: 37921894
-type: way
+type: node
 latitude: 52.28281
 longitude: 10.52722
 postcode: "38106"
 city: Braunschweig
-street: "Weinbergweg"
-housenumber: 34
+street: Weinbergweg
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

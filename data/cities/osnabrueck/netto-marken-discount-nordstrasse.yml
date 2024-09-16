@@ -1,11 +1,11 @@
 id: 460121922
-type: way
+type: node
 latitude: 52.28133
 longitude: 8.1105
 postcode: "49086"
 city: Osnabrück
-street: "Nordstraße"
-housenumber: 14
+street: Nordstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

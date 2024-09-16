@@ -1,11 +1,11 @@
 id: 369344761
-type: way
+type: node
 latitude: 52.73825
 longitude: 8.19925
 postcode: "49456"
 city: Bakum
-street: "Sütholter Straße"
-housenumber: 3
-phone: "+49 4446 968147"
-opening_hours: "Mo-Sa 09:00-19:00; Su,PH off"
-website: "https://www.getraenkehaus.de/"
+street: Sütholter Straße
+housenumber: "3"
+phone: +49 4446 968147
+opening_hours: Mo-Sa 09:00-19:00; Su,PH off
+website: https://www.getraenkehaus.de/

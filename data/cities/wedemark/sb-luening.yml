@@ -4,8 +4,8 @@ latitude: 52.54781
 longitude: 9.7437
 postcode: "30900"
 city: Wedemark
-street: "Wedemarkstraße"
-housenumber: 88
+street: Wedemarkstraße
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.sb-luening.de"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.sb-luening.de

@@ -4,8 +4,8 @@ latitude: 52.11933
 longitude: 9.73631
 postcode: "31008"
 city: Elze
-street: "Hauptstraße"
-housenumber: 63
-phone: "+49 5068 2375"
-opening_hours: "Mo, Tu, Th, Fr 09:00-13:00, 14:00-18:00; We, Sa 09:00-13:00"
-website: "https://www.zingel-optic.de/"
+street: Hauptstraße
+housenumber: "63"
+phone: +49 5068 2375
+opening_hours: Mo, Tu, Th, Fr 09:00-13:00, 14:00-18:00; We, Sa 09:00-13:00
+website: https://www.zingel-optic.de/

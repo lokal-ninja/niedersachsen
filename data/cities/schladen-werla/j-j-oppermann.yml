@@ -1,11 +1,11 @@
 id: 215201029
-type: way
+type: node
 latitude: 52.02951
 longitude: 10.53397
 postcode: "38315"
 city: Schladen-Werla
-street: "Im Gewerbegebiet"
-housenumber: 6
+street: Im Gewerbegebiet
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.jjo.de/"
+website: https://www.jjo.de/

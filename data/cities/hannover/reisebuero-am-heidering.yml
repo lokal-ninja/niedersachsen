@@ -4,8 +4,8 @@ latitude: 52.3807
 longitude: 9.81302
 postcode: "30625"
 city: Hannover
-street: "Heidering"
-housenumber: 2
+street: Heidering
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:30,14:30-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-13:30,14:30-18:00; Sa 10:00-14:00
 website: ""

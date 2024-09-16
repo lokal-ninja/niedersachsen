@@ -4,8 +4,8 @@ latitude: 53.34755
 longitude: 9.7968
 postcode: "21279"
 city: Wenzendorf
-street: "Klauenburg"
-housenumber: 6
-phone: "+49 4165 222000"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.hof-oelkers.de/"
+street: Klauenburg
+housenumber: "6"
+phone: +49 4165 222000
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.hof-oelkers.de/

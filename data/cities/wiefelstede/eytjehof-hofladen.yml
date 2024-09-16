@@ -1,11 +1,12 @@
 id: 116635968
-type: way
+type: node
 latitude: 53.22173
 longitude: 8.06551
 postcode: "26215"
 city: Wiefelstede
-street: "Zwischenahner Straße"
-housenumber: 2
+street: Zwischenahner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Aug-Apr Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off; May-Jul Mo-Fr 09:00-18:00; Sa 09:00-18:00; Su 11:00-16:00; PH 11:00-16:00"
+opening_hours: Aug-Apr Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off; May-Jul Mo-Fr 09:00-18:00;
+    Sa 09:00-18:00; Su 11:00-16:00; PH 11:00-16:00
 website: ""

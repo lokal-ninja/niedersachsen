@@ -1,11 +1,11 @@
 id: 442418762
-type: way
+type: node
 latitude: 53.06544
 longitude: 8.76963
 postcode: "28199"
 city: Bremen
-street: "Duckwitzstraße"
-housenumber: 55
-phone: "+49 2303 5938100"
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://woolworth.de/"
+street: Duckwitzstraße
+housenumber: "55"
+phone: +49 2303 5938100
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://woolworth.de/

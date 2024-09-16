@@ -1,11 +1,11 @@
 id: 149401761
-type: way
+type: node
 latitude: 52.42188
 longitude: 10.80354
 postcode: "38446"
 city: Wolfsburg
-street: "Reislinger Straße"
-housenumber: 22
+street: Reislinger Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://reislinger-markt.de/"
+website: https://reislinger-markt.de/

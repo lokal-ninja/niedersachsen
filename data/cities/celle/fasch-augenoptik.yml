@@ -4,8 +4,8 @@ latitude: 52.61385
 longitude: 10.05288
 postcode: "29225"
 city: Celle
-street: "Lauensteinplatz"
-housenumber: 13
+street: Lauensteinplatz
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://fasch.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://fasch.com/

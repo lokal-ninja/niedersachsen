@@ -1,11 +1,11 @@
 id: 809892486
-type: way
+type: node
 latitude: 53.4545
 longitude: 7.83772
 postcode: "26446"
 city: Friedeburg
-street: "Friedeburger Hauptstraße"
-housenumber: 86
+street: Friedeburger Hauptstraße
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 466924740
-type: way
+type: node
 latitude: 51.71613
 longitude: 9.99431
 postcode: ""
 city: Northeim
-street: "Einbecker Landstraße"
-housenumber: 24
+street: Einbecker Landstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-16:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-16:00
 website: ""

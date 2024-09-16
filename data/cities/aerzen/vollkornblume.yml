@@ -4,8 +4,8 @@ latitude: 52.07204
 longitude: 9.2246
 postcode: "31855"
 city: Aerzen
-street: "Schulstraße"
-housenumber: 11
-phone: "+49 51541729"
-opening_hours: "Th 14:00-17:00; Fr 09:00-12:00; Sa 15:00-16:30"
-website: "https://www.vollkornblume.de/"
+street: Schulstraße
+housenumber: "11"
+phone: +49 51541729
+opening_hours: Th 14:00-17:00; Fr 09:00-12:00; Sa 15:00-16:30
+website: https://www.vollkornblume.de/

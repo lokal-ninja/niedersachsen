@@ -1,11 +1,11 @@
 id: 191782722
-type: way
+type: node
 latitude: 52.86523
 longitude: 9.60621
 postcode: "29664"
 city: Walsrode
-street: "Quintusstraße"
-housenumber: 58
+street: Quintusstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

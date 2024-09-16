@@ -1,11 +1,11 @@
 id: 474356236
-type: way
+type: node
 latitude: 52.9103
 longitude: 8.82558
 postcode: "28857"
 city: Syke
-street: "Schloßweide"
-housenumber: 11
+street: Schloßweide
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,13:30-18:00"
+opening_hours: Mo-Fr 08:30-12:30,13:30-18:00
 website: ""

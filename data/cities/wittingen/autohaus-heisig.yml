@@ -1,11 +1,11 @@
 id: 103427428
-type: way
+type: node
 latitude: 52.73448
 longitude: 10.73612
 postcode: "29378"
 city: Wittingen
-street: "Uelzener Straße"
-housenumber: 12
+street: Uelzener Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

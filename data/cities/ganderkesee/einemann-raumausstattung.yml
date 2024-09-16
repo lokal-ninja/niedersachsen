@@ -4,8 +4,9 @@ latitude: 53.0353
 longitude: 8.54421
 postcode: "27777"
 city: Ganderkesee
-street: "Wittekindstraße"
-housenumber: 12
+street: Wittekindstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 14:00-18:00; Sa nach Vereinbarung; Su,PH off"
+opening_hours: Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 14:00-18:00; Sa "nach Vereinbarung";
+    Su,PH off
 website: ""

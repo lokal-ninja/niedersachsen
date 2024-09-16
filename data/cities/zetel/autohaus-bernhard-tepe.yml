@@ -1,11 +1,11 @@
 id: 432597942
-type: way
+type: node
 latitude: 53.41024
 longitude: 7.96071
 postcode: "26340"
 city: Zetel
-street: "Neuenburger Straße"
-housenumber: 47
-phone: "+49 4453 48840 0"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "http://www.autohaus-tepe.de"
+street: Neuenburger Straße
+housenumber: "47"
+phone: +49 4453 48840 0
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: http://www.autohaus-tepe.de

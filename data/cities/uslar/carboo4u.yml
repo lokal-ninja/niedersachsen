@@ -1,11 +1,11 @@
 id: 488530803
-type: way
+type: node
 latitude: 51.65775
 longitude: 9.63981
 postcode: "37170"
 city: Uslar
-street: "Bella Clava"
-housenumber: 21
+street: Bella Clava
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

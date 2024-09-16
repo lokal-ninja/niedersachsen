@@ -1,11 +1,11 @@
 id: 214625275
-type: way
+type: node
 latitude: 52.29593
 longitude: 7.10493
 postcode: "48455"
 city: Bad Bentheim
-street: "Hengeloer Straße"
-housenumber: 10
+street: Hengeloer Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

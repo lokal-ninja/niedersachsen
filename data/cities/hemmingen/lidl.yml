@@ -1,11 +1,11 @@
 id: 100444882
-type: way
+type: node
 latitude: 52.31957
 longitude: 9.73141
 postcode: "30966"
 city: Hemmingen
-street: "Weetzener Landstraße"
-housenumber: 102
+street: Weetzener Landstraße
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

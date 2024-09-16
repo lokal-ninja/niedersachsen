@@ -1,11 +1,11 @@
 id: 534938598
-type: way
+type: node
 latitude: 52.15124
 longitude: 10.08069
 postcode: "31174"
 city: Schellerten
-street: "Teichstraße"
-housenumber: 16
+street: Teichstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Th 08:00-16:45; Fr 08:00-13:45"
+opening_hours: Mo-Th 08:00-16:45; Fr 08:00-13:45
 website: ""

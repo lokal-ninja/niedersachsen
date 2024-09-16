@@ -1,11 +1,11 @@
 id: 35785547
-type: way
+type: node
 latitude: 52.9914
 longitude: 8.87377
 postcode: "28844"
 city: Weyhe
-street: "Wischweg"
-housenumber: 20
+street: Wischweg
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

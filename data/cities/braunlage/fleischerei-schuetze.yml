@@ -1,11 +1,11 @@
 id: 173751730
-type: way
+type: node
 latitude: 51.72601
 longitude: 10.61133
 postcode: "38700"
 city: Braunlage
-street: "Marktstraße"
-housenumber: 20
+street: Marktstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

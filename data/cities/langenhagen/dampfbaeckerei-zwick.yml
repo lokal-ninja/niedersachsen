@@ -4,8 +4,8 @@ latitude: 52.43688
 longitude: 9.7301
 postcode: "30851"
 city: Langenhagen
-street: "Angerstraße"
-housenumber: 1
-phone: "+49 511 742414"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"
-website: "https://www.dampfbaeckerei-zwick.de/"
+street: Angerstraße
+housenumber: "1"
+phone: +49 511 742414
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00
+website: https://www.dampfbaeckerei-zwick.de/

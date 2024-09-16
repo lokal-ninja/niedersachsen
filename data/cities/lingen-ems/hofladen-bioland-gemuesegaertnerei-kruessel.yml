@@ -1,11 +1,11 @@
 id: 892206258
-type: way
+type: node
 latitude: 52.47021
 longitude: 7.37712
 postcode: "49811"
 city: Lingen (Ems)
-street: "Estringer Straße"
-housenumber: 23
+street: Estringer Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Tu 15:00-18:30; Fr 15:00-18:30"
-website: "https://biohof-kruessel.de/"
+opening_hours: Tu 15:00-18:30; Fr 15:00-18:30
+website: https://biohof-kruessel.de/

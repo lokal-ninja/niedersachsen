@@ -1,11 +1,11 @@
 id: 147199586
-type: way
+type: node
 latitude: 53.31447
 longitude: 9.88009
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Soltauer Straße"
-housenumber: 93
+street: Soltauer Straße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

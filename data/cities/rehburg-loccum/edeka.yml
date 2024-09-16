@@ -1,11 +1,11 @@
 id: 119769231
-type: way
+type: node
 latitude: 52.47356
 longitude: 9.22641
 postcode: "31547"
 city: Rehburg-Loccum
-street: "Mühlentorstraße"
-housenumber: 10
-phone: "+49 5037 960660"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: Mühlentorstraße
+housenumber: "10"
+phone: +49 5037 960660
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

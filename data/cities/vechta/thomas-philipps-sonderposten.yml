@@ -1,11 +1,11 @@
 id: 94246970
-type: way
+type: node
 latitude: 52.7487
 longitude: 8.27967
 postcode: "49377"
 city: Vechta
-street: "Gutenbergstraße"
-housenumber: 2
-phone: "+49 4441 858765"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.thomas-philipps.de/"
+street: Gutenbergstraße
+housenumber: "2"
+phone: +49 4441 858765
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.thomas-philipps.de/

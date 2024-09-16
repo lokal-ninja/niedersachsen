@@ -1,11 +1,11 @@
 id: 99634164
-type: way
+type: node
 latitude: 53.29065
 longitude: 9.27947
 postcode: "27404"
 city: Zeven
-street: "Vitus-Platz"
-housenumber: 5
+street: Vitus-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

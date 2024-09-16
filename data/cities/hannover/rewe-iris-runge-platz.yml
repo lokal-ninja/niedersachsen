@@ -4,8 +4,8 @@ latitude: 52.32143
 longitude: 9.82245
 postcode: "30539"
 city: Hannover
-street: "Iris-Runge-Platz"
-housenumber: 3
-phone: "+49 511 85964920"
-opening_hours: "Mo-Sa 07:00-21:30"
-website: "https://www.rewe.de/"
+street: Iris-Runge-Platz
+housenumber: "3"
+phone: +49 511 85964920
+opening_hours: Mo-Sa 07:00-21:30
+website: https://www.rewe.de/

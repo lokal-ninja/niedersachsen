@@ -1,11 +1,11 @@
 id: 477671634
-type: way
+type: node
 latitude: 53.10735
 longitude: 8.45629
 postcode: "27798"
 city: Hude
-street: "Ulmenstraße"
-housenumber: 9
+street: Ulmenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

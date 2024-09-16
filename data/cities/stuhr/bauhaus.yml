@@ -1,11 +1,11 @@
 id: 4700552
-type: way
+type: node
 latitude: 53.00745
 longitude: 8.70388
 postcode: "28816"
 city: Stuhr
-street: "3-K-Weg"
-housenumber: 23
-phone: "+49 4206 4167 0"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.bauhaus.info"
+street: 3-K-Weg
+housenumber: "23"
+phone: +49 4206 4167 0
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.bauhaus.info

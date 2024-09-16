@@ -1,11 +1,11 @@
 id: 319018043
-type: way
+type: node
 latitude: 52.31593
 longitude: 10.2265
 postcode: "31226"
 city: Peine
-street: "Theodor-Heuss-Straße"
-housenumber: 13
-phone: "+49 5171 591360"
+street: Theodor-Heuss-Straße
+housenumber: "13"
+phone: +49 5171 591360
 opening_hours: ""
-website: "https://www.gartencenter-nordharz.de/"
+website: https://www.gartencenter-nordharz.de/

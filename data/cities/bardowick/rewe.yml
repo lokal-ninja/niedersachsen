@@ -1,11 +1,11 @@
 id: 104401312
-type: way
+type: node
 latitude: 53.28656
 longitude: 10.39458
 postcode: "21357"
 city: Bardowick
-street: "Schwarzer Weg"
-housenumber: 44
+street: Schwarzer Weg
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

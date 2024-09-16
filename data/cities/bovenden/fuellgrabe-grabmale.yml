@@ -1,11 +1,11 @@
 id: 621312777
-type: way
+type: node
 latitude: 51.58957
 longitude: 9.92365
 postcode: "37120"
 city: Bovenden
-street: "Maschweg"
-housenumber: 2
-phone: "+49 551 81859"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-13:00; PH off"
+street: Maschweg
+housenumber: "2"
+phone: +49 551 81859
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-13:00; PH off
 website: ""

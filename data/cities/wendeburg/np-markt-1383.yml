@@ -1,11 +1,11 @@
 id: 686961877
-type: way
+type: node
 latitude: 52.29132
 longitude: 10.40387
 postcode: "38176"
 city: Wendeburg
-street: "Polterdamm"
+street: Polterdamm
 housenumber: 5a
-phone: "+49 5302 8000713"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://np.de"
+phone: +49 5302 8000713
+opening_hours: Mo-Sa 07:00-20:00
+website: http://np.de

@@ -4,8 +4,8 @@ latitude: 52.26768
 longitude: 10.5232
 postcode: "38100"
 city: Braunschweig
-street: "Hagenhof"
-housenumber: 7
-phone: "+49 531 24 21 20"
-opening_hours: "Mo-Tu 09:00-18:00; Fr 09:00-16:00; PH off"
-website: "http://www.archiplot.de/"
+street: Hagenhof
+housenumber: "7"
+phone: +49 531 24 21 20
+opening_hours: Mo-Tu 09:00-18:00; Fr 09:00-16:00; PH off
+website: http://www.archiplot.de/

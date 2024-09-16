@@ -1,11 +1,11 @@
 id: 180328882
-type: way
+type: node
 latitude: 53.08793
 longitude: 8.79416
 postcode: "28217"
 city: Bremen
-street: "Landwehrstraße"
-housenumber: 38
+street: Landwehrstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.penny.de/

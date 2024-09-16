@@ -1,11 +1,11 @@
 id: 585453273
-type: way
+type: node
 latitude: 51.40168
 longitude: 9.6581
 postcode: "34346"
 city: Hann. Münden
-street: "Quedlinburger Straße"
-housenumber: 5
+street: Quedlinburger Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

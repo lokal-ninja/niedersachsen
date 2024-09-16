@@ -1,11 +1,11 @@
 id: 93186890
-type: way
+type: node
 latitude: 53.16983
 longitude: 7.46806
 postcode: "26810"
 city: Westoverledingen
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
-opening_hours: "mo-fr 08:00-16:00"
+opening_hours: mo-fr 08:00-16:00
 website: ""

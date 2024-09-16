@@ -1,11 +1,11 @@
 id: 30252482
-type: way
+type: node
 latitude: 53.29027
 longitude: 9.73135
 postcode: "21255"
 city: Tostedt
-street: "Friedrich-Vorwerk-Straße"
-housenumber: 8
+street: Friedrich-Vorwerk-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 8:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00, Sa 8:00-17:00
 website: ""

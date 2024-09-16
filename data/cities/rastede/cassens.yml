@@ -1,11 +1,11 @@
 id: 243220054
-type: way
+type: node
 latitude: 53.24775
 longitude: 8.18762
 postcode: "26180"
 city: Rastede
-street: "Raiffeisenstraße"
-housenumber: 44
-phone: "+49 4402 69626-0"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00"
-website: "https://www.cassens.de/"
+street: Raiffeisenstraße
+housenumber: "44"
+phone: +49 4402 69626-0
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-14:00
+website: https://www.cassens.de/

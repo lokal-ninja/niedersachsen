@@ -4,8 +4,8 @@ latitude: 52.23371
 longitude: 9.84959
 postcode: "31157"
 city: Sarstedt
-street: "Holztorstraße"
-housenumber: 55
-phone: "+49 5066 2783"
+street: Holztorstraße
+housenumber: "55"
+phone: +49 5066 2783
 opening_hours: ""
-website: "https://www.ep.de/burandt-hoffmann"
+website: https://www.ep.de/burandt-hoffmann

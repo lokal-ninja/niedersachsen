@@ -1,11 +1,11 @@
 id: 317894460
-type: way
+type: node
 latitude: 53.05351
 longitude: 8.20205
 postcode: "26203"
 city: Wardenburg
-street: "Oldenburger Straße"
-housenumber: 324
+street: Oldenburger Straße
+housenumber: "324"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

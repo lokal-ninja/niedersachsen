@@ -1,11 +1,11 @@
 id: 297038108
-type: way
+type: node
 latitude: 53.46256
 longitude: 8.05775
 postcode: "26345"
 city: Bockhorn
-street: "Am Jadebusen"
-housenumber: 2
+street: Am Jadebusen
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

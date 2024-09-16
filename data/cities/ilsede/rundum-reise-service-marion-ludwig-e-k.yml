@@ -4,8 +4,8 @@ latitude: 52.26479
 longitude: 10.22104
 postcode: "31241"
 city: Ilsede
-street: "Gerhardstraße"
-housenumber: 46
-phone: "+49 5172 9496070"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-13:30"
-website: "https://rundum-reise-service.de/home"
+street: Gerhardstraße
+housenumber: "46"
+phone: +49 5172 9496070
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-13:30
+website: https://rundum-reise-service.de/home

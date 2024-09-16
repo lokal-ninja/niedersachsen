@@ -1,11 +1,11 @@
 id: 162601976
-type: way
+type: node
 latitude: 52.6047
 longitude: 10.01629
 postcode: "29225"
 city: Celle
-street: "Fuhrberger Landstraße"
-housenumber: 53
+street: Fuhrberger Landstraße
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "https://www.remmers-shop-celle.de"
+website: https://www.remmers-shop-celle.de

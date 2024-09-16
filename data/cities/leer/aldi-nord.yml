@@ -1,11 +1,11 @@
 id: 59565900
-type: way
+type: node
 latitude: 53.24318
 longitude: 7.46034
 postcode: "26789"
 city: Leer
-street: "Ringstraße"
-housenumber: 19
+street: Ringstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

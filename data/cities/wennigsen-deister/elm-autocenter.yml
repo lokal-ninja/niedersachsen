@@ -1,11 +1,11 @@
 id: 105691345
-type: way
+type: node
 latitude: 52.28016
 longitude: 9.57452
 postcode: "30974"
 city: Wennigsen (Deister)
-street: "Degerser Straße"
-housenumber: 9
-phone: "+49 5103 7638"
+street: Degerser Straße
+housenumber: "9"
+phone: +49 5103 7638
 opening_hours: ""
 website: ""

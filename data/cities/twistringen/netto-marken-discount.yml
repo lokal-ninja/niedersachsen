@@ -1,11 +1,11 @@
 id: 170647078
-type: way
+type: node
 latitude: 52.79303
 longitude: 8.63003
 postcode: "27239"
 city: Twistringen
-street: "Köglerstraße"
-housenumber: 4
+street: Köglerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

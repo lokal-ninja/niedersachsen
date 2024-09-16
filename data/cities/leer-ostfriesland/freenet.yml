@@ -1,11 +1,11 @@
 id: 154635817
-type: way
+type: node
 latitude: 53.23156
 longitude: 7.4607
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Mühlenstraße"
-housenumber: 119
+street: Mühlenstraße
+housenumber: "119"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:30-18:30, Sa 10:00-16:00
 website: ""

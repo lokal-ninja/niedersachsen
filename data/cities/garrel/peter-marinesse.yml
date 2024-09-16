@@ -4,8 +4,8 @@ latitude: 52.95141
 longitude: 8.03321
 postcode: "49681"
 city: Garrel
-street: "Beethovenstraße"
-housenumber: 22
-phone: "+49 4474 8474"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 06:30-13:00; Mo,Su,PH off"
-website: "https://www.peters-haarstudio.de/"
+street: Beethovenstraße
+housenumber: "22"
+phone: +49 4474 8474
+opening_hours: Tu-Fr 08:00-18:00; Sa 06:30-13:00; Mo,Su,PH off
+website: https://www.peters-haarstudio.de/

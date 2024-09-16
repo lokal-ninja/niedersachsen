@@ -1,11 +1,11 @@
 id: 308112272
-type: way
+type: node
 latitude: 52.42544
 longitude: 9.42877
 postcode: "31515"
 city: Wunstorf
-street: "Südstraße"
-housenumber: 10
-phone: "+49 5031 916846"
-opening_hours: "Sa 09:00-13:00; Mo-Fr 09:00-18:00"
-website: "https://www.kind.com/de-de/fachgeschaefte/Wunstorf/"
+street: Südstraße
+housenumber: "10"
+phone: +49 5031 916846
+opening_hours: Sa 09:00-13:00; Mo-Fr 09:00-18:00
+website: https://www.kind.com/de-de/fachgeschaefte/Wunstorf/

@@ -4,8 +4,8 @@ latitude: 53.13242
 longitude: 8.7351
 postcode: "28239"
 city: Bremen
-street: "Oslebshauser Landstraße"
-housenumber: 23
-phone: "+49 421 64 67 47"
-opening_hours: "Tu,We 09:00-13:00; Th,Fr 09:00-17:00; Sa 08:00-12:00"
+street: Oslebshauser Landstraße
+housenumber: "23"
+phone: +49 421 64 67 47
+opening_hours: Tu,We 09:00-13:00; Th,Fr 09:00-17:00; Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 328640257
-type: way
+type: node
 latitude: 53.61076
 longitude: 7.18202
 postcode: "26506"
 city: Norden
-street: "Nordseestraße"
-housenumber: 50
+street: Nordseestraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00,15:00-18:00; Sa 08:30-13:00"
+opening_hours: Mo-Fr 08:30-13:00,15:00-18:00; Sa 08:30-13:00
 website: ""

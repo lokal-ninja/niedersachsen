@@ -4,8 +4,8 @@ latitude: 52.39042
 longitude: 10.34569
 postcode: "31234"
 city: Edemissen
-street: "Brommerweg"
-housenumber: 5
-phone: "+49 5372 4359555"
-opening_hours: "Mo-Th 10:00-12:00, 13:30-15:00; Fr 10:00-15:00"
-website: "https://www.trinity-electric-vehicles.de"
+street: Brommerweg
+housenumber: "5"
+phone: +49 5372 4359555
+opening_hours: Mo-Th 10:00-12:00, 13:30-15:00; Fr 10:00-15:00
+website: https://www.trinity-electric-vehicles.de

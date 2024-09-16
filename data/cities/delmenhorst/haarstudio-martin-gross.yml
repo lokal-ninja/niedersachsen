@@ -4,8 +4,8 @@ latitude: 53.04194
 longitude: 8.63595
 postcode: "27749"
 city: Delmenhorst
-street: "Bismarckstraße"
-housenumber: 48
-phone: "+49 4221 65726"
-opening_hours: "Mo 09:00-18:30; Sa 08:00-13:00; We-Fr 08:30-18:30; Tu,Su,PH off"
+street: Bismarckstraße
+housenumber: "48"
+phone: +49 4221 65726
+opening_hours: Mo 09:00-18:30; Sa 08:00-13:00; We-Fr 08:30-18:30; Tu,Su,PH off
 website: ""

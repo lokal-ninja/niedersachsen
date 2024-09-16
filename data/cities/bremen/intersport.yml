@@ -4,8 +4,8 @@ latitude: 53.05089
 longitude: 8.9579
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 401380"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.intersport-voswinkel.de/"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 401380
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.intersport-voswinkel.de/

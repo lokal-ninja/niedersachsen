@@ -1,11 +1,11 @@
 id: 413685367
-type: way
+type: node
 latitude: 53.64724
 longitude: 7.42837
 postcode: "26553"
 city: Dornum
-street: "Kirchstraße"
-housenumber: 13
+street: Kirchstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 14:30-18:00; Sa 12:00-16:00; Su off"
+opening_hours: Mo-Fr 14:30-18:00; Sa 12:00-16:00; Su off
 website: ""

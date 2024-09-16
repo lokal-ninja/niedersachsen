@@ -4,8 +4,8 @@ latitude: 53.11981
 longitude: 9.78992
 postcode: "29640"
 city: Schneverdingen
-street: "Bargmannstraße"
-housenumber: 18
-phone: "+49 5193 518081"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00; Sa 09:00-14:00"
-website: "https://www.achims-garage.de/"
+street: Bargmannstraße
+housenumber: "18"
+phone: +49 5193 518081
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00; Sa 09:00-14:00
+website: https://www.achims-garage.de/

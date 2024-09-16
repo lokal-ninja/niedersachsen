@@ -4,8 +4,8 @@ latitude: 53.07791
 longitude: 8.82396
 postcode: "28203"
 city: Bremen
-street: "Am Dobben"
-housenumber: 127
-phone: "+49 (170) 2003390"
-opening_hours: "Fr 15:00-19:00; Sa 11:00-16:00"
-website: "https://www.glasunddesign.de"
+street: Am Dobben
+housenumber: "127"
+phone: +49 (170) 2003390
+opening_hours: Fr 15:00-19:00; Sa 11:00-16:00
+website: https://www.glasunddesign.de

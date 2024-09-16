@@ -1,11 +1,11 @@
 id: 463110331
-type: way
+type: node
 latitude: 53.09901
 longitude: 10.52293
 postcode: "29585"
 city: Jelmstorf
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa-Su 06:00-22:00"
+opening_hours: Mo-Fr 05:00-22:00; Sa-Su 06:00-22:00
 website: ""

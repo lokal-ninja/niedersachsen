@@ -1,11 +1,11 @@
 id: 828723825
-type: way
+type: node
 latitude: 53.24196
 longitude: 8.16506
 postcode: "26180"
 city: Rastede
-street: "Bürgermeister-Brötje-Straße"
-housenumber: 8
+street: Bürgermeister-Brötje-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

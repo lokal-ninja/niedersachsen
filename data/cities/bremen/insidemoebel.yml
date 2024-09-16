@@ -1,11 +1,11 @@
 id: 282464478
-type: way
+type: node
 latitude: 53.1602
 longitude: 8.70412
 postcode: "28719"
 city: Bremen
-street: "Bremer Heerstraße"
-housenumber: 15
+street: Bremer Heerstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.insidemoebel.com/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.insidemoebel.com/

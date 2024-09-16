@@ -4,8 +4,8 @@ latitude: 53.0745
 longitude: 8.81965
 postcode: "28203"
 city: Bremen
-street: "Kohlhökerstraße"
-housenumber: 5
+street: Kohlhökerstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

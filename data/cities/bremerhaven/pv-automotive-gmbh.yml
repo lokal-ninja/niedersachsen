@@ -4,8 +4,8 @@ latitude: 53.54716
 longitude: 8.59477
 postcode: "27570"
 city: Bremerhaven
-street: "Wiesenstraße"
-housenumber: 2
+street: Wiesenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:30"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:30
 website: ""

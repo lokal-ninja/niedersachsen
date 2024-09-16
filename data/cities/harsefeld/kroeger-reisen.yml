@@ -1,11 +1,11 @@
 id: 301639709
-type: way
+type: node
 latitude: 53.45496
 longitude: 9.49957
 postcode: "21698"
 city: Harsefeld
-street: "Herrenstraße"
-housenumber: 18
+street: Herrenstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.kroeger-reisen.de/"
+website: https://www.kroeger-reisen.de/

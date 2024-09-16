@@ -1,11 +1,11 @@
 id: 123325459
-type: way
+type: node
 latitude: 53.08993
 longitude: 8.85702
 postcode: "28213"
 city: Bremen
-street: "Riensberger Straße"
-housenumber: 2
+street: Riensberger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH closed"
+opening_hours: Mo-Sa 07:00-21:00; PH closed
 website: ""

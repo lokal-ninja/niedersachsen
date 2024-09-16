@@ -1,11 +1,11 @@
 id: 180843415
-type: way
+type: node
 latitude: 53.08983
 longitude: 8.78456
 postcode: "28217"
 city: Bremen
-street: "Nordstraße"
+street: Nordstraße
 housenumber: 13-15
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

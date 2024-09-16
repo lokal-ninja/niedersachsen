@@ -4,8 +4,9 @@ latitude: 53.12579
 longitude: 8.90235
 postcode: "28357"
 city: Bremen
-street: "Borgfelder Heerstraße"
-housenumber: 47
+street: Borgfelder Heerstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 06:30-13:00, 15:00-18:00; Sa 06:30-12:00; Su 08:00-11:00; We 06:30-13:00"
-website: "https://www.baeckerei-barnstorff.de/"
+opening_hours: Mo, Tu, Th, Fr 06:30-13:00, 15:00-18:00; Sa 06:30-12:00; Su 08:00-11:00;
+    We 06:30-13:00
+website: https://www.baeckerei-barnstorff.de/

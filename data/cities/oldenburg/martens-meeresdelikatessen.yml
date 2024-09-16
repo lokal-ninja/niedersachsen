@@ -4,8 +4,10 @@ latitude: 53.16818
 longitude: 8.21515
 postcode: "26127"
 city: Oldenburg
-street: "Scheideweg"
-housenumber: 100
-phone: "+49 441 3092096"
-opening_hours: "Mo-Sa 08:00-11:00 open Nur Ladengeschäft, kein Imbiss, Mo-Sa 11:00-19:00 open Ladengeschäft und Imbiss, Mo-Sa 19:00-20:00 open Nur Ladengeschäft, kein Imbiss; Su,PH off"
-website: "https://www.martens-meeresdelikatessen.de"
+street: Scheideweg
+housenumber: "100"
+phone: +49 441 3092096
+opening_hours: Mo-Sa 08:00-11:00 open "Nur Ladengeschäft, kein Imbiss", Mo-Sa 11:00-19:00
+    open "Ladengeschäft und Imbiss", Mo-Sa 19:00-20:00 open "Nur Ladengeschäft, kein
+    Imbiss"; Su,PH off
+website: https://www.martens-meeresdelikatessen.de

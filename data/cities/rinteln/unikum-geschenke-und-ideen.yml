@@ -5,7 +5,7 @@ longitude: 9.08003
 postcode: "31737"
 city: Rinteln
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "http://www.unikum-geschenke.de"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: http://www.unikum-geschenke.de

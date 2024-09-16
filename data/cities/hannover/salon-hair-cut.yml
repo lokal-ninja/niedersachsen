@@ -4,8 +4,8 @@ latitude: 52.34677
 longitude: 9.82851
 postcode: "30539"
 city: Hannover
-street: "Bemeroder Rathausplatz"
-housenumber: 4
-phone: "+49 511 522067"
-opening_hours: "Mo off; Tu-Fr 09:00-18:30; Sa 08:00-13:30"
-website: "http://www.haircut-bemerode.de/"
+street: Bemeroder Rathausplatz
+housenumber: "4"
+phone: +49 511 522067
+opening_hours: Mo off; Tu-Fr 09:00-18:30; Sa 08:00-13:30
+website: http://www.haircut-bemerode.de/

@@ -4,8 +4,8 @@ latitude: 52.42608
 longitude: 9.82716
 postcode: "30657"
 city: Hannover
-street: "Varrelheide"
-housenumber: 190
+street: Varrelheide
+housenumber: "190"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-17:00"
-website: "https://mrphung.com/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-17:00
+website: https://mrphung.com/

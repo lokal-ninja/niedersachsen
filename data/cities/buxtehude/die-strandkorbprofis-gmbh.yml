@@ -1,11 +1,12 @@
 id: 970690363
-type: way
+type: node
 latitude: 53.45289
 longitude: 9.76374
 postcode: "21614"
 city: Buxtehude
-street: "Carl-Zeiss-Straße"
-housenumber: 6
+street: Carl-Zeiss-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Th 09:00-20:00; Sa 10:00-15:00 || Su 11:00-17:00 ohne Beratung o. Verkauf"
+opening_hours: Mo-Fr 09:00-18:00; Th 09:00-20:00; Sa 10:00-15:00 || Su 11:00-17:00
+    "ohne Beratung o. Verkauf"
 website: ""

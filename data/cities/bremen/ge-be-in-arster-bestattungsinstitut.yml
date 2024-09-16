@@ -4,8 +4,8 @@ latitude: 53.03006
 longitude: 8.85053
 postcode: "28279"
 city: Bremen
-street: "Arster Landstraße"
-housenumber: 39
+street: Arster Landstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 9:00-13:00, 15:00-16:30; We 9:00-13:00"
-website: "https://www.ge-be-in.de"
+opening_hours: Mo, Tu, Th, Fr 9:00-13:00, 15:00-16:30; We 9:00-13:00
+website: https://www.ge-be-in.de

@@ -4,8 +4,8 @@ latitude: 52.91311
 longitude: 8.82333
 postcode: "28857"
 city: Syke
-street: "Hauptstraße"
-housenumber: 10
-phone: "+49 4242 3644"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.meyersmode.de"
+street: Hauptstraße
+housenumber: "10"
+phone: +49 4242 3644
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-13:00; PH off
+website: https://www.meyersmode.de

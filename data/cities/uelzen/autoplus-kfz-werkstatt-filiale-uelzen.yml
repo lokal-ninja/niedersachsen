@@ -1,11 +1,11 @@
 id: 239083570
-type: way
+type: node
 latitude: 52.98792
 longitude: 10.54327
 postcode: "29525"
 city: Uelzen
-street: "Am Funkturm"
-housenumber: 2
-phone: "+49 58 1 389 39 05"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:30-14:00"
-website: "https://autoplus.de/filiale/uelzen"
+street: Am Funkturm
+housenumber: "2"
+phone: +49 58 1 389 39 05
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:30-14:00
+website: https://autoplus.de/filiale/uelzen

@@ -1,11 +1,11 @@
 id: 883439778
-type: way
+type: node
 latitude: 52.55369
 longitude: 7.52722
 postcode: "49838"
 city: Lengerich
-street: "Mühlenstraße"
-housenumber: 20
+street: Mühlenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-12:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-12:00
 website: ""

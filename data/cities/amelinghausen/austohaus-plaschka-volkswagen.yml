@@ -1,11 +1,11 @@
 id: 133047444
-type: way
+type: node
 latitude: 53.12953
 longitude: 10.218
 postcode: "21385"
 city: Amelinghausen
-street: "Lüneburger Straße"
-housenumber: 21
+street: Lüneburger Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

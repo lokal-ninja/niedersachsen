@@ -1,11 +1,11 @@
 id: 513392452
-type: way
+type: node
 latitude: 52.82849
 longitude: 7.99663
 postcode: "49661"
 city: Cloppenburg
-street: "Westallee"
-housenumber: 95
+street: Westallee
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

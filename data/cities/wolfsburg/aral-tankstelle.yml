@@ -1,11 +1,11 @@
 id: 30941036
-type: way
+type: node
 latitude: 52.42691
 longitude: 10.77092
 postcode: "38440"
 city: Wolfsburg
-street: "Heinrich-Nordhoff-Straße"
-housenumber: 117
+street: Heinrich-Nordhoff-Straße
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

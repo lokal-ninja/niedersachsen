@@ -4,8 +4,8 @@ latitude: 52.26141
 longitude: 10.52705
 postcode: "38100"
 city: Braunschweig
-street: "Kuhstraße"
-housenumber: 1
+street: Kuhstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.rooks-rocks.com"
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.rooks-rocks.com

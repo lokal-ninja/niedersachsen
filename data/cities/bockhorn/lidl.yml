@@ -1,11 +1,11 @@
 id: 232499636
-type: way
+type: node
 latitude: 53.39692
 longitude: 8.01592
 postcode: "26345"
 city: Bockhorn
-street: "Steinhauser Straße"
+street: Steinhauser Straße
 housenumber: 25-29
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/"
+website: https://www.lidl.de/

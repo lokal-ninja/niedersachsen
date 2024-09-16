@@ -1,11 +1,11 @@
 id: 290566859
-type: way
+type: node
 latitude: 52.86519
 longitude: 9.61776
 postcode: "29664"
 city: Walsrode
-street: "Rudolf-Diesel-Straße"
-housenumber: 2
+street: Rudolf-Diesel-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.autohausdieterhoch.de"
+website: http://www.autohausdieterhoch.de

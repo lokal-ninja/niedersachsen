@@ -1,11 +1,11 @@
 id: 191050788
-type: way
+type: node
 latitude: 52.69968
 longitude: 7.26552
 postcode: "49716"
 city: Meppen
-street: "Neelandstraße"
-housenumber: 47
+street: Neelandstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.dulle-betten.de/"
+website: https://www.dulle-betten.de/

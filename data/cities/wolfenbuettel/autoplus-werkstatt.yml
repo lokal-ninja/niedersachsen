@@ -1,11 +1,11 @@
 id: 296741048
-type: way
+type: node
 latitude: 52.15077
 longitude: 10.5555
 postcode: "38300"
 city: Wolfenbüttel
-street: "Neindorfer Straße"
+street: Neindorfer Straße
 housenumber: 12a
-phone: "+49 5331 9968240"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://autoplus.de/filiale/wolfenbuettel"
+phone: +49 5331 9968240
+opening_hours: Mo-Fr 08:00-18:00
+website: https://autoplus.de/filiale/wolfenbuettel

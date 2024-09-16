@@ -1,11 +1,11 @@
 id: 320412825
-type: way
+type: node
 latitude: 53.26864
 longitude: 8.1782
 postcode: "26180"
 city: Rastede
-street: "Rehornweg"
-housenumber: 17
+street: Rehornweg
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

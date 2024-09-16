@@ -4,8 +4,8 @@ latitude: 52.91452
 longitude: 7.70999
 postcode: "26901"
 city: Rastdorf
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,We,Th,Fr 06:00-13:00, 14:00-18:30; Tu,Sa 06:00-13:00; Su 08:00-11:00"
+opening_hours: Mo,We,Th,Fr 06:00-13:00, 14:00-18:30; Tu,Sa 06:00-13:00; Su 08:00-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 103270483
-type: way
+type: node
 latitude: 52.41055
 longitude: 9.73401
 postcode: ""
 city: Hannover
-street: "Vahrenwalder Straße"
-housenumber: 233
+street: Vahrenwalder Straße
+housenumber: "233"
 phone: ""
 opening_hours: ""
 website: ""

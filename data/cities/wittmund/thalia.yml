@@ -4,8 +4,8 @@ latitude: 53.57671
 longitude: 7.78103
 postcode: "26409"
 city: Wittmund
-street: "Kirchstraße"
-housenumber: 2
-phone: "+49 4462 5164"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.thalia.de/shop/home/thalia-filialen/showDetails/580/"
+street: Kirchstraße
+housenumber: "2"
+phone: +49 4462 5164
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.thalia.de/shop/home/thalia-filialen/showDetails/580/

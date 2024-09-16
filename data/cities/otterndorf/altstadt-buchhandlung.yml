@@ -4,8 +4,8 @@ latitude: 53.80753
 longitude: 8.89839
 postcode: "21762"
 city: Otterndorf
-street: "Johann-Heinrich-Voß-Straße"
-housenumber: 8
-phone: "+49 4751 2101"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30"
+street: Johann-Heinrich-Voß-Straße
+housenumber: "8"
+phone: +49 4751 2101
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30
 website: ""

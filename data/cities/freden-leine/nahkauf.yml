@@ -1,11 +1,11 @@
 id: 248290096
-type: way
+type: node
 latitude: 51.92604
 longitude: 9.90173
 postcode: "31084"
 city: Freden (Leine)
-street: "Winzenburger Straße"
-housenumber: 111
+street: Winzenburger Straße
+housenumber: "111"
 phone: "+4951849501811"
-opening_hours: "Mo-Sa 07:0-20:00"
-website: "https://www.nahkauf.de/maerkte/freden-leine-41618888-lvs-freden-gmbh-winzenburger-strasse-11"
+opening_hours: Mo-Sa 07:0-20:00
+website: https://www.nahkauf.de/maerkte/freden-leine-41618888-lvs-freden-gmbh-winzenburger-strasse-11

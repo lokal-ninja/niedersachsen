@@ -1,11 +1,11 @@
 id: 333460018
-type: way
+type: node
 latitude: 52.42282
 longitude: 9.72849
 postcode: "30179"
 city: Hannover
-street: "Reinhold-Schleese-Straße"
-housenumber: 8
-phone: "+49 800 2000015"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+street: Reinhold-Schleese-Straße
+housenumber: "8"
+phone: +49 800 2000015
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

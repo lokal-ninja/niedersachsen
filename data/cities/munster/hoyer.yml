@@ -1,11 +1,11 @@
 id: 124483953
-type: way
+type: node
 latitude: 52.99698
 longitude: 10.06857
 postcode: "29633"
 city: Munster
-street: "Soltauer Straße"
-housenumber: 61
+street: Soltauer Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:30-16:30; Su 10:00-16:30"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:30-16:30; Su 10:00-16:30
 website: ""

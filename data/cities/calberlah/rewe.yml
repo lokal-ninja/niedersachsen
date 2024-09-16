@@ -1,11 +1,11 @@
 id: 625883776
-type: way
+type: node
 latitude: 52.42051
 longitude: 10.63282
 postcode: "38547"
 city: Calberlah
-street: "Hauptstraße"
-housenumber: 85
+street: Hauptstraße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 444206072
-type: way
+type: node
 latitude: 52.6941
 longitude: 10.80765
 postcode: "29378"
 city: Wittingen
-street: "Eichelkamp"
-housenumber: 38
+street: Eichelkamp
+housenumber: "38"
 phone: ""
-opening_hours: "Mar-Oct Mo-Fr 07:30-16:30; Nov-Feb Mo-Fr 08:00-16:00; PH off"
+opening_hours: Mar-Oct Mo-Fr 07:30-16:30; Nov-Feb Mo-Fr 08:00-16:00; PH off
 website: ""

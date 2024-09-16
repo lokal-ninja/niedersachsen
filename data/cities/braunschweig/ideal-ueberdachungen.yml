@@ -1,11 +1,11 @@
 id: 119011098
-type: way
+type: node
 latitude: 52.31877
 longitude: 10.53293
 postcode: "38110"
 city: Braunschweig
-street: "Maschweg"
-housenumber: 18
+street: Maschweg
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-16:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-16:00; Sa 09:00-12:00
 website: ""

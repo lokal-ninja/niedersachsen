@@ -1,11 +1,11 @@
 id: 147429436
-type: way
+type: node
 latitude: 51.82124
 longitude: 10.34052
 postcode: "38678"
 city: Clausthal-Zellerfeld
-street: "Goslarsche Straße"
+street: Goslarsche Straße
 housenumber: 61B
-phone: "+49 5323 2170"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 09:00-13:00"
-website: "https://www.boerger-motorgeraete.de/"
+phone: +49 5323 2170
+opening_hours: Mo-Fr 08:30-18:00, Sa 09:00-13:00
+website: https://www.boerger-motorgeraete.de/

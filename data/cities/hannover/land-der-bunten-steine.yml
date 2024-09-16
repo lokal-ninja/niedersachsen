@@ -4,8 +4,8 @@ latitude: 52.35735
 longitude: 9.75292
 postcode: "30173"
 city: Hannover
-street: "Hildesheimer Straße"
-housenumber: 103
-phone: "+49 511 65506708"
-opening_hours: "Mo-Fr 11:00-18:00,10:00-15:00"
-website: "https://landderbuntensteine.de/"
+street: Hildesheimer Straße
+housenumber: "103"
+phone: +49 511 65506708
+opening_hours: Mo-Fr 11:00-18:00,10:00-15:00
+website: https://landderbuntensteine.de/

@@ -1,11 +1,11 @@
 id: 91079263
-type: way
+type: node
 latitude: 53.69383
 longitude: 7.8048
 postcode: "26409"
 city: Wittmund
-street: "Pumphusen"
-housenumber: 11
-phone: "+49 4464 1357"
+street: Pumphusen
+housenumber: "11"
+phone: +49 4464 1357
 opening_hours: ""
 website: ""

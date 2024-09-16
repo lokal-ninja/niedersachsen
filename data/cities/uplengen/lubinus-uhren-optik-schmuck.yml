@@ -1,11 +1,11 @@
 id: 930939392
-type: way
+type: node
 latitude: 53.30657
 longitude: 7.76027
 postcode: "26670"
 city: Uplengen
-street: "Ostertorstraße"
-housenumber: 140
+street: Ostertorstraße
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

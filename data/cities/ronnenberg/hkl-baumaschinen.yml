@@ -4,8 +4,8 @@ latitude: 52.33558
 longitude: 9.65616
 postcode: "30952"
 city: Ronnenberg
-street: "Lägenfeldstraße"
-housenumber: 32
-phone: "+49 800 44 555 44"
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-15:30"
-website: "https://www.hkl-baumaschinen.de/"
+street: Lägenfeldstraße
+housenumber: "32"
+phone: +49 800 44 555 44
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-15:30
+website: https://www.hkl-baumaschinen.de/

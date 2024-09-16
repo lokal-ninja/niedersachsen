@@ -4,8 +4,8 @@ latitude: 53.06971
 longitude: 8.82876
 postcode: "28203"
 city: Bremen
-street: "Brokstraße"
-housenumber: 60
+street: Brokstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo,Tu 09:30-13:00; We-Fr 14:30-18:00"
+opening_hours: Mo,Tu 09:30-13:00; We-Fr 14:30-18:00
 website: ""

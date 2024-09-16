@@ -1,11 +1,11 @@
 id: 351137610
-type: way
+type: node
 latitude: 51.93867
 longitude: 10.33054
 postcode: "38685"
 city: Langelsheim
-street: "Mühlenstraße"
-housenumber: 18
-phone: "+49 5326 1730"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 10:00-12:00"
-website: "https://www.das-blumenland.de/"
+street: Mühlenstraße
+housenumber: "18"
+phone: +49 5326 1730
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 10:00-12:00
+website: https://www.das-blumenland.de/

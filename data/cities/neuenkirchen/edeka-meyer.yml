@@ -4,8 +4,8 @@ latitude: 53.0315
 longitude: 9.69949
 postcode: "29643"
 city: Neuenkirchen
-street: "Visselhöveder Straße"
-housenumber: 9
-phone: "+49 5195 5045"
-opening_hours: "Mo-Sa 07:00-20:00; Su, PH off"
-website: "https://www.edeka.de/eh/minden-hannover"
+street: Visselhöveder Straße
+housenumber: "9"
+phone: +49 5195 5045
+opening_hours: Mo-Sa 07:00-20:00; Su, PH off
+website: https://www.edeka.de/eh/minden-hannover

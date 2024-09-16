@@ -4,8 +4,8 @@ latitude: 52.38478
 longitude: 9.74666
 postcode: "30161"
 city: Hannover
-street: "Lister Meile"
-housenumber: 55
+street: Lister Meile
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.vintagerevivals.de/de/store-hannover"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.vintagerevivals.de/de/store-hannover

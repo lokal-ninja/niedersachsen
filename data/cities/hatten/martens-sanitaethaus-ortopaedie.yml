@@ -1,11 +1,11 @@
 id: 166385860
-type: way
+type: node
 latitude: 53.05275
 longitude: 8.25742
 postcode: "26209"
 city: Hatten
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

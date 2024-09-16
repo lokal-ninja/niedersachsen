@@ -1,11 +1,11 @@
 id: 446651254
-type: way
+type: node
 latitude: 52.12134
 longitude: 9.53391
 postcode: "31863"
 city: Coppenbrügge
-street: "Bahnhofstraße"
-housenumber: 39
+street: Bahnhofstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

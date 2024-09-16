@@ -4,8 +4,8 @@ latitude: 53.07287
 longitude: 8.80865
 postcode: "28195"
 city: Bremen
-street: "Stavendamm"
-housenumber: 7
-phone: "+49 421 69 69 77 67"
-opening_hours: "Mo-Sa 11:00-18:00; Su 11:00-16:00"
-website: "https://www.albers-maritim.de/"
+street: Stavendamm
+housenumber: "7"
+phone: +49 421 69 69 77 67
+opening_hours: Mo-Sa 11:00-18:00; Su 11:00-16:00
+website: https://www.albers-maritim.de/

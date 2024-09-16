@@ -1,11 +1,11 @@
 id: 233792433
-type: way
+type: node
 latitude: 51.62869
 longitude: 10.46459
 postcode: "37431"
 city: Bad Lauterberg im Harz
-street: "Hauptstraße"
-housenumber: 59
+street: Hauptstraße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

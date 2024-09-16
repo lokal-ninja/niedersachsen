@@ -4,8 +4,8 @@ latitude: 53.68571
 longitude: 8.01273
 postcode: "26434"
 city: Wangerland
-street: "Goldstraße"
-housenumber: 12
-phone: "+49 4426 9296900"
-opening_hours: "Mo-Sa 06:30-18:00; Su 07:00-18:00"
-website: "https://www.wikingerbaecker.de"
+street: Goldstraße
+housenumber: "12"
+phone: +49 4426 9296900
+opening_hours: Mo-Sa 06:30-18:00; Su 07:00-18:00
+website: https://www.wikingerbaecker.de

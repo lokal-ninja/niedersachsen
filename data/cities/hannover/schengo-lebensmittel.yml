@@ -1,11 +1,11 @@
 id: 1206230621
-type: way
+type: node
 latitude: 52.35911
 longitude: 9.851
 postcode: "30559"
 city: Hannover
-street: "Lehrter Straße"
-housenumber: 32
-phone: "+49 1781 009941"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://schengo-lebensmittelmarkt.business.site"
+street: Lehrter Straße
+housenumber: "32"
+phone: +49 1781 009941
+opening_hours: Mo-Sa 09:00-19:00
+website: https://schengo-lebensmittelmarkt.business.site

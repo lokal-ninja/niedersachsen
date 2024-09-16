@@ -1,11 +1,11 @@
 id: 62373873
-type: way
+type: node
 latitude: 52.46353
 longitude: 10.71689
 postcode: "38554"
 city: Weyhausen
-street: "Wolfsburger Straße"
-housenumber: 13
+street: Wolfsburger Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00"
+opening_hours: Mo-Sa 07:00-23:00
 website: ""

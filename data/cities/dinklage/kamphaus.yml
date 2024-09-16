@@ -4,8 +4,8 @@ latitude: 52.66096
 longitude: 8.12386
 postcode: "49413"
 city: Dinklage
-street: "Am Markt"
-housenumber: 27
+street: Am Markt
+housenumber: "27"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 09:00-12:30; Su,PH off"
-website: "https://fahrrad-kamphaus.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-12:30; Su,PH off
+website: https://fahrrad-kamphaus.de/

@@ -1,11 +1,11 @@
 id: 248107977
-type: way
+type: node
 latitude: 53.03226
 longitude: 8.95036
 postcode: "28307"
 city: Bremen
-street: "Mahndorfer Deich"
-housenumber: 50
+street: Mahndorfer Deich
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

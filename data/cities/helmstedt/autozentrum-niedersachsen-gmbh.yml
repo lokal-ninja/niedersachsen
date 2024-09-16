@@ -1,11 +1,11 @@
 id: 163384036
-type: way
+type: node
 latitude: 52.24199
 longitude: 10.98504
 postcode: "38350"
 city: Helmstedt
-street: "Von-Guericke-Straße"
-housenumber: 4
+street: Von-Guericke-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

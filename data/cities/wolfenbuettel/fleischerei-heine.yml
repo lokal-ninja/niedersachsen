@@ -4,8 +4,8 @@ latitude: 52.16226
 longitude: 10.53593
 postcode: "38300"
 city: Wolfenbüttel
-street: "Kornmarkt"
-housenumber: 15
-phone: "+49 5331 28 18"
-opening_hours: "Mo 07:00-14:00; Tu-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "https://www.fleischerei-heine.de/"
+street: Kornmarkt
+housenumber: "15"
+phone: +49 5331 28 18
+opening_hours: Mo 07:00-14:00; Tu-Fr 07:00-18:00; Sa 07:00-13:00
+website: https://www.fleischerei-heine.de/

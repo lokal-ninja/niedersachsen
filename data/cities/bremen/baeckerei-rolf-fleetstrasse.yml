@@ -4,8 +4,8 @@ latitude: 53.10498
 longitude: 8.7892
 postcode: "28219"
 city: Bremen
-street: "Fleetstraße"
-housenumber: 35
+street: Fleetstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 06:00-12:00; Su 08:00-11:00"
-website: "https://www.baeckerei-rolf.de/"
+opening_hours: Mo-Sa 06:00-12:00; Su 08:00-11:00
+website: https://www.baeckerei-rolf.de/

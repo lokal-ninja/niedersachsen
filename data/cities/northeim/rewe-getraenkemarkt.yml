@@ -1,11 +1,11 @@
 id: 210185598
-type: way
+type: node
 latitude: 51.71588
 longitude: 9.9976
 postcode: "37154"
 city: Northeim
-street: "Einbecker Landstraße"
-housenumber: 
+street: Einbecker Landstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
+opening_hours: Mo-Sa 07:00-18:00
 website: ""

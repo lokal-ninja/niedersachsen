@@ -1,11 +1,11 @@
 id: 315450607
-type: way
+type: node
 latitude: 52.1687
 longitude: 9.06558
 postcode: "31737"
 city: Rinteln
-street: "Braasstraße"
+street: Braasstraße
 housenumber: 1d
-phone: "+49 5751 92310"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-18:00"
-website: "https://www.expert.de/technikmarkt"
+phone: +49 5751 92310
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-18:00
+website: https://www.expert.de/technikmarkt

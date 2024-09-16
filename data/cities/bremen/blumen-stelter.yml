@@ -1,11 +1,11 @@
 id: 284610082
-type: way
+type: node
 latitude: 53.09131
 longitude: 8.85693
 postcode: "28213"
 city: Bremen
-street: "Friedhofstraße"
-housenumber: 30
+street: Friedhofstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

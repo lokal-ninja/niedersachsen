@@ -4,8 +4,8 @@ latitude: 53.15192
 longitude: 8.21163
 postcode: "26121"
 city: Oldenburg
-street: "Alexanderstraße"
-housenumber: 55
-phone: "+49 441 82105"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Alexanderstraße
+housenumber: "55"
+phone: +49 441 82105
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 123498301
-type: way
+type: node
 latitude: 53.17271
 longitude: 8.61869
 postcode: "28757"
 city: Bremen
-street: "Gerhard-Rohlfs-Straße"
-housenumber: 20
+street: Gerhard-Rohlfs-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.fielmann.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.fielmann.de/

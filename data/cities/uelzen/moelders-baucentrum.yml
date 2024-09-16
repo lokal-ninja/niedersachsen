@@ -1,11 +1,11 @@
 id: 239083539
-type: way
+type: node
 latitude: 52.99104
 longitude: 10.53563
 postcode: "29525"
 city: Uelzen
-street: "Am Funkturm"
-housenumber: 23
-phone: "+49 581 850"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00"
-website: "https://www.moelders.de/standorte/baucentrum-uelzen"
+street: Am Funkturm
+housenumber: "23"
+phone: +49 581 850
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00
+website: https://www.moelders.de/standorte/baucentrum-uelzen

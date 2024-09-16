@@ -4,8 +4,8 @@ latitude: 52.34944
 longitude: 10.24549
 postcode: "31228"
 city: Peine
-street: "Edemissener Straße"
-housenumber: 14
-phone: "+49 5171 15357"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 02:00-12:00; Su 07:00-10:30"
-website: "https://www.landbaeckerei-grete.de/"
+street: Edemissener Straße
+housenumber: "14"
+phone: +49 5171 15357
+opening_hours: Mo-Fr 05:00-18:00; Sa 02:00-12:00; Su 07:00-10:30
+website: https://www.landbaeckerei-grete.de/

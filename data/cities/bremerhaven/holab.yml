@@ -4,8 +4,8 @@ latitude: 53.54554
 longitude: 8.59399
 postcode: "27570"
 city: Bremerhaven
-street: "Elbestraße"
-housenumber: 122
-phone: "+49 471 1701207"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.holab.de/"
+street: Elbestraße
+housenumber: "122"
+phone: +49 471 1701207
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.holab.de/

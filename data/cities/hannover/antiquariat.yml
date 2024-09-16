@@ -4,8 +4,8 @@ latitude: 52.3741
 longitude: 9.70591
 postcode: "30451"
 city: Hannover
-street: "Limmerstraße"
-housenumber: 60
+street: Limmerstraße
+housenumber: "60"
 phone: "+49511452000"
-opening_hours: "Mo-Fr 11:00-18:30, Sa 10:00-15:00"
-website: "https://www.antiquariat-wilder.de/"
+opening_hours: Mo-Fr 11:00-18:30, Sa 10:00-15:00
+website: https://www.antiquariat-wilder.de/

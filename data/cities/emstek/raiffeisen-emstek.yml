@@ -1,11 +1,11 @@
 id: 730282546
-type: way
+type: node
 latitude: 52.84776
 longitude: 8.15213
 postcode: "49685"
 city: Emstek
-street: "Soestenstraße"
-housenumber: 3
+street: Soestenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-12:00; Su,PH off"
-website: "https://www.raiffeisen-emstek.de/"
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-12:00; Su,PH off
+website: https://www.raiffeisen-emstek.de/

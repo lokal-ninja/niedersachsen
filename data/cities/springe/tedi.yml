@@ -4,8 +4,8 @@ latitude: 52.21057
 longitude: 9.55436
 postcode: "31832"
 city: Springe
-street: "Fünfhausenstraße"
-housenumber: 6
+street: Fünfhausenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.tedi.com"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.tedi.com

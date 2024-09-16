@@ -1,11 +1,11 @@
 id: 244660539
-type: way
+type: node
 latitude: 53.24552
 longitude: 8.19118
 postcode: "26180"
 city: Rastede
-street: "Ladestraße"
-housenumber: 28
-phone: "+49 4402 2153"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"
-website: "https://www.rwg-ammerland-ostfriesland.de/wir-ueber-uns/wir-ueber-uns/standorte/rastede/"
+street: Ladestraße
+housenumber: "28"
+phone: +49 4402 2153
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-13:00
+website: https://www.rwg-ammerland-ostfriesland.de/wir-ueber-uns/wir-ueber-uns/standorte/rastede/

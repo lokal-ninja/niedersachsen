@@ -1,11 +1,11 @@
 id: 218559023
-type: way
+type: node
 latitude: 53.22072
 longitude: 7.44309
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Breslauer Straße"
-housenumber: 5
-phone: "+49 491 91 20 699 10"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.obw-emden.de/arbeit/CAP-Markt.php"
+street: Breslauer Straße
+housenumber: "5"
+phone: +49 491 91 20 699 10
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.obw-emden.de/arbeit/CAP-Markt.php

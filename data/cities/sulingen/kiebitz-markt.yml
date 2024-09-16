@@ -1,11 +1,11 @@
 id: 208769734
-type: way
+type: node
 latitude: 52.68592
 longitude: 8.83897
 postcode: "27232"
 city: Sulingen
-street: "Leipziger Straße"
-housenumber: 6
+street: Leipziger Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

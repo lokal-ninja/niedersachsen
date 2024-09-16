@@ -1,11 +1,11 @@
 id: 284642976
-type: way
+type: node
 latitude: 53.07186
 longitude: 7.38444
 postcode: "26871"
 city: Papenburg
-street: "Von-Herz-Straße"
-housenumber: 9
-phone: "+49 4961 992245"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.radwelt-emsland.de/"
+street: Von-Herz-Straße
+housenumber: "9"
+phone: +49 4961 992245
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.radwelt-emsland.de/

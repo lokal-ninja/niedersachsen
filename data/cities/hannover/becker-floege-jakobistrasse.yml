@@ -4,8 +4,8 @@ latitude: 52.38862
 longitude: 9.74975
 postcode: "30163"
 city: Hannover
-street: "Jakobistraße"
-housenumber: 1
-phone: "+49 511 624825"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.becker-floege.de/"
+street: Jakobistraße
+housenumber: "1"
+phone: +49 511 624825
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.becker-floege.de/

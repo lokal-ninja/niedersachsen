@@ -1,11 +1,11 @@
 id: 123498314
-type: way
+type: node
 latitude: 53.17189
 longitude: 8.62093
 postcode: "28757"
 city: Bremen
-street: "Gerhard-Rohlfs-Straße"
-housenumber: 2
+street: Gerhard-Rohlfs-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

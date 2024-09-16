@@ -4,8 +4,9 @@ latitude: 52.46434
 longitude: 10.32894
 postcode: "38536"
 city: Meinersen
-street: "Baukelroder Weg"
-housenumber: 8
-phone: "+49 5372 6328"
-opening_hours: "Mo off; Tu-Fr 08:00-18:00; Sa 08:00-13:00; Um Terminabsprache wird gebeten"
-website: "https://www.das-frisierstuebchen.de/"
+street: Baukelroder Weg
+housenumber: "8"
+phone: +49 5372 6328
+opening_hours: Mo off; Tu-Fr 08:00-18:00; Sa 08:00-13:00; "Um Terminabsprache wird
+    gebeten"
+website: https://www.das-frisierstuebchen.de/

@@ -4,8 +4,8 @@ latitude: 53.05796
 longitude: 8.96504
 postcode: "28325"
 city: Bremen
-street: "Osterholzer Heerstraße"
-housenumber: 234
-phone: "+49 421 12021"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://kaminland.de/"
+street: Osterholzer Heerstraße
+housenumber: "234"
+phone: +49 421 12021
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://kaminland.de/

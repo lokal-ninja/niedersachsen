@@ -1,11 +1,11 @@
 id: 230503646
-type: way
+type: node
 latitude: 53.1777
 longitude: 8.55663
 postcode: "27804"
 city: Berne
-street: "Deichstraße"
-housenumber: 190
+street: Deichstraße
+housenumber: "190"
 phone: ""
-opening_hours: "Mo-Sa 07:30-12:30, Mo,Tu,Th,Fr 14:30-18:00"
+opening_hours: Mo-Sa 07:30-12:30, Mo,Tu,Th,Fr 14:30-18:00
 website: ""

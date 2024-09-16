@@ -1,11 +1,11 @@
 id: 195722414
-type: way
+type: node
 latitude: 52.73225
 longitude: 8.26229
 postcode: "49377"
 city: Vechta
-street: "Stukenborg"
-housenumber: 130
+street: Stukenborg
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

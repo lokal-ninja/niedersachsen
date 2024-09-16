@@ -1,11 +1,11 @@
 id: 147850427
-type: way
+type: node
 latitude: 52.49961
 longitude: 10.543
 postcode: "38518"
 city: Gifhorn
-street: "Hamburger Straße"
-housenumber: 69
+street: Hamburger Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:30-14:00"
-website: "https://autoplus.de/filiale/gifhorn"
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:30-14:00
+website: https://autoplus.de/filiale/gifhorn

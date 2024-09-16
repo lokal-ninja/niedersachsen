@@ -1,11 +1,11 @@
 id: 591821889
-type: way
+type: node
 latitude: 52.28349
 longitude: 9.13155
 postcode: "31683"
 city: Obernkirchen
-street: "Gelldorfer Weg"
-housenumber: 46
-phone: "+49 5724 39639"
-opening_hours: "Sa 09:30-16:00; Tu-Fr 09:30-18:00"
-website: "https://www.moebelholtmann.de/"
+street: Gelldorfer Weg
+housenumber: "46"
+phone: +49 5724 39639
+opening_hours: Sa 09:30-16:00; Tu-Fr 09:30-18:00
+website: https://www.moebelholtmann.de/

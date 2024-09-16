@@ -4,8 +4,8 @@ latitude: 52.14955
 longitude: 9.09805
 postcode: "31737"
 city: Rinteln
-street: "Kasseler Landstraße"
-housenumber: 22
-phone: "+49 5751 43989"
-opening_hours: "Sa 08:00-13:00; We-Fr 09:00-18:00"
-website: "https://www.kampmeiers-hofladen.de/"
+street: Kasseler Landstraße
+housenumber: "22"
+phone: +49 5751 43989
+opening_hours: Sa 08:00-13:00; We-Fr 09:00-18:00
+website: https://www.kampmeiers-hofladen.de/

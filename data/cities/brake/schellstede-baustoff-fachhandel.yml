@@ -1,11 +1,11 @@
 id: 311768437
-type: way
+type: node
 latitude: 53.30337
 longitude: 8.47296
 postcode: "26919"
 city: Brake
-street: "Hammelwarder Straße"
-housenumber: 69
+street: Hammelwarder Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "https://www.baustoffe-schellstede.de/"
+website: https://www.baustoffe-schellstede.de/

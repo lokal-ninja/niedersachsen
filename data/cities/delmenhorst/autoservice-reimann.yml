@@ -1,11 +1,11 @@
 id: 304652436
-type: way
+type: node
 latitude: 53.05187
 longitude: 8.64087
 postcode: "27749"
 city: Delmenhorst
-street: "Bremer Straße"
-housenumber: 61
+street: Bremer Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su, PH Off"
-website: "https://www.auto-reimann.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su, PH Off
+website: https://www.auto-reimann.de/

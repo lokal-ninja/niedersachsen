@@ -1,11 +1,11 @@
 id: 73012597
-type: way
+type: node
 latitude: 52.26512
 longitude: 10.43837
 postcode: "38116"
 city: Braunschweig
-street: "Lammer Heide"
-housenumber: 125
-phone: "+49 531 377180"
-opening_hours: "Tu 16:00-19:30; Sa 07:30-15:00; We 16:00-19:30; Fr 15:30-19:30"
+street: Lammer Heide
+housenumber: "125"
+phone: +49 531 377180
+opening_hours: Tu 16:00-19:30; Sa 07:30-15:00; We 16:00-19:30; Fr 15:30-19:30
 website: ""

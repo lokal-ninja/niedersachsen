@@ -4,8 +4,8 @@ latitude: 52.2361
 longitude: 8.16342
 postcode: "49143"
 city: Bissendorf
-street: "Friedensweg"
-housenumber: 15
-phone: "+49 5402 5920"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de/de/"
+street: Friedensweg
+housenumber: "15"
+phone: +49 5402 5920
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.thomas-philipps.de/de/

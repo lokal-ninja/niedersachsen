@@ -1,11 +1,11 @@
 id: 963604146
-type: way
+type: node
 latitude: 53.64824
 longitude: 7.42806
 postcode: "26553"
 city: Dornum
-street: "Enno-Hektor-Straße"
-housenumber: 19
+street: Enno-Hektor-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30, 15:00-18:00; Sa 10:00-12:30; Su off"
+opening_hours: Mo-Fr 10:00-12:30, 15:00-18:00; Sa 10:00-12:30; Su off
 website: ""

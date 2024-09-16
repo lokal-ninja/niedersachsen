@@ -1,11 +1,11 @@
 id: 117389524
-type: way
+type: node
 latitude: 52.26075
 longitude: 10.37399
 postcode: "38159"
 city: Vechelde
-street: "Hildesheimer Straße"
-housenumber: 15
+street: Hildesheimer Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00, Tu,Th 15:00-18:00"
+opening_hours: Mo-Fr 10:00-12:00, Tu,Th 15:00-18:00
 website: ""

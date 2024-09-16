@@ -1,11 +1,11 @@
 id: 85547903
-type: way
+type: node
 latitude: 52.29813
 longitude: 10.5205
 postcode: "38112"
 city: Braunschweig
-street: "Wiener Straße"
-housenumber: 22
-phone: "+49 531 4827560"
-opening_hours: "Tu,Th 09:00-18:00; We 10:00-18:00; Fr 09:00-19:00; Sa 09:00-15:00"
-website: "https://naloon.de/"
+street: Wiener Straße
+housenumber: "22"
+phone: +49 531 4827560
+opening_hours: Tu,Th 09:00-18:00; We 10:00-18:00; Fr 09:00-19:00; Sa 09:00-15:00
+website: https://naloon.de/

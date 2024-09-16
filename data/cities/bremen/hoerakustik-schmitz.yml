@@ -4,8 +4,8 @@ latitude: 53.09314
 longitude: 8.80342
 postcode: "28215"
 city: Bremen
-street: "Hemmstraße"
-housenumber: 124
-phone: "+49 421 303 888 33"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa Termin nach Vereinbarung"
-website: "https://www.hoergeraete-schmitz.de/"
+street: Hemmstraße
+housenumber: "124"
+phone: +49 421 303 888 33
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa "Termin nach Vereinbarung"
+website: https://www.hoergeraete-schmitz.de/

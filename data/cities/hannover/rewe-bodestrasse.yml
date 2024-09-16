@@ -1,11 +1,11 @@
 id: 779977276
-type: way
+type: node
 latitude: 52.39198
 longitude: 9.72142
 postcode: "30167"
 city: Hannover
-street: "Bodestraße"
+street: Bodestraße
 housenumber: 2-6
-phone: "+49 511 12108161"
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
-website: "https://www.rewe.de/marktseite/hannover-nordstadt/540303/rewe-markt-bodestr-2-6/"
+phone: +49 511 12108161
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-23:30
+website: https://www.rewe.de/marktseite/hannover-nordstadt/540303/rewe-markt-bodestr-2-6/

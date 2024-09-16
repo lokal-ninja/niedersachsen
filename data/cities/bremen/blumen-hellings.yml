@@ -4,8 +4,8 @@ latitude: 53.09233
 longitude: 8.79004
 postcode: "28217"
 city: Bremen
-street: "Wartburgstraße"
-housenumber: 12
-phone: "+49 421 3961697"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00; Su 09:00-12:00; PH off"
-website: "https://blumen-hellings.de/"
+street: Wartburgstraße
+housenumber: "12"
+phone: +49 421 3961697
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00; Su 09:00-12:00; PH off
+website: https://blumen-hellings.de/

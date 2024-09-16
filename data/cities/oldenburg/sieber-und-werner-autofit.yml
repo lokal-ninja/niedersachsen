@@ -1,11 +1,11 @@
 id: 316315254
-type: way
+type: node
 latitude: 53.17941
 longitude: 8.23269
 postcode: "26125"
 city: Oldenburg
-street: "Haseler Weg"
-housenumber: 10
-phone: "+49 441 302102"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.autofit-sieber-werner.de/"
+street: Haseler Weg
+housenumber: "10"
+phone: +49 441 302102
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.autofit-sieber-werner.de/

@@ -4,8 +4,8 @@ latitude: 53.25454
 longitude: 10.39704
 postcode: "21339"
 city: Lüneburg
-street: "Im Hohen Garten"
+street: Im Hohen Garten
 housenumber: 1a
-phone: "+49 4131 6842785"
-opening_hours: "Mo-Sa nach Vereinbarung"
-website: "https://reef-sea.de/"
+phone: +49 4131 6842785
+opening_hours: Mo-Sa "nach Vereinbarung"
+website: https://reef-sea.de/

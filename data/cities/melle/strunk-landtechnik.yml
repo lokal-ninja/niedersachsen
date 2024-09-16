@@ -4,8 +4,8 @@ latitude: 52.26257
 longitude: 8.41118
 postcode: "49328"
 city: Melle
-street: "Meesdorfer Straße"
-housenumber: 4
-phone: "+49 5427 431"
-opening_hours: "Mo-Fr 08:00-12:00; Mo-We,Fr 14:00-18:00"
-website: "https://w-strunk.de/"
+street: Meesdorfer Straße
+housenumber: "4"
+phone: +49 5427 431
+opening_hours: Mo-Fr 08:00-12:00; Mo-We,Fr 14:00-18:00
+website: https://w-strunk.de/

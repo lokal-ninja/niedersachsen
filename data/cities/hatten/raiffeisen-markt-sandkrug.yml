@@ -1,11 +1,11 @@
 id: 217668771
-type: way
+type: node
 latitude: 53.055
 longitude: 8.24528
 postcode: "26209"
 city: Hatten
-street: "Bümmersteder Straße"
-housenumber: 45
+street: Bümmersteder Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00
 website: ""

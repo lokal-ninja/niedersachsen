@@ -1,11 +1,11 @@
 id: 559441625
-type: way
+type: node
 latitude: 53.23777
 longitude: 10.45965
 postcode: "21337"
 city: Lüneburg
-street: "August-Wellenkamp-Straße"
-housenumber: 1
+street: August-Wellenkamp-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.matthies.de/standorte/standort/pressofiliale-lueneburg.html"
+website: https://www.matthies.de/standorte/standort/pressofiliale-lueneburg.html

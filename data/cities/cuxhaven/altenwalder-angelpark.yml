@@ -4,8 +4,8 @@ latitude: 53.82412
 longitude: 8.67264
 postcode: "27478"
 city: Cuxhaven
-street: "Seeburg"
-housenumber: 6
+street: Seeburg
+housenumber: "6"
 phone: ""
-opening_hours: "Mar-Aug: Mo-Su 07:00-21:00; Sep-Feb: Mo-Su 08:00-18:00; Tu closed"
-website: "https://angelpark-altenwalde.eu/"
+opening_hours: 'Mar-Aug: Mo-Su 07:00-21:00; Sep-Feb: Mo-Su 08:00-18:00; Tu closed'
+website: https://angelpark-altenwalde.eu/

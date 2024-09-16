@@ -4,8 +4,8 @@ latitude: 53.14357
 longitude: 8.22263
 postcode: "26122"
 city: Oldenburg
-street: "Bahnhofsplatz"
-housenumber: 
+street: Bahnhofsplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 05:00-20:00, Sa 06:00-20:00; Su 07:00-20:00"
+opening_hours: Mo-Fr 05:00-20:00, Sa 06:00-20:00; Su 07:00-20:00
 website: ""

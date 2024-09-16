@@ -4,8 +4,8 @@ latitude: 53.52989
 longitude: 8.59092
 postcode: "27570"
 city: Bremerhaven
-street: "An der Mühle"
-housenumber: 17
-phone: "+49 471 54225"
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "http://www.nord-pokal.de/"
+street: An der Mühle
+housenumber: "17"
+phone: +49 471 54225
+opening_hours: Mo-Fr 09:00-17:30
+website: http://www.nord-pokal.de/

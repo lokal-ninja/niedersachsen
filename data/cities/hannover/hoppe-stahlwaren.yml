@@ -4,8 +4,8 @@ latitude: 52.37408
 longitude: 9.73249
 postcode: "30159"
 city: Hannover
-street: "Am Marstall"
-housenumber: 11
-phone: "+49 511 306010"
-opening_hours: "Mo-Sa 10:00-14:00; Th,Su,PH off"
-website: "https://www.messerundschere.de/hoppe-schleiferei-hannover/"
+street: Am Marstall
+housenumber: "11"
+phone: +49 511 306010
+opening_hours: Mo-Sa 10:00-14:00; Th,Su,PH off
+website: https://www.messerundschere.de/hoppe-schleiferei-hannover/

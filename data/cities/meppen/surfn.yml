@@ -4,8 +4,8 @@ latitude: 52.66728
 longitude: 7.29174
 postcode: "49716"
 city: Meppen
-street: "Daimlerstraße"
-housenumber: 1
+street: Daimlerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://surfn.de/"
+website: https://surfn.de/

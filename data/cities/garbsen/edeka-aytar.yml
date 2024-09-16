@@ -1,11 +1,11 @@
 id: 89133665
-type: way
+type: node
 latitude: 52.43953
 longitude: 9.61912
 postcode: "30827"
 city: Garbsen
-street: "Wreschener Allee"
-housenumber: 1
+street: Wreschener Allee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

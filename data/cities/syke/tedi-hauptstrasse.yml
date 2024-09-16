@@ -1,11 +1,11 @@
 id: 46670402
-type: way
+type: node
 latitude: 52.91405
 longitude: 8.81719
 postcode: "28857"
 city: Syke
-street: "Hauptstraße"
-housenumber: 57
+street: Hauptstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
 website: ""

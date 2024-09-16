@@ -1,11 +1,11 @@
 id: 181049162
-type: way
+type: node
 latitude: 53.04082
 longitude: 8.59323
 postcode: "27753"
 city: Delmenhorst
-street: "Konrad-Adenauer-Allee"
-housenumber: 1
+street: Konrad-Adenauer-Allee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
+website: https://www.netto-online.de

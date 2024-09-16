@@ -1,11 +1,11 @@
 id: 955616935
-type: way
+type: node
 latitude: 53.64049
 longitude: 9.2413
 postcode: "21755"
 city: Hechthausen
-street: "Hauptstraße"
-housenumber: 9
+street: Hauptstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

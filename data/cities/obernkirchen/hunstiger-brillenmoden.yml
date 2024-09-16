@@ -4,8 +4,8 @@ latitude: 52.27111
 longitude: 9.12915
 postcode: "31683"
 city: Obernkirchen
-street: "Friedrich-Ebert-Straße"
-housenumber: 13
-phone: "+49 5724 98474"
-opening_hours: "Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 15:00-18:00; Sa nach Vereinbarung"
-website: "https://www.hunstiger.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "13"
+phone: +49 5724 98474
+opening_hours: Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 15:00-18:00; Sa "nach Vereinbarung"
+website: https://www.hunstiger.de/

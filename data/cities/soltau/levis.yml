@@ -4,8 +4,8 @@ latitude: 52.98305
 longitude: 9.92338
 postcode: "29614"
 city: Soltau
-street: "Rahrsberg"
-housenumber: 7
-phone: "+49 5191 9688612"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.levi.com"
+street: Rahrsberg
+housenumber: "7"
+phone: +49 5191 9688612
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.levi.com

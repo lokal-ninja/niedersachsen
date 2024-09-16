@@ -4,8 +4,8 @@ latitude: 53.01655
 longitude: 9.03335
 postcode: "28832"
 city: Achim
-street: "Fritz-Lieken-Eck"
-housenumber: 6
-phone: "+49 4202 522398"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+street: Fritz-Lieken-Eck
+housenumber: "6"
+phone: +49 4202 522398
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
 website: ""

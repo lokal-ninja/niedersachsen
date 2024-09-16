@@ -4,8 +4,8 @@ latitude: 53.07028
 longitude: 8.8428
 postcode: "28205"
 city: Bremen
-street: "Mindener Straße"
-housenumber: 58
+street: Mindener Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00; We off"
+opening_hours: Mo,Tu,Th-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00; We off
 website: ""

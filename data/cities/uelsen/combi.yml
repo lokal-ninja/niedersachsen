@@ -1,11 +1,11 @@
 id: 190404094
-type: way
+type: node
 latitude: 52.49321
 longitude: 6.87931
 postcode: "49843"
 city: Uelsen
-street: "Itterbecker Straße"
-housenumber: 43
-phone: "+49-800-2662400"
+street: Itterbecker Straße
+housenumber: "43"
+phone: +49-800-2662400
 opening_hours: ""
-website: "https://www.combi.de/maerkte/oeffnungszeiten/markt-im-detail/combi-verbrauchermarkt-uelsen/"
+website: https://www.combi.de/maerkte/oeffnungszeiten/markt-im-detail/combi-verbrauchermarkt-uelsen/

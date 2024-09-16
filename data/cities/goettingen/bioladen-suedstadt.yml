@@ -4,8 +4,8 @@ latitude: 51.52284
 longitude: 9.93776
 postcode: "37083"
 city: Göttingen
-street: "Stegemühlenweg"
-housenumber: 26
+street: Stegemühlenweg
+housenumber: "26"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 09:00-18:30; Sa 08:30-13:30"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-18:30; Sa 08:30-13:30
 website: ""

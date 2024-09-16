@@ -4,8 +4,8 @@ latitude: 53.5306
 longitude: 8.58929
 postcode: "27570"
 city: Bremerhaven
-street: "Georgstraße"
-housenumber: 64
+street: Georgstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://sb-waschsalon-bremerhaven.de/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://sb-waschsalon-bremerhaven.de/

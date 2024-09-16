@@ -1,11 +1,11 @@
 id: 46966326
-type: way
+type: node
 latitude: 52.92598
 longitude: 10.52902
 postcode: "29525"
 city: Uelzen
-street: "Holdenstedter Straße"
-housenumber: 59
+street: Holdenstedter Straße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

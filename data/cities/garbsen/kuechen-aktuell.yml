@@ -1,11 +1,11 @@
 id: 291746213
-type: way
+type: node
 latitude: 52.44453
 longitude: 9.61389
 postcode: "30827"
 city: Garbsen
-street: "Heinkelstraße"
-housenumber: 4
+street: Heinkelstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
 website: ""

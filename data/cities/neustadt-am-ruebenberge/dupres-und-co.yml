@@ -4,8 +4,8 @@ latitude: 52.50464
 longitude: 9.4628
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Marktstraße"
-housenumber: 1
+street: Marktstraße
+housenumber: "1"
 phone: "+4950323302"
-opening_hours: "Mo-Fr 08:30-13:00; Sa 10:00-13:00"
-website: "https://www.dupres.de/"
+opening_hours: Mo-Fr 08:30-13:00; Sa 10:00-13:00
+website: https://www.dupres.de/

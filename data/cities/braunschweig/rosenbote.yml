@@ -4,8 +4,8 @@ latitude: 52.27561
 longitude: 10.52701
 postcode: "38106"
 city: Braunschweig
-street: "Rebenring"
-housenumber: 20
-phone: "+49 531 3495903"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 09:00-13:00"
-website: "https://www.rosenbote.de/"
+street: Rebenring
+housenumber: "20"
+phone: +49 531 3495903
+opening_hours: Mo-Fr 9:00-18:00; Sa 09:00-13:00
+website: https://www.rosenbote.de/

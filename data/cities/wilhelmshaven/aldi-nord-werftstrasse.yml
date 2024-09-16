@@ -1,11 +1,11 @@
 id: 497584257
-type: way
+type: node
 latitude: 53.52837
 longitude: 8.09861
 postcode: "26382"
 city: Wilhelmshaven
-street: "Werftstraße"
-housenumber: 161
+street: Werftstraße
+housenumber: "161"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

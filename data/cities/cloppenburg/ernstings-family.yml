@@ -4,8 +4,8 @@ latitude: 52.84559
 longitude: 8.0415
 postcode: "49661"
 city: Cloppenburg
-street: "Lange Straße"
-housenumber: 10
+street: Lange Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su,PH off"
-website: "https://www.ernstings-family.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su,PH off
+website: https://www.ernstings-family.de/

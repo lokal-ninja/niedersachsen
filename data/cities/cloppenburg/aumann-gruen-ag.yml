@@ -1,11 +1,11 @@
 id: 782040206
-type: way
+type: node
 latitude: 52.91908
 longitude: 8.02859
 postcode: "49661"
 city: Cloppenburg
-street: "Werner-Baumbach-Straße"
-housenumber: 41
+street: Werner-Baumbach-Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://www.aumann-gruen.de/"
+website: https://www.aumann-gruen.de/

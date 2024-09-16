@@ -1,11 +1,11 @@
 id: 620106932
-type: way
+type: node
 latitude: 52.2796
 longitude: 8.04288
 postcode: "49074"
 city: Osnabrück
-street: "Hasestraße"
-housenumber: 24
+street: Hasestraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

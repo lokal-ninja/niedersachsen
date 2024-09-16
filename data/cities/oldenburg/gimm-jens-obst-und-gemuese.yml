@@ -1,11 +1,11 @@
 id: 317070069
-type: way
+type: node
 latitude: 53.18967
 longitude: 8.20373
 postcode: "26125"
 city: Oldenburg
-street: "Paul-Tantzen-Straße"
-housenumber: 12
+street: Paul-Tantzen-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30, Sa 08:00-13:00, Mo,Tu,Th,Fr 14:30-18:00"
+opening_hours: Mo-Fr 08:00-12:30, Sa 08:00-13:00, Mo,Tu,Th,Fr 14:30-18:00
 website: ""

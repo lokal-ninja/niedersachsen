@@ -1,11 +1,11 @@
 id: 177980530
-type: way
+type: node
 latitude: 51.91388
 longitude: 10.54062
 postcode: "38667"
 city: Bad Harzburg
-street: "Bohnenkamp"
-housenumber: 3
+street: Bohnenkamp
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

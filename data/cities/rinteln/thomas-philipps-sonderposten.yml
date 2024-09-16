@@ -4,8 +4,8 @@ latitude: 52.19559
 longitude: 9.07104
 postcode: "31737"
 city: Rinteln
-street: "Stoevesandtstraße"
-housenumber: 26
-phone: "+49 5751 9677333"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de/maerkte/thomas-philipps-rinteln-31737-rinteln"
+street: Stoevesandtstraße
+housenumber: "26"
+phone: +49 5751 9677333
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.thomas-philipps.de/maerkte/thomas-philipps-rinteln-31737-rinteln

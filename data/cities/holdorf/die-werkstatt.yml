@@ -1,11 +1,11 @@
 id: 487422009
-type: way
+type: node
 latitude: 52.57561
 longitude: 8.13521
 postcode: "49451"
 city: Holdorf
-street: "Dammer Straße"
-housenumber: 50
+street: Dammer Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

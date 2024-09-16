@@ -5,7 +5,7 @@ longitude: 9.42963
 postcode: "29664"
 city: Walsrode
 street: ""
-housenumber: 63
-phone: "+49 5166 318"
-opening_hours: "Mo-Fr 06:30-12:30, Fr 14:30-18:30; Sa 06:30-12:00"
-website: "https://www.dielandbaeckerei.de/"
+housenumber: "63"
+phone: +49 5166 318
+opening_hours: Mo-Fr 06:30-12:30, Fr 14:30-18:30; Sa 06:30-12:00
+website: https://www.dielandbaeckerei.de/

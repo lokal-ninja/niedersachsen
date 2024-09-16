@@ -1,11 +1,11 @@
 id: 602861622
-type: way
+type: node
 latitude: 51.53187
 longitude: 9.93826
 postcode: "37073"
 city: Göttingen
-street: "Lange-Geismar-Straße"
+street: Lange-Geismar-Straße
 housenumber: 61–64
-phone: "+49 551 3894071"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+phone: +49 551 3894071
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

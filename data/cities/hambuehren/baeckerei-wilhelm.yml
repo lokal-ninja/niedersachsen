@@ -1,11 +1,11 @@
 id: 140685987
-type: way
+type: node
 latitude: 52.64135
 longitude: 9.93452
 postcode: "29313"
 city: Hambühren
-street: "Im Gehäge"
-housenumber: 2
+street: Im Gehäge
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 38842413
-type: way
+type: node
 latitude: 53.72826
 longitude: 7.37506
 postcode: "26579"
 city: Baltrum
-street: "Westdorf"
+street: Westdorf
 housenumber: 224a
-phone: "+49 4939 9109890"
-opening_hours: "Mo,Tu,Fr,Sa 14:00-17:30; We,Th 11:30-17:00"
-website: "https://knusperhuuske.de/"
+phone: +49 4939 9109890
+opening_hours: Mo,Tu,Fr,Sa 14:00-17:30; We,Th 11:30-17:00
+website: https://knusperhuuske.de/

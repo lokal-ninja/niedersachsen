@@ -1,11 +1,11 @@
 id: 1126500738
-type: way
+type: node
 latitude: 53.02944
 longitude: 10.42089
 postcode: "29574"
 city: Ebstorf
-street: "Lutherstraße"
-housenumber: 2
-phone: "+49 5822 2418"
-opening_hours: "Tu-Fr 08:00-12:00,13:00-17:30"
+street: Lutherstraße
+housenumber: "2"
+phone: +49 5822 2418
+opening_hours: Tu-Fr 08:00-12:00,13:00-17:30
 website: ""

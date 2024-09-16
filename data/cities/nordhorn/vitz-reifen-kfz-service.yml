@@ -1,11 +1,11 @@
 id: 187539951
-type: way
+type: node
 latitude: 52.44231
 longitude: 7.09552
 postcode: "48531"
 city: Nordhorn
-street: "Lingener Straße"
-housenumber: 148
+street: Lingener Straße
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

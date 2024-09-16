@@ -4,8 +4,9 @@ latitude: 52.41174
 longitude: 7.97812
 postcode: "49565"
 city: Bramsche
-street: "Lindenstraße"
-housenumber: 1
+street: Lindenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:00-13:30,14:30-18:00; Fr 08:00-18:00; Sa 08:00-13:00; PH,Su off"
+opening_hours: Mo-Th 08:00-13:30,14:30-18:00; Fr 08:00-18:00; Sa 08:00-13:00; PH,Su
+    off
 website: ""

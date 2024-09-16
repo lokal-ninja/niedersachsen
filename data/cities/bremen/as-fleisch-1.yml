@@ -4,8 +4,8 @@ latitude: 53.05977
 longitude: 8.79169
 postcode: "28199"
 city: Bremen
-street: "Neuenlander Straße"
-housenumber: 75
+street: Neuenlander Straße
+housenumber: "75"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-16:00"
-website: "http://www.asfleisch.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:00-16:00
+website: http://www.asfleisch.de/

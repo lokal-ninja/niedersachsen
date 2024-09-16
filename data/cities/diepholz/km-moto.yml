@@ -1,11 +1,11 @@
 id: 130172290
-type: way
+type: node
 latitude: 52.60771
 longitude: 8.37832
 postcode: "49356"
 city: Diepholz
-street: "Grafenstraße"
-housenumber: 21
+street: Grafenstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00"
+opening_hours: Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00
 website: ""

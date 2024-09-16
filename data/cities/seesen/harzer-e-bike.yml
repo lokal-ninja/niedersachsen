@@ -4,8 +4,8 @@ latitude: 51.88987
 longitude: 10.17196
 postcode: "38723"
 city: Seesen
-street: "Lange Straße"
-housenumber: 20
+street: Lange Straße
+housenumber: "20"
 phone: "+4915207116500"
-opening_hours: "Nur mit Termin, Telefonnummer an der Eingangstür"
-website: "https://www.harzer-ebike.de"
+opening_hours: '"Nur mit Termin, Telefonnummer an der Eingangstür"'
+website: https://www.harzer-ebike.de

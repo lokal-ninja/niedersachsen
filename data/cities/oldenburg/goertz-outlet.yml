@@ -1,11 +1,11 @@
 id: 110175021
-type: way
+type: node
 latitude: 53.16106
 longitude: 8.17125
 postcode: "26129"
 city: Oldenburg
-street: "Posthalterweg"
-housenumber: 3
+street: Posthalterweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

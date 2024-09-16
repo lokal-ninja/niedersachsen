@@ -1,11 +1,11 @@
 id: 1123220493
-type: way
+type: node
 latitude: 53.13662
 longitude: 8.2294
 postcode: "26135"
 city: Oldenburg
-street: "Stedinger Straße"
-housenumber: 87
+street: Stedinger Straße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Sa 06:00-18:00; Su 07:00-11:00"
+opening_hours: Mo-Sa 06:00-18:00; Su 07:00-11:00
 website: ""

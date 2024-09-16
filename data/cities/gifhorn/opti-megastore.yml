@@ -1,11 +1,11 @@
 id: 27279661
-type: way
+type: node
 latitude: 52.46353
 longitude: 10.54358
 postcode: "38518"
 city: Gifhorn
-street: "Braunschweiger Straße"
+street: Braunschweiger Straße
 housenumber: 139a
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00"
-website: "https://www.opti-megastore.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00
+website: https://www.opti-megastore.de/

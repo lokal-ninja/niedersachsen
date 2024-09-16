@@ -1,11 +1,11 @@
 id: 175616669
-type: way
+type: node
 latitude: 53.61505
 longitude: 7.15136
 postcode: "26506"
 city: Norden
-street: "Deichstraße"
-housenumber: 6
+street: Deichstraße
+housenumber: "6"
 phone: ""
-opening_hours: "We-Su 11:00-18:00"
+opening_hours: We-Su 11:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 574795211
-type: way
+type: node
 latitude: 52.14198
 longitude: 9.30052
 postcode: "31840"
 city: Hessisch Oldendorf
-street: "Poststraße"
-housenumber: 2
-phone: "05152 528102"
-opening_hours: "Mo-Fr 07:00-21:00"
+street: Poststraße
+housenumber: "2"
+phone: 05152 528102
+opening_hours: Mo-Fr 07:00-21:00
 website: ""

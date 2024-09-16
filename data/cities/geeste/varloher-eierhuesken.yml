@@ -1,11 +1,11 @@
 id: 946555336
-type: way
+type: node
 latitude: 52.62561
 longitude: 7.2999
 postcode: "49744"
 city: Geeste
-street: "Zur Schleuse"
-housenumber: 23
+street: Zur Schleuse
+housenumber: "23"
 phone: ""
-opening_hours: "24/7q"
+opening_hours: 24/7q
 website: ""

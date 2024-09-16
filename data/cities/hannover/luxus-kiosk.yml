@@ -4,8 +4,8 @@ latitude: 52.37037
 longitude: 9.75313
 postcode: "30175"
 city: Hannover
-street: "Berliner Allee"
-housenumber: 67
-phone: "+49 157 50443773"
-opening_hours: "Mo-Th 06:30-24:00; Fr 06:30-01:30; Sa 08:00-03:00; Su 08:00-01:30"
-website: "https://instagram.com/luxus_kiosk"
+street: Berliner Allee
+housenumber: "67"
+phone: +49 157 50443773
+opening_hours: Mo-Th 06:30-24:00; Fr 06:30-01:30; Sa 08:00-03:00; Su 08:00-01:30
+website: https://instagram.com/luxus_kiosk

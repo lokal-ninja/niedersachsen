@@ -1,11 +1,11 @@
 id: 550140871
-type: way
+type: node
 latitude: 52.00401
 longitude: 9.70222
 postcode: "31089"
 city: Duingen
-street: "Töpferstraße"
-housenumber: 20
+street: Töpferstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 09:00 - 13:00, 15:00 - 18:00; Sa 09:00 - 13:00"
+opening_hours: Tu-Fr 09:00 - 13:00, 15:00 - 18:00; Sa 09:00 - 13:00
 website: ""

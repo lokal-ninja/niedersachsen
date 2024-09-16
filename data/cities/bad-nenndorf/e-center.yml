@@ -1,11 +1,11 @@
 id: 7854758
-type: way
+type: node
 latitude: 52.33676
 longitude: 9.40575
 postcode: "31542"
 city: Bad Nenndorf
-street: "Piepmühle"
-housenumber: 11
-phone: "+49 5723 74770"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-center-bad-nenndorf-piepm%C3%BChle-11/index.jsp"
+street: Piepmühle
+housenumber: "11"
+phone: +49 5723 74770
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-center-bad-nenndorf-piepm%C3%BChle-11/index.jsp

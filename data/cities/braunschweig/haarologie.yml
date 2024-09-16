@@ -4,8 +4,8 @@ latitude: 52.29277
 longitude: 10.51007
 postcode: "38112"
 city: Braunschweig
-street: "Ligusterweg"
-housenumber: 50
+street: Ligusterweg
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Tu 09:00-13:00,15:00-18:00; Th-Fr 09:00-13:00,15:00-18:00"
+opening_hours: Mo-Tu 09:00-13:00,15:00-18:00; Th-Fr 09:00-13:00,15:00-18:00
 website: ""

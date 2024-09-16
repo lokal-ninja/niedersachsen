@@ -1,11 +1,11 @@
 id: 910706591
-type: way
+type: node
 latitude: 51.93024
 longitude: 10.43308
 postcode: "38642"
 city: Goslar
-street: "Marienburger Straße"
-housenumber: 61
+street: Marienburger Straße
+housenumber: "61"
 phone: "+4953217799990"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de

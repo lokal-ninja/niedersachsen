@@ -1,11 +1,11 @@
 id: 301264096
-type: way
+type: node
 latitude: 52.3532
 longitude: 7.46523
 postcode: "48480"
 city: Spelle
-street: "Rheiner Straße"
-housenumber: 34
+street: Rheiner Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

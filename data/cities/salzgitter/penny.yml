@@ -1,11 +1,11 @@
 id: 90972554
-type: way
+type: node
 latitude: 52.13882
 longitude: 10.28681
 postcode: "38228"
 city: Salzgitter
-street: "Theodor-Heuss-Straße"
+street: Theodor-Heuss-Straße
 housenumber: 57-59
 phone: ""
-opening_hours: "07:00-21:00"
+opening_hours: 07:00-21:00
 website: ""

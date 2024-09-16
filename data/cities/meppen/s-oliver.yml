@@ -1,11 +1,11 @@
 id: 195645113
-type: way
+type: node
 latitude: 52.69269
 longitude: 7.2911
 postcode: "49716"
 city: Meppen
-street: "Hasestraße"
-housenumber: 6
+street: Hasestraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.soliver.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.soliver.de/

@@ -1,11 +1,11 @@
 id: 89942889
-type: way
+type: node
 latitude: 53.17138
 longitude: 8.62184
 postcode: "28757"
 city: Bremen
-street: "Sagerstraße"
-housenumber: 6
+street: Sagerstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Sa 09:00-13:00; Mo-Fr 09:00-13:00,14:30-18:00"
-website: "http://www.elektro-fraun.de/"
+opening_hours: Sa 09:00-13:00; Mo-Fr 09:00-13:00,14:30-18:00
+website: http://www.elektro-fraun.de/

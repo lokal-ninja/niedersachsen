@@ -1,11 +1,11 @@
 id: 1131028666
-type: way
+type: node
 latitude: 52.25142
 longitude: 10.98572
 postcode: "38350"
 city: Helmstedt
-street: "Am Lohen"
-housenumber: 21
-phone: "+49 5351 523 520"
+street: Am Lohen
+housenumber: "21"
+phone: +49 5351 523 520
 opening_hours: ""
-website: "https://www.hytec-hydraulik.de"
+website: https://www.hytec-hydraulik.de

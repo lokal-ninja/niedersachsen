@@ -1,11 +1,11 @@
 id: 131360219
-type: way
+type: node
 latitude: 52.29628
 longitude: 8.03649
 postcode: "49090"
 city: Osnabrück
-street: "Bramscher Straße"
-housenumber: 218
-phone: "+49 541 63637"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://autohaus-haster-muehle.go1a.de/"
+street: Bramscher Straße
+housenumber: "218"
+phone: +49 541 63637
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://autohaus-haster-muehle.go1a.de/

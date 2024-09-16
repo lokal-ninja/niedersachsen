@@ -4,8 +4,8 @@ latitude: 52.29213
 longitude: 8.03765
 postcode: "49088"
 city: Osnabrück
-street: "Bramscher Straße"
-housenumber: 159
+street: Bramscher Straße
+housenumber: "159"
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-24:00
+website: https://www.netto-online.de/

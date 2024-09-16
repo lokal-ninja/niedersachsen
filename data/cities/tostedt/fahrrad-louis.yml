@@ -4,8 +4,8 @@ latitude: 53.27614
 longitude: 9.71645
 postcode: "21255"
 city: Tostedt
-street: "Bahnhofstraße"
-housenumber: 36
+street: Bahnhofstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.fahrrad-louis.de"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.fahrrad-louis.de

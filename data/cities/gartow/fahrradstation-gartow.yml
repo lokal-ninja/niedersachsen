@@ -1,11 +1,11 @@
 id: 463933854
-type: way
+type: node
 latitude: 53.02517
 longitude: 11.4641
 postcode: "29471"
 city: Gartow
-street: "Hauptstraße"
-housenumber: 19
-phone: "+49 5846 9310"
+street: Hauptstraße
+housenumber: "19"
+phone: +49 5846 9310
 opening_hours: ""
 website: ""

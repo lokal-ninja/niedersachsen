@@ -4,8 +4,8 @@ latitude: 52.37808
 longitude: 10.4037
 postcode: "38530"
 city: Didderse
-street: "Hauptstraße"
-housenumber: 26
-phone: "+49 5373 9819828"
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-12:00; So 07:30-10:30"
-website: "https://wp.baeckerseidel.de"
+street: Hauptstraße
+housenumber: "26"
+phone: +49 5373 9819828
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:00-12:00; So 07:30-10:30
+website: https://wp.baeckerseidel.de

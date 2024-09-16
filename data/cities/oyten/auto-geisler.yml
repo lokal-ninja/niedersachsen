@@ -1,11 +1,11 @@
 id: 93129712
-type: way
+type: node
 latitude: 53.04901
 longitude: 9.03395
 postcode: "28876"
 city: Oyten
-street: "Achimer Straße"
-housenumber: 50
+street: Achimer Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

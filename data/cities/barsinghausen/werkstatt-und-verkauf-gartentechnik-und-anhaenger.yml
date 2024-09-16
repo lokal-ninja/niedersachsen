@@ -1,11 +1,11 @@
 id: 232449646
-type: way
+type: node
 latitude: 52.33104
 longitude: 9.43099
 postcode: "30890"
 city: Barsinghausen
-street: "An der Windmühle"
-housenumber: 44
+street: An der Windmühle
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30"
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

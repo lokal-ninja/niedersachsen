@@ -1,11 +1,11 @@
 id: 470514010
-type: way
+type: node
 latitude: 53.26712
 longitude: 7.65656
 postcode: "26849"
 city: Filsum
-street: "Hauptstraße"
-housenumber: 68
-phone: "+49 4957 659"
+street: Hauptstraße
+housenumber: "68"
+phone: +49 4957 659
 opening_hours: ""
-website: "http://www.textil-blank.de"
+website: http://www.textil-blank.de

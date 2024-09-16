@@ -4,8 +4,8 @@ latitude: 52.28077
 longitude: 8.04378
 postcode: "49074"
 city: Osnabrück
-street: "Hasestraße"
-housenumber: 69
+street: Hasestraße
+housenumber: "69"
 phone: ""
-opening_hours: "Fr 14:00-18:00, Sa 10:00-14:00; PH off"
-website: "https://www.vanweins.de/showroom-osnabrueck/"
+opening_hours: Fr 14:00-18:00, Sa 10:00-14:00; PH off
+website: https://www.vanweins.de/showroom-osnabrueck/

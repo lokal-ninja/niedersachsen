@@ -4,8 +4,8 @@ latitude: 52.465
 longitude: 10.20323
 postcode: "31311"
 city: Uetze
-street: "Kaiserstraße"
-housenumber: 5
+street: Kaiserstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:30; Sa 9:00-14:00"
-website: "https://www.ernstings-family.de/"
+opening_hours: Mo-Fr 9:00-18:30; Sa 9:00-14:00
+website: https://www.ernstings-family.de/

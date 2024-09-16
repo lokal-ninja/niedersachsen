@@ -4,8 +4,8 @@ latitude: 52.91273
 longitude: 8.82383
 postcode: "28857"
 city: Syke
-street: "Hauptstraße"
-housenumber: 4
-phone: "+49 4242 2014"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; PH off"
-website: "https://www.tui.com/reisebuero/syke/hauptstr-4/"
+street: Hauptstraße
+housenumber: "4"
+phone: +49 4242 2014
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; PH off
+website: https://www.tui.com/reisebuero/syke/hauptstr-4/

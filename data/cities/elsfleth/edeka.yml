@@ -1,11 +1,11 @@
 id: 442351098
-type: way
+type: node
 latitude: 53.23712
 longitude: 8.45977
 postcode: "26931"
 city: Elsfleth
-street: "Hafenstraße"
-housenumber: 8
+street: Hafenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

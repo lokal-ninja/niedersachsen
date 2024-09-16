@@ -1,11 +1,11 @@
 id: 261067875
-type: way
+type: node
 latitude: 53.12552
 longitude: 8.22014
 postcode: "26135"
 city: Oldenburg
-street: "Cloppenburger Straße"
-housenumber: 98
-phone: "+49 441 16631"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.zweirad-experte.de/oldenburg.html"
+street: Cloppenburger Straße
+housenumber: "98"
+phone: +49 441 16631
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.zweirad-experte.de/oldenburg.html

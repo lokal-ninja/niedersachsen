@@ -4,8 +4,8 @@ latitude: 53.06874
 longitude: 8.78201
 postcode: "28199"
 city: Bremen
-street: "Hohentorsheerstraße"
-housenumber: 160
+street: Hohentorsheerstraße
+housenumber: "160"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

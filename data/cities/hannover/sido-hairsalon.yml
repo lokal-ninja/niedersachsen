@@ -4,8 +4,8 @@ latitude: 52.40985
 longitude: 9.78966
 postcode: "30657"
 city: Hannover
-street: "Eulenkamp"
-housenumber: 79
-phone: "+49 511 72720213"
-opening_hours: "Mo 09:00-17:00; Tu-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.sido-hairsalon.de/"
+street: Eulenkamp
+housenumber: "79"
+phone: +49 511 72720213
+opening_hours: Mo 09:00-17:00; Tu-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.sido-hairsalon.de/

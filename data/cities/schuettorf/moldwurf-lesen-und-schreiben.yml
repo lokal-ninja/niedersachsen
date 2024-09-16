@@ -1,11 +1,11 @@
 id: 1191471270
-type: way
+type: node
 latitude: 52.32242
 longitude: 7.22172
 postcode: "48465"
 city: Schüttorf
-street: "Föhnstraße"
-housenumber: 8
-phone: "+49  5923 2222"
-opening_hours: "Tu-Fr 08:30-12:30,14:30-18:30; Sa 08:30-13:00; Su,Mo off"
-website: "http://www.moldwurf.de"
+street: Föhnstraße
+housenumber: "8"
+phone: +49  5923 2222
+opening_hours: Tu-Fr 08:30-12:30,14:30-18:30; Sa 08:30-13:00; Su,Mo off
+website: http://www.moldwurf.de

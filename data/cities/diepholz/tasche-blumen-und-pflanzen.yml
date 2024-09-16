@@ -1,11 +1,11 @@
 id: 129777750
-type: way
+type: node
 latitude: 52.6137
 longitude: 8.36975
 postcode: "49356"
 city: Diepholz
-street: "Am Heldenhain"
-housenumber: 9
+street: Am Heldenhain
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

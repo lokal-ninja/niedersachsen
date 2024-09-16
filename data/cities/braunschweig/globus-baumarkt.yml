@@ -1,11 +1,11 @@
 id: 24280186
-type: way
+type: node
 latitude: 52.30775
 longitude: 10.50502
 postcode: "38112"
 city: Braunschweig
-street: "Hansestraße"
-housenumber: 25
+street: Hansestraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.06876
 longitude: 8.78929
 postcode: "28199"
 city: Bremen
-street: "Pappelstraße"
-housenumber: 69
-phone: "+49 421 175 255 55"
-opening_hours: "Mo-Fr 08:00-13:00, Mo 14:00-18:00, Tu-Th 14:00-17:00"
-website: "https://www.hb-orthopaedie.de/hbo-sanitaetshaus/"
+street: Pappelstraße
+housenumber: "69"
+phone: +49 421 175 255 55
+opening_hours: Mo-Fr 08:00-13:00, Mo 14:00-18:00, Tu-Th 14:00-17:00
+website: https://www.hb-orthopaedie.de/hbo-sanitaetshaus/

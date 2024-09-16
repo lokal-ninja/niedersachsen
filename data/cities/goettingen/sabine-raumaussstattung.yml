@@ -1,11 +1,11 @@
 id: 424436838
-type: way
+type: node
 latitude: 51.54735
 longitude: 9.93949
 postcode: "37075"
 city: Göttingen
-street: "Robert-Koch-Straße"
-housenumber: 16
+street: Robert-Koch-Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

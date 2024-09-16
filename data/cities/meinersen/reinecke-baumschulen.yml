@@ -1,11 +1,11 @@
 id: 338744744
-type: way
+type: node
 latitude: 52.45149
 longitude: 10.30918
 postcode: "38536"
 city: Meinersen
-street: "Bundesstraße"
-housenumber: 18
+street: Bundesstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mar-Dec: Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://reinecke-baumschulen.de/"
+opening_hours: 'Mar-Dec: Mo-Fr 09:00-18:00; Sa 09:00-14:00'
+website: https://reinecke-baumschulen.de/

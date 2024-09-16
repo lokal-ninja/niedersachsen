@@ -1,11 +1,11 @@
 id: 33499169
-type: way
+type: node
 latitude: 52.3964
 longitude: 10.83834
 postcode: "38446"
 city: Wolfsburg
-street: "Hehlinger Straße"
-housenumber: 48
-phone: "+49 5363 972097"
+street: Hehlinger Straße
+housenumber: "48"
+phone: +49 5363 972097
 opening_hours: ""
-website: "https://www.autohauskoller.de"
+website: https://www.autohauskoller.de

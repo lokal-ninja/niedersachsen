@@ -1,11 +1,11 @@
 id: 92482903
-type: way
+type: node
 latitude: 53.24367
 longitude: 7.52607
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Kupferstraße"
-housenumber: 2
+street: Kupferstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://ftc-bauelemente.de/"
+website: https://ftc-bauelemente.de/

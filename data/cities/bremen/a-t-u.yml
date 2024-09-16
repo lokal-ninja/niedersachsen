@@ -4,8 +4,8 @@ latitude: 53.06503
 longitude: 8.78429
 postcode: "28199"
 city: Bremen
-street: "Neuenlander Straße"
-housenumber: 37
+street: Neuenlander Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00;Sa 08:30-16:00"
-website: "https://www.atu.de/"
+opening_hours: Mo-Fr 08:00-19:00;Sa 08:30-16:00
+website: https://www.atu.de/

@@ -4,8 +4,8 @@ latitude: 53.36171
 longitude: 9.70456
 postcode: "21279"
 city: Hollenstedt
-street: "Otto-Thiele-Straße"
-housenumber: 1
-phone: "+49 4165 80231"
-opening_hours: "Mo,Sa 09:00-12:00; Tu-Fr 09:00-12:00,14:00-18:00"
-website: "http://www.fotograf-seidel.de"
+street: Otto-Thiele-Straße
+housenumber: "1"
+phone: +49 4165 80231
+opening_hours: Mo,Sa 09:00-12:00; Tu-Fr 09:00-12:00,14:00-18:00
+website: http://www.fotograf-seidel.de

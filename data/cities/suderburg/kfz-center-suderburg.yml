@@ -1,11 +1,11 @@
 id: 291217235
-type: way
+type: node
 latitude: 52.89498
 longitude: 10.45414
 postcode: "29556"
 city: Suderburg
-street: "Hauptstraße"
-housenumber: 46
+street: Hauptstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:30,13:30-17:30; Sa 08:00-12:30"
+opening_hours: Mo-Fr 07:30-12:30,13:30-17:30; Sa 08:00-12:30
 website: ""

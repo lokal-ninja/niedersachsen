@@ -1,11 +1,11 @@
 id: 208891942
-type: way
+type: node
 latitude: 52.41648
 longitude: 9.79718
 postcode: "30659"
 city: Hannover
-street: "Sutelstraße"
-housenumber: 48
+street: Sutelstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"
-website: "https://www.bothfelder-fahrrad-shop.de/"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00
+website: https://www.bothfelder-fahrrad-shop.de/

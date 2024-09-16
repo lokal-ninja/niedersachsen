@@ -1,11 +1,11 @@
 id: 150505382
-type: way
+type: node
 latitude: 52.47614
 longitude: 10.56771
 postcode: "38518"
 city: Gifhorn
-street: "Pommernring"
-housenumber: 38
+street: Pommernring
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.holab.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.holab.de

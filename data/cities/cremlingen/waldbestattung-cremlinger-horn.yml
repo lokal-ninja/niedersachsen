@@ -4,8 +4,8 @@ latitude: 52.24852
 longitude: 10.65533
 postcode: "38162"
 city: Cremlingen
-street: "Hauptstraße"
-housenumber: 40
-phone: "+49 5306 9280259"
-opening_hours: "Tu 10:00-12:00; We 15:00-17:00; nach vorheriger Absprache"
-website: "https://www.waldbestattung-cremlingen.de/"
+street: Hauptstraße
+housenumber: "40"
+phone: +49 5306 9280259
+opening_hours: Tu 10:00-12:00; We 15:00-17:00; "nach vorheriger Absprache"
+website: https://www.waldbestattung-cremlingen.de/

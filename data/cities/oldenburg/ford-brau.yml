@@ -1,11 +1,11 @@
 id: 201004167
-type: way
+type: node
 latitude: 53.12572
 longitude: 8.16311
 postcode: "26131"
 city: Oldenburg
-street: "Edewechter Landstraße"
-housenumber: 157
-phone: "+49 441 930210"
+street: Edewechter Landstraße
+housenumber: "157"
+phone: +49 441 930210
 opening_hours: ""
-website: "https://www.ford-brau-oldenburg.de"
+website: https://www.ford-brau-oldenburg.de

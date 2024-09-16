@@ -4,8 +4,8 @@ latitude: 53.04518
 longitude: 8.9535
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 53
-phone: "+49 421 2222996"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.die-moebler.de/"
+street: Hans-Bredow-Straße
+housenumber: "53"
+phone: +49 421 2222996
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.die-moebler.de/

@@ -1,11 +1,11 @@
 id: 911821231
-type: way
+type: node
 latitude: 52.68628
 longitude: 7.6133
 postcode: "49770"
 city: Herzlake
-street: "Löninger Straße"
-housenumber: 32
+street: Löninger Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.der-radspezi.de/"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: https://www.der-radspezi.de/

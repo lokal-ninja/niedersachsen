@@ -1,11 +1,11 @@
 id: 1110378064
-type: way
+type: node
 latitude: 53.07323
 longitude: 7.41987
 postcode: "26871"
 city: Papenburg
-street: "Grader Weg"
-housenumber: 60
+street: Grader Weg
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "https://www.skfm-papenburg.de/"
+website: https://www.skfm-papenburg.de/

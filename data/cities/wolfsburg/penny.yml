@@ -4,8 +4,8 @@ latitude: 52.40599
 longitude: 10.782
 postcode: "38444"
 city: Wolfsburg
-street: "Rabenbergstraße"
-housenumber: 30
+street: Rabenbergstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 95143726
-type: way
+type: node
 latitude: 52.61858
 longitude: 8.3801
 postcode: "49356"
 city: Diepholz
-street: "Stauffenbergstraße"
-housenumber: 64
+street: Stauffenbergstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:30-13:00"
+opening_hours: Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:30-13:00
 website: ""

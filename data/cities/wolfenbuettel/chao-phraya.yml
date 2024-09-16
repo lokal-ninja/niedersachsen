@@ -1,11 +1,11 @@
 id: 392751700
-type: way
+type: node
 latitude: 52.16338
 longitude: 10.5414
 postcode: "38300"
 city: Wolfenbüttel
-street: "Enge Straße"
-housenumber: 22
+street: Enge Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

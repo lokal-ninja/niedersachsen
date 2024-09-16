@@ -4,8 +4,8 @@ latitude: 51.72733
 longitude: 10.25134
 postcode: "37520"
 city: Osterode am Harz
-street: "Scheffelstraße"
-housenumber: 2
-phone: "+49 5522 919080"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.kind.com/de-de/fachgeschaefte/optiker-osterode-mitte-i/"
+street: Scheffelstraße
+housenumber: "2"
+phone: +49 5522 919080
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.kind.com/de-de/fachgeschaefte/optiker-osterode-mitte-i/

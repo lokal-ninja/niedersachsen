@@ -4,8 +4,8 @@ latitude: 53.11635
 longitude: 8.75827
 postcode: "28237"
 city: Bremen
-street: "Gröpelinger Heerstraße"
-housenumber: 206
-phone: "+49 421 2787774"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.lameche.de/"
+street: Gröpelinger Heerstraße
+housenumber: "206"
+phone: +49 421 2787774
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.lameche.de/

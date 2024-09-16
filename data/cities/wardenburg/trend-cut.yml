@@ -1,11 +1,11 @@
 id: 669693146
-type: way
+type: node
 latitude: 53.06195
 longitude: 8.19579
 postcode: "26203"
 city: Wardenburg
-street: "Raiffeisenstraße"
-housenumber: 18
+street: Raiffeisenstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

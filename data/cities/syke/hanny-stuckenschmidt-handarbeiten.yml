@@ -1,11 +1,11 @@
 id: 46670405
-type: way
+type: node
 latitude: 52.91468
 longitude: 8.81843
 postcode: "28857"
 city: Syke
-street: "Hauptstraße"
-housenumber: 52
-phone: "+49 4242 60289"
+street: Hauptstraße
+housenumber: "52"
+phone: +49 4242 60289
 opening_hours: ""
 website: ""

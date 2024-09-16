@@ -1,11 +1,12 @@
 id: 28710580
-type: way
+type: node
 latitude: 53.12438
 longitude: 7.98056
 postcode: "26188"
 city: Edewecht
-street: "Hauptstraße"
-housenumber: 88
+street: Hauptstraße
+housenumber: "88"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30,14:00-17:00; Sa 09:00-12:00,14:00-17:00; Su 14:00-17:00; Mo,PH off"
+opening_hours: Tu-Fr 09:00-12:30,14:00-17:00; Sa 09:00-12:00,14:00-17:00; Su 14:00-17:00;
+    Mo,PH off
 website: ""

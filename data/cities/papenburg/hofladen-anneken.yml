@@ -4,8 +4,8 @@ latitude: 53.0535
 longitude: 7.41554
 postcode: "26871"
 city: Papenburg
-street: "Lerchenweg"
-housenumber: 8
-phone: "+49 4961 79 89"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00; Dec-Mar Mo off"
-website: "https://anneken.info/"
+street: Lerchenweg
+housenumber: "8"
+phone: +49 4961 79 89
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-13:00; Dec-Mar Mo off
+website: https://anneken.info/

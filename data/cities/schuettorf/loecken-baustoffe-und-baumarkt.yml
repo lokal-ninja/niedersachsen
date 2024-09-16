@@ -1,11 +1,11 @@
 id: 114315495
-type: way
+type: node
 latitude: 52.33772
 longitude: 7.24895
 postcode: "48465"
 city: Schüttorf
-street: "Industriestraße"
-housenumber: 22
-phone: "+49 5923 9884940"
+street: Industriestraße
+housenumber: "22"
+phone: +49 5923 9884940
 opening_hours: ""
-website: "https://www.loecken.de/"
+website: https://www.loecken.de/

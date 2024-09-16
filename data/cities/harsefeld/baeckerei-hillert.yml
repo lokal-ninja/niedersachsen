@@ -1,11 +1,11 @@
 id: 301110438
-type: way
+type: node
 latitude: 53.46232
 longitude: 9.52262
 postcode: "21698"
 city: Harsefeld
-street: "Im Sande"
-housenumber: 84
+street: Im Sande
+housenumber: "84"
 phone: ""
 opening_hours: ""
-website: "https://www.baeckerei-hillert.de/"
+website: https://www.baeckerei-hillert.de/

@@ -1,11 +1,11 @@
 id: 218982155
-type: way
+type: node
 latitude: 53.40254
 longitude: 10.41133
 postcode: "21395"
 city: Tespe
-street: "Elbuferstraße"
-housenumber: 168
+street: Elbuferstraße
+housenumber: "168"
 phone: ""
 opening_hours: ""
-website: "https://www.schuhhaus-peters-tespe.de/"
+website: https://www.schuhhaus-peters-tespe.de/

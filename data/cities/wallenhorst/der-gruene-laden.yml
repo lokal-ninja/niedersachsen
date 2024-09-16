@@ -4,8 +4,8 @@ latitude: 52.33426
 longitude: 8.02258
 postcode: "49134"
 city: Wallenhorst
-street: "Wessels Straße"
-housenumber: 1
+street: Wessels Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.der-gruene-laden-schulze.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.der-gruene-laden-schulze.de/

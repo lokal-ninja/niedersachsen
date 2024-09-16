@@ -4,8 +4,8 @@ latitude: 53.51695
 longitude: 8.10159
 postcode: "26382"
 city: Wilhelmshaven
-street: "Weserstraße"
-housenumber: 135
+street: Weserstraße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.netto-online.de

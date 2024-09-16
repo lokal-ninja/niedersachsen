@@ -1,11 +1,11 @@
 id: 83378909
-type: way
+type: node
 latitude: 53.60335
 longitude: 7.28709
 postcode: "26524"
 city: Hage
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

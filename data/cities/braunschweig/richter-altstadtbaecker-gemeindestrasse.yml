@@ -4,8 +4,8 @@ latitude: 52.23954
 longitude: 10.58181
 postcode: "38126"
 city: Braunschweig
-street: "Gemeindestraße"
-housenumber: 6
-phone: "+49 531 8893777"
-opening_hours: "Mo-Fr 06:00-12:00; Su 08:00-11:00"
-website: "https://www.brotversteher.de/"
+street: Gemeindestraße
+housenumber: "6"
+phone: +49 531 8893777
+opening_hours: Mo-Fr 06:00-12:00; Su 08:00-11:00
+website: https://www.brotversteher.de/

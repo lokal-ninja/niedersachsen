@@ -1,11 +1,11 @@
 id: 513023696
-type: way
+type: node
 latitude: 53.02425
 longitude: 11.46479
 postcode: "29471"
 city: Gartow
-street: "Hauptstraße"
-housenumber: 7
+street: Hauptstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

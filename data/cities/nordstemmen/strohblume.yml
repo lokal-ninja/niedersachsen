@@ -4,8 +4,8 @@ latitude: 52.16607
 longitude: 9.78929
 postcode: "31171"
 city: Nordstemmen
-street: "Hauptstraße"
-housenumber: 112
-phone: "+49 5069 3044"
-opening_hours: "Mo-We 08:00-14:00; Do-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.strohblume.com"
+street: Hauptstraße
+housenumber: "112"
+phone: +49 5069 3044
+opening_hours: Mo-We 08:00-14:00; Do-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.strohblume.com

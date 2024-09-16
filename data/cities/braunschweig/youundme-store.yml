@@ -4,8 +4,8 @@ latitude: 52.26095
 longitude: 10.52
 postcode: "38100"
 city: Braunschweig
-street: "Friedrich-Wilhelm-Straße"
-housenumber: 46
+street: Friedrich-Wilhelm-Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Tu,Th,Fr 10:00-17:00; We,Sa 10:00-14:00; Mo off"
+opening_hours: Tu,Th,Fr 10:00-17:00; We,Sa 10:00-14:00; Mo off
 website: ""

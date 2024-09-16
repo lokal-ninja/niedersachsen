@@ -4,8 +4,8 @@ latitude: 53.03969
 longitude: 9.70907
 postcode: "29643"
 city: Neuenkirchen
-street: "Ginsterweg"
-housenumber: 1
+street: Ginsterweg
+housenumber: "1"
 phone: ""
-opening_hours: "Th-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-14:00"
-website: "http://www.claudiasfrisierstuv.de/start.htm"
+opening_hours: Th-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-14:00
+website: http://www.claudiasfrisierstuv.de/start.htm

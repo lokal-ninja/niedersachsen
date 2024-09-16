@@ -1,11 +1,11 @@
 id: 30923837
-type: way
+type: node
 latitude: 51.97965
 longitude: 9.28432
 postcode: "31812"
 city: Bad Pyrmont
-street: "An der Schwage"
-housenumber: 1
+street: An der Schwage
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

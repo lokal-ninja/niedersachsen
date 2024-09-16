@@ -1,11 +1,11 @@
 id: 582074915
-type: way
+type: node
 latitude: 52.33089
 longitude: 9.1875
 postcode: "31655"
 city: Stadthagen
-street: "Hüttenstraße"
-housenumber: 50
+street: Hüttenstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.action.com/de-de/laden/stadthagen-huttenstrabe/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.action.com/de-de/laden/stadthagen-huttenstrabe/

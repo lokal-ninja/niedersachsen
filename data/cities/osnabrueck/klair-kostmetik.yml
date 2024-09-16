@@ -4,8 +4,8 @@ latitude: 52.27534
 longitude: 8.04045
 postcode: "49074"
 city: Osnabrück
-street: "Dielingerstraße"
-housenumber: 23
-phone: "+49 541 20066500"
-opening_hours: "Mo-Fr 11:00-18:00"
-website: "https://www.klair-kosmetik.de/"
+street: Dielingerstraße
+housenumber: "23"
+phone: +49 541 20066500
+opening_hours: Mo-Fr 11:00-18:00
+website: https://www.klair-kosmetik.de/

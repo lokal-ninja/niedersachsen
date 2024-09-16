@@ -4,8 +4,8 @@ latitude: 53.30166
 longitude: 7.50708
 postcode: "26802"
 city: Moormerland
-street: "Dr.-Warsing-Straße"
-housenumber: 295
+street: Dr.-Warsing-Straße
+housenumber: "295"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-12:00; PH off"
-website: "http://www.baeckerei-behmann.de"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-12:00; PH off
+website: http://www.baeckerei-behmann.de

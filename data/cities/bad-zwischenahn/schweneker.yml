@@ -1,11 +1,11 @@
 id: 331879890
-type: way
+type: node
 latitude: 53.17242
 longitude: 8.00134
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Am Busch"
-housenumber: 10
+street: Am Busch
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

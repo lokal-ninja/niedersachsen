@@ -1,11 +1,11 @@
 id: 237693426
-type: way
+type: node
 latitude: 53.59481
 longitude: 7.21233
 postcode: "26506"
 city: Norden
-street: "Glückauf"
-housenumber: 15
+street: Glückauf
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.c-e-popken.de/"
+website: https://www.c-e-popken.de/

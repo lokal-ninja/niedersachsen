@@ -1,11 +1,11 @@
 id: 240227431
-type: way
+type: node
 latitude: 53.38606
 longitude: 10.09553
 postcode: "21435"
 city: Stelle
-street: "Oldendörpsfeld"
-housenumber: 2
+street: Oldendörpsfeld
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1082350178
-type: way
+type: node
 latitude: 52.83689
 longitude: 8.07233
 postcode: "49661"
 city: Cloppenburg
-street: "Otto-Hahn-Straße"
-housenumber: 11
+street: Otto-Hahn-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 43075297
-type: way
+type: node
 latitude: 52.43994
 longitude: 10.84114
 postcode: "38448"
 city: Wolfsburg
-street: "An der Meine"
+street: An der Meine
 housenumber: 8;8A
 phone: ""
-opening_hours: "Mo-Fr 05:00-19:00; Sa 05:00-17:00; Su 08:00-17:00"
+opening_hours: Mo-Fr 05:00-19:00; Sa 05:00-17:00; Su 08:00-17:00
 website: ""

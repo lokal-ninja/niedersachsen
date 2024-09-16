@@ -1,11 +1,11 @@
 id: 97352867
-type: way
+type: node
 latitude: 53.77611
 longitude: 9.05518
 postcode: "21781"
 city: Cadenberge
-street: "Schmiedestraße"
-housenumber: 2
+street: Schmiedestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

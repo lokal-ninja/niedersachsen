@@ -4,8 +4,8 @@ latitude: 52.26484
 longitude: 10.52165
 postcode: "38100"
 city: Braunschweig
-street: "Sack"
-housenumber: 17
-phone: "+49 531 12167667"
-opening_hours: "Mo-Th 10:00-19:00; Fr,Sa 10:00-19:30"
-website: "https://summersby.de/"
+street: Sack
+housenumber: "17"
+phone: +49 531 12167667
+opening_hours: Mo-Th 10:00-19:00; Fr,Sa 10:00-19:30
+website: https://summersby.de/

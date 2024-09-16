@@ -1,11 +1,11 @@
 id: 91082306
-type: way
+type: node
 latitude: 52.40462
 longitude: 7.98655
 postcode: "49565"
 city: Bramsche
-street: "Alte Engterstraße"
-housenumber: 4
+street: Alte Engterstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
+opening_hours: Mo-Sa 10:00-20:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.08173
 longitude: 8.81024
 postcode: "28195"
 city: Bremen
-street: "Breitenweg"
-housenumber: 8
+street: Breitenweg
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "http://www.coiffeurcharisma.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: http://www.coiffeurcharisma.de/

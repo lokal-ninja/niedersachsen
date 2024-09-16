@@ -1,11 +1,11 @@
 id: 34910212
-type: way
+type: node
 latitude: 53.46327
 longitude: 9.70088
 postcode: "21614"
 city: Buxtehude
-street: "Lüneburger Schanze"
-housenumber: 17
+street: Lüneburger Schanze
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/buxtehude-556"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/buxtehude-556

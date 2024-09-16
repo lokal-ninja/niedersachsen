@@ -1,11 +1,11 @@
 id: 40590206
-type: way
+type: node
 latitude: 52.73279
 longitude: 7.74277
 postcode: "49624"
 city: Löningen
-street: "Haselünner Straße"
-housenumber: 42
+street: Haselünner Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

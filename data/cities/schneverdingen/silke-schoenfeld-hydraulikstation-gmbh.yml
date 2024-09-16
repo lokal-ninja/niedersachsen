@@ -4,8 +4,8 @@ latitude: 53.12541
 longitude: 9.80695
 postcode: "29640"
 city: Schneverdingen
-street: "An der Brücke"
-housenumber: 2
-phone: "+49 5193 6247"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-16:00; Sa 09:00-12:00"
-website: "https://schoenfeld-hydraulik.de/"
+street: An der Brücke
+housenumber: "2"
+phone: +49 5193 6247
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-16:00; Sa 09:00-12:00
+website: https://schoenfeld-hydraulik.de/

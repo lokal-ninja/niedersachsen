@@ -1,11 +1,11 @@
 id: 34894045
-type: way
+type: node
 latitude: 52.23319
 longitude: 9.86359
 postcode: "31157"
 city: Sarstedt
-street: "Hildesheimer Straße"
-housenumber: 52
+street: Hildesheimer Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de

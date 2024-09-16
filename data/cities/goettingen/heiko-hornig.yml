@@ -4,8 +4,8 @@ latitude: 51.53881
 longitude: 9.94255
 postcode: "37073"
 city: Göttingen
-street: "Bühlstraße"
-housenumber: 38
+street: Bühlstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"
-website: "https://www.fotostube-hornig.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:00
+website: https://www.fotostube-hornig.de/

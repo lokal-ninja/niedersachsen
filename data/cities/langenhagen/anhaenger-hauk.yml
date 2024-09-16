@@ -4,8 +4,8 @@ latitude: 52.44175
 longitude: 9.68664
 postcode: "30855"
 city: Langenhagen
-street: "Frankenring"
-housenumber: 11
-phone: "+49 511 782526"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://anhaenger-hauk.de/"
+street: Frankenring
+housenumber: "11"
+phone: +49 511 782526
+opening_hours: Mo-Fr 08:00-17:00
+website: https://anhaenger-hauk.de/

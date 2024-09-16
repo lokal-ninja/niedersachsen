@@ -1,11 +1,11 @@
 id: 49967921
-type: way
+type: node
 latitude: 53.08126
 longitude: 8.87524
 postcode: "28329"
 city: Bremen
-street: "In der Vahr"
-housenumber: 51
+street: In der Vahr
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

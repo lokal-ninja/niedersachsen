@@ -4,8 +4,8 @@ latitude: 53.14947
 longitude: 8.21375
 postcode: "26121"
 city: Oldenburg
-street: "Alexanderstraße"
-housenumber: 19
-phone: "+49 441 5008080"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://peter-paul-design.jimdosite.com"
+street: Alexanderstraße
+housenumber: "19"
+phone: +49 441 5008080
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://peter-paul-design.jimdosite.com

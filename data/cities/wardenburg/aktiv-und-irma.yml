@@ -1,11 +1,12 @@
 id: 342073865
-type: way
+type: node
 latitude: 53.06313
 longitude: 8.19432
 postcode: "26203"
 city: Wardenburg
-street: "Friedrichsstraße"
-housenumber: 19
-phone: "+49 4407 927800"
-opening_hours: "Mo-Sa 08:00-20:00 Verbrauchermarkt, Mo-Sa 08:00-20:00 Fleischerei; PH off"
-website: "https://www.aktiv-irma.de"
+street: Friedrichsstraße
+housenumber: "19"
+phone: +49 4407 927800
+opening_hours: Mo-Sa 08:00-20:00 "Verbrauchermarkt", Mo-Sa 08:00-20:00 "Fleischerei";
+    PH off
+website: https://www.aktiv-irma.de

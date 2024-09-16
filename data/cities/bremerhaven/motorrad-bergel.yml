@@ -1,11 +1,11 @@
 id: 258669135
-type: way
+type: node
 latitude: 53.58791
 longitude: 8.60606
 postcode: "27578"
 city: Bremerhaven
-street: "Fritz-Erler-Straße"
-housenumber: 11
+street: Fritz-Erler-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 11:00-14:00; PH off"
-website: "https://www.motorrad-bergel.de/index2.html"
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 11:00-14:00; PH off
+website: https://www.motorrad-bergel.de/index2.html

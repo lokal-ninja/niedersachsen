@@ -1,11 +1,11 @@
 id: 140383189
-type: way
+type: node
 latitude: 53.397
 longitude: 10.04208
 postcode: "21220"
 city: Seevetal
-street: "Schulstraße"
-housenumber: 61
+street: Schulstraße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30; PH off"
+opening_hours: Mo-Sa 07:00-21:30; PH off
 website: ""

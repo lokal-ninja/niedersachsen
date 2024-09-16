@@ -1,11 +1,11 @@
 id: 93476333
-type: way
+type: node
 latitude: 52.60678
 longitude: 8.3656
 postcode: "49356"
 city: Diepholz
-street: "Flöthestraße"
-housenumber: 43
+street: Flöthestraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

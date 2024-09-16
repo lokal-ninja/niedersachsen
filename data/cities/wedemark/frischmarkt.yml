@@ -1,11 +1,11 @@
 id: 192761289
-type: way
+type: node
 latitude: 52.5061
 longitude: 9.63013
 postcode: "30900"
 city: Wedemark
-street: "Altes Dorf"
-housenumber: 15
+street: Altes Dorf
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://frischmarkt-pagel.de/"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://frischmarkt-pagel.de/

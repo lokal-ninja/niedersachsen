@@ -1,11 +1,11 @@
 id: 102703126
-type: way
+type: node
 latitude: 52.31941
 longitude: 7.22739
 postcode: "48465"
 city: Schüttorf
-street: "Graf-Egbert-Straße"
-housenumber: 17
+street: Graf-Egbert-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

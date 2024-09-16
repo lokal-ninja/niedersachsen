@@ -4,8 +4,8 @@ latitude: 51.49445
 longitude: 9.60536
 postcode: "34359"
 city: Reinhardshagen
-street: "Lange Straße"
-housenumber: 27
+street: Lange Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo 08:00-13:00; Tu-Fr 08:00-13:00,15:00-18:00; Sa 07:30-13:00"
-website: "https://www.landfleischerei-spielmann.de/"
+opening_hours: Mo 08:00-13:00; Tu-Fr 08:00-13:00,15:00-18:00; Sa 07:30-13:00
+website: https://www.landfleischerei-spielmann.de/

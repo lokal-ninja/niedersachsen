@@ -1,11 +1,11 @@
 id: 43790900
-type: way
+type: node
 latitude: 53.13749
 longitude: 8.18186
 postcode: "26131"
 city: Oldenburg
-street: "Eichenstraße"
-housenumber: 46
+street: Eichenstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

@@ -1,11 +1,11 @@
 id: 38137405
-type: way
+type: node
 latitude: 52.82955
 longitude: 10.08555
 postcode: "29320"
 city: Südheide
-street: "Celler Straße"
-housenumber: 18
-phone: "+49-5052-94203"
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://www.edeka-ehlers.de/hermannsburg"
+street: Celler Straße
+housenumber: "18"
+phone: +49-5052-94203
+opening_hours: Mo-Sa 07:30-21:00
+website: https://www.edeka-ehlers.de/hermannsburg

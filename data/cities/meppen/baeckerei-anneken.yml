@@ -1,11 +1,11 @@
 id: 130845965
-type: way
+type: node
 latitude: 52.69642
 longitude: 7.26516
 postcode: "49716"
 city: Meppen
-street: "Mozartstraße"
-housenumber: 24
+street: Mozartstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

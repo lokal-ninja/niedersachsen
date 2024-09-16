@@ -1,11 +1,11 @@
 id: 403899546
-type: way
+type: node
 latitude: 52.25256
 longitude: 10.53951
 postcode: "38102"
 city: Braunschweig
-street: "Berliner Platz"
-housenumber: 1
-phone: "+49 531 1231969"
-opening_hours: "Mo-Fr 05:00-21:00; Sa,Su 06:00-20:00"
+street: Berliner Platz
+housenumber: "1"
+phone: +49 531 1231969
+opening_hours: Mo-Fr 05:00-21:00; Sa,Su 06:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 78329899
-type: way
+type: node
 latitude: 53.56445
 longitude: 7.91406
 postcode: "26441"
 city: Jever
-street: "Mühlenstraße"
-housenumber: 87
+street: Mühlenstraße
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

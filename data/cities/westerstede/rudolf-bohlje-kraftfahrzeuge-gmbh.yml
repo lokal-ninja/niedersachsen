@@ -1,11 +1,11 @@
 id: 319239662
-type: way
+type: node
 latitude: 53.26662
 longitude: 7.91106
 postcode: "26655"
 city: Westerstede
-street: "Alte Straße"
-housenumber: 35
+street: Alte Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

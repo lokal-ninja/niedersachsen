@@ -1,11 +1,11 @@
 id: 115370232
-type: way
+type: node
 latitude: 53.18024
 longitude: 8.02403
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Oldenburger Straße"
-housenumber: 33
+street: Oldenburger Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

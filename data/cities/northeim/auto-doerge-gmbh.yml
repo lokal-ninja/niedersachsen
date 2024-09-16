@@ -1,11 +1,11 @@
 id: 108264428
-type: way
+type: node
 latitude: 51.70069
 longitude: 9.9922
 postcode: "37154"
 city: Northeim
-street: "Göttinger Straße"
-housenumber: 29
+street: Göttinger Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

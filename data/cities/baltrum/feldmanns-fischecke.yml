@@ -1,11 +1,11 @@
 id: 41518457
-type: way
+type: node
 latitude: 53.72887
 longitude: 7.3851
 postcode: "26579"
 city: Baltrum
-street: "Ostdorf"
-housenumber: 97
+street: Ostdorf
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 11:00-14:00, Mo-Fr 16:00-18:00, Sa 17:00-18:00; Su off"
+opening_hours: Mo-Sa 11:00-14:00, Mo-Fr 16:00-18:00, Sa 17:00-18:00; Su off
 website: ""

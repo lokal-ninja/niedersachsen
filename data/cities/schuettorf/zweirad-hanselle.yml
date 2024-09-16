@@ -1,11 +1,11 @@
 id: 236772068
-type: way
+type: node
 latitude: 52.32508
 longitude: 7.21599
 postcode: "48465"
 city: Schüttorf
-street: "Nordhorner Straße"
-housenumber: 29
-phone: "+49 5923 95100"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00"
-website: "https://www.zweirad-hanselle.de/"
+street: Nordhorner Straße
+housenumber: "29"
+phone: +49 5923 95100
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00
+website: https://www.zweirad-hanselle.de/

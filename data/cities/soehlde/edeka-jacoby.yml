@@ -4,8 +4,8 @@ latitude: 52.21024
 longitude: 10.18342
 postcode: "31185"
 city: Söhlde
-street: "Hauptstraße"
-housenumber: 33
-phone: "+49 5129 9783102"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-jacoby-hauptstr.-33/index.jsp"
+street: Hauptstraße
+housenumber: "33"
+phone: +49 5129 9783102
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-jacoby-hauptstr.-33/index.jsp

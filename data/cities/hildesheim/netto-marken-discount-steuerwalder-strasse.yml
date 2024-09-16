@@ -4,8 +4,8 @@ latitude: 52.16778
 longitude: 9.94039
 postcode: "31137"
 city: Hildesheim
-street: "Steuerwalder Straße"
-housenumber: 146
+street: Steuerwalder Straße
+housenumber: "146"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

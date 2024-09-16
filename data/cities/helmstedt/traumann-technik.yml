@@ -4,8 +4,8 @@ latitude: 52.22745
 longitude: 11.00549
 postcode: "38350"
 city: Helmstedt
-street: "Juliusstraße"
-housenumber: 14
-phone: "+49 5351 58670"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.traumann.com/"
+street: Juliusstraße
+housenumber: "14"
+phone: +49 5351 58670
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00
+website: https://www.traumann.com/

@@ -4,8 +4,8 @@ latitude: 52.58931
 longitude: 8.20383
 postcode: "49439"
 city: Steinfeld
-street: "Bahnhofstraße"
-housenumber: 47
-phone: "+49 5492 8020"
-opening_hours: "Mo-We 09:30-18:30; Th,Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://hartke-steinfeld.de/"
+street: Bahnhofstraße
+housenumber: "47"
+phone: +49 5492 8020
+opening_hours: Mo-We 09:30-18:30; Th,Fr 09:30-19:00; Sa 09:30-18:00
+website: https://hartke-steinfeld.de/

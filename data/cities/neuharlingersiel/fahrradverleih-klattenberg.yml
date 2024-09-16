@@ -1,11 +1,11 @@
 id: 166341588
-type: way
+type: node
 latitude: 53.69887
 longitude: 7.69577
 postcode: "26427"
 city: Neuharlingersiel
-street: "Nordseestraße"
-housenumber: 4
-phone: "+49 4974 914646"
-opening_hours: "Mo-Su,PH 09:00-13:00,14:00-18:00"
-website: "https://www.fahrradverleih-klattenberg.de/"
+street: Nordseestraße
+housenumber: "4"
+phone: +49 4974 914646
+opening_hours: Mo-Su,PH 09:00-13:00,14:00-18:00
+website: https://www.fahrradverleih-klattenberg.de/

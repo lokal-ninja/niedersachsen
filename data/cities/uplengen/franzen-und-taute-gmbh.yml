@@ -1,11 +1,11 @@
 id: 296600574
-type: way
+type: node
 latitude: 53.32049
 longitude: 7.83819
 postcode: "26670"
 city: Uplengen
-street: "Meinersfehner Straße"
-housenumber: 29
-phone: "+49 4956 912063"
+street: Meinersfehner Straße
+housenumber: "29"
+phone: +49 4956 912063
 opening_hours: ""
-website: "https://www.franzenundtaute.de/"
+website: https://www.franzenundtaute.de/

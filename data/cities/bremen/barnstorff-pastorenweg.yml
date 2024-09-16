@@ -4,8 +4,8 @@ latitude: 53.11389
 longitude: 8.75672
 postcode: "28237"
 city: Bremen
-street: "Pastorenweg"
-housenumber: 210
+street: Pastorenweg
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00;Sa 06:00-13:00;Su 08:00-11:00"
-website: "https://www.baeckerei-barnstorff.de/"
+opening_hours: Mo-Fr 06:00-18:00;Sa 06:00-13:00;Su 08:00-11:00
+website: https://www.baeckerei-barnstorff.de/

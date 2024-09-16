@@ -4,8 +4,8 @@ latitude: 51.62799
 longitude: 10.46037
 postcode: "37431"
 city: Bad Lauterberg im Harz
-street: "Lutterstraße"
-housenumber: 3
+street: Lutterstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; "
+opening_hours: 'Mo-Fr 09:00-18:00; Sa 09:00-13:00; '
 website: ""

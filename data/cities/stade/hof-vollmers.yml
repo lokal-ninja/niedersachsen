@@ -4,8 +4,8 @@ latitude: 53.5823
 longitude: 9.42056
 postcode: "21684"
 city: Stade
-street: "Alte Dorfstraße"
-housenumber: 56
+street: Alte Dorfstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 07:15-12:30, Mo,Th,Fr 14:00-18:15"
-website: "https://www.hof-vollmers.de/"
+opening_hours: Mo-Sa 07:15-12:30, Mo,Th,Fr 14:00-18:15
+website: https://www.hof-vollmers.de/

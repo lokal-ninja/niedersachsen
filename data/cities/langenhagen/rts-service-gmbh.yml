@@ -4,8 +4,8 @@ latitude: 52.43348
 longitude: 9.68511
 postcode: "30855"
 city: Langenhagen
-street: "Berliner Allee"
-housenumber: 20
+street: Berliner Allee
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://rtsservice.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://rtsservice.de/

@@ -1,11 +1,11 @@
 id: 166341336
-type: way
+type: node
 latitude: 53.69833
 longitude: 7.69408
 postcode: "26427"
 city: Neuharlingersiel
-street: "Addenhausen"
-housenumber: 3
+street: Addenhausen
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 6:30-18:00"
+opening_hours: Mo-Su 6:30-18:00
 website: ""

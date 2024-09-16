@@ -4,8 +4,8 @@ latitude: 52.40934
 longitude: 7.97651
 postcode: "49565"
 city: Bramsche
-street: "Breuelstraße"
-housenumber: 10
+street: Breuelstraße
+housenumber: "10"
 phone: "+4954614281"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.schroeder-blumen.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00
+website: https://www.schroeder-blumen.de/

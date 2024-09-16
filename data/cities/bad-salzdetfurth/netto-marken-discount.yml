@@ -1,11 +1,11 @@
 id: 242597675
-type: way
+type: node
 latitude: 52.05365
 longitude: 10.00136
 postcode: "31162"
 city: Bad Salzdetfurth
-street: "Bodenburger Straße"
-housenumber: 9
+street: Bodenburger Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

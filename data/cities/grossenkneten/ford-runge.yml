@@ -1,11 +1,11 @@
 id: 386067538
-type: way
+type: node
 latitude: 52.93544
 longitude: 8.24883
 postcode: "26197"
 city: Großenkneten
-street: "Am Brink"
-housenumber: 4
+street: Am Brink
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

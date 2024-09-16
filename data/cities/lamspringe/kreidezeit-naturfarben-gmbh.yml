@@ -1,11 +1,11 @@
 id: 1021993403
-type: way
+type: node
 latitude: 52.00177
 longitude: 9.9602
 postcode: "31195"
 city: Lamspringe
-street: "Kassemühle"
-housenumber: 3
-phone: "+49 5060 6080 650"
+street: Kassemühle
+housenumber: "3"
+phone: +49 5060 6080 650
 opening_hours: ""
-website: "https://www.kreidezeit.de/"
+website: https://www.kreidezeit.de/

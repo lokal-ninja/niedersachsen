@@ -1,11 +1,11 @@
 id: 904104368
-type: way
+type: node
 latitude: 52.07869
 longitude: 9.72827
 postcode: "31036"
 city: Eime
-street: "Gronauer Straße"
-housenumber: 1
+street: Gronauer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.baeckerei-bohne.de/wordpress/?page_id=12"
+website: https://www.baeckerei-bohne.de/wordpress/?page_id=12

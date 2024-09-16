@@ -1,11 +1,11 @@
 id: 404303387
-type: way
+type: node
 latitude: 52.87186
 longitude: 7.23383
 postcode: "49779"
 city: Niederlangen
-street: "Feldkoppel"
-housenumber: 6
+street: Feldkoppel
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-13:00; Su off"
-website: "https://www.cawila.de"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-13:00; Su off
+website: https://www.cawila.de

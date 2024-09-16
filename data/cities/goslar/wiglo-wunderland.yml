@@ -1,11 +1,11 @@
 id: 76184503
-type: way
+type: node
 latitude: 51.95656
 longitude: 10.38608
 postcode: "38644"
 city: Goslar
-street: "Auf der Dingstelle"
-housenumber: 19
+street: Auf der Dingstelle
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://www.wiglo.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
+website: https://www.wiglo.de/

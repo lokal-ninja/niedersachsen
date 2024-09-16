@@ -1,11 +1,11 @@
 id: 545498243
-type: way
+type: node
 latitude: 51.72797
 longitude: 10.251
 postcode: "37520"
 city: Osterode am Harz
-street: "Kornmarkt"
-housenumber: 8
+street: Kornmarkt
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

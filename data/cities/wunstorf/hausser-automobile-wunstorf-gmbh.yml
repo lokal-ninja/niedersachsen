@@ -1,11 +1,11 @@
 id: 282883699
-type: way
+type: node
 latitude: 52.41642
 longitude: 9.45085
 postcode: "31515"
 city: Wunstorf
-street: "Auf Bösselhagen"
-housenumber: 8
+street: Auf Bösselhagen
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

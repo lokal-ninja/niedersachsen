@@ -4,8 +4,8 @@ latitude: 52.91227
 longitude: 8.82446
 postcode: "28857"
 city: Syke
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 4242 2990"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 08:00-17:00"
-website: "https://www.baeckerei-weymann.de/"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 4242 2990
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 08:00-17:00
+website: https://www.baeckerei-weymann.de/

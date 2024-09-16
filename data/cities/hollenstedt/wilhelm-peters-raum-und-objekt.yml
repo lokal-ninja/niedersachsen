@@ -4,8 +4,9 @@ latitude: 53.36675
 longitude: 9.70934
 postcode: "21279"
 city: Hollenstedt
-street: "Hauptstraße"
-housenumber: 24
-phone: "+49 4165 8483"
-opening_hours: "Mo,Th 09:00-12:00,14:30-18:00; We 09:00-12:00; Tu,Fr 09:00-12:00,14:30-18:00; Sa 09:00-12:00"
-website: "http://www.wilhelm-peters.net"
+street: Hauptstraße
+housenumber: "24"
+phone: +49 4165 8483
+opening_hours: Mo,Th 09:00-12:00,14:30-18:00; We 09:00-12:00; Tu,Fr 09:00-12:00,14:30-18:00;
+    Sa 09:00-12:00
+website: http://www.wilhelm-peters.net

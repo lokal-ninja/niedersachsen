@@ -4,8 +4,8 @@ latitude: 51.51242
 longitude: 10.25999
 postcode: "37115"
 city: Duderstadt
-street: "Marktstraße"
-housenumber: 57
-phone: "+49 5527 999782"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
+street: Marktstraße
+housenumber: "57"
+phone: +49 5527 999782
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 155539656
-type: way
+type: node
 latitude: 52.73457
 longitude: 7.75856
 postcode: "49624"
 city: Löningen
-street: "Poststraße"
-housenumber: 8
+street: Poststraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

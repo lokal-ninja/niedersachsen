@@ -4,8 +4,8 @@ latitude: 52.38895
 longitude: 9.75115
 postcode: "30163"
 city: Hannover
-street: "Podbielskistraße"
-housenumber: 4
+street: Podbielskistraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:30; Sa 09:00-16:00"
-website: "https://www.mirlind.de"
+opening_hours: Mo-Fr 10:00-19:30; Sa 09:00-16:00
+website: https://www.mirlind.de

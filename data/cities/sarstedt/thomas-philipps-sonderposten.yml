@@ -1,11 +1,11 @@
 id: 130845186
-type: way
+type: node
 latitude: 52.24717
 longitude: 9.85181
 postcode: "31157"
 city: Sarstedt
-street: "Am Teinkamp"
-housenumber: 7
-phone: "+49 5066 902869"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.thomas-philipps.de/"
+street: Am Teinkamp
+housenumber: "7"
+phone: +49 5066 902869
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.thomas-philipps.de/

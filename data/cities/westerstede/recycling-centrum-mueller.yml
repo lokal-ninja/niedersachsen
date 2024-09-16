@@ -1,11 +1,11 @@
 id: 563530261
-type: way
+type: node
 latitude: 53.29533
 longitude: 7.8628
 postcode: "26655"
 city: Westerstede
-street: "Halsbeker Straße"
-housenumber: 8
-phone: "+49 4488 52988-0"
-opening_hours: "Mo-Fr 09:00-12:30, 13:30-18:00"
-website: "http://www.recycling-profi.de"
+street: Halsbeker Straße
+housenumber: "8"
+phone: +49 4488 52988-0
+opening_hours: Mo-Fr 09:00-12:30, 13:30-18:00
+website: http://www.recycling-profi.de

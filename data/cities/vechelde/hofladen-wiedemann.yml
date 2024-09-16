@@ -1,11 +1,11 @@
 id: 208506567
-type: way
+type: node
 latitude: 52.25796
 longitude: 10.33962
 postcode: "38159"
 city: Vechelde
-street: "Breite Straße"
-housenumber: 1
+street: Breite Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-13:00; Sa 08:00-13:00
 website: ""

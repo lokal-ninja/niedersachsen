@@ -1,11 +1,11 @@
 id: 91231746
-type: way
+type: node
 latitude: 52.46594
 longitude: 10.20048
 postcode: "31311"
 city: Uetze
-street: "Lange Straße"
-housenumber: 4
+street: Lange Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

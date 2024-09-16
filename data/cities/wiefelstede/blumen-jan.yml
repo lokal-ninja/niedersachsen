@@ -1,11 +1,11 @@
 id: 230286989
-type: way
+type: node
 latitude: 53.24916
 longitude: 8.12341
 postcode: "26215"
 city: Wiefelstede
-street: "Hauptstraße"
-housenumber: 52
-phone: "+49 4402 869285"
+street: Hauptstraße
+housenumber: "52"
+phone: +49 4402 869285
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 121998967
-type: way
+type: node
 latitude: 53.5925
 longitude: 6.66465
 postcode: "26757"
 city: Borkum
-street: "Kaapstraße"
-housenumber: 1
-phone: "+49 4922 7353"
+street: Kaapstraße
+housenumber: "1"
+phone: +49 4922 7353
 opening_hours: ""
-website: "https://www.borkum-zweirad.de"
+website: https://www.borkum-zweirad.de

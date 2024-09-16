@@ -1,11 +1,11 @@
 id: 237544759
-type: way
+type: node
 latitude: 53.58486
 longitude: 7.22279
 postcode: "26506"
 city: Norden
-street: "Bahnhofstraße"
-housenumber: 35
+street: Bahnhofstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.tekken.de/index.php/unternehmen"
+website: https://www.tekken.de/index.php/unternehmen

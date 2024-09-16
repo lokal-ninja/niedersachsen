@@ -1,11 +1,11 @@
 id: 81974830
-type: way
+type: node
 latitude: 53.17873
 longitude: 7.99568
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Reihdamm"
-housenumber: 35
+street: Reihdamm
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

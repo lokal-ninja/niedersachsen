@@ -1,11 +1,11 @@
 id: 238679042
-type: way
+type: node
 latitude: 53.06664
 longitude: 8.7943
 postcode: "28201"
 city: Bremen
-street: "Friedrich-Ebert-Straße"
+street: Friedrich-Ebert-Straße
 housenumber: 146-150
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.penny.de/

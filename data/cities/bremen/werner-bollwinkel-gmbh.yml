@@ -1,11 +1,11 @@
 id: 249703631
-type: way
+type: node
 latitude: 53.10677
 longitude: 8.87766
 postcode: "28357"
 city: Bremen
-street: "Kleiner Ort"
-housenumber: 13
+street: Kleiner Ort
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

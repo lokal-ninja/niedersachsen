@@ -1,11 +1,11 @@
 id: 64682600
-type: way
+type: node
 latitude: 52.32549
 longitude: 9.78417
 postcode: "30519"
 city: Hannover
-street: "Behnstraße"
-housenumber: 4
+street: Behnstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

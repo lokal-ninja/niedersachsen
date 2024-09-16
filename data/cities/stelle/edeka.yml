@@ -1,11 +1,11 @@
 id: 327113947
-type: way
+type: node
 latitude: 53.38492
 longitude: 10.10523
 postcode: "21435"
 city: Stelle
-street: "Harburger Straße"
-housenumber: 22
+street: Harburger Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.92758
 longitude: 9.63636
 postcode: "37632"
 city: Eschershausen
-street: "Steinweg"
-housenumber: 6
-phone: "+49 5534 941624"
-opening_hours: "Tu,Th,Fr 08:30-12:30, 15:00-18:00; We 08:30-12:30; Sa 08:30-12:00; Su,Mo off"
-website: "https://www.tintenklex-eschershausen.com"
+street: Steinweg
+housenumber: "6"
+phone: +49 5534 941624
+opening_hours: Tu,Th,Fr 08:30-12:30, 15:00-18:00; We 08:30-12:30; Sa 08:30-12:00;
+    Su,Mo off
+website: https://www.tintenklex-eschershausen.com

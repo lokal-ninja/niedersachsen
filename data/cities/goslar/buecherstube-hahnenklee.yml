@@ -1,11 +1,11 @@
 id: 217948529
-type: way
+type: node
 latitude: 51.8609
 longitude: 10.34029
 postcode: "38644"
 city: Goslar
-street: "Hindenburgstraße"
-housenumber: 1
+street: Hindenburgstraße
+housenumber: "1"
 phone: "+4953252387"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-17:00"
-website: "http://bücherstube-hahnenklee.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-17:00
+website: http://bücherstube-hahnenklee.de/

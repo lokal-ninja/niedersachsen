@@ -4,8 +4,8 @@ latitude: 52.32077
 longitude: 7.34222
 postcode: "48499"
 city: Salzbergen
-street: "Steider Straße"
-housenumber: 2
-phone: "+49 176 610 933 25"
-opening_hours: "Mo-Fr 10:00-12:30, 14:00-18:00; Sa 10:00-13:00; PH off"
+street: Steider Straße
+housenumber: "2"
+phone: +49 176 610 933 25
+opening_hours: Mo-Fr 10:00-12:30, 14:00-18:00; Sa 10:00-13:00; PH off
 website: ""

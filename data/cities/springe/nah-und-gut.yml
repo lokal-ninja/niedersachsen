@@ -1,11 +1,11 @@
 id: 753454265
-type: way
+type: node
 latitude: 52.17101
 longitude: 9.6567
 postcode: "31832"
 city: Springe
-street: "Lange Straße"
-housenumber: 
+street: Lange Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka-durasin.de/springe/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka-durasin.de/springe/

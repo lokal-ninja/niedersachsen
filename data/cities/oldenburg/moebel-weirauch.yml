@@ -1,11 +1,11 @@
 id: 131421539
-type: way
+type: node
 latitude: 53.18632
 longitude: 8.20542
 postcode: "26125"
 city: Oldenburg
-street: "Stiekelkamp"
-housenumber: 15
+street: Stiekelkamp
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://moebel-weirauch.de/"
+website: https://moebel-weirauch.de/

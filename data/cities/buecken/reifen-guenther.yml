@@ -1,11 +1,11 @@
 id: 182425443
-type: way
+type: node
 latitude: 52.79676
 longitude: 9.13509
 postcode: "27333"
 city: Bücken
 street: ""
-housenumber: 144
+housenumber: "144"
 phone: ""
-opening_hours: "Mo-Fr 8:00-18:00; Sa 8:00-12:00"
+opening_hours: Mo-Fr 8:00-18:00; Sa 8:00-12:00
 website: ""

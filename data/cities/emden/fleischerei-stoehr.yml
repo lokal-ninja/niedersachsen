@@ -4,8 +4,8 @@ latitude: 53.36543
 longitude: 7.213
 postcode: "26725"
 city: Emden
-street: "Mühlenstraße"
-housenumber: 50
-phone: "+49 4921 23432"
-opening_hours: "Mo 07:00-13:00; Tu-Fr 07:00-13:00,15:00-18:00; Sa 07:00-13:00"
-website: "https://www.fleischerei-stoehr.de/"
+street: Mühlenstraße
+housenumber: "50"
+phone: +49 4921 23432
+opening_hours: Mo 07:00-13:00; Tu-Fr 07:00-13:00,15:00-18:00; Sa 07:00-13:00
+website: https://www.fleischerei-stoehr.de/

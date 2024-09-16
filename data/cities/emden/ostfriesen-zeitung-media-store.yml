@@ -4,8 +4,8 @@ latitude: 53.36812
 longitude: 7.20283
 postcode: "26721"
 city: Emden
-street: "Neuer Markt"
-housenumber: 28
-phone: "+49 4921 93250"
-opening_hours: "Mo-Fr 09:00-12:30,13:00-17:00"
-website: "https://www.oz-online.de/"
+street: Neuer Markt
+housenumber: "28"
+phone: +49 4921 93250
+opening_hours: Mo-Fr 09:00-12:30,13:00-17:00
+website: https://www.oz-online.de/

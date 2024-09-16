@@ -4,8 +4,8 @@ latitude: 52.62209
 longitude: 7.75443
 postcode: "49626"
 city: Berge
-street: "Hauptstraße"
-housenumber: 61
-phone: "+49 5435 954350"
-opening_hours: "Mo-Fr 06:00-18:30; Sa-Su 06:00-17:00"
-website: "https://www.wintering.de/filialen.html"
+street: Hauptstraße
+housenumber: "61"
+phone: +49 5435 954350
+opening_hours: Mo-Fr 06:00-18:30; Sa-Su 06:00-17:00
+website: https://www.wintering.de/filialen.html

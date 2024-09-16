@@ -4,8 +4,9 @@ latitude: 52.69296
 longitude: 8.94034
 postcode: "27254"
 city: Siedenburg
-street: "Mühlenstraße"
-housenumber: 
+street: Mühlenstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo off; Tu 6:00-18:00; We, Th 6:00-14:00; Fr 6:00-18:00; Sa 6:00-12:00; Su 7:00-10:00"
+opening_hours: Mo off; Tu 6:00-18:00; We, Th 6:00-14:00; Fr 6:00-18:00; Sa 6:00-12:00;
+    Su 7:00-10:00
 website: ""

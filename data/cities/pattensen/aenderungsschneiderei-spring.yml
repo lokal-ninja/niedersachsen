@@ -4,8 +4,8 @@ latitude: 52.26366
 longitude: 9.76191
 postcode: "30982"
 city: Pattensen
-street: "Steinstraße"
-housenumber: 38
-phone: "+49 5101 8199805"
-opening_hours: "Mo,Tu,We,Fr 10:00-13:00; Mo,We,Fr 15:00-18:00; Th 14:00-19:00"
+street: Steinstraße
+housenumber: "38"
+phone: +49 5101 8199805
+opening_hours: Mo,Tu,We,Fr 10:00-13:00; Mo,We,Fr 15:00-18:00; Th 14:00-19:00
 website: ""

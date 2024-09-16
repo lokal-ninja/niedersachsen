@@ -4,8 +4,8 @@ latitude: 52.37036
 longitude: 10.72472
 postcode: "38444"
 city: Wolfsburg
-street: "Brandgehaege"
-housenumber: 9
+street: Brandgehaege
+housenumber: "9"
 phone: "+495308520277"
 opening_hours: ""
-website: "https://www.sprint-service.de/"
+website: https://www.sprint-service.de/

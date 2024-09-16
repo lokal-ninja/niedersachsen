@@ -4,8 +4,8 @@ latitude: 52.24745
 longitude: 8.06336
 postcode: "49082"
 city: Osnabrück
-street: "Iburger Straße"
-housenumber: 225
+street: Iburger Straße
+housenumber: "225"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00; PH off"
-website: "https://www.babyone.de/"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00; PH off
+website: https://www.babyone.de/

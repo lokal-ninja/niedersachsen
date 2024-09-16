@@ -1,11 +1,11 @@
 id: 492924551
-type: way
+type: node
 latitude: 53.28335
 longitude: 7.56908
 postcode: "26835"
 city: Holtland
-street: "Königstraße"
-housenumber: 46
-phone: "+49 4950 3453"
+street: Königstraße
+housenumber: "46"
+phone: +49 4950 3453
 opening_hours: ""
 website: ""

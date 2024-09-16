@@ -1,11 +1,11 @@
 id: 159539251
-type: way
+type: node
 latitude: 52.40667
 longitude: 9.70427
 postcode: "30165"
 city: Hannover
-street: "Meelbaumstraße"
-housenumber: 15
+street: Meelbaumstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"
-website: "https://moebel-staude.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off
+website: https://moebel-staude.de/

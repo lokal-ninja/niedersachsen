@@ -1,11 +1,11 @@
 id: 334683412
-type: way
+type: node
 latitude: 52.20349
 longitude: 8.11328
 postcode: "49124"
 city: Georgsmarienhütte
-street: "Am Markt"
-housenumber: 16
-phone: "+49 54 01 8 81 23 92"
-opening_hours: "Fr 14:00-18:00; Sa 10:00-14:00"
-website: "https://www.imkergenossenschaft.de/"
+street: Am Markt
+housenumber: "16"
+phone: +49 54 01 8 81 23 92
+opening_hours: Fr 14:00-18:00; Sa 10:00-14:00
+website: https://www.imkergenossenschaft.de/

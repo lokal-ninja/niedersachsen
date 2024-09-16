@@ -1,11 +1,11 @@
 id: 32533700
-type: way
+type: node
 latitude: 52.84123
 longitude: 8.07293
 postcode: "49661"
 city: Cloppenburg
-street: "Daimlerstraße"
-housenumber: 9
-phone: "+49 4471 9610"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su, PH off"
-website: "https://ah-suedbeck.de/"
+street: Daimlerstraße
+housenumber: "9"
+phone: +49 4471 9610
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su, PH off
+website: https://ah-suedbeck.de/

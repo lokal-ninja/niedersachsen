@@ -4,8 +4,8 @@ latitude: 52.35696
 longitude: 9.75549
 postcode: "30173"
 city: Hannover
-street: "Mendelssohnstraße"
-housenumber: 26
+street: Mendelssohnstraße
+housenumber: "26"
 phone: "+4951180909625"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-13:00"
-website: "https://www.frisuren-viviengey.de/"
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-13:00
+website: https://www.frisuren-viviengey.de/

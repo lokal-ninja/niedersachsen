@@ -4,8 +4,8 @@ latitude: 53.04754
 longitude: 8.9606
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 40
-phone: "+49 421 41732700"
-opening_hours: "Mo-Fr 11:00-17:00"
-website: "http://www.office-design.de/"
+street: Hans-Bredow-Straße
+housenumber: "40"
+phone: +49 421 41732700
+opening_hours: Mo-Fr 11:00-17:00
+website: http://www.office-design.de/

@@ -1,11 +1,11 @@
 id: 230716961
-type: way
+type: node
 latitude: 53.76794
 longitude: 9.32004
 postcode: "21737"
 city: Wischhafen
-street: "Ziegelstraße"
-housenumber: 15
+street: Ziegelstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

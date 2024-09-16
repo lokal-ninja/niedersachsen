@@ -4,8 +4,8 @@ latitude: 53.11483
 longitude: 9.23311
 postcode: "27367"
 city: Sottrum
-street: "Lienworth"
-housenumber: 3
+street: Lienworth
+housenumber: "3"
 phone: "+4942641434"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.holab.de/"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.holab.de/

@@ -1,11 +1,11 @@
 id: 1223499382
-type: way
+type: node
 latitude: 51.64232
 longitude: 10.23654
 postcode: "37197"
 city: Hattorf am Harz
-street: "Oderstraße"
-housenumber: 22
-phone: "+49 5584 347"
+street: Oderstraße
+housenumber: "22"
+phone: +49 5584 347
 opening_hours: ""
 website: ""

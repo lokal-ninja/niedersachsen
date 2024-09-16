@@ -1,11 +1,11 @@
 id: 815880074
-type: way
+type: node
 latitude: 52.64858
 longitude: 7.09557
 postcode: "49767"
 city: Twist
-street: "Overbergstraße"
-housenumber: 18
+street: Overbergstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

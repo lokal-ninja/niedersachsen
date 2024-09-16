@@ -1,11 +1,11 @@
 id: 385176689
-type: way
+type: node
 latitude: 51.72924
 longitude: 10.60806
 postcode: "38700"
 city: Braunlage
-street: "Herzog-Johann-Albrecht-Straße"
-housenumber: 
-phone: "+49 5520 923336"
+street: Herzog-Johann-Albrecht-Straße
+housenumber: ""
+phone: +49 5520 923336
 opening_hours: ""
-website: "https://sport-plaeschke.de/home-winter/"
+website: https://sport-plaeschke.de/home-winter/

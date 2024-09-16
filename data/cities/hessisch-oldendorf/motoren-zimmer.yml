@@ -1,11 +1,11 @@
 id: 573666590
-type: way
+type: node
 latitude: 52.16649
 longitude: 9.2568
 postcode: "31840"
 city: Hessisch Oldendorf
-street: "Steinbrinksweg"
-housenumber: 17
-phone: "+49 5152 6069322"
-opening_hours: "Mo-Th 08:00-12:30, 14:00-18:00; Fr 09:00-12:00; PH off"
-website: "https://motorenzimmer.de"
+street: Steinbrinksweg
+housenumber: "17"
+phone: +49 5152 6069322
+opening_hours: Mo-Th 08:00-12:30, 14:00-18:00; Fr 09:00-12:00; PH off
+website: https://motorenzimmer.de

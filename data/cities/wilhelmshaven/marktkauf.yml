@@ -4,8 +4,8 @@ latitude: 53.57673
 longitude: 8.11046
 postcode: "26388"
 city: Wilhelmshaven
-street: "Flutstraße"
-housenumber: 94
-phone: "+49 4421 91770"
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.marktkauf.de/wilhelmshaven/index.jsp"
+street: Flutstraße
+housenumber: "94"
+phone: +49 4421 91770
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.marktkauf.de/wilhelmshaven/index.jsp

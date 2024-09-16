@@ -4,8 +4,8 @@ latitude: 53.08605
 longitude: 8.87749
 postcode: "28329"
 city: Bremen
-street: "August-Bebel-Allee"
-housenumber: 12
+street: August-Bebel-Allee
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

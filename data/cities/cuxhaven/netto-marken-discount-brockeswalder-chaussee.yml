@@ -1,11 +1,11 @@
 id: 99205628
-type: way
+type: node
 latitude: 53.85929
 longitude: 8.67558
 postcode: "27474"
 city: Cuxhaven
-street: "Brockeswalder Chaussee"
-housenumber: 33
+street: Brockeswalder Chaussee
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-18:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-18:00; PH off
 website: ""

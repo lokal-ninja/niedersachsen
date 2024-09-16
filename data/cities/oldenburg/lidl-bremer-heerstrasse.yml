@@ -1,11 +1,11 @@
 id: 130417640
-type: way
+type: node
 latitude: 53.12833
 longitude: 8.23556
 postcode: "26135"
 city: Oldenburg
-street: "Bremer Heerstraße"
-housenumber: 75
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/oldenburg/osternburg-bremer-heerstr-75.html"
+street: Bremer Heerstraße
+housenumber: "75"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/oldenburg/osternburg-bremer-heerstr-75.html

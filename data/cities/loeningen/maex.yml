@@ -1,11 +1,11 @@
 id: 40138793
-type: way
+type: node
 latitude: 52.73931
 longitude: 7.76248
 postcode: "49624"
 city: Löningen
-street: "Meerdorfer Straße"
-housenumber: 18
+street: Meerdorfer Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-16:00
 website: ""

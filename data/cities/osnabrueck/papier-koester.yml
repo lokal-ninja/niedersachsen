@@ -4,8 +4,8 @@ latitude: 52.2578
 longitude: 8.05799
 postcode: "49082"
 city: Osnabrück
-street: "Iburger Straße"
-housenumber: 105
-phone: "+49 541 210 35"
-opening_hours: "nach Vereinbarung"
-website: "https://www.papier-koester.net/"
+street: Iburger Straße
+housenumber: "105"
+phone: +49 541 210 35
+opening_hours: '"nach Vereinbarung"'
+website: https://www.papier-koester.net/

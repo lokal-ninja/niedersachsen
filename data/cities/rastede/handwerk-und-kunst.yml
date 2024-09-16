@@ -1,11 +1,11 @@
 id: 266337013
-type: way
+type: node
 latitude: 53.22829
 longitude: 8.2133
 postcode: "26180"
 city: Rastede
-street: "Buchenstraße"
-housenumber: 8
+street: Buchenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "We-Fr 10:00-12:30,15:00-18:00; Sa 10:00-16:00"
+opening_hours: We-Fr 10:00-12:30,15:00-18:00; Sa 10:00-16:00
 website: ""

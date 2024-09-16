@@ -4,8 +4,8 @@ latitude: 52.5478
 longitude: 9.73761
 postcode: "30900"
 city: Wedemark
-street: "Am Langen Felde"
-housenumber: 5
-phone: "+49 5130 79260"
-opening_hours: "Mo-Fr 08:30-13:00,15:00-18:00; Sa 08:30-13:00"
-website: "https://www.buf-optik.de/"
+street: Am Langen Felde
+housenumber: "5"
+phone: +49 5130 79260
+opening_hours: Mo-Fr 08:30-13:00,15:00-18:00; Sa 08:30-13:00
+website: https://www.buf-optik.de/

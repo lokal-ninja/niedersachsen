@@ -4,8 +4,8 @@ latitude: 52.43504
 longitude: 9.7567
 postcode: "30851"
 city: Langenhagen
-street: "Erich-Ollenhauer-Straße"
-housenumber: 23
-phone: "+49 511 738809"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-13:00; PH off"
-website: "https://www.fernw-touristik.de/"
+street: Erich-Ollenhauer-Straße
+housenumber: "23"
+phone: +49 511 738809
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-13:00; PH off
+website: https://www.fernw-touristik.de/

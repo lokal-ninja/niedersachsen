@@ -4,8 +4,8 @@ latitude: 52.38489
 longitude: 9.67017
 postcode: "30453"
 city: Hannover
-street: "Am Bahndamm"
-housenumber: 17
-phone: "+49 511 3576980"
-opening_hours: "Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00"
-website: "https://e-center-krone.edeka-shops.de/"
+street: Am Bahndamm
+housenumber: "17"
+phone: +49 511 3576980
+opening_hours: Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00
+website: https://e-center-krone.edeka-shops.de/

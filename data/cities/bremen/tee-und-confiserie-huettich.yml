@@ -4,8 +4,8 @@ latitude: 53.10242
 longitude: 8.88019
 postcode: "28359"
 city: Bremen
-street: "Gerold-Janssen-Straße"
-housenumber: 4
-phone: "+49 421 39740955"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off"
+street: Gerold-Janssen-Straße
+housenumber: "4"
+phone: +49 421 39740955
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 148061746
-type: way
+type: node
 latitude: 53.50797
 longitude: 9.5839
 postcode: "21640"
 city: Horneburg
-street: "Auedamm"
-housenumber: 3
+street: Auedamm
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

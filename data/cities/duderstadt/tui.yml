@@ -4,8 +4,8 @@ latitude: 51.50848
 longitude: 10.25541
 postcode: "37115"
 city: Duderstadt
-street: "Wolfsgärten"
-housenumber: 23
-phone: "+49 5527 7429 1"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-15:00"
-website: "https://www.tui.com/reisebuero/duderstadt/wolfsgaerten-23/#local"
+street: Wolfsgärten
+housenumber: "23"
+phone: +49 5527 7429 1
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-15:00
+website: https://www.tui.com/reisebuero/duderstadt/wolfsgaerten-23/#local

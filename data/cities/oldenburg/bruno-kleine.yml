@@ -1,11 +1,11 @@
 id: 201377960
-type: way
+type: node
 latitude: 53.15625
 longitude: 8.17007
 postcode: "26129"
 city: Oldenburg
-street: "Ammerländer Heerstraße"
-housenumber: 259
+street: Ammerländer Heerstraße
+housenumber: "259"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://www.bruno-kleine.de/index.php?id=18"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://www.bruno-kleine.de/index.php?id=18

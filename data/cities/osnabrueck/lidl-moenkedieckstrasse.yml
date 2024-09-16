@@ -1,11 +1,11 @@
 id: 136505406
-type: way
+type: node
 latitude: 52.29948
 longitude: 8.06153
 postcode: "49088"
 city: Osnabrück
-street: "Mönkedieckstraße"
+street: Mönkedieckstraße
 housenumber: 11-13
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

@@ -1,11 +1,11 @@
 id: 1286822469
-type: way
+type: node
 latitude: 51.51799
 longitude: 10.2356
 postcode: "37115"
 city: Duderstadt
-street: "Max-Näder-Straße"
-housenumber: 12
+street: Max-Näder-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH off
 website: ""

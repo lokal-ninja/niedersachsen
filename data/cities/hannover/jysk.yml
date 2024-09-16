@@ -4,8 +4,8 @@ latitude: 52.33721
 longitude: 9.71895
 postcode: "30459"
 city: Hannover
-street: "Tillystraße"
-housenumber: 25
-phone: "+49 511-21570990"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-18:00"
-website: "https://jysk.de"
+street: Tillystraße
+housenumber: "25"
+phone: +49 511-21570990
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-18:00
+website: https://jysk.de

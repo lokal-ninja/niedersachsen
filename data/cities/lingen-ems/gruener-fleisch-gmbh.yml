@@ -1,11 +1,11 @@
 id: 53104047
-type: way
+type: node
 latitude: 52.46476
 longitude: 7.36307
 postcode: "49811"
 city: Lingen (Ems)
-street: "Kampstraße"
-housenumber: 3
+street: Kampstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.gruener-fleisch.de"
+website: http://www.gruener-fleisch.de

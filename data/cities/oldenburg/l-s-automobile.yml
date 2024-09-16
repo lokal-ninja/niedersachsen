@@ -1,11 +1,11 @@
 id: 238236678
-type: way
+type: node
 latitude: 53.12414
 longitude: 8.16236
 postcode: "26131"
 city: Oldenburg
-street: "An der Fuchsbäke"
-housenumber: 9
+street: An der Fuchsbäke
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.02747
 longitude: 9.51274
 postcode: "31860"
 city: Emmerthal
-street: "Kniepstraße"
-housenumber: 3
-phone: "+49 5157 476"
-opening_hours: "Tu 16:00-19:00; Sa 09:00-12:00"
-website: "https://www.marienhof-esperde.de"
+street: Kniepstraße
+housenumber: "3"
+phone: +49 5157 476
+opening_hours: Tu 16:00-19:00; Sa 09:00-12:00
+website: https://www.marienhof-esperde.de

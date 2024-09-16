@@ -1,11 +1,11 @@
 id: 88697065
-type: way
+type: node
 latitude: 53.68845
 longitude: 7.80064
 postcode: "26409"
 city: Wittmund
-street: "Wittmunder Straße"
-housenumber: 17
+street: Wittmunder Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-15:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-15:00
+website: https://www.netto-online.de

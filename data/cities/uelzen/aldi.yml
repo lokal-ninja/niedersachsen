@@ -1,11 +1,11 @@
 id: 229050011
-type: way
+type: node
 latitude: 52.98515
 longitude: 10.54666
 postcode: "29525"
 city: Uelzen
-street: "Nordallee"
-housenumber: 5
+street: Nordallee
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

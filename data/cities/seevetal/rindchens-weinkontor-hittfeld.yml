@@ -4,8 +4,8 @@ latitude: 53.40524
 longitude: 9.98004
 postcode: "21218"
 city: Seevetal
-street: "Hittfelder Landstraße"
-housenumber: 19
-phone: "+49 4105 159901"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-16:00"
-website: "https://www.rindchen.de/kontore/kontor-hittfeld"
+street: Hittfelder Landstraße
+housenumber: "19"
+phone: +49 4105 159901
+opening_hours: Tu-Fr 11:00-19:00; Sa 10:00-16:00
+website: https://www.rindchen.de/kontore/kontor-hittfeld

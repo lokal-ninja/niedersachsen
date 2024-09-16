@@ -1,11 +1,11 @@
 id: 52599841
-type: way
+type: node
 latitude: 51.8054
 longitude: 10.35058
 postcode: "38678"
 city: Clausthal-Zellerfeld
-street: "Am Ostbahnhof"
+street: Am Ostbahnhof
 housenumber: 1A
-phone: "+49 5323 98 221"
-opening_hours: "Mo-Sa 08:00-21:00"
+phone: +49 5323 98 221
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

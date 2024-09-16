@@ -4,8 +4,8 @@ latitude: 52.56841
 longitude: 9.03088
 postcode: "31595"
 city: Steyerberg
-street: "Kirchstraße"
-housenumber: 34
+street: Kirchstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:00; Sa 06::-12:00; So 08:00-12:00"
-website: "https://landbaeckerei-niemeyer.de/"
+opening_hours: Mo-Fr 06:00-13:00; Sa 06::-12:00; So 08:00-12:00
+website: https://landbaeckerei-niemeyer.de/

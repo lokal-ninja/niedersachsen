@@ -1,11 +1,11 @@
 id: 282456247
-type: way
+type: node
 latitude: 52.30429
 longitude: 9.4638
 postcode: "30890"
 city: Barsinghausen
-street: "Breslauer Straße"
-housenumber: 1
+street: Breslauer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

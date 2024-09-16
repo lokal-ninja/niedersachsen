@@ -4,8 +4,8 @@ latitude: 51.81282
 longitude: 9.79632
 postcode: "37574"
 city: Einbeck
-street: "Im Nettebüh"
-housenumber: 13
-phone: "+49 5562 930040"
-opening_hours: "Nach Absprache"
-website: "http://www.cosmetic-langhage.de"
+street: Im Nettebüh
+housenumber: "13"
+phone: +49 5562 930040
+opening_hours: '"Nach Absprache"'
+website: http://www.cosmetic-langhage.de

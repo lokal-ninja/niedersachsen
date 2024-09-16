@@ -4,8 +4,8 @@ latitude: 53.05291
 longitude: 8.2021
 postcode: "26203"
 city: Wardenburg
-street: "Rheinstraße"
-housenumber: 4
-phone: "+49 4407 979903"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.combi.de/"
+street: Rheinstraße
+housenumber: "4"
+phone: +49 4407 979903
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.combi.de/

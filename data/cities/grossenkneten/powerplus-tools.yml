@@ -1,11 +1,11 @@
 id: 531327236
-type: way
+type: node
 latitude: 52.89765
 longitude: 8.2358
 postcode: "26197"
 city: Großenkneten
-street: "Wildeshauser Straße"
-housenumber: 83
+street: Wildeshauser Straße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-16:00; Su,PH off"
+opening_hours: Mo-Fr 08:30-17:00; Sa 08:30-16:00; Su,PH off
 website: ""

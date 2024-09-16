@@ -4,8 +4,8 @@ latitude: 53.04983
 longitude: 8.95854
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 36934061"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.comma-store.de/"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 36934061
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.comma-store.de/

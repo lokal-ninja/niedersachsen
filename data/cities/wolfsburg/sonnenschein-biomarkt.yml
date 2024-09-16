@@ -4,8 +4,8 @@ latitude: 52.42211
 longitude: 10.78293
 postcode: "38440"
 city: Wolfsburg
-street: "Goethestraße"
+street: Goethestraße
 housenumber: 42A
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
-website: "https://www.sonnenschein-biomarkt.de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
+website: https://www.sonnenschein-biomarkt.de/

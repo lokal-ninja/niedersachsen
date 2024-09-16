@@ -1,11 +1,11 @@
 id: 1009000480
-type: way
+type: node
 latitude: 52.41714
 longitude: 7.97666
 postcode: "49565"
 city: Bramsche
-street: "Lindenstraße"
-housenumber: 64
+street: Lindenstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

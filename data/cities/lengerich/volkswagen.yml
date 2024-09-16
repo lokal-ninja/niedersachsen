@@ -1,11 +1,11 @@
 id: 517965893
-type: way
+type: node
 latitude: 52.55737
 longitude: 7.53359
 postcode: "49838"
 city: Lengerich
-street: "Handruper Straße"
-housenumber: 12
+street: Handruper Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.lampa.de"
+website: https://www.lampa.de

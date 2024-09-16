@@ -1,11 +1,11 @@
 id: 38549128
-type: way
+type: node
 latitude: 52.26857
 longitude: 10.53833
 postcode: "38102"
 city: Braunschweig
-street: "Wiesenstraße"
-housenumber: 9
-phone: "+49 531 331253"
-opening_hours: "Mo-Sa 08:00-22:00"
+street: Wiesenstraße
+housenumber: "9"
+phone: +49 531 331253
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

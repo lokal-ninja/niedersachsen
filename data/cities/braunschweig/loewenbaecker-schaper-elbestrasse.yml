@@ -4,8 +4,8 @@ latitude: 52.24877
 longitude: 10.47935
 postcode: "38120"
 city: Braunschweig
-street: "Elbestraße"
-housenumber: 21
+street: Elbestraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 06:00-18:00, Su 08:00-16:30"
-website: "https://loewenbaecker-schaper.de/"
+opening_hours: Mo-Sa 06:00-18:00, Su 08:00-16:30
+website: https://loewenbaecker-schaper.de/

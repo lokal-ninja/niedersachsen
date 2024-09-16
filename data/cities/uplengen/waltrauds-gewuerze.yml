@@ -1,11 +1,11 @@
 id: 181314721
-type: way
+type: node
 latitude: 53.31017
 longitude: 7.74393
 postcode: "26670"
 city: Uplengen
-street: "Am Neuland"
-housenumber: 1
-phone: "+49 4956 405965"
-opening_hours: "Mo-Fr 11:00-17:00"
-website: "https://www.waltrauds-gewuerze.de/"
+street: Am Neuland
+housenumber: "1"
+phone: +49 4956 405965
+opening_hours: Mo-Fr 11:00-17:00
+website: https://www.waltrauds-gewuerze.de/

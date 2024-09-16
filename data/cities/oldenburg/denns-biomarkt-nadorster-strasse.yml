@@ -1,11 +1,11 @@
 id: 116517666
-type: way
+type: node
 latitude: 53.1511
 longitude: 8.21732
 postcode: "26123"
 city: Oldenburg
-street: "Nadorster Straße"
+street: Nadorster Straße
 housenumber: 54 - 56
-phone: "+49 441 98339183"
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
-website: "https://www.biomarkt.de/oldenburg-nadorster-str-54-56/marktseite"
+phone: +49 441 98339183
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
+website: https://www.biomarkt.de/oldenburg-nadorster-str-54-56/marktseite

@@ -4,8 +4,8 @@ latitude: 53.37921
 longitude: 9.89826
 postcode: "21224"
 city: Rosengarten
-street: "Bremer Straße"
-housenumber: 51
+street: Bremer Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

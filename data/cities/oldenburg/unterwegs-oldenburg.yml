@@ -4,8 +4,8 @@ latitude: 53.13981
 longitude: 8.21212
 postcode: "26122"
 city: Oldenburg
-street: "Gaststraße"
-housenumber: 27
-phone: "+49 441 9987666"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.unterwegs-oldenburg.de/"
+street: Gaststraße
+housenumber: "27"
+phone: +49 441 9987666
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.unterwegs-oldenburg.de/

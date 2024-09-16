@@ -1,11 +1,11 @@
 id: 373894413
-type: way
+type: node
 latitude: 53.0826
 longitude: 8.81299
 postcode: "28195"
 city: Bremen
-street: "Bahnhofsplatz"
-housenumber: 15
-phone: "+49 421 13 0 33"
-opening_hours: "Mo-Th 06:00-21:00; Fr 06:00-21:30; Sa 07:00-21:30; Su 08:00-21:00"
+street: Bahnhofsplatz
+housenumber: "15"
+phone: +49 421 13 0 33
+opening_hours: Mo-Th 06:00-21:00; Fr 06:00-21:30; Sa 07:00-21:30; Su 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 291587133
-type: way
+type: node
 latitude: 52.28497
 longitude: 9.51441
 postcode: "30890"
 city: Barsinghausen
-street: "Wennigser Straße"
-housenumber: 62
-phone: "+49 5105 8661"
-opening_hours: "Mo-Fr 08:15-13:00; Mo-Fr 14:00-17:00"
+street: Wennigser Straße
+housenumber: "62"
+phone: +49 5105 8661
+opening_hours: Mo-Fr 08:15-13:00; Mo-Fr 14:00-17:00
 website: ""

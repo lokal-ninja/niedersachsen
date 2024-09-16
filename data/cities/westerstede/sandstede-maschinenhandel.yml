@@ -1,11 +1,11 @@
 id: 389365044
-type: way
+type: node
 latitude: 53.26822
 longitude: 7.9516
 postcode: "26655"
 city: Westerstede
-street: "Carl-Benz-Straße"
-housenumber: 24
-phone: "+49 4488 5203944"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00; Sa 09:00-12:00"
-website: "https://www.sandstede-maschinenhandel.de/"
+street: Carl-Benz-Straße
+housenumber: "24"
+phone: +49 4488 5203944
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00; Sa 09:00-12:00
+website: https://www.sandstede-maschinenhandel.de/

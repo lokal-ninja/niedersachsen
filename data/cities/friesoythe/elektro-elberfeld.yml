@@ -1,11 +1,11 @@
 id: 727217143
-type: way
+type: node
 latitude: 52.96084
 longitude: 7.9201
 postcode: "26169"
 city: Friesoythe
-street: "Kurfürstendamm"
-housenumber: 11
-phone: "+49 4495 68955 0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off"
-website: "https://www.elektro-elberfeld.de"
+street: Kurfürstendamm
+housenumber: "11"
+phone: +49 4495 68955 0
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off
+website: https://www.elektro-elberfeld.de

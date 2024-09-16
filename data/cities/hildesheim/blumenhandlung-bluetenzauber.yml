@@ -1,11 +1,11 @@
 id: 207083706
-type: way
+type: node
 latitude: 52.14249
 longitude: 9.95714
 postcode: "31134"
 city: Hildesheim
-street: "Kaiser-Friedrich-Straße"
-housenumber: 1
+street: Kaiser-Friedrich-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-13:00; Tu-Fr 14:30-18:00"
-website: "https://www.bluetenzauber-hildesheim.de/"
+opening_hours: Mo-Sa 08:00-13:00; Tu-Fr 14:30-18:00
+website: https://www.bluetenzauber-hildesheim.de/

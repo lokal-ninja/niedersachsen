@@ -1,11 +1,11 @@
 id: 265676407
-type: way
+type: node
 latitude: 52.21312
 longitude: 10.65906
 postcode: ""
 city: Sickte
-street: "Wabeweg"
-housenumber: 17
+street: Wabeweg
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.neuerkerode.de/produkte-dienstleistungen/laeden/"
+website: https://www.neuerkerode.de/produkte-dienstleistungen/laeden/

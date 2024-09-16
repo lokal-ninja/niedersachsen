@@ -4,8 +4,8 @@ latitude: 52.49599
 longitude: 7.22778
 postcode: "49835"
 city: Wietmarschen
-street: "Schützenplatz"
-housenumber: 4
-phone: "+49 5908 82 02"
-opening_hours: "Mo-Sa 7:00-20:00"
-website: "https://www.edeka.de/"
+street: Schützenplatz
+housenumber: "4"
+phone: +49 5908 82 02
+opening_hours: Mo-Sa 7:00-20:00
+website: https://www.edeka.de/

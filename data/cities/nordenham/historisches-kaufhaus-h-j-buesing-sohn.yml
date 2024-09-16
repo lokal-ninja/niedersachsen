@@ -1,11 +1,11 @@
 id: 218659666
-type: way
+type: node
 latitude: 53.48483
 longitude: 8.4373
 postcode: "26954"
 city: Nordenham
-street: "Butjadinger Straße"
-housenumber: 101
+street: Butjadinger Straße
+housenumber: "101"
 phone: ""
-opening_hours: "Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00"
-website: "http://www.historisches-kaufhaus-abbehausen.de/"
+opening_hours: Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00
+website: http://www.historisches-kaufhaus-abbehausen.de/

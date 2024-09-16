@@ -1,11 +1,11 @@
 id: 313016476
-type: way
+type: node
 latitude: 52.42906
 longitude: 9.62246
 postcode: "30827"
 city: Garbsen
-street: "Robert-Hesse-Straße"
-housenumber: 4
+street: Robert-Hesse-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

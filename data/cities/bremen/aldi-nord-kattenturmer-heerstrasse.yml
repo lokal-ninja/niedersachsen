@@ -1,11 +1,11 @@
 id: 153048431
-type: way
+type: node
 latitude: 53.03226
 longitude: 8.81092
 postcode: "28277"
 city: Bremen
-street: "Kattenturmer Heerstraße"
-housenumber: 326
+street: Kattenturmer Heerstraße
+housenumber: "326"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

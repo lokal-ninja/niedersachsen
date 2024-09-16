@@ -1,11 +1,11 @@
 id: 271051049
-type: way
+type: node
 latitude: 53.14128
 longitude: 8.21555
 postcode: "26122"
 city: Oldenburg
-street: "Achternstraße"
-housenumber: 13
-phone: "+49 441 16479"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://unternehmen.nanu-nana.de/filiale/oldenburg-oldenburg-achternstrasse-13"
+street: Achternstraße
+housenumber: "13"
+phone: +49 441 16479
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://unternehmen.nanu-nana.de/filiale/oldenburg-oldenburg-achternstrasse-13

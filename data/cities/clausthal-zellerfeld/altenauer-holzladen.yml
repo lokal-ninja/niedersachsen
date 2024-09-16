@@ -1,11 +1,11 @@
 id: 148065067
-type: way
+type: node
 latitude: 51.80363
 longitude: 10.44731
 postcode: "38707"
 city: Clausthal-Zellerfeld
-street: "Markt"
-housenumber: 6
+street: Markt
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

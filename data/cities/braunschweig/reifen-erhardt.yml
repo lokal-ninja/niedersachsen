@@ -1,11 +1,11 @@
 id: 32605874
-type: way
+type: node
 latitude: 52.30311
 longitude: 10.51699
 postcode: "38112"
 city: Braunschweig
-street: "Gifhorner Straße"
-housenumber: 147
+street: Gifhorner Straße
+housenumber: "147"
 phone: ""
 opening_hours: ""
 website: ""

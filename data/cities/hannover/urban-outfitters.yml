@@ -4,8 +4,8 @@ latitude: 52.37567
 longitude: 9.73447
 postcode: "30159"
 city: Hannover
-street: "Georgstraße"
-housenumber: 17
-phone: "+ 49 511 93678652"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.urbanoutfitters.com/"
+street: Georgstraße
+housenumber: "17"
+phone: + 49 511 93678652
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.urbanoutfitters.com/

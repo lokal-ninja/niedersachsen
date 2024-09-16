@@ -4,8 +4,8 @@ latitude: 53.22886
 longitude: 10.15316
 postcode: "21376"
 city: Salzhausen
-street: "Papenkamp"
-housenumber: 3
-phone: "+49 4172 969455"
-opening_hours: "Mo-Fr 09:00-18:00;PH off"
-website: "http://ml2000.net/"
+street: Papenkamp
+housenumber: "3"
+phone: +49 4172 969455
+opening_hours: Mo-Fr 09:00-18:00;PH off
+website: http://ml2000.net/

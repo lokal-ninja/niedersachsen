@@ -1,11 +1,11 @@
 id: 646472762
-type: way
+type: node
 latitude: 52.32023
 longitude: 7.224
 postcode: "48465"
 city: Schüttorf
-street: "Steinstraße"
-housenumber: 32
-phone: "+49 5923 9682923"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30; We,Su off"
+street: Steinstraße
+housenumber: "32"
+phone: +49 5923 9682923
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30; We,Su off
 website: ""

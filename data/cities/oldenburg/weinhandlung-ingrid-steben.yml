@@ -4,8 +4,8 @@ latitude: 53.14159
 longitude: 8.18626
 postcode: "26129"
 city: Oldenburg
-street: "Bloherfelder Straße"
-housenumber: 43
+street: Bloherfelder Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
-website: "https://www.weinhandlung-steden.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
+website: https://www.weinhandlung-steden.de/

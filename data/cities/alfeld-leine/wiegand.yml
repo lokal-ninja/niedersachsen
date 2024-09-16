@@ -1,11 +1,11 @@
 id: 142889046
-type: way
+type: node
 latitude: 51.99118
 longitude: 9.83897
 postcode: "31061"
 city: Alfeld (Leine)
-street: "Senator-Behrens-Straße"
-housenumber: 3
+street: Senator-Behrens-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 302394875
-type: way
+type: node
 latitude: 53.2196
 longitude: 7.76244
 postcode: "26689"
 city: Apen
-street: "Stahlwerkstraße"
-housenumber: 17
+street: Stahlwerkstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
 website: ""

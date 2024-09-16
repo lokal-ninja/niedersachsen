@@ -4,8 +4,8 @@ latitude: 52.26462
 longitude: 9.06368
 postcode: "31675"
 city: Bückeburg
-street: "Kreuzbreite"
-housenumber: 1
-phone: "+49 5722 95260"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-19:00"
-website: "http://www.hannover.mercedes-benz.de/"
+street: Kreuzbreite
+housenumber: "1"
+phone: +49 5722 95260
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-19:00
+website: http://www.hannover.mercedes-benz.de/

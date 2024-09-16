@@ -1,11 +1,11 @@
 id: 760059921
-type: way
+type: node
 latitude: 53.04824
 longitude: 7.3263
 postcode: "26871"
 city: Papenburg
-street: "An den Bleicherkolken"
-housenumber: 3
+street: An den Bleicherkolken
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

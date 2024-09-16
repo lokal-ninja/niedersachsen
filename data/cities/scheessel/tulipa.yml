@@ -4,8 +4,8 @@ latitude: 53.16901
 longitude: 9.48645
 postcode: "27383"
 city: Scheeßel
-street: "Harburger Straße"
-housenumber: 2
-phone: "+49 4263 300530"
-opening_hours: "Mo,Th,Fr 09:00-13:00,14:30-18:30; Tu,We 09:00-13:00; Sa 08:00-12:30"
-website: "http://www.blumen-tulipa.de/"
+street: Harburger Straße
+housenumber: "2"
+phone: +49 4263 300530
+opening_hours: Mo,Th,Fr 09:00-13:00,14:30-18:30; Tu,We 09:00-13:00; Sa 08:00-12:30
+website: http://www.blumen-tulipa.de/

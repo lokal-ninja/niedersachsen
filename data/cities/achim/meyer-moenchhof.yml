@@ -4,8 +4,8 @@ latitude: 53.01101
 longitude: 9.03725
 postcode: "28832"
 city: Achim
-street: "Obernstraße"
-housenumber: 61
-phone: "+49 4202 954553"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-17:00; Su 07:30-17:00"
-website: "https://www.meyermoenchhof.de/filialen.html"
+street: Obernstraße
+housenumber: "61"
+phone: +49 4202 954553
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-17:00; Su 07:30-17:00
+website: https://www.meyermoenchhof.de/filialen.html

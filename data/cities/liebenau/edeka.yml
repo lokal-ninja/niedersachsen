@@ -1,11 +1,11 @@
 id: 89995647
-type: way
+type: node
 latitude: 52.60909
 longitude: 9.08828
 postcode: "31618"
 city: Liebenau
-street: "Pennigsehler Straße"
+street: Pennigsehler Straße
 housenumber: 1A
-phone: "+49 5023 900415"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-jocksch-pennigsehler-str.-1/"
+phone: +49 5023 900415
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.edeka.de/eh/minden-hannover/edeka-jocksch-pennigsehler-str.-1/

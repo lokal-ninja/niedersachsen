@@ -4,8 +4,8 @@ latitude: 53.46922
 longitude: 7.48321
 postcode: "26603"
 city: Aurich
-street: "Osterstraße"
-housenumber: 6
+street: Osterstraße
+housenumber: "6"
 phone: "+4949419734400"
-opening_hours: "Mo-Fr 09:00-18:00; Sa: 09:00-15:00"
-website: "https://abegg-aurich.com/"
+opening_hours: 'Mo-Fr 09:00-18:00; Sa: 09:00-15:00'
+website: https://abegg-aurich.com/

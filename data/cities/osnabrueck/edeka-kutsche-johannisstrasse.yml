@@ -4,8 +4,8 @@ latitude: 52.27234
 longitude: 8.04925
 postcode: "49074"
 city: Osnabrück
-street: "Johannisstraße"
-housenumber: 58
-phone: "+49 541 2050060"
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-kutsche-johannisstr.-58/index.jsp"
+street: Johannisstraße
+housenumber: "58"
+phone: +49 541 2050060
+opening_hours: Mo-Sa 07:30-21:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-kutsche-johannisstr.-58/index.jsp

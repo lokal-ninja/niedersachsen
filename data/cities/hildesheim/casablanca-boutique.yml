@@ -4,8 +4,8 @@ latitude: 52.15172
 longitude: 9.95226
 postcode: "31134"
 city: Hildesheim
-street: "Scheelenstraße"
-housenumber: 23
-phone: "+49 5121 36538"
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-16:00"
-website: "http://www.casablanca-web.de"
+street: Scheelenstraße
+housenumber: "23"
+phone: +49 5121 36538
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-16:00
+website: http://www.casablanca-web.de

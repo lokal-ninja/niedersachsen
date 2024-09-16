@@ -1,11 +1,11 @@
 id: 28846703
-type: way
+type: node
 latitude: 51.51115
 longitude: 9.94965
 postcode: "37083"
 city: Göttingen
-street: "Karl-Methe-Straße"
-housenumber: 1
+street: Karl-Methe-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

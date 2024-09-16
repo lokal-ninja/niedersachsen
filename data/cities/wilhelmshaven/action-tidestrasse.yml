@@ -1,11 +1,11 @@
 id: 171692312
-type: way
+type: node
 latitude: 53.57837
 longitude: 8.11278
 postcode: "26388"
 city: Wilhelmshaven
-street: "Tidestraße"
-housenumber: 10
+street: Tidestraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

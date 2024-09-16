@@ -1,11 +1,11 @@
 id: 199361137
-type: way
+type: node
 latitude: 52.69348
 longitude: 7.28986
 postcode: "49716"
 city: Meppen
-street: "Emsstraße"
-housenumber: 17
+street: Emsstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:30-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-13:00,14:30-18:00; Sa 10:00-14:00
 website: ""

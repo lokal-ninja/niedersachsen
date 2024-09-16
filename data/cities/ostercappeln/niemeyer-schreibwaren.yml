@@ -1,11 +1,11 @@
 id: 270091042
-type: way
+type: node
 latitude: 52.3447
 longitude: 8.22393
 postcode: "49179"
 city: Ostercappeln
-street: "Gartenstraße"
-housenumber: 9
+street: Gartenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

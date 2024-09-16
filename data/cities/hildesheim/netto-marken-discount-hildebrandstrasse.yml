@@ -1,11 +1,11 @@
 id: 147956367
-type: way
+type: node
 latitude: 52.17528
 longitude: 9.96766
 postcode: "31135"
 city: Hildesheim
-street: "Hildebrandstraße"
-housenumber: 27
+street: Hildebrandstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

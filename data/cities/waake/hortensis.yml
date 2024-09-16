@@ -4,8 +4,8 @@ latitude: 51.55341
 longitude: 10.05626
 postcode: "37136"
 city: Waake
-street: "Gartenweg"
-housenumber: 6
-phone: "+49 5507 1447"
+street: Gartenweg
+housenumber: "6"
+phone: +49 5507 1447
 opening_hours: ""
-website: "http://hortensis.de"
+website: http://hortensis.de

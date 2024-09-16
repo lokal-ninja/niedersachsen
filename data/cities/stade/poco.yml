@@ -1,11 +1,11 @@
 id: 56843464
-type: way
+type: node
 latitude: 53.59685
 longitude: 9.42218
 postcode: "21682"
 city: Stade
-street: "Haddorfer Grenzweg"
-housenumber: 5
+street: Haddorfer Grenzweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

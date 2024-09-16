@@ -4,8 +4,8 @@ latitude: 53.74698
 longitude: 7.47795
 postcode: "26465"
 city: Langeoog
-street: "Am Wasserturm"
-housenumber: 3
-phone: "+49 4972 895"
-opening_hours: "Mo-Fr 10:00-12:30,15:00-18:00; Mo-Su 10:00-12:00"
-website: "http://insel-goldschmiede.de/"
+street: Am Wasserturm
+housenumber: "3"
+phone: +49 4972 895
+opening_hours: Mo-Fr 10:00-12:30,15:00-18:00; Mo-Su 10:00-12:00
+website: http://insel-goldschmiede.de/

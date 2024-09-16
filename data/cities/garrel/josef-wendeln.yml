@@ -1,11 +1,11 @@
 id: 181389600
-type: way
+type: node
 latitude: 52.95008
 longitude: 8.09847
 postcode: "49681"
 city: Garrel
-street: "Großenknetener Straße"
-housenumber: 7
+street: Großenknetener Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

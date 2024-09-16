@@ -1,11 +1,11 @@
 id: 125373132
-type: way
+type: node
 latitude: 52.99109
 longitude: 10.10221
 postcode: "29633"
 city: Munster
-street: "Wagnerstraße"
+street: Wagnerstraße
 housenumber: 26-32
-phone: "+49 5192 980510"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00"
+phone: +49 5192 980510
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-17:00
 website: ""

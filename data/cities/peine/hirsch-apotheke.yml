@@ -1,11 +1,11 @@
 id: 166094990
-type: way
+type: node
 latitude: 52.31376
 longitude: 10.23531
 postcode: ""
 city: Peine
-street: "Feldstraße"
-housenumber: 20
+street: Feldstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.39777
 longitude: 8.14996
 postcode: "26316"
 city: Varel
-street: "Friedrich-Ebert-Straße"
-housenumber: 59
-phone: "+49 4451 1280"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:30-12:00"
-website: "https://www.bzn-online.de"
+street: Friedrich-Ebert-Straße
+housenumber: "59"
+phone: +49 4451 1280
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:30-12:00
+website: https://www.bzn-online.de

@@ -1,11 +1,11 @@
 id: 231671425
-type: way
+type: node
 latitude: 53.07893
 longitude: 10.59332
 postcode: "29549"
 city: Bad Bevensen
-street: "Röbbeler Straße"
-housenumber: 12
+street: Röbbeler Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00; Su 07:30-11:30"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-16:00; Su 07:30-11:30
 website: ""

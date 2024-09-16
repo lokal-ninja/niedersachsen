@@ -1,11 +1,11 @@
 id: 48907053
-type: way
+type: node
 latitude: 52.726
 longitude: 10.59593
 postcode: "29386"
 city: Hankensbüttel
-street: "Celler Straße"
-housenumber: 19
-phone: "05832 9806-0"
-opening_hours: "Montag-Freitag 09:00-19:00 Uhr; Samstag 09:00-15:00 Uhr"
-website: "https://www.vr-plus.de/startseite.html"
+street: Celler Straße
+housenumber: "19"
+phone: 05832 9806-0
+opening_hours: Montag-Freitag 09:00-19:00 Uhr; Samstag 09:00-15:00 Uhr
+website: https://www.vr-plus.de/startseite.html

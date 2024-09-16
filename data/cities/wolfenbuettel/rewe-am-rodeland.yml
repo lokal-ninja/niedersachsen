@@ -1,11 +1,11 @@
 id: 28383656
-type: way
+type: node
 latitude: 52.16726
 longitude: 10.55463
 postcode: "38302"
 city: Wolfenbüttel
-street: "Am Rodeland"
-housenumber: 9
+street: Am Rodeland
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00"
+opening_hours: Mo-Sa 07:00-23:00
 website: ""

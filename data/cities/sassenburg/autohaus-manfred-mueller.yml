@@ -1,11 +1,11 @@
 id: 182216720
-type: way
+type: node
 latitude: 52.53947
 longitude: 10.60658
 postcode: "38524"
 city: Sassenburg
-street: "Dorfstraße"
-housenumber: 106
+street: Dorfstraße
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00; Su 14:00-18:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00; Su 14:00-18:00
 website: ""

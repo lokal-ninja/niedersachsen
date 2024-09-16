@@ -1,11 +1,11 @@
 id: 48968252
-type: way
+type: node
 latitude: 52.73213
 longitude: 10.60665
 postcode: "29386"
 city: Hankensbüttel
-street: "Wittinger Straße"
-housenumber: 8
+street: Wittinger Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 27791435
-type: way
+type: node
 latitude: 52.19571
 longitude: 10.45727
 postcode: "38239"
 city: Salzgitter
-street: "Schäferwiese"
-housenumber: 3
+street: Schäferwiese
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

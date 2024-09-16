@@ -1,11 +1,11 @@
 id: 306265728
-type: way
+type: node
 latitude: 53.29084
 longitude: 10.42746
 postcode: "21365"
 city: Adendorf
-street: "Bunsenstraße"
-housenumber: 5
-phone: "+49 4131 981711"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.wohnwagen-braucks.de/"
+street: Bunsenstraße
+housenumber: "5"
+phone: +49 4131 981711
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.wohnwagen-braucks.de/

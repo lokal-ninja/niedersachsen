@@ -1,11 +1,11 @@
 id: 316111163
-type: way
+type: node
 latitude: 53.25837
 longitude: 7.92914
 postcode: "26655"
 city: Westerstede
-street: "Kirchenstraße"
-housenumber: 6
-phone: "+49 4488 2513"
+street: Kirchenstraße
+housenumber: "6"
+phone: +49 4488 2513
 opening_hours: ""
 website: ""

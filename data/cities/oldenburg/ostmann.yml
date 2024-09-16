@@ -1,11 +1,11 @@
 id: 921918969
-type: way
+type: node
 latitude: 53.10898
 longitude: 8.27302
 postcode: "26135"
 city: Oldenburg
-street: "Oldeweg"
-housenumber: 4
-phone: "+49 441 3501550"
-opening_hours: "Mo-Sa 09:00-18:30; Su 13:00-16:00"
-website: "https://www.blumen-ostmann.de"
+street: Oldeweg
+housenumber: "4"
+phone: +49 441 3501550
+opening_hours: Mo-Sa 09:00-18:30; Su 13:00-16:00
+website: https://www.blumen-ostmann.de

@@ -1,11 +1,11 @@
 id: 232526372
-type: way
+type: node
 latitude: 52.31003
 longitude: 9.46859
 postcode: "30890"
 city: Barsinghausen
-street: "Wilhelm-Raabe-Straße"
-housenumber: 15
+street: Wilhelm-Raabe-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.37507
 longitude: 9.7945
 postcode: "30625"
 city: Hannover
-street: "Spilckerstraße"
-housenumber: 1
+street: Spilckerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 09:00-18:30; Tu-Fr 08:00-18:30; Sa 08:00-14:00"
+opening_hours: Mo 09:00-18:30; Tu-Fr 08:00-18:30; Sa 08:00-14:00
 website: ""

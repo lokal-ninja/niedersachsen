@@ -4,8 +4,8 @@ latitude: 52.27067
 longitude: 8.08268
 postcode: "49084"
 city: Osnabrück
-street: "Carl-Fischer-Straße"
-housenumber: 2
-phone: "+49 541 911110"
-opening_hours: "Mo-Sa 07:00-17:00"
-website: "https://www.restemeier.de/"
+street: Carl-Fischer-Straße
+housenumber: "2"
+phone: +49 541 911110
+opening_hours: Mo-Sa 07:00-17:00
+website: https://www.restemeier.de/

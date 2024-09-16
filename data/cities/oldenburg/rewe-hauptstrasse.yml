@@ -1,11 +1,11 @@
 id: 26742558
-type: way
+type: node
 latitude: 53.13342
 longitude: 8.1909
 postcode: "26131"
 city: Oldenburg
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 89;91;93;95
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-23:30; PH off"
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-23:30; PH off
 website: ""

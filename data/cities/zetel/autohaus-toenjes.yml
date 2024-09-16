@@ -1,11 +1,11 @@
 id: 255505634
-type: way
+type: node
 latitude: 53.39166
 longitude: 7.95214
 postcode: "26340"
 city: Zetel
-street: "Zeteler Straße"
-housenumber: 12
-phone: "+49 4452 94859-0"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:30-13:00"
-website: "https://www.ford-toenjes-zetel.de/"
+street: Zeteler Straße
+housenumber: "12"
+phone: +49 4452 94859-0
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:30-13:00
+website: https://www.ford-toenjes-zetel.de/

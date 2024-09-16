@@ -4,8 +4,8 @@ latitude: 52.28665
 longitude: 8.03378
 postcode: "49090"
 city: Osnabrück
-street: "Pagenstecherstraße"
-housenumber: 16
-phone: "+49 541 - 9 61 23-0"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 08:00-13:00"
-website: "https://www.ellers.de/"
+street: Pagenstecherstraße
+housenumber: "16"
+phone: +49 541 - 9 61 23-0
+opening_hours: Mo-Fr 07:30-18:00, Sa 08:00-13:00
+website: https://www.ellers.de/

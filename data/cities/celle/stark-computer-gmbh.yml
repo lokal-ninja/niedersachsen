@@ -1,11 +1,11 @@
 id: 151545732
-type: way
+type: node
 latitude: 52.60682
 longitude: 10.10017
 postcode: "29221"
 city: Celle
-street: "Altenceller Schneede"
-housenumber: 7
+street: Altenceller Schneede
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

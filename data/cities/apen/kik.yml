@@ -1,11 +1,11 @@
 id: 788037883
-type: way
+type: node
 latitude: 53.21691
 longitude: 7.76145
 postcode: "26689"
 city: Apen
-street: "Hauptstraße"
-housenumber: 459
+street: Hauptstraße
+housenumber: "459"
 phone: ""
 opening_hours: ""
 website: ""

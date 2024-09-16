@@ -1,11 +1,11 @@
 id: 110532268
-type: way
+type: node
 latitude: 53.49226
 longitude: 8.59456
 postcode: "27572"
 city: Bremerhaven
-street: "Schiffshören"
-housenumber: 5
+street: Schiffshören
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
 website: ""

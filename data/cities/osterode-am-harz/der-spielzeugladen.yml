@@ -4,8 +4,8 @@ latitude: 51.72826
 longitude: 10.24953
 postcode: "37520"
 city: Osterode am Harz
-street: "Marientorstraße"
-housenumber: 2
+street: Marientorstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-14:00"
-website: "https://www.spielzeugladen-osterode.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-14:00
+website: https://www.spielzeugladen-osterode.de/

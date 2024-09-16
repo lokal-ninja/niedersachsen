@@ -1,11 +1,11 @@
 id: 43594713
-type: way
+type: node
 latitude: 52.8594
 longitude: 8.72751
 postcode: "27211"
 city: Bassum
-street: "Bremer Straße"
-housenumber: 77
-phone: "+49 4241 1222"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"
+street: Bremer Straße
+housenumber: "77"
+phone: +49 4241 1222
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00
 website: ""

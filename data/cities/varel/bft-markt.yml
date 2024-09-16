@@ -4,8 +4,8 @@ latitude: 53.40388
 longitude: 8.15356
 postcode: "26316"
 city: Varel
-street: "Hafenstraße"
-housenumber: 44
-phone: "+49 4451 6633"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.bft-markt.de/"
+street: Hafenstraße
+housenumber: "44"
+phone: +49 4451 6633
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.bft-markt.de/

@@ -1,11 +1,11 @@
 id: 117461663
-type: way
+type: node
 latitude: 52.31268
 longitude: 7.35325
 postcode: "48499"
 city: Salzbergen
-street: "Neuenkirchener Straße"
-housenumber: 18
+street: Neuenkirchener Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

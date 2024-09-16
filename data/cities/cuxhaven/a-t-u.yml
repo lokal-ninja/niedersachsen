@@ -1,11 +1,11 @@
 id: 147762769
-type: way
+type: node
 latitude: 53.85101
 longitude: 8.71568
 postcode: "27472"
 city: Cuxhaven
-street: "Papenstraße"
-housenumber: 139
+street: Papenstraße
+housenumber: "139"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH off
 website: ""

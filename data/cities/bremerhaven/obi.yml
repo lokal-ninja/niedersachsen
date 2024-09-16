@@ -4,8 +4,8 @@ latitude: 53.55607
 longitude: 8.58964
 postcode: "27576"
 city: Bremerhaven
-street: "Melchior-Schwoon-Straße"
-housenumber: 3
-phone: "+49 471 9412980; +49 471 94129811"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/"
+street: Melchior-Schwoon-Straße
+housenumber: "3"
+phone: +49 471 9412980; +49 471 94129811
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/

@@ -4,8 +4,8 @@ latitude: 52.22841
 longitude: 10.52607
 postcode: "38124"
 city: Braunschweig
-street: "Görlitzstraße"
-housenumber: 8
-phone: "+49 531 123 3744"
-opening_hours: "Mo-Fr 06:30-18:00;Sa 06:30-13:00;Su 08:00-11:00"
-website: "https://www.brotversteher.de/"
+street: Görlitzstraße
+housenumber: "8"
+phone: +49 531 123 3744
+opening_hours: Mo-Fr 06:30-18:00;Sa 06:30-13:00;Su 08:00-11:00
+website: https://www.brotversteher.de/

@@ -1,11 +1,11 @@
 id: 97946893
-type: way
+type: node
 latitude: 53.0612
 longitude: 9.17174
 postcode: "28870"
 city: Ottersberg
-street: "Posthausen"
-housenumber: 1
+street: Posthausen
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

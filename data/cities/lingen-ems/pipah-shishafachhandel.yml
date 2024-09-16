@@ -4,8 +4,8 @@ latitude: 52.52255
 longitude: 7.31818
 postcode: "49808"
 city: Lingen (Ems)
-street: "Burgstraße"
-housenumber: 14
-phone: "+49 591 14204336"
-opening_hours: "Mo-Fr 12:00-20:00; Sa 10:00-18:00"
-website: "https://pipah.de"
+street: Burgstraße
+housenumber: "14"
+phone: +49 591 14204336
+opening_hours: Mo-Fr 12:00-20:00; Sa 10:00-18:00
+website: https://pipah.de

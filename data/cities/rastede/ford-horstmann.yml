@@ -1,11 +1,11 @@
 id: 244180205
-type: way
+type: node
 latitude: 53.23904
 longitude: 8.19919
 postcode: "26180"
 city: Rastede
-street: "Oldenburger Straße"
-housenumber: 159
+street: Oldenburger Straße
+housenumber: "159"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-13:00"
-website: "http://www.ford-horstmann.de/"
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-13:00
+website: http://www.ford-horstmann.de/

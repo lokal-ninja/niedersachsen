@@ -1,11 +1,11 @@
 id: 152295988
-type: way
+type: node
 latitude: 52.24438
 longitude: 10.48885
 postcode: "38120"
 city: Braunschweig
-street: "Lechstraße"
-housenumber: 35
+street: Lechstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.weststadtauto.de/"
+website: https://www.weststadtauto.de/

@@ -4,8 +4,8 @@ latitude: 53.28721
 longitude: 9.72606
 postcode: "21255"
 city: Tostedt
-street: "Vorwerk-Ring"
-housenumber: 2
+street: Vorwerk-Ring
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.cleanpark.de/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.cleanpark.de/

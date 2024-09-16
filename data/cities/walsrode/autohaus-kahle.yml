@@ -1,11 +1,11 @@
 id: 290566771
-type: way
+type: node
 latitude: 52.86123
 longitude: 9.61559
 postcode: "29664"
 city: Walsrode
-street: "Werner-von-Siemens-Straße"
-housenumber: 6
-phone: "+49 5161 98990"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
-website: "https://www.kahle.de/unternehmen/standorte/walsrode/"
+street: Werner-von-Siemens-Straße
+housenumber: "6"
+phone: +49 5161 98990
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
+website: https://www.kahle.de/unternehmen/standorte/walsrode/

@@ -4,8 +4,8 @@ latitude: 52.79582
 longitude: 7.85973
 postcode: "49688"
 city: Lastrup
-street: "Ladestraße"
-housenumber: 2
+street: Ladestraße
+housenumber: "2"
 phone: "+4944478020"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su,PH off"
-website: "https://www.gs-genossenschaft.de/raiffeisenmarkt"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su,PH off
+website: https://www.gs-genossenschaft.de/raiffeisenmarkt

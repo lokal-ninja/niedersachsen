@@ -4,8 +4,8 @@ latitude: 52.26443
 longitude: 10.52309
 postcode: "38100"
 city: Braunschweig
-street: "Vor der Burg"
-housenumber: 1
-phone: "+49 531 1233288"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "http://www.freya-women.de"
+street: Vor der Burg
+housenumber: "1"
+phone: +49 531 1233288
+opening_hours: Mo-Sa 10:00-18:00
+website: http://www.freya-women.de

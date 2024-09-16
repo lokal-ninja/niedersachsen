@@ -1,11 +1,11 @@
 id: 895736058
-type: way
+type: node
 latitude: 53.10099
 longitude: 7.68115
 postcode: "26683"
 city: Saterland
-street: "Hauptstraße"
-housenumber: 462
-phone: "+49 4498 625 9090"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-13:00"
-website: "http://www.radsport-hellweg.de/"
+street: Hauptstraße
+housenumber: "462"
+phone: +49 4498 625 9090
+opening_hours: Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-13:00
+website: http://www.radsport-hellweg.de/

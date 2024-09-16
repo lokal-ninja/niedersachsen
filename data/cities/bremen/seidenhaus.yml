@@ -4,8 +4,8 @@ latitude: 53.07762
 longitude: 8.81794
 postcode: "28203"
 city: Bremen
-street: "Fedelhören"
-housenumber: 20
-phone: "+49 421 323859"
-opening_hours: "Nach Vereinbarung"
-website: "www.seidenhaus-tonne.de"
+street: Fedelhören
+housenumber: "20"
+phone: +49 421 323859
+opening_hours: '"Nach Vereinbarung"'
+website: www.seidenhaus-tonne.de

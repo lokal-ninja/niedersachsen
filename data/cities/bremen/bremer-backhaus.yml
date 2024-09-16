@@ -4,8 +4,8 @@ latitude: 53.09744
 longitude: 8.81212
 postcode: "28215"
 city: Bremen
-street: "Hemmstraße"
-housenumber: 313
+street: Hemmstraße
+housenumber: "313"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-14:00; Su 07:00-17:00"
-website: "http://www.effenberger-bremen.de/index.php/ueber-uns/verkaufsstellen-und-oeffnungszeiten"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-14:00; Su 07:00-17:00
+website: http://www.effenberger-bremen.de/index.php/ueber-uns/verkaufsstellen-und-oeffnungszeiten

@@ -1,11 +1,11 @@
 id: 525554792
-type: way
+type: node
 latitude: 52.99073
 longitude: 7.62958
 postcode: "26897"
 city: Esterwegen
-street: "Poststraße"
-housenumber: 17
+street: Poststraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

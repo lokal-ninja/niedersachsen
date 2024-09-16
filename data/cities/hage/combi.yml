@@ -1,11 +1,11 @@
 id: 1241855775
-type: way
+type: node
 latitude: 53.60106
 longitude: 7.29204
 postcode: "26524"
 city: Hage
-street: "Am Edenhof"
+street: Am Edenhof
 housenumber: 1a
-phone: "+49 4931 934307"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.combi.de/"
+phone: +49 4931 934307
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.combi.de/

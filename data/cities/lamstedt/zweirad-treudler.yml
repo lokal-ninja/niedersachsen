@@ -1,11 +1,11 @@
 id: 330155330
-type: way
+type: node
 latitude: 53.6345
 longitude: 9.10174
 postcode: "21769"
 city: Lamstedt
-street: "Feldstraße"
-housenumber: 19
+street: Feldstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 307278823
-type: way
+type: node
 latitude: 52.43353
 longitude: 9.60624
 postcode: "30827"
 city: Garbsen
-street: "Bremer Straße"
-housenumber: 34
+street: Bremer Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

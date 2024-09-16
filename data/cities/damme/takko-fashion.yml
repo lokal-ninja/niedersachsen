@@ -4,8 +4,8 @@ latitude: 52.5241
 longitude: 8.19185
 postcode: "49401"
 city: Damme
-street: "Mühlenstraße"
-housenumber: 36
-phone: "+49 5491 671013"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.takko.com/"
+street: Mühlenstraße
+housenumber: "36"
+phone: +49 5491 671013
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.takko.com/

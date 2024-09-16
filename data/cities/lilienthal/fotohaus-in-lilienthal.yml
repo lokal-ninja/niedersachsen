@@ -4,8 +4,8 @@ latitude: 53.1396
 longitude: 8.90384
 postcode: "28865"
 city: Lilienthal
-street: "Hauptstraße"
-housenumber: 29
+street: Hauptstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Tu 09:00-18:00; Th-Fr 09:00-18:00, Sa 09:00-13:00; PH off"
-website: "https://www.fotohaus-in-lilienthal.de/"
+opening_hours: Mo-Tu 09:00-18:00; Th-Fr 09:00-18:00, Sa 09:00-13:00; PH off
+website: https://www.fotohaus-in-lilienthal.de/

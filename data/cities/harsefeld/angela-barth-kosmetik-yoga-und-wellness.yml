@@ -4,8 +4,8 @@ latitude: 53.43144
 longitude: 9.46464
 postcode: "21698"
 city: Harsefeld
-street: "Buschhornweg"
-housenumber: 8
-phone: "+49 4164 87 57 400"
-opening_hours: "Mo-Fr 09:00-18:30 || nach Vereinbarung"
-website: "https://www.angela-barth.de/"
+street: Buschhornweg
+housenumber: "8"
+phone: +49 4164 87 57 400
+opening_hours: Mo-Fr 09:00-18:30 || "nach Vereinbarung"
+website: https://www.angela-barth.de/

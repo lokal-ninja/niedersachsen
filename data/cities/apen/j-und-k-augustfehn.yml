@@ -1,11 +1,11 @@
 id: 788050347
-type: way
+type: node
 latitude: 53.21842
 longitude: 7.76995
 postcode: "26689"
 city: Apen
-street: "Industriestraße"
-housenumber: 16
+street: Industriestraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

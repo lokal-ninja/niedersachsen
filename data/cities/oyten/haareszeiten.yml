@@ -1,11 +1,11 @@
 id: 89308434
-type: way
+type: node
 latitude: 53.05734
 longitude: 9.02037
 postcode: "28876"
 city: Oyten
-street: "Dorfstraße"
-housenumber: 21
+street: Dorfstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

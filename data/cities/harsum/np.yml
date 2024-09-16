@@ -1,11 +1,11 @@
 id: 156136695
-type: way
+type: node
 latitude: 52.20677
 longitude: 9.96076
 postcode: "31177"
 city: Harsum
-street: "Mahnhof"
-housenumber: 14
+street: Mahnhof
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

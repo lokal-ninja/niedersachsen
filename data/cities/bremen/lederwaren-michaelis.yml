@@ -1,11 +1,11 @@
 id: 197496680
-type: way
+type: node
 latitude: 53.17486
 longitude: 8.61297
 postcode: "28757"
 city: Bremen
-street: "Gerhard-Rohlfs-Straße"
+street: Gerhard-Rohlfs-Straße
 housenumber: 47a
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://www.lederwaren-michaelis.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://www.lederwaren-michaelis.de/

@@ -1,11 +1,11 @@
 id: 194352282
-type: way
+type: node
 latitude: 52.3806
 longitude: 9.72436
 postcode: "30167"
 city: Hannover
-street: "An der Christuskirche"
-housenumber: 18
-phone: "+49 1590 6708496"
-opening_hours: "Th 13:00-18:30"
-website: "https://www.tpzhu.de/"
+street: An der Christuskirche
+housenumber: "18"
+phone: +49 1590 6708496
+opening_hours: Th 13:00-18:30
+website: https://www.tpzhu.de/

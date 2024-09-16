@@ -1,11 +1,11 @@
 id: 377480408
-type: way
+type: node
 latitude: 53.07376
 longitude: 8.79887
 postcode: "28199"
 city: Bremen
-street: "Westerstraße"
+street: Westerstraße
 housenumber: 19-31
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su,PH off"
-website: "https://www.rewe.de/marktseite/rewe-markt-bremen-westerstra%C3%9Fe-19"
+opening_hours: Mo-Sa 07:00-23:00; Su,PH off
+website: https://www.rewe.de/marktseite/rewe-markt-bremen-westerstra%C3%9Fe-19

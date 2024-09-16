@@ -1,11 +1,11 @@
 id: 208665093
-type: way
+type: node
 latitude: 52.67733
 longitude: 8.79021
 postcode: "27232"
 city: Sulingen
-street: "Diepholzer Straße"
-housenumber: 16
+street: Diepholzer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

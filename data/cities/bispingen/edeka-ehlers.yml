@@ -4,8 +4,8 @@ latitude: 53.08393
 longitude: 9.99565
 postcode: "29646"
 city: Bispingen
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 5194 7372"
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://www.edeka-ehlers.de/"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 5194 7372
+opening_hours: Mo-Sa 07:30-21:00
+website: https://www.edeka-ehlers.de/

@@ -4,8 +4,8 @@ latitude: 52.41983
 longitude: 10.79075
 postcode: "38440"
 city: Wolfsburg
-street: "Friedrich-Ebert-Straße"
-housenumber: 29
+street: Friedrich-Ebert-Straße
+housenumber: "29"
 phone: "+49536116399"
-opening_hours: "Mo-Fr 09:00-12:30, 14:30-18:30; Sa 09:00-14:00"
-website: "https://www.zweirad-wichmann.de"
+opening_hours: Mo-Fr 09:00-12:30, 14:30-18:30; Sa 09:00-14:00
+website: https://www.zweirad-wichmann.de

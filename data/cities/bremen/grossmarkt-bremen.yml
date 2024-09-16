@@ -1,11 +1,11 @@
 id: 23290618
-type: way
+type: node
 latitude: 53.09421
 longitude: 8.7684
 postcode: "28217"
 city: Bremen
-street: "Am Waller Freihafen"
-housenumber: 1
-phone: "+49 421 53 68 2 0"
-opening_hours: "24/7"
-website: "http://www.grossmarktbremen.com/"
+street: Am Waller Freihafen
+housenumber: "1"
+phone: +49 421 53 68 2 0
+opening_hours: 24/7
+website: http://www.grossmarktbremen.com/

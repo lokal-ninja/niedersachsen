@@ -1,11 +1,11 @@
 id: 342681467
-type: way
+type: node
 latitude: 52.06432
 longitude: 9.37734
 postcode: "31789"
 city: Hameln
-street: "Emmerthaler Straße"
-housenumber: 1
-phone: "+49 5151 409468"
-opening_hours: "Mo-Fr 09:00-18:00; PH,Sa,Su off"
-website: "https://www.kleine-hexe-hameln.de/"
+street: Emmerthaler Straße
+housenumber: "1"
+phone: +49 5151 409468
+opening_hours: Mo-Fr 09:00-18:00; PH,Sa,Su off
+website: https://www.kleine-hexe-hameln.de/

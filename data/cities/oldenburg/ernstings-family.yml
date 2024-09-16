@@ -4,8 +4,8 @@ latitude: 53.16868
 longitude: 8.21524
 postcode: "26127"
 city: Oldenburg
-street: "Scheideweg"
-housenumber: 100
-phone: "+49 2546 9899998"
-opening_hours: "Mo-Sa 09:00-19:00; Su,PH off"
-website: "https://filialen.ernstings-family.de/oldenburg-scheideweg-100"
+street: Scheideweg
+housenumber: "100"
+phone: +49 2546 9899998
+opening_hours: Mo-Sa 09:00-19:00; Su,PH off
+website: https://filialen.ernstings-family.de/oldenburg-scheideweg-100

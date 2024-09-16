@@ -1,11 +1,12 @@
 id: 997702392
-type: way
+type: node
 latitude: 53.00904
 longitude: 7.58935
 postcode: "26897"
 city: Esterwegen
-street: "Bockhorster Straße-West"
-housenumber: 3
+street: Bockhorster Straße-West
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00 oder nach Absprache; Sa 09:00-13:00 oder nach Absprache"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00 "oder nach Absprache"; Sa 09:00-13:00
+    "oder nach Absprache"
 website: ""

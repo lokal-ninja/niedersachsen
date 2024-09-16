@@ -1,11 +1,11 @@
 id: 429437406
-type: way
+type: node
 latitude: 53.27095
 longitude: 8.17248
 postcode: "26180"
 city: Rastede
-street: "Gut Rehorn"
-housenumber: 2
-phone: "+49 4402 7222"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "https://www.hoppe-oppotsch.de"
+street: Gut Rehorn
+housenumber: "2"
+phone: +49 4402 7222
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: https://www.hoppe-oppotsch.de

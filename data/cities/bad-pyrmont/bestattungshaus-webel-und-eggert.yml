@@ -1,11 +1,11 @@
 id: 231066295
-type: way
+type: node
 latitude: 51.97939
 longitude: 9.26539
 postcode: "31812"
 city: Bad Pyrmont
-street: "Helenenstraße"
-housenumber: 12
+street: Helenenstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

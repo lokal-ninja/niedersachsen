@@ -1,11 +1,11 @@
 id: 140757499
-type: way
+type: node
 latitude: 52.60877
 longitude: 10.04489
 postcode: ""
 city: Celle
-street: "Marienwerderallee"
-housenumber: 2
+street: Marienwerderallee
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 382086596
-type: way
+type: node
 latitude: 52.27844
 longitude: 8.10875
 postcode: "49086"
 city: Osnabrück
-street: "Nordstraße"
-housenumber: 1
+street: Nordstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

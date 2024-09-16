@@ -4,8 +4,8 @@ latitude: 52.47386
 longitude: 10.35491
 postcode: "38536"
 city: Meinersen
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-16:00; Su 07:30-12:30"
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:00-16:00; Su 07:30-12:30
 website: ""

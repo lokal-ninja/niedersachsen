@@ -1,11 +1,11 @@
 id: 74327512
-type: way
+type: node
 latitude: 51.90837
 longitude: 10.42867
 postcode: "38640"
 city: Goslar
-street: "Rosentorstraße"
-housenumber: 1
+street: Rosentorstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.08586
 longitude: 7.40252
 postcode: "26871"
 city: Papenburg
-street: "Juister Straße"
-housenumber: 2
-phone: "+49 4961 - 40 81"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+street: Juister Straße
+housenumber: "2"
+phone: +49 4961 - 40 81
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/

@@ -1,11 +1,11 @@
 id: 551119329
-type: way
+type: node
 latitude: 52.74471
 longitude: 7.56869
 postcode: "49774"
 city: Lähden
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-18:00
 website: ""

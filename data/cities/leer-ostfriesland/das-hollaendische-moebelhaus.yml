@@ -1,11 +1,11 @@
 id: 181595828
-type: way
+type: node
 latitude: 53.22876
 longitude: 7.45108
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Brunnenstraße"
-housenumber: 24
-phone: "+49 491 9991120"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su off; PH off"
-website: "https://www.dashollaendischemoebelhaus.de/"
+street: Brunnenstraße
+housenumber: "24"
+phone: +49 491 9991120
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su off; PH off
+website: https://www.dashollaendischemoebelhaus.de/

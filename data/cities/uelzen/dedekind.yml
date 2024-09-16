@@ -1,11 +1,11 @@
 id: 304111778
-type: way
+type: node
 latitude: 52.9642
 longitude: 10.55969
 postcode: "29525"
 city: Uelzen
-street: "Veerßer Straße"
-housenumber: 14
+street: Veerßer Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Sa 09:30-12:30, Tu,Fr 14:30-17:00"
+opening_hours: Tu-Sa 09:30-12:30, Tu,Fr 14:30-17:00
 website: ""

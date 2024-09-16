@@ -1,11 +1,11 @@
 id: 37678666
-type: way
+type: node
 latitude: 52.19683
 longitude: 9.08608
 postcode: "31737"
 city: Rinteln
-street: "Konrad-Adenauer-Straße"
-housenumber: 33
-phone: "+49 5751 9710"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://marktkauf.de/"
+street: Konrad-Adenauer-Straße
+housenumber: "33"
+phone: +49 5751 9710
+opening_hours: Mo-Sa 08:00-21:00
+website: https://marktkauf.de/

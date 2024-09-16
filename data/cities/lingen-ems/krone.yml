@@ -1,11 +1,11 @@
 id: 209176928
-type: way
+type: node
 latitude: 52.50861
 longitude: 7.2937
 postcode: "49808"
 city: Lingen (Ems)
-street: "Nordhorner Straße"
-housenumber: 22
+street: Nordhorner Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

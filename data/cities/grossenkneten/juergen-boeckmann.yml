@@ -1,11 +1,11 @@
 id: 243358906
-type: way
+type: node
 latitude: 52.99012
 longitude: 8.27284
 postcode: "26197"
 city: Großenkneten
-street: "Bahnhofsstraße"
-housenumber: 42
+street: Bahnhofsstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00; Sa 10:00-13:00; PH,Su off"
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00; Sa 10:00-13:00; PH,Su off
 website: ""

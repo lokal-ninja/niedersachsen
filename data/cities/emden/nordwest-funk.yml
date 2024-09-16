@@ -1,11 +1,11 @@
 id: 129910006
-type: way
+type: node
 latitude: 53.36094
 longitude: 7.17812
 postcode: "26723"
 city: Emden
-street: "Stedinger Straße"
-housenumber: 20
+street: Stedinger Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.nordwest-funk.eu/"
+website: https://www.nordwest-funk.eu/

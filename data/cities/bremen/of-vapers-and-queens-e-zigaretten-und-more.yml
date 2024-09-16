@@ -4,8 +4,8 @@ latitude: 53.06059
 longitude: 8.80644
 postcode: "28201"
 city: Bremen
-street: "Kornstraße"
-housenumber: 185
+street: Kornstraße
+housenumber: "185"
 phone: ""
-opening_hours: "Mo-Fr 11:30-19:00; Sa 11:30-17:00"
-website: "https://of-vapers-and-queens.de"
+opening_hours: Mo-Fr 11:30-19:00; Sa 11:30-17:00
+website: https://of-vapers-and-queens.de

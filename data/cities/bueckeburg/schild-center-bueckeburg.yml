@@ -4,8 +4,9 @@ latitude: 52.2609
 longitude: 9.05085
 postcode: "31675"
 city: Bückeburg
-street: "Lange Straße"
+street: Lange Straße
 housenumber: 70 - 72
-phone: "+49 5722 966780"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off; Nov 26-Dec 23: Sa 09:00-18:00; Dec 24 08:00-13:00; Dec 31 09:00-14:00"
+phone: +49 5722 966780
+opening_hours: 'Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off; Nov 26-Dec 23: Sa 09:00-18:00;
+    Dec 24 08:00-13:00; Dec 31 09:00-14:00'
 website: ""

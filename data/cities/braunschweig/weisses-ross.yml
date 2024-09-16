@@ -1,11 +1,11 @@
 id: 55798587
-type: way
+type: node
 latitude: 52.27237
 longitude: 10.50589
 postcode: "38114"
 city: Braunschweig
-street: "Celler Straße"
-housenumber: 30
+street: Celler Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

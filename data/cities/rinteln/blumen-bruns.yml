@@ -4,8 +4,8 @@ latitude: 52.17296
 longitude: 9.15481
 postcode: "31737"
 city: Rinteln
-street: "Fährweg"
-housenumber: 3
-phone: "+49 5751 3694"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 10:00-12:00"
-website: "https://www.blumen-bruns.de/"
+street: Fährweg
+housenumber: "3"
+phone: +49 5751 3694
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 10:00-12:00
+website: https://www.blumen-bruns.de/

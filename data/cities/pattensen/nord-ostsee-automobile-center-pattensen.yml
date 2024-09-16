@@ -1,11 +1,11 @@
 id: 234871953
-type: way
+type: node
 latitude: 52.26491
 longitude: 9.7724
 postcode: "30982"
 city: Pattensen
-street: "Johann-Egestorff-Straße"
-housenumber: 1
+street: Johann-Egestorff-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

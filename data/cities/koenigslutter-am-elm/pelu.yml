@@ -4,8 +4,9 @@ latitude: 52.25129
 longitude: 10.81497
 postcode: "38154"
 city: Königslutter am Elm
-street: "Neue Straße"
-housenumber: 51
+street: Neue Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo 15:00-18:00; Tu 9:00-12:30,15:00-18:00; We 09:00-12:30; Th 09:00-12:30,15:00-18:00; Fr 09:00-12:30; Sa off; Su off; PH off"
+opening_hours: Mo 15:00-18:00; Tu 9:00-12:30,15:00-18:00; We 09:00-12:30; Th 09:00-12:30,15:00-18:00;
+    Fr 09:00-12:30; Sa off; Su off; PH off
 website: ""

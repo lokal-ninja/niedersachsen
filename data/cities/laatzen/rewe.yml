@@ -1,11 +1,11 @@
 id: 24651776
-type: way
+type: node
 latitude: 52.30086
 longitude: 9.81879
 postcode: "30880"
 city: Laatzen
-street: "Schubertweg"
-housenumber: 3
+street: Schubertweg
+housenumber: "3"
 phone: "+495112284540"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/laatzen/565537/rewe-markt-schubertweg-3"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/laatzen/565537/rewe-markt-schubertweg-3

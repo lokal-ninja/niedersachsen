@@ -1,11 +1,11 @@
 id: 321102645
-type: way
+type: node
 latitude: 53.00132
 longitude: 10.08982
 postcode: "29633"
 city: Munster
-street: "Breloher Straße"
-housenumber: 103
+street: Breloher Straße
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto.de/Pages/StoreLocator.aspx?lat=52.9905538&lng=10.080935199999999"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto.de/Pages/StoreLocator.aspx?lat=52.9905538&lng=10.080935199999999

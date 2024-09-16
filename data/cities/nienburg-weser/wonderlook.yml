@@ -4,8 +4,8 @@ latitude: 52.63968
 longitude: 9.20952
 postcode: "31582"
 city: Nienburg/Weser
-street: "Friedrich-Ludwig-Jahn-Straße"
-housenumber: 41
+street: Friedrich-Ludwig-Jahn-Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "https://www.wonderlook.de/nienburg/"
+opening_hours: Mo-Fr 09:00-18:30
+website: https://www.wonderlook.de/nienburg/

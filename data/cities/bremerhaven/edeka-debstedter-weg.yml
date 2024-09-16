@@ -1,11 +1,11 @@
 id: 174872911
-type: way
+type: node
 latitude: 53.58996
 longitude: 8.59965
 postcode: ""
 city: Bremerhaven
-street: "Debstedter Weg"
-housenumber: 16
+street: Debstedter Weg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 30833166
-type: way
+type: node
 latitude: 52.19695
 longitude: 9.07352
 postcode: "31737"
 city: Rinteln
-street: "Breite Straße"
+street: Breite Straße
 housenumber: 16a
-phone: "+49 5751 97130"
-opening_hours: "Mo-Th, Sa 07:00-20:00; Fr 07:00-22:00"
-website: "https://www.toom-baumarkt.de/mein-markt/details/rinteln/"
+phone: +49 5751 97130
+opening_hours: Mo-Th, Sa 07:00-20:00; Fr 07:00-22:00
+website: https://www.toom-baumarkt.de/mein-markt/details/rinteln/

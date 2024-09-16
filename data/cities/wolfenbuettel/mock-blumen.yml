@@ -1,11 +1,11 @@
 id: 210584793
-type: way
+type: node
 latitude: 52.16533
 longitude: 10.55539
 postcode: "38302"
 city: Wolfenbüttel
-street: "Doktorkamp"
-housenumber: 24
+street: Doktorkamp
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "http://www.blumenmock.de/"
+website: http://www.blumenmock.de/

@@ -1,11 +1,11 @@
 id: 37884368
-type: way
+type: node
 latitude: 53.72967
 longitude: 7.3725
 postcode: "26579"
 city: Baltrum
-street: "Westdorf"
-housenumber: 295
+street: Westdorf
+housenumber: "295"
 phone: ""
-opening_hours: "Mo-Sa 08:30-13:00,15:00-18:00; Su 10:00-12:00,15:00-17:00"
+opening_hours: Mo-Sa 08:30-13:00,15:00-18:00; Su 10:00-12:00,15:00-17:00
 website: ""

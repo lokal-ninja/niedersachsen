@@ -4,8 +4,8 @@ latitude: 52.26053
 longitude: 9.04872
 postcode: "31675"
 city: Bückeburg
-street: "Lange Straße"
-housenumber: 58
-phone: "+49 162 9036722"
-opening_hours: "Sa 08:00-18:00; Tu-Fr 09:00-18:00"
-website: "https://unverpacktundgut.de/"
+street: Lange Straße
+housenumber: "58"
+phone: +49 162 9036722
+opening_hours: Sa 08:00-18:00; Tu-Fr 09:00-18:00
+website: https://unverpacktundgut.de/

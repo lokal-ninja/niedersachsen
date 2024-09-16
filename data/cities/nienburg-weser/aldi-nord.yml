@@ -4,8 +4,8 @@ latitude: 52.63392
 longitude: 9.22522
 postcode: "31582"
 city: Nienburg/Weser
-street: "Ziegelkampstraße"
-housenumber: 30
+street: Ziegelkampstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/nienburg/ziegelkampstrasse-30.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/nienburg/ziegelkampstrasse-30.html

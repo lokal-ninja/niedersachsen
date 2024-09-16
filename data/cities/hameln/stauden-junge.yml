@@ -1,11 +1,11 @@
 id: 118932926
-type: way
+type: node
 latitude: 52.12374
 longitude: 9.31957
 postcode: "31787"
 city: Hameln
-street: "Seeangerweg"
-housenumber: 1
+street: Seeangerweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.bluetenblatt.de/"
+website: https://www.bluetenblatt.de/

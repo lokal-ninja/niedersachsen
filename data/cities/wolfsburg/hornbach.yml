@@ -1,11 +1,11 @@
 id: 25102696
-type: way
+type: node
 latitude: 52.36879
 longitude: 10.72761
 postcode: "38444"
 city: Wolfsburg
-street: "Brandgehaege"
-housenumber: 7
+street: Brandgehaege
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

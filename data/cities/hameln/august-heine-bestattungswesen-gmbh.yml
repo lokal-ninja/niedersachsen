@@ -4,8 +4,8 @@ latitude: 52.10094
 longitude: 9.35758
 postcode: "31785"
 city: Hameln
-street: "Ostertorwall"
-housenumber: 24
+street: Ostertorwall
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Th 20:00-12:30,14:30-17:00, Fr 08:00-12:30,14:30-16:00"
-website: "https://www.heine-bestattungen.de"
+opening_hours: Mo-Th 20:00-12:30,14:30-17:00, Fr 08:00-12:30,14:30-16:00
+website: https://www.heine-bestattungen.de

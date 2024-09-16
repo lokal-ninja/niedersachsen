@@ -1,11 +1,11 @@
 id: 317524177
-type: way
+type: node
 latitude: 52.40357
 longitude: 7.98836
 postcode: "49565"
 city: Bramsche
-street: "Osnabrücker Straße"
-housenumber: 7
+street: Osnabrücker Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.beckermann-bramsche.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.beckermann-bramsche.de/

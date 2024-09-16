@@ -4,8 +4,8 @@ latitude: 52.20387
 longitude: 8.34023
 postcode: "49324"
 city: Melle
-street: "Mühlenstraße"
-housenumber: 31
-phone: "+49 54 225641"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 8:00-13:00"
-website: "https://www.georgs-bioladen.de"
+street: Mühlenstraße
+housenumber: "31"
+phone: +49 54 225641
+opening_hours: Mo-Fr 9:00-18:00; Sa 8:00-13:00
+website: https://www.georgs-bioladen.de

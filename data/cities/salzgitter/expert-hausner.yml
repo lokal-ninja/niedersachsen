@@ -4,8 +4,8 @@ latitude: 52.16416
 longitude: 10.33479
 postcode: "38226"
 city: Salzgitter
-street: "Berliner Straße"
-housenumber: 187
-phone: "+49-5341-61045"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:30; Sa 09:00-13:30"
+street: Berliner Straße
+housenumber: "187"
+phone: +49-5341-61045
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:30; Sa 09:00-13:30
 website: ""

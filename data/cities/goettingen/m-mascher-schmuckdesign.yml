@@ -4,8 +4,8 @@ latitude: 51.53324
 longitude: 9.94019
 postcode: "37073"
 city: Göttingen
-street: "Wendenstraße"
-housenumber: 4
+street: Wendenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; PH,Mo off"
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; PH,Mo off
 website: ""

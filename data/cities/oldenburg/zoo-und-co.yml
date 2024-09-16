@@ -4,8 +4,8 @@ latitude: 53.15804
 longitude: 8.17268
 postcode: "26129"
 city: Oldenburg
-street: "Posthalterweg"
-housenumber: 10
-phone: "+49 441 9987380"
-opening_hours: "Mo-Sa 09:00-19:00; Su,PH off"
-website: "https://www.zooundco-oldenburg.de"
+street: Posthalterweg
+housenumber: "10"
+phone: +49 441 9987380
+opening_hours: Mo-Sa 09:00-19:00; Su,PH off
+website: https://www.zooundco-oldenburg.de

@@ -1,11 +1,11 @@
 id: 235591647
-type: way
+type: node
 latitude: 52.20684
 longitude: 10.27954
 postcode: "38268"
 city: Lengede
-street: "Königsberger Straße"
-housenumber: 2
-phone: "+49-5344-7208"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
+street: Königsberger Straße
+housenumber: "2"
+phone: +49-5344-7208
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
 website: ""

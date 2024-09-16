@@ -4,8 +4,8 @@ latitude: 52.48197
 longitude: 10.54484
 postcode: "38518"
 city: Gifhorn
-street: "Braunschweiger Straße"
-housenumber: 1
+street: Braunschweiger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 10:00-14:00"
-website: "https://www.naehcenter-shop.de/pages/naehcenter-gifhorn"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 10:00-14:00
+website: https://www.naehcenter-shop.de/pages/naehcenter-gifhorn

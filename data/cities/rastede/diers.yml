@@ -1,11 +1,11 @@
 id: 243636793
-type: way
+type: node
 latitude: 53.24529
 longitude: 8.19794
 postcode: "26180"
 city: Rastede
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 2c+d
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00"
-website: "https://www.schuhmode-diers.de/"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00
+website: https://www.schuhmode-diers.de/

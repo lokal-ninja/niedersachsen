@@ -1,11 +1,11 @@
 id: 1016537814
-type: way
+type: node
 latitude: 53.16961
 longitude: 7.75673
 postcode: "26676"
 city: Barßel
-street: "Settrup"
-housenumber: 2
+street: Settrup
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.autosuchen.de/"
+website: https://www.autosuchen.de/

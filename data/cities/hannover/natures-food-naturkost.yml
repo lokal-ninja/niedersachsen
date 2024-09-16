@@ -4,8 +4,8 @@ latitude: 52.37485
 longitude: 9.70358
 postcode: "30451"
 city: Hannover
-street: "Limmerstraße"
-housenumber: 80
-phone: "+49 511 21905961"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00"
-website: "https://www.natures-food.de/"
+street: Limmerstraße
+housenumber: "80"
+phone: +49 511 21905961
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-16:00
+website: https://www.natures-food.de/

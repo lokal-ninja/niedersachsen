@@ -1,11 +1,11 @@
 id: 315837126
-type: way
+type: node
 latitude: 52.25411
 longitude: 9.10794
 postcode: "31683"
 city: Obernkirchen
-street: "Eilsener Straße"
-housenumber: 153
+street: Eilsener Straße
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

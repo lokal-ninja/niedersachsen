@@ -1,11 +1,11 @@
 id: 346586281
-type: way
+type: node
 latitude: 52.37725
 longitude: 9.74164
 postcode: "30159"
 city: Hannover
-street: "Ernst-August-Platz"
-housenumber: 1
+street: Ernst-August-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

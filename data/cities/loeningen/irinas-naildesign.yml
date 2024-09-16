@@ -1,11 +1,11 @@
 id: 40106280
-type: way
+type: node
 latitude: 52.7366
 longitude: 7.76676
 postcode: "49624"
 city: Löningen
-street: "Lodberger Straße"
-housenumber: 24
+street: Lodberger Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

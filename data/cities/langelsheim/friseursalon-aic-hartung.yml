@@ -1,11 +1,11 @@
 id: 350356697
-type: way
+type: node
 latitude: 51.93752
 longitude: 10.33232
 postcode: "38685"
 city: Langelsheim
-street: "Harzstraße"
-housenumber: 3
+street: Harzstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

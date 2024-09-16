@@ -1,11 +1,11 @@
 id: 208057761
-type: way
+type: node
 latitude: 52.25579
 longitude: 8.09655
 postcode: "49086"
 city: Osnabrück
-street: "Erikastraße"
-housenumber: 21
+street: Erikastraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.fliesen-heidbrink.de/"
+website: https://www.fliesen-heidbrink.de/

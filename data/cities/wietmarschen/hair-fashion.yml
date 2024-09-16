@@ -4,8 +4,8 @@ latitude: 52.4896
 longitude: 7.22627
 postcode: "49835"
 city: Wietmarschen
-street: "Lohner Straße"
-housenumber: 4
+street: Lohner Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-16:00"
-website: "https://www.hairfashion-friseur.de/"
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-16:00
+website: https://www.hairfashion-friseur.de/

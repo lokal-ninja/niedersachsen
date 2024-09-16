@@ -1,11 +1,11 @@
 id: 221830566
-type: way
+type: node
 latitude: 52.51083
 longitude: 9.07577
 postcode: "31592"
 city: Stolzenau
-street: "Lange Straße"
-housenumber: 12
+street: Lange Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

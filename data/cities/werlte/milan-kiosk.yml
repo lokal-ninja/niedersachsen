@@ -4,8 +4,8 @@ latitude: 52.85476
 longitude: 7.68143
 postcode: "49757"
 city: Werlte
-street: "Kirchstraße"
-housenumber: 28
+street: Kirchstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 08:00-23:00; Su 13:00-16:00;"
+opening_hours: Mo-Fr 07:00-22:00; Sa 08:00-23:00; Su 13:00-16:00;
 website: ""

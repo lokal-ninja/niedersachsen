@@ -1,11 +1,11 @@
 id: 71439042
-type: way
+type: node
 latitude: 53.68624
 longitude: 8.56316
 postcode: "27639"
 city: Wurster Nordseeküste
-street: "Poststraße"
-housenumber: 20
+street: Poststraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

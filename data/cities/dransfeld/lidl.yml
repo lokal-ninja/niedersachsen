@@ -1,11 +1,11 @@
 id: 119760983
-type: way
+type: node
 latitude: 51.50383
 longitude: 9.76423
 postcode: "37127"
 city: Dransfeld
-street: "Wolfshof"
-housenumber: 6
+street: Wolfshof
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

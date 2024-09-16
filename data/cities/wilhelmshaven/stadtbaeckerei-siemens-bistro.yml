@@ -4,8 +4,8 @@ latitude: 53.57757
 longitude: 8.11023
 postcode: "26388"
 city: Wilhelmshaven
-street: "Flutstraße"
-housenumber: 94
-phone: "+49 4421 748240"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.stadtbaeckerei-siemens.de/index.php?id=20"
+street: Flutstraße
+housenumber: "94"
+phone: +49 4421 748240
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.stadtbaeckerei-siemens.de/index.php?id=20

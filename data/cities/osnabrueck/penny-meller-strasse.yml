@@ -1,11 +1,11 @@
 id: 206559893
-type: way
+type: node
 latitude: 52.2602
 longitude: 8.06462
 postcode: "49082"
 city: Osnabrück
-street: "Meller Straße"
-housenumber: 118
+street: Meller Straße
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.penny.de/

@@ -1,11 +1,11 @@
 id: 118961518
-type: way
+type: node
 latitude: 53.06883
 longitude: 8.85758
 postcode: "28207"
 city: Bremen
-street: "Hastedter Heerstraße"
-housenumber: 19
+street: Hastedter Heerstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
+website: https://www.lidl.de/

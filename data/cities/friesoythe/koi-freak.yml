@@ -4,8 +4,9 @@ latitude: 53.01378
 longitude: 7.85008
 postcode: "26169"
 city: Friesoythe
-street: "Huntestraße"
-housenumber: 5
+street: Huntestraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Apr-Sep Sa 10:00-14:00; Oct-Mar Sa[1],Sa[3] 10:00-14:00; PH off"
+opening_hours: Mo-Fr 10:00-18:00; Apr-Sep Sa 10:00-14:00; Oct-Mar Sa[1],Sa[3] 10:00-14:00;
+    PH off
 website: ""

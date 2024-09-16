@@ -4,8 +4,8 @@ latitude: 53.14658
 longitude: 8.9109
 postcode: "28865"
 city: Lilienthal
-street: "Hauptstraße"
-housenumber: 96
+street: Hauptstraße
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH off"
-website: "https://haar-lilienthal.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH off
+website: https://haar-lilienthal.de/

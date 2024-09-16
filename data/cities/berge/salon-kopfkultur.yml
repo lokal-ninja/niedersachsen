@@ -1,11 +1,11 @@
 id: 452744802
-type: way
+type: node
 latitude: 52.62076
 longitude: 7.74774
 postcode: "49626"
 city: Berge
-street: "Bippener Straße"
-housenumber: 2
+street: Bippener Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

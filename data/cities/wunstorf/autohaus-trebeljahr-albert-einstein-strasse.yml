@@ -1,11 +1,11 @@
 id: 208845397
-type: way
+type: node
 latitude: 52.41387
 longitude: 9.46074
 postcode: "31515"
 city: Wunstorf
-street: "Albert-Einstein-Straße"
-housenumber: 17
-phone: "+49 5031 95670"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.ford-trebeljahr-wunstorf.de/"
+street: Albert-Einstein-Straße
+housenumber: "17"
+phone: +49 5031 95670
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.ford-trebeljahr-wunstorf.de/

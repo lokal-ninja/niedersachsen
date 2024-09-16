@@ -1,11 +1,11 @@
 id: 37178590
-type: way
+type: node
 latitude: 52.98221
 longitude: 9.58204
 postcode: "27374"
 city: Visselhövede
-street: "Süderstraße"
-housenumber: 25
+street: Süderstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

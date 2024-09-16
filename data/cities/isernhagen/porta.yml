@@ -1,11 +1,11 @@
 id: 95195287
-type: way
+type: node
 latitude: 52.42621
 longitude: 9.82914
 postcode: "30916"
 city: Isernhagen
-street: "Opelstraße"
-housenumber: 9
+street: Opelstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

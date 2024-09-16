@@ -1,11 +1,11 @@
 id: 203973232
-type: way
+type: node
 latitude: 52.3096
 longitude: 9.72349
 postcode: "30966"
 city: Hemmingen
-street: "Hoher Holzweg"
-housenumber: 36
+street: Hoher Holzweg
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

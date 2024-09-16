@@ -4,8 +4,8 @@ latitude: 53.53774
 longitude: 8.58636
 postcode: "27570"
 city: Bremerhaven
-street: "Borriesstraße"
-housenumber: 15
+street: Borriesstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Nur Onlineshop"
-website: "https://www.toms-funfood.shop/"
+opening_hours: '"Nur Onlineshop"'
+website: https://www.toms-funfood.shop/

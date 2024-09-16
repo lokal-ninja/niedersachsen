@@ -1,11 +1,11 @@
 id: 194556378
-type: way
+type: node
 latitude: 52.31651
 longitude: 9.59844
 postcode: "30989"
 city: Gehrden
-street: "Nordstraße"
-housenumber: 2
-phone: "+49 5108 6421990"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Nordstraße
+housenumber: "2"
+phone: +49 5108 6421990
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 929167571
-type: way
+type: node
 latitude: 52.52443
 longitude: 9.06767
 postcode: "31592"
 city: Stolzenau
-street: "Bremer Straße"
-housenumber: 12
+street: Bremer Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://ksomietwerkstatt.de/"
+website: https://ksomietwerkstatt.de/

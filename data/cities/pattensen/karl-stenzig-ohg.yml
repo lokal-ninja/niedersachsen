@@ -1,11 +1,11 @@
 id: 1179981180
-type: way
+type: node
 latitude: 52.26185
 longitude: 9.75008
 postcode: "30982"
 city: Pattensen
-street: "Auf der Bleiche"
+street: Auf der Bleiche
 housenumber: 25/27
-phone: "+49 5101 12321"
+phone: +49 5101 12321
 opening_hours: ""
-website: "https://www.karlstenzigohg.de"
+website: https://www.karlstenzigohg.de

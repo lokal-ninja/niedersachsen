@@ -4,8 +4,8 @@ latitude: 52.15849
 longitude: 10.50842
 postcode: "38304"
 city: Wolfenbüttel
-street: "Am Rehmanger"
-housenumber: 3
-phone: "+49 5331 41200"
-opening_hours: "Tu-Fr 08:30-18:00, Sa 08:00-15:00"
-website: "https://friseurgoertz.de/"
+street: Am Rehmanger
+housenumber: "3"
+phone: +49 5331 41200
+opening_hours: Tu-Fr 08:30-18:00, Sa 08:00-15:00
+website: https://friseurgoertz.de/

@@ -1,11 +1,11 @@
 id: 1310610659
-type: way
+type: node
 latitude: 51.68655
 longitude: 9.98151
 postcode: "37154"
 city: Northeim
-street: "Robert-Bosch-Straße"
-housenumber: 8
+street: Robert-Bosch-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

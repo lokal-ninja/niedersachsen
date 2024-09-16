@@ -1,11 +1,11 @@
 id: 205003480
-type: way
+type: node
 latitude: 52.10431
 longitude: 9.37607
 postcode: "31785"
 city: Hameln
-street: "Deisterstraße"
-housenumber: 85
+street: Deisterstraße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

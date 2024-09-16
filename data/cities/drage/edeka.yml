@@ -1,11 +1,11 @@
 id: 30219114
-type: way
+type: node
 latitude: 53.42777
 longitude: 10.31326
 postcode: "21423"
 city: Drage
-street: "Stover Straße"
-housenumber: 72
+street: Stover Straße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

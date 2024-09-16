@@ -1,11 +1,11 @@
 id: 140677935
-type: way
+type: node
 latitude: 52.46342
 longitude: 10.7205
 postcode: "38554"
 city: Weyhausen
-street: "Laischeweg"
-housenumber: 2
+street: Laischeweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi.de/"
+website: https://www.aldi.de/

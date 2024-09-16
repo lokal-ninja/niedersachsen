@@ -4,8 +4,8 @@ latitude: 52.3607
 longitude: 9.82774
 postcode: "30559"
 city: Hannover
-street: "Tiergartenstraße"
-housenumber: 124
+street: Tiergartenstraße
+housenumber: "124"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su 08:00-11:00"
-website: "https://www.baeckerei-meyer.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su 08:00-11:00
+website: https://www.baeckerei-meyer.de/

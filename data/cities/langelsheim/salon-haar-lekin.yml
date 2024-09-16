@@ -1,11 +1,11 @@
 id: 884848785
-type: way
+type: node
 latitude: 51.93554
 longitude: 10.33473
 postcode: "38685"
 city: Langelsheim
-street: "Ringstraße"
-housenumber: 10
-phone: "+49 5326 996677"
-opening_hours: "Tu-Fr 08:30-18:00, Sa 08:00-12:30"
+street: Ringstraße
+housenumber: "10"
+phone: +49 5326 996677
+opening_hours: Tu-Fr 08:30-18:00, Sa 08:00-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.40713
 longitude: 8.00431
 postcode: "49565"
 city: Bramsche
-street: "Lutterdamm"
-housenumber: 60
-phone: "+49 54618826234"
-opening_hours: "Mo,We 09:00-18:00; Tu,Th,Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.haarwerk-bramsche.de"
+street: Lutterdamm
+housenumber: "60"
+phone: +49 54618826234
+opening_hours: Mo,We 09:00-18:00; Tu,Th,Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.haarwerk-bramsche.de

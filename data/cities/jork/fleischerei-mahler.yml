@@ -1,11 +1,11 @@
 id: 441109320
-type: way
+type: node
 latitude: 53.51047
 longitude: 9.72983
 postcode: ""
 city: Jork
-street: "Steinweg"
-housenumber: 5
+street: Steinweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://partyservice-mahler.de/"
+website: https://partyservice-mahler.de/

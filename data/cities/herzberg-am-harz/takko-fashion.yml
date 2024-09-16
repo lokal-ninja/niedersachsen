@@ -1,11 +1,11 @@
 id: 246629814
-type: way
+type: node
 latitude: 51.65564
 longitude: 10.33623
 postcode: "37412"
 city: Herzberg am Harz
-street: "Hauptstraße"
-housenumber: 
+street: Hauptstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:00; Su off"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-15:00; Su off
 website: ""

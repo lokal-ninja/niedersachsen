@@ -4,8 +4,8 @@ latitude: 53.0321
 longitude: 8.54358
 postcode: "27777"
 city: Ganderkesee
-street: "Bergedorfer Straße"
-housenumber: 13
+street: Bergedorfer Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
-website: "https://www.action.com/de-de/laden/ganderkesee-bergedorfer-strabe/"
+opening_hours: Mo-Sa 09:00-20:00; Su off
+website: https://www.action.com/de-de/laden/ganderkesee-bergedorfer-strabe/

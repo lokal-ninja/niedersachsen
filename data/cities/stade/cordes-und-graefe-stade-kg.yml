@@ -1,11 +1,11 @@
 id: 31099255
-type: way
+type: node
 latitude: 53.57846
 longitude: 9.49729
 postcode: "21684"
 city: Stade
-street: "Gottlieb-Daimler-Straße"
-housenumber: 9
+street: Gottlieb-Daimler-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

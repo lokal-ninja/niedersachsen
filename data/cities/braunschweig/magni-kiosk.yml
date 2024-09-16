@@ -4,8 +4,9 @@ latitude: 52.26189
 longitude: 10.53156
 postcode: "38100"
 city: Braunschweig
-street: "Am Magnitor"
+street: Am Magnitor
 housenumber: 7a
-phone: "+49531 22520529"
-opening_hours: "Mo: 12:00-21:00; Di-Do 09:00-21:00; Fr 09:00-23:00; Sa 12:00-23:00; So 12:00-20:00"
-website: "https://ammagnikiosk.de/"
+phone: +49531 22520529
+opening_hours: 'Mo: 12:00-21:00; Di-Do 09:00-21:00; Fr 09:00-23:00; Sa 12:00-23:00;
+    So 12:00-20:00'
+website: https://ammagnikiosk.de/

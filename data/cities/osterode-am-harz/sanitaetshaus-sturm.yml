@@ -1,11 +1,11 @@
 id: 353631213
-type: way
+type: node
 latitude: 51.72657
 longitude: 10.25608
 postcode: "37520"
 city: Osterode am Harz
-street: "Berliner Straße"
-housenumber: 1
+street: Berliner Straße
+housenumber: "1"
 phone: "+49552250950"
-opening_hours: "Mo-Fr 08:00-13:00, 14:00-18:00; Sa 09:00-12:00"
-website: "http://www.sturm-sanitaetshaus.de/"
+opening_hours: Mo-Fr 08:00-13:00, 14:00-18:00; Sa 09:00-12:00
+website: http://www.sturm-sanitaetshaus.de/

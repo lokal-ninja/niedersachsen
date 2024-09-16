@@ -4,8 +4,9 @@ latitude: 52.42882
 longitude: 9.72372
 postcode: "30851"
 city: Langenhagen
-street: "Riedweg"
-housenumber: 2
-phone: "49 511 70 818 338"
-opening_hours: "Mo 08:00-19:00; Tu 08:00-13:00; We 10:00-19:00; Th 11:30-19:00; Fr 08:00-16:00"
-website: "https://www.sandrabärhaareundmehr.de/"
+street: Riedweg
+housenumber: "2"
+phone: 49 511 70 818 338
+opening_hours: Mo 08:00-19:00; Tu 08:00-13:00; We 10:00-19:00; Th 11:30-19:00; Fr
+    08:00-16:00
+website: https://www.sandrabärhaareundmehr.de/

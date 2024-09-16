@@ -4,8 +4,8 @@ latitude: 53.24862
 longitude: 10.41114
 postcode: "21335"
 city: Lüneburg
-street: "Am Berge"
-housenumber: 26
-phone: "+49 4131 995477"
-opening_hours: "PH,Su off; Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "www.schokopraline.de"
+street: Am Berge
+housenumber: "26"
+phone: +49 4131 995477
+opening_hours: PH,Su off; Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: www.schokopraline.de

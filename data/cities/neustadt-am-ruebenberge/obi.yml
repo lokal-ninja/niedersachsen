@@ -1,11 +1,11 @@
 id: 98231187
-type: way
+type: node
 latitude: 52.51254
 longitude: 9.47828
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Gerhard-Mercator-Straße"
-housenumber: 2
-phone: "+49 5032 95460"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.obi.de/baumarkt/neustadt-am-ruebenberge/?wt_mc=port.de424_Neustadt+a.+R%C3%BCbenberge..."
+street: Gerhard-Mercator-Straße
+housenumber: "2"
+phone: +49 5032 95460
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.obi.de/baumarkt/neustadt-am-ruebenberge/?wt_mc=port.de424_Neustadt+a.+R%C3%BCbenberge...

@@ -1,11 +1,11 @@
 id: 700592391
-type: way
+type: node
 latitude: 52.95195
 longitude: 8.04243
 postcode: "49681"
 city: Garrel
-street: "Hinterm Esch"
-housenumber: 5
+street: Hinterm Esch
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

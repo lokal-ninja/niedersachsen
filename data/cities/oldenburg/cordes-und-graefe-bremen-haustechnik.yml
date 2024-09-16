@@ -1,11 +1,11 @@
 id: 123593215
-type: way
+type: node
 latitude: 53.16342
 longitude: 8.25123
 postcode: "26123"
 city: Oldenburg
-street: "Donnerschweer Straße"
-housenumber: 400
+street: Donnerschweer Straße
+housenumber: "400"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-13:00"
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-13:00
 website: ""

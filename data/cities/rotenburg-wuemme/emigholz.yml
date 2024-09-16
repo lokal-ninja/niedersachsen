@@ -1,11 +1,11 @@
 id: 194671772
-type: way
+type: node
 latitude: 53.12344
 longitude: 9.35573
 postcode: "27356"
 city: Rotenburg (Wümme)
-street: "Ernst-Rinck-Straße"
-housenumber: 1
-phone: "+49 4261 93980"
+street: Ernst-Rinck-Straße
+housenumber: "1"
+phone: +49 4261 93980
 opening_hours: ""
 website: ""

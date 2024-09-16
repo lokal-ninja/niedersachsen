@@ -4,8 +4,8 @@ latitude: 53.30147
 longitude: 9.95957
 postcode: "21266"
 city: Jesteburg
-street: "Schützenstraße"
-housenumber: 47
-phone: "+49 4183 984980"
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.famila-nordost.de"
+street: Schützenstraße
+housenumber: "47"
+phone: +49 4183 984980
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.famila-nordost.de

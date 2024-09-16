@@ -4,8 +4,8 @@ latitude: 53.40062
 longitude: 7.60449
 postcode: "26629"
 city: Großefehn
-street: "Postweg"
-housenumber: 30
+street: Postweg
+housenumber: "30"
 phone: "+494943201307"
-opening_hours: "Mo-Sa 09:00-13:00; Mo-Tu 14:30-18:00; Th-Fr 14:30-18:00"
-website: "https://optik-rebel.de/"
+opening_hours: Mo-Sa 09:00-13:00; Mo-Tu 14:30-18:00; Th-Fr 14:30-18:00
+website: https://optik-rebel.de/

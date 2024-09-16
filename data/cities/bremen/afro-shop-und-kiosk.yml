@@ -1,11 +1,11 @@
 id: 163419130
-type: way
+type: node
 latitude: 53.06532
 longitude: 8.87783
 postcode: "28207"
 city: Bremen
-street: "Hastedter Heerstraße"
-housenumber: 383
+street: Hastedter Heerstraße
+housenumber: "383"
 phone: ""
 opening_hours: ""
 website: ""

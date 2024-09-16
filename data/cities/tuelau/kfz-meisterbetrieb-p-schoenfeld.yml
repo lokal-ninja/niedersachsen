@@ -1,11 +1,11 @@
 id: 165330884
-type: way
+type: node
 latitude: 52.58779
 longitude: 10.87532
 postcode: "38474"
 city: Tülau
-street: "Im Häg"
-housenumber: 31
+street: Im Häg
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

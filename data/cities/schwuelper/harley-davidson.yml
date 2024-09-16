@@ -1,11 +1,11 @@
 id: 123042096
-type: way
+type: node
 latitude: 52.32586
 longitude: 10.47434
 postcode: "38179"
 city: Schwülper
-street: "Waller See"
-housenumber: 2
+street: Waller See
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.harley-bs.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.harley-bs.de/

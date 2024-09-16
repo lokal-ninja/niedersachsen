@@ -4,8 +4,8 @@ latitude: 53.28112
 longitude: 9.71023
 postcode: "21255"
 city: Tostedt
-street: "Unter den Linden"
-housenumber: 10
-phone: "+49 4182 5650"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:30; Sa 09:00-13:00"
-website: "https://www.wiese-optik.de/"
+street: Unter den Linden
+housenumber: "10"
+phone: +49 4182 5650
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:30; Sa 09:00-13:00
+website: https://www.wiese-optik.de/

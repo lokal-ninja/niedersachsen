@@ -1,11 +1,11 @@
 id: 976724268
-type: way
+type: node
 latitude: 52.8128
 longitude: 8.05884
 postcode: "49692"
 city: Cappeln (Oldenburg)
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: "+4944712101"
-opening_hours: "Mo-Th 07:30-12:30,13:30-17:00; Fr 07:30-12:30,13:30-16:00"
-website: "https://www.kruse-sevelten.de/"
+opening_hours: Mo-Th 07:30-12:30,13:30-17:00; Fr 07:30-12:30,13:30-16:00
+website: https://www.kruse-sevelten.de/

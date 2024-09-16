@@ -1,11 +1,11 @@
 id: 444021798
-type: way
+type: node
 latitude: 51.94879
 longitude: 10.54103
 postcode: "38690"
 city: Goslar
-street: "Okerstraße"
-housenumber: 45
-phone: "+49 5324 7869060"
+street: Okerstraße
+housenumber: "45"
+phone: +49 5324 7869060
 opening_hours: ""
-website: "www.arz-goslar.de"
+website: www.arz-goslar.de

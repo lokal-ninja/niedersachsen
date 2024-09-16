@@ -1,11 +1,11 @@
 id: 48612854
-type: way
+type: node
 latitude: 51.55417
 longitude: 9.89514
 postcode: "37079"
 city: Göttingen
-street: "Rudolf-Wissell-Straße"
-housenumber: 9
+street: Rudolf-Wissell-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

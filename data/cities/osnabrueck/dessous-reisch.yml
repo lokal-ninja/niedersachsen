@@ -4,8 +4,8 @@ latitude: 52.26079
 longitude: 8.0565
 postcode: "49082"
 city: Osnabrück
-street: "Iburger Straße"
-housenumber: 67
-phone: "+49 541 18550358"
-opening_hours: "nach Vereinbarung"
-website: "https://www.dessousreisch.de/"
+street: Iburger Straße
+housenumber: "67"
+phone: +49 541 18550358
+opening_hours: '"nach Vereinbarung"'
+website: https://www.dessousreisch.de/

@@ -1,11 +1,11 @@
 id: 250270827
-type: way
+type: node
 latitude: 52.93936
 longitude: 8.37417
 postcode: "27801"
 city: Dötlingen
-street: "Walschenkampsweg"
-housenumber: 3
+street: Walschenkampsweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://www.doetlinger-spargel.de/"
+opening_hours: Mo-Su 08:00-18:00
+website: https://www.doetlinger-spargel.de/

@@ -1,11 +1,11 @@
 id: 585182904
-type: way
+type: node
 latitude: 52.98796
 longitude: 9.86142
 postcode: "29614"
 city: Soltau
-street: "Lüneburger Straße"
-housenumber: 97
-phone: "+49 5191 98680"
-opening_hours: "Mo-Sa 07:30-21:00; PH Off"
-website: "https://www.edeka-ehlers.de/"
+street: Lüneburger Straße
+housenumber: "97"
+phone: +49 5191 98680
+opening_hours: Mo-Sa 07:30-21:00; PH Off
+website: https://www.edeka-ehlers.de/

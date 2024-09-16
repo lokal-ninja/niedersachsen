@@ -1,11 +1,11 @@
 id: 36272464
-type: way
+type: node
 latitude: 53.55894
 longitude: 8.56475
 postcode: "27568"
 city: Bremerhaven
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH closed"
+opening_hours: Mo-Sa 07:00-21:00; PH closed
 website: ""

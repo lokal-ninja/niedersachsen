@@ -1,11 +1,11 @@
 id: 292110880
-type: way
+type: node
 latitude: 51.89605
 longitude: 10.54369
 postcode: "38667"
 city: Bad Harzburg
-street: "Breite Straße"
-housenumber: 65
+street: Breite Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://fleischerei-windmann.de"
+website: https://fleischerei-windmann.de

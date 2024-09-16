@@ -1,11 +1,11 @@
 id: 169541140
-type: way
+type: node
 latitude: 53.18375
 longitude: 8.19925
 postcode: "26127"
 city: Oldenburg
-street: "Großmarktstraße"
-housenumber: 6
+street: Großmarktstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

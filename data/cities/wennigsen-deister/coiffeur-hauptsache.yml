@@ -1,11 +1,11 @@
 id: 151522607
-type: way
+type: node
 latitude: 52.27535
 longitude: 9.56921
 postcode: "30974"
 city: Wennigsen (Deister)
-street: "Neustadtstraße"
-housenumber: 25
-phone: "+49 5103 705570"
-opening_hours: "Tu-Fr 09:00-18:30, Sa 08:00-14:00"
+street: Neustadtstraße
+housenumber: "25"
+phone: +49 5103 705570
+opening_hours: Tu-Fr 09:00-18:30, Sa 08:00-14:00
 website: ""

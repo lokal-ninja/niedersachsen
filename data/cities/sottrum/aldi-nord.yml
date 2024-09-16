@@ -1,11 +1,11 @@
 id: 192898092
-type: way
+type: node
 latitude: 53.11603
 longitude: 9.23335
 postcode: "27367"
 city: Sottrum
-street: "Große Straße"
-housenumber: 36
+street: Große Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

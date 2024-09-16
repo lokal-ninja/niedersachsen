@@ -1,11 +1,11 @@
 id: 1086031567
-type: way
+type: node
 latitude: 52.31704
 longitude: 9.7178
 postcode: "30966"
 city: Hemmingen
-street: "Lise-Meitner-Straße"
-housenumber: 1
-phone: "+49 511 420320"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "https://www.rindt-gaida.de/"
+street: Lise-Meitner-Straße
+housenumber: "1"
+phone: +49 511 420320
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: https://www.rindt-gaida.de/

@@ -4,8 +4,8 @@ latitude: 52.45395
 longitude: 9.1508
 postcode: "31547"
 city: Rehburg-Loccum
-street: "Steinweg"
-housenumber: 1
-phone: "+49 5766 216"
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:30,14:30-18:00; We 08:00-12:30; Sa 08:00-13:00"
+street: Steinweg
+housenumber: "1"
+phone: +49 5766 216
+opening_hours: Mo,Tu,Th,Fr 08:00-12:30,14:30-18:00; We 08:00-12:30; Sa 08:00-13:00
 website: ""

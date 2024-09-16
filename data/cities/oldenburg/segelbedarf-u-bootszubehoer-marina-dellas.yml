@@ -4,8 +4,8 @@ latitude: 53.15074
 longitude: 8.21141
 postcode: "26121"
 city: Oldenburg
-street: "Weskampstraße"
-housenumber: 10
-phone: "+49 441 3617232"
-opening_hours: "Mo-Fr 15:00-19:00"
-website: "https://www.dellas.de"
+street: Weskampstraße
+housenumber: "10"
+phone: +49 441 3617232
+opening_hours: Mo-Fr 15:00-19:00
+website: https://www.dellas.de

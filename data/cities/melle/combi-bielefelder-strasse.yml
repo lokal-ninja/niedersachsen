@@ -1,11 +1,11 @@
 id: 242628778
-type: way
+type: node
 latitude: 52.13592
 longitude: 8.39053
 postcode: "49326"
 city: Melle
-street: "Bielefelder Straße"
-housenumber: 13
+street: Bielefelder Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

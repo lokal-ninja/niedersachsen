@@ -4,8 +4,8 @@ latitude: 52.38485
 longitude: 9.75272
 postcode: "30161"
 city: Hannover
-street: "Bödeckerstaße"
-housenumber: 60
-phone: "+49 511 515133-0"
+street: Bödeckerstaße
+housenumber: "60"
+phone: +49 511 515133-0
 opening_hours: ""
-website: "https://www.ciphron.de"
+website: https://www.ciphron.de

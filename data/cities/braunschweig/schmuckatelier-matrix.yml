@@ -4,8 +4,8 @@ latitude: 52.2618
 longitude: 10.52885
 postcode: "38100"
 city: Braunschweig
-street: "Schloßstraße"
-housenumber: 8
-phone: "+49 531 6183536"
-opening_hours: "We-Fr 10:30-18:00; Sa 10:30-15:00"
-website: "https://www.schmuckatelier-matrix.de/"
+street: Schloßstraße
+housenumber: "8"
+phone: +49 531 6183536
+opening_hours: We-Fr 10:30-18:00; Sa 10:30-15:00
+website: https://www.schmuckatelier-matrix.de/

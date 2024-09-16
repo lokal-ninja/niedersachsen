@@ -1,11 +1,11 @@
 id: 200302693
-type: way
+type: node
 latitude: 52.29316
 longitude: 8.03278
 postcode: "49090"
 city: Osnabrück
-street: "Mühleneschweg"
-housenumber: 9
-phone: "+49 541 685562-0"
-opening_hours: "Mo-Th 07:45-16:45; Fr 07:45-15:15; Sa 09:00-12:00"
-website: "http://www.vw-becker.de/"
+street: Mühleneschweg
+housenumber: "9"
+phone: +49 541 685562-0
+opening_hours: Mo-Th 07:45-16:45; Fr 07:45-15:15; Sa 09:00-12:00
+website: http://www.vw-becker.de/

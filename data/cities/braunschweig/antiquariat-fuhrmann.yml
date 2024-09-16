@@ -1,11 +1,11 @@
 id: 243689994
-type: way
+type: node
 latitude: 52.26491
 longitude: 10.524
 postcode: "38100"
 city: Braunschweig
-street: "Burgplatz"
-housenumber: 4
-phone: "+49 531 14870"
-opening_hours: "Th-Sa 12:00-17:00"
-website: "http://antiquariat-fuhrmann.de/index.htm"
+street: Burgplatz
+housenumber: "4"
+phone: +49 531 14870
+opening_hours: Th-Sa 12:00-17:00
+website: http://antiquariat-fuhrmann.de/index.htm

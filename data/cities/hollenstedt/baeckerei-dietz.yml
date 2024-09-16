@@ -4,8 +4,8 @@ latitude: 53.36644
 longitude: 9.71388
 postcode: "21279"
 city: Hollenstedt
-street: "Hauptstraße"
-housenumber: 5
-phone: "+49 4165 2217770"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00"
-website: "https://www.baecker-dietz.de/"
+street: Hauptstraße
+housenumber: "5"
+phone: +49 4165 2217770
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00
+website: https://www.baecker-dietz.de/

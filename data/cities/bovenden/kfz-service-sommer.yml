@@ -1,11 +1,11 @@
 id: 540011485
-type: way
+type: node
 latitude: 51.5834
 longitude: 9.92686
 postcode: "37120"
 city: Bovenden
-street: "Sonnenberg"
-housenumber: 2
+street: Sonnenberg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; PH off"
+opening_hours: Mo-Fr 07:30-17:30; PH off
 website: ""

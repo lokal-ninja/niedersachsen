@@ -1,11 +1,11 @@
 id: 175655929
-type: way
+type: node
 latitude: 52.68574
 longitude: 8.81147
 postcode: "27232"
 city: Sulingen
-street: "Bismarckstraße"
-housenumber: 2
+street: Bismarckstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
+opening_hours: Mo-Sa 08:00-20:00; Su off
 website: ""

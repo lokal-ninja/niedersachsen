@@ -1,11 +1,11 @@
 id: 174795066
-type: way
+type: node
 latitude: 52.44606
 longitude: 9.60935
 postcode: "30827"
 city: Garbsen
-street: "Osterwalder Straße"
-housenumber: 22
+street: Osterwalder Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

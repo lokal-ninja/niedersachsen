@@ -1,11 +1,11 @@
 id: 42722817
-type: way
+type: node
 latitude: 53.03456
 longitude: 8.6507
 postcode: "27755"
 city: Delmenhorst
-street: "Hasporter Damm"
-housenumber: 155
-phone: "+49 4221 689550"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.kia-engelbart-delmenhorst.de/"
+street: Hasporter Damm
+housenumber: "155"
+phone: +49 4221 689550
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.kia-engelbart-delmenhorst.de/

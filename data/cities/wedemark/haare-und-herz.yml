@@ -1,11 +1,11 @@
 id: 189725530
-type: way
+type: node
 latitude: 52.50537
 longitude: 9.62907
 postcode: "30900"
 city: Wedemark
-street: "Altes Dorf"
-housenumber: 7
-phone: "+49 5131 909 91 27"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.haare-und-herz.de/"
+street: Altes Dorf
+housenumber: "7"
+phone: +49 5131 909 91 27
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.haare-und-herz.de/

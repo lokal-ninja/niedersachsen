@@ -1,11 +1,11 @@
 id: 213120471
-type: way
+type: node
 latitude: 53.38732
 longitude: 8.27697
 postcode: "26349"
 city: Jade
-street: "Kirchenstraße"
-housenumber: 8
-phone: "+49 4455 592"
-opening_hours: "Mo-Fr 06:00-12:00, 14:00-18:00; Sa 06:00-13:00"
-website: "https://www.nahundgut-gollenstede.de/"
+street: Kirchenstraße
+housenumber: "8"
+phone: +49 4455 592
+opening_hours: Mo-Fr 06:00-12:00, 14:00-18:00; Sa 06:00-13:00
+website: https://www.nahundgut-gollenstede.de/

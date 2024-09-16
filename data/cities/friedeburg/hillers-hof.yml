@@ -1,11 +1,11 @@
 id: 937058639
-type: way
+type: node
 latitude: 53.45495
 longitude: 7.9439
 postcode: "26446"
 city: Friedeburg
-street: "Kirchstraße"
-housenumber: 20
+street: Kirchstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

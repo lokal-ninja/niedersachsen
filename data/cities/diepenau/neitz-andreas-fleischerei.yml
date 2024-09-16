@@ -4,8 +4,9 @@ latitude: 52.42416
 longitude: 8.73956
 postcode: "31603"
 city: Diepenau
-street: "Bahnhofstraße"
-housenumber: 6
-phone: "+49 5775 - 3 16"
-opening_hours: "Tu,Th,Fr 08:00-12:00,14:30-18:00; We 08:00-13:00; Sa 07:30-13:00; Mo off"
+street: Bahnhofstraße
+housenumber: "6"
+phone: +49 5775 - 3 16
+opening_hours: Tu,Th,Fr 08:00-12:00,14:30-18:00; We 08:00-13:00; Sa 07:30-13:00; Mo
+    off
 website: ""

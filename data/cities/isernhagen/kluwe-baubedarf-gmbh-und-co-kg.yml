@@ -1,11 +1,11 @@
 id: 95383895
-type: way
+type: node
 latitude: 52.427
 longitude: 9.84098
 postcode: "30916"
 city: Isernhagen
-street: "Jacobistraße"
-housenumber: 1
+street: Jacobistraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://kluwe-baubedarf.de/"
+website: https://kluwe-baubedarf.de/

@@ -4,8 +4,8 @@ latitude: 52.24888
 longitude: 10.65327
 postcode: "38162"
 city: Cremlingen
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 5306 913974"
-opening_hours: "Mo,Tu,Th-Fr 09:00-13:00,14:30-18:00; We 09:00-13:00; Sa-Su off"
-website: "https://www.optikpress.de/"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 5306 913974
+opening_hours: Mo,Tu,Th-Fr 09:00-13:00,14:30-18:00; We 09:00-13:00; Sa-Su off
+website: https://www.optikpress.de/

@@ -4,8 +4,8 @@ latitude: 53.08643
 longitude: 8.77519
 postcode: "28217"
 city: Bremen
-street: "Stephanikirchenweide"
-housenumber: 19
+street: Stephanikirchenweide
+housenumber: "19"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

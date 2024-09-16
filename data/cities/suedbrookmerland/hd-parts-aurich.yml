@@ -1,11 +1,11 @@
 id: 1014166314
-type: way
+type: node
 latitude: 53.47839
 longitude: 7.38047
 postcode: "26624"
 city: Südbrookmerland
-street: "Ritzweg"
-housenumber: 2
+street: Ritzweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

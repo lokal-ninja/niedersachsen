@@ -4,8 +4,9 @@ latitude: 53.41424
 longitude: 7.22359
 postcode: "26759"
 city: Hinte
-street: "Am Schiefen Turm"
-housenumber: 39
+street: Am Schiefen Turm
+housenumber: "39"
 phone: ""
-opening_hours: "Oct-Apr: Mo-Fr 06:00-17:00; Sa,Su 07:00-11:00; May-Sep: Mo-Fr 06:00-17:00; May-Sep: Sa,Su 07:00-17:00"
+opening_hours: 'Oct-Apr: Mo-Fr 06:00-17:00; Sa,Su 07:00-11:00; May-Sep: Mo-Fr 06:00-17:00;
+    May-Sep: Sa,Su 07:00-17:00'
 website: ""

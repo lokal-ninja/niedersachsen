@@ -4,8 +4,8 @@ latitude: 52.40789
 longitude: 7.98096
 postcode: "49565"
 city: Bramsche
-street: "Am Markt"
-housenumber: 3
+street: Am Markt
+housenumber: "3"
 phone: "+49546161182"
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su 08:00-17:00"
-website: "https://www.baeckerei-justus.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su 08:00-17:00
+website: https://www.baeckerei-justus.de/

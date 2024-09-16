@@ -1,11 +1,11 @@
 id: 361259808
-type: way
+type: node
 latitude: 52.5463
 longitude: 10.18717
 postcode: "29358"
 city: Eicklingen
-street: "Schmolkamp"
-housenumber: 56
+street: Schmolkamp
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

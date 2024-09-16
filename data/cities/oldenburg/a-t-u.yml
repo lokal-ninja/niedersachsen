@@ -1,11 +1,11 @@
 id: 316410613
-type: way
+type: node
 latitude: 53.17242
 longitude: 8.2295
 postcode: "26125"
 city: Oldenburg
-street: "Wilhelmshavener Heerstraße"
-housenumber: 37
-phone: "+49 441 3049678"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
-website: "https://www.atu.de/pages/service/filialen/f_detail.html?lkz=DE&nr=541&campaign=maps"
+street: Wilhelmshavener Heerstraße
+housenumber: "37"
+phone: +49 441 3049678
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
+website: https://www.atu.de/pages/service/filialen/f_detail.html?lkz=DE&nr=541&campaign=maps

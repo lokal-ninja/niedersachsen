@@ -4,8 +4,8 @@ latitude: 53.27904
 longitude: 9.71442
 postcode: "21255"
 city: Tostedt
-street: "Bahnhofstraße"
-housenumber: 16
-phone: "+49 4182 8095560"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.carstop-tostedt.de"
+street: Bahnhofstraße
+housenumber: "16"
+phone: +49 4182 8095560
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.carstop-tostedt.de

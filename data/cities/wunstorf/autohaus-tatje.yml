@@ -4,8 +4,8 @@ latitude: 52.45098
 longitude: 9.35584
 postcode: "31515"
 city: Wunstorf
-street: "Im Sandbrinke"
-housenumber: 14
-phone: "+49 5033 8000"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-13:00"
-website: "https://www.autohaus-tatje.de/"
+street: Im Sandbrinke
+housenumber: "14"
+phone: +49 5033 8000
+opening_hours: Mo-Fr 07:00-18:00, Sa 09:00-13:00
+website: https://www.autohaus-tatje.de/

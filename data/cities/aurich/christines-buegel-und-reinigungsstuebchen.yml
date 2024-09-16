@@ -4,8 +4,9 @@ latitude: 53.47159
 longitude: 7.48298
 postcode: "26603"
 city: Aurich
-street: "Norderstraße"
-housenumber: 26
-phone: "+49 4941 9737964"
-opening_hours: "Mo,Th-Fr 09:00-13:00,15:00-18:00; Tu 09:00-13:00,16:00-18:00; Sa 09:00-13:00; PH,Su closed"
+street: Norderstraße
+housenumber: "26"
+phone: +49 4941 9737964
+opening_hours: Mo,Th-Fr 09:00-13:00,15:00-18:00; Tu 09:00-13:00,16:00-18:00; Sa 09:00-13:00;
+    PH,Su closed
 website: ""

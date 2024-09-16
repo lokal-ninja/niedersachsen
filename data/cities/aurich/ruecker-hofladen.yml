@@ -1,11 +1,11 @@
 id: 485551041
-type: way
+type: node
 latitude: 53.46726
 longitude: 7.51386
 postcode: "26605"
 city: Aurich
-street: "Egelser Straße"
-housenumber: 113
-phone: "+49 4941 1706115"
-opening_hours: "24/7"
-website: "https://www.molkerei-ruecker.de/werksverkauf/"
+street: Egelser Straße
+housenumber: "113"
+phone: +49 4941 1706115
+opening_hours: 24/7
+website: https://www.molkerei-ruecker.de/werksverkauf/

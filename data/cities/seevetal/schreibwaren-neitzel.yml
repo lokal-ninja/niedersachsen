@@ -1,11 +1,11 @@
 id: 110451496
-type: way
+type: node
 latitude: 53.38543
 longitude: 9.98232
 postcode: "21218"
 city: Seevetal
-street: "Kirchstraße"
-housenumber: 22
+street: Kirchstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

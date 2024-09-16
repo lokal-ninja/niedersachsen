@@ -4,8 +4,8 @@ latitude: 51.49969
 longitude: 9.60817
 postcode: "34346"
 city: Hann. Münden
-street: "Hauptstraße"
-housenumber: 28
-phone: "+49 5544 9996150"
-opening_hours: "Mo,Tu,Fr 06:00-12:00,15:00-18:00;We,Th,Sa 06:00-12:00;Su 08:00-10:00"
+street: Hauptstraße
+housenumber: "28"
+phone: +49 5544 9996150
+opening_hours: Mo,Tu,Fr 06:00-12:00,15:00-18:00;We,Th,Sa 06:00-12:00;Su 08:00-10:00
 website: ""

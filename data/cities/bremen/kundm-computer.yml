@@ -4,8 +4,8 @@ latitude: 53.04509
 longitude: 8.84723
 postcode: "28279"
 city: Bremen
-street: "Ernst-Buchholz-Straße"
-housenumber: 3
-phone: "+49 421 84991946"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.kmcomputer.de/km-computer-bremen-habenhausen"
+street: Ernst-Buchholz-Straße
+housenumber: "3"
+phone: +49 421 84991946
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.kmcomputer.de/km-computer-bremen-habenhausen

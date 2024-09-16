@@ -4,8 +4,8 @@ latitude: 52.43205
 longitude: 9.6879
 postcode: "30855"
 city: Langenhagen
-street: "Magdeburger Straße"
-housenumber: 15
-phone: "+49 1511 7255856"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:45-13:00"
-website: "https://autowerkstatt-langenhagen.de/"
+street: Magdeburger Straße
+housenumber: "15"
+phone: +49 1511 7255856
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:45-13:00
+website: https://autowerkstatt-langenhagen.de/

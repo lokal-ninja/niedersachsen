@@ -1,11 +1,11 @@
 id: 491452608
-type: way
+type: node
 latitude: 53.28011
 longitude: 7.57416
 postcode: "26835"
 city: Holtland
-street: "Königstraße"
-housenumber: 4
+street: Königstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

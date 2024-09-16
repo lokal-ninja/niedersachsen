@@ -4,8 +4,8 @@ latitude: 51.97004
 longitude: 9.76413
 postcode: "31073"
 city: Delligsen
-street: "Hartmannstraße"
-housenumber: 1
-phone: "+49 51817169926"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.js-nails.de/"
+street: Hartmannstraße
+housenumber: "1"
+phone: +49 51817169926
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.js-nails.de/

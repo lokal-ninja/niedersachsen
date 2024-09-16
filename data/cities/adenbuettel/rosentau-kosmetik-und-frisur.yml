@@ -4,8 +4,9 @@ latitude: 52.38079
 longitude: 10.45386
 postcode: "38528"
 city: Adenbüttel
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo, Tu 10:00-13:00, 14:00-17:30, We 10:00-13:00; Th, Fr 10:00-13:00, 14:00-17:30"
-website: "https://www.naturkosmetik-rosentau.de/"
+opening_hours: Mo, Tu 10:00-13:00, 14:00-17:30, We 10:00-13:00; Th, Fr 10:00-13:00,
+    14:00-17:30
+website: https://www.naturkosmetik-rosentau.de/

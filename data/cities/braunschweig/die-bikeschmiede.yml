@@ -1,11 +1,11 @@
 id: 46130368
-type: way
+type: node
 latitude: 52.28614
 longitude: 10.57437
 postcode: "38104"
 city: Braunschweig
-street: "Hungerkamp"
+street: Hungerkamp
 housenumber: 4d
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
 website: ""

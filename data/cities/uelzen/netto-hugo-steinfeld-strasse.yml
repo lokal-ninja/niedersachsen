@@ -1,11 +1,11 @@
 id: 160841758
-type: way
+type: node
 latitude: 52.99114
 longitude: 10.50512
 postcode: "29525"
 city: Uelzen
-street: "Hugo-Steinfeld-Straße"
-housenumber: 38
+street: Hugo-Steinfeld-Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto.de/

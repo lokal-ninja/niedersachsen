@@ -1,11 +1,11 @@
 id: 1266925048
-type: way
+type: node
 latitude: 52.67974
 longitude: 9.52738
 postcode: "29690"
 city: Gilten
-street: "Dorfstraße"
-housenumber: 6
+street: Dorfstraße
+housenumber: "6"
 phone: "+4915122828797"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://siemers-hof.com/"
+opening_hours: Mo-Su 08:00-20:00
+website: https://siemers-hof.com/

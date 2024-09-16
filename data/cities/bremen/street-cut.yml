@@ -4,8 +4,8 @@ latitude: 53.1078
 longitude: 8.85267
 postcode: "28359"
 city: Bremen
-street: "Bibliothekstraße"
-housenumber: 3
+street: Bibliothekstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa,Su,PH off
 website: ""

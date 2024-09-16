@@ -1,11 +1,11 @@
 id: 278039708
-type: way
+type: node
 latitude: 51.94104
 longitude: 10.12725
 postcode: "38723"
 city: Seesen
-street: "Schlackenstraße"
-housenumber: 18
+street: Schlackenstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

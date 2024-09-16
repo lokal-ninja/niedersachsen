@@ -4,8 +4,8 @@ latitude: 53.0763
 longitude: 8.81504
 postcode: "28203"
 city: Bremen
-street: "Contrescarpe"
-housenumber: 36
+street: Contrescarpe
+housenumber: "36"
 phone: "+4917643383096"
-opening_hours: "Th,Fr 15:00-19:00; Sa 12:00-16:00"
-website: "http://www.galerie-ohse.de/"
+opening_hours: Th,Fr 15:00-19:00; Sa 12:00-16:00
+website: http://www.galerie-ohse.de/

@@ -1,11 +1,11 @@
 id: 700594434
-type: way
+type: node
 latitude: 52.95475
 longitude: 8.04795
 postcode: "49681"
 city: Garrel
-street: "Einsteinstraße"
-housenumber: 27
+street: Einsteinstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

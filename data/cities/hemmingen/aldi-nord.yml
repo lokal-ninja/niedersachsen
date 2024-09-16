@@ -1,11 +1,11 @@
 id: 100510506
-type: way
+type: node
 latitude: 52.31452
 longitude: 9.7207
 postcode: "30966"
 city: Hemmingen
-street: "Alfred-Bentz-Straße"
-housenumber: 2
-phone: "+49 800 7234870"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Alfred-Bentz-Straße
+housenumber: "2"
+phone: +49 800 7234870
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

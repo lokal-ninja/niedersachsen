@@ -1,11 +1,11 @@
 id: 116021179
-type: way
+type: node
 latitude: 52.32139
 longitude: 7.22171
 postcode: "48465"
 city: Schüttorf
-street: "Markt"
-housenumber: 12
-phone: "+49 5923 2490"
-opening_hours: "Tu-Fr 09:00-12:30,14:00-18:00; Sa 08:30-13:00; Su,Mo off"
+street: Markt
+housenumber: "12"
+phone: +49 5923 2490
+opening_hours: Tu-Fr 09:00-12:30,14:00-18:00; Sa 08:30-13:00; Su,Mo off
 website: ""

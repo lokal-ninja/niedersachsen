@@ -4,8 +4,8 @@ latitude: 51.817
 longitude: 9.866
 postcode: "37574"
 city: Einbeck
-street: "Marktstraße"
-housenumber: 23
-phone: "+49 5561 938938"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-18:00"
-website: "https://www.tui.com/reisebuero/einbeck/marktstrasse-23/#local"
+street: Marktstraße
+housenumber: "23"
+phone: +49 5561 938938
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-18:00
+website: https://www.tui.com/reisebuero/einbeck/marktstrasse-23/#local

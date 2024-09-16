@@ -1,11 +1,11 @@
 id: 306827237
-type: way
+type: node
 latitude: 52.6789
 longitude: 9.90871
 postcode: "29308"
 city: Winsen (Aller)
-street: "Celler Straße"
-housenumber: 2
+street: Celler Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

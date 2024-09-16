@@ -4,8 +4,8 @@ latitude: 51.93613
 longitude: 10.32951
 postcode: "38685"
 city: Langelsheim
-street: "Ringstraße"
-housenumber: 36
-phone: "+49 5326 2632"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su off"
+street: Ringstraße
+housenumber: "36"
+phone: +49 5326 2632
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su off
 website: ""

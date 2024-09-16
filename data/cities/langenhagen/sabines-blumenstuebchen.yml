@@ -1,11 +1,11 @@
 id: 1069589236
-type: way
+type: node
 latitude: 52.4478
 longitude: 9.65264
 postcode: "30855"
 city: Langenhagen
-street: "Alt-Engelbostel"
-housenumber: 102
+street: Alt-Engelbostel
+housenumber: "102"
 phone: "+495117851139"
 opening_hours: ""
-website: "https://bine-blumen.de/"
+website: https://bine-blumen.de/

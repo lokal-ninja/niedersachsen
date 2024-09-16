@@ -1,11 +1,11 @@
 id: 140359811
-type: way
+type: node
 latitude: 53.74794
 longitude: 7.48095
 postcode: "26465"
 city: Langeoog
-street: "Barkhausenstraße"
-housenumber: 14
+street: Barkhausenstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-18:00; Su off"
-website: "https://www.buddelei.com/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-18:00; Su off
+website: https://www.buddelei.com/

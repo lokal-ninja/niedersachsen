@@ -4,8 +4,8 @@ latitude: 53.52917
 longitude: 8.59012
 postcode: "27570"
 city: Bremerhaven
-street: "Georgstraße"
-housenumber: 85
+street: Georgstraße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.autoglas-bremerhaven.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.autoglas-bremerhaven.de/

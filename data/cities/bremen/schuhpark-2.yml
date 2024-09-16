@@ -1,11 +1,11 @@
 id: 373751743
-type: way
+type: node
 latitude: 53.11031
 longitude: 8.74864
 postcode: ""
 city: Bremen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://schuhpark.de/"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://schuhpark.de/

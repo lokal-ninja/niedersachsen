@@ -1,11 +1,11 @@
 id: 176004553
-type: way
+type: node
 latitude: 51.72077
 longitude: 10.61559
 postcode: "38700"
 city: Braunlage
-street: "Bodestraße"
-housenumber: 14
+street: Bodestraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 189930458
-type: way
+type: node
 latitude: 52.50097
 longitude: 9.45647
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Wunstorfer Straße"
-housenumber: 28
+street: Wunstorfer Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

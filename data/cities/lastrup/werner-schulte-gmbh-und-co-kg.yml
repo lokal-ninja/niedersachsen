@@ -1,11 +1,11 @@
 id: 143026939
-type: way
+type: node
 latitude: 52.80217
 longitude: 7.88194
 postcode: "49688"
 city: Lastrup
-street: "Ruhrbachstraße"
-housenumber: 8
+street: Ruhrbachstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-13:00; Th 07:00-16:00"
+opening_hours: Mo-Fr 07:00-13:00; Th 07:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.37035
 longitude: 9.72746
 postcode: "30169"
 city: Hannover
-street: "Calenberger Straße"
-housenumber: 14
+street: Calenberger Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Th 11:00-18:00; Fr 11:00-16:00; Sa 10:00-14:00"
-website: "https://www.mucksundmehr.de/"
+opening_hours: Tu-Th 11:00-18:00; Fr 11:00-16:00; Sa 10:00-14:00
+website: https://www.mucksundmehr.de/

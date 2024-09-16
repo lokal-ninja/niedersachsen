@@ -1,11 +1,11 @@
 id: 336708680
-type: way
+type: node
 latitude: 52.31827
 longitude: 9.78753
 postcode: "30880"
 city: Laatzen
-street: "Hildesheimer Straße"
-housenumber: 34
+street: Hildesheimer Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

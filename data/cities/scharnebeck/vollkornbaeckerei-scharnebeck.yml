@@ -4,8 +4,8 @@ latitude: 53.29082
 longitude: 10.50524
 postcode: "21379"
 city: Scharnebeck
-street: "Hauptstraße"
-housenumber: 24
-phone: "+49 4136 8848"
-opening_hours: "Mo-Fr 07:30-12:30,15:00-18:00; Sa 07:30-12:30"
-website: "http://vollkornbaeckerei-scharnebeck.de/"
+street: Hauptstraße
+housenumber: "24"
+phone: +49 4136 8848
+opening_hours: Mo-Fr 07:30-12:30,15:00-18:00; Sa 07:30-12:30
+website: http://vollkornbaeckerei-scharnebeck.de/

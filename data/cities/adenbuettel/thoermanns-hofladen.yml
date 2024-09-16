@@ -1,11 +1,11 @@
 id: 540063563
-type: way
+type: node
 latitude: 52.38494
 longitude: 10.45284
 postcode: "38528"
 city: Adenbüttel
-street: "Gifhorner Straße"
-housenumber: 17
-phone: "+49 5304 911604"
-opening_hours: "Tu-Fr 09:00-13:00; Sa 08:00-13:00; We-Fr 15:00-18:00"
-website: "http://www.hofladen-adenbuettel.de/"
+street: Gifhorner Straße
+housenumber: "17"
+phone: +49 5304 911604
+opening_hours: Tu-Fr 09:00-13:00; Sa 08:00-13:00; We-Fr 15:00-18:00
+website: http://www.hofladen-adenbuettel.de/

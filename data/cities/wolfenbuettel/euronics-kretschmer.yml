@@ -4,8 +4,8 @@ latitude: 52.17224
 longitude: 10.516
 postcode: "38304"
 city: Wolfenbüttel
-street: "Hauptstraße"
-housenumber: 36
+street: Hauptstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-13:00;Su off;PH off"
-website: "https://www.euronics.de/wolfenbuettel-kretschmer"
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-13:00;Su off;PH off
+website: https://www.euronics.de/wolfenbuettel-kretschmer

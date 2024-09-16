@@ -1,11 +1,11 @@
 id: 114314947
-type: way
+type: node
 latitude: 52.31893
 longitude: 7.22155
 postcode: "48465"
 city: Schüttorf
-street: "Hessenweg"
-housenumber: 13
-phone: "+49 5923 2223"
-opening_hours: "Tu,We,Fr 08:30-18:00; Th 08:30-19:00; Sa 08:30-13:00; Su,Mo off"
+street: Hessenweg
+housenumber: "13"
+phone: +49 5923 2223
+opening_hours: Tu,We,Fr 08:30-18:00; Th 08:30-19:00; Sa 08:30-13:00; Su,Mo off
 website: ""

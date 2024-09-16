@@ -4,8 +4,8 @@ latitude: 52.32118
 longitude: 9.20492
 postcode: "31655"
 city: Stadthagen
-street: "Obernstraße"
-housenumber: 27
-phone: "+49 5721 4778"
-opening_hours: "Mo-Fr 08:30-13:00,14:30-18:00, Sa 09:00-13:00, We 08:30-13:00"
-website: "https://www.sanitaetshaus-orthopaedie.de"
+street: Obernstraße
+housenumber: "27"
+phone: +49 5721 4778
+opening_hours: Mo-Fr 08:30-13:00,14:30-18:00, Sa 09:00-13:00, We 08:30-13:00
+website: https://www.sanitaetshaus-orthopaedie.de

@@ -1,11 +1,11 @@
 id: 242242782
-type: way
+type: node
 latitude: 52.54997
 longitude: 10.70929
 postcode: "38524"
 city: Sassenburg
-street: "Bromer Straße"
-housenumber: 38
+street: Bromer Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

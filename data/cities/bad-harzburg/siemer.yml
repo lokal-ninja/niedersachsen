@@ -1,11 +1,11 @@
 id: 289506930
-type: way
+type: node
 latitude: 51.88452
 longitude: 10.5725
 postcode: "38667"
 city: Bad Harzburg
-street: "Ilsenburger Straße"
-housenumber: 42
-phone: "+49 39421 74101"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 06:30-11:30; Su 07:30-10:30"
-website: "https://www.backhaus-siemer.de/"
+street: Ilsenburger Straße
+housenumber: "42"
+phone: +49 39421 74101
+opening_hours: Mo-Fr 06:30-17:00; Sa 06:30-11:30; Su 07:30-10:30
+website: https://www.backhaus-siemer.de/

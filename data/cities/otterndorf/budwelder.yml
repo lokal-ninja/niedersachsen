@@ -4,8 +4,8 @@ latitude: 53.80998
 longitude: 8.89463
 postcode: "21762"
 city: Otterndorf
-street: "Große Ortstraße"
-housenumber: 37
-phone: "+49 4721 396902"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.bugwelder.com/"
+street: Große Ortstraße
+housenumber: "37"
+phone: +49 4721 396902
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.bugwelder.com/

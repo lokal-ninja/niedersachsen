@@ -1,11 +1,11 @@
 id: 35905021
-type: way
+type: node
 latitude: 52.30675
 longitude: 8.04775
 postcode: "49090"
 city: Osnabrück
-street: "Eberleplatz"
-housenumber: 1
+street: Eberleplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-12:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-12:00
 website: ""

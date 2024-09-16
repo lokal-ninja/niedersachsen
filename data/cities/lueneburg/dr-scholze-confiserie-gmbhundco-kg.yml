@@ -1,11 +1,11 @@
 id: 146718200
-type: way
+type: node
 latitude: 53.24676
 longitude: 10.46333
 postcode: "21337"
 city: Lüneburg
-street: "Zeppelinstraße"
-housenumber: 28
-phone: "+49 4131 87070"
-opening_hours: "Th 14:00-18:00; Fr 08:00-14:00"
-website: "http://drscholze.de"
+street: Zeppelinstraße
+housenumber: "28"
+phone: +49 4131 87070
+opening_hours: Th 14:00-18:00; Fr 08:00-14:00
+website: http://drscholze.de

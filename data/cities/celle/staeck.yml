@@ -1,11 +1,11 @@
 id: 138437295
-type: way
+type: node
 latitude: 52.6178
 longitude: 10.09346
 postcode: "29221"
 city: Celle
-street: "Blumlage"
-housenumber: 70
+street: Blumlage
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

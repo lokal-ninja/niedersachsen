@@ -4,8 +4,8 @@ latitude: 53.24892
 longitude: 10.41084
 postcode: "21335"
 city: Lüneburg
-street: "Am Berge"
-housenumber: 18
+street: Am Berge
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.rasierer-zentrale-lueneburg.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.rasierer-zentrale-lueneburg.de/

@@ -1,11 +1,11 @@
 id: 28966195
-type: way
+type: node
 latitude: 52.22184
 longitude: 10.99391
 postcode: "38350"
 city: Helmstedt
-street: "Elzweg"
-housenumber: 61
+street: Elzweg
+housenumber: "61"
 phone: ""
 opening_hours: ""
-website: "https://www.penny.de/"
+website: https://www.penny.de/

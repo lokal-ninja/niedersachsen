@@ -1,11 +1,11 @@
 id: 74360866
-type: way
+type: node
 latitude: 51.92417
 longitude: 10.41682
 postcode: "38644"
 city: Goslar
-street: "Bornhardtstraße"
-housenumber: 6
+street: Bornhardtstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.wentorf-schenkhut.de"
+website: https://www.wentorf-schenkhut.de

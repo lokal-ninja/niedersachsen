@@ -4,8 +4,8 @@ latitude: 52.34171
 longitude: 9.83648
 postcode: "30539"
 city: Hannover
-street: "Oheriedentrift"
-housenumber: 32
-phone: "+49 511 950 77 59"
-opening_hours: "Mo-Fr 06:00-16:00; Sa 06:00-11:00; Su 08:00-11:00"
+street: Oheriedentrift
+housenumber: "32"
+phone: +49 511 950 77 59
+opening_hours: Mo-Fr 06:00-16:00; Sa 06:00-11:00; Su 08:00-11:00
 website: ""

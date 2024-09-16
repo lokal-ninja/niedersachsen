@@ -1,11 +1,11 @@
 id: 221552431
-type: way
+type: node
 latitude: 52.84008
 longitude: 8.06885
 postcode: "49661"
 city: Cloppenburg
-street: "Max-Planck-Straße"
+street: Max-Planck-Straße
 housenumber: 3-5
-phone: "+49 4471 930055"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su,PH off"
-website: "https://www.hammer-heimtex.de/"
+phone: +49 4471 930055
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su,PH off
+website: https://www.hammer-heimtex.de/

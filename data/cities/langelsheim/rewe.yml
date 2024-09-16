@@ -1,11 +1,11 @@
 id: 78436049
-type: way
+type: node
 latitude: 51.93507
 longitude: 10.34461
 postcode: "38685"
 city: Langelsheim
-street: "Lange Straße"
-housenumber: 60
+street: Lange Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

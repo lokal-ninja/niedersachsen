@@ -4,8 +4,8 @@ latitude: 52.39999
 longitude: 9.82319
 postcode: "30655"
 city: Hannover
-street: "Schierholzstraße"
-housenumber: 59
+street: Schierholzstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.calenberger-backstube.de"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.calenberger-backstube.de

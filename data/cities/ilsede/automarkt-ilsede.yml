@@ -1,11 +1,11 @@
 id: 315749416
-type: way
+type: node
 latitude: 52.27303
 longitude: 10.22132
 postcode: "31241"
 city: Ilsede
-street: "Gewerbestraße"
-housenumber: 1
-phone: "+49 5172 945260"
+street: Gewerbestraße
+housenumber: "1"
+phone: +49 5172 945260
 opening_hours: ""
 website: ""

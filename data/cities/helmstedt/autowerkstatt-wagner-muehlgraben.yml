@@ -1,11 +1,11 @@
 id: 519217102
-type: way
+type: node
 latitude: 52.23686
 longitude: 10.99981
 postcode: "38350"
 city: Helmstedt
-street: "Mühlgraben"
-housenumber: 
+street: Mühlgraben
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

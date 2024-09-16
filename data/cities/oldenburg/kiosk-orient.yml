@@ -1,11 +1,11 @@
 id: 284676875
-type: way
+type: node
 latitude: 53.15913
 longitude: 8.24347
 postcode: "26125"
 city: Oldenburg
-street: "Großer Kuhlenweg"
-housenumber: 21
-phone: "+49 441 381346"
-opening_hours: "Mo-Fr 06:00-21:30; Sa 07:00-21:30; Su 09:30-21:30"
-website: "http://kiosk-orient.de"
+street: Großer Kuhlenweg
+housenumber: "21"
+phone: +49 441 381346
+opening_hours: Mo-Fr 06:00-21:30; Sa 07:00-21:30; Su 09:30-21:30
+website: http://kiosk-orient.de

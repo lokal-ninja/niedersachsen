@@ -1,11 +1,11 @@
 id: 415865525
-type: way
+type: node
 latitude: 52.60679
 longitude: 8.36142
 postcode: "49356"
 city: Diepholz
-street: "Carl-Schwarze-Straße"
-housenumber: 2
+street: Carl-Schwarze-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off
 website: ""

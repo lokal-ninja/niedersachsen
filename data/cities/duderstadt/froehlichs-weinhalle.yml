@@ -1,11 +1,11 @@
 id: 1090486248
-type: way
+type: node
 latitude: 51.5003
 longitude: 10.19586
 postcode: "37115"
 city: Duderstadt
-street: "Am Steinmecke"
-housenumber: 7
+street: Am Steinmecke
+housenumber: "7"
 phone: ""
-opening_hours: "Sa 10:00-14:00; PH off"
+opening_hours: Sa 10:00-14:00; PH off
 website: ""

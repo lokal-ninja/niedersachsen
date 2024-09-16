@@ -4,8 +4,8 @@ latitude: 53.24815
 longitude: 10.40581
 postcode: "21335"
 city: Lüneburg
-street: "Obere Schrangenstraße"
-housenumber: 3
-phone: "+49 4131 46664"
-opening_hours: "Mo off; Tu-Fr 11:00-18:00; Sa 10:00-16:00"
-website: "https://www.teas-lueneburg.de/"
+street: Obere Schrangenstraße
+housenumber: "3"
+phone: +49 4131 46664
+opening_hours: Mo off; Tu-Fr 11:00-18:00; Sa 10:00-16:00
+website: https://www.teas-lueneburg.de/

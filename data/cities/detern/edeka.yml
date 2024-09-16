@@ -1,11 +1,11 @@
 id: 193338235
-type: way
+type: node
 latitude: 53.2115
 longitude: 7.66417
 postcode: "26847"
 city: Detern
-street: "Gasteweg"
-housenumber: 1
-phone: "+49 4957 912013"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka-detern.de/"
+street: Gasteweg
+housenumber: "1"
+phone: +49 4957 912013
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka-detern.de/

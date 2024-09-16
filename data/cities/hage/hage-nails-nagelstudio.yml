@@ -1,11 +1,11 @@
 id: 83378923
-type: way
+type: node
 latitude: 53.60337
 longitude: 7.28732
 postcode: "26524"
 city: Hage
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 4931 9838723"
-opening_hours: "Mo,We-Fr 09:00-12:00, 15:00-18:00; Tu 09:00-12:00; Sa 09:00-13:00"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 4931 9838723
+opening_hours: Mo,We-Fr 09:00-12:00, 15:00-18:00; Tu 09:00-12:00; Sa 09:00-13:00
 website: ""

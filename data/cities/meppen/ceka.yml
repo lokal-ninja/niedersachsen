@@ -1,11 +1,11 @@
 id: 194962339
-type: way
+type: node
 latitude: 52.69298
 longitude: 7.29121
 postcode: "49716"
 city: Meppen
-street: "Hasestraße"
-housenumber: 8
+street: Hasestraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.ceka-kaufhaus.de/standorte/ceka-meppen/"
+website: https://www.ceka-kaufhaus.de/standorte/ceka-meppen/

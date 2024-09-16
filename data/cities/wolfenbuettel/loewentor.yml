@@ -1,11 +1,11 @@
 id: 28245112
-type: way
+type: node
 latitude: 52.162
 longitude: 10.53262
 postcode: "38300"
 city: Wolfenbüttel
-street: "Löwenstraße"
-housenumber: 1
+street: Löwenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

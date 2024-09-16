@@ -1,11 +1,11 @@
 id: 1286853244
-type: way
+type: node
 latitude: 52.83342
 longitude: 7.50557
 postcode: "49751"
 city: Sögel
-street: "Hümmlinger Ring"
-housenumber: 1
+street: Hümmlinger Ring
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-bartels.com/"
+website: https://www.autohaus-bartels.com/

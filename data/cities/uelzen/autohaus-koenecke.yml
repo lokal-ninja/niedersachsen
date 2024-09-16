@@ -1,11 +1,11 @@
 id: 219005720
-type: way
+type: node
 latitude: 52.96638
 longitude: 10.57504
 postcode: "29525"
 city: Uelzen
-street: "Tile-Hagemann-Straße"
-housenumber: 30
+street: Tile-Hagemann-Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

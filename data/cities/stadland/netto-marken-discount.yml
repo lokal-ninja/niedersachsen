@@ -1,11 +1,11 @@
 id: 268404086
-type: way
+type: node
 latitude: 53.39753
 longitude: 8.45235
 postcode: "26935"
 city: Stadland
-street: "Marktstraße"
+street: Marktstraße
 housenumber: 10B
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

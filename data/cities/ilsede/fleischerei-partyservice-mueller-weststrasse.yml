@@ -1,11 +1,11 @@
 id: 454478513
-type: way
+type: node
 latitude: 52.25447
 longitude: 10.24591
 postcode: "31246"
 city: Ilsede
-street: "Weststraße"
-housenumber: 8
-phone: "+49 5172 7378"
+street: Weststraße
+housenumber: "8"
+phone: +49 5172 7378
 opening_hours: ""
-website: "http://www.fleischerei-mueller.biz"
+website: http://www.fleischerei-mueller.biz

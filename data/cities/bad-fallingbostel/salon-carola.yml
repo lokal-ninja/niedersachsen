@@ -4,8 +4,8 @@ latitude: 52.86537
 longitude: 9.69755
 postcode: "29683"
 city: Bad Fallingbostel
-street: "Hindenburgstraße"
-housenumber: 2
+street: Hindenburgstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.salon-carola.eu/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.salon-carola.eu/

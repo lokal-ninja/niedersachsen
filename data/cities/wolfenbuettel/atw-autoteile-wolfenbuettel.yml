@@ -1,11 +1,11 @@
 id: 565151426
-type: way
+type: node
 latitude: 52.16177
 longitude: 10.52265
 postcode: "38304"
 city: Wolfenbüttel
-street: "Goslarsche Straße"
-housenumber: 18
+street: Goslarsche Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

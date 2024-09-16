@@ -1,11 +1,11 @@
 id: 389263438
-type: way
+type: node
 latitude: 52.39518
 longitude: 7.29373
 postcode: "48488"
 city: Emsbüren
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

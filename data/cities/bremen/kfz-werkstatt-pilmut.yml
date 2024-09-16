@@ -1,11 +1,11 @@
 id: 225953598
-type: way
+type: node
 latitude: 53.06154
 longitude: 8.87813
 postcode: "28207"
 city: Bremen
-street: "Quintschlag"
-housenumber: 91
+street: Quintschlag
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

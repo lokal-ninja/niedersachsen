@@ -4,8 +4,8 @@ latitude: 53.61409
 longitude: 9.30597
 postcode: "21709"
 city: Himmelpforten
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
-website: "https://www.buch-peschel.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00
+website: https://www.buch-peschel.de/

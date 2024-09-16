@@ -4,8 +4,8 @@ latitude: 53.36256
 longitude: 7.19906
 postcode: "26723"
 city: Emden
-street: "Hansastraße"
-housenumber: 18
+street: Hansastraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
-website: "http://www.zwickert.de"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
+website: http://www.zwickert.de

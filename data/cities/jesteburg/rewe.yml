@@ -1,11 +1,11 @@
 id: 289823175
-type: way
+type: node
 latitude: 53.30695
 longitude: 9.94518
 postcode: "21266"
 city: Jesteburg
-street: "Allerbeeksring"
-housenumber: 3
+street: Allerbeeksring
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite/jesteburg/540722/rewe-markt-allerbeeksring-3/"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/marktseite/jesteburg/540722/rewe-markt-allerbeeksring-3/

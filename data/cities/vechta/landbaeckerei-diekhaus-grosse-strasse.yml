@@ -4,8 +4,8 @@ latitude: 52.72996
 longitude: 8.28803
 postcode: "49377"
 city: Vechta
-street: "Große Straße"
-housenumber: 99
-phone: "+49 4441 9959142"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 07:30-12:00"
+street: Große Straße
+housenumber: "99"
+phone: +49 4441 9959142
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 07:30-12:00
 website: ""

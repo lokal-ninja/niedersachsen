@@ -4,8 +4,8 @@ latitude: 52.49892
 longitude: 10.54422
 postcode: "38518"
 city: Gifhorn
-street: "Hamburger Straße"
-housenumber: 73
+street: Hamburger Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

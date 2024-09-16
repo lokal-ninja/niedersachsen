@@ -4,8 +4,9 @@ latitude: 52.8437
 longitude: 9.34638
 postcode: "27308"
 city: Kirchlinteln
-street: "Steinfeld"
-housenumber: 9
-phone: "+49 4238 943750"
-opening_hours: "We 06:30-13:00; Mo-Tu, Fr 15:00-18:00; Th 15:00-18:00; Sa 07:00-13:00; Su 08:00-10:00"
-website: "http://www.dorfladen-otersen.de"
+street: Steinfeld
+housenumber: "9"
+phone: +49 4238 943750
+opening_hours: We 06:30-13:00; Mo-Tu, Fr 15:00-18:00; Th 15:00-18:00; Sa 07:00-13:00;
+    Su 08:00-10:00
+website: http://www.dorfladen-otersen.de

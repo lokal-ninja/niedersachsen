@@ -1,11 +1,11 @@
 id: 210869076
-type: way
+type: node
 latitude: 53.46583
 longitude: 8.63985
 postcode: "27612"
 city: Loxstedt
-street: "Bahnhofstraße"
-housenumber: 84
+street: Bahnhofstraße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

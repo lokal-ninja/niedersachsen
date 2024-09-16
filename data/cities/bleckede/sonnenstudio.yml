@@ -1,11 +1,11 @@
 id: 237680812
-type: way
+type: node
 latitude: 53.28783
 longitude: 10.72851
 postcode: "21354"
 city: Bleckede
-street: "Lüneburger Straße"
-housenumber: 31
+street: Lüneburger Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

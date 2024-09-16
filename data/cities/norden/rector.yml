@@ -4,8 +4,8 @@ latitude: 53.5956
 longitude: 7.20882
 postcode: "26506"
 city: Norden
-street: "Neuer Weg"
-housenumber: 10
+street: Neuer Weg
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.baecker-rector.de/norden"
+website: https://www.baecker-rector.de/norden

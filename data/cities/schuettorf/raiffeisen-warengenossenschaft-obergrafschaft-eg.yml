@@ -1,11 +1,11 @@
 id: 114380853
-type: way
+type: node
 latitude: 52.31782
 longitude: 7.22519
 postcode: "48465"
 city: Schüttorf
-street: "Ohner Straße"
-housenumber: 24
-phone: "+49 5923 5087"
+street: Ohner Straße
+housenumber: "24"
+phone: +49 5923 5087
 opening_hours: ""
-website: "https://www.raiffeisen-og.de"
+website: https://www.raiffeisen-og.de

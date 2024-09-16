@@ -1,11 +1,11 @@
 id: 409093137
-type: way
+type: node
 latitude: 51.53496
 longitude: 9.91574
 postcode: "37081"
 city: Göttingen
-street: "Groner Landstraße"
-housenumber: 59
+street: Groner Landstraße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

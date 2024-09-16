@@ -1,11 +1,11 @@
 id: 581820059
-type: way
+type: node
 latitude: 53.18271
 longitude: 8.06932
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Eva-Lessing-Straße"
-housenumber: 8
+street: Eva-Lessing-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:30; Sa 10:00-16:00"
+opening_hours: Tu-Fr 09:30-18:30; Sa 10:00-16:00
 website: ""

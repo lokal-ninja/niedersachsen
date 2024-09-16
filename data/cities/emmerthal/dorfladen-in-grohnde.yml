@@ -4,8 +4,8 @@ latitude: 52.01565
 longitude: 9.41723
 postcode: "31860"
 city: Emmerthal
-street: "Patweg"
-housenumber: 29
-phone: "+49 5155 2819310"
-opening_hours: "Mo-Sa 06:30-13:00; Mo-Tu 15:00-18:00; Th-Fr 15:00-18:00; Su 07:30-10:00"
-website: "https://dorfladen-in-grohnde.de/"
+street: Patweg
+housenumber: "29"
+phone: +49 5155 2819310
+opening_hours: Mo-Sa 06:30-13:00; Mo-Tu 15:00-18:00; Th-Fr 15:00-18:00; Su 07:30-10:00
+website: https://dorfladen-in-grohnde.de/

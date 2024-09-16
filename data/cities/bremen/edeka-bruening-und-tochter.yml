@@ -1,11 +1,11 @@
 id: 352632933
-type: way
+type: node
 latitude: 53.18716
 longitude: 8.63878
 postcode: "28755"
 city: Bremen
-street: "Borchshöher Straße"
-housenumber: 134
+street: Borchshöher Straße
+housenumber: "134"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

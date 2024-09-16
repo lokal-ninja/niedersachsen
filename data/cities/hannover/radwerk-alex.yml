@@ -4,8 +4,8 @@ latitude: 52.34206
 longitude: 9.76418
 postcode: "30519"
 city: Hannover
-street: "Fiedelerstraße"
-housenumber: 4
-phone: "0511 59109070"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; We 10:00-13:00"
-website: "https://www.radwerk-alex.de"
+street: Fiedelerstraße
+housenumber: "4"
+phone: 0511 59109070
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; We 10:00-13:00
+website: https://www.radwerk-alex.de

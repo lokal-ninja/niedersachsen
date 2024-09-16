@@ -4,8 +4,8 @@ latitude: 53.04795
 longitude: 8.8917
 postcode: "28309"
 city: Bremen
-street: "Marschstraße"
-housenumber: 2
-phone: "+49 421 451422"
-opening_hours: "Mo 07:00-13:00; Tu-Fr 07:00-13:00,15:00-18:00; Sa 07:00-12:00"
+street: Marschstraße
+housenumber: "2"
+phone: +49 421 451422
+opening_hours: Mo 07:00-13:00; Tu-Fr 07:00-13:00,15:00-18:00; Sa 07:00-12:00
 website: ""

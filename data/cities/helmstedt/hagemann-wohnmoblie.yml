@@ -1,11 +1,11 @@
 id: 1132386163
-type: way
+type: node
 latitude: 52.25292
 longitude: 10.98709
 postcode: "38350"
 city: Helmstedt
-street: "Steinbergstraße"
-housenumber: 11
+street: Steinbergstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

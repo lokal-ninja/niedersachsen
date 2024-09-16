@@ -1,11 +1,11 @@
 id: 396441551
-type: way
+type: node
 latitude: 51.512
 longitude: 9.95073
 postcode: "37083"
 city: Göttingen
-street: "Kiesseestraße"
-housenumber: 14
+street: Kiesseestraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

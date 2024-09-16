@@ -4,8 +4,8 @@ latitude: 52.89799
 longitude: 8.44124
 postcode: "27793"
 city: Wildeshausen
-street: "Zwischenbrücken"
-housenumber: 9
-phone: "04431-20 33"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.meiser-bohmhoff.de"
+street: Zwischenbrücken
+housenumber: "9"
+phone: 04431-20 33
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.meiser-bohmhoff.de

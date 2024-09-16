@@ -1,11 +1,11 @@
 id: 125018440
-type: way
+type: node
 latitude: 52.27217
 longitude: 8.06852
 postcode: "49084"
 city: Osnabrück
-street: "Franz-Lenz-Straße"
-housenumber: 16
-phone: "+49 541 76069-0"
+street: Franz-Lenz-Straße
+housenumber: "16"
+phone: +49 541 76069-0
 opening_hours: ""
-website: "https://www.walkenhorst-gruppe.de/"
+website: https://www.walkenhorst-gruppe.de/

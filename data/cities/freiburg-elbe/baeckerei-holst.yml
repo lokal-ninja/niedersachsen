@@ -1,11 +1,11 @@
 id: 327959590
-type: way
+type: node
 latitude: 53.82544
 longitude: 9.28522
 postcode: "21729"
 city: Freiburg (Elbe)
-street: "Hauptstraße"
-housenumber: 74
+street: Hauptstraße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

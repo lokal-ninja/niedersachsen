@@ -4,8 +4,8 @@ latitude: 53.07303
 longitude: 8.8088
 postcode: "28195"
 city: Bremen
-street: "Stavendamm"
-housenumber: 10
+street: Stavendamm
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Su 11:00-18:00"
-website: "http://perlerie.de/"
+opening_hours: Mo-Su 11:00-18:00
+website: http://perlerie.de/

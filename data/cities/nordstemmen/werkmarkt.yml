@@ -1,11 +1,11 @@
 id: 144775730
-type: way
+type: node
 latitude: 52.1592
 longitude: 9.78143
 postcode: "31171"
 city: Nordstemmen
-street: "Hauptstraße"
-housenumber: 34
-phone: "+49 5069 9070"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 8:30-13:00"
-website: "https://www.mueller-nordstemmen.de/"
+street: Hauptstraße
+housenumber: "34"
+phone: +49 5069 9070
+opening_hours: Mo-Fr 08:30-18:00; Sa 8:30-13:00
+website: https://www.mueller-nordstemmen.de/

@@ -1,11 +1,11 @@
 id: 376822508
-type: way
+type: node
 latitude: 52.43918
 longitude: 9.73838
 postcode: "30853"
 city: Langenhagen
-street: "Marktplatz"
-housenumber: 7
-phone: "+49 511 37083000"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Marktplatz
+housenumber: "7"
+phone: +49 511 37083000
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

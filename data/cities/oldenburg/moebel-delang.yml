@@ -1,11 +1,11 @@
 id: 188687517
-type: way
+type: node
 latitude: 53.1573
 longitude: 8.22328
 postcode: "26123"
 city: Oldenburg
-street: "Hochheider Weg"
-housenumber: 14
+street: Hochheider Weg
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,15:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-12:30,15:00-18:00; Sa 10:00-13:00
 website: ""

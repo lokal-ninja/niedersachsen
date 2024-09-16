@@ -1,11 +1,11 @@
 id: 291494373
-type: way
+type: node
 latitude: 52.31662
 longitude: 9.97246
 postcode: "31319"
 city: Sehnde
-street: "Bachstraße"
-housenumber: 9
+street: Bachstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

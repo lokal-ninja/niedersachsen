@@ -1,11 +1,11 @@
 id: 566158086
-type: way
+type: node
 latitude: 53.01766
 longitude: 8.35572
 postcode: "26209"
 city: Hatten
-street: "Dingsteder Straße"
-housenumber: 3
+street: Dingsteder Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

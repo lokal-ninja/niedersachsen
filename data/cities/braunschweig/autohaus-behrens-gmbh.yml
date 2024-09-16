@@ -1,11 +1,11 @@
 id: 38238719
-type: way
+type: node
 latitude: 52.2882
 longitude: 10.57246
 postcode: "38104"
 city: Braunschweig
-street: "Volkmaroder Straße"
-housenumber: 14
+street: Volkmaroder Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00"
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00
 website: ""

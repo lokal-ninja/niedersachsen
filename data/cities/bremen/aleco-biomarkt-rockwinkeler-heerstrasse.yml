@@ -1,11 +1,11 @@
 id: 238869769
-type: way
+type: node
 latitude: 53.0995
 longitude: 8.90311
 postcode: "28355"
 city: Bremen
-street: "Rockwinkeler Heerstraße"
-housenumber: 172
+street: Rockwinkeler Heerstraße
+housenumber: "172"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "http://www.alecobio.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: http://www.alecobio.de/

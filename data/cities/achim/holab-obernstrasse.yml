@@ -1,11 +1,11 @@
 id: 333438232
-type: way
+type: node
 latitude: 53.00766
 longitude: 9.04266
 postcode: "28832"
 city: Achim
-street: "Obernstraße"
+street: Obernstraße
 housenumber: 97/99
-phone: "+49 4202 8905"
-opening_hours: "Mo-Sa 08:00-20:00"
+phone: +49 4202 8905
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

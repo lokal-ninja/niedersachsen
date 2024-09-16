@@ -4,8 +4,8 @@ latitude: 52.31823
 longitude: 8.36121
 postcode: "49152"
 city: Bad Essen
-street: "Lindenstraße"
-housenumber: 126
-phone: "+49 5472 9796414"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-15:00"
-website: "https://www.baeckerei-schmidt.de/"
+street: Lindenstraße
+housenumber: "126"
+phone: +49 5472 9796414
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-15:00
+website: https://www.baeckerei-schmidt.de/

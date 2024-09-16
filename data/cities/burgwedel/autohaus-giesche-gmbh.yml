@@ -1,11 +1,11 @@
 id: 203737560
-type: way
+type: node
 latitude: 52.56533
 longitude: 9.85338
 postcode: "30938"
 city: Burgwedel
-street: "Celler Straße"
-housenumber: 13
-phone: "+49 513592990"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.ford-giesche-burgwedel.de/"
+street: Celler Straße
+housenumber: "13"
+phone: +49 513592990
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.ford-giesche-burgwedel.de/

@@ -1,11 +1,11 @@
 id: 325827870
-type: way
+type: node
 latitude: 53.77175
 longitude: 9.05751
 postcode: "21781"
 city: Cadenberge
-street: "Stader Straße"
-housenumber: 1
+street: Stader Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

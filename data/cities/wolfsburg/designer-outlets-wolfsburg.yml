@@ -1,11 +1,11 @@
 id: 115793464
-type: way
+type: node
 latitude: 52.42843
 longitude: 10.79163
 postcode: "38440"
 city: Wolfsburg
-street: "An der Vorburg"
-housenumber: 1
+street: An der Vorburg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

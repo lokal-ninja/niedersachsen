@@ -4,8 +4,8 @@ latitude: 53.69662
 longitude: 7.80899
 postcode: "26409"
 city: Wittmund
-street: "Schleusenstraße"
-housenumber: 9
-phone: "+49 4464 942701"
-opening_hours: "Mo-Su,PH 09:30-20:00"
-website: "https://www.janssens-fisch.de/"
+street: Schleusenstraße
+housenumber: "9"
+phone: +49 4464 942701
+opening_hours: Mo-Su,PH 09:30-20:00
+website: https://www.janssens-fisch.de/

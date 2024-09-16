@@ -4,8 +4,8 @@ latitude: 53.15491
 longitude: 8.21025
 postcode: "26121"
 city: Oldenburg
-street: "Alexanderstraße"
-housenumber: 100
-phone: "+49 441 77707867"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:30-13:00; Su,PH off"
-website: "http://www.kosmetik-bodyandface.de"
+street: Alexanderstraße
+housenumber: "100"
+phone: +49 441 77707867
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:30-13:00; Su,PH off
+website: http://www.kosmetik-bodyandface.de

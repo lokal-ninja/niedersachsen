@@ -1,11 +1,12 @@
 id: 169316202
-type: way
+type: node
 latitude: 53.39032
 longitude: 7.95285
 postcode: "26340"
 city: Zetel
-street: "Urwaldstraße"
-housenumber: 3
-phone: "+49 4452 918047"
-opening_hours: "Mo-Tu 09:00-12:00, 14:00-18:00; We 09:00-13:00; Th-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://stroje.bike/"
+street: Urwaldstraße
+housenumber: "3"
+phone: +49 4452 918047
+opening_hours: Mo-Tu 09:00-12:00, 14:00-18:00; We 09:00-13:00; Th-Fr 09:00-12:00,
+    14:00-18:00; Sa 09:00-13:00
+website: https://stroje.bike/

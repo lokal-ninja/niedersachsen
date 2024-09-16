@@ -4,8 +4,8 @@ latitude: 52.80496
 longitude: 9.13579
 postcode: "27318"
 city: Hoya
-street: "Lange Straße"
-housenumber: 65
-phone: "+49 4251 2800"
-opening_hours: "Mo-Fr 06:00-23:59; Sa-Su 07:00-23:59"
+street: Lange Straße
+housenumber: "65"
+phone: +49 4251 2800
+opening_hours: Mo-Fr 06:00-23:59; Sa-Su 07:00-23:59
 website: ""

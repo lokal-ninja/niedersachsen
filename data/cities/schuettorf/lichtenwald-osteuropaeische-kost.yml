@@ -1,11 +1,11 @@
 id: 646472661
-type: way
+type: node
 latitude: 52.32161
 longitude: 7.21985
 postcode: "48465"
 city: Schüttorf
-street: "Mauerstraße"
-housenumber: 60
+street: Mauerstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off
 website: ""

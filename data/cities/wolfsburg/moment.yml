@@ -4,8 +4,8 @@ latitude: 52.43192
 longitude: 10.79115
 postcode: "38440"
 city: Wolfsburg
-street: "Stadtbrücke"
-housenumber: 
+street: Stadtbrücke
+housenumber: ""
 phone: ""
-opening_hours: "10:00-18:00"
-website: "https://www.autostadt.de/shops/moment"
+opening_hours: 10:00-18:00
+website: https://www.autostadt.de/shops/moment

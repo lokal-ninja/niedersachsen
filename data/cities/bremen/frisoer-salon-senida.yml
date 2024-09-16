@@ -4,8 +4,8 @@ latitude: 53.05252
 longitude: 8.81774
 postcode: "28201"
 city: Bremen
-street: "Kornstraße"
-housenumber: 399
+street: Kornstraße
+housenumber: "399"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.senida-bremen.de"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.senida-bremen.de

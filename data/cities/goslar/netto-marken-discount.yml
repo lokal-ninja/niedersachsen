@@ -1,11 +1,11 @@
 id: 74533915
-type: way
+type: node
 latitude: 51.91964
 longitude: 10.41563
 postcode: "38640"
 city: Goslar
-street: "Hildesheimer Straße"
-housenumber: 35
+street: Hildesheimer Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

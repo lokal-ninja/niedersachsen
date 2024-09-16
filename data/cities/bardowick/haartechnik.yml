@@ -1,11 +1,11 @@
 id: 291917963
-type: way
+type: node
 latitude: 53.29812
 longitude: 10.39283
 postcode: "21357"
 city: Bardowick
-street: "Am Markt"
-housenumber: 1
-phone: "+49 4131 126 06"
-opening_hours: "Tu-Fr 08:00-19:00; Sa 08:00-14:00"
-website: "https://haartechnik.com/"
+street: Am Markt
+housenumber: "1"
+phone: +49 4131 126 06
+opening_hours: Tu-Fr 08:00-19:00; Sa 08:00-14:00
+website: https://haartechnik.com/

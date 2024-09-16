@@ -1,11 +1,11 @@
 id: 87900692
-type: way
+type: node
 latitude: 53.45797
 longitude: 7.49756
 postcode: "26603"
 city: Aurich
-street: "Raiffeisenstraße"
-housenumber: 18
+street: Raiffeisenstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 216433083
-type: way
+type: node
 latitude: 51.73435
 longitude: 10.26434
 postcode: "37520"
 city: Osterode am Harz
-street: "Hauptstraße"
-housenumber: 137
+street: Hauptstraße
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

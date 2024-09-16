@@ -1,11 +1,11 @@
 id: 275478554
-type: way
+type: node
 latitude: 51.59325
 longitude: 10.56195
 postcode: "37441"
 city: Bad Sachsa
-street: "Bahnhofstraße"
-housenumber: 
+street: Bahnhofstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 190904422
-type: way
+type: node
 latitude: 53.17039
 longitude: 8.62329
 postcode: "28757"
 city: Bremen
-street: "Reeder-Bischoff-Straße"
-housenumber: 38
+street: Reeder-Bischoff-Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
-website: "https://jeansroad-nord.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
+website: https://jeansroad-nord.de/

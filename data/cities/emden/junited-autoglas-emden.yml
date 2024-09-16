@@ -1,11 +1,11 @@
 id: 584369495
-type: way
+type: node
 latitude: 53.3618
 longitude: 7.16284
 postcode: "26723"
 city: Emden
-street: "Württemberger Straße"
-housenumber: 39
-phone: "+49 492128486"
+street: Württemberger Straße
+housenumber: "39"
+phone: +49 492128486
 opening_hours: ""
-website: "https://junited-emden.de/"
+website: https://junited-emden.de/

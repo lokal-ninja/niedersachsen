@@ -4,8 +4,9 @@ latitude: 52.70724
 longitude: 8.898
 postcode: "27249"
 city: Mellinghausen
-street: "Dorfstraße"
-housenumber: 
+street: Dorfstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo, Tu 6:00-12:00, 14:00-18:00; We 6:00-12:00; Th, Fr 6:00-12:00, 14:00-18:00; Sa 6:00-12:00"
+opening_hours: Mo, Tu 6:00-12:00, 14:00-18:00; We 6:00-12:00; Th, Fr 6:00-12:00, 14:00-18:00;
+    Sa 6:00-12:00
 website: ""

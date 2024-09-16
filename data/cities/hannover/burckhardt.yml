@@ -4,8 +4,8 @@ latitude: 52.3992
 longitude: 9.77698
 postcode: "30177"
 city: Hannover
-street: "Podbielskistraße"
-housenumber: 183
-phone: "+49 511 691771"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.fahrrad-burckhardt.de/fahrrad-burckhardt-hannover/"
+street: Podbielskistraße
+housenumber: "183"
+phone: +49 511 691771
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.fahrrad-burckhardt.de/fahrrad-burckhardt-hannover/

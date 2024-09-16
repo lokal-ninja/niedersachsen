@@ -4,8 +4,8 @@ latitude: 53.08407
 longitude: 9.9937
 postcode: "29646"
 city: Bispingen
-street: "Bahnhofstraße"
-housenumber: 18
-phone: "+49 5194 813"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00"
-website: "https://www.kiebitzmarkt.de/"
+street: Bahnhofstraße
+housenumber: "18"
+phone: +49 5194 813
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-13:00
+website: https://www.kiebitzmarkt.de/

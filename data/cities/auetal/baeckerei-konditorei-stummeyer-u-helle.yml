@@ -4,8 +4,8 @@ latitude: 52.23194
 longitude: 9.23682
 postcode: "31749"
 city: Auetal
-street: "Marktplatz"
-housenumber: 3
-phone: "+49 5752 929150"
-opening_hours: "closed"
+street: Marktplatz
+housenumber: "3"
+phone: +49 5752 929150
+opening_hours: closed
 website: ""

@@ -1,11 +1,11 @@
 id: 217106777
-type: way
+type: node
 latitude: 53.12134
 longitude: 9.42186
 postcode: "27356"
 city: Rotenburg (Wümme)
-street: "Waldweg"
-housenumber: 1
+street: Waldweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-20:00; Su off; PH off
 website: ""

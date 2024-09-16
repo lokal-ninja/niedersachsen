@@ -4,8 +4,8 @@ latitude: 52.98209
 longitude: 9.92465
 postcode: "29614"
 city: Soltau
-street: "Rahrsberg"
-housenumber: 7
-phone: "+49 5191 9756076"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.lindt.de"
+street: Rahrsberg
+housenumber: "7"
+phone: +49 5191 9756076
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.lindt.de

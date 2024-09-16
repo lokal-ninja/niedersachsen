@@ -4,8 +4,8 @@ latitude: 53.0497
 longitude: 8.9585
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 42809514"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://juweliere-kraemer.de"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 42809514
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://juweliere-kraemer.de

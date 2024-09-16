@@ -1,11 +1,11 @@
 id: 244318341
-type: way
+type: node
 latitude: 52.01001
 longitude: 10.12327
 postcode: ""
 city: Bockenem
-street: "Am Bahnhof"
-housenumber: 3
+street: Am Bahnhof
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

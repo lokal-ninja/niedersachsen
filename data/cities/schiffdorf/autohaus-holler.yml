@@ -1,11 +1,11 @@
 id: 168201526
-type: way
+type: node
 latitude: 53.5083
 longitude: 8.80081
 postcode: "27619"
 city: Schiffdorf
-street: "Wesermünder Straße"
-housenumber: 32
+street: Wesermünder Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-holler.de/"
+website: https://www.autohaus-holler.de/

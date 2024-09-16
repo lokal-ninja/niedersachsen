@@ -4,8 +4,8 @@ latitude: 52.38034
 longitude: 10.53783
 postcode: "38527"
 city: Meine
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 05:00-17:00; Sa 05:00-15:30; Su 07:30-17:00"
-website: "https://www.baeckerei-meyer.de"
+opening_hours: Mo-Fr 05:00-17:00; Sa 05:00-15:30; Su 07:30-17:00
+website: https://www.baeckerei-meyer.de

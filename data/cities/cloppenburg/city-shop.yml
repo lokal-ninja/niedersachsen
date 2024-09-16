@@ -1,11 +1,11 @@
 id: 161229287
-type: way
+type: node
 latitude: 52.84911
 longitude: 8.04193
 postcode: "49661"
 city: Cloppenburg
-street: "Auf dem Hook"
-housenumber: 2
+street: Auf dem Hook
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

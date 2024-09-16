@@ -4,8 +4,8 @@ latitude: 52.26328
 longitude: 8.00654
 postcode: "49078"
 city: Osnabrück
-street: "Kurt-Schumacher-Damm"
-housenumber: 61
-phone: "+49 541 181130"
-opening_hours: "Su 11:00-14:00; Mo-Sa 09:00-19:00"
-website: "https://www.blumen-risse.de/standorte/osnabrueck-i"
+street: Kurt-Schumacher-Damm
+housenumber: "61"
+phone: +49 541 181130
+opening_hours: Su 11:00-14:00; Mo-Sa 09:00-19:00
+website: https://www.blumen-risse.de/standorte/osnabrueck-i

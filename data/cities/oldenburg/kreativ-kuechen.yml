@@ -1,11 +1,11 @@
 id: 120341044
-type: way
+type: node
 latitude: 53.12161
 longitude: 8.21718
 postcode: "26133"
 city: Oldenburg
-street: "Cloppenburger Straße"
-housenumber: 168
+street: Cloppenburger Straße
+housenumber: "168"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
 website: ""

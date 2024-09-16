@@ -1,11 +1,11 @@
 id: 266337034
-type: way
+type: node
 latitude: 53.23416
 longitude: 8.20048
 postcode: "26180"
 city: Rastede
-street: "Feldbreite"
+street: Feldbreite
 housenumber: 99-101
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-13:00"
-website: "http://www.ford-horstmann.de/"
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-13:00
+website: http://www.ford-horstmann.de/

@@ -1,11 +1,11 @@
 id: 266674748
-type: way
+type: node
 latitude: 53.40265
 longitude: 8.14772
 postcode: "26316"
 city: Varel
-street: "Hafenstraße"
+street: Hafenstraße
 housenumber: 6A
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

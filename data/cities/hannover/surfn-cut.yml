@@ -4,8 +4,8 @@ latitude: 52.35954
 longitude: 9.75068
 postcode: "30169"
 city: Hannover
-street: "Hildesheimer Straße"
-housenumber: 90
-phone: "0511 45913229"
-opening_hours: "Mo 11:00-20:00; Tu-Fr 10:00-20:00; Sa 10:00-16:00"
-website: "https://surf-n-cut.mytreatwell.de"
+street: Hildesheimer Straße
+housenumber: "90"
+phone: 0511 45913229
+opening_hours: Mo 11:00-20:00; Tu-Fr 10:00-20:00; Sa 10:00-16:00
+website: https://surf-n-cut.mytreatwell.de

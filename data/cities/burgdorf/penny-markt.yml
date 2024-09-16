@@ -1,11 +1,11 @@
 id: 194486799
-type: way
+type: node
 latitude: 52.44776
 longitude: 9.98829
 postcode: "31303"
 city: Burgdorf
-street: "Mönkeburgstraße"
-housenumber: 98
+street: Mönkeburgstraße
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

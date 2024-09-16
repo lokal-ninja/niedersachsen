@@ -4,8 +4,8 @@ latitude: 52.62111
 longitude: 10.06864
 postcode: "29221"
 city: Celle
-street: "Bahnhofstraße"
-housenumber: 27
-phone: "+49 5141 25489"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"
-website: "https://www.jacoby-bikes.de/"
+street: Bahnhofstraße
+housenumber: "27"
+phone: +49 5141 25489
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00
+website: https://www.jacoby-bikes.de/

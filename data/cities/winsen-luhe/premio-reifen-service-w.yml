@@ -1,11 +1,11 @@
 id: 99525416
-type: way
+type: node
 latitude: 53.33885
 longitude: 10.23299
 postcode: "21423"
 city: Winsen (Luhe)
-street: "Otto-Hahn-Straße"
-housenumber: 71
+street: Otto-Hahn-Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-13:00"
-website: "https://www.brs-winsen.de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-13:00
+website: https://www.brs-winsen.de/

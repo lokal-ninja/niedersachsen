@@ -4,8 +4,9 @@ latitude: 53.0669
 longitude: 8.77952
 postcode: "28199"
 city: Bremen
-street: "Duisburger Straße"
-housenumber: 4
+street: Duisburger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:15; Fr 07:30-14:45 || weitere Termine nach Absprache möglich"
+opening_hours: Mo-Th 07:30-16:15; Fr 07:30-14:45 || "weitere Termine nach Absprache
+    möglich"
 website: ""

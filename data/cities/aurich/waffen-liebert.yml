@@ -4,8 +4,8 @@ latitude: 53.47126
 longitude: 7.48292
 postcode: "26603"
 city: Aurich
-street: "Norderstraße"
-housenumber: 18
+street: Norderstraße
+housenumber: "18"
 phone: "+4949412117"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "http://www.waffen-liebert.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: http://www.waffen-liebert.de/

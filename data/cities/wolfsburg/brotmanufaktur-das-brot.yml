@@ -4,8 +4,8 @@ latitude: 52.43139
 longitude: 10.79492
 postcode: "38440"
 city: Wolfsburg
-street: "Stadtbrücke"
-housenumber: 
+street: Stadtbrücke
+housenumber: ""
 phone: "+498006116600"
 opening_hours: ""
-website: "https://www.autostadt.de/restaurants/das-brot"
+website: https://www.autostadt.de/restaurants/das-brot

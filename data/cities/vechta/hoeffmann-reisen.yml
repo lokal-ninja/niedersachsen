@@ -1,11 +1,11 @@
 id: 93777693
-type: way
+type: node
 latitude: 52.71588
 longitude: 8.26703
 postcode: "49377"
 city: Vechta
-street: "Kamps Rieden"
-housenumber: 3
-phone: "+49 4441 89200"
+street: Kamps Rieden
+housenumber: "3"
+phone: +49 4441 89200
 opening_hours: ""
-website: "https://hoeffmann.de/"
+website: https://hoeffmann.de/

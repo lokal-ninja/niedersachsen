@@ -4,8 +4,8 @@ latitude: 51.64257
 longitude: 10.31933
 postcode: "37412"
 city: Herzberg am Harz
-street: "Siemensstraße"
-housenumber: 8
+street: Siemensstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 8:30-17:00"
-website: "https://www.ad-autodienst.de/niedersachsen/herzberg-am-harz/rs-autotechnik"
+opening_hours: Mo-Fr 8:30-17:00
+website: https://www.ad-autodienst.de/niedersachsen/herzberg-am-harz/rs-autotechnik

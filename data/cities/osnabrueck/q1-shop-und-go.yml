@@ -1,11 +1,11 @@
 id: 1245351231
-type: way
+type: node
 latitude: 52.2885
 longitude: 8.01819
 postcode: "49076"
 city: Osnabrück
-street: "Lise-Meitner-Straße"
-housenumber: 
+street: Lise-Meitner-Straße
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.q1.eu/de/shopandgo"
+opening_hours: 24/7
+website: https://www.q1.eu/de/shopandgo

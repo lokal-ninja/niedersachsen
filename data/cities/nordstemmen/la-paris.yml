@@ -1,11 +1,11 @@
 id: 949650197
-type: way
+type: node
 latitude: 52.16501
 longitude: 9.78659
 postcode: "31171"
 city: Nordstemmen
-street: "Hauptstraße"
-housenumber: 100
+street: Hauptstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Mo off; Sa 09:00-16:00"
+opening_hours: Tu-Fr 09:00-18:00; Mo off; Sa 09:00-16:00
 website: ""

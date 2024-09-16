@@ -4,8 +4,8 @@ latitude: 52.81334
 longitude: 9.95666
 postcode: "29303"
 city: Bergen
-street: "Harburger Straße"
-housenumber: 43
+street: Harburger Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

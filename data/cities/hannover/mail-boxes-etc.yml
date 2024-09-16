@@ -4,8 +4,8 @@ latitude: 52.38776
 longitude: 9.73458
 postcode: "30165"
 city: Hannover
-street: "Vahrenwalder Straße"
-housenumber: 28
-phone: "+49 511 169 333 87"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://www.mbe.de/0143"
+street: Vahrenwalder Straße
+housenumber: "28"
+phone: +49 511 169 333 87
+opening_hours: Mo-Fr 09:30-18:00
+website: https://www.mbe.de/0143

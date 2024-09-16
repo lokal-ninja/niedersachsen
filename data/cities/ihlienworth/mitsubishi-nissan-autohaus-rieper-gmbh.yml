@@ -1,11 +1,11 @@
 id: 260090803
-type: way
+type: node
 latitude: 53.73783
 longitude: 8.92839
 postcode: "21775"
 city: Ihlienworth
-street: "Zum Schönenfelde"
-housenumber: 1
-phone: "+49 4755 296"
-opening_hours: "Mo-Fr 08:00-16:30;Sa 08:00-12:00;PH off"
-website: "https://www.autohaus-rieper.de/"
+street: Zum Schönenfelde
+housenumber: "1"
+phone: +49 4755 296
+opening_hours: Mo-Fr 08:00-16:30;Sa 08:00-12:00;PH off
+website: https://www.autohaus-rieper.de/

@@ -1,11 +1,11 @@
 id: 94978722
-type: way
+type: node
 latitude: 53.60346
 longitude: 7.18423
 postcode: "26506"
 city: Norden
-street: "Gewerbestraße"
-housenumber: 11
-phone: "+49 4931 936500"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+street: Gewerbestraße
+housenumber: "11"
+phone: +49 4931 936500
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

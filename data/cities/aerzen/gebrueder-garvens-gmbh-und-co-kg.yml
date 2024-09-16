@@ -1,11 +1,11 @@
 id: 364606799
-type: way
+type: node
 latitude: 52.04723
 longitude: 9.25268
 postcode: "31855"
 city: Aerzen
-street: "Grehberg"
-housenumber: 32
+street: Grehberg
+housenumber: "32"
 phone: "+495154707270"
 opening_hours: ""
-website: "https://www.elektrokamin.com/"
+website: https://www.elektrokamin.com/

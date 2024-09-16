@@ -4,8 +4,8 @@ latitude: 53.52538
 longitude: 8.0354
 postcode: "26419"
 city: Schortens
-street: "Olympiastraße"
-housenumber: 11
-phone: "+49 4421 70236"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"
-website: "https://www.stadtbaeckerei-siemens.de/fachgeschaefte"
+street: Olympiastraße
+housenumber: "11"
+phone: +49 4421 70236
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00
+website: https://www.stadtbaeckerei-siemens.de/fachgeschaefte

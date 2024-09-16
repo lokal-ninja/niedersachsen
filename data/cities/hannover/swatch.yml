@@ -4,8 +4,8 @@ latitude: 52.3747
 longitude: 9.7369
 postcode: "30159"
 city: Hannover
-street: "Georgstraße"
-housenumber: 18
-phone: "+49 511 48185933"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.swatch.com/de-de/storedetails?sid=R162379"
+street: Georgstraße
+housenumber: "18"
+phone: +49 511 48185933
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.swatch.com/de-de/storedetails?sid=R162379

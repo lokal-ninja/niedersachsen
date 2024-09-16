@@ -4,8 +4,8 @@ latitude: 53.36517
 longitude: 9.71181
 postcode: "21279"
 city: Hollenstedt
-street: "Tostedter Straße"
-housenumber: 1
-phone: "+49 4165 8661"
-opening_hours: "24/7"
-website: "http://www.star-tankstellen.de/"
+street: Tostedter Straße
+housenumber: "1"
+phone: +49 4165 8661
+opening_hours: 24/7
+website: http://www.star-tankstellen.de/

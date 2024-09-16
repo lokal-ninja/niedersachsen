@@ -1,11 +1,11 @@
 id: 24581831
-type: way
+type: node
 latitude: 52.28619
 longitude: 8.03922
 postcode: "49090"
 city: Osnabrück
-street: "Hansastraße"
-housenumber: 33
+street: Hansastraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

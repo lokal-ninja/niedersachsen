@@ -4,8 +4,8 @@ latitude: 53.07752
 longitude: 8.81006
 postcode: "28195"
 city: Bremen
-street: "Museumstraße"
-housenumber: 2
-phone: "+49 421 1727432"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:30-17:00; PH,Su off"
-website: "https://www.fairtragen.de"
+street: Museumstraße
+housenumber: "2"
+phone: +49 421 1727432
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:30-17:00; PH,Su off
+website: https://www.fairtragen.de

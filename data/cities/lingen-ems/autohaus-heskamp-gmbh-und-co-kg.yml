@@ -1,11 +1,11 @@
 id: 53104044
-type: way
+type: node
 latitude: 52.46414
 longitude: 7.36334
 postcode: "49811"
 city: Lingen (Ems)
-street: "Hüveder Straße"
-housenumber: 4
+street: Hüveder Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

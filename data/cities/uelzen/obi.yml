@@ -1,11 +1,11 @@
 id: 273305813
-type: way
+type: node
 latitude: 52.96729
 longitude: 10.58106
 postcode: "29525"
 city: Uelzen
-street: "Oldenstädter Straße"
-housenumber: 74
+street: Oldenstädter Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

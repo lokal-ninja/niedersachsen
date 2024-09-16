@@ -1,11 +1,11 @@
 id: 305865486
-type: way
+type: node
 latitude: 53.2094
 longitude: 8.59659
 postcode: "28779"
 city: Bremen
-street: "Wölpscher Straße"
-housenumber: 4
+street: Wölpscher Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

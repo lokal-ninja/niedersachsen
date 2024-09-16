@@ -1,11 +1,11 @@
 id: 98119889
-type: way
+type: node
 latitude: 52.39653
 longitude: 9.75797
 postcode: "30177"
 city: Hannover
-street: "Mengendamm"
-housenumber: 3
+street: Mengendamm
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

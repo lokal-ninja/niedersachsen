@@ -1,11 +1,11 @@
 id: 27534513
-type: way
+type: node
 latitude: 52.64844
 longitude: 9.84965
 postcode: "29323"
 city: Wietze
-street: "Steinförder Straße"
-housenumber: 66
+street: Steinförder Straße
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

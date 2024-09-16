@@ -1,11 +1,11 @@
 id: 59565901
-type: way
+type: node
 latitude: 53.24297
 longitude: 7.46088
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Ringstraße"
-housenumber: 17
+street: Ringstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su off; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 8119614
-type: way
+type: node
 latitude: 52.34283
 longitude: 9.384
 postcode: "31542"
 city: Bad Nenndorf
-street: "Gehrenbreite"
-housenumber: 6
+street: Gehrenbreite
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

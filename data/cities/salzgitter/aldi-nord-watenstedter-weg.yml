@@ -1,11 +1,11 @@
 id: 200708123
-type: way
+type: node
 latitude: 52.14018
 longitude: 10.34031
 postcode: "38229"
 city: Salzgitter
-street: "Watenstedter Weg"
-housenumber: 8
+street: Watenstedter Weg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

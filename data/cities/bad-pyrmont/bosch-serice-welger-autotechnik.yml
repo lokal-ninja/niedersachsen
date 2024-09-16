@@ -1,11 +1,11 @@
 id: 617237408
-type: way
+type: node
 latitude: 51.97349
 longitude: 9.26881
 postcode: "31812"
 city: Bad Pyrmont
-street: "Lügder Straße"
-housenumber: 20
-phone: "+49 5281 98970"
+street: Lügder Straße
+housenumber: "20"
+phone: +49 5281 98970
 opening_hours: ""
-website: "http://www.welger-autotechnik.de"
+website: http://www.welger-autotechnik.de

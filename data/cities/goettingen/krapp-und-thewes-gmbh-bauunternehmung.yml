@@ -1,11 +1,11 @@
 id: 374108073
-type: way
+type: node
 latitude: 51.55001
 longitude: 9.8861
 postcode: "37079"
 city: Göttingen
-street: "Willi-Eichler-Straße"
-housenumber: 20
+street: Willi-Eichler-Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

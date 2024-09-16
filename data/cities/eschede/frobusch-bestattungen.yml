@@ -4,8 +4,8 @@ latitude: 52.73708
 longitude: 10.23305
 postcode: "29348"
 city: Eschede
-street: "Bahnhofstraße"
-housenumber: 19
-phone: "+49 5142 1063"
-opening_hours: "nicht dauerhaft besetzt."
+street: Bahnhofstraße
+housenumber: "19"
+phone: +49 5142 1063
+opening_hours: '"nicht dauerhaft besetzt."'
 website: ""

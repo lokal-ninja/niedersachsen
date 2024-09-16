@@ -4,8 +4,8 @@ latitude: 52.88971
 longitude: 10.89335
 postcode: "29465"
 city: Schnega
-street: "Schulstraße"
-housenumber: 3
-phone: "+49 5842 205303"
-opening_hours: "off nur nach Vereinbarung"
-website: "https://www.gandiva.eu"
+street: Schulstraße
+housenumber: "3"
+phone: +49 5842 205303
+opening_hours: off "nur nach Vereinbarung"
+website: https://www.gandiva.eu

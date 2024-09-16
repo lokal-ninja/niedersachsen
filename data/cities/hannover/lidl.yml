@@ -4,8 +4,8 @@ latitude: 52.41117
 longitude: 9.7517
 postcode: "30179"
 city: Hannover
-street: "Dresdener Straße"
-housenumber: 3
+street: Dresdener Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/hannover/vahrenheide-dresdener-str-3.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/filialen/hannover/vahrenheide-dresdener-str-3.html

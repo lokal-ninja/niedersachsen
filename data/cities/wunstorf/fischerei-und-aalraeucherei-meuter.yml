@@ -1,11 +1,11 @@
 id: 326915631
-type: way
+type: node
 latitude: 52.45942
 longitude: 9.36711
 postcode: "31515"
 city: Wunstorf
-street: "Bleichenstraße"
-housenumber: 36
-phone: "+49 5033 8342"
+street: Bleichenstraße
+housenumber: "36"
+phone: +49 5033 8342
 opening_hours: ""
-website: "http://www.meuter-steinhude.de"
+website: http://www.meuter-steinhude.de

@@ -4,8 +4,8 @@ latitude: 52.35353
 longitude: 10.43218
 postcode: "38179"
 city: Schwülper
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://papierschlange.de/"
+opening_hours: Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00
+website: https://papierschlange.de/

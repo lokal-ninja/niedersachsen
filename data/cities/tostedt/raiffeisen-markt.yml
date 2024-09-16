@@ -4,8 +4,8 @@ latitude: 53.2756
 longitude: 9.73754
 postcode: "21255"
 city: Tostedt
-street: "Am Raiffeisenplatz"
-housenumber: 1
-phone: "+49 4182 296124"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00"
-website: "http://www.stader-saatzucht.de"
+street: Am Raiffeisenplatz
+housenumber: "1"
+phone: +49 4182 296124
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-13:00
+website: http://www.stader-saatzucht.de

@@ -1,11 +1,11 @@
 id: 213125043
-type: way
+type: node
 latitude: 53.47756
 longitude: 8.47077
 postcode: "26954"
 city: Nordenham
-street: "Mittelweg"
-housenumber: 105
+street: Mittelweg
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/nordenham/mittelweg-105.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/nordenham/mittelweg-105.html

@@ -1,11 +1,11 @@
 id: 319700376
-type: way
+type: node
 latitude: 53.03298
 longitude: 8.16129
 postcode: "26203"
 city: Wardenburg
-street: "Brakland"
-housenumber: 4
+street: Brakland
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.01211
 longitude: 9.03554
 postcode: "28832"
 city: Achim
-street: "Obernstraße"
-housenumber: 41
-phone: "+49 4202-2816"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.rumsfeld-schmuck.de/"
+street: Obernstraße
+housenumber: "41"
+phone: +49 4202-2816
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.rumsfeld-schmuck.de/

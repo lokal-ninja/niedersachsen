@@ -4,8 +4,8 @@ latitude: 53.24935
 longitude: 8.12303
 postcode: "26215"
 city: Wiefelstede
-street: "Hauptstraße"
-housenumber: 50
+street: Hauptstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus-dj.de"
+website: http://www.autohaus-dj.de

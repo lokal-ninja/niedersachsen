@@ -1,11 +1,11 @@
 id: 339246300
-type: way
+type: node
 latitude: 53.0158
 longitude: 9.01493
 postcode: "28832"
 city: Achim
-street: "Bierdener Kämpe"
-housenumber: 1
-phone: "+49 4202 522820"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-center-schieweck-bierdener-k%C3%A4mpe-1/index.jsp"
+street: Bierdener Kämpe
+housenumber: "1"
+phone: +49 4202 522820
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-center-schieweck-bierdener-k%C3%A4mpe-1/index.jsp

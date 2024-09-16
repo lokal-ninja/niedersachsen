@@ -1,11 +1,11 @@
 id: 499184685
-type: way
+type: node
 latitude: 53.23225
 longitude: 7.43201
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Konrad-Zuse-Straße"
-housenumber: 8
+street: Konrad-Zuse-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://gj-holzzentrum.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://gj-holzzentrum.de/

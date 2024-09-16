@@ -4,8 +4,8 @@ latitude: 52.36696
 longitude: 9.75543
 postcode: "30171"
 city: Hannover
-street: "Sallstraße"
-housenumber: 29
-phone: "+49 511 85 47 32"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "http://www.hartmannbuch.de"
+street: Sallstraße
+housenumber: "29"
+phone: +49 511 85 47 32
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00
+website: http://www.hartmannbuch.de

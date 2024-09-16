@@ -1,11 +1,11 @@
 id: 192096409
-type: way
+type: node
 latitude: 52.86892
 longitude: 9.62665
 postcode: "29664"
 city: Walsrode
 street: ""
-housenumber: 107
+housenumber: "107"
 phone: ""
 opening_hours: ""
-website: "http://brotkate.com/"
+website: http://brotkate.com/

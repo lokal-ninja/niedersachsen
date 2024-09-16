@@ -1,11 +1,11 @@
 id: 161049571
-type: way
+type: node
 latitude: 51.55868
 longitude: 9.92688
 postcode: "37077"
 city: Göttingen
-street: "Lutteranger"
-housenumber: 6
+street: Lutteranger
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off
 website: ""

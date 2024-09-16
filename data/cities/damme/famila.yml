@@ -1,11 +1,11 @@
 id: 194248503
-type: way
+type: node
 latitude: 52.5221
 longitude: 8.1923
 postcode: "49401"
 city: Damme
-street: "Im Hofe"
-housenumber: 2
-phone: "+49 5491 96740"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00"
-website: "https://www.famila-nordwest.de/marktauswahl/Damme"
+street: Im Hofe
+housenumber: "2"
+phone: +49 5491 96740
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00
+website: https://www.famila-nordwest.de/marktauswahl/Damme

@@ -1,11 +1,11 @@
 id: 89943875
-type: way
+type: node
 latitude: 53.17107
 longitude: 8.62311
 postcode: "28757"
 city: Bremen
-street: "Sagerstraße"
-housenumber: 13
+street: Sagerstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.der-stoff.de/fillialen/stoff-haus/bremen-vegesack.html"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.der-stoff.de/fillialen/stoff-haus/bremen-vegesack.html

@@ -1,11 +1,11 @@
 id: 89248365
-type: way
+type: node
 latitude: 52.51654
 longitude: 7.34497
 postcode: "49809"
 city: Lingen (Ems)
-street: "Am Laxtener Esch"
-housenumber: 1
+street: Am Laxtener Esch
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

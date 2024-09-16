@@ -1,11 +1,11 @@
 id: 43136087
-type: way
+type: node
 latitude: 52.46239
 longitude: 9.69477
 postcode: "30855"
 city: Langenhagen
-street: "Nordstraße"
-housenumber: 13
-phone: "+49-511-9772557"
+street: Nordstraße
+housenumber: "13"
+phone: +49-511-9772557
 opening_hours: ""
-website: "https://www.ringeltaube.de/"
+website: https://www.ringeltaube.de/

@@ -4,8 +4,8 @@ latitude: 53.41296
 longitude: 7.73538
 postcode: "26639"
 city: Wiesmoor
-street: "Marktstraße"
-housenumber: 4
-phone: "+49 (0) 49 44-3068006"
-opening_hours: "Mo off; Tu 10:00-19:00; We-Fr 08:30-19:00; Sa 08:00-16:00"
-website: "https://www.magichair-wiesmoor.de/"
+street: Marktstraße
+housenumber: "4"
+phone: +49 (0) 49 44-3068006
+opening_hours: Mo off; Tu 10:00-19:00; We-Fr 08:30-19:00; Sa 08:00-16:00
+website: https://www.magichair-wiesmoor.de/

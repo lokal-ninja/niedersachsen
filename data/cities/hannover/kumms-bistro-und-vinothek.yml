@@ -4,8 +4,8 @@ latitude: 52.32868
 longitude: 9.69108
 postcode: "30457"
 city: Hannover
-street: "An der Kirche"
-housenumber: 12
+street: An der Kirche
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:30-14:00"
-website: "https://www.kummsweinbistro.de"
+opening_hours: Mo-Sa 08:30-14:00
+website: https://www.kummsweinbistro.de

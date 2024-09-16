@@ -4,8 +4,8 @@ latitude: 53.48919
 longitude: 8.59638
 postcode: "27572"
 city: Bremerhaven
-street: "Am Lunedeich"
-housenumber: 187
-phone: "+49 471 9313555"
-opening_hours: "Mo-Fr 07:30-17:00;Sa 08:00-13:30; PH off"
-website: "https://www.carglass.de"
+street: Am Lunedeich
+housenumber: "187"
+phone: +49 471 9313555
+opening_hours: Mo-Fr 07:30-17:00;Sa 08:00-13:30; PH off
+website: https://www.carglass.de

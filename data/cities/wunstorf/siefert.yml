@@ -1,11 +1,11 @@
 id: 23053793
-type: way
+type: node
 latitude: 52.4183
 longitude: 9.45255
 postcode: "31515"
 city: Wunstorf
-street: "Potts Kamp"
-housenumber: 5
+street: Potts Kamp
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

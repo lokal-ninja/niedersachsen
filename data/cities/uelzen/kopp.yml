@@ -1,11 +1,11 @@
 id: 239083564
-type: way
+type: node
 latitude: 52.98999
 longitude: 10.53841
 postcode: "29525"
 city: Uelzen
-street: "Am Funkturm"
-housenumber: 14
+street: Am Funkturm
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
 website: ""

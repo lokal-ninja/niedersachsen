@@ -1,11 +1,11 @@
 id: 431818259
-type: way
+type: node
 latitude: 52.37742
 longitude: 10.40323
 postcode: "38530"
 city: Didderse
-street: "An der Schule"
-housenumber: 3
+street: An der Schule
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00
 website: ""

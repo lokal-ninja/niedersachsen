@@ -1,11 +1,11 @@
 id: 278058237
-type: way
+type: node
 latitude: 51.9443
 longitude: 10.13049
 postcode: "38723"
 city: Seesen
-street: "Hildesheimer Straße"
-housenumber: 17
+street: Hildesheimer Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

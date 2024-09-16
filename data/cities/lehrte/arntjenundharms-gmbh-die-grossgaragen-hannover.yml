@@ -4,8 +4,8 @@ latitude: 52.35782
 longitude: 9.90766
 postcode: "31275"
 city: Lehrte
-street: "Im Kornfeld"
-housenumber: 17
-phone: "+49 173 93 04 925"
-opening_hours: "24/7"
-website: "https://www.die-grossgaragen-hannover.de/home.html"
+street: Im Kornfeld
+housenumber: "17"
+phone: +49 173 93 04 925
+opening_hours: 24/7
+website: https://www.die-grossgaragen-hannover.de/home.html

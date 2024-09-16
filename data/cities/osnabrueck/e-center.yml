@@ -1,11 +1,11 @@
 id: 37004699
-type: way
+type: node
 latitude: 52.29794
 longitude: 8.01171
 postcode: ""
 city: Osnabrück
-street: "Bürener Straße"
-housenumber: 8
+street: Bürener Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

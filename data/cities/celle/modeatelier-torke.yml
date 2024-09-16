@@ -1,11 +1,11 @@
 id: 126270922
-type: way
+type: node
 latitude: 52.62346
 longitude: 10.08128
 postcode: "29221"
 city: Celle
-street: "Rundestraße"
-housenumber: 3
-phone: "+49 5141 25036"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-14:00"
-website: "http://www.modeateliertorke.de/"
+street: Rundestraße
+housenumber: "3"
+phone: +49 5141 25036
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-14:00
+website: http://www.modeateliertorke.de/

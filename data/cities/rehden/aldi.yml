@@ -1,11 +1,11 @@
 id: 120018029
-type: way
+type: node
 latitude: 52.6091
 longitude: 8.48516
 postcode: "49453"
 city: Rehden
-street: "Nienburger Straße"
-housenumber: 38
+street: Nienburger Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su off
+website: https://www.aldi-nord.de/

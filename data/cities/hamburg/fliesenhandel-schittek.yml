@@ -1,11 +1,11 @@
 id: 37072773
-type: way
+type: node
 latitude: 53.42238
 longitude: 9.98363
 postcode: "21079"
 city: Hamburg
-street: "Winsener Stieg"
+street: Winsener Stieg
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00;PH,Sa,Su off"
+opening_hours: Mo-Fr 07:00-17:00;PH,Sa,Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 130727040
-type: way
+type: node
 latitude: 52.24977
 longitude: 10.51081
 postcode: "38122"
 city: Braunschweig
-street: "Frankfurter Straße"
-housenumber: 252
+street: Frankfurter Straße
+housenumber: "252"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su off
 website: ""

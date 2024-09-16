@@ -4,8 +4,8 @@ latitude: 53.5865
 longitude: 6.66633
 postcode: "26757"
 city: Borkum
-street: "Neue Straße"
-housenumber: 19
-phone: "+49 4922 9325500"
-opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00; Sa 08:00-13:00; Su off"
-website: "http://www.fleischerei-borkum.de/"
+street: Neue Straße
+housenumber: "19"
+phone: +49 4922 9325500
+opening_hours: Mo-Fr 08:00-13:00,15:00-18:00; Sa 08:00-13:00; Su off
+website: http://www.fleischerei-borkum.de/

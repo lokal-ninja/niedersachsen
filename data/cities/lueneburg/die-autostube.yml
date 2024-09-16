@@ -1,11 +1,11 @@
 id: 115531738
-type: way
+type: node
 latitude: 53.23848
 longitude: 10.45987
 postcode: "21337"
 city: Lüneburg
-street: "August-Wellenkamp-Straße"
-housenumber: 8
-phone: "+49 4131 400191"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-14:00"
-website: "https://www.dieautostube.de/"
+street: August-Wellenkamp-Straße
+housenumber: "8"
+phone: +49 4131 400191
+opening_hours: Mo-Fr 08:00-19:00; Sa 10:00-14:00
+website: https://www.dieautostube.de/

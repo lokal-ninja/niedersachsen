@@ -1,11 +1,11 @@
 id: 99163482
-type: way
+type: node
 latitude: 53.57316
 longitude: 7.22456
 postcode: "26506"
 city: Norden
-street: "Stellmacherstraße"
-housenumber: 18
+street: Stellmacherstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

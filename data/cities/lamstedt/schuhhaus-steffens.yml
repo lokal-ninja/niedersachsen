@@ -1,11 +1,11 @@
 id: 305915538
-type: way
+type: node
 latitude: 53.63671
 longitude: 9.09734
 postcode: "21769"
 city: Lamstedt
-street: "Hemsothstraße"
-housenumber: 3
+street: Hemsothstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

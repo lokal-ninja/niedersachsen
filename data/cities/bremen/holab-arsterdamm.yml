@@ -1,11 +1,11 @@
 id: 21242838
-type: way
+type: node
 latitude: 53.04316
 longitude: 8.83139
 postcode: "28277"
 city: Bremen
-street: "Arsterdamm"
+street: Arsterdamm
 housenumber: 94a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

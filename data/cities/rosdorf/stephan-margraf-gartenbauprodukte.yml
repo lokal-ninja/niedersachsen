@@ -4,8 +4,9 @@ latitude: 51.51594
 longitude: 9.91198
 postcode: "37124"
 city: Rosdorf
-street: "An der Ziegelei"
-housenumber: 10
+street: An der Ziegelei
+housenumber: "10"
 phone: ""
-opening_hours: "Mar 15-Nov 14 Mo-Fr 09:00-17:00; Mar 15-Nov 14 Sa 09:00-14:00; Nov 15-Mar 14 Fr 15:00-17:00; Su,PH off"
+opening_hours: Mar 15-Nov 14 Mo-Fr 09:00-17:00; Mar 15-Nov 14 Sa 09:00-14:00; Nov
+    15-Mar 14 Fr 15:00-17:00; Su,PH off
 website: ""

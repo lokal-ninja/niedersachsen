@@ -1,11 +1,11 @@
 id: 385535603
-type: way
+type: node
 latitude: 52.19375
 longitude: 10.32175
 postcode: "38268"
 city: Lengede
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

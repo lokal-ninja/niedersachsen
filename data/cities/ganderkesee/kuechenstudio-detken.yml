@@ -1,11 +1,11 @@
 id: 270950485
-type: way
+type: node
 latitude: 53.08925
 longitude: 8.58168
 postcode: "27777"
 city: Ganderkesee
-street: "Nutzhorner Landstraße"
-housenumber: 45
+street: Nutzhorner Landstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo,Fr,Sa 09:00-12:00, Mo-Fr 14:00-18:00"
-website: "http://www.detken.de/"
+opening_hours: Mo,Fr,Sa 09:00-12:00, Mo-Fr 14:00-18:00
+website: http://www.detken.de/

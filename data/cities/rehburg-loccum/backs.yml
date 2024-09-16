@@ -1,11 +1,11 @@
 id: 373406551
-type: way
+type: node
 latitude: 52.42784
 longitude: 9.18548
 postcode: "31547"
 city: Rehburg-Loccum
-street: "Alter Bahnhof"
-housenumber: 4
-phone: "+49 5037 97050"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.tauben-backs.de/"
+street: Alter Bahnhof
+housenumber: "4"
+phone: +49 5037 97050
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.tauben-backs.de/

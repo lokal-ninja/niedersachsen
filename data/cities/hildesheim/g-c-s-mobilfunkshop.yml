@@ -4,8 +4,8 @@ latitude: 52.15078
 longitude: 9.94959
 postcode: "31134"
 city: Hildesheim
-street: "Schuhstraße"
-housenumber: 21
+street: Schuhstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

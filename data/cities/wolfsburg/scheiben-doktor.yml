@@ -1,11 +1,11 @@
 id: 43281020
-type: way
+type: node
 latitude: 52.42691
 longitude: 10.80792
 postcode: "38446"
 city: Wolfsburg
-street: "Dieselstraße"
-housenumber: 36
+street: Dieselstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

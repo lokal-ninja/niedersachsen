@@ -4,8 +4,8 @@ latitude: 52.27258
 longitude: 9.79452
 postcode: "30982"
 city: Pattensen
-street: "Amtberg"
-housenumber: 6
+street: Amtberg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.gut-koldingen.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.gut-koldingen.de/

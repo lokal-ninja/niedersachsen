@@ -1,11 +1,11 @@
 id: 640855953
-type: way
+type: node
 latitude: 52.37201
 longitude: 9.79172
 postcode: "30625"
 city: Hannover
-street: "Kirchröder Straße"
-housenumber: 80
+street: Kirchröder Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-16:00"
-website: "https://www.beki.de"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-16:00
+website: https://www.beki.de

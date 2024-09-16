@@ -1,11 +1,11 @@
 id: 350356686
-type: way
+type: node
 latitude: 51.93583
 longitude: 10.32899
 postcode: "38685"
 city: Langelsheim
-street: "Ringstraße"
+street: Ringstraße
 housenumber: 34A
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

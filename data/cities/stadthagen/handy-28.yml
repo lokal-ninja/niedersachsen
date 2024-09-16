@@ -4,8 +4,8 @@ latitude: 52.32438
 longitude: 9.20392
 postcode: "31655"
 city: Stadthagen
-street: "Echternstraße"
-housenumber: 39
-phone: "+49 5721 8976670"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-14:00"
-website: "https://www.handy-28.de/"
+street: Echternstraße
+housenumber: "39"
+phone: +49 5721 8976670
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-14:00
+website: https://www.handy-28.de/

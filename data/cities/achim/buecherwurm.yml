@@ -4,8 +4,8 @@ latitude: 53.01319
 longitude: 9.0346
 postcode: "28832"
 city: Achim
-street: "Herbergstraße"
-housenumber: 12
-phone: "+49 4202 82166"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH off"
-website: "https://www.buecherwurm-achim.de/"
+street: Herbergstraße
+housenumber: "12"
+phone: +49 4202 82166
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH off
+website: https://www.buecherwurm-achim.de/

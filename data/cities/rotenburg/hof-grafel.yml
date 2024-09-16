@@ -4,8 +4,8 @@ latitude: 53.07492
 longitude: 9.38631
 postcode: "27356"
 city: Rotenburg
-street: "Grafel"
-housenumber: 2
+street: Grafel
+housenumber: "2"
 phone: ""
-opening_hours: "nur im Sommer und je nach Angebot verschieden"
-website: "https://www.hof-grafel.de"
+opening_hours: '"nur im Sommer und je nach Angebot verschieden"'
+website: https://www.hof-grafel.de

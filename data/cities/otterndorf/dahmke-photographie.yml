@@ -1,11 +1,11 @@
 id: 100208253
-type: way
+type: node
 latitude: 53.81149
 longitude: 8.88306
 postcode: "21762"
 city: Otterndorf
-street: "Küvers Trift"
+street: Küvers Trift
 housenumber: 2a
-phone: "+49 4751 911247"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-17:00; We 10:00-12:00 || nach Vereinbarung"
-website: "https://kdfoto.de/"
+phone: +49 4751 911247
+opening_hours: Mo-Fr 10:00-12:00,14:00-17:00; We 10:00-12:00 || "nach Vereinbarung"
+website: https://kdfoto.de/

@@ -4,8 +4,8 @@ latitude: 52.62297
 longitude: 10.08187
 postcode: "29221"
 city: Celle
-street: "Robert-Meyer-Platz"
-housenumber: 4
+street: Robert-Meyer-Platz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.hussel.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.hussel.de/

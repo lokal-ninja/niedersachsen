@@ -1,11 +1,11 @@
 id: 323713787
-type: way
+type: node
 latitude: 52.89775
 longitude: 9.65889
 postcode: "29699"
 city: Walsrode
-street: "Walsroder Straße"
+street: Walsroder Straße
 housenumber: 42a
-phone: "+49 5161 9496700"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-16:00"
-website: "https://www.sonderpreis-baumarkt.de"
+phone: +49 5161 9496700
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-16:00
+website: https://www.sonderpreis-baumarkt.de

@@ -4,8 +4,8 @@ latitude: 52.20717
 longitude: 9.54806
 postcode: "31832"
 city: Springe
-street: "Hamelner Straße"
-housenumber: 7
+street: Hamelner Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:20, 14:30-18:00, Sa 09:00-13:00"
-website: "http://www.elektroradzentrum.com/"
+opening_hours: Mo-Fr 09:00-12:20, 14:30-18:00, Sa 09:00-13:00
+website: http://www.elektroradzentrum.com/

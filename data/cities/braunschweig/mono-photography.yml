@@ -4,8 +4,8 @@ latitude: 52.27512
 longitude: 10.54543
 postcode: "38106"
 city: Braunschweig
-street: "Karlstraße"
-housenumber: 70
-phone: "+49 162 7438769"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://www.mono-photography.de/"
+street: Karlstraße
+housenumber: "70"
+phone: +49 162 7438769
+opening_hours: Mo-Su 08:00-18:00
+website: https://www.mono-photography.de/

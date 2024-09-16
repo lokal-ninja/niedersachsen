@@ -1,11 +1,11 @@
 id: 456249971
-type: way
+type: node
 latitude: 53.06556
 longitude: 8.1886
 postcode: "26203"
 city: Wardenburg
-street: "Friedrichstraße"
-housenumber: 59
+street: Friedrichstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://josealvarez-reitsport.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://josealvarez-reitsport.de/

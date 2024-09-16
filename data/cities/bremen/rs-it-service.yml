@@ -4,8 +4,8 @@ latitude: 53.09734
 longitude: 8.78469
 postcode: "28217"
 city: Bremen
-street: "Vegesacker Straße"
-housenumber: 52
+street: Vegesacker Straße
+housenumber: "52"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://www.rsit-service.de/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.rsit-service.de/

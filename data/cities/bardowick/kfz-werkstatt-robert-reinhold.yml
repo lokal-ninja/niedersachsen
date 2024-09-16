@@ -4,8 +4,8 @@ latitude: 53.30177
 longitude: 10.38828
 postcode: "21357"
 city: Bardowick
-street: "Mühlenstraße"
-housenumber: 6
+street: Mühlenstraße
+housenumber: "6"
 phone: "+4941312219504"
-opening_hours: "Mo-Th 07:45-13:00, 13:30-18:00; Fr 07:45-13:00, 13:30-16:00"
-website: "https://www.kfz-reinhold.de/"
+opening_hours: Mo-Th 07:45-13:00, 13:30-18:00; Fr 07:45-13:00, 13:30-16:00
+website: https://www.kfz-reinhold.de/

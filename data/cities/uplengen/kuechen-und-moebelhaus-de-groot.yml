@@ -1,11 +1,11 @@
 id: 107213649
-type: way
+type: node
 latitude: 53.24132
 longitude: 7.73341
 postcode: "26670"
 city: Uplengen
-street: "Südgeorgsfehner Straße"
-housenumber: 88
-phone: "+49 4489 1653"
+street: Südgeorgsfehner Straße
+housenumber: "88"
+phone: +49 4489 1653
 opening_hours: ""
-website: "http://www.moebelhaus-de-groot.de/"
+website: http://www.moebelhaus-de-groot.de/

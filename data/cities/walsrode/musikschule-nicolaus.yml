@@ -4,8 +4,8 @@ latitude: 52.86288
 longitude: 9.58859
 postcode: "29664"
 city: Walsrode
-street: "Moorstraße"
-housenumber: 76
+street: Moorstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00, Tu-Th 16:00-18:00"
-website: "https://www.musikschule-nicolaus.de/"
+opening_hours: Mo-Fr 10:00-12:00, Tu-Th 16:00-18:00
+website: https://www.musikschule-nicolaus.de/

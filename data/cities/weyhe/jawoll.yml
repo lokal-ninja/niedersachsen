@@ -1,11 +1,11 @@
 id: 1076585942
-type: way
+type: node
 latitude: 52.98584
 longitude: 8.78432
 postcode: "28844"
 city: Weyhe
-street: "Seckenhauser Straße"
-housenumber: 1
+street: Seckenhauser Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.jawoll.de/filialen/weyhe"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.jawoll.de/filialen/weyhe

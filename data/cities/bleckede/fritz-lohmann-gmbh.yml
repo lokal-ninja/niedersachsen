@@ -1,11 +1,11 @@
 id: 312446008
-type: way
+type: node
 latitude: 53.29285
 longitude: 10.73068
 postcode: "21354"
 city: Bleckede
-street: "Breite Straße"
+street: Breite Straße
 housenumber: 30 - 32
-phone: "+49 5852 2391"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-13:00"
-website: "http://www.fritz-lohmann.de/"
+phone: +49 5852 2391
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-13:00
+website: http://www.fritz-lohmann.de/

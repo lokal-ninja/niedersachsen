@@ -1,11 +1,11 @@
 id: 115531739
-type: way
+type: node
 latitude: 53.23845
 longitude: 10.46024
 postcode: "21337"
 city: Lüneburg
-street: "Auf den Blöcken"
-housenumber: 12
-phone: "+49 4131 9993990"
+street: Auf den Blöcken
+housenumber: "12"
+phone: +49 4131 9993990
 opening_hours: ""
-website: "http://wohnstore-lueneburg.de"
+website: http://wohnstore-lueneburg.de

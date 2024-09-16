@@ -1,11 +1,11 @@
 id: 566156133
-type: way
+type: node
 latitude: 53.01776
 longitude: 8.35217
 postcode: "26209"
 city: Hatten
-street: "Wildeshauser Straße"
-housenumber: 5
+street: Wildeshauser Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

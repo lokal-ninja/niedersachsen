@@ -4,8 +4,8 @@ latitude: 53.25429
 longitude: 8.11732
 postcode: "26215"
 city: Wiefelstede
-street: "Wemkendorfer Weg"
-housenumber: 2
-phone: "+49 4402 987531"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-17:00; Sa 09:00-12:30 || nach Vereinbarung"
-website: "https://www.raumgestaltung-tien.de/"
+street: Wemkendorfer Weg
+housenumber: "2"
+phone: +49 4402 987531
+opening_hours: Mo-Fr 09:00-12:30, 14:00-17:00; Sa 09:00-12:30 || "nach Vereinbarung"
+website: https://www.raumgestaltung-tien.de/

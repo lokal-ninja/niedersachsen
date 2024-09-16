@@ -4,8 +4,8 @@ latitude: 51.41585
 longitude: 9.65283
 postcode: "34346"
 city: Hann. Münden
-street: "Rosenstraße"
-housenumber: 17
-phone: "+49 5541 8768"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://winnemuth-hann-muenden.buchhandlung.de"
+street: Rosenstraße
+housenumber: "17"
+phone: +49 5541 8768
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://winnemuth-hann-muenden.buchhandlung.de

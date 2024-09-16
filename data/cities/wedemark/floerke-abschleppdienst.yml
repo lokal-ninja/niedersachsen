@@ -1,11 +1,11 @@
 id: 827938123
-type: way
+type: node
 latitude: 52.60733
 longitude: 9.73091
 postcode: "30900"
 city: Wedemark
-street: "Wieckenberger Straße"
-housenumber: 13
+street: Wieckenberger Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

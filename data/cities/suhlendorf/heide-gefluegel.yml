@@ -1,11 +1,11 @@
 id: 949500300
-type: way
+type: node
 latitude: 52.9134
 longitude: 10.77601
 postcode: "29562"
 city: Suhlendorf
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.heide-gefluegel.de/"
+website: https://www.heide-gefluegel.de/

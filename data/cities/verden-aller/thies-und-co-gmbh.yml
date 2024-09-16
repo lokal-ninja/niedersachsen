@@ -1,11 +1,11 @@
 id: 111802319
-type: way
+type: node
 latitude: 52.92429
 longitude: 9.28302
 postcode: "27283"
 city: Verden (Aller)
-street: "Marie-Curie-Straße"
-housenumber: 6
+street: Marie-Curie-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:30; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-17:30; Sa 08:00-12:00
 website: ""

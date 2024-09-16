@@ -1,11 +1,11 @@
 id: 131316223
-type: way
+type: node
 latitude: 53.16972
 longitude: 8.19726
 postcode: "26127"
 city: Oldenburg
-street: "Alexanderstraße"
-housenumber: 334
+street: Alexanderstraße
+housenumber: "334"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
 website: ""

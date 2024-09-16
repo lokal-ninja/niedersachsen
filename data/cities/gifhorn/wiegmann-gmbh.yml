@@ -1,11 +1,11 @@
 id: 42374882
-type: way
+type: node
 latitude: 52.4646
 longitude: 10.54317
 postcode: "38518"
 city: Gifhorn
-street: "Braunschweiger Straße"
-housenumber: 143
+street: Braunschweiger Straße
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

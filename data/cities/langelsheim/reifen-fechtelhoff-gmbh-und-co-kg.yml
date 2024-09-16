@@ -1,11 +1,11 @@
 id: 184474471
-type: way
+type: node
 latitude: 51.92974
 longitude: 10.33976
 postcode: "38685"
 city: Langelsheim
-street: "Kropskamp"
-housenumber: 10
+street: Kropskamp
+housenumber: "10"
 phone: "+495326929210"
 opening_hours: ""
-website: "https://www.reifen-fechtelhoff.de/"
+website: https://www.reifen-fechtelhoff.de/

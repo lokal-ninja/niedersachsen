@@ -1,11 +1,11 @@
 id: 97856268
-type: way
+type: node
 latitude: 52.26632
 longitude: 9.0703
 postcode: "31675"
 city: Bückeburg
-street: "Kreuzbreite"
-housenumber: 19
+street: Kreuzbreite
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/

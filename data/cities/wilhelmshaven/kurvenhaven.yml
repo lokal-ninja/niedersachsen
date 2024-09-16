@@ -1,11 +1,11 @@
 id: 326922754
-type: way
+type: node
 latitude: 53.52008
 longitude: 8.11726
 postcode: "26382"
 city: Wilhelmshaven
-street: "Marktstraße"
-housenumber: 29
+street: Marktstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 11:00-17:00"
+opening_hours: Mo-Sa 11:00-17:00
 website: ""

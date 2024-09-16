@@ -4,8 +4,8 @@ latitude: 52.4255
 longitude: 9.70163
 postcode: "30419"
 city: Hannover
-street: "Heinescher Hof"
-housenumber: 4
+street: Heinescher Hof
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:00; Tu, Th, Fr 09:00-11:00; Sa 09:00-14:00"
-website: "https://hof-baumgarte.com/hofladen/"
+opening_hours: Mo-Fr 15:00-18:00; Tu, Th, Fr 09:00-11:00; Sa 09:00-14:00
+website: https://hof-baumgarte.com/hofladen/

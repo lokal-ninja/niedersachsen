@@ -1,11 +1,11 @@
 id: 26800273
-type: way
+type: node
 latitude: 53.03398
 longitude: 8.83133
 postcode: "28277"
 city: Bremen
-street: "Alfred-Faust-Straße"
-housenumber: 9
+street: Alfred-Faust-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30; Su,PH off"
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-23:30; Su,PH off
 website: ""

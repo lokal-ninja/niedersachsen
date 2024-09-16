@@ -1,11 +1,11 @@
 id: 247205033
-type: way
+type: node
 latitude: 52.96759
 longitude: 8.44792
 postcode: "27801"
 city: Dötlingen
-street: "Raiffeisenstraße"
-housenumber: 3
+street: Raiffeisenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

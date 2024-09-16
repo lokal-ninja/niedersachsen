@@ -4,8 +4,8 @@ latitude: 52.40897
 longitude: 9.70429
 postcode: "30165"
 city: Hannover
-street: "Grambartstraße"
-housenumber: 30
-phone: "+49 511 21976-520"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-15:00"
+street: Grambartstraße
+housenumber: "30"
+phone: +49 511 21976-520
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-15:00
 website: ""

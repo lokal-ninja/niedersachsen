@@ -1,11 +1,11 @@
 id: 109920471
-type: way
+type: node
 latitude: 52.4136
 longitude: 8.09895
 postcode: "49565"
 city: Bramsche
-street: "Neustädter Straße"
-housenumber: 6
+street: Neustädter Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

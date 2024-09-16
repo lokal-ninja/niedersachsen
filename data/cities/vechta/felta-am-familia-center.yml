@@ -1,11 +1,11 @@
 id: 1245384994
-type: way
+type: node
 latitude: 52.73181
 longitude: 8.264
 postcode: "49377"
 city: Vechta
-street: "Falkenrotter Straße"
-housenumber: 163
-phone: "+49 4441 999235"
-opening_hours: "Mo-Fr 05:00-23:00; Sa 06:00-23:00; Su 07:00-23:00"
-website: "http://www.felta.de/"
+street: Falkenrotter Straße
+housenumber: "163"
+phone: +49 4441 999235
+opening_hours: Mo-Fr 05:00-23:00; Sa 06:00-23:00; Su 07:00-23:00
+website: http://www.felta.de/

@@ -1,11 +1,11 @@
 id: 184340224
-type: way
+type: node
 latitude: 51.92708
 longitude: 10.34065
 postcode: "38685"
 city: Langelsheim
-street: "Kolberger Straße"
-housenumber: 1
+street: Kolberger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

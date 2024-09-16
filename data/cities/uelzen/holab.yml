@@ -1,11 +1,11 @@
 id: 229433700
-type: way
+type: node
 latitude: 52.97504
 longitude: 10.56383
 postcode: "29525"
 city: Uelzen
-street: "Spottweg"
-housenumber: 4
+street: Spottweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

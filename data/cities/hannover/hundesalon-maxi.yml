@@ -4,8 +4,8 @@ latitude: 52.35018
 longitude: 9.77336
 postcode: "30519"
 city: Hannover
-street: "Liebrechtstraße"
-housenumber: 61
-phone: "01521 3563329"
-opening_hours: "anrufen"
+street: Liebrechtstraße
+housenumber: "61"
+phone: 01521 3563329
+opening_hours: '"anrufen"'
 website: ""

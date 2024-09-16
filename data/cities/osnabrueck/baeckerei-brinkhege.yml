@@ -4,8 +4,8 @@ latitude: 52.27483
 longitude: 8.01023
 postcode: "49078"
 city: Osnabrück
-street: "Rheiner Landstraße"
-housenumber: 98
-phone: "+49 541 6 00 34 86"
-opening_hours: "Mo-Fr 06:00-19:00, Sa 06:00-18:00, Su 07:00-18:00"
-website: "https://www.brinki.de/"
+street: Rheiner Landstraße
+housenumber: "98"
+phone: +49 541 6 00 34 86
+opening_hours: Mo-Fr 06:00-19:00, Sa 06:00-18:00, Su 07:00-18:00
+website: https://www.brinki.de/

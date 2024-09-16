@@ -1,11 +1,11 @@
 id: 303153900
-type: way
+type: node
 latitude: 53.16714
 longitude: 7.34201
 postcode: "26826"
 city: Weener
-street: "Bunder Straße"
-housenumber: 1
+street: Bunder Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.mb-kfzservice.de/"
+website: http://www.mb-kfzservice.de/

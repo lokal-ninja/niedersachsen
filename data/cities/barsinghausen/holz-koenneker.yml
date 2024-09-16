@@ -1,11 +1,11 @@
 id: 291449619
-type: way
+type: node
 latitude: 52.27767
 longitude: 9.51283
 postcode: "30890"
 city: Barsinghausen
-street: "Wennigser Straße"
-housenumber: 112
-phone: "+49 5105 8920"
+street: Wennigser Straße
+housenumber: "112"
+phone: +49 5105 8920
 opening_hours: ""
-website: "https://www.holz-koenneker.de/"
+website: https://www.holz-koenneker.de/

@@ -1,11 +1,11 @@
 id: 224853913
-type: way
+type: node
 latitude: 52.66223
 longitude: 8.20606
 postcode: "49393"
 city: Lohne (Oldenburg)
-street: "Gingfeld"
-housenumber: 2
-phone: "+49 4442 72116"
-opening_hours: "Mo-Fr 15:00-18:00; Sa 10:00-13:00; PH,Su off"
+street: Gingfeld
+housenumber: "2"
+phone: +49 4442 72116
+opening_hours: Mo-Fr 15:00-18:00; Sa 10:00-13:00; PH,Su off
 website: ""

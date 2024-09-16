@@ -1,11 +1,11 @@
 id: 175579828
-type: way
+type: node
 latitude: 53.08529
 longitude: 8.87839
 postcode: "28329"
 city: Bremen
-street: "Philipp-Scheidemann-Straße"
-housenumber: 11
-phone: "+49 421 8782588"
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://www.edeka.de/"
+street: Philipp-Scheidemann-Straße
+housenumber: "11"
+phone: +49 421 8782588
+opening_hours: Mo-Sa 06:00-22:00
+website: https://www.edeka.de/

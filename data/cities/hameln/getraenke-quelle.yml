@@ -1,11 +1,11 @@
 id: 390186149
-type: way
+type: node
 latitude: 52.10611
 longitude: 9.33113
 postcode: "31787"
 city: Hameln
-street: "Kerschensteinerstraße"
-housenumber: 3
+street: Kerschensteinerstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

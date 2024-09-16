@@ -1,11 +1,11 @@
 id: 191929066
-type: way
+type: node
 latitude: 51.80325
 longitude: 10.33264
 postcode: "38678"
 city: Clausthal-Zellerfeld
-street: "Osteröder Straße"
-housenumber: 2
+street: Osteröder Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

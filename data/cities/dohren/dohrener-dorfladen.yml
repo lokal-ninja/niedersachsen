@@ -4,8 +4,8 @@ latitude: 53.3054
 longitude: 9.70222
 postcode: "21255"
 city: Dohren
-street: "Fischteichenweg"
-housenumber: 2
-phone: "+49 1573 2063373"
-opening_hours: "Mo-Fr 05:00-11:30,15:30-18:00; Sa-Su 06:00-10:00"
+street: Fischteichenweg
+housenumber: "2"
+phone: +49 1573 2063373
+opening_hours: Mo-Fr 05:00-11:30,15:30-18:00; Sa-Su 06:00-10:00
 website: ""

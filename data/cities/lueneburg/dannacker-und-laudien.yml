@@ -1,11 +1,11 @@
 id: 88244220
-type: way
+type: node
 latitude: 53.23932
 longitude: 10.45745
 postcode: "21337"
 city: Lüneburg
-street: "August-Horch-Straße"
-housenumber: 22
+street: August-Horch-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.dannacker-laudien.de/"
+website: http://www.dannacker-laudien.de/

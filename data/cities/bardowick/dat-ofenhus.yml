@@ -1,11 +1,11 @@
 id: 377323678
-type: way
+type: node
 latitude: 53.29187
 longitude: 10.38657
 postcode: "21357"
 city: Bardowick
-street: "Bahnhofstraße"
-housenumber: 5
-phone: "+49 4131 155460"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-13:00"
-website: "https://www.dat-ofenhus.de/"
+street: Bahnhofstraße
+housenumber: "5"
+phone: +49 4131 155460
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-13:00
+website: https://www.dat-ofenhus.de/

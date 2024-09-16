@@ -1,11 +1,11 @@
 id: 208978434
-type: way
+type: node
 latitude: 52.64167
 longitude: 9.22533
 postcode: "31582"
 city: Nienburg/Weser
-street: "Kräher Weg"
-housenumber: 1
-phone: "+49 5021 994940"
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
-website: "https://filiale.kaufland.de/service/filiale/nienburg-weser-4653.html"
+street: Kräher Weg
+housenumber: "1"
+phone: +49 5021 994940
+opening_hours: Mo-Sa 07:00-22:00; PH,Su off
+website: https://filiale.kaufland.de/service/filiale/nienburg-weser-4653.html

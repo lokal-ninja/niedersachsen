@@ -1,11 +1,11 @@
 id: 603742583
-type: way
+type: node
 latitude: 53.05511
 longitude: 8.25088
 postcode: "26209"
 city: Hatten
-street: "Bümmersteder Straße"
-housenumber: 15
+street: Bümmersteder Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.bestattungen-schwindt.de/"
+website: https://www.bestattungen-schwindt.de/

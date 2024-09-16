@@ -1,11 +1,11 @@
 id: 311900808
-type: way
+type: node
 latitude: 52.87688
 longitude: 9.06102
 postcode: "27327"
 city: Martfeld
-street: "Alte Bremer Straße"
-housenumber: 13
+street: Alte Bremer Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

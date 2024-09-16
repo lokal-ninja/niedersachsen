@@ -4,8 +4,8 @@ latitude: 52.15255
 longitude: 9.95093
 postcode: "31134"
 city: Hildesheim
-street: "Rathausstraße"
-housenumber: 25
-phone: "+49 5121 1740220"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://herr-von-myra.de/"
+street: Rathausstraße
+housenumber: "25"
+phone: +49 5121 1740220
+opening_hours: Mo-Sa 09:00-17:00
+website: https://herr-von-myra.de/

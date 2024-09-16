@@ -4,8 +4,8 @@ latitude: 53.01175
 longitude: 9.0788
 postcode: "28832"
 city: Achim
-street: "Finienweg"
-housenumber: 15
-phone: "+49 4202 9729944"
-opening_hours: "Mo-Tu,Th-Sa 09:00-13:00, Mo-Tu,Th-Fr 14:30-18:00"
-website: "https://www.2-rad-dreher.de/"
+street: Finienweg
+housenumber: "15"
+phone: +49 4202 9729944
+opening_hours: Mo-Tu,Th-Sa 09:00-13:00, Mo-Tu,Th-Fr 14:30-18:00
+website: https://www.2-rad-dreher.de/

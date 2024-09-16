@@ -4,8 +4,8 @@ latitude: 53.3902
 longitude: 7.20798
 postcode: "26721"
 city: Emden
-street: "Auricher Straße"
-housenumber: 212
-phone: "+49 4921 42 555"
-opening_hours: "Mo-Fr 04:30-24:00; Sa 04:30-01:00, Su 07:00-00:00"
-website: "https://www.score-emden.de/"
+street: Auricher Straße
+housenumber: "212"
+phone: +49 4921 42 555
+opening_hours: Mo-Fr 04:30-24:00; Sa 04:30-01:00, Su 07:00-00:00
+website: https://www.score-emden.de/

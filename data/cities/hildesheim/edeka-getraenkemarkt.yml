@@ -1,11 +1,11 @@
 id: 126656463
-type: way
+type: node
 latitude: 52.1492
 longitude: 9.91926
 postcode: "31137"
 city: Hildesheim
-street: "Himmelsthürer Straße"
-housenumber: 27
+street: Himmelsthürer Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 619208213
-type: way
+type: node
 latitude: 51.35074
 longitude: 9.55978
 postcode: "34355"
 city: Staufenberg
-street: "In der Fuldaaue"
-housenumber: 8
+street: In der Fuldaaue
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

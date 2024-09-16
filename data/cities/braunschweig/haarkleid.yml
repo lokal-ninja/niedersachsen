@@ -4,8 +4,8 @@ latitude: 52.26398
 longitude: 10.54915
 postcode: "38104"
 city: Braunschweig
-street: "Kastanienallee"
-housenumber: 38
+street: Kastanienallee
+housenumber: "38"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00"
-website: "https://www.haarkleid-bs.de/"
+opening_hours: Tu-Fr 09:00-19:00
+website: https://www.haarkleid-bs.de/

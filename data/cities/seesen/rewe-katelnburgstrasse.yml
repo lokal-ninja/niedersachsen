@@ -1,11 +1,11 @@
 id: 277232100
-type: way
+type: node
 latitude: 51.94573
 longitude: 10.12959
 postcode: "38723"
 city: Seesen
-street: "Katelnburgstraße"
-housenumber: 17
+street: Katelnburgstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

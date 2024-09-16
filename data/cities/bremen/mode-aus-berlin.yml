@@ -4,8 +4,8 @@ latitude: 53.07229
 longitude: 8.81724
 postcode: "28203"
 city: Bremen
-street: "Ostertorsteinweg"
-housenumber: 60
+street: Ostertorsteinweg
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-17:00"
-website: "https://modeausberlin-bremen.de/"
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-17:00
+website: https://modeausberlin-bremen.de/

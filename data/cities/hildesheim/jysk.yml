@@ -1,11 +1,11 @@
 id: 152979114
-type: way
+type: node
 latitude: 52.16555
 longitude: 9.97144
 postcode: ""
 city: Hildesheim
-street: "Bavenstedter Straße"
-housenumber: 67
+street: Bavenstedter Straße
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

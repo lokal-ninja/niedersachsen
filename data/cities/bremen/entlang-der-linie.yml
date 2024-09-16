@@ -4,8 +4,8 @@ latitude: 53.07463
 longitude: 8.82244
 postcode: "28203"
 city: Bremen
-street: "Am Dobben"
-housenumber: 58
-phone: "+49 421 1614252"
+street: Am Dobben
+housenumber: "58"
+phone: +49 421 1614252
 opening_hours: ""
-website: "https://www.entlangderlinie.de"
+website: https://www.entlangderlinie.de

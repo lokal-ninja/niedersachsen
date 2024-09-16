@@ -1,11 +1,11 @@
 id: 441004196
-type: way
+type: node
 latitude: 52.14551
 longitude: 8.05437
 postcode: "49186"
 city: Bad Iburg
-street: "Bielefelder Straße"
-housenumber: 36
+street: Bielefelder Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

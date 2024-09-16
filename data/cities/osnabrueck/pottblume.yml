@@ -1,11 +1,12 @@
 id: 205989607
-type: way
+type: node
 latitude: 52.26328
 longitude: 8.06427
 postcode: "49084"
 city: Osnabrück
-street: "Schweerstraße"
-housenumber: 12
-phone: "+49 541 589001"
-opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-18:00; Su 10:00-13:00 eingeschränkter Verkauf; PH off"
-website: "https://pottblume.de/"
+street: Schweerstraße
+housenumber: "12"
+phone: +49 541 589001
+opening_hours: Mo-Fr 08:00-18:30, Sa 08:00-18:00; Su 10:00-13:00 "eingeschränkter
+    Verkauf"; PH off
+website: https://pottblume.de/

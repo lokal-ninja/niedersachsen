@@ -1,11 +1,11 @@
 id: 238869591
-type: way
+type: node
 latitude: 53.07822
 longitude: 8.94286
 postcode: "28325"
 city: Bremen
-street: "Schevemoorer Landstraße"
+street: Schevemoorer Landstraße
 housenumber: 14-20
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/bremen/osterholz/schevemoorer-landstrasse-14-20.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/bremen/osterholz/schevemoorer-landstrasse-14-20.html

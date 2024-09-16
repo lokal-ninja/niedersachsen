@@ -4,8 +4,8 @@ latitude: 52.38088
 longitude: 10.53624
 postcode: "38527"
 city: Meine
-street: "Am Marktplatz"
-housenumber: 1
+street: Am Marktplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.meinekueche.com"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.meinekueche.com

@@ -4,8 +4,8 @@ latitude: 51.56362
 longitude: 9.98351
 postcode: "37077"
 city: Göttingen
-street: "Senderstraße"
-housenumber: 2
+street: Senderstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:30; Su,PH 07:00-17:00"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-17:30; Su,PH 07:00-17:00
 website: ""

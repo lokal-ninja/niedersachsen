@@ -4,8 +4,8 @@ latitude: 53.0729
 longitude: 8.82516
 postcode: "28203"
 city: Bremen
-street: "Vor dem Steintor"
-housenumber: 31
-phone: "+49 421 43084436"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+street: Vor dem Steintor
+housenumber: "31"
+phone: +49 421 43084436
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

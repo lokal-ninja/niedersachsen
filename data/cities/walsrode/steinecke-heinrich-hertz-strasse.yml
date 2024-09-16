@@ -4,8 +4,8 @@ latitude: 52.86509
 longitude: 9.61438
 postcode: "29664"
 city: Walsrode
-street: "Heinrich-Hertz-Straße"
-housenumber: 9
-phone: "+49 5161 945973"
-opening_hours: "Mo-Sa 07:00-22:00, Su, PH off"
-website: "https://www.steinecke.info/"
+street: Heinrich-Hertz-Straße
+housenumber: "9"
+phone: +49 5161 945973
+opening_hours: Mo-Sa 07:00-22:00, Su, PH off
+website: https://www.steinecke.info/

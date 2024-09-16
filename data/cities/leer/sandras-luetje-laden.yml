@@ -1,11 +1,11 @@
 id: 409737125
-type: way
+type: node
 latitude: 53.22928
 longitude: 7.4739
 postcode: "26789"
 city: Leer
-street: "Hoheellernweg"
-housenumber: 60
-phone: "+49 491 98791363"
-opening_hours: "Mo-Fr 06:00-21:00; Sa-Su 07:00-21:00"
+street: Hoheellernweg
+housenumber: "60"
+phone: +49 491 98791363
+opening_hours: Mo-Fr 06:00-21:00; Sa-Su 07:00-21:00
 website: ""

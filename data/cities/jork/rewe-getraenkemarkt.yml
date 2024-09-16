@@ -1,11 +1,11 @@
 id: 550683878
-type: way
+type: node
 latitude: 53.53197
 longitude: 9.68264
 postcode: "21635"
 city: Jork
-street: "Osterjork"
+street: Osterjork
 housenumber: 18a
-phone: "+49 4162 9130841"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe-sörenschmidt.de/rewe-jork-getraenkemarkt/"
+phone: +49 4162 9130841
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe-sörenschmidt.de/rewe-jork-getraenkemarkt/

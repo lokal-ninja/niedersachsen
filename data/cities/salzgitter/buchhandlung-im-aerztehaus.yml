@@ -4,8 +4,8 @@ latitude: 52.15541
 longitude: 10.32885
 postcode: "38226"
 city: Salzgitter
-street: "Chemnitzer Straße"
-housenumber: 78
-phone: "+49 53 41 44 45 7"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-13:30; Sa 09:30-13:00"
-website: "https://www.genialokal.de/buchhandlung/salzgitter/schulbuch-salzgitter/"
+street: Chemnitzer Straße
+housenumber: "78"
+phone: +49 53 41 44 45 7
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-13:30; Sa 09:30-13:00
+website: https://www.genialokal.de/buchhandlung/salzgitter/schulbuch-salzgitter/

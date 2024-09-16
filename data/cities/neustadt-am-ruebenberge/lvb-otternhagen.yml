@@ -1,11 +1,11 @@
 id: 635494081
-type: way
+type: node
 latitude: 52.51377
 longitude: 9.53382
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "An der Waldbühne"
-housenumber: 41
+street: An der Waldbühne
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

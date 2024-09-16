@@ -4,8 +4,8 @@ latitude: 51.93944
 longitude: 9.81162
 postcode: "31073"
 city: Delligsen
-street: "Dr.-Jasper-Straße"
-housenumber: 43
-phone: "+49 5187 301855"
-opening_hours: "Mo-Fr 15:00-18:00; Sa 10:00-13:00"
-website: "https://www.kuechen-delligsen-alfeld.de/"
+street: Dr.-Jasper-Straße
+housenumber: "43"
+phone: +49 5187 301855
+opening_hours: Mo-Fr 15:00-18:00; Sa 10:00-13:00
+website: https://www.kuechen-delligsen-alfeld.de/

@@ -1,11 +1,11 @@
 id: 159842399
-type: way
+type: node
 latitude: 52.99974
 longitude: 9.10005
 postcode: "28832"
 city: Achim
-street: "Am Lahof"
-housenumber: 1
+street: Am Lahof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

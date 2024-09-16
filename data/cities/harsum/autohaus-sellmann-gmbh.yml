@@ -1,11 +1,11 @@
 id: 130002677
-type: way
+type: node
 latitude: 52.21588
 longitude: 9.97341
 postcode: "31177"
 city: Harsum
-street: "Siemensstraße"
-housenumber: 6
+street: Siemensstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

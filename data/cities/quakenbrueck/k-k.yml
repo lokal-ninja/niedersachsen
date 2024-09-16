@@ -1,11 +1,11 @@
 id: 670418317
-type: way
+type: node
 latitude: 52.67382
 longitude: 7.95609
 postcode: "49610"
 city: Quakenbrück
-street: "Josef-Vonier-Straße"
-housenumber: 1
+street: Josef-Vonier-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su off; PH off"
+opening_hours: Mo-Sa 07:30-22:00; Su off; PH off
 website: ""

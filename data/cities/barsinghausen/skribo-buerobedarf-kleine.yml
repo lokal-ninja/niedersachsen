@@ -4,8 +4,8 @@ latitude: 52.30373
 longitude: 9.46103
 postcode: "30890"
 city: Barsinghausen
-street: "Breite Straße"
-housenumber: 7
-phone: "+49 5105 2381"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su off"
-website: "https://www.skribo.de/haendler/kleine/"
+street: Breite Straße
+housenumber: "7"
+phone: +49 5105 2381
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su off
+website: https://www.skribo.de/haendler/kleine/

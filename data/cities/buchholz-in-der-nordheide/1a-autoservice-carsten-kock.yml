@@ -4,8 +4,8 @@ latitude: 53.34809
 longitude: 9.86555
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Maurerstraße"
-housenumber: 32
-phone: "+49 4181 39710"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00"
-website: "https://kock.go1a.de/"
+street: Maurerstraße
+housenumber: "32"
+phone: +49 4181 39710
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00
+website: https://kock.go1a.de/

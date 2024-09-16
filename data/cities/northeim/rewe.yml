@@ -1,11 +1,11 @@
 id: 35582218
-type: way
+type: node
 latitude: 51.70099
 longitude: 9.99549
 postcode: "37154"
 city: Northeim
-street: "Graf-Otto-Straße"
-housenumber: 10
+street: Graf-Otto-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

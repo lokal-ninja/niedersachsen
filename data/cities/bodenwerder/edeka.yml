@@ -1,11 +1,11 @@
 id: 504463696
-type: way
+type: node
 latitude: 51.9782
 longitude: 9.51514
 postcode: "37619"
 city: Bodenwerder
-street: "Im Hagen"
-housenumber: 9
-phone: "+49 5533 934453"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-verbarg-im-hagen-9/index.jsp"
+street: Im Hagen
+housenumber: "9"
+phone: +49 5533 934453
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-verbarg-im-hagen-9/index.jsp

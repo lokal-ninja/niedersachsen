@@ -1,11 +1,11 @@
 id: 220966991
-type: way
+type: node
 latitude: 52.84153
 longitude: 8.06947
 postcode: "49661"
 city: Cloppenburg
-street: "Werner-Eckart-Ring"
-housenumber: 6
+street: Werner-Eckart-Ring
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

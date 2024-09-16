@@ -1,11 +1,11 @@
 id: 298051233
-type: way
+type: node
 latitude: 52.48112
 longitude: 10.08752
 postcode: "31311"
 city: Uetze
-street: "Weißdornallee"
-housenumber: 1
+street: Weißdornallee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

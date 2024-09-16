@@ -1,11 +1,11 @@
 id: 1309372437
-type: way
+type: node
 latitude: 52.21956
 longitude: 10.90607
 postcode: "38373"
 city: Frellstedt
-street: "An der Zuckerraffinerie"
-housenumber: 14
+street: An der Zuckerraffinerie
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

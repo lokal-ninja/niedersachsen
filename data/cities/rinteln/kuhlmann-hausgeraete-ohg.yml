@@ -4,8 +4,8 @@ latitude: 52.19579
 longitude: 9.10356
 postcode: "31737"
 city: Rinteln
-street: "Berliner Straße"
-housenumber: 19
-phone: "+49 5751 5039"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.kuhlmann-hausgeraete.de/"
+street: Berliner Straße
+housenumber: "19"
+phone: +49 5751 5039
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
+website: https://www.kuhlmann-hausgeraete.de/

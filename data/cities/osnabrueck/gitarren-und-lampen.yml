@@ -4,8 +4,8 @@ latitude: 52.27501
 longitude: 8.07574
 postcode: "49084"
 city: Osnabrück
-street: "Schützenstraße"
-housenumber: 2
+street: Schützenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Fr 14:30-18:30"
-website: "https://www.gitarren-und-lampen.de/"
+opening_hours: Fr 14:30-18:30
+website: https://www.gitarren-und-lampen.de/

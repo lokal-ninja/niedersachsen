@@ -4,8 +4,8 @@ latitude: 52.26601
 longitude: 10.50503
 postcode: "38118"
 city: Braunschweig
-street: "Goslarsche Straße"
-housenumber: 74
+street: Goslarsche Straße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 15:00-18:00"
-website: "https://www.verkehr-bs.de/tickets/vorverkaufsstellen.html"
+opening_hours: Mo-Sa 09:00-13:00, Mo-Fr 15:00-18:00
+website: https://www.verkehr-bs.de/tickets/vorverkaufsstellen.html

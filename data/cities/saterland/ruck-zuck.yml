@@ -1,11 +1,11 @@
 id: 55087643
-type: way
+type: node
 latitude: 53.07262
 longitude: 7.69993
 postcode: "26683"
 city: Saterland
-street: "Hauptstraße"
-housenumber: 302
-phone: "+49 4492 1333"
+street: Hauptstraße
+housenumber: "302"
+phone: +49 4492 1333
 opening_hours: ""
-website: "https://www.ruckzuck-umzuege.de/"
+website: https://www.ruckzuck-umzuege.de/

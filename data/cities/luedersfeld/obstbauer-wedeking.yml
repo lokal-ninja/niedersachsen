@@ -1,11 +1,11 @@
 id: 109447792
-type: way
+type: node
 latitude: 52.32834
 longitude: 9.24991
 postcode: "31702"
 city: Lüdersfeld
-street: "Vornhagen"
-housenumber: 8
-phone: "+49 5721 9805169"
+street: Vornhagen
+housenumber: "8"
+phone: +49 5721 9805169
 opening_hours: ""
-website: "https://www.obstbauer-wedeking.de/"
+website: https://www.obstbauer-wedeking.de/

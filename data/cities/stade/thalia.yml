@@ -1,11 +1,11 @@
 id: 231793156
-type: way
+type: node
 latitude: 53.59892
 longitude: 9.47586
 postcode: "21682"
 city: Stade
-street: "Breite Straße"
-housenumber: 2
+street: Breite Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

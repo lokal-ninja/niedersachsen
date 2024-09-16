@@ -4,8 +4,8 @@ latitude: 52.9191
 longitude: 11.28687
 postcode: "29485"
 city: Lemgow
-street: "Lindenallee"
-housenumber: 11
-phone: "05883 989757-0"
-opening_hours: "Montag-Freitag 08.00-17.00 Uhr; Samstag 09.00-12.00 Uhr"
-website: "https://www.vr-plus.de/startseite.html"
+street: Lindenallee
+housenumber: "11"
+phone: 05883 989757-0
+opening_hours: Montag-Freitag 08.00-17.00 Uhr; Samstag 09.00-12.00 Uhr
+website: https://www.vr-plus.de/startseite.html

@@ -4,8 +4,9 @@ latitude: 53.2284
 longitude: 7.45071
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Brunnenstraße"
-housenumber: 15
+street: Brunnenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo off; Tu 09:00-18:00; We-Fr 08:00-18:00; Sa 08:00-13:00; Su off; PH off"
-website: "https://friseur-zatschek.de/"
+opening_hours: Mo off; Tu 09:00-18:00; We-Fr 08:00-18:00; Sa 08:00-13:00; Su off;
+    PH off
+website: https://friseur-zatschek.de/

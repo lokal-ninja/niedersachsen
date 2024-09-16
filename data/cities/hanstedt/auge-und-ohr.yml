@@ -1,11 +1,11 @@
 id: 355273474
-type: way
+type: node
 latitude: 53.25798
 longitude: 10.01511
 postcode: "21271"
 city: Hanstedt
-street: "Winsener Straße"
-housenumber: 5
+street: Winsener Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00;Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00;Sa 09:00-13:00
 website: ""

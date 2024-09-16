@@ -4,8 +4,8 @@ latitude: 52.37266
 longitude: 9.7844
 postcode: "30625"
 city: Hannover
-street: "Scheidestraße"
-housenumber: 15
+street: Scheidestraße
+housenumber: "15"
 phone: "+49511380777777"
-opening_hours: "Mo-Sa 17:30-21:30"
-website: "http://www.vinoveritas.bar/"
+opening_hours: Mo-Sa 17:30-21:30
+website: http://www.vinoveritas.bar/

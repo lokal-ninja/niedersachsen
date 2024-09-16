@@ -4,8 +4,8 @@ latitude: 53.04893
 longitude: 8.95822
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 36935097"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.levi.com/DE/de_DE"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 36935097
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.levi.com/DE/de_DE

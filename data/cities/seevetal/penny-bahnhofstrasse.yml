@@ -1,11 +1,11 @@
 id: 478829471
-type: way
+type: node
 latitude: 53.39137
 longitude: 9.98245
 postcode: "21218"
 city: Seevetal
-street: "Bahnhofstraße"
-housenumber: 17
+street: Bahnhofstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

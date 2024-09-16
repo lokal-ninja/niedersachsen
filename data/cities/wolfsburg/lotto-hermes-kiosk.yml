@@ -4,8 +4,8 @@ latitude: 52.45263
 longitude: 10.80609
 postcode: "38448"
 city: Wolfsburg
-street: "Schulenburgallee"
-housenumber: 50
+street: Schulenburgallee
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 06:30-21:00; Sa 07:00-21:00; Su 09:00-21:00"
-website: "https://paketshop.myhermes.de/int/hpsf.html?shopid=661669"
+opening_hours: Mo-Fr 06:30-21:00; Sa 07:00-21:00; Su 09:00-21:00
+website: https://paketshop.myhermes.de/int/hpsf.html?shopid=661669

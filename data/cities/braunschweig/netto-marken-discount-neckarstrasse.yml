@@ -1,11 +1,11 @@
 id: 147038110
-type: way
+type: node
 latitude: 52.24112
 longitude: 10.49292
 postcode: "38120"
 city: Braunschweig
-street: "Neckarstraße"
+street: Neckarstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

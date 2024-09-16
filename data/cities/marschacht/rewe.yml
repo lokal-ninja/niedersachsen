@@ -1,11 +1,11 @@
 id: 217962212
-type: way
+type: node
 latitude: 53.41885
 longitude: 10.36254
 postcode: "21436"
 city: Marschacht
-street: "Elbuferstraße"
-housenumber: 114
+street: Elbuferstraße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

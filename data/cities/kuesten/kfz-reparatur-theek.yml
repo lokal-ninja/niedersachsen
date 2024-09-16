@@ -1,11 +1,11 @@
 id: 222319586
-type: way
+type: node
 latitude: 52.97704
 longitude: 11.06404
 postcode: "29482"
 city: Küsten
-street: "Lüchower Straße"
-housenumber: 24
-phone: "+49 5841 6928"
+street: Lüchower Straße
+housenumber: "24"
+phone: +49 5841 6928
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.40008
 longitude: 9.73632
 postcode: "30165"
 city: Hannover
-street: "Vahrenwalder Straße"
-housenumber: 150
-phone: "+49 511 37444880"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://boc24.de/pages/fahrrad-hannover-boc-filiale-vahrenwald/"
+street: Vahrenwalder Straße
+housenumber: "150"
+phone: +49 511 37444880
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://boc24.de/pages/fahrrad-hannover-boc-filiale-vahrenwald/

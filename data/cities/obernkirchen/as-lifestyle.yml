@@ -1,11 +1,11 @@
 id: 1054046250
-type: way
+type: node
 latitude: 52.2822
 longitude: 9.13148
 postcode: "31683"
 city: Obernkirchen
-street: "Gelldorfer Weg"
+street: Gelldorfer Weg
 housenumber: 42a
-phone: "+49 5724 9700260"
+phone: +49 5724 9700260
 opening_hours: ""
-website: "https://www.caddycool.com/"
+website: https://www.caddycool.com/

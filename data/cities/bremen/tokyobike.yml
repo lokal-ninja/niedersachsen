@@ -4,8 +4,8 @@ latitude: 53.07024
 longitude: 8.83489
 postcode: "28205"
 city: Bremen
-street: "Hamburger Straße"
-housenumber: 27
-phone: "+49 1778610582"
-opening_hours: "Sa 12:00-17:00"
-website: "https://tokyobike.de/"
+street: Hamburger Straße
+housenumber: "27"
+phone: +49 1778610582
+opening_hours: Sa 12:00-17:00
+website: https://tokyobike.de/

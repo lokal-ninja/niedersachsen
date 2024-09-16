@@ -1,11 +1,11 @@
 id: 882660083
-type: way
+type: node
 latitude: 53.49633
 longitude: 8.02424
 postcode: "26452"
 city: Sande
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:30-18:00; Su 07:00-18:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:30-18:00; Su 07:00-18:00
 website: ""

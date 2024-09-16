@@ -4,8 +4,8 @@ latitude: 53.08251
 longitude: 9.99705
 postcode: "29646"
 city: Bispingen
-street: "Hauptstraße"
-housenumber: 10
-phone: "+49 5194 6645"
-opening_hours: "Tu-Th 09:00-12:30; Fr 08:00-18:00; Sa 07:30-12:00"
-website: "https://www.meyer-bispingen.de/"
+street: Hauptstraße
+housenumber: "10"
+phone: +49 5194 6645
+opening_hours: Tu-Th 09:00-12:30; Fr 08:00-18:00; Sa 07:30-12:00
+website: https://www.meyer-bispingen.de/

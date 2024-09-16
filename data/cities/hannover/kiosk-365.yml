@@ -4,8 +4,8 @@ latitude: 52.39736
 longitude: 9.83213
 postcode: "30629"
 city: Hannover
-street: "Götzstraße"
-housenumber: 2
+street: Götzstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00; PH off"
+opening_hours: Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.37623
 longitude: 9.97987
 postcode: "31275"
 city: Lehrte
-street: "Zuckerpassage"
-housenumber: 33
-phone: "+49 5132 8218984"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "https://www.reno.de/store/773c96e3e2764fb89f8a5ad5fb4119d8"
+street: Zuckerpassage
+housenumber: "33"
+phone: +49 5132 8218984
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: https://www.reno.de/store/773c96e3e2764fb89f8a5ad5fb4119d8

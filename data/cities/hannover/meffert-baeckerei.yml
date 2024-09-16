@@ -1,11 +1,11 @@
 id: 617483865
-type: way
+type: node
 latitude: 52.33499
 longitude: 9.77365
 postcode: "30519"
 city: Hannover
-street: "An der Wollebahn"
-housenumber: 4
+street: An der Wollebahn
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

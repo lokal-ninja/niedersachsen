@@ -4,8 +4,8 @@ latitude: 52.38565
 longitude: 10.25801
 postcode: "31234"
 city: Edemissen
-street: "Wöhrbergweg"
-housenumber: 1
-phone: "+49 5176 8198"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.edemissen.musterhauskuechen.de/"
+street: Wöhrbergweg
+housenumber: "1"
+phone: +49 5176 8198
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.edemissen.musterhauskuechen.de/

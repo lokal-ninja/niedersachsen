@@ -4,8 +4,8 @@ latitude: 52.87629
 longitude: 9.06324
 postcode: "27327"
 city: Martfeld
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:00-16:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-k%c3%b6%c3%b6p-in-klausen-hauptstr.-23/index.jsp"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:00-16:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-k%c3%b6%c3%b6p-in-klausen-hauptstr.-23/index.jsp

@@ -4,8 +4,8 @@ latitude: 53.09399
 longitude: 8.80674
 postcode: "28215"
 city: Bremen
-street: "Hemmstraße"
-housenumber: 167
+street: Hemmstraße
+housenumber: "167"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:00; Sa 09:00-14:00"
-website: "https://www.blumentimm.de/"
+opening_hours: Mo-Fr 10:30-18:00; Sa 09:00-14:00
+website: https://www.blumentimm.de/

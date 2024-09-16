@@ -1,11 +1,11 @@
 id: 495235998
-type: way
+type: node
 latitude: 52.44182
 longitude: 9.67108
 postcode: "30855"
 city: Langenhagen
-street: "Langenhagener Straße"
-housenumber: 84
+street: Langenhagener Straße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://villmann-baumschulen.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://villmann-baumschulen.de/

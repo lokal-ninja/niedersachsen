@@ -4,8 +4,8 @@ latitude: 52.37118
 longitude: 9.71259
 postcode: "30451"
 city: Hannover
-street: "Fössestraße"
-housenumber: 6
-phone: "+49 511 442607"
-opening_hours: "Mo-Fr 10:00-13:30,14:30-18:00; Sa 10:00-13:30"
-website: "https://www.menzel-electronic.de/"
+street: Fössestraße
+housenumber: "6"
+phone: +49 511 442607
+opening_hours: Mo-Fr 10:00-13:30,14:30-18:00; Sa 10:00-13:30
+website: https://www.menzel-electronic.de/

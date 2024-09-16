@@ -4,8 +4,8 @@ latitude: 52.80104
 longitude: 8.64222
 postcode: "27239"
 city: Twistringen
-street: "Steller Straße"
-housenumber: 17
-phone: "04243 5027651"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.meyermoenchhof.de"
+street: Steller Straße
+housenumber: "17"
+phone: 04243 5027651
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.meyermoenchhof.de

@@ -1,11 +1,11 @@
 id: 508495256
-type: way
+type: node
 latitude: 53.50462
 longitude: 9.59122
 postcode: "21640"
 city: Horneburg
-street: "Am Poggenpohl"
-housenumber: 2
-phone: "+49 4163 8263054"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/horneburg/565576/rewe-markt-am-poggenpohl-2/"
+street: Am Poggenpohl
+housenumber: "2"
+phone: +49 4163 8263054
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/horneburg/565576/rewe-markt-am-poggenpohl-2/

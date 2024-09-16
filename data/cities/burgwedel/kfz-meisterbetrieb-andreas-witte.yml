@@ -1,11 +1,11 @@
 id: 173844924
-type: way
+type: node
 latitude: 52.5645
 longitude: 9.84866
 postcode: "30938"
 city: Burgwedel
-street: "Celler Straße"
-housenumber: 1
+street: Celler Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00"
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

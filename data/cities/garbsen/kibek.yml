@@ -1,11 +1,11 @@
 id: 89133662
-type: way
+type: node
 latitude: 52.43123
 longitude: 9.61983
 postcode: "30827"
 city: Garbsen
-street: "Bauboulevard"
-housenumber: 6
-phone: "+49 5131 4624 0"
-opening_hours: "Mo-Fr 10:00-19:00;Sa 10:00-18:00"
-website: "https://www.kibek.de/"
+street: Bauboulevard
+housenumber: "6"
+phone: +49 5131 4624 0
+opening_hours: Mo-Fr 10:00-19:00;Sa 10:00-18:00
+website: https://www.kibek.de/

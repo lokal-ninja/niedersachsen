@@ -1,11 +1,11 @@
 id: 534938643
-type: way
+type: node
 latitude: 52.14986
 longitude: 10.08121
 postcode: "31174"
 city: Schellerten
-street: "Hauptstraße"
-housenumber: 31
+street: Hauptstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr Nach Vereinbarung"
+opening_hours: Mo-Fr "Nach Vereinbarung"
 website: ""

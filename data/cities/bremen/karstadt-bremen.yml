@@ -1,11 +1,11 @@
 id: 316152968
-type: way
+type: node
 latitude: 53.07719
 longitude: 8.80544
 postcode: "28195"
 city: Bremen
-street: "Obernstraße"
+street: Obernstraße
 housenumber: 5-33
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su, PH off"
-website: "https://www.galeria.de/filialen/l/bremen/obernstrasse-5-33/001107"
+opening_hours: Mo-Sa 10:00-19:00; Su, PH off
+website: https://www.galeria.de/filialen/l/bremen/obernstrasse-5-33/001107

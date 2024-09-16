@@ -1,11 +1,11 @@
 id: 493819551
-type: way
+type: node
 latitude: 53.39212
 longitude: 8.00843
 postcode: "26345"
 city: Bockhorn
-street: "Alte Bahnlinie"
-housenumber: 4
-phone: "+49 800 7234870"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/bockhorn.html"
+street: Alte Bahnlinie
+housenumber: "4"
+phone: +49 800 7234870
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/bockhorn.html

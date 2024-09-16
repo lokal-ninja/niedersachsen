@@ -4,8 +4,8 @@ latitude: 53.30977
 longitude: 7.4806
 postcode: "26802"
 city: Moormerland
-street: "Am Kirchweg"
-housenumber: 3
+street: Am Kirchweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-11:00; PH 08:00-11:00"
-website: "https://www.baecker-rector.de/"
+opening_hours: Mo-Sa 06:00-20:00; Su 08:00-11:00; PH 08:00-11:00
+website: https://www.baecker-rector.de/

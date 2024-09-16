@@ -4,8 +4,8 @@ latitude: 52.23451
 longitude: 10.48245
 postcode: "38122"
 city: Braunschweig
-street: "Kruckweg"
-housenumber: 4
+street: Kruckweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-15:00; Su off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-15:00; Su off
 website: ""

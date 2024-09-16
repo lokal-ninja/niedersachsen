@@ -1,11 +1,11 @@
 id: 177177570
-type: way
+type: node
 latitude: 52.34226
 longitude: 9.28227
 postcode: "31700"
 city: Heuerßen
-street: "Auf der Bult"
-housenumber: 30
+street: Auf der Bult
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://baumschule-roehler.de/"
+website: https://baumschule-roehler.de/

@@ -1,11 +1,11 @@
 id: 310061865
-type: way
+type: node
 latitude: 53.24722
 longitude: 8.20135
 postcode: "26180"
 city: Rastede
-street: "Mühlenstraße"
-housenumber: 14
+street: Mühlenstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-We 09:00-19:00;Th 09:00-20:00;Fr 09:00-19:00;Sa 09:00-13:00"
+opening_hours: Mo-We 09:00-19:00;Th 09:00-20:00;Fr 09:00-19:00;Sa 09:00-13:00
 website: ""

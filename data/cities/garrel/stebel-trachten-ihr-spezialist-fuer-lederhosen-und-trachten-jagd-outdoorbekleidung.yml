@@ -1,11 +1,11 @@
 id: 181398179
-type: way
+type: node
 latitude: 52.95135
 longitude: 8.09895
 postcode: "49681"
 city: Garrel
-street: "Königsring"
-housenumber: 11
+street: Königsring
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

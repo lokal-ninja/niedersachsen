@@ -1,11 +1,11 @@
 id: 39403293
-type: way
+type: node
 latitude: 52.63905
 longitude: 10.07539
 postcode: "29223"
 city: Celle
-street: "Telefunkenstraße"
-housenumber: 33
+street: Telefunkenstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
 website: ""

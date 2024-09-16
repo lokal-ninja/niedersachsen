@@ -1,11 +1,11 @@
 id: 149881212
-type: way
+type: node
 latitude: 52.59933
 longitude: 10.10599
 postcode: "29227"
 city: Celle
-street: "Baumschulenweg"
-housenumber: 5
+street: Baumschulenweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

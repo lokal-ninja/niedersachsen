@@ -1,11 +1,11 @@
 id: 223944333
-type: way
+type: node
 latitude: 53.13933
 longitude: 7.60613
 postcode: "26842"
 city: Ostrhauderfehn
-street: "Im Gewerbegebiet"
-housenumber: 24
+street: Im Gewerbegebiet
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/

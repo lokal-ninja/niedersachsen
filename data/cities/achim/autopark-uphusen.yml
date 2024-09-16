@@ -1,11 +1,11 @@
 id: 343503956
-type: way
+type: node
 latitude: 53.02607
 longitude: 8.97995
 postcode: "28832"
 city: Achim
-street: "Uphuser Heerstraße"
-housenumber: 9
+street: Uphuser Heerstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

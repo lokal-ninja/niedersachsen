@@ -1,11 +1,11 @@
 id: 91676822
-type: way
+type: node
 latitude: 52.46795
 longitude: 10.19762
 postcode: "31311"
 city: Uetze
-street: "Nordstraße"
-housenumber: 10
-phone: "+49 5173 5960300"
+street: Nordstraße
+housenumber: "10"
+phone: +49 5173 5960300
 opening_hours: ""
-website: "https://beffori.com/"
+website: https://beffori.com/

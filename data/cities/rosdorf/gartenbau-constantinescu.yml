@@ -1,11 +1,11 @@
 id: 375851140
-type: way
+type: node
 latitude: 51.50307
 longitude: 9.90787
 postcode: "37124"
 city: Rosdorf
-street: "Steinflurweg"
-housenumber: 28
+street: Steinflurweg
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Tu,Sa 08:00-13:00; We-Fr 08:00-18:00; PH off"
+opening_hours: Mo-Tu,Sa 08:00-13:00; We-Fr 08:00-18:00; PH off
 website: ""

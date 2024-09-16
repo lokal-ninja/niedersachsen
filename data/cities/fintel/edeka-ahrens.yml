@@ -1,11 +1,11 @@
 id: 42348121
-type: way
+type: node
 latitude: 53.17288
 longitude: 9.66779
 postcode: "27389"
 city: Fintel
-street: "Am Markt"
-housenumber: 3
+street: Am Markt
+housenumber: "3"
 phone: "+49426594121"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:00-18:00
 website: ""

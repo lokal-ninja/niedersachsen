@@ -4,8 +4,8 @@ latitude: 52.33672
 longitude: 9.37994
 postcode: "31542"
 city: Bad Nenndorf
-street: "Hauptstraße"
-housenumber: 28
-phone: "+49 57237980280"
-opening_hours: "Sa 10:00-13:00; Mo-Fr 10:00-18:00"
-website: "https://borchers-buch.de"
+street: Hauptstraße
+housenumber: "28"
+phone: +49 57237980280
+opening_hours: Sa 10:00-13:00; Mo-Fr 10:00-18:00
+website: https://borchers-buch.de

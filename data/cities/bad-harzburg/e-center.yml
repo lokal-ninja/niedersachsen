@@ -1,11 +1,11 @@
 id: 261557321
-type: way
+type: node
 latitude: 51.88807
 longitude: 10.55693
 postcode: "38667"
 city: Bad Harzburg
-street: "Am Güterbahnhof"
-housenumber: 1
-phone: "+49 5322 78460"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Am Güterbahnhof
+housenumber: "1"
+phone: +49 5322 78460
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 380126257
-type: way
+type: node
 latitude: 52.25792
 longitude: 10.54448
 postcode: "38102"
 city: Braunschweig
-street: "Helmstedter Straße"
-housenumber: 132
+street: Helmstedter Straße
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

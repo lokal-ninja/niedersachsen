@@ -1,11 +1,11 @@
 id: 267179462
-type: way
+type: node
 latitude: 53.23004
 longitude: 8.21079
 postcode: "26180"
 city: Rastede
-street: "Oldenburger Straße"
-housenumber: 82
-phone: "+49 4402 972403"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 10:00-14:00"
-website: "https://www.baumschule-rastede.de/"
+street: Oldenburger Straße
+housenumber: "82"
+phone: +49 4402 972403
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 10:00-14:00
+website: https://www.baumschule-rastede.de/

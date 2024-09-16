@@ -1,11 +1,11 @@
 id: 316384197
-type: way
+type: node
 latitude: 53.04594
 longitude: 8.8425
 postcode: "28279"
 city: Bremen
-street: "Borgwardstraße"
+street: Borgwardstraße
 housenumber: 2a
-phone: "+49 421 5980034"
-opening_hours: "PH,Su off; Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.polo-motorrad.de/cms/store/details/polo-store-bremen"
+phone: +49 421 5980034
+opening_hours: PH,Su off; Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.polo-motorrad.de/cms/store/details/polo-store-bremen

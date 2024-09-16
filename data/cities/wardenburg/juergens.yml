@@ -1,11 +1,11 @@
 id: 227996326
-type: way
+type: node
 latitude: 53.06338
 longitude: 8.19736
 postcode: "26203"
 city: Wardenburg
-street: "Huntestraße"
-housenumber: 8
+street: Huntestraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

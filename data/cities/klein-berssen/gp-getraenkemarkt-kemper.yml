@@ -1,11 +1,11 @@
 id: 302876601
-type: way
+type: node
 latitude: 52.76895
 longitude: 7.46578
 postcode: "49777"
 city: Klein Berßen
-street: "Kirchstraße"
-housenumber: 3
+street: Kirchstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

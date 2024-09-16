@@ -4,8 +4,8 @@ latitude: 53.47596
 longitude: 9.69784
 postcode: "21614"
 city: Buxtehude
-street: "Ritterstraße"
-housenumber: 7
+street: Ritterstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-14:00; Sa,Su,PH off"
-website: "https://www.silence-cosmetics.de/"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-14:00; Sa,Su,PH off
+website: https://www.silence-cosmetics.de/

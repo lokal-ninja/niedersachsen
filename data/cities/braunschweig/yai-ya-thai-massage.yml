@@ -1,11 +1,11 @@
 id: 39043573
-type: way
+type: node
 latitude: 52.27285
 longitude: 10.53391
 postcode: "38106"
 city: Braunschweig
-street: "Bültenweg"
-housenumber: 89
+street: Bültenweg
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

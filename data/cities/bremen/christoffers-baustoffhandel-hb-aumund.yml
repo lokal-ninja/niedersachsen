@@ -1,11 +1,11 @@
 id: 25665393
-type: way
+type: node
 latitude: 53.18406
 longitude: 8.62268
 postcode: "28755"
 city: Bremen
-street: "Hammersbecker Straße"
-housenumber: 65
+street: Hammersbecker Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

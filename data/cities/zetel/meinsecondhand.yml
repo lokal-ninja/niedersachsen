@@ -1,11 +1,11 @@
 id: 507054162
-type: way
+type: node
 latitude: 53.38496
 longitude: 7.95524
 postcode: "26340"
 city: Zetel
-street: "Astede"
-housenumber: 4
-phone: "+49 4452 7079408"
-opening_hours: "Mo-Tu 14:00-18:00, Th-Fr 14:00-18:00, Sa 09:00-13:00"
-website: "https://www.playbricks.de/"
+street: Astede
+housenumber: "4"
+phone: +49 4452 7079408
+opening_hours: Mo-Tu 14:00-18:00, Th-Fr 14:00-18:00, Sa 09:00-13:00
+website: https://www.playbricks.de/

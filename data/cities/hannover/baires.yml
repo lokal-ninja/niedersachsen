@@ -4,8 +4,8 @@ latitude: 52.38968
 longitude: 9.74368
 postcode: "30161"
 city: Hannover
-street: "Voßstraße"
-housenumber: 46
-phone: "+49 511 4506670"
-opening_hours: "Mo-Fr 16:00-20:00; Sa 11:00-16:00"
-website: "https://www.baires.de/"
+street: Voßstraße
+housenumber: "46"
+phone: +49 511 4506670
+opening_hours: Mo-Fr 16:00-20:00; Sa 11:00-16:00
+website: https://www.baires.de/

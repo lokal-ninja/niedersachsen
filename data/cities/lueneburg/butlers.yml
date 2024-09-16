@@ -4,8 +4,8 @@ latitude: 53.24984
 longitude: 10.40873
 postcode: "21335"
 city: Lüneburg
-street: "Am Markt"
-housenumber: 6
-phone: "04131 / 69 76 37 0"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.butlers.com/"
+street: Am Markt
+housenumber: "6"
+phone: 04131 / 69 76 37 0
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.butlers.com/

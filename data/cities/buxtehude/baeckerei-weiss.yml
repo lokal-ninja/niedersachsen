@@ -4,8 +4,9 @@ latitude: 53.46715
 longitude: 9.68005
 postcode: "21614"
 city: Buxtehude
-street: "Kählerstraße"
-housenumber: 1
+street: Kählerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 04:30-18:00; Sa 04:30-17:00; Su,PH 06:30-17:00; Jan 1,Dec 25,Dec 26 off; easter -2 days,easter +50 days off"
-website: "https://www.baecker-weiss.de/"
+opening_hours: Mo-Fr 04:30-18:00; Sa 04:30-17:00; Su,PH 06:30-17:00; Jan 1,Dec 25,Dec
+    26 off; easter -2 days,easter +50 days off
+website: https://www.baecker-weiss.de/

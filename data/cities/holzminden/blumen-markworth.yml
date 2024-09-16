@@ -4,8 +4,8 @@ latitude: 51.83502
 longitude: 9.45999
 postcode: "37603"
 city: Holzminden
-street: "Allersheimer Straße"
-housenumber: 49
+street: Allersheimer Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su 10:00-12:00"
-website: "https://www.facebook.com/BlumenMarkworth/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su 10:00-12:00
+website: https://www.facebook.com/BlumenMarkworth/

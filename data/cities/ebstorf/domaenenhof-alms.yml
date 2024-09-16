@@ -4,8 +4,8 @@ latitude: 53.03075
 longitude: 10.41572
 postcode: "29574"
 city: Ebstorf
-street: "Domänenplatz"
-housenumber: 1
-phone: "+49 5822 2488"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-18:00"
+street: Domänenplatz
+housenumber: "1"
+phone: +49 5822 2488
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-18:00
 website: ""

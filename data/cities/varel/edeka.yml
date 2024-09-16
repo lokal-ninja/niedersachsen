@@ -1,11 +1,11 @@
 id: 222320374
-type: way
+type: node
 latitude: 53.40005
 longitude: 8.14124
 postcode: "26316"
 city: Varel
-street: "Mühlenstraße"
-housenumber: 36
-phone: "+494451 7606"
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://edeka.de"
+street: Mühlenstraße
+housenumber: "36"
+phone: +494451 7606
+opening_hours: Mo-Sa 07:30-21:00
+website: https://edeka.de

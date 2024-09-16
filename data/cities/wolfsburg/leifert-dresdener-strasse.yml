@@ -4,8 +4,8 @@ latitude: 52.41099
 longitude: 10.72233
 postcode: "38442"
 city: Wolfsburg
-street: "Dresdener Straße"
-housenumber: 21
+street: Dresdener Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 06:30-20:00; Sa 06:30-20:00; Su 07:30-10:30"
+opening_hours: Mo-Fr 06:30-20:00; Sa 06:30-20:00; Su 07:30-10:30
 website: ""

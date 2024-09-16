@@ -1,11 +1,11 @@
 id: 42350425
-type: way
+type: node
 latitude: 51.52176
 longitude: 9.93973
 postcode: "37083"
 city: Göttingen
-street: "Reinhäuser Landstraße"
-housenumber: 78
+street: Reinhäuser Landstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-16:00"
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-16:00
 website: ""

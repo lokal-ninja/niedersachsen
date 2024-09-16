@@ -1,11 +1,11 @@
 id: 941392401
-type: way
+type: node
 latitude: 52.26013
 longitude: 10.82042
 postcode: "38154"
 city: Königslutter am Elm
-street: "Fischersteg"
-housenumber: 2
+street: Fischersteg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-18:00; Su 07:30-12:00"
+opening_hours: Mo-Sa 06:00-18:00; Su 07:30-12:00
 website: ""

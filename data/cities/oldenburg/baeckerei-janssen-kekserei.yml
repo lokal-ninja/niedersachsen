@@ -4,8 +4,8 @@ latitude: 53.13842
 longitude: 8.21392
 postcode: "26122"
 city: Oldenburg
-street: "Kasinoplatz"
-housenumber: 4
-phone: "+49 441 2056764"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 07:30-11:00"
-website: "https://baeckereijanssen.de"
+street: Kasinoplatz
+housenumber: "4"
+phone: +49 441 2056764
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 07:30-11:00
+website: https://baeckereijanssen.de

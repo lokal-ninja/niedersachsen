@@ -1,11 +1,11 @@
 id: 205153757
-type: way
+type: node
 latitude: 52.12794
 longitude: 9.94516
 postcode: "31139"
 city: Hildesheim
-street: "Kurt-Schumacher-Straße"
+street: Kurt-Schumacher-Straße
 housenumber: 27a
-phone: "+49 5121 263206"
+phone: +49 5121 263206
 opening_hours: ""
-website: "https://www.kreth.de/"
+website: https://www.kreth.de/

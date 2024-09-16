@@ -4,8 +4,8 @@ latitude: 52.35579
 longitude: 9.75571
 postcode: "30173"
 city: Hannover
-street: "Altenbekener Damm"
-housenumber: 64
-phone: "+49 151 41 23 11 39"
-opening_hours: "Mo-Th 14:00-18:00; Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://hannoversballonladen.de/"
+street: Altenbekener Damm
+housenumber: "64"
+phone: +49 151 41 23 11 39
+opening_hours: Mo-Th 14:00-18:00; Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://hannoversballonladen.de/

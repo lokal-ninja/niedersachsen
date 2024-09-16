@@ -1,11 +1,11 @@
 id: 37072770
-type: way
+type: node
 latitude: 53.4223
 longitude: 9.98138
 postcode: "21077"
 city: Hamburg
-street: "Winsener Straße"
-housenumber: 229
+street: Winsener Straße
+housenumber: "229"
 phone: ""
 opening_hours: ""
 website: ""

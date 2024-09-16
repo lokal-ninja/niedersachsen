@@ -1,11 +1,11 @@
 id: 173829843
-type: way
+type: node
 latitude: 52.30471
 longitude: 10.46887
 postcode: "38112"
 city: Braunschweig
-street: "Celler Heerstraße"
-housenumber: 360
+street: Celler Heerstraße
+housenumber: "360"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-17:00"
-website: "https://papes-gemuesegarten.de/"
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-17:00
+website: https://papes-gemuesegarten.de/

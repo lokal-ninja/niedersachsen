@@ -1,11 +1,11 @@
 id: 198515604
-type: way
+type: node
 latitude: 52.08531
 longitude: 9.78553
 postcode: "31028"
 city: Gronau (Leine)
-street: "Bethelner Landstraße"
-housenumber: 12
-phone: "+49 05182 948610"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/gronau/241058/rewe-markt-bethelner-landstr-12/"
+street: Bethelner Landstraße
+housenumber: "12"
+phone: +49 05182 948610
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/gronau/241058/rewe-markt-bethelner-landstr-12/

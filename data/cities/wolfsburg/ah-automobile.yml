@@ -1,11 +1,11 @@
 id: 154557973
-type: way
+type: node
 latitude: 52.4469
 longitude: 10.84534
 postcode: "38448"
 city: Wolfsburg
-street: "Vor dem Bruche"
-housenumber: 1
+street: Vor dem Bruche
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

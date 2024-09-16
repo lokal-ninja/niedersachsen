@@ -1,11 +1,11 @@
 id: 310282979
-type: way
+type: node
 latitude: 53.06654
 longitude: 8.87579
 postcode: "28207"
 city: Bremen
-street: "Hastedter Heerstraße"
-housenumber: 286
-phone: "+49 421 41 739 30"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.swat-bremen.de"
+street: Hastedter Heerstraße
+housenumber: "286"
+phone: +49 421 41 739 30
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.swat-bremen.de

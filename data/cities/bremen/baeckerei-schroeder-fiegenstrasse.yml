@@ -4,8 +4,8 @@ latitude: 53.10443
 longitude: 8.79207
 postcode: "28219"
 city: Bremen
-street: "Fiegenstraße"
-housenumber: 50
+street: Fiegenstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 07:00-13:00,15:00-18:00; Sa 07:00-12:00; Su off"
+opening_hours: Mo-Fr 07:00-13:00,15:00-18:00; Sa 07:00-12:00; Su off
 website: ""

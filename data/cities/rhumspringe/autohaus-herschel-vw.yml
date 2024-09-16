@@ -1,11 +1,11 @@
 id: 761916745
-type: way
+type: node
 latitude: 51.57822
 longitude: 10.29391
 postcode: "37434"
 city: Rhumspringe
-street: "Bahnhofstraße"
-housenumber: 5
-phone: "+49 5529 96260"
+street: Bahnhofstraße
+housenumber: "5"
+phone: +49 5529 96260
 opening_hours: ""
-website: "https://www.autohaus-herschel.de/"
+website: https://www.autohaus-herschel.de/

@@ -1,11 +1,11 @@
 id: 261305249
-type: way
+type: node
 latitude: 53.37713
 longitude: 9.0069
 postcode: "27442"
 city: Gnarrenburg
-street: "Industriestraße"
-housenumber: 16
+street: Industriestraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

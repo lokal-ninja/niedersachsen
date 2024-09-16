@@ -1,11 +1,11 @@
 id: 295728340
-type: way
+type: node
 latitude: 52.20158
 longitude: 8.45386
 postcode: "49328"
 city: Melle
-street: "Meller Straße"
-housenumber: 15
+street: Meller Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.3836
 longitude: 9.72557
 postcode: "30167"
 city: Hannover
-street: "Engelbosteler Damm"
-housenumber: 20
+street: Engelbosteler Damm
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.denns-biomarkt.de/25001_Hannover_Nordstadt.html"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.denns-biomarkt.de/25001_Hannover_Nordstadt.html

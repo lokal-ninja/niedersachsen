@@ -1,11 +1,11 @@
 id: 144767516
-type: way
+type: node
 latitude: 52.38647
 longitude: 9.71665
 postcode: "30167"
 city: Hannover
-street: "Callinstraße"
-housenumber: 8
+street: Callinstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

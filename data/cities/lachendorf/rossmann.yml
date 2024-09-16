@@ -1,11 +1,11 @@
 id: 221030799
-type: way
+type: node
 latitude: 52.62111
 longitude: 10.24562
 postcode: "29331"
 city: Lachendorf
-street: "Ackerstraße"
-housenumber: 14
+street: Ackerstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

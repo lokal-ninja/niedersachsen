@@ -1,11 +1,11 @@
 id: 650068559
-type: way
+type: node
 latitude: 51.72705
 longitude: 10.25433
 postcode: "37520"
 city: Osterode am Harz
-street: "Am Schilde"
-housenumber: 27
+street: Am Schilde
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

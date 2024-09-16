@@ -4,8 +4,8 @@ latitude: 53.20884
 longitude: 10.40498
 postcode: "21335"
 city: Lüneburg
-street: "Neu-Häcklingen"
-housenumber: 1
+street: Neu-Häcklingen
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: ""
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.naturkost-haecklingen.de/

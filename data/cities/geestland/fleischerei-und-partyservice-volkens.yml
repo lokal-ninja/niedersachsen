@@ -1,11 +1,11 @@
 id: 589318541
-type: way
+type: node
 latitude: 53.54215
 longitude: 8.87124
 postcode: "27624"
 city: Geestland
-street: "Dorfstraße-West"
-housenumber: 24
-phone: "+49 4708 248"
-opening_hours: "Di-Fr 08:00-12:30 14:00-18:00, Sa 8:00-12:30"
-website: "https://www.volkens.info/"
+street: Dorfstraße-West
+housenumber: "24"
+phone: +49 4708 248
+opening_hours: Di-Fr 08:00-12:30 14:00-18:00, Sa 8:00-12:30
+website: https://www.volkens.info/

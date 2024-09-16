@@ -4,8 +4,8 @@ latitude: 53.36821
 longitude: 9.71047
 postcode: "21279"
 city: Hollenstedt
-street: "Wohlesbosteler Straße"
-housenumber: 6
-phone: "+49 4165 21950"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:30-12:00"
-website: "https://www.bauwelt.eu/"
+street: Wohlesbosteler Straße
+housenumber: "6"
+phone: +49 4165 21950
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:30-12:00
+website: https://www.bauwelt.eu/

@@ -4,8 +4,8 @@ latitude: 53.10206
 longitude: 8.7672
 postcode: "28217"
 city: Bremen
-street: "Fabrikenufer"
-housenumber: 111
-phone: "+49 421 61072030"
+street: Fabrikenufer
+housenumber: "111"
+phone: +49 421 61072030
 opening_hours: ""
-website: "https://www.lebkuchen-bremen.de/"
+website: https://www.lebkuchen-bremen.de/

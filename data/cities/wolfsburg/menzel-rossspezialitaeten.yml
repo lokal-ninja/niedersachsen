@@ -1,11 +1,11 @@
 id: 104418027
-type: way
+type: node
 latitude: 52.42084
 longitude: 10.71
 postcode: "38442"
 city: Wolfsburg
-street: "Westerbreite"
-housenumber: 4
+street: Westerbreite
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://fleischerei-menzel.de/"
+website: http://fleischerei-menzel.de/

@@ -1,11 +1,11 @@
 id: 208955933
-type: way
+type: node
 latitude: 52.66305
 longitude: 9.2222
 postcode: "31582"
 city: Nienburg/Weser
-street: "Verdener Landstraße"
-housenumber: 140
+street: Verdener Landstraße
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

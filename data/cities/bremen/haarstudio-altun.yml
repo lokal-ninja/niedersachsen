@@ -1,11 +1,11 @@
 id: 133954802
-type: way
+type: node
 latitude: 53.17036
 longitude: 8.68671
 postcode: "28717"
 city: Bremen
-street: "Hindenburgstraße"
-housenumber: 79
+street: Hindenburgstraße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

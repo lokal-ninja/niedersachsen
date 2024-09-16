@@ -1,11 +1,12 @@
 id: 30341486
-type: way
+type: node
 latitude: 51.98652
 longitude: 9.25395
 postcode: "31812"
 city: Bad Pyrmont
-street: "Brunnenplatz"
-housenumber: 4
+street: Brunnenplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Apr-Sep Mo-Sa 08:30-18:00; Apr-Sep Su 09:00-20:00; Oct-Mar Mo-Sa 08:30-19:00; Oct-Mar Su 09:00-19:00"
+opening_hours: Apr-Sep Mo-Sa 08:30-18:00; Apr-Sep Su 09:00-20:00; Oct-Mar Mo-Sa 08:30-19:00;
+    Oct-Mar Su 09:00-19:00
 website: ""

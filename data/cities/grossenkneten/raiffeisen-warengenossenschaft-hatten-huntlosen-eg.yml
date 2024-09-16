@@ -1,11 +1,11 @@
 id: 243358893
-type: way
+type: node
 latitude: 52.99115
 longitude: 8.26579
 postcode: "26197"
 city: Großenkneten
-street: "Hegeler-Wald-Straße"
-housenumber: 2
+street: Hegeler-Wald-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

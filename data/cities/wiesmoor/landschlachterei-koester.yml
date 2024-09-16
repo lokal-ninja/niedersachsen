@@ -1,11 +1,11 @@
 id: 529478808
-type: way
+type: node
 latitude: 53.42385
 longitude: 7.66878
 postcode: "26639"
 city: Wiesmoor
-street: "Westerwieke II"
-housenumber: 52
-phone: "+49 4944 1420"
+street: Westerwieke II
+housenumber: "52"
+phone: +49 4944 1420
 opening_hours: ""
-website: "http://landschlachterei-koester.de/"
+website: http://landschlachterei-koester.de/

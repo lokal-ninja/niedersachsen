@@ -1,11 +1,11 @@
 id: 114977934
-type: way
+type: node
 latitude: 52.21753
 longitude: 10.52964
 postcode: "38124"
 city: Braunschweig
-street: "Senefelderstraße"
+street: Senefelderstraße
 housenumber: 6a
-phone: "+49 531 2614 00"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://autohaus-haertel.de/"
+phone: +49 531 2614 00
+opening_hours: Mo-Fr 07:00-18:00
+website: https://autohaus-haertel.de/

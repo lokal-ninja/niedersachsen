@@ -1,11 +1,11 @@
 id: 28928665
-type: way
+type: node
 latitude: 53.50945
 longitude: 8.6083
 postcode: "27572"
 city: Bremerhaven
-street: "Ringstraße"
-housenumber: 52
+street: Ringstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

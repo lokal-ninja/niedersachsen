@@ -4,8 +4,8 @@ latitude: 51.69905
 longitude: 9.87012
 postcode: "37186"
 city: Moringen
-street: "Neue Straße"
-housenumber: 2
+street: Neue Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-16:00; Fr 09:00-13:00,15:00-18:00; PH off"
+opening_hours: Mo,Tu,Th 09:00-16:00; Fr 09:00-13:00,15:00-18:00; PH off
 website: ""

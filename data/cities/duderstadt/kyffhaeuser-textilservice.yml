@@ -4,8 +4,9 @@ latitude: 51.51177
 longitude: 10.25638
 postcode: "37115"
 city: Duderstadt
-street: "Bahnhofstraße"
-housenumber: 43
+street: Bahnhofstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 08:00-12:00,13:00-17:30; We 08:00-13:00; Sa 08:00-12:00; PH off"
+opening_hours: Mo-Tu,Th-Fr 08:00-12:00,13:00-17:30; We 08:00-13:00; Sa 08:00-12:00;
+    PH off
 website: ""

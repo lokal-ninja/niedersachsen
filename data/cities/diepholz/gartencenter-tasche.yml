@@ -1,11 +1,11 @@
 id: 95143647
-type: way
+type: node
 latitude: 52.61982
 longitude: 8.38122
 postcode: "49356"
 city: Diepholz
-street: "Katharina-Staritz-Weg"
-housenumber: 1
+street: Katharina-Staritz-Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

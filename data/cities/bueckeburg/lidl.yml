@@ -4,8 +4,8 @@ latitude: 52.26344
 longitude: 9.06188
 postcode: "31675"
 city: Bückeburg
-street: "Hannoversche Straße"
-housenumber: 18
+street: Hannoversche Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/bueckeburg/hannoversche-str-18.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/filialen/bueckeburg/hannoversche-str-18.html

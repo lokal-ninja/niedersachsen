@@ -1,11 +1,11 @@
 id: 254617145
-type: way
+type: node
 latitude: 53.35911
 longitude: 8.07071
 postcode: "26316"
 city: Varel
-street: "Altjührdener Straße"
-housenumber: 47
+street: Altjührdener Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://maschal.de/"
+website: https://maschal.de/

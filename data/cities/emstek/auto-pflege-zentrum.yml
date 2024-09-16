@@ -1,11 +1,11 @@
 id: 201096127
-type: way
+type: node
 latitude: 52.81574
 longitude: 8.18839
 postcode: "49685"
 city: Emstek
-street: "Europa-Allee"
-housenumber: 14
+street: Europa-Allee
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su,PH off"
-website: "https://www.apz-carmotion.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su,PH off
+website: https://www.apz-carmotion.de/

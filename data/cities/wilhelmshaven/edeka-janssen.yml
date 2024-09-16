@@ -1,11 +1,11 @@
 id: 528038498
-type: way
+type: node
 latitude: 53.52937
 longitude: 8.13306
 postcode: "26384"
 city: Wilhelmshaven
-street: "Zedeliusstraße"
-housenumber: 2
+street: Zedeliusstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

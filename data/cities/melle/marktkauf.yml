@@ -1,11 +1,11 @@
 id: 27896767
-type: way
+type: node
 latitude: 52.19262
 longitude: 8.35524
 postcode: "49324"
 city: Melle
-street: "Industriestraße"
-housenumber: 11
+street: Industriestraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

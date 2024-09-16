@@ -1,11 +1,11 @@
 id: 90048178
-type: way
+type: node
 latitude: 51.51349
 longitude: 9.91152
 postcode: "37124"
 city: Rosdorf
-street: "Götzenbreite"
-housenumber: 8
+street: Götzenbreite
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

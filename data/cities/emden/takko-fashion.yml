@@ -1,11 +1,11 @@
 id: 160529598
-type: way
+type: node
 latitude: 53.36792
 longitude: 7.19171
 postcode: "26723"
 city: Emden
-street: "Ubierstraße"
-housenumber: 
-phone: "+49 4921 32750"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.takko-fashion.com/"
+street: Ubierstraße
+housenumber: ""
+phone: +49 4921 32750
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.takko-fashion.com/

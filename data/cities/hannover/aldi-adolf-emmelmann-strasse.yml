@@ -1,11 +1,11 @@
 id: 206105611
-type: way
+type: node
 latitude: 52.40952
 longitude: 9.80074
 postcode: "30659"
 city: Hannover
-street: "Adolf-Emmelmann-Straße"
-housenumber: 5
+street: Adolf-Emmelmann-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/hannover/adolf-emmelmann-strasse-5/3181790"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/hannover/adolf-emmelmann-strasse-5/3181790

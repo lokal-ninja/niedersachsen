@@ -1,11 +1,11 @@
 id: 404299637
-type: way
+type: node
 latitude: 53.00632
 longitude: 8.79128
 postcode: "28816"
 city: Stuhr
-street: "Syker Straße"
-housenumber: 57
+street: Syker Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo 15:00-18:00, Tu-Fr 10:00-13:00, 15:00-18:00, Sa 9:30-13:00"
+opening_hours: Mo 15:00-18:00, Tu-Fr 10:00-13:00, 15:00-18:00, Sa 9:30-13:00
 website: ""

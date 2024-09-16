@@ -1,11 +1,11 @@
 id: 35383417
-type: way
+type: node
 latitude: 53.05741
 longitude: 8.80947
 postcode: "28201"
 city: Bremen
-street: "Volkmannstraße"
-housenumber: 2
+street: Volkmannstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-19:00; PH off"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-19:00; PH off
 website: ""

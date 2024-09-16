@@ -4,8 +4,8 @@ latitude: 52.83448
 longitude: 8.15722
 postcode: "49685"
 city: Emstek
-street: "Ostlandstraße"
-housenumber: 1
-phone: "+49 4473 947811"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:30-12:30"
-website: "https://www.feldhaus-kuechen.de/"
+street: Ostlandstraße
+housenumber: "1"
+phone: +49 4473 947811
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:30-12:30
+website: https://www.feldhaus-kuechen.de/

@@ -1,11 +1,11 @@
 id: 91016003
-type: way
+type: node
 latitude: 53.05911
 longitude: 9.01497
 postcode: "28876"
 city: Oyten
-street: "Hauptstraße"
-housenumber: 100
+street: Hauptstraße
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

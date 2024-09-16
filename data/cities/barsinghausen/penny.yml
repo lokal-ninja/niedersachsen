@@ -1,11 +1,11 @@
 id: 225674701
-type: way
+type: node
 latitude: 52.30725
 longitude: 9.45564
 postcode: "30890"
 city: Barsinghausen
-street: "Wilhelm-Heß-Straße"
-housenumber: 13
+street: Wilhelm-Heß-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 489255883
-type: way
+type: node
 latitude: 52.59534
 longitude: 8.36097
 postcode: "49356"
 city: Diepholz
-street: "Maschstraße"
-housenumber: 75
+street: Maschstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo,We 06:30-13:00; Tu-Fr 06:30-18:00; Sa 06:30-12:30"
-website: "http://www.fleischerei-gieseke.de/"
+opening_hours: Mo,We 06:30-13:00; Tu-Fr 06:30-18:00; Sa 06:30-12:30
+website: http://www.fleischerei-gieseke.de/

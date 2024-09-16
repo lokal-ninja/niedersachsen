@@ -1,11 +1,11 @@
 id: 772138060
-type: way
+type: node
 latitude: 52.26079
 longitude: 9.01395
 postcode: "31675"
 city: Bückeburg
-street: "Röcker Feld"
-housenumber: 8
+street: Röcker Feld
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.as-sport.com/"
+website: https://www.as-sport.com/

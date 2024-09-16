@@ -1,11 +1,11 @@
 id: 318162617
-type: way
+type: node
 latitude: 52.30307
 longitude: 7.94874
 postcode: "49076"
 city: Osnabrück
-street: "Eikesberg"
-housenumber: 56
+street: Eikesberg
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "https://www.bierhake.de/"
+website: https://www.bierhake.de/

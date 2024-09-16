@@ -4,8 +4,8 @@ latitude: 51.73613
 longitude: 9.79447
 postcode: "37186"
 city: Moringen
-street: "Kampweg"
-housenumber: 2
-phone: "+49 5555 416"
-opening_hours: "Mo-Sa 13:00-18:00; Su 11:00-18:00"
-website: "http://www.kunsttoepferei.de/"
+street: Kampweg
+housenumber: "2"
+phone: +49 5555 416
+opening_hours: Mo-Sa 13:00-18:00; Su 11:00-18:00
+website: http://www.kunsttoepferei.de/

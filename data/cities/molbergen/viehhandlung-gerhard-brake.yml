@@ -1,11 +1,11 @@
 id: 553630929
-type: way
+type: node
 latitude: 52.8851
 longitude: 7.83496
 postcode: "49696"
 city: Molbergen
-street: "Raiffeisenstraße"
-housenumber: 3
+street: Raiffeisenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

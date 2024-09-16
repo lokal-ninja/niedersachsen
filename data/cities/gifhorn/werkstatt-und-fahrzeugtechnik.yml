@@ -1,11 +1,11 @@
 id: 211301080
-type: way
+type: node
 latitude: 52.47048
 longitude: 10.53183
 postcode: "38518"
 city: Gifhorn
-street: "Im Freitagsmoor"
-housenumber: 44
+street: Im Freitagsmoor
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "http://www.wft-stadlich.de"
+website: http://www.wft-stadlich.de

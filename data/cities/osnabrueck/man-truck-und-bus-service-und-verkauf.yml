@@ -1,11 +1,11 @@
 id: 290000409
-type: way
+type: node
 latitude: 52.30366
 longitude: 8.00329
 postcode: "49090"
 city: Osnabrück
-street: "Hafenringstraße"
-housenumber: 2
+street: Hafenringstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

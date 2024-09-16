@@ -4,8 +4,8 @@ latitude: 52.32395
 longitude: 9.15766
 postcode: "31655"
 city: Stadthagen
-street: "Stadthäger Straße"
-housenumber: 6
-phone: "+49 5721 72750"
-opening_hours: "Th-Fr 14:00-18:00; Sa 10:00-13:00"
-website: "https://www.heisses-eisen-shg.de/"
+street: Stadthäger Straße
+housenumber: "6"
+phone: +49 5721 72750
+opening_hours: Th-Fr 14:00-18:00; Sa 10:00-13:00
+website: https://www.heisses-eisen-shg.de/

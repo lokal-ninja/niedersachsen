@@ -1,10 +1,10 @@
 id: 230208260
-type: way
+type: node
 latitude: 53.11535
 longitude: 8.7599
 postcode: "28237"
 city: Bremen
-street: "Gröpelinger Heerstraße"
+street: Gröpelinger Heerstraße
 housenumber: 178-180
 phone: ""
 opening_hours: ""

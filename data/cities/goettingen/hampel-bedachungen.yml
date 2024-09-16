@@ -1,11 +1,11 @@
 id: 837357806
-type: way
+type: node
 latitude: 51.54225
 longitude: 9.92442
 postcode: "37081"
 city: Göttingen
-street: "Maschmühlenweg"
-housenumber: 45
+street: Maschmühlenweg
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-16:00; PH off"
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-16:00; PH off
 website: ""

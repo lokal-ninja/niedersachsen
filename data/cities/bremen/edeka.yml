@@ -4,8 +4,8 @@ latitude: 53.17689
 longitude: 8.718
 postcode: "28719"
 city: Bremen
-street: "Stockholmer Straße"
-housenumber: 27
+street: Stockholmer Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-stockholmer-stra%C3%9Fe-stockholmer-str.-27/index.jsp"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.edeka.de/eh/minden-hannover/edeka-stockholmer-stra%C3%9Fe-stockholmer-str.-27/index.jsp

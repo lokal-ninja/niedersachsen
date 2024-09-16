@@ -1,11 +1,11 @@
 id: 240959230
-type: way
+type: node
 latitude: 52.38354
 longitude: 9.6691
 postcode: "30453"
 city: Hannover
-street: "Wunstorfer Landstraße"
-housenumber: 32
+street: Wunstorfer Landstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

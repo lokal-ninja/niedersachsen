@@ -1,11 +1,11 @@
 id: 221837118
-type: way
+type: node
 latitude: 53.48999
 longitude: 8.46749
 postcode: ""
 city: Nordenham
-street: "Oldenburger Straße"
-housenumber: 21
+street: Oldenburger Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.autoservice-kristof-sielaff.de/"
+website: https://www.autoservice-kristof-sielaff.de/

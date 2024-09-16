@@ -4,8 +4,8 @@ latitude: 53.44833
 longitude: 8.59875
 postcode: "27612"
 city: Loxstedt
-street: "Burgstraße"
-housenumber: 49
-phone: "+49 4744 5033"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.fliesen-donner.de/"
+street: Burgstraße
+housenumber: "49"
+phone: +49 4744 5033
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
+website: https://www.fliesen-donner.de/

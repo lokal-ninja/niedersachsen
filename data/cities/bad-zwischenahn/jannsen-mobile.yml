@@ -1,11 +1,11 @@
 id: 597400566
-type: way
+type: node
 latitude: 53.17067
 longitude: 7.99809
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Im Doorgrund"
-housenumber: 1
-phone: "+49 0 4403 81 07 449"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00"
-website: "https://www.jannsen-automobile.de/"
+street: Im Doorgrund
+housenumber: "1"
+phone: +49 0 4403 81 07 449
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00
+website: https://www.jannsen-automobile.de/

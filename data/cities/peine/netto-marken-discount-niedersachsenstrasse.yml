@@ -1,11 +1,11 @@
 id: 564482950
-type: way
+type: node
 latitude: 52.30614
 longitude: 10.15563
 postcode: "31226"
 city: Peine
-street: "Niedersachsenstraße"
-housenumber: 13
+street: Niedersachsenstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

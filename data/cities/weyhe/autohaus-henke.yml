@@ -1,11 +1,11 @@
 id: 143771198
-type: way
+type: node
 latitude: 52.99075
 longitude: 8.82484
 postcode: "28844"
 city: Weyhe
-street: "Hagener Straße"
-housenumber: 9
+street: Hagener Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

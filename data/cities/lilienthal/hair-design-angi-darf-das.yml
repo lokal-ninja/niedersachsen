@@ -4,8 +4,8 @@ latitude: 53.15203
 longitude: 8.91873
 postcode: "28865"
 city: Lilienthal
-street: "Falkenberger Landstraße"
-housenumber: 18
+street: Falkenberger Landstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-13:00; PH off"
-website: "https://www.angidarfdas.de/index.php"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:30-13:00; PH off
+website: https://www.angidarfdas.de/index.php

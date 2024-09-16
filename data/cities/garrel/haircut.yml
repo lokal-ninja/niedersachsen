@@ -4,8 +4,9 @@ latitude: 52.95062
 longitude: 8.01385
 postcode: "49681"
 city: Garrel
-street: "Wätkamp"
-housenumber: 11
+street: Wätkamp
+housenumber: "11"
 phone: ""
-opening_hours: "Mo 08:30-18:00; Tu 08:30-18:00; Th 08:30-18:00; Fr 08:30-19:00; Sa 08:00-14:00; We,Su,PH off"
+opening_hours: Mo 08:30-18:00; Tu 08:30-18:00; Th 08:30-18:00; Fr 08:30-19:00; Sa
+    08:00-14:00; We,Su,PH off
 website: ""

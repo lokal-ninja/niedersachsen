@@ -1,11 +1,11 @@
 id: 195168526
-type: way
+type: node
 latitude: 52.84407
 longitude: 8.04261
 postcode: "49661"
 city: Cloppenburg
-street: "Eschstraße"
-housenumber: 6
-phone: "+49 4471 2680"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH,Su off"
-website: "https://www.elektro-huemmling.de"
+street: Eschstraße
+housenumber: "6"
+phone: +49 4471 2680
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH,Su off
+website: https://www.elektro-huemmling.de

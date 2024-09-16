@@ -1,11 +1,11 @@
 id: 243647534
-type: way
+type: node
 latitude: 52.25382
 longitude: 10.65528
 postcode: "38162"
 city: Cremlingen
-street: "Im Moorbusche"
-housenumber: 100
+street: Im Moorbusche
+housenumber: "100"
 phone: ""
-opening_hours: "Mo off; Tu,Th,Fr 07:00-18:00; We,Sa 07:00-13:00; PH off"
-website: "https://landschlachterei.com/"
+opening_hours: Mo off; Tu,Th,Fr 07:00-18:00; We,Sa 07:00-13:00; PH off
+website: https://landschlachterei.com/

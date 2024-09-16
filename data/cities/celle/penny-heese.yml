@@ -1,11 +1,11 @@
 id: 156780799
-type: way
+type: node
 latitude: 52.6175
 longitude: 10.05436
 postcode: "29225"
 city: Celle
-street: "Heese"
-housenumber: 24
+street: Heese
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

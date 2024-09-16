@@ -4,8 +4,9 @@ latitude: 52.43384
 longitude: 9.6901
 postcode: "30855"
 city: Langenhagen
-street: "Berliner Allee"
-housenumber: 55
-phone: "+49 9181 33 05 86"
-opening_hours: "March-SEptember: Mo-Fr 09:00-19:00; Sa 09:00-18:00; October-February: Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.fritz-berger.de/filiale/hannover/"
+street: Berliner Allee
+housenumber: "55"
+phone: +49 9181 33 05 86
+opening_hours: 'March-SEptember: Mo-Fr 09:00-19:00; Sa 09:00-18:00; October-February:
+    Mo-Fr 10:00-18:00; Sa 10:00-16:00'
+website: https://www.fritz-berger.de/filiale/hannover/

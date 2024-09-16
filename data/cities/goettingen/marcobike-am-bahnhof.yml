@@ -4,8 +4,8 @@ latitude: 51.53598
 longitude: 9.92627
 postcode: "37073"
 city: Göttingen
-street: "Bahnhofsplatz"
-housenumber: 3
+street: Bahnhofsplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH,Su off"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH,Su off
 website: ""

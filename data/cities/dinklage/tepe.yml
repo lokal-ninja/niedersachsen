@@ -4,8 +4,8 @@ latitude: 52.66349
 longitude: 8.12389
 postcode: "49413"
 city: Dinklage
-street: "Sanderstraße"
-housenumber: 10
-phone: "+49 4443 96420"
-opening_hours: "Mo-Th 07:30-12:00, 13:30-17:30; Fr 07:30-17:00; Sa,Su,PH off"
-website: "https://www.tepe.de/"
+street: Sanderstraße
+housenumber: "10"
+phone: +49 4443 96420
+opening_hours: Mo-Th 07:30-12:00, 13:30-17:30; Fr 07:30-17:00; Sa,Su,PH off
+website: https://www.tepe.de/

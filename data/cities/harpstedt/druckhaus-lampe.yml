@@ -4,8 +4,8 @@ latitude: 52.90735
 longitude: 8.5876
 postcode: "27243"
 city: Harpstedt
-street: "Lange Straße"
-housenumber: 23
-phone: "+49 4244 967429"
-opening_hours: "Mo-Th 08:30-17:30; Fr 08:00-14:30; Sa,Su,PH off"
-website: "http://www.druckhaus-lampe.de"
+street: Lange Straße
+housenumber: "23"
+phone: +49 4244 967429
+opening_hours: Mo-Th 08:30-17:30; Fr 08:00-14:30; Sa,Su,PH off
+website: http://www.druckhaus-lampe.de

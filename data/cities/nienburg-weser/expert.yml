@@ -1,11 +1,11 @@
 id: 200563214
-type: way
+type: node
 latitude: 52.64406
 longitude: 9.19995
 postcode: "31582"
 city: Nienburg/Weser
-street: "Oyler Straße"
-housenumber: 8
-phone: "+49 5021 9602-0"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH,Su off"
+street: Oyler Straße
+housenumber: "8"
+phone: +49 5021 9602-0
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH,Su off
 website: ""

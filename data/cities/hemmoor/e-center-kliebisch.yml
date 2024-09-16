@@ -1,11 +1,11 @@
 id: 87317240
-type: way
+type: node
 latitude: 53.68865
 longitude: 9.17074
 postcode: "21745"
 city: Hemmoor
-street: "Stader Straße"
-housenumber: 114
+street: Stader Straße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH closed"
-website: "https://www.edeka.de/eh/nord/e-center-kliebisch-stader-stra%C3%9Fe-114/index.jsp"
+opening_hours: Mo-Sa 08:00-20:00; PH closed
+website: https://www.edeka.de/eh/nord/e-center-kliebisch-stader-stra%C3%9Fe-114/index.jsp

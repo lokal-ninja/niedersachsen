@@ -4,8 +4,8 @@ latitude: 52.33674
 longitude: 9.3804
 postcode: "31542"
 city: Bad Nenndorf
-street: "Hauptstraße"
-housenumber: 25
-phone: "+49 5723 2947"
-opening_hours: "Mo-Fr: 8:30 - 15:00;Sa: 8:30 - 13:00"
-website: "https://www.stichweh.com/niederlassung/bad-nenndorf/"
+street: Hauptstraße
+housenumber: "25"
+phone: +49 5723 2947
+opening_hours: 'Mo-Fr: 8:30 - 15:00;Sa: 8:30 - 13:00'
+website: https://www.stichweh.com/niederlassung/bad-nenndorf/

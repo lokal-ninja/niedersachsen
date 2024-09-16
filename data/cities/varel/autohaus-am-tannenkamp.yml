@@ -1,11 +1,11 @@
 id: 169462817
-type: way
+type: node
 latitude: 53.36891
 longitude: 8.12663
 postcode: "26316"
 city: Varel
-street: "Am Tannenkamp"
-housenumber: 91
-phone: "+49 4451 9110-0"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
+street: Am Tannenkamp
+housenumber: "91"
+phone: +49 4451 9110-0
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
 website: ""

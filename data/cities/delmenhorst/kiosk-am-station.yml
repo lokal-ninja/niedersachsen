@@ -1,11 +1,11 @@
 id: 390248385
-type: way
+type: node
 latitude: 53.03802
 longitude: 8.64076
 postcode: "27755"
 city: Delmenhorst
-street: "Düsternortstraße"
-housenumber: 57
+street: Düsternortstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 07:30-19:00; Su 10:00-19:00"
+opening_hours: Mo-Fr 06:30-19:00; Sa 07:30-19:00; Su 10:00-19:00
 website: ""

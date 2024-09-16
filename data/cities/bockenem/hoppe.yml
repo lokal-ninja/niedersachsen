@@ -1,11 +1,11 @@
 id: 244548455
-type: way
+type: node
 latitude: 52.00899
 longitude: 10.12741
 postcode: "31167"
 city: Bockenem
-street: "Königstraße"
-housenumber: 16
+street: Königstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 290244518
-type: way
+type: node
 latitude: 52.7282
 longitude: 8.01067
 postcode: "49632"
 city: Essen (Oldenburg)
-street: "Kirchstraße"
-housenumber: 39
-phone: "+49 5434 9245 66"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00; Mo,Su,PH off"
+street: Kirchstraße
+housenumber: "39"
+phone: +49 5434 9245 66
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00; Mo,Su,PH off
 website: ""

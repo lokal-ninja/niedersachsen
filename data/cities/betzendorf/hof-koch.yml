@@ -4,8 +4,8 @@ latitude: 53.12184
 longitude: 10.32593
 postcode: "21386"
 city: Betzendorf
-street: "Glüsingen"
-housenumber: 1
-phone: "+49 4138 259"
-opening_hours: "Apr-Oct: Mo 18:00-19:00, Tu-Su off; Nov-Mar: Mo-Su off"
-website: "https://hof-koch.de"
+street: Glüsingen
+housenumber: "1"
+phone: +49 4138 259
+opening_hours: 'Apr-Oct: Mo 18:00-19:00, Tu-Su off; Nov-Mar: Mo-Su off'
+website: https://hof-koch.de

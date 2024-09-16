@@ -4,8 +4,8 @@ latitude: 51.87685
 longitude: 10.56076
 postcode: "38667"
 city: Bad Harzburg
-street: "Herzog-Wilhelm-Straße"
-housenumber: 102
-phone: "0174/8208363"
-opening_hours: "Mo - Do 9 - 18 Uhr    freitags 8 - 18 Uhr    samstags 8 - 13 Uhr"
-website: "https://www.cutandgo-gmbh.de"
+street: Herzog-Wilhelm-Straße
+housenumber: "102"
+phone: 0174/8208363
+opening_hours: Mo - Do 9 - 18 Uhr    freitags 8 - 18 Uhr    samstags 8 - 13 Uhr
+website: https://www.cutandgo-gmbh.de

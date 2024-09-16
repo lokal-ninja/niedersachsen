@@ -1,11 +1,11 @@
 id: 26935732
-type: way
+type: node
 latitude: 53.1739
 longitude: 8.61612
 postcode: "28757"
 city: Bremen
-street: "Gerhard-Rohlfs-Straße"
+street: Gerhard-Rohlfs-Straße
 housenumber: 31-31a
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.tedi.com/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.tedi.com/

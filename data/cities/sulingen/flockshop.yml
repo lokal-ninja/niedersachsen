@@ -1,11 +1,11 @@
 id: 167488737
-type: way
+type: node
 latitude: 52.67215
 longitude: 8.80736
 postcode: "27232"
 city: Sulingen
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
+street: Rudolf-Diesel-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,13:30-17:00"
+opening_hours: Mo-Fr 08:00-12:30,13:30-17:00
 website: ""

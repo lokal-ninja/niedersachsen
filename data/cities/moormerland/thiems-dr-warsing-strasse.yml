@@ -1,11 +1,12 @@
 id: 1108624803
-type: way
+type: node
 latitude: 53.315
 longitude: 7.495
 postcode: "26802"
 city: Moormerland
-street: "Dr.-Warsing-Straße"
-housenumber: 137
-phone: "+49 4954 4578"
-opening_hours: "Mo 14:00-18:00; Tu-We 09:00-12:00,14:00-18:00; Th 09:00-12:00,14:00-20:00; Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su off; PH off"
-website: "http://www.moebel-thiems.com/"
+street: Dr.-Warsing-Straße
+housenumber: "137"
+phone: +49 4954 4578
+opening_hours: Mo 14:00-18:00; Tu-We 09:00-12:00,14:00-18:00; Th 09:00-12:00,14:00-20:00;
+    Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su off; PH off
+website: http://www.moebel-thiems.com/

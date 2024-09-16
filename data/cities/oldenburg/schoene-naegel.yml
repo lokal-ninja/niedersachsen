@@ -1,11 +1,11 @@
 id: 34601689
-type: way
+type: node
 latitude: 53.13911
 longitude: 8.21137
 postcode: "26122"
 city: Oldenburg
-street: "Gaststraße"
-housenumber: 
+street: Gaststraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

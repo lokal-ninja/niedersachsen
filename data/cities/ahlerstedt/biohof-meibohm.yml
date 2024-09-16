@@ -4,8 +4,8 @@ latitude: 53.38047
 longitude: 9.46249
 postcode: "21702"
 city: Ahlerstedt
-street: "Lange Straße"
-housenumber: 2
-phone: "+49 4166 458"
-opening_hours: "Th-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.biohof-meibohm.de/"
+street: Lange Straße
+housenumber: "2"
+phone: +49 4166 458
+opening_hours: Th-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.biohof-meibohm.de/

@@ -1,11 +1,11 @@
 id: 244318094
-type: way
+type: node
 latitude: 52.00797
 longitude: 10.12058
 postcode: "31167"
 city: Bockenem
-street: "Hachumer Straße"
-housenumber: 12
+street: Hachumer Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 8:00-12:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 8:00-12:00
 website: ""

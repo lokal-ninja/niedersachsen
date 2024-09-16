@@ -1,11 +1,11 @@
 id: 76984949
-type: way
+type: node
 latitude: 53.33876
 longitude: 10.22236
 postcode: "21423"
 city: Winsen (Luhe)
-street: "Max-Planck-Straße"
-housenumber: 20
-phone: "+49 4171 78420"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Max-Planck-Straße
+housenumber: "20"
+phone: +49 4171 78420
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

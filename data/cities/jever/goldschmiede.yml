@@ -1,11 +1,11 @@
 id: 78321090
-type: way
+type: node
 latitude: 53.57316
 longitude: 7.90539
 postcode: "26441"
 city: Jever
-street: "Alter Markt"
-housenumber: 11
+street: Alter Markt
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
 website: ""

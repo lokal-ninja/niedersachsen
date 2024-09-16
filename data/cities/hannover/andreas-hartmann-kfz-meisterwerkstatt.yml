@@ -1,11 +1,11 @@
 id: 357823470
-type: way
+type: node
 latitude: 52.41901
 longitude: 9.61667
 postcode: "30419"
 city: Hannover
-street: "Merkurstraße"
-housenumber: 2
-phone: "+49 511 9791138"
-opening_hours: "Mo-Fr 08:00-17:30"
+street: Merkurstraße
+housenumber: "2"
+phone: +49 511 9791138
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

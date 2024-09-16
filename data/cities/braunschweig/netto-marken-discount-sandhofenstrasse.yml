@@ -1,11 +1,11 @@
 id: 28220710
-type: way
+type: node
 latitude: 52.30947
 longitude: 10.49118
 postcode: "38112"
 city: Braunschweig
-street: "Sandhofenstraße"
-housenumber: 2
+street: Sandhofenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

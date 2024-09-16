@@ -1,11 +1,11 @@
 id: 150115755
-type: way
+type: node
 latitude: 52.63807
 longitude: 10.09322
 postcode: "29223"
 city: Celle
-street: "Sprengerstraße"
-housenumber: 38
+street: Sprengerstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

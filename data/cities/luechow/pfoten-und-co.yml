@@ -1,11 +1,11 @@
 id: 193387365
-type: way
+type: node
 latitude: 52.97109
 longitude: 11.15655
 postcode: "29439"
 city: Lüchow
-street: "Königsberger Straße"
-housenumber: 6
+street: Königsberger Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

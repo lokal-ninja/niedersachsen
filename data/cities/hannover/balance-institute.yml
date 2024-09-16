@@ -4,8 +4,8 @@ latitude: 52.41534
 longitude: 9.79691
 postcode: "30659"
 city: Hannover
-street: "Sutelstraße"
-housenumber: 26
-phone: "+49 511 481536"
-opening_hours: "Mo-Fr 10:00-18:30; Sa,Su 10:00-16:30"
-website: "https://www.balance-institute.de"
+street: Sutelstraße
+housenumber: "26"
+phone: +49 511 481536
+opening_hours: Mo-Fr 10:00-18:30; Sa,Su 10:00-16:30
+website: https://www.balance-institute.de

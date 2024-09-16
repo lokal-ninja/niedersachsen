@@ -1,11 +1,11 @@
 id: 890015644
-type: way
+type: node
 latitude: 53.29966
 longitude: 7.59398
 postcode: "26835"
 city: Hesel
-street: "Im Brink"
-housenumber: 8
+street: Im Brink
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

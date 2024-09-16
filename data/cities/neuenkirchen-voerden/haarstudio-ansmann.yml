@@ -4,8 +4,9 @@ latitude: 52.50988
 longitude: 8.06179
 postcode: "49434"
 city: Neuenkirchen-Vörden
-street: "Eschstraße"
-housenumber: 9
+street: Eschstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu,Th 08:30-12:00, 13:00-18:00; We 13:00-18:00; Fr 08:30-12:00, 13:00-18:30; Sa 08:30-13:00; Mo,Su,PH off"
+opening_hours: Tu,Th 08:30-12:00, 13:00-18:00; We 13:00-18:00; Fr 08:30-12:00, 13:00-18:30;
+    Sa 08:30-13:00; Mo,Su,PH off
 website: ""

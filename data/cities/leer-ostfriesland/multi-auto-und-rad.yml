@@ -1,11 +1,11 @@
 id: 54265452
-type: way
+type: node
 latitude: 53.2205
 longitude: 7.47816
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Osseweg"
-housenumber: 87
+street: Osseweg
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su off; PH off
 website: ""

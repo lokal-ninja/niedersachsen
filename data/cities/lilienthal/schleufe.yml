@@ -4,8 +4,8 @@ latitude: 53.13183
 longitude: 8.98744
 postcode: "28865"
 city: Lilienthal
-street: "Seeberger Landstraße"
-housenumber: 80
-phone: "+49 4298 4712"
-opening_hours: "Mo-Fr 07:00-12:30; We,Th,Fr 15:00-18:00; Sa 07:30-12:00"
+street: Seeberger Landstraße
+housenumber: "80"
+phone: +49 4298 4712
+opening_hours: Mo-Fr 07:00-12:30; We,Th,Fr 15:00-18:00; Sa 07:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 296394890
-type: way
+type: node
 latitude: 52.26331
 longitude: 9.0318
 postcode: "31675"
 city: Bückeburg
-street: "Windmühlenstraße"
-housenumber: 20
+street: Windmühlenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

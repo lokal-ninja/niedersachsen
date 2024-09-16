@@ -1,11 +1,11 @@
 id: 617568709
-type: way
+type: node
 latitude: 53.69642
 longitude: 9.18844
 postcode: "21756"
 city: Osten
-street: "Schützenstraße"
-housenumber: 6
+street: Schützenstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

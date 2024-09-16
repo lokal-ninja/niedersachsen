@@ -4,8 +4,8 @@ latitude: 53.11112
 longitude: 8.26855
 postcode: "26135"
 city: Oldenburg
-street: "Bremer Heerstraße"
-housenumber: 450
-phone: "+49 441 21010800"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-13:00"
-website: "https://www.audi-zentrum-oldenburg.audi"
+street: Bremer Heerstraße
+housenumber: "450"
+phone: +49 441 21010800
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-13:00
+website: https://www.audi-zentrum-oldenburg.audi

@@ -1,11 +1,12 @@
 id: 1005655125
-type: way
+type: node
 latitude: 52.36287
 longitude: 8.31102
 postcode: "49163"
 city: Bohmte
-street: "Bremer Straße"
-housenumber: 22
-phone: "+49 5471 2211"
-opening_hours: "Mo-Tu 08:00-13:30,15:00-18:00; We 08:00-13:30; Th-Sa 08:00-13:30,15:00-18:00; Sa 08:00-13:00; Su 10:00-12:00"
+street: Bremer Straße
+housenumber: "22"
+phone: +49 5471 2211
+opening_hours: Mo-Tu 08:00-13:30,15:00-18:00; We 08:00-13:30; Th-Sa 08:00-13:30,15:00-18:00;
+    Sa 08:00-13:00; Su 10:00-12:00
 website: ""

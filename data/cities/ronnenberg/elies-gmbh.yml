@@ -1,11 +1,11 @@
 id: 1106790835
-type: way
+type: node
 latitude: 52.29685
 longitude: 9.66544
 postcode: "30952"
 city: Ronnenberg
-street: "Immenweg"
-housenumber: 12
-phone: "+49 5109 2440"
+street: Immenweg
+housenumber: "12"
+phone: +49 5109 2440
 opening_hours: ""
-website: "https://elies-kfz.de"
+website: https://elies-kfz.de

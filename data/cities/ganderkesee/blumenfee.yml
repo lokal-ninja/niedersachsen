@@ -1,11 +1,11 @@
 id: 219598117
-type: way
+type: node
 latitude: 53.09667
 longitude: 8.53074
 postcode: "27777"
 city: Ganderkesee
-street: "Tulpenstraße"
-housenumber: 1
+street: Tulpenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

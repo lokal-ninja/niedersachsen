@@ -1,11 +1,11 @@
 id: 166438927
-type: way
+type: node
 latitude: 53.50452
 longitude: 8.01145
 postcode: "26452"
 city: Sande
-street: "Am Markt"
-housenumber: 7
+street: Am Markt
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

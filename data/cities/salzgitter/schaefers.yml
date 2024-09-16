@@ -4,8 +4,8 @@ latitude: 52.15181
 longitude: 10.32905
 postcode: "38226"
 city: Salzgitter
-street: "Albert-Schweitzer-Straße"
-housenumber: 1
+street: Albert-Schweitzer-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-18:00; Su off"
-website: "https://www.schaefers-brot.de/standorte/store-detail?id=4039840"
+opening_hours: Mo-Sa 07:30-18:00; Su off
+website: https://www.schaefers-brot.de/standorte/store-detail?id=4039840

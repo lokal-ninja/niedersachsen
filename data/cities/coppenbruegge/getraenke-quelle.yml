@@ -4,8 +4,8 @@ latitude: 52.1173
 longitude: 9.55134
 postcode: "31863"
 city: Coppenbrügge
-street: "Osterstraße"
-housenumber: 40
-phone: "05156 3189990"
-opening_hours: "Mo-Di, Do-Fr 08:00-18:00, Mi+Sa 08:00-13:00"
+street: Osterstraße
+housenumber: "40"
+phone: 05156 3189990
+opening_hours: Mo-Di, Do-Fr 08:00-18:00, Mi+Sa 08:00-13:00
 website: ""

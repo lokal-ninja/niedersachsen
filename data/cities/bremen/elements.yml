@@ -4,8 +4,8 @@ latitude: 53.05795
 longitude: 8.96445
 postcode: "28325"
 city: Bremen
-street: "Teneverstraße"
-housenumber: 3
-phone: "+49 421 4276820"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.elements-show.de"
+street: Teneverstraße
+housenumber: "3"
+phone: +49 421 4276820
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.elements-show.de

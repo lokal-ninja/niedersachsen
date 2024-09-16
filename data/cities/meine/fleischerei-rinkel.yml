@@ -4,8 +4,9 @@ latitude: 52.38273
 longitude: 10.54101
 postcode: "38527"
 city: Meine
-street: "Mittelstraße"
-housenumber: 7
+street: Mittelstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 07:30-13:00; Tu-Th 07:30-13:00, 15:00-18:00; Fr 07:30-13:00, 14:30-18:00; Sa 07:00-13:00"
-website: "https://fleischerei-rinkel.com/"
+opening_hours: Mo 07:30-13:00; Tu-Th 07:30-13:00, 15:00-18:00; Fr 07:30-13:00, 14:30-18:00;
+    Sa 07:00-13:00
+website: https://fleischerei-rinkel.com/

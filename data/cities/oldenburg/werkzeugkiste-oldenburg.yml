@@ -4,8 +4,8 @@ latitude: 53.15054
 longitude: 8.22772
 postcode: "26123"
 city: Oldenburg
-street: "Klosterstraße"
-housenumber: 6
-phone: "+49 441 86842"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00; PH off"
-website: "https://www.werkzeugkiste-ol.de"
+street: Klosterstraße
+housenumber: "6"
+phone: +49 441 86842
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00; PH off
+website: https://www.werkzeugkiste-ol.de

@@ -1,11 +1,11 @@
 id: 37611958
-type: way
+type: node
 latitude: 52.20556
 longitude: 10.69072
 postcode: "38173"
 city: Erkerode
-street: "Kommendestraße"
-housenumber: 7
+street: Kommendestraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

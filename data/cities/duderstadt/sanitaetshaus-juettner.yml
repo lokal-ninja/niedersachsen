@@ -4,8 +4,8 @@ latitude: 51.51263
 longitude: 10.25662
 postcode: "37115"
 city: Duderstadt
-street: "Auf der Spiegelbrücke"
-housenumber: 3
-phone: "+49 5527 941002"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.juettner.de/filiale/duderstadt"
+street: Auf der Spiegelbrücke
+housenumber: "3"
+phone: +49 5527 941002
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-12:00
+website: https://www.juettner.de/filiale/duderstadt

@@ -5,7 +5,7 @@ longitude: 9.95024
 postcode: ""
 city: Hildesheim
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.gerland-hoergeraete-hildesheim.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.gerland-hoergeraete-hildesheim.de/

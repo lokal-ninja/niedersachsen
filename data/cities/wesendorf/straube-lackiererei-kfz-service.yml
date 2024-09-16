@@ -1,11 +1,11 @@
 id: 351691439
-type: way
+type: node
 latitude: 52.58149
 longitude: 10.52455
 postcode: "29392"
 city: Wesendorf
-street: "Leipziger Straße"
-housenumber: 125
+street: Leipziger Straße
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

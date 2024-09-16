@@ -1,11 +1,11 @@
 id: 660606131
-type: way
+type: node
 latitude: 53.13624
 longitude: 7.66485
 postcode: "26683"
 city: Saterland
-street: "Bürgermeister-Schröer-Straße"
-housenumber: 4
-phone: "+49 4498 709270"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-12:00"
-website: "https://www.autoservice-struecklingen.de/"
+street: Bürgermeister-Schröer-Straße
+housenumber: "4"
+phone: +49 4498 709270
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-12:00
+website: https://www.autoservice-struecklingen.de/

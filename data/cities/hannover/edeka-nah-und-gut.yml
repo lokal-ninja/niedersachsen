@@ -1,11 +1,11 @@
 id: 1070140239
-type: way
+type: node
 latitude: 52.32907
 longitude: 9.69077
 postcode: "30457"
 city: Hannover
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

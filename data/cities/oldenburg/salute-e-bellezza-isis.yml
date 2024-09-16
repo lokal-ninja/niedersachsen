@@ -1,11 +1,11 @@
 id: 88363018
-type: way
+type: node
 latitude: 53.13287
 longitude: 8.18463
 postcode: "26131"
 city: Oldenburg
-street: "Edewechter Landstraße"
-housenumber: 18
+street: Edewechter Landstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

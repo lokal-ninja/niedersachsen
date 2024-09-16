@@ -1,11 +1,11 @@
 id: 226958600
-type: way
+type: node
 latitude: 53.07381
 longitude: 8.93606
 postcode: "28327"
 city: Bremen
-street: "Osterholzer Landstraße"
-housenumber: 112
+street: Osterholzer Landstraße
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

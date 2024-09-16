@@ -1,11 +1,11 @@
 id: 14349252
-type: way
+type: node
 latitude: 52.42339
 longitude: 9.83231
 postcode: "30916"
 city: Isernhagen
-street: "Opelstraße"
+street: Opelstraße
 housenumber: 3-5
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su,PH off"
-website: "https://www.a2center.com/"
+opening_hours: Mo-Sa 08:00-22:00; Su,PH off
+website: https://www.a2center.com/

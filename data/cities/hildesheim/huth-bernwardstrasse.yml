@@ -4,8 +4,8 @@ latitude: 52.15828
 longitude: 9.95237
 postcode: ""
 city: Hildesheim
-street: "Bernwardstraße"
-housenumber: 9
-phone: "+49 5121 57771"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-14:00"
-website: "https://www.friseurhuth.de"
+street: Bernwardstraße
+housenumber: "9"
+phone: +49 5121 57771
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-14:00
+website: https://www.friseurhuth.de

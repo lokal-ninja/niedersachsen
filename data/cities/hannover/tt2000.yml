@@ -4,8 +4,8 @@ latitude: 52.39207
 longitude: 9.75503
 postcode: "30163"
 city: Hannover
-street: "Liebigstraße"
-housenumber: 5
-phone: "+49 511 8993858"
-opening_hours: "Mo-Fr 12:00-18:30; Sa 10:00-14:00"
-website: "https://tt2000-foerster.de/"
+street: Liebigstraße
+housenumber: "5"
+phone: +49 511 8993858
+opening_hours: Mo-Fr 12:00-18:30; Sa 10:00-14:00
+website: https://tt2000-foerster.de/

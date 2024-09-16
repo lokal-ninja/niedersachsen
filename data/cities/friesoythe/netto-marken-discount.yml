@@ -1,11 +1,11 @@
 id: 629016111
-type: way
+type: node
 latitude: 53.03212
 longitude: 7.85469
 postcode: "26169"
 city: Friesoythe
-street: "Barßeler Straße"
-housenumber: 41
+street: Barßeler Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-22:00; PH,Su off
 website: ""

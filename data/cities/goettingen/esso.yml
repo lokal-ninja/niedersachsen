@@ -1,11 +1,11 @@
 id: 1123437649
-type: way
+type: node
 latitude: 51.53364
 longitude: 9.90772
 postcode: "37081"
 city: Göttingen
-street: "Kasseler Landstraße"
-housenumber: 12
+street: Kasseler Landstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Su,PH 05:00-21:00"
+opening_hours: Mo-Su,PH 05:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.51259
 longitude: 10.26086
 postcode: "37115"
 city: Duderstadt
-street: "Marktstraße"
-housenumber: 69
-phone: "+49 05527 979356"
-opening_hours: "Sa 09:30-13:00; Mo,Tu 09:30-13:00,15:00-18:00; Th,Fr 09:30-13:00,15:00-18:00"
-website: "https://shopseite.telekom.de/nord-ost/duderstadt/marktstr-69"
+street: Marktstraße
+housenumber: "69"
+phone: +49 05527 979356
+opening_hours: Sa 09:30-13:00; Mo,Tu 09:30-13:00,15:00-18:00; Th,Fr 09:30-13:00,15:00-18:00
+website: https://shopseite.telekom.de/nord-ost/duderstadt/marktstr-69

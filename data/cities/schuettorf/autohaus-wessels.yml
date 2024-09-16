@@ -1,11 +1,11 @@
 id: 53457013
-type: way
+type: node
 latitude: 52.31642
 longitude: 7.22336
 postcode: "48465"
 city: Schüttorf
-street: "Alter Bentheimer Weg"
-housenumber: 4
-phone: "+49 5923 96450"
+street: Alter Bentheimer Weg
+housenumber: "4"
+phone: +49 5923 96450
 opening_hours: ""
-website: "https://autohauswessels.de/"
+website: https://autohauswessels.de/

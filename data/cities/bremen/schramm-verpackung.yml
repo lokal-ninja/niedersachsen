@@ -1,11 +1,11 @@
 id: 290995449
-type: way
+type: node
 latitude: 53.11098
 longitude: 8.80064
 postcode: "28219"
 city: Bremen
-street: "Straubinger Straße"
-housenumber: 9
+street: Straubinger Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 07:15-16:45; Fr 07:15-15:15; Sa,Su,PH off"
+opening_hours: Mo-Th 07:15-16:45; Fr 07:15-15:15; Sa,Su,PH off
 website: ""

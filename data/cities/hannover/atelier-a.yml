@@ -4,8 +4,8 @@ latitude: 52.3697
 longitude: 9.75278
 postcode: "30171"
 city: Hannover
-street: "Marienstraße"
-housenumber: 68
-phone: "+49 511 866 481 51"
+street: Marienstraße
+housenumber: "68"
+phone: +49 511 866 481 51
 opening_hours: ""
-website: "https://schneideratelier-a.de"
+website: https://schneideratelier-a.de

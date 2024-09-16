@@ -1,11 +1,11 @@
 id: 428934806
-type: way
+type: node
 latitude: 52.34442
 longitude: 9.37983
 postcode: "31542"
 city: Bad Nenndorf
-street: "Rotrehre"
+street: Rotrehre
 housenumber: 11a
-phone: "+49 5723 74762 0"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-13:00"
-website: "https://www.autohaus-pinkau.de"
+phone: +49 5723 74762 0
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-13:00
+website: https://www.autohaus-pinkau.de

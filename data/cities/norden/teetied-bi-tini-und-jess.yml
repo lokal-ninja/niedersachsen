@@ -1,11 +1,11 @@
 id: 87388540
-type: way
+type: node
 latitude: 53.61349
 longitude: 7.1528
 postcode: "26506"
 city: Norden
-street: "Dörper Weg"
-housenumber: 6
+street: Dörper Weg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1241978920
-type: way
+type: node
 latitude: 52.43167
 longitude: 9.7169
 postcode: "30851"
 city: Langenhagen
-street: "Hans-Böckler-Straße"
+street: Hans-Böckler-Straße
 housenumber: 52-54
-phone: "+49 511 87415160"
+phone: +49 511 87415160
 opening_hours: ""
-website: "https://www.feindruckerei.de/"
+website: https://www.feindruckerei.de/

@@ -1,11 +1,11 @@
 id: 244398599
-type: way
+type: node
 latitude: 52.00891
 longitude: 10.13104
 postcode: "31167"
 city: Bockenem
-street: "Klosterstraße"
-housenumber: 2
-phone: "+495067 2395"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 8:00-13:00"
+street: Klosterstraße
+housenumber: "2"
+phone: +495067 2395
+opening_hours: Mo-Fr 08:30-18:00; Sa 8:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 113279232
-type: way
+type: node
 latitude: 53.47626
 longitude: 7.39713
 postcode: "26624"
 city: Südbrookmerland
-street: "Marktstraße"
-housenumber: 16
+street: Marktstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

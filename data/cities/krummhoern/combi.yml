@@ -1,11 +1,11 @@
 id: 89594015
-type: way
+type: node
 latitude: 53.42808
 longitude: 7.10877
 postcode: "26736"
 city: Krummhörn
-street: "Handelsstraße"
-housenumber: 6
+street: Handelsstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.combi.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.combi.de/

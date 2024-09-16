@@ -4,8 +4,8 @@ latitude: 53.2683
 longitude: 9.72931
 postcode: "21255"
 city: Tostedt
-street: "Zinnhütte"
-housenumber: 1
+street: Zinnhütte
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
-website: "https://www.jawoll.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
+website: https://www.jawoll.de/

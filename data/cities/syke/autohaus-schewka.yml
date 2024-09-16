@@ -1,11 +1,11 @@
 id: 260940260
-type: way
+type: node
 latitude: 52.9396
 longitude: 8.82887
 postcode: "28857"
 city: Syke
-street: "Krusenberg"
-housenumber: 7
+street: Krusenberg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

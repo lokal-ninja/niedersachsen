@@ -1,11 +1,11 @@
 id: 265975349
-type: way
+type: node
 latitude: 53.11948
 longitude: 8.33388
 postcode: "27798"
 city: Hude
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

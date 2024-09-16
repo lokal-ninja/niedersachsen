@@ -1,11 +1,11 @@
 id: 128502897
-type: way
+type: node
 latitude: 52.42321
 longitude: 9.58953
 postcode: "30823"
 city: Garbsen
-street: "Berenbosteler Straße"
-housenumber: 76
+street: Berenbosteler Straße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

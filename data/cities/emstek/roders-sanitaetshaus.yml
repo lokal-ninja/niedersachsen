@@ -4,8 +4,9 @@ latitude: 52.83311
 longitude: 8.15056
 postcode: "49685"
 city: Emstek
-street: "Clemens-August-Straße"
-housenumber: 20
+street: Clemens-August-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo 08:30-12:30,14:00-17:00; Tu,Th 08:30-12:30,14:00-18:00; We,Fr 08:30-12:30; PH off"
+opening_hours: Mo 08:30-12:30,14:00-17:00; Tu,Th 08:30-12:30,14:00-18:00; We,Fr 08:30-12:30;
+    PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 275955501
-type: way
+type: node
 latitude: 52.16785
 longitude: 9.24306
 postcode: "31840"
 city: Hessisch Oldendorf
-street: "Münchhausenring"
-housenumber: 4
+street: Münchhausenring
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

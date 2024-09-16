@@ -1,11 +1,11 @@
 id: 194945684
-type: way
+type: node
 latitude: 52.97223
 longitude: 11.16354
 postcode: "29439"
 city: Lüchow
-street: "Seerauer Straße"
-housenumber: 29
+street: Seerauer Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 111381294
-type: way
+type: node
 latitude: 51.98673
 longitude: 9.80845
 postcode: "31061"
 city: Alfeld (Leine)
-street: "Neue Wiese"
-housenumber: 8
-phone: "+49 5181 5553"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://schuh-centrum.de/"
+street: Neue Wiese
+housenumber: "8"
+phone: +49 5181 5553
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://schuh-centrum.de/

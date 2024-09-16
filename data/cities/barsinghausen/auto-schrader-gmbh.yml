@@ -4,8 +4,8 @@ latitude: 52.31476
 longitude: 9.46368
 postcode: "30890"
 city: Barsinghausen
-street: "Hermann-Bahlsen-Straße"
-housenumber: 1
-phone: "+49 5105 514139"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-13:00"
-website: "https://www.auto-schrader.de/unternehmen/standorte"
+street: Hermann-Bahlsen-Straße
+housenumber: "1"
+phone: +49 5105 514139
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-13:00
+website: https://www.auto-schrader.de/unternehmen/standorte

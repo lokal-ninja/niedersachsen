@@ -1,11 +1,11 @@
 id: 205779165
-type: way
+type: node
 latitude: 53.10518
 longitude: 8.8851
 postcode: "28357"
 city: Bremen
-street: "Lilienthaler Heerstraße"
-housenumber: 105
+street: Lilienthaler Heerstraße
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

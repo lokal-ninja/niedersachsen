@@ -1,11 +1,11 @@
 id: 750432636
-type: way
+type: node
 latitude: 52.44316
 longitude: 10.59448
 postcode: "38550"
 city: Isenbüttel
-street: "Gehrenkamp"
-housenumber: 5
-phone: "+49 (0) 5374 9197 0"
+street: Gehrenkamp
+housenumber: "5"
+phone: +49 (0) 5374 9197 0
 opening_hours: ""
 website: ""

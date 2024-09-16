@@ -1,11 +1,11 @@
 id: 91788331
-type: way
+type: node
 latitude: 52.46541
 longitude: 10.19429
 postcode: "31311"
 city: Uetze
-street: "Beiklingen"
-housenumber: 5
+street: Beiklingen
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 179317457
-type: way
+type: node
 latitude: 52.57623
 longitude: 9.43134
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Hagener Straße"
-housenumber: 20
+street: Hagener Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-12:30"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-12:30
 website: ""

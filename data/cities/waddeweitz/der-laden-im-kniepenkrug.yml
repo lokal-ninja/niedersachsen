@@ -5,7 +5,7 @@ longitude: 11.01092
 postcode: "29496"
 city: Waddeweitz
 street: ""
-housenumber: 12
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo,We,Fr 10:00-18:00; Sa 10:00-13:00
 website: ""

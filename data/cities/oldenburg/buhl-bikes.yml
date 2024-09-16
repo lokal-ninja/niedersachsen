@@ -4,8 +4,9 @@ latitude: 53.15541
 longitude: 8.21515
 postcode: "26121"
 city: Oldenburg
-street: "Lambertistraße"
-housenumber: 
+street: Lambertistraße
+housenumber: ""
 phone: ""
-opening_hours: "Tu,Th,Fr 09:30-12:30,14:30-18:00; Sa 09:30-14:00; Mo,We,Su off; PH off"
-website: "https://www.buhl-bikes.de/"
+opening_hours: Tu,Th,Fr 09:30-12:30,14:30-18:00; Sa 09:30-14:00; Mo,We,Su off; PH
+    off
+website: https://www.buhl-bikes.de/

@@ -1,11 +1,11 @@
 id: 162814907
-type: way
+type: node
 latitude: 52.81391
 longitude: 7.25306
 postcode: "49733"
 city: Haren (Ems)
-street: "Emen"
-housenumber: 5
+street: Emen
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

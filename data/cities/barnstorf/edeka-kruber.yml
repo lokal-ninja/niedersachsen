@@ -1,11 +1,11 @@
 id: 161717077
-type: way
+type: node
 latitude: 52.70872
 longitude: 8.50515
 postcode: "49406"
 city: Barnstorf
-street: "Friedrich-Plate-Straße"
-housenumber: 2
+street: Friedrich-Plate-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

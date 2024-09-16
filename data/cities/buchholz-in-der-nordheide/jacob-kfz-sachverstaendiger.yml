@@ -4,8 +4,8 @@ latitude: 53.35181
 longitude: 9.87018
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Innungsstraße"
-housenumber: 6
-phone: "+49 4181 923440"
-opening_hours: "Mo,Tu 08:00-16:00; We 08:00-12:00; Th 08:00-17:00; Fr 08:00-12:00"
-website: "https://www.kfz-jacob.de/"
+street: Innungsstraße
+housenumber: "6"
+phone: +49 4181 923440
+opening_hours: Mo,Tu 08:00-16:00; We 08:00-12:00; Th 08:00-17:00; Fr 08:00-12:00
+website: https://www.kfz-jacob.de/

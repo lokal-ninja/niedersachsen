@@ -1,11 +1,11 @@
 id: 43104126
-type: way
+type: node
 latitude: 52.43703
 longitude: 10.86162
 postcode: "38448"
 city: Wolfsburg
-street: "Sudammsbreite"
-housenumber: 43
+street: Sudammsbreite
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00"
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

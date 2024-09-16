@@ -4,8 +4,8 @@ latitude: 53.04829
 longitude: 8.96257
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 36
-phone: "+49 421 43509431"
-opening_hours: "Mo-Sa 09:00-19:00, Su 13:00-16:00"
-website: "https://www.blumen-peters.de/am-weserpark/"
+street: Hans-Bredow-Straße
+housenumber: "36"
+phone: +49 421 43509431
+opening_hours: Mo-Sa 09:00-19:00, Su 13:00-16:00
+website: https://www.blumen-peters.de/am-weserpark/

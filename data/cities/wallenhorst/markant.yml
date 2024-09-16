@@ -1,11 +1,11 @@
 id: 142657882
-type: way
+type: node
 latitude: 52.33692
 longitude: 8.05932
 postcode: "49134"
 city: Wallenhorst
-street: "Parkallee"
-housenumber: 1
+street: Parkallee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00, Su 08:00-12:30"
+opening_hours: Mo-Sa 07:30-20:00, Su 08:00-12:30
 website: ""

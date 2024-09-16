@@ -1,11 +1,11 @@
 id: 389786831
-type: way
+type: node
 latitude: 53.59087
 longitude: 9.55266
 postcode: "21723"
 city: Hollern-Twielenfleth
-street: "Hollernstraße"
-housenumber: 63
+street: Hollernstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

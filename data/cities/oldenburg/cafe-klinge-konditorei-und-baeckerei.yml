@@ -4,8 +4,8 @@ latitude: 53.15616
 longitude: 8.20934
 postcode: "26121"
 city: Oldenburg
-street: "Alexanderstraße"
-housenumber: 119
-phone: "+49 441 85888"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00"
-website: "http://konditorei-klinge.de"
+street: Alexanderstraße
+housenumber: "119"
+phone: +49 441 85888
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00
+website: http://konditorei-klinge.de

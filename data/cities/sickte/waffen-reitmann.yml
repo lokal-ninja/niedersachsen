@@ -1,11 +1,11 @@
 id: 406769250
-type: way
+type: node
 latitude: 52.22109
 longitude: 10.61992
 postcode: "38173"
 city: Sickte
-street: "Hauptstraße"
-housenumber: 31
+street: Hauptstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo,We-Fr 09:00-12:00,14:00-18:00; Tu 09:00-12:00"
+opening_hours: Mo,We-Fr 09:00-12:00,14:00-18:00; Tu 09:00-12:00
 website: ""

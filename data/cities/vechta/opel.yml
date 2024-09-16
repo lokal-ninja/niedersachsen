@@ -1,11 +1,11 @@
 id: 441705040
-type: way
+type: node
 latitude: 52.73024
 longitude: 8.25825
 postcode: "49377"
 city: Vechta
-street: "Falkenrotter Straße"
-housenumber: 177
-phone: "+49 4441 8929 0"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
+street: Falkenrotter Straße
+housenumber: "177"
+phone: +49 4441 8929 0
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
 website: ""

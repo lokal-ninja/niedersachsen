@@ -1,11 +1,11 @@
 id: 200057746
-type: way
+type: node
 latitude: 52.60767
 longitude: 8.38131
 postcode: "49356"
 city: Diepholz
-street: "Schömastraße"
-housenumber: 5
+street: Schömastraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
 website: ""

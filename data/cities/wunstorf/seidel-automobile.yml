@@ -1,11 +1,11 @@
 id: 209307322
-type: way
+type: node
 latitude: 52.41298
 longitude: 9.4572
 postcode: "31515"
 city: Wunstorf
-street: "Albert-Einstein-Straße"
-housenumber: 10
-phone: "+49 5031 9497 0"
-opening_hours: "Mo-Fr 07:30-16:45"
-website: "https://www.seidel-automobile.de/"
+street: Albert-Einstein-Straße
+housenumber: "10"
+phone: +49 5031 9497 0
+opening_hours: Mo-Fr 07:30-16:45
+website: https://www.seidel-automobile.de/

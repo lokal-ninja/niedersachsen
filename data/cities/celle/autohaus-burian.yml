@@ -1,11 +1,11 @@
 id: 144992594
-type: way
+type: node
 latitude: 52.61082
 longitude: 10.09923
 postcode: "29221"
 city: Celle
-street: "Braunschweiger Heerstraße"
-housenumber: 49
+street: Braunschweiger Heerstraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "http://www.ah-burian.de/html/home.php"
+website: http://www.ah-burian.de/html/home.php

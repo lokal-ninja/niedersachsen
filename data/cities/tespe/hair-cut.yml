@@ -1,11 +1,11 @@
 id: 218981185
-type: way
+type: node
 latitude: 53.40752
 longitude: 10.40021
 postcode: "21395"
 city: Tespe
-street: "Elbuferstraße"
-housenumber: 202
+street: Elbuferstraße
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

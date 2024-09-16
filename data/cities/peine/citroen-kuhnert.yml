@@ -1,11 +1,11 @@
 id: 327757745
-type: way
+type: node
 latitude: 52.31531
 longitude: 10.21298
 postcode: "31226"
 city: Peine
-street: "Werner-Nordmeyer-Straße"
-housenumber: 8
+street: Werner-Nordmeyer-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.citroen-haendler.de/kuhnert-peine"
+website: https://www.citroen-haendler.de/kuhnert-peine

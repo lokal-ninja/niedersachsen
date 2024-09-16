@@ -1,11 +1,11 @@
 id: 952005626
-type: way
+type: node
 latitude: 53.69495
 longitude: 9.14783
 postcode: "21745"
 city: Hemmoor
-street: "Hauptstraße"
-housenumber: 47
+street: Hauptstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Tu-Th 08:30-13:00; Fr 08:30-18:00; Sa 08:00-13:00"
-website: "https://www.cuxland-pur.de"
+opening_hours: Tu-Th 08:30-13:00; Fr 08:30-18:00; Sa 08:00-13:00
+website: https://www.cuxland-pur.de

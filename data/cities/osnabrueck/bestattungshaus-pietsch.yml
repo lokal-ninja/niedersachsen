@@ -4,8 +4,8 @@ latitude: 52.2611
 longitude: 8.07025
 postcode: "49084"
 city: Osnabrück
-street: "Großer Fledderweg"
-housenumber: 21
-phone: "+49 541 53637"
-opening_hours: "siehe Website. jederzeit"
-website: "https://www.pietsch-bestattungen.de/"
+street: Großer Fledderweg
+housenumber: "21"
+phone: +49 541 53637
+opening_hours: '"siehe Website. jederzeit"'
+website: https://www.pietsch-bestattungen.de/

@@ -4,8 +4,8 @@ latitude: 52.42156
 longitude: 10.86284
 postcode: "38448"
 city: Wolfsburg
-street: "Karl-Ferdinand-Braun-Ring"
-housenumber: 2
-phone: "+49 5363 8080 0"
+street: Karl-Ferdinand-Braun-Ring
+housenumber: "2"
+phone: +49 5363 8080 0
 opening_hours: ""
-website: "https://bauking.de/standorte/baustoffhandel-wolfsburg"
+website: https://bauking.de/standorte/baustoffhandel-wolfsburg

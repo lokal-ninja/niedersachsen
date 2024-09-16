@@ -1,11 +1,11 @@
 id: 163042569
-type: way
+type: node
 latitude: 52.52447
 longitude: 7.66803
 postcode: "49584"
 city: Fürstenau
-street: "Konrad-Adenauer-Straße"
-housenumber: 52
+street: Konrad-Adenauer-Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

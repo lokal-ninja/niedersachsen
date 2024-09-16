@@ -1,11 +1,11 @@
 id: 193192944
-type: way
+type: node
 latitude: 52.84874
 longitude: 8.06615
 postcode: "49661"
 city: Cloppenburg
-street: "Carl-Zeiss-Straße"
-housenumber: 2
+street: Carl-Zeiss-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

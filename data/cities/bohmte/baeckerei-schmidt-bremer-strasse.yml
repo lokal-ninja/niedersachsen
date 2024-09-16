@@ -4,8 +4,8 @@ latitude: 52.3619
 longitude: 8.30977
 postcode: "49163"
 city: Bohmte
-street: "Bremer Straße"
-housenumber: 14
-phone: "+49 5471 950445"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-13:00; So 07:30-15:00"
-website: "https://baeckerei-schmidt.de/"
+street: Bremer Straße
+housenumber: "14"
+phone: +49 5471 950445
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:00-13:00; So 07:30-15:00
+website: https://baeckerei-schmidt.de/

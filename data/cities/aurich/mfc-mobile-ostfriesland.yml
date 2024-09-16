@@ -1,11 +1,11 @@
 id: 91117303
-type: way
+type: node
 latitude: 53.44041
 longitude: 7.51478
 postcode: "26605"
 city: Aurich
-street: "Tjüchkampstraße"
-housenumber: 4
+street: Tjüchkampstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

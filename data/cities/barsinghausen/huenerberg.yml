@@ -1,11 +1,11 @@
 id: 235976921
-type: way
+type: node
 latitude: 52.30349
 longitude: 9.45854
 postcode: "30890"
 city: Barsinghausen
-street: "Kaltenbornstraße"
-housenumber: 1
+street: Kaltenbornstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

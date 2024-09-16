@@ -4,8 +4,8 @@ latitude: 53.24621
 longitude: 10.40339
 postcode: "21335"
 city: Lüneburg
-street: "Salzstraße"
-housenumber: 17
+street: Salzstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.laufsport-jahnke.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.laufsport-jahnke.de

@@ -1,11 +1,11 @@
 id: 189731327
-type: way
+type: node
 latitude: 53.05227
 longitude: 8.90066
 postcode: "28309"
 city: Bremen
-street: "Osterhop"
-housenumber: 3
+street: Osterhop
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 317239883
-type: way
+type: node
 latitude: 53.18791
 longitude: 8.22353
 postcode: "26125"
 city: Oldenburg
-street: "Bollmannsweg"
-housenumber: 33
+street: Bollmannsweg
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 07:00-21:30; Sa 09:00-14:00
 website: ""

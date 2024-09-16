@@ -1,11 +1,11 @@
 id: 192666767
-type: way
+type: node
 latitude: 51.63799
 longitude: 9.55766
 postcode: "37194"
 city: Bodenfelde
-street: "Kottberg"
-housenumber: 10
+street: Kottberg
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

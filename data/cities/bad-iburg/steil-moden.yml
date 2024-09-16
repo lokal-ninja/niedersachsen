@@ -1,11 +1,11 @@
 id: 269066079
-type: way
+type: node
 latitude: 52.15709
 longitude: 8.04556
 postcode: "49186"
 city: Bad Iburg
-street: "Große Straße"
-housenumber: 11
+street: Große Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

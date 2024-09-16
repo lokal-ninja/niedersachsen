@@ -1,11 +1,11 @@
 id: 89817348
-type: way
+type: node
 latitude: 53.80304
 longitude: 8.8811
 postcode: "21762"
 city: Otterndorf
-street: "Raiffeisenstraße"
-housenumber: 16
-phone: "+49 4751 91490"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-12:00"
-website: "https://www.euromaster.de/filiale/euromaster-otterndorf"
+street: Raiffeisenstraße
+housenumber: "16"
+phone: +49 4751 91490
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-12:00
+website: https://www.euromaster.de/filiale/euromaster-otterndorf

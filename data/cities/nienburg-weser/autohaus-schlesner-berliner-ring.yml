@@ -1,11 +1,11 @@
 id: 411755965
-type: way
+type: node
 latitude: 52.63071
 longitude: 9.21864
 postcode: "31582"
 city: Nienburg/Weser
-street: "Berliner Ring"
-housenumber: 87
+street: Berliner Ring
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://schlesner.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://schlesner.de

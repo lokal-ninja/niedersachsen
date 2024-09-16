@@ -4,8 +4,8 @@ latitude: 52.43111
 longitude: 9.68371
 postcode: "30855"
 city: Langenhagen
-street: "Ziegeleistraße"
-housenumber: 19
-phone: "+49 15236440172"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00"
-website: "https://goldenestoffe.de/"
+street: Ziegeleistraße
+housenumber: "19"
+phone: +49 15236440172
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-16:00
+website: https://goldenestoffe.de/

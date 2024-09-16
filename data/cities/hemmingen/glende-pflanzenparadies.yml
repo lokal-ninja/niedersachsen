@@ -1,11 +1,11 @@
 id: 126118044
-type: way
+type: node
 latitude: 52.31539
 longitude: 9.72881
 postcode: "30966"
 city: Hemmingen
-street: "Göttinger Landstraße"
-housenumber: 81
+street: Göttinger Landstraße
+housenumber: "81"
 phone: ""
 opening_hours: ""
-website: "https://www.glende-pflanzenparadies.de/"
+website: https://www.glende-pflanzenparadies.de/

@@ -1,11 +1,11 @@
 id: 1001790902
-type: way
+type: node
 latitude: 51.88998
 longitude: 10.17625
 postcode: "38723"
 city: Seesen
-street: "Jacobsonstraße"
-housenumber: 33
+street: Jacobsonstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.2014
 longitude: 10.43907
 postcode: "21407"
 city: Deutsch Evern
-street: "Dorfstraße"
-housenumber: 22
-phone: "+49 4131 79531"
-opening_hours: "Th-Su 09:00-17:00"
-website: "https://www.proehls-hofladen.com"
+street: Dorfstraße
+housenumber: "22"
+phone: +49 4131 79531
+opening_hours: Th-Su 09:00-17:00
+website: https://www.proehls-hofladen.com

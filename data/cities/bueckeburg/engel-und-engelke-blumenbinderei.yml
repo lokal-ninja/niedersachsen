@@ -1,11 +1,11 @@
 id: 450769466
-type: way
+type: node
 latitude: 52.2628
 longitude: 9.04231
 postcode: "31675"
 city: Bückeburg
-street: "Friedrich-Bach-Straße"
-housenumber: 29
-phone: "+49 5722 3325"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00, Su 10:00-12:00"
-website: "https://www.engel-engelke.de/"
+street: Friedrich-Bach-Straße
+housenumber: "29"
+phone: +49 5722 3325
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00, Su 10:00-12:00
+website: https://www.engel-engelke.de/

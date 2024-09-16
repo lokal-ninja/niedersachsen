@@ -4,8 +4,8 @@ latitude: 52.35167
 longitude: 9.69324
 postcode: "30453"
 city: Hannover
-street: "Bornumer Straße"
-housenumber: 141
-phone: "+49 511 43834980"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+street: Bornumer Straße
+housenumber: "141"
+phone: +49 511 43834980
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

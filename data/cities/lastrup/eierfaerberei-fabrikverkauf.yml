@@ -1,11 +1,11 @@
 id: 922153916
-type: way
+type: node
 latitude: 52.80849
 longitude: 7.94975
 postcode: "49688"
 city: Lastrup
-street: "Dorfstraße"
-housenumber: 42
+street: Dorfstraße
+housenumber: "42"
 phone: "+4944779496060"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-12:00"
-website: "http://www.eierfaerberei-hw.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-12:00
+website: http://www.eierfaerberei-hw.de/

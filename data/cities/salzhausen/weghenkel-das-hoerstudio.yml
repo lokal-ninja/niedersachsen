@@ -4,8 +4,8 @@ latitude: 53.22608
 longitude: 10.16641
 postcode: "21376"
 city: Salzhausen
-street: "Bahnhofstraße"
-housenumber: 1
-phone: "+49 4172 988944"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://weghenkel.de/"
+street: Bahnhofstraße
+housenumber: "1"
+phone: +49 4172 988944
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://weghenkel.de/

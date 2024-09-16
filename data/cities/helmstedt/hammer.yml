@@ -1,11 +1,11 @@
 id: 27275884
-type: way
+type: node
 latitude: 52.21767
 longitude: 11.02895
 postcode: "38350"
 city: Helmstedt
-street: "Magdeburger Berg"
-housenumber: 7
+street: Magdeburger Berg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

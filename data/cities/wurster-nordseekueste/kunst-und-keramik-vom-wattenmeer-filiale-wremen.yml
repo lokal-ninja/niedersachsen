@@ -1,11 +1,11 @@
 id: 202856114
-type: way
+type: node
 latitude: 53.64936
 longitude: 8.52021
 postcode: "27639"
 city: Wurster Nordseeküste
-street: "Wremer Specken"
-housenumber: 40
-phone: "+49 4705 950000"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.kunst-keramik.de/"
+street: Wremer Specken
+housenumber: "40"
+phone: +49 4705 950000
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.kunst-keramik.de/

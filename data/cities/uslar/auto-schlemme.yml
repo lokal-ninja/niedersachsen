@@ -1,11 +1,11 @@
 id: 496728568
-type: way
+type: node
 latitude: 51.66075
 longitude: 9.74919
 postcode: "37170"
 city: Uslar
-street: "Industriestraße"
-housenumber: 4
+street: Industriestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.motore.de/html/werkstatt.html"
+website: http://www.motore.de/html/werkstatt.html

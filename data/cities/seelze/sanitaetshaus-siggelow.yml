@@ -4,8 +4,8 @@ latitude: 52.39703
 longitude: 9.64099
 postcode: "30926"
 city: Seelze
-street: "Lange-Feld-Straße"
-housenumber: 18
+street: Lange-Feld-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00;Mo,Tu,Th,Fr 15:30-18:00"
-website: "https://care-log.de"
+opening_hours: Mo-Fr 09:00-13:00;Mo,Tu,Th,Fr 15:30-18:00
+website: https://care-log.de

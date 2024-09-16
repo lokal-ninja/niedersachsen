@@ -1,11 +1,11 @@
 id: 89426835
-type: way
+type: node
 latitude: 53.05771
 longitude: 9.04867
 postcode: "28876"
 city: Oyten
-street: "An der Autobahn"
+street: An der Autobahn
 housenumber: 52-54
-phone: "+49 4207 91710"
-opening_hours: "Mo-Fr 6:30-20:30; Sa 6:30-15:30"
-website: "https://www.auto-anders.de/"
+phone: +49 4207 91710
+opening_hours: Mo-Fr 6:30-20:30; Sa 6:30-15:30
+website: https://www.auto-anders.de/

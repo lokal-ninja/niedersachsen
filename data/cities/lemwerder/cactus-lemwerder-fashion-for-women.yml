@@ -1,11 +1,11 @@
 id: 128670666
-type: way
+type: node
 latitude: 53.16124
 longitude: 8.61154
 postcode: "27809"
 city: Lemwerder
-street: "Stedinger Straße"
-housenumber: 36
+street: Stedinger Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

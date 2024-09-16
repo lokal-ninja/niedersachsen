@@ -1,11 +1,11 @@
 id: 636242810
-type: way
+type: node
 latitude: 52.60765
 longitude: 6.85129
 postcode: "49824"
 city: Emlichheim
-street: "Dorfstraße"
-housenumber: 29
+street: Dorfstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

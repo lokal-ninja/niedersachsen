@@ -4,8 +4,8 @@ latitude: 52.39485
 longitude: 9.75443
 postcode: "30163"
 city: Hannover
-street: "Wittekamp"
-housenumber: 24
+street: Wittekamp
+housenumber: "24"
 phone: ""
-opening_hours: "Th-Fr 18:00-20:00; Sa 11:00-13:00"
-website: "https://www.tante-emmer-laden.de/"
+opening_hours: Th-Fr 18:00-20:00; Sa 11:00-13:00
+website: https://www.tante-emmer-laden.de/

@@ -1,11 +1,11 @@
 id: 260621288
-type: way
+type: node
 latitude: 52.50141
 longitude: 10.54272
 postcode: "38518"
 city: Gifhorn
-street: "Im Paulsumpf"
-housenumber: 16
+street: Im Paulsumpf
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

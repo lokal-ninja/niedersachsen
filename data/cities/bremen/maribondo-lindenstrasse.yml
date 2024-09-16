@@ -4,8 +4,8 @@ latitude: 53.17564
 longitude: 8.61022
 postcode: "28755"
 city: Bremen
-street: "Lindenstraße"
-housenumber: 3
-phone: "+49 421 67418410"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-14:00"
-website: "https://www.maribondo.de/"
+street: Lindenstraße
+housenumber: "3"
+phone: +49 421 67418410
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-14:00
+website: https://www.maribondo.de/

@@ -4,8 +4,8 @@ latitude: 52.27437
 longitude: 10.5342
 postcode: "38106"
 city: Braunschweig
-street: "Bültenweg"
-housenumber: 81
-phone: "+49 531 2335134"
-opening_hours: "Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 15:30-18:00"
-website: "https://shv-computer.de/"
+street: Bültenweg
+housenumber: "81"
+phone: +49 531 2335134
+opening_hours: Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 15:30-18:00
+website: https://shv-computer.de/

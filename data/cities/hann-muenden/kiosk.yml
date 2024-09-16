@@ -1,11 +1,11 @@
 id: 352814033
-type: way
+type: node
 latitude: 51.41876
 longitude: 9.67457
 postcode: "34346"
 city: Hann. Münden
-street: "Querenburg"
-housenumber: 2
+street: Querenburg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.03299
 longitude: 9.03172
 postcode: "28832"
 city: Achim
-street: "Hauptstraße"
-housenumber: 117
-phone: "+49 4202 2061"
-opening_hours: "Mo-Sa 05:30-12:00"
+street: Hauptstraße
+housenumber: "117"
+phone: +49 4202 2061
+opening_hours: Mo-Sa 05:30-12:00
 website: ""

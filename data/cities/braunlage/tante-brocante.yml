@@ -1,11 +1,11 @@
 id: 126665757
-type: way
+type: node
 latitude: 51.71105
 longitude: 10.52018
 postcode: "37444"
 city: Braunlage
-street: "Dr.-Willi-Bergmann-Straße"
-housenumber: 5
+street: Dr.-Willi-Bergmann-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://madamesauerkraut.com/"
+website: https://madamesauerkraut.com/

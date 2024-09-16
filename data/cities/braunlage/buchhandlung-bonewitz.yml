@@ -1,11 +1,11 @@
 id: 173751329
-type: way
+type: node
 latitude: 51.72556
 longitude: 10.61086
 postcode: "38700"
 city: Braunlage
-street: "Herzog-Wilhelm-Straße"
-housenumber: 11
-phone: "+49 5520 1336"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
+street: Herzog-Wilhelm-Straße
+housenumber: "11"
+phone: +49 5520 1336
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 656843394
-type: way
+type: node
 latitude: 52.53222
 longitude: 7.32193
 postcode: "49808"
 city: Lingen (Ems)
-street: "Waldstraße"
-housenumber: 63
+street: Waldstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

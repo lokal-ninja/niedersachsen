@@ -4,8 +4,8 @@ latitude: 52.3728
 longitude: 9.73963
 postcode: "30159"
 city: Hannover
-street: "Georgstraße"
-housenumber: 40
-phone: "+49 511 325179"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.optiker-staude.de/"
+street: Georgstraße
+housenumber: "40"
+phone: +49 511 325179
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.optiker-staude.de/

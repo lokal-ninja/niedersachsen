@@ -1,11 +1,11 @@
 id: 216545560
-type: way
+type: node
 latitude: 52.382
 longitude: 9.39325
 postcode: "31559"
 city: Haste
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 63a
-phone: "+49 5723 748258"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/"
+phone: +49 5723 748258
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/

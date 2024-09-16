@@ -1,11 +1,11 @@
 id: 39688677
-type: way
+type: node
 latitude: 52.22964
 longitude: 9.84346
 postcode: "31157"
 city: Sarstedt
-street: "Voss-Straße"
-housenumber: 12
+street: Voss-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

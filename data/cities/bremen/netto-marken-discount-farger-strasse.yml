@@ -1,11 +1,11 @@
 id: 492975378
-type: way
+type: node
 latitude: 53.20312
 longitude: 8.5247
 postcode: "28777"
 city: Bremen
-street: "Farger Straße"
-housenumber: 99
+street: Farger Straße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de

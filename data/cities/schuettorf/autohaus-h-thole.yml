@@ -1,11 +1,11 @@
 id: 161633250
-type: way
+type: node
 latitude: 52.30007
 longitude: 7.22215
 postcode: "48465"
 city: Schüttorf
-street: "Postweg"
-housenumber: 6
-phone: "+49 5923 955510"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-12:00"
-website: "http://www.auto-thole.de/"
+street: Postweg
+housenumber: "6"
+phone: +49 5923 955510
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-12:00
+website: http://www.auto-thole.de/

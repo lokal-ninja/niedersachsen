@@ -1,11 +1,11 @@
 id: 194241608
-type: way
+type: node
 latitude: 53.49146
 longitude: 8.02605
 postcode: "26452"
 city: Sande
-street: "Weserstraße"
-housenumber: 18
-phone: "+49 4422-4611"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-12:00"
+street: Weserstraße
+housenumber: "18"
+phone: +49 4422-4611
+opening_hours: Mo-Fr 08:00-17:00; Sa 10:00-12:00
 website: ""

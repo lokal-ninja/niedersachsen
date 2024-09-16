@@ -1,11 +1,11 @@
 id: 1100702756
-type: way
+type: node
 latitude: 53.02219
 longitude: 7.88182
 postcode: "26169"
 city: Friesoythe
-street: "Bürgermeister-Olberding-Straße"
-housenumber: 1
+street: Bürgermeister-Olberding-Straße
+housenumber: "1"
 phone: "+4944478020"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off; PH off"
-website: "https://www.gs-genossenschaft.de/raiffeisenmarkt"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off; PH off
+website: https://www.gs-genossenschaft.de/raiffeisenmarkt

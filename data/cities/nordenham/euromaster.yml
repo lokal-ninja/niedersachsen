@@ -1,11 +1,11 @@
 id: 95830590
-type: way
+type: node
 latitude: 53.50119
 longitude: 8.47766
 postcode: "26954"
 city: Nordenham
-street: "Atenser Allee"
-housenumber: 125
+street: Atenser Allee
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 233951993
-type: way
+type: node
 latitude: 52.21782
 longitude: 10.64181
 postcode: "38173"
 city: Sickte
-street: "Tiefe Straße"
+street: Tiefe Straße
 housenumber: 5a
-phone: "+49-5305-3060"
-opening_hours: "Mo-We,Fr 09:00-13:00,15:00-18:00; Th,Sa 09:00-13:00"
+phone: +49-5305-3060
+opening_hours: Mo-We,Fr 09:00-13:00,15:00-18:00; Th,Sa 09:00-13:00
 website: ""

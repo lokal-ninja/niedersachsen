@@ -4,8 +4,8 @@ latitude: 51.51245
 longitude: 10.25872
 postcode: "37115"
 city: Duderstadt
-street: "Marktstraße"
-housenumber: 39
-phone: "+49 55 27 94 36 66"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.draegerundheerhorst.de/"
+street: Marktstraße
+housenumber: "39"
+phone: +49 55 27 94 36 66
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.draegerundheerhorst.de/

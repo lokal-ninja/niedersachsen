@@ -1,11 +1,11 @@
 id: 219634058
-type: way
+type: node
 latitude: 52.25265
 longitude: 10.64522
 postcode: "38162"
 city: Cremlingen
-street: "Im Moorbusche"
-housenumber: 29
-phone: "+49 5306 9138940"
+street: Im Moorbusche
+housenumber: "29"
+phone: +49 5306 9138940
 opening_hours: ""
 website: ""

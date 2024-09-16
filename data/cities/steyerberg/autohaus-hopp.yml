@@ -4,8 +4,8 @@ latitude: 52.56472
 longitude: 9.02754
 postcode: "31595"
 city: Steyerberg
-street: "Stolzenauer Straße"
-housenumber: 4
-phone: "+49 5764 1037"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 10:00-12:00"
-website: "https://www.autohaus-hopp.de/"
+street: Stolzenauer Straße
+housenumber: "4"
+phone: +49 5764 1037
+opening_hours: Mo-Fr 07:30-18:00; Sa 10:00-12:00
+website: https://www.autohaus-hopp.de/

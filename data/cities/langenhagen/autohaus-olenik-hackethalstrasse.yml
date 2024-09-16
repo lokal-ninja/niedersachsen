@@ -1,11 +1,11 @@
 id: 1092363309
-type: way
+type: node
 latitude: 52.42707
 longitude: 9.72208
 postcode: "30851"
 city: Langenhagen
-street: "Hackethalstraße"
-housenumber: 57
+street: Hackethalstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

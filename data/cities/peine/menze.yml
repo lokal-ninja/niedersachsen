@@ -1,11 +1,11 @@
 id: 170828515
-type: way
+type: node
 latitude: 52.30504
 longitude: 10.31315
 postcode: "31224"
 city: Peine
-street: "Stegmannstraße"
-housenumber: 10
+street: Stegmannstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

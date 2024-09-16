@@ -1,11 +1,11 @@
 id: 971484566
-type: way
+type: node
 latitude: 53.1813
 longitude: 8.00295
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Eschweg"
-housenumber: 2
-phone: "+49 4403 2615"
+street: Eschweg
+housenumber: "2"
+phone: +49 4403 2615
 opening_hours: ""
 website: ""

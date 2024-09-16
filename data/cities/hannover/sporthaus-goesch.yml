@@ -4,8 +4,8 @@ latitude: 52.32104
 longitude: 9.81875
 postcode: "30539"
 city: Hannover
-street: "Expo Plaza"
-housenumber: 11
-phone: "+40 511 84 89 5000"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00"
-website: "https://sporthaus-goesch.de"
+street: Expo Plaza
+housenumber: "11"
+phone: +40 511 84 89 5000
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00
+website: https://sporthaus-goesch.de

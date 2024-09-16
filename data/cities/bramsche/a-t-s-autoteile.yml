@@ -4,8 +4,8 @@ latitude: 52.40071
 longitude: 7.99514
 postcode: "49565"
 city: Bramsche
-street: "Meyers Tannen"
-housenumber: 9
+street: Meyers Tannen
+housenumber: "9"
 phone: "+495461969695"
-opening_hours: "Mo-Fr 09:00-13:00, Mo-Fr 14:00-18:00, Sa 9:00-13:00"
-website: "https://www.atsautoteile.de"
+opening_hours: Mo-Fr 09:00-13:00, Mo-Fr 14:00-18:00, Sa 9:00-13:00
+website: https://www.atsautoteile.de

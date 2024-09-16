@@ -1,11 +1,11 @@
 id: 163079624
-type: way
+type: node
 latitude: 51.60293
 longitude: 10.20036
 postcode: "37434"
 city: Gieboldehausen
-street: "Stockenbreite"
-housenumber: 4
-phone: "+49 5528 2049130"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Stockenbreite
+housenumber: "4"
+phone: +49 5528 2049130
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

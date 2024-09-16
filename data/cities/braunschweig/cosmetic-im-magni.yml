@@ -4,8 +4,8 @@ latitude: 52.26081
 longitude: 10.5292
 postcode: "38100"
 city: Braunschweig
-street: "Klint"
-housenumber: 2
-phone: "+49 531 41001"
-opening_hours: "Tu-We 10:00-19:00; Th 12:00-20:00; Fr 09:30-19:00; Mo,Su,PH off; "
-website: "https://cosmetic-im-magni.de"
+street: Klint
+housenumber: "2"
+phone: +49 531 41001
+opening_hours: 'Tu-We 10:00-19:00; Th 12:00-20:00; Fr 09:30-19:00; Mo,Su,PH off; '
+website: https://cosmetic-im-magni.de

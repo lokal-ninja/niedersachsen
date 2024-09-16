@@ -1,11 +1,11 @@
 id: 138025342
-type: way
+type: node
 latitude: 52.44708
 longitude: 8.02648
 postcode: "49565"
 city: Bramsche
-street: "Am Kloster"
-housenumber: 6
-phone: "+49 5461 9962055"
-opening_hours: "nur nach Vereinbarung, by appointment only"
-website: "https://www.windelband.de/"
+street: Am Kloster
+housenumber: "6"
+phone: +49 5461 9962055
+opening_hours: '"nur nach Vereinbarung, by appointment only"'
+website: https://www.windelband.de/

@@ -4,8 +4,8 @@ latitude: 52.50491
 longitude: 9.45783
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Marktstraße"
-housenumber: 18
+street: Marktstraße
+housenumber: "18"
 phone: "+491725802798"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.bryllas.com/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.bryllas.com/

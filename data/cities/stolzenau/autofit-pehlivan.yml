@@ -1,11 +1,11 @@
 id: 233380835
-type: way
+type: node
 latitude: 52.51068
 longitude: 9.05808
 postcode: "31592"
 city: Stolzenau
-street: "Bürgermeister-Heuvemann-Straße"
-housenumber: 15
-phone: "+49 5761 900452"
+street: Bürgermeister-Heuvemann-Straße
+housenumber: "15"
+phone: +49 5761 900452
 opening_hours: ""
-website: "https://auto-pehlivan.de/"
+website: https://auto-pehlivan.de/

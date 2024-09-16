@@ -1,11 +1,11 @@
 id: 909597523
-type: way
+type: node
 latitude: 51.66012
 longitude: 10.17778
 postcode: "37199"
 city: Wulften am Harz
-street: "An der Bahn"
-housenumber: 7
+street: An der Bahn
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 15:00-18:00; Tu-Fr 10:00-13:00,15:00-18:00; Sa-Su off"
+opening_hours: Mo 15:00-18:00; Tu-Fr 10:00-13:00,15:00-18:00; Sa-Su off
 website: ""

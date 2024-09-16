@@ -1,11 +1,11 @@
 id: 751275330
-type: way
+type: node
 latitude: 53.05989
 longitude: 8.7384
 postcode: "28259"
 city: Bremen
-street: "Alte Heerstraße"
-housenumber: 14
+street: Alte Heerstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

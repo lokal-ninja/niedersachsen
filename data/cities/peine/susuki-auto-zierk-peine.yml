@@ -1,11 +1,11 @@
 id: 166095328
-type: way
+type: node
 latitude: 52.31375
 longitude: 10.23981
 postcode: "31226"
 city: Peine
-street: "Feldstraße"
-housenumber: 33
-phone: "+49 5171 58400"
+street: Feldstraße
+housenumber: "33"
+phone: +49 5171 58400
 opening_hours: ""
-website: "http://www.auto-zierk-peine.de/go.to/modix/now/home.html"
+website: http://www.auto-zierk-peine.de/go.to/modix/now/home.html

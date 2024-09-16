@@ -4,8 +4,8 @@ latitude: 52.42587
 longitude: 9.5938
 postcode: "30823"
 city: Garbsen
-street: "Rathausplatz"
-housenumber: 2
-phone: "+49 5131 4870211"
+street: Rathausplatz
+housenumber: "2"
+phone: +49 5131 4870211
 opening_hours: ""
-website: "https://phonepunkt.de"
+website: https://phonepunkt.de

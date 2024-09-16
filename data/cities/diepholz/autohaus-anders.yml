@@ -1,11 +1,11 @@
 id: 671246752
-type: way
+type: node
 latitude: 52.59193
 longitude: 8.34738
 postcode: "49356"
 city: Diepholz
-street: "Kruppstraße"
-housenumber: 1
+street: Kruppstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off
 website: ""

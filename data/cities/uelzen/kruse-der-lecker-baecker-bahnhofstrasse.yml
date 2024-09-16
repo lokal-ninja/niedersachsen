@@ -4,8 +4,8 @@ latitude: 52.96656
 longitude: 10.55262
 postcode: "29525"
 city: Uelzen
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: "+4958130626"
-opening_hours: "Mo-Sa 6:15-20:00"
-website: "https://www.der-lecker-baecker.de/"
+opening_hours: Mo-Sa 6:15-20:00
+website: https://www.der-lecker-baecker.de/

@@ -1,11 +1,11 @@
 id: 512473649
-type: way
+type: node
 latitude: 53.24929
 longitude: 8.12286
 postcode: "26215"
 city: Wiefelstede
-street: "Hauptstraße"
-housenumber: 50
+street: Hauptstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

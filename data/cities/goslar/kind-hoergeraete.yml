@@ -4,8 +4,8 @@ latitude: 51.90824
 longitude: 10.42728
 postcode: "38640"
 city: Goslar
-street: "Rosentorstraße"
-housenumber: 4
+street: Rosentorstraße
+housenumber: "4"
 phone: "+49532125098"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://kind.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://kind.com/

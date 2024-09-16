@@ -1,11 +1,11 @@
 id: 738975716
-type: way
+type: node
 latitude: 52.62141
 longitude: 8.59543
 postcode: "49453"
 city: Barver
-street: "Kirchweg"
-housenumber: 56
+street: Kirchweg
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

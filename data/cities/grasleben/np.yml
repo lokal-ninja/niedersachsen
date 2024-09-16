@@ -1,11 +1,11 @@
 id: 143954743
-type: way
+type: node
 latitude: 52.30494
 longitude: 11.01401
 postcode: "38368"
 city: Grasleben
-street: "Helmstedter Straße"
-housenumber: 15
+street: Helmstedter Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

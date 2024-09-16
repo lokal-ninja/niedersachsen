@@ -1,11 +1,11 @@
 id: 158652063
-type: way
+type: node
 latitude: 53.58878
 longitude: 8.60952
 postcode: "27578"
 city: Bremerhaven
-street: "Kurt-Schumacher-Straße"
-housenumber: 10
+street: Kurt-Schumacher-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

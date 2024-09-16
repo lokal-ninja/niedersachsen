@@ -1,11 +1,11 @@
 id: 149881221
-type: way
+type: node
 latitude: 52.59698
 longitude: 10.1121
 postcode: "29227"
 city: Celle
-street: "Hans-Heinrich-Warnke-Straße"
-housenumber: 11
-phone: "+49 5141 84101"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.reifen.com/"
+street: Hans-Heinrich-Warnke-Straße
+housenumber: "11"
+phone: +49 5141 84101
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.reifen.com/

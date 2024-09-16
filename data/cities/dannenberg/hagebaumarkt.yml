@@ -1,11 +1,11 @@
 id: 242820093
-type: way
+type: node
 latitude: 53.09138
 longitude: 11.08126
 postcode: "29451"
 city: Dannenberg
-street: "Ordasstraße"
-housenumber: 34
+street: Ordasstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

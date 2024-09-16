@@ -4,8 +4,8 @@ latitude: 53.01997
 longitude: 9.78703
 postcode: "29614"
 city: Soltau
-street: "Ellingen"
-housenumber: 15
-phone: "+49 5191 14297"
-opening_hours: "We-Su 14:00-18:00"
-website: "https://www.eggershof.de/"
+street: Ellingen
+housenumber: "15"
+phone: +49 5191 14297
+opening_hours: We-Su 14:00-18:00
+website: https://www.eggershof.de/

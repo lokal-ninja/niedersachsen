@@ -4,8 +4,8 @@ latitude: 53.46653
 longitude: 9.79341
 postcode: "21629"
 city: Neu Wulmstorf
-street: "Bahnhofstraße"
-housenumber: 30
-phone: "+49 40 700 89 30"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00; Su 10:00-12:00"
-website: "https://www.blomen-deel.de"
+street: Bahnhofstraße
+housenumber: "30"
+phone: +49 40 700 89 30
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00; Su 10:00-12:00
+website: https://www.blomen-deel.de

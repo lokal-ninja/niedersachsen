@@ -1,11 +1,11 @@
 id: 655414694
-type: way
+type: node
 latitude: 52.3307
 longitude: 9.18439
 postcode: "31655"
 city: Stadthagen
-street: "Am Bahnhof"
-housenumber: 18
+street: Am Bahnhof
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

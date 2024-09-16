@@ -1,11 +1,11 @@
 id: 167858184
-type: way
+type: node
 latitude: 53.12062
 longitude: 8.90024
 postcode: "28357"
 city: Bremen
-street: "Borgfelder Heerstraße"
-housenumber: 15
+street: Borgfelder Heerstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

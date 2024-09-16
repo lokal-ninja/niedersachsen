@@ -1,11 +1,11 @@
 id: 115556734
-type: way
+type: node
 latitude: 52.88651
 longitude: 8.4177
 postcode: "27793"
 city: Wildeshausen
-street: "Visbeker Straße"
-housenumber: 45
+street: Visbeker Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
 website: ""

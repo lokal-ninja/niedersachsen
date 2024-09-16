@@ -4,8 +4,8 @@ latitude: 52.11974
 longitude: 9.73623
 postcode: "31008"
 city: Elze
-street: "Hauptstraße"
-housenumber: 66
-phone: "+49 5068 2328"
-opening_hours: "Mo 07:00-13:00; Tu-Fr 07:00-13:00, 15:00-18:00; Sa 06:30-13:00"
-website: "https://www.fleischerei-kasten.de/"
+street: Hauptstraße
+housenumber: "66"
+phone: +49 5068 2328
+opening_hours: Mo 07:00-13:00; Tu-Fr 07:00-13:00, 15:00-18:00; Sa 06:30-13:00
+website: https://www.fleischerei-kasten.de/

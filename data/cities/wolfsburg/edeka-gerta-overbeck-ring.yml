@@ -4,8 +4,8 @@ latitude: 52.41481
 longitude: 10.84149
 postcode: "38446"
 city: Wolfsburg
-street: "Gerta-Overbeck-Ring"
-housenumber: 2
+street: Gerta-Overbeck-Ring
+housenumber: "2"
 phone: "+495363809555"
 opening_hours: ""
-website: "https://www.edeka.de/eh/minden-hannover/edeka-bahrs-gerta-overbeck-ring-2/index.jsp"
+website: https://www.edeka.de/eh/minden-hannover/edeka-bahrs-gerta-overbeck-ring-2/index.jsp

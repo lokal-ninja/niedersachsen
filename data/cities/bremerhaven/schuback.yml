@@ -4,8 +4,8 @@ latitude: 53.54234
 longitude: 8.5806
 postcode: "27568"
 city: Bremerhaven
-street: "Bürgermeister-Smidt-Straße"
-housenumber: 17
+street: Bürgermeister-Smidt-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Sa[-1] 09:00-18:00; PH off"
-website: "https://www.parfuemerie-schuback.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Sa[-1] 09:00-18:00; PH off
+website: https://www.parfuemerie-schuback.de/

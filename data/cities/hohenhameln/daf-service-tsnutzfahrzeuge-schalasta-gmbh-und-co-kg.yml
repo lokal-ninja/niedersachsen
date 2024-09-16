@@ -1,11 +1,11 @@
 id: 352051107
-type: way
+type: node
 latitude: 52.31408
 longitude: 10.10382
 postcode: "31249"
 city: Hohenhameln
-street: "Zum Wildekamp"
-housenumber: 4
+street: Zum Wildekamp
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

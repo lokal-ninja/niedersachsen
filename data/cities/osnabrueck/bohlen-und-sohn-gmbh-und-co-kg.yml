@@ -1,11 +1,11 @@
 id: 93190973
-type: way
+type: node
 latitude: 52.26748
 longitude: 7.97699
 postcode: "49078"
 city: Osnabrück
-street: "Averdiekstraße"
-housenumber: 2
+street: Averdiekstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00; Su 14:00-17:00"
-website: "https://www.behrens-gruppe.de/holzhandel-osnabrueck/"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00; Su 14:00-17:00
+website: https://www.behrens-gruppe.de/holzhandel-osnabrueck/

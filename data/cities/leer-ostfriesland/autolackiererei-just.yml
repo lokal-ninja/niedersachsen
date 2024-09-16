@@ -1,11 +1,11 @@
 id: 113793283
-type: way
+type: node
 latitude: 53.22653
 longitude: 7.46317
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Sägemühlenstraße"
-housenumber: 6
+street: Sägemühlenstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://lackiererei-just.de"
+website: http://lackiererei-just.de

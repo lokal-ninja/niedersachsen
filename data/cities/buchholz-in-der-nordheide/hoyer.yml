@@ -4,8 +4,8 @@ latitude: 53.28477
 longitude: 9.87114
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Niedersachsenweg"
-housenumber: 8
-phone: "+49 4187 6093900"
-opening_hours: "24/7"
-website: "https://www.hoyer-tankstellen.de"
+street: Niedersachsenweg
+housenumber: "8"
+phone: +49 4187 6093900
+opening_hours: 24/7
+website: https://www.hoyer-tankstellen.de

@@ -4,8 +4,8 @@ latitude: 52.84471
 longitude: 8.03961
 postcode: "49661"
 city: Cloppenburg
-street: "Lange Straße"
-housenumber: 41
-phone: "+49 4471 947227"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://geo-reisen.de/"
+street: Lange Straße
+housenumber: "41"
+phone: +49 4471 947227
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://geo-reisen.de/

@@ -4,8 +4,8 @@ latitude: 52.28589
 longitude: 10.23141
 postcode: "31241"
 city: Ilsede
-street: "Schmiedeweg"
-housenumber: 11
-phone: "+49 5171 567 77"
-opening_hours: "call us"
+street: Schmiedeweg
+housenumber: "11"
+phone: +49 5171 567 77
+opening_hours: '"call us"'
 website: ""

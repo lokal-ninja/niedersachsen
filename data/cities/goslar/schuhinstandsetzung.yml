@@ -4,8 +4,8 @@ latitude: 51.90848
 longitude: 10.42739
 postcode: "38640"
 city: Goslar
-street: "Petersilienstraße"
-housenumber: 1
+street: Petersilienstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.schuhmacherei-goslar.de/"
+website: https://www.schuhmacherei-goslar.de/

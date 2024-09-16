@@ -4,8 +4,8 @@ latitude: 52.51953
 longitude: 8.19495
 postcode: "49401"
 city: Damme
-street: "Große Straße"
-housenumber: 61
-phone: "+49 5491 9995050"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off"
+street: Große Straße
+housenumber: "61"
+phone: +49 5491 9995050
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off
 website: ""

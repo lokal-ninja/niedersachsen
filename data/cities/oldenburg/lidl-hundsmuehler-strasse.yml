@@ -1,11 +1,11 @@
 id: 27764377
-type: way
+type: node
 latitude: 53.12069
 longitude: 8.19206
 postcode: "26131"
 city: Oldenburg
-street: "Hundsmühler Straße"
-housenumber: 147
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/oldenburg/eversten-hundsmuehler-str-147.html"
+street: Hundsmühler Straße
+housenumber: "147"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/oldenburg/eversten-hundsmuehler-str-147.html

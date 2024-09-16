@@ -1,11 +1,11 @@
 id: 466187811
-type: way
+type: node
 latitude: 53.36571
 longitude: 7.14928
 postcode: "26723"
 city: Emden
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 39a
 phone: ""
-opening_hours: "Tu,Th-Sa 09:00-12:00; We,Fr 15:00-18:00"
+opening_hours: Tu,Th-Sa 09:00-12:00; We,Fr 15:00-18:00
 website: ""

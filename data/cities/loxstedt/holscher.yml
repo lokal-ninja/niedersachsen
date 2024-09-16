@@ -4,8 +4,8 @@ latitude: 53.47123
 longitude: 8.65066
 postcode: "27612"
 city: Loxstedt
-street: "Bahnhofstraße"
-housenumber: 
+street: Bahnhofstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-15:00"
-website: "https://www.holscher.de/"
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-15:00
+website: https://www.holscher.de/

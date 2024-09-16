@@ -4,8 +4,8 @@ latitude: 51.98623
 longitude: 9.82395
 postcode: "31061"
 city: Alfeld (Leine)
-street: "Leinstraße"
-housenumber: 7
-phone: "+49 5181 828635"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.modehaus-magnus.de/"
+street: Leinstraße
+housenumber: "7"
+phone: +49 5181 828635
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.modehaus-magnus.de/

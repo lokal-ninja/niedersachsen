@@ -1,11 +1,11 @@
 id: 143297925
-type: way
+type: node
 latitude: 52.24035
 longitude: 11.01001
 postcode: "38350"
 city: Helmstedt
-street: "Walbecker Straße"
-housenumber: 12
+street: Walbecker Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 587752176
-type: way
+type: node
 latitude: 51.49227
 longitude: 10.01123
 postcode: "37130"
 city: Gleichen
-street: "Steinslieth"
-housenumber: 14
+street: Steinslieth
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

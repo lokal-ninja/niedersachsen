@@ -4,8 +4,8 @@ latitude: 53.37912
 longitude: 9.899
 postcode: "21224"
 city: Rosengarten
-street: "Bremer Straße"
-housenumber: 51
+street: Bremer Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.kik.de/

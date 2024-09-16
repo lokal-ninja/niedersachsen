@@ -1,11 +1,11 @@
 id: 247298569
-type: way
+type: node
 latitude: 53.23115
 longitude: 7.46066
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Mühlenstraße"
-housenumber: 110
+street: Mühlenstraße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; PH off"
-website: "https://www.monari.de/"
+opening_hours: Mo-Sa 09:30-18:00; PH off
+website: https://www.monari.de/

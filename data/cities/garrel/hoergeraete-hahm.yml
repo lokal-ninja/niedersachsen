@@ -4,8 +4,9 @@ latitude: 52.95552
 longitude: 8.01906
 postcode: "49681"
 city: Garrel
-street: "Petersfelder Straße"
+street: Petersfelder Straße
 housenumber: 18a
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-13:00, 14:30-18:00; We 09:00-13:00 Mittwoch Nachmittag nach Vereinbarung; Sa Nach Vereinbarung; Su,PH off"
+opening_hours: Mo,Tu,Th 09:00-13:00, 14:30-18:00; We 09:00-13:00 "Mittwoch Nachmittag
+    nach Vereinbarung"; Sa "Nach Vereinbarung"; Su,PH off
 website: ""

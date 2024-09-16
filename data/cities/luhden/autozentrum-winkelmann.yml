@@ -1,11 +1,11 @@
 id: 315837838
-type: way
+type: node
 latitude: 52.23315
 longitude: 9.08713
 postcode: "31711"
 city: Luhden
-street: "Weststraße"
-housenumber: 4
-phone: "+49 5722 99090"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Weststraße
+housenumber: "4"
+phone: +49 5722 99090
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

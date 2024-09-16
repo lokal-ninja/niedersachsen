@@ -4,8 +4,8 @@ latitude: 53.1491
 longitude: 8.20864
 postcode: "26121"
 city: Oldenburg
-street: "Ziegelhofstraße"
-housenumber: 46
-phone: "+49 176 41742554"
-opening_hours: "Nach telefonischer Vereinbarung"
-website: "https://www.kosmetikstudio-la-femme.de"
+street: Ziegelhofstraße
+housenumber: "46"
+phone: +49 176 41742554
+opening_hours: '"Nach telefonischer Vereinbarung"'
+website: https://www.kosmetikstudio-la-femme.de

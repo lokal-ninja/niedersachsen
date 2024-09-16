@@ -4,8 +4,8 @@ latitude: 52.27028
 longitude: 10.54034
 postcode: "38106"
 city: Braunschweig
-street: "Heinrichstraße"
-housenumber: 34
-phone: "+49 531 38 99 20 61"
-opening_hours: "Mo-Th 9:00-13:00; Fr 9:00-18:00"
-website: "http://hallo-schmidtchen.de"
+street: Heinrichstraße
+housenumber: "34"
+phone: +49 531 38 99 20 61
+opening_hours: Mo-Th 9:00-13:00; Fr 9:00-18:00
+website: http://hallo-schmidtchen.de

@@ -1,11 +1,11 @@
 id: 826438290
-type: way
+type: node
 latitude: 53.61259
 longitude: 9.30901
 postcode: "21709"
 city: Himmelpforten
-street: "Hauptstraße"
-housenumber: 29
+street: Hauptstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-14:00; Su 07:00-14:00"
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:00-14:00; Su 07:00-14:00
 website: ""

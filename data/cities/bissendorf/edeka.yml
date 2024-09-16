@@ -1,11 +1,11 @@
 id: 284120444
-type: way
+type: node
 latitude: 52.2797
 longitude: 8.24089
 postcode: "49143"
 city: Bissendorf
-street: "Neue Straße"
-housenumber: 2
+street: Neue Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

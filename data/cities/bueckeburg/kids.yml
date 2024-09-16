@@ -1,11 +1,11 @@
 id: 124514754
-type: way
+type: node
 latitude: 52.31711
 longitude: 8.99622
 postcode: "31675"
 city: Bückeburg
-street: "Friller Straße"
-housenumber: 32
+street: Friller Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:00; Sa 09:30-14:00"
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:00; Sa 09:30-14:00
 website: ""

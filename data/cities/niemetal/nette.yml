@@ -4,8 +4,8 @@ latitude: 51.51071
 longitude: 9.68128
 postcode: "37127"
 city: Niemetal
-street: "Lange Straße"
-housenumber: 34
-phone: "+49 5502 9995915"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00; PH off"
-website: "https://www.nette-fachmarkt.de/"
+street: Lange Straße
+housenumber: "34"
+phone: +49 5502 9995915
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00; PH off
+website: https://www.nette-fachmarkt.de/

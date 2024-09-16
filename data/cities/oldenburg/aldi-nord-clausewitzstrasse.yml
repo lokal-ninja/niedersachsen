@@ -1,11 +1,11 @@
 id: 146352665
-type: way
+type: node
 latitude: 53.16304
 longitude: 8.24481
 postcode: "26125"
 city: Oldenburg
-street: "Clausewitzstraße"
-housenumber: 3
-phone: "+49 800 7234870"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/oldenburg/clausewitzstrasse-3/3181910"
+street: Clausewitzstraße
+housenumber: "3"
+phone: +49 800 7234870
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/oldenburg/clausewitzstrasse-3/3181910

@@ -1,11 +1,11 @@
 id: 234116145
-type: way
+type: node
 latitude: 51.63008
 longitude: 10.46613
 postcode: "37431"
 city: Bad Lauterberg im Harz
-street: "Schulstraße"
-housenumber: 9
+street: Schulstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

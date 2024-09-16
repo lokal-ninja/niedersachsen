@@ -4,8 +4,8 @@ latitude: 52.8625
 longitude: 8.11072
 postcode: "49685"
 city: Emstek
-street: "Flachsmoor"
-housenumber: 1
-phone: "+49 4473 2788"
-opening_hours: "Fr 9:00 - 18:00; Sa 9:00 - 13:00"
+street: Flachsmoor
+housenumber: "1"
+phone: +49 4473 2788
+opening_hours: Fr 9:00 - 18:00; Sa 9:00 - 13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 121108638
-type: way
+type: node
 latitude: 52.3688
 longitude: 9.70459
 postcode: "30449"
 city: Hannover
-street: "Bardowicker Straße"
-housenumber: 12
+street: Bardowicker Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

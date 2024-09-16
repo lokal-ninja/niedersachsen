@@ -1,11 +1,11 @@
 id: 124984194
-type: way
+type: node
 latitude: 53.17044
 longitude: 8.62701
 postcode: "28757"
 city: Bremen
-street: "Sagerstraße"
-housenumber: 47
+street: Sagerstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

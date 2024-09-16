@@ -1,11 +1,11 @@
 id: 455893604
-type: way
+type: node
 latitude: 53.09385
 longitude: 8.19057
 postcode: "26203"
 city: Wardenburg
-street: "Hundsmühler Landstraße"
-housenumber: 8
-phone: "+49 4407922080"
-opening_hours: "Mo-Fr 09:00-12:30 + 14:00-18:00"
-website: "www.rwg-wardenburg.de"
+street: Hundsmühler Landstraße
+housenumber: "8"
+phone: +49 4407922080
+opening_hours: Mo-Fr 09:00-12:30 + 14:00-18:00
+website: www.rwg-wardenburg.de

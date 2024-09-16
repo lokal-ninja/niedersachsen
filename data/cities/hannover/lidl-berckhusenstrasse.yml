@@ -1,11 +1,11 @@
 id: 113755204
-type: way
+type: node
 latitude: 52.37675
 longitude: 9.79951
 postcode: "30625"
 city: Hannover
-street: "Berckhusenstraße"
-housenumber: 95
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.lidl.de/"
+street: Berckhusenstraße
+housenumber: "95"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.lidl.de/

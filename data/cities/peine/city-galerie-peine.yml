@@ -1,11 +1,11 @@
 id: 319019541
-type: way
+type: node
 latitude: 52.31958
 longitude: 10.23163
 postcode: "31224"
 city: Peine
-street: "Glockenstraße"
-housenumber: 2
+street: Glockenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

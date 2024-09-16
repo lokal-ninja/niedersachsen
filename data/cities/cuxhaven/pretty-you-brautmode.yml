@@ -4,8 +4,8 @@ latitude: 53.87454
 longitude: 8.69157
 postcode: "27472"
 city: Cuxhaven
-street: "Strichweg"
-housenumber: 38
-phone: "+49 4721 6907140"
-opening_hours: "Nach Vereinbarung"
-website: "https://www.prettyyou-brautmode.de/"
+street: Strichweg
+housenumber: "38"
+phone: +49 4721 6907140
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.prettyyou-brautmode.de/

@@ -1,11 +1,11 @@
 id: 252820323
-type: way
+type: node
 latitude: 52.85052
 longitude: 8.05124
 postcode: "49661"
 city: Cloppenburg
-street: "Osterstraße"
-housenumber: 90
-phone: "+49 4471 1842988"
-opening_hours: "Mo-Th 06:00-23:00; Fr 06:00-24:00; Su 08:00-23:00"
-website: "https://tankstelle-cloppenburg.de/"
+street: Osterstraße
+housenumber: "90"
+phone: +49 4471 1842988
+opening_hours: Mo-Th 06:00-23:00; Fr 06:00-24:00; Su 08:00-23:00
+website: https://tankstelle-cloppenburg.de/

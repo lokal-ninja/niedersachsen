@@ -4,8 +4,8 @@ latitude: 52.86176
 longitude: 9.59276
 postcode: "29664"
 city: Walsrode
-street: "Moorstraße"
-housenumber: 29
-phone: "+49 5161 1688"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00; PH,Su off"
-website: "https://www.bergmann-walsrode.de"
+street: Moorstraße
+housenumber: "29"
+phone: +49 5161 1688
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00; PH,Su off
+website: https://www.bergmann-walsrode.de

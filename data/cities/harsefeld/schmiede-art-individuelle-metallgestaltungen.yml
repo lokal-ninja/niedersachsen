@@ -4,8 +4,8 @@ latitude: 53.43124
 longitude: 9.46491
 postcode: "21698"
 city: Harsefeld
-street: "Buschhornweg"
-housenumber: 8
-phone: "+49 4164 6552"
-opening_hours: "nach Vereinbarung"
-website: "https://schmiede-art.de/"
+street: Buschhornweg
+housenumber: "8"
+phone: +49 4164 6552
+opening_hours: '"nach Vereinbarung"'
+website: https://schmiede-art.de/

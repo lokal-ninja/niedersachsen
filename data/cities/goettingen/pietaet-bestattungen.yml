@@ -1,11 +1,11 @@
 id: 87979894
-type: way
+type: node
 latitude: 51.54512
 longitude: 9.93194
 postcode: "37075"
 city: Göttingen
-street: "Weender Landstraße"
-housenumber: 68
+street: Weender Landstraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:30"
+opening_hours: Mo-Fr 09:00-13:30
 website: ""

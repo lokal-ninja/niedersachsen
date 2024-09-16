@@ -4,8 +4,8 @@ latitude: 52.48075
 longitude: 10.08693
 postcode: "31311"
 city: Uetze
-street: "Weißdornallee"
-housenumber: 1
-phone: "+49 5147 720099"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su off"
-website: "https://www.getraenke-quelle.net/"
+street: Weißdornallee
+housenumber: "1"
+phone: +49 5147 720099
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su off
+website: https://www.getraenke-quelle.net/

@@ -1,11 +1,11 @@
 id: 217793363
-type: way
+type: node
 latitude: 52.20401
 longitude: 9.54166
 postcode: "31832"
 city: Springe
-street: "Hamelner Straße"
-housenumber: 43
+street: Hamelner Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-brock.de/"
+website: https://www.autohaus-brock.de/

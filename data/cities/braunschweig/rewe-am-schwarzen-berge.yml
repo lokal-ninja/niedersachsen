@@ -1,11 +1,11 @@
 id: 462802173
-type: way
+type: node
 latitude: 52.29217
 longitude: 10.51375
 postcode: "38112"
 city: Braunschweig
-street: "Am Schwarzen Berge"
-housenumber: 71
+street: Am Schwarzen Berge
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

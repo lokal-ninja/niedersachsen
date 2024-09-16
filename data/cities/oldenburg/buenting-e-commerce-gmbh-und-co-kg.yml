@@ -1,11 +1,11 @@
 id: 87369763
-type: way
+type: node
 latitude: 53.11455
 longitude: 8.26354
 postcode: "26135"
 city: Oldenburg
-street: "Schütte-Lanz-Straße"
-housenumber: 4
+street: Schütte-Lanz-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.mytime.de/"
+website: https://www.mytime.de/

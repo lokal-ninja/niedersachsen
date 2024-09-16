@@ -1,11 +1,11 @@
 id: 223730841
-type: way
+type: node
 latitude: 52.40808
 longitude: 10.73866
 postcode: "38444"
 city: Wolfsburg
-street: "Dresdener Ring"
-housenumber: 115
-phone: "+49 5361 772700"
-opening_hours: "Mo-Su 06:00-20:00"
+street: Dresdener Ring
+housenumber: "115"
+phone: +49 5361 772700
+opening_hours: Mo-Su 06:00-20:00
 website: ""

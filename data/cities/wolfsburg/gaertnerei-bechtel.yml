@@ -1,11 +1,11 @@
 id: 237674679
-type: way
+type: node
 latitude: 52.34762
 longitude: 10.7811
 postcode: "38444"
 city: Wolfsburg
-street: "Steinweg"
-housenumber: 43
+street: Steinweg
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

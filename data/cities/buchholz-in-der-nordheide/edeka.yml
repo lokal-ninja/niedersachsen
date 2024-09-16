@@ -4,8 +4,8 @@ latitude: 53.31156
 longitude: 9.81155
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Niedersachsenstraße"
-housenumber: 19
-phone: "+49 4186 216"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+street: Niedersachsenstraße
+housenumber: "19"
+phone: +49 4186 216
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/

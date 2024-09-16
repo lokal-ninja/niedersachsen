@@ -4,8 +4,8 @@ latitude: 52.08681
 longitude: 9.78516
 postcode: "31028"
 city: Gronau
-street: "Ladestraße"
-housenumber: 7
+street: Ladestraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/gronau/ladestr-7/7248"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/gronau/ladestr-7/7248

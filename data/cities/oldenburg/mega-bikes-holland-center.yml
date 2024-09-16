@@ -4,8 +4,8 @@ latitude: 53.14384
 longitude: 8.19282
 postcode: "26129"
 city: Oldenburg
-street: "Ammerländer Heerstraße"
-housenumber: 4
-phone: "+49 441 - 72853"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"
-website: "http://www.bikes-oldenburg.de/bikes/mega-bikes"
+street: Ammerländer Heerstraße
+housenumber: "4"
+phone: +49 441 - 72853
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00
+website: http://www.bikes-oldenburg.de/bikes/mega-bikes

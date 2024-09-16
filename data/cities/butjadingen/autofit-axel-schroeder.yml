@@ -1,11 +1,11 @@
 id: 219772147
-type: way
+type: node
 latitude: 53.57608
 longitude: 8.3622
 postcode: "26969"
 city: Butjadingen
-street: "Kirchplatz"
-housenumber: 4
+street: Kirchplatz
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

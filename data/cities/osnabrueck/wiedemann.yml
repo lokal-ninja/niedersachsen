@@ -4,8 +4,8 @@ latitude: 52.26123
 longitude: 8.07279
 postcode: "49084"
 city: Osnabrück
-street: "Hannoversche Straße"
-housenumber: 52
-phone: "+49 541 9904425"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00; PH off"
-website: "https://www.bad-comfort.de/"
+street: Hannoversche Straße
+housenumber: "52"
+phone: +49 541 9904425
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00; PH off
+website: https://www.bad-comfort.de/

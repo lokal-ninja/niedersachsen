@@ -4,8 +4,9 @@ latitude: 52.91344
 longitude: 8.28804
 postcode: "26197"
 city: Großenkneten
-street: "Hageler Höhe"
-housenumber: 2
+street: Hageler Höhe
+housenumber: "2"
 phone: ""
-opening_hours: "Nov,Dec Fr 16:00-18:00; Nov,Dec Sa 10:00-12:00 || oder jederzeit auch nach telefonischer Voranmeldung"
+opening_hours: Nov,Dec Fr 16:00-18:00; Nov,Dec Sa 10:00-12:00 || "oder jederzeit auch
+    nach telefonischer Voranmeldung"
 website: ""

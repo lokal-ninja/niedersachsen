@@ -1,11 +1,11 @@
 id: 142132675
-type: way
+type: node
 latitude: 52.29506
 longitude: 7.11216
 postcode: "48455"
 city: Bad Bentheim
-street: "Euregiostraße"
-housenumber: 11
+street: Euregiostraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 220015154
-type: way
+type: node
 latitude: 53.11871
 longitude: 8.33345
 postcode: "27798"
 city: Hude (Oldenburg)
-street: "Ladestraße"
-housenumber: 2
+street: Ladestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-13:00
 website: ""

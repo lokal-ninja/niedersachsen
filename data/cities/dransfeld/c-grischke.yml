@@ -4,8 +4,8 @@ latitude: 51.50254
 longitude: 9.76188
 postcode: "37127"
 city: Dransfeld
-street: "Lange Straße"
-housenumber: 61
+street: Lange Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 08:00-13:00; Mo-Fr 15:00-18:00; PH off"
-website: "https://grischke-ranzen.de/"
+opening_hours: Mo-Sa 08:00-13:00; Mo-Fr 15:00-18:00; PH off
+website: https://grischke-ranzen.de/

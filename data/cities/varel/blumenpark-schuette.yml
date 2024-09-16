@@ -1,11 +1,11 @@
 id: 304851546
-type: way
+type: node
 latitude: 53.38963
 longitude: 8.13524
 postcode: "26316"
 city: Varel
-street: "Oldenburger Straße"
-housenumber: 34
-phone: "+49 4451 5878"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-12:00"
-website: "https://www.blumenpark-schuette.de/"
+street: Oldenburger Straße
+housenumber: "34"
+phone: +49 4451 5878
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-12:00
+website: https://www.blumenpark-schuette.de/

@@ -4,8 +4,8 @@ latitude: 52.17003
 longitude: 9.24048
 postcode: "31840"
 city: Hessisch Oldendorf
-street: "Westertor"
-housenumber: 7
-phone: "+49 5152 2233"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://www.ford-siekmann.de"
+street: Westertor
+housenumber: "7"
+phone: +49 5152 2233
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://www.ford-siekmann.de

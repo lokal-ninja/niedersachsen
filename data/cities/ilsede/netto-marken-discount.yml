@@ -4,8 +4,8 @@ latitude: 52.24159
 longitude: 10.22781
 postcode: "31246"
 city: Ilsede
-street: "Osterfeld"
-housenumber: 4
+street: Osterfeld
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-12:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-12:00
+website: https://www.netto-online.de

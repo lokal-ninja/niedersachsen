@@ -1,11 +1,11 @@
 id: 270106841
-type: way
+type: node
 latitude: 52.61726
 longitude: 9.24923
 postcode: "31582"
 city: Nienburg/Weser
-street: "Westlandstraße"
-housenumber: 20
+street: Westlandstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

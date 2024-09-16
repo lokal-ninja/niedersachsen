@@ -1,11 +1,11 @@
 id: 365018966
-type: way
+type: node
 latitude: 53.45185
 longitude: 9.74509
 postcode: "21614"
 city: Buxtehude
-street: "Hamburger Chaussee"
-housenumber: 73
-phone: "+49 4161 652215"
+street: Hamburger Chaussee
+housenumber: "73"
+phone: +49 4161 652215
 opening_hours: ""
 website: ""

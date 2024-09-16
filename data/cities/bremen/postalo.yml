@@ -1,11 +1,11 @@
 id: 369188677
-type: way
+type: node
 latitude: 53.17643
 longitude: 8.7188
 postcode: "28719"
 city: Bremen
-street: "Stockholmer Straße"
+street: Stockholmer Straße
 housenumber: 43;45
 phone: ""
-opening_hours: "Mo-Th 09:00-18:30; Fr 08:00-18:30; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Th 09:00-18:30; Fr 08:00-18:30; Sa 09:00-13:00; Su,PH off
 website: ""

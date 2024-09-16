@@ -1,11 +1,11 @@
 id: 111548614
-type: way
+type: node
 latitude: 53.41918
 longitude: 7.7354
 postcode: "26639"
 city: Wiesmoor
-street: "Amaryllisweg"
-housenumber: 9
+street: Amaryllisweg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

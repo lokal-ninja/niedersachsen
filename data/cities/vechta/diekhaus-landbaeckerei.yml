@@ -4,8 +4,8 @@ latitude: 52.78437
 longitude: 8.2532
 postcode: "49377"
 city: Vechta
-street: "Lange Straße"
-housenumber: 34
-phone: "+49 4447 969408"
-opening_hours: "Mo-Fr 06:00-13:00, 15:00-18:00; Sa 06:00-12:00; Su 07:30-11:00"
-website: "https://www.diekhaus-landbaeckerei.de/"
+street: Lange Straße
+housenumber: "34"
+phone: +49 4447 969408
+opening_hours: Mo-Fr 06:00-13:00, 15:00-18:00; Sa 06:00-12:00; Su 07:30-11:00
+website: https://www.diekhaus-landbaeckerei.de/

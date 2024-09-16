@@ -1,11 +1,11 @@
 id: 309501647
-type: way
+type: node
 latitude: 53.05489
 longitude: 8.73941
 postcode: "28259"
 city: Bremen
-street: "Huchtinger Heerstraße"
-housenumber: 10
+street: Huchtinger Heerstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

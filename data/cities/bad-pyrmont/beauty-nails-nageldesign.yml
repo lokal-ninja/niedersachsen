@@ -1,11 +1,11 @@
 id: 635732699
-type: way
+type: node
 latitude: 51.97975
 longitude: 9.26299
 postcode: "31812"
 city: Bad Pyrmont
-street: "Bahnhofstraße"
-housenumber: 47
+street: Bahnhofstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

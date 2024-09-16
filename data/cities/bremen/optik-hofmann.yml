@@ -1,11 +1,11 @@
 id: 368702217
-type: way
+type: node
 latitude: 53.09441
 longitude: 8.80604
 postcode: "28215"
 city: Bremen
-street: "Münchener Straße"
-housenumber: 113
+street: Münchener Straße
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30;Sa 09:00-13:00 || on appointment"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30;Sa 09:00-13:00 || "on appointment"
 website: ""

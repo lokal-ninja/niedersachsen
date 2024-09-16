@@ -4,8 +4,8 @@ latitude: 53.74874
 longitude: 7.48167
 postcode: "26465"
 city: Langeoog
-street: "Barkhausenstraße"
-housenumber: 22
+street: Barkhausenstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-17:00; Su off"
-website: "https://www.remmers-backstube.de/"
+opening_hours: Mo-Sa 07:00-17:00; Su off
+website: https://www.remmers-backstube.de/

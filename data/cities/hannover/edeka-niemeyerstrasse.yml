@@ -1,11 +1,11 @@
 id: 761750341
-type: way
+type: node
 latitude: 52.36622
 longitude: 9.714
 postcode: "30449"
 city: Hannover
-street: "Niemeyerstraße"
-housenumber: 1
-phone: "+49511 21 33 88 45"
-opening_hours: "Mo-Sa 07:00-21:30"
-website: "https://www.edeka-wucherpfennig.de/lindener-markt-2/"
+street: Niemeyerstraße
+housenumber: "1"
+phone: +49511 21 33 88 45
+opening_hours: Mo-Sa 07:00-21:30
+website: https://www.edeka-wucherpfennig.de/lindener-markt-2/

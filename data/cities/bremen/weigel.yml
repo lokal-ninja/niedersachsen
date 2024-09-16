@@ -1,11 +1,11 @@
 id: 59868200
-type: way
+type: node
 latitude: 53.10666
 longitude: 8.80013
 postcode: "28219"
 city: Bremen
-street: "Rosenheimer Straße"
-housenumber: 3
+street: Rosenheimer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://weigel.de"
+website: https://weigel.de

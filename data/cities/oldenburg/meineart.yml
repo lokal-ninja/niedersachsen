@@ -4,8 +4,8 @@ latitude: 53.14934
 longitude: 8.20854
 postcode: "26121"
 city: Oldenburg
-street: "Röwekamp"
-housenumber: 3
-phone: "+49 441 8007484"
-opening_hours: "Sa 11:00-15:00"
-website: "https://www.galerie-meineart.de/"
+street: Röwekamp
+housenumber: "3"
+phone: +49 441 8007484
+opening_hours: Sa 11:00-15:00
+website: https://www.galerie-meineart.de/

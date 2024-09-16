@@ -1,11 +1,11 @@
 id: 989829718
-type: way
+type: node
 latitude: 53.23311
 longitude: 8.20531
 postcode: "26180"
 city: Rastede
-street: "Oldenburger Straße"
-housenumber: 100
-phone: "+49 4402 2215"
-opening_hours: "Mo-Sa 09:00-18:30; Su 11:00-17:00"
-website: "https://vorwerk-rastede.de/"
+street: Oldenburger Straße
+housenumber: "100"
+phone: +49 4402 2215
+opening_hours: Mo-Sa 09:00-18:30; Su 11:00-17:00
+website: https://vorwerk-rastede.de/

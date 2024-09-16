@@ -1,11 +1,11 @@
 id: 173945567
-type: way
+type: node
 latitude: 53.23212
 longitude: 7.42645
 postcode: "26789"
 city: Leer
-street: "Deichstraße"
-housenumber: 60
-phone: "+49 491 2129"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.kartoffel-brouwer.de/"
+street: Deichstraße
+housenumber: "60"
+phone: +49 491 2129
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
+website: https://www.kartoffel-brouwer.de/

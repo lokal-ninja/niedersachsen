@@ -1,11 +1,11 @@
 id: 153242159
-type: way
+type: node
 latitude: 52.91256
 longitude: 9.24214
 postcode: "27283"
 city: Verden (Aller)
-street: "Siemensstraße"
-housenumber: 1
+street: Siemensstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

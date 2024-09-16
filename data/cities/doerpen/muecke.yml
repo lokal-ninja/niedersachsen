@@ -1,11 +1,11 @@
 id: 286650074
-type: way
+type: node
 latitude: 52.9678
 longitude: 7.3417
 postcode: "26892"
 city: Dörpen
-street: "Hauptstraße"
-housenumber: 
+street: Hauptstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

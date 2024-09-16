@@ -1,11 +1,11 @@
 id: 122228454
-type: way
+type: node
 latitude: 53.18246
 longitude: 8.23346
 postcode: "26125"
 city: Oldenburg
-street: "Ekernstraße"
-housenumber: 12
+street: Ekernstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

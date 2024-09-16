@@ -1,11 +1,11 @@
 id: 314262928
-type: way
+type: node
 latitude: 52.26413
 longitude: 10.21996
 postcode: "31241"
 city: Ilsede
-street: "Eichstraße"
-housenumber: 8
+street: Eichstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 9:00-19:00;Sa 9:00-16:00"
+opening_hours: Mo-Fr 9:00-19:00;Sa 9:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 485879800
-type: way
+type: node
 latitude: 52.42029
 longitude: 8.74506
 postcode: "31603"
 city: Diepenau
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 5775 298"
-opening_hours: "Beratung/Verkauf bitte klingeln"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 5775 298
+opening_hours: '"Beratung/Verkauf bitte klingeln"'
 website: ""

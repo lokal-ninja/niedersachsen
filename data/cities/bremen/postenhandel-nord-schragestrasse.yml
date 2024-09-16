@@ -4,8 +4,8 @@ latitude: 53.1374
 longitude: 8.74223
 postcode: "28239"
 city: Bremen
-street: "Schragestraße"
+street: Schragestraße
 housenumber: 5a
-phone: "+49 4221 289100"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.postenhandel-nord.de"
+phone: +49 4221 289100
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.postenhandel-nord.de

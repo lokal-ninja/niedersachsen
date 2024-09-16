@@ -4,8 +4,8 @@ latitude: 52.39386
 longitude: 9.68386
 postcode: "30419"
 city: Hannover
-street: "Herrenhäuser Markt"
-housenumber: 7
-phone: "+49 511 796513"
-opening_hours: "Mo 10:00-18:00; Tu,Fr 09:00-19:00; We,Th 09:00-18:00; Sa 09:00-15:00"
-website: "https://hairdreams-tasche.de/"
+street: Herrenhäuser Markt
+housenumber: "7"
+phone: +49 511 796513
+opening_hours: Mo 10:00-18:00; Tu,Fr 09:00-19:00; We,Th 09:00-18:00; Sa 09:00-15:00
+website: https://hairdreams-tasche.de/

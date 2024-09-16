@@ -4,8 +4,8 @@ latitude: 53.17927
 longitude: 10.34952
 postcode: "21409"
 city: Embsen
-street: "Bahnhofstraße"
-housenumber: 13
-phone: "+49 4134909534"
-opening_hours: "Mo-Sa 05:45-19:00; So 07:30-10:30"
-website: "https://der-lecker-baecker.de"
+street: Bahnhofstraße
+housenumber: "13"
+phone: +49 4134909534
+opening_hours: Mo-Sa 05:45-19:00; So 07:30-10:30
+website: https://der-lecker-baecker.de

@@ -4,8 +4,8 @@ latitude: 52.21525
 longitude: 9.62889
 postcode: "31832"
 city: Springe
-street: "Steinhauerstraße"
-housenumber: 22
+street: Steinhauerstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo,Th,Fr 09:00-12:00,15:00-18:30; Sa 09:00-12:00"
-website: "http://www.rodenbergs-hofladen.de/"
+opening_hours: Mo,Th,Fr 09:00-12:00,15:00-18:30; Sa 09:00-12:00
+website: http://www.rodenbergs-hofladen.de/

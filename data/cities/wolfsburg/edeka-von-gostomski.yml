@@ -1,11 +1,11 @@
 id: 862537916
-type: way
+type: node
 latitude: 52.4237
 longitude: 10.75429
 postcode: "38440"
 city: Wolfsburg
-street: "Grauhorststraße"
+street: Grauhorststraße
 housenumber: 1-3
-phone: "+49 5361 3827045"
-opening_hours: "Mo-Sa 07:30-20:30"
+phone: +49 5361 3827045
+opening_hours: Mo-Sa 07:30-20:30
 website: ""

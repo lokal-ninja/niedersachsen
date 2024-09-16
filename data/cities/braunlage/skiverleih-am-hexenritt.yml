@@ -1,11 +1,11 @@
 id: 1082417160
-type: way
+type: node
 latitude: 51.75161
 longitude: 10.62926
 postcode: "38700"
 city: Braunlage
-street: "Große Wurmbergstraße"
-housenumber: 
+street: Große Wurmbergstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

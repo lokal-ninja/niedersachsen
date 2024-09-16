@@ -1,11 +1,11 @@
 id: 114077146
-type: way
+type: node
 latitude: 53.23508
 longitude: 7.49736
 postcode: "26789"
 city: Leer
-street: "Daalerstraße"
-housenumber: 23
-phone: "+49 491 9921720"
-opening_hours: "Mo 10:00-13:00, 15:00-18:00; Tu 10:00-13:00; We-Fr 10:00-13:00, 15:00-18:00"
+street: Daalerstraße
+housenumber: "23"
+phone: +49 491 9921720
+opening_hours: Mo 10:00-13:00, 15:00-18:00; Tu 10:00-13:00; We-Fr 10:00-13:00, 15:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 398932651
-type: way
+type: node
 latitude: 52.66466
 longitude: 8.22741
 postcode: "49393"
 city: Lohne (Oldenburg)
-street: "Bahnhofstraße"
-housenumber: 49
+street: Bahnhofstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

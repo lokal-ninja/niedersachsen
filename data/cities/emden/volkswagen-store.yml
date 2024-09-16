@@ -1,11 +1,11 @@
 id: 463792669
-type: way
+type: node
 latitude: 53.36188
 longitude: 7.16924
 postcode: "26723"
 city: Emden
-street: "Thüringer Straße"
-housenumber: 9
-phone: "+49 1805 4228"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.bonprix.de/"
+street: Thüringer Straße
+housenumber: "9"
+phone: +49 1805 4228
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.bonprix.de/

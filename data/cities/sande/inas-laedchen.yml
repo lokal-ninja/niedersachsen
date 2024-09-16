@@ -4,8 +4,8 @@ latitude: 53.47772
 longitude: 7.98984
 postcode: "26452"
 city: Sande
-street: "Kirchstraße"
-housenumber: 44
+street: Kirchstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-12:00; Mo-Tu 15:00-18:00, Th-Fr 15:00-18:00: PH off"
+opening_hours: 'Mo-Sa 07:00-12:00; Mo-Tu 15:00-18:00, Th-Fr 15:00-18:00: PH off'
 website: ""

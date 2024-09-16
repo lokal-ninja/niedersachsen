@@ -1,11 +1,11 @@
 id: 300260622
-type: way
+type: node
 latitude: 52.52925
 longitude: 9.75289
 postcode: "30900"
 city: Wedemark
-street: "Lindenstraße"
-housenumber: 35
+street: Lindenstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

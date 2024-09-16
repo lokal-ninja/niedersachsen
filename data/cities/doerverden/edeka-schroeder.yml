@@ -4,8 +4,8 @@ latitude: 52.84704
 longitude: 9.22538
 postcode: "27313"
 city: Dörverden
-street: "Große Straße"
-housenumber: 37
-phone: "+49 4234 934847"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-schr%C3%B6der-gro%C3%9Fe-str.-37/index.jsp"
+street: Große Straße
+housenumber: "37"
+phone: +49 4234 934847
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-schr%C3%B6der-gro%C3%9Fe-str.-37/index.jsp

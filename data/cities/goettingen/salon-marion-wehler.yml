@@ -1,11 +1,11 @@
 id: 927889822
-type: way
+type: node
 latitude: 51.5158
 longitude: 9.96592
 postcode: "37085"
 city: Göttingen
-street: "Mittelberg"
-housenumber: 23
+street: Mittelberg
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Fr 09:00-17:45; Sa 08:00-12:45; PH off"
+opening_hours: Tu-Fr 09:00-17:45; Sa 08:00-12:45; PH off
 website: ""

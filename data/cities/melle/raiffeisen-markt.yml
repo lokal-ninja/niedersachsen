@@ -1,11 +1,11 @@
 id: 378720864
-type: way
+type: node
 latitude: 52.18594
 longitude: 8.34304
 postcode: "49324"
 city: Melle
-street: "Werkstraße"
-housenumber: 6
+street: Werkstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

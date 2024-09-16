@@ -1,11 +1,11 @@
 id: 626008040
-type: way
+type: node
 latitude: 53.57151
 longitude: 9.62888
 postcode: "21720"
 city: Grünendeich
-street: "Fährstraße"
-housenumber: 4
+street: Fährstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.cycling-stop.de/"
+website: https://www.cycling-stop.de/

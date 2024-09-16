@@ -1,11 +1,11 @@
 id: 123970670
-type: way
+type: node
 latitude: 52.42925
 longitude: 10.53356
 postcode: "38551"
 city: Ribbesbüttel
-street: "Gifhorner Straße"
-housenumber: 3
+street: Gifhorner Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

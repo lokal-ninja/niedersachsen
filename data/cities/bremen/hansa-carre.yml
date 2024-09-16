@@ -1,11 +1,11 @@
 id: 19786783
-type: way
+type: node
 latitude: 53.06204
 longitude: 8.86969
 postcode: "28207"
 city: Bremen
-street: "Pfalzburger Straße"
-housenumber: 41
+street: Pfalzburger Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.hansa-carre.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.hansa-carre.de/

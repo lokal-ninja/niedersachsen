@@ -1,11 +1,11 @@
 id: 404811618
-type: way
+type: node
 latitude: 52.01894
 longitude: 10.54925
 postcode: "38315"
 city: Schladen-Werla
-street: "Hermann-Müller-Straße"
-housenumber: 2
+street: Hermann-Müller-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.aldi-nord.de/

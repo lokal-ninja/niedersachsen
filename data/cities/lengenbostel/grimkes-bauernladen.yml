@@ -4,8 +4,9 @@ latitude: 53.30951
 longitude: 9.52469
 postcode: "27419"
 city: Lengenbostel
-street: "Eichenstraße"
-housenumber: 5
+street: Eichenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Th 08:00-12:30, 14:00-18:00; Fr 08:00-18:00; Sa 08:00-13:00; Su-We, PH off"
+opening_hours: Th 08:00-12:30, 14:00-18:00; Fr 08:00-18:00; Sa 08:00-13:00; Su-We,
+    PH off
 website: ""

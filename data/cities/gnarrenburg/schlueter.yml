@@ -1,11 +1,11 @@
 id: 102221777
-type: way
+type: node
 latitude: 53.38598
 longitude: 9.00516
 postcode: "27442"
 city: Gnarrenburg
-street: "Hermann-Lamprecht-Straße"
-housenumber: 24
+street: Hermann-Lamprecht-Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

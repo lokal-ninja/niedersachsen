@@ -1,11 +1,11 @@
 id: 34894049
-type: way
+type: node
 latitude: 52.23309
 longitude: 9.86667
 postcode: "31157"
 city: Sarstedt
-street: "Hildesheimer Straße"
-housenumber: 66
+street: Hildesheimer Straße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.penny.de/angebote/15A-08"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.penny.de/angebote/15A-08

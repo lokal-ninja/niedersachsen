@@ -1,11 +1,11 @@
 id: 259914297
-type: way
+type: node
 latitude: 51.63481
 longitude: 9.55949
 postcode: "37194"
 city: Bodenfelde
-street: "Uslarer Straße"
-housenumber: 24
-phone: "+49 5572 7530"
+street: Uslarer Straße
+housenumber: "24"
+phone: +49 5572 7530
 opening_hours: ""
-website: "https://www.cecil.de/"
+website: https://www.cecil.de/

@@ -1,11 +1,11 @@
 id: 588762518
-type: way
+type: node
 latitude: 51.81669
 longitude: 9.87473
 postcode: "37574"
 city: Einbeck
-street: "Beverstraße"
-housenumber: 3
+street: Beverstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

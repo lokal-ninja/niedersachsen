@@ -1,11 +1,11 @@
 id: 93075853
-type: way
+type: node
 latitude: 53.04607
 longitude: 8.2135
 postcode: "26203"
 city: Wardenburg
-street: "Ostkamp"
-housenumber: 15
+street: Ostkamp
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.andrees-kfz.de/"
+website: https://www.andrees-kfz.de/

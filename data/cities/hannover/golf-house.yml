@@ -4,8 +4,8 @@ latitude: 52.35783
 longitude: 9.71441
 postcode: "30449"
 city: Hannover
-street: "Elfriede-Paul-Allee"
-housenumber: 8
-phone: "+49 511 3008646"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.golfhouse.de/location/hannover"
+street: Elfriede-Paul-Allee
+housenumber: "8"
+phone: +49 511 3008646
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.golfhouse.de/location/hannover

@@ -1,11 +1,11 @@
 id: 193096500
-type: way
+type: node
 latitude: 52.35173
 longitude: 9.70338
 postcode: ""
 city: Hannover
-street: "Am Tönniesberg"
-housenumber: 12
+street: Am Tönniesberg
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

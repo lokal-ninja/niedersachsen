@@ -1,11 +1,11 @@
 id: 93466103
-type: way
+type: node
 latitude: 52.74206
 longitude: 8.28277
 postcode: "49377"
 city: Vechta
-street: "Oldenburger Straße"
-housenumber: 109
+street: Oldenburger Straße
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-We,Fr 08:30-18:00; Th 08:00-20:00"
-website: "https://www.holz-ahmerkamp.de/"
+opening_hours: Mo-We,Fr 08:30-18:00; Th 08:00-20:00
+website: https://www.holz-ahmerkamp.de/

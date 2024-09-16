@@ -1,11 +1,11 @@
 id: 252560351
-type: way
+type: node
 latitude: 53.02656
 longitude: 8.63611
 postcode: "27755"
 city: Delmenhorst
-street: "Düsternortstraße"
-housenumber: 265
+street: Düsternortstraße
+housenumber: "265"
 phone: ""
-opening_hours: "nach Terminvereinbarung"
+opening_hours: '"nach Terminvereinbarung"'
 website: ""

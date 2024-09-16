@@ -1,11 +1,11 @@
 id: 44904672
-type: way
+type: node
 latitude: 53.23995
 longitude: 10.46432
 postcode: "21337"
 city: Lüneburg
-street: "Auf den Blöcken"
-housenumber: 1
+street: Auf den Blöcken
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 160195684
-type: way
+type: node
 latitude: 53.1634
 longitude: 8.23706
 postcode: "26125"
 city: Oldenburg
-street: "Großer Kuhlenweg"
-housenumber: 71
+street: Großer Kuhlenweg
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

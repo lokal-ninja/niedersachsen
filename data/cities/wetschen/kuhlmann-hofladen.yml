@@ -1,11 +1,11 @@
 id: 240825314
-type: way
+type: node
 latitude: 52.63224
 longitude: 8.43411
 postcode: "49453"
 city: Wetschen
-street: "Am Wasserwerk"
-housenumber: 12
+street: Am Wasserwerk
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

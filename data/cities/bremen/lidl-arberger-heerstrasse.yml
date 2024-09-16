@@ -1,11 +1,11 @@
 id: 61395996
-type: way
+type: node
 latitude: 53.03902
 longitude: 8.91105
 postcode: "28307"
 city: Bremen
-street: "Arberger Heerstraße"
-housenumber: 35
+street: Arberger Heerstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

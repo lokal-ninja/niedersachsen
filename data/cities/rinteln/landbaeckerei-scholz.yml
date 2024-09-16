@@ -4,8 +4,8 @@ latitude: 52.19864
 longitude: 9.16868
 postcode: "31737"
 city: Rinteln
-street: "Alte Heerstraße"
-housenumber: 19
-phone: "+49 5152 2374"
-opening_hours: "Tu-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"
-website: "https://www.landbaeckerei-scholz.de/"
+street: Alte Heerstraße
+housenumber: "19"
+phone: +49 5152 2374
+opening_hours: Tu-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00
+website: https://www.landbaeckerei-scholz.de/

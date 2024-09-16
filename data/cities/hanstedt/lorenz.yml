@@ -1,11 +1,11 @@
 id: 1210608776
-type: way
+type: node
 latitude: 53.27124
 longitude: 10.00811
 postcode: "21271"
 city: Hanstedt
-street: "Vor dem Bruch"
-housenumber: 
+street: Vor dem Bruch
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00,Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00,Sa 09:00-14:00
 website: ""

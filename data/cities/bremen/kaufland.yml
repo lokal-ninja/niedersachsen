@@ -4,8 +4,8 @@ latitude: 53.16617
 longitude: 8.62876
 postcode: ""
 city: Bremen
-street: "Zum Alten Speicher"
-housenumber: 2
-phone: "0421/8451480"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.kaufland.de/"
+street: Zum Alten Speicher
+housenumber: "2"
+phone: 0421/8451480
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.kaufland.de/

@@ -1,11 +1,11 @@
 id: 161366661
-type: way
+type: node
 latitude: 53.36131
 longitude: 7.16827
 postcode: "26723"
 city: Emden
-street: "Thüringer Straße"
-housenumber: 9
-phone: "+49 4921 917388"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "http://www.kik-textilien.com"
+street: Thüringer Straße
+housenumber: "9"
+phone: +49 4921 917388
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: http://www.kik-textilien.com

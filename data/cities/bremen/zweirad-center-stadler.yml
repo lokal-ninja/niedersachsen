@@ -1,11 +1,11 @@
 id: 478355336
-type: way
+type: node
 latitude: 53.08874
 longitude: 8.78268
 postcode: "28217"
 city: Bremen
-street: "Hafenstraße"
-housenumber: 1
+street: Hafenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
 website: ""

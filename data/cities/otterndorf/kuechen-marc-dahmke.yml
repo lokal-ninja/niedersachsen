@@ -1,11 +1,11 @@
 id: 100208263
-type: way
+type: node
 latitude: 53.81024
 longitude: 8.88867
 postcode: "21762"
 city: Otterndorf
-street: "Ackerstraße"
-housenumber: 9
+street: Ackerstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://dahmkekuechen.de/"
+website: https://dahmkekuechen.de/

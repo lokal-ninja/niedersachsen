@@ -1,11 +1,11 @@
 id: 182462781
-type: way
+type: node
 latitude: 53.23028
 longitude: 7.46148
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Georgstraße"
-housenumber: 12
+street: Georgstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:30; Su off; PH off"
-website: "https://www.c-and-a.com/"
+opening_hours: Mo-Sa 09:30-18:30; Su off; PH off
+website: https://www.c-and-a.com/

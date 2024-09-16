@@ -1,11 +1,11 @@
 id: 131667870
-type: way
+type: node
 latitude: 53.69984
 longitude: 7.7043
 postcode: "26427"
 city: Neuharlingersiel
-street: "Am Hafen Ost"
-housenumber: 8
+street: Am Hafen Ost
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:00; Su 06:30-17:30"
+opening_hours: Mo-Sa 06:30-18:00; Su 06:30-17:30
 website: ""

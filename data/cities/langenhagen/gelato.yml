@@ -4,8 +4,8 @@ latitude: 52.43403
 longitude: 9.68111
 postcode: "30855"
 city: Langenhagen
-street: "Berliner Allee"
-housenumber: 5
-phone: "+49 511 97817966"
-opening_hours: "Mo-Fr 09:00-21:00; Sa, Su, PH 10:00-21:00"
-website: "https://www.gelato-original.de/"
+street: Berliner Allee
+housenumber: "5"
+phone: +49 511 97817966
+opening_hours: Mo-Fr 09:00-21:00; Sa, Su, PH 10:00-21:00
+website: https://www.gelato-original.de/

@@ -1,11 +1,11 @@
 id: 231086684
-type: way
+type: node
 latitude: 53.36855
 longitude: 9.43056
 postcode: "21702"
 city: Ahlerstedt
-street: "Dorfstraße"
-housenumber: 
+street: Dorfstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

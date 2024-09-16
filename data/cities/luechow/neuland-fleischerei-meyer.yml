@@ -4,8 +4,8 @@ latitude: 52.96744
 longitude: 11.15155
 postcode: "29439"
 city: Lüchow
-street: "Drawehner Straße"
-housenumber: 5
+street: Drawehner Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu,We,Sa 08:30-13:00; Th,Fr 08:30-17:00"
-website: "https://www.neuland-fleisch.de/neulaender/fleischerei-meyer-gmbh/"
+opening_hours: Tu,We,Sa 08:30-13:00; Th,Fr 08:30-17:00
+website: https://www.neuland-fleisch.de/neulaender/fleischerei-meyer-gmbh/

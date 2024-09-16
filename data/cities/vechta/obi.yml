@@ -1,11 +1,11 @@
 id: 110025017
-type: way
+type: node
 latitude: 52.73128
 longitude: 8.27032
 postcode: "49377"
 city: Vechta
-street: "Falkenrotter Straße"
-housenumber: 151
-phone: "+49 4441 91440"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-19:00"
-website: "https://www.obi.de/baumarkt/vechta.html"
+street: Falkenrotter Straße
+housenumber: "151"
+phone: +49 4441 91440
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-19:00
+website: https://www.obi.de/baumarkt/vechta.html

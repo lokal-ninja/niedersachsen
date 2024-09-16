@@ -1,11 +1,11 @@
 id: 46967231
-type: way
+type: node
 latitude: 52.41863
 longitude: 10.72164
 postcode: "38442"
 city: Wolfsburg
-street: "Hinterm Hagen"
-housenumber: 2
+street: Hinterm Hagen
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

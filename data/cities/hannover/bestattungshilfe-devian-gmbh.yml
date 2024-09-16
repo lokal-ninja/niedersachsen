@@ -4,8 +4,8 @@ latitude: 52.35921
 longitude: 9.75865
 postcode: "30173"
 city: Hannover
-street: "Bertha-von-Suttner-Platz"
-housenumber: 1
-phone: "+49 511 807 77 94"
-opening_hours: "Mo-Fr 09:00-15:00"
-website: "https://www.devian.de"
+street: Bertha-von-Suttner-Platz
+housenumber: "1"
+phone: +49 511 807 77 94
+opening_hours: Mo-Fr 09:00-15:00
+website: https://www.devian.de

@@ -1,11 +1,11 @@
 id: 424914321
-type: way
+type: node
 latitude: 52.27526
 longitude: 8.04527
 postcode: "49074"
 city: Osnabrück
-street: "Große Straße"
-housenumber: 53
+street: Große Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 153312526
-type: way
+type: node
 latitude: 53.38596
 longitude: 10.00648
 postcode: "21218"
 city: Seevetal
-street: "Bosteler Feld"
-housenumber: 2
+street: Bosteler Feld
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

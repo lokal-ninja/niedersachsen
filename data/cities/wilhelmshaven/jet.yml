@@ -1,11 +1,11 @@
 id: 443084677
-type: way
+type: node
 latitude: 53.5464
 longitude: 8.11718
 postcode: "26386"
 city: Wilhelmshaven
-street: "Freiligrathstraße"
-housenumber: 203
-phone: "+49 4421 996109"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Freiligrathstraße
+housenumber: "203"
+phone: +49 4421 996109
+opening_hours: Mo-Su 06:00-23:00
 website: ""

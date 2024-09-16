@@ -1,11 +1,11 @@
 id: 650348860
-type: way
+type: node
 latitude: 52.89081
 longitude: 8.41733
 postcode: "27793"
 city: Wildeshausen
-street: "Bargloyer Straße"
-housenumber: 61
+street: Bargloyer Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

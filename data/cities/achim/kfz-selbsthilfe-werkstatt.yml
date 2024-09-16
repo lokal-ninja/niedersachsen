@@ -4,8 +4,8 @@ latitude: 53.02406
 longitude: 9.06627
 postcode: "28832"
 city: Achim
-street: "Justus-von-Liebig-Straße"
-housenumber: 2
-phone: "+49 4202 2130"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "http://www.selbsthilfewerkstatt-achim.de/"
+street: Justus-von-Liebig-Straße
+housenumber: "2"
+phone: +49 4202 2130
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: http://www.selbsthilfewerkstatt-achim.de/

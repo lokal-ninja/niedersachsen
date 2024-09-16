@@ -1,11 +1,11 @@
 id: 288631770
-type: way
+type: node
 latitude: 53.04814
 longitude: 8.89201
 postcode: "28309"
 city: Bremen
-street: "Hannoversche Straße"
-housenumber: 121
-phone: "+49 421 453629"
+street: Hannoversche Straße
+housenumber: "121"
+phone: +49 421 453629
 opening_hours: ""
-website: "http://www.sp-keskin.de/"
+website: http://www.sp-keskin.de/

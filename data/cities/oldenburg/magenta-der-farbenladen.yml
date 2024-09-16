@@ -4,8 +4,8 @@ latitude: 53.15045
 longitude: 8.23519
 postcode: "26123"
 city: Oldenburg
-street: "Donnerschweer Straße"
-housenumber: 200
-phone: "+49 441 9986333"
-opening_hours: "Mo-Fr 09:30-18:00; Sa,Su,PH off"
-website: "http://www.magenta-farbenladen.de"
+street: Donnerschweer Straße
+housenumber: "200"
+phone: +49 441 9986333
+opening_hours: Mo-Fr 09:30-18:00; Sa,Su,PH off
+website: http://www.magenta-farbenladen.de

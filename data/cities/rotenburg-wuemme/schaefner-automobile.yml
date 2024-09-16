@@ -1,11 +1,11 @@
 id: 594675871
-type: way
+type: node
 latitude: 53.11353
 longitude: 9.41246
 postcode: "27356"
 city: Rotenburg (Wümme)
-street: "Harburger Straße"
-housenumber: 31
+street: Harburger Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

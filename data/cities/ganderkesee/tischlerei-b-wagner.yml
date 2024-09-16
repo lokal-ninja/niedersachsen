@@ -1,11 +1,11 @@
 id: 692493142
-type: way
+type: node
 latitude: 53.08408
 longitude: 8.52263
 postcode: "27777"
 city: Ganderkesee
-street: "Höfften"
-housenumber: 1
+street: Höfften
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

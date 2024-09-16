@@ -4,8 +4,8 @@ latitude: 53.16074
 longitude: 8.17146
 postcode: "26129"
 city: Oldenburg
-street: "Posthalterweg"
-housenumber: 17
-phone: "+49 441 20517931"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH off"
-website: "https://shopseite.telekom.de/nord-ost/oldenburg/posthalterweg-17"
+street: Posthalterweg
+housenumber: "17"
+phone: +49 441 20517931
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH off
+website: https://shopseite.telekom.de/nord-ost/oldenburg/posthalterweg-17

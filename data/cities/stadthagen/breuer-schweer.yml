@@ -4,8 +4,8 @@ latitude: 52.32408
 longitude: 9.20448
 postcode: "31655"
 city: Stadthagen
-street: "Am Markt"
-housenumber: 6
+street: Am Markt
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Tu 09:00-18:00; We 09:00-14:00; Th,Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.breuer-schweer.de/"
+opening_hours: Mo,Tu 09:00-18:00; We 09:00-14:00; Th,Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.breuer-schweer.de/

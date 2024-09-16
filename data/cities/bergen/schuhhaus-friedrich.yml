@@ -1,11 +1,11 @@
 id: 153177954
-type: way
+type: node
 latitude: 52.80774
 longitude: 9.9648
 postcode: "29303"
 city: Bergen
-street: "Celler Straße"
-housenumber: 16
+street: Celler Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:30,14:30-18:30, Fr 09:00-18:30, Sa 09:00-13:00"
+opening_hours: Mo-Th 09:00-12:30,14:30-18:30, Fr 09:00-18:30, Sa 09:00-13:00
 website: ""

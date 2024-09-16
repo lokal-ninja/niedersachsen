@@ -1,11 +1,11 @@
 id: 164818129
-type: way
+type: node
 latitude: 52.53968
 longitude: 10.89456
 postcode: "38470"
 city: Parsau
-street: "Schmiedestraße"
-housenumber: 5
+street: Schmiedestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

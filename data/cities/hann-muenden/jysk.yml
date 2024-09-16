@@ -1,11 +1,11 @@
 id: 115619585
-type: way
+type: node
 latitude: 51.42794
 longitude: 9.64561
 postcode: "34346"
 city: Hann. Münden
-street: "Göttinger Straße"
-housenumber: 23
+street: Göttinger Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

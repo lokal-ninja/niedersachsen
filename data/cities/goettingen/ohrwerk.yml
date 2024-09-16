@@ -4,8 +4,8 @@ latitude: 51.53433
 longitude: 9.93835
 postcode: "37073"
 city: Göttingen
-street: "Burgstraße"
-housenumber: 20
+street: Burgstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-13:00; PH off"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-13:00; PH off
 website: ""

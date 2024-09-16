@@ -1,11 +1,11 @@
 id: 496138612
-type: way
+type: node
 latitude: 53.04821
 longitude: 10.53924
 postcode: "29576"
 city: Barum
-street: "Dorfstraße"
-housenumber: 26
+street: Dorfstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.bernd-hoerner.de/"
+website: https://www.bernd-hoerner.de/

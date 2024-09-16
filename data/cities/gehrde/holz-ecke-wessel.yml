@@ -1,11 +1,11 @@
 id: 984881423
-type: way
+type: node
 latitude: 52.58142
 longitude: 8.00604
 postcode: "49596"
 city: Gehrde
-street: "Marie-Schmidtsberg-Straße"
-housenumber: 1
+street: Marie-Schmidtsberg-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Th,Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Th,Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

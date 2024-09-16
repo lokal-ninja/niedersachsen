@@ -1,11 +1,11 @@
 id: 410581847
-type: way
+type: node
 latitude: 53.19126
 longitude: 8.2348
 postcode: "26125"
 city: Oldenburg
-street: "Frieslandstraße"
-housenumber: 14
+street: Frieslandstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

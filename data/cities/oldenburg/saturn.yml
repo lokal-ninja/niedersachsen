@@ -4,8 +4,8 @@ latitude: 53.13856
 longitude: 8.21658
 postcode: "26122"
 city: Oldenburg
-street: "Schloßplatz"
-housenumber: 3
-phone: "+49 221 22243123"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.saturn.de/de/store/oldenburg-92"
+street: Schloßplatz
+housenumber: "3"
+phone: +49 221 22243123
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.saturn.de/de/store/oldenburg-92

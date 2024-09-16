@@ -4,8 +4,8 @@ latitude: 51.59552
 longitude: 10.55366
 postcode: "37441"
 city: Bad Sachsa
-street: "Schulstraße"
-housenumber: 4
+street: Schulstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://sturmaktiv.de/"
+website: https://sturmaktiv.de/

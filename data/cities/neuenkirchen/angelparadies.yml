@@ -4,8 +4,8 @@ latitude: 53.03255
 longitude: 9.70655
 postcode: "29643"
 city: Neuenkirchen
-street: "Hauptstraße"
-housenumber: 9
-phone: "+49 5195 4050954"
-opening_hours: "Tu-Fr 10:00-18:00, Sa 10:00-12:30"
+street: Hauptstraße
+housenumber: "9"
+phone: +49 5195 4050954
+opening_hours: Tu-Fr 10:00-18:00, Sa 10:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 217182990
-type: way
+type: node
 latitude: 53.51265
 longitude: 8.3603
 postcode: "26969"
 city: Butjadingen
-street: "Ulmenstraße"
-housenumber: 1
+street: Ulmenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

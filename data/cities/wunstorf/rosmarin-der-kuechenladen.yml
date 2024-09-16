@@ -4,8 +4,8 @@ latitude: 52.42619
 longitude: 9.4275
 postcode: "31515"
 city: Wunstorf
-street: "Nordstraße"
-housenumber: 1
-phone: "+49 5031 924000"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "http://www.rosmarin-wunstorf.de/"
+street: Nordstraße
+housenumber: "1"
+phone: +49 5031 924000
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: http://www.rosmarin-wunstorf.de/

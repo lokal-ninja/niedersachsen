@@ -1,11 +1,11 @@
 id: 95503963
-type: way
+type: node
 latitude: 53.69143
 longitude: 7.80613
 postcode: "26409"
 city: Wittmund
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: ""
-opening_hours: "PH,Mo-Su 09:00-18:00"
+opening_hours: PH,Mo-Su 09:00-18:00
 website: ""

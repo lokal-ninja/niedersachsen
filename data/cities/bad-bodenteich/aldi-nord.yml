@@ -1,11 +1,11 @@
 id: 166709387
-type: way
+type: node
 latitude: 52.83351
 longitude: 10.67517
 postcode: "29389"
 city: Bad Bodenteich
-street: "Bergstraße"
-housenumber: 7
+street: Bergstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

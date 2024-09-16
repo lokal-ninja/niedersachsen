@@ -1,11 +1,11 @@
 id: 370995110
-type: way
+type: node
 latitude: 53.1825
 longitude: 8.06767
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Eva-Lessing-Straße"
-housenumber: 4
+street: Eva-Lessing-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.kuechenlounge-wagenfeld.de/"
+website: https://www.kuechenlounge-wagenfeld.de/

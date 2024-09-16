@@ -4,8 +4,9 @@ latitude: 53.06982
 longitude: 8.84168
 postcode: "28205"
 city: Bremen
-street: "Verdener Straße"
-housenumber: 37
-phone: "+49 421 43689888"
-opening_hours: "Sa 10:00-13:00, Tu,Th,Fr 10:00-13:00; We off, Mo 15:00-18:00, Tu,Th,Fr 15:00-17:00"
-website: "https://www.dasdepot-online.de/shop/page/4"
+street: Verdener Straße
+housenumber: "37"
+phone: +49 421 43689888
+opening_hours: Sa 10:00-13:00, Tu,Th,Fr 10:00-13:00; We off, Mo 15:00-18:00, Tu,Th,Fr
+    15:00-17:00
+website: https://www.dasdepot-online.de/shop/page/4

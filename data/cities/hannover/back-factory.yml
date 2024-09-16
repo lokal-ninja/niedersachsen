@@ -4,8 +4,9 @@ latitude: 52.37759
 longitude: 9.74262
 postcode: "30161"
 city: Hannover
-street: "Niki-de-Saint-Phalle-Promenade"
-housenumber: 78
+street: Niki-de-Saint-Phalle-Promenade
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Th 04:30-23:00; PH 05:00-23:00; Fr 04:30-23:59; Sa 00:00-23:59; Su 00:00-23:00"
+opening_hours: Mo-Th 04:30-23:00; PH 05:00-23:00; Fr 04:30-23:59; Sa 00:00-23:59;
+    Su 00:00-23:00
 website: ""

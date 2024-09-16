@@ -4,8 +4,8 @@ latitude: 52.27294
 longitude: 9.84125
 postcode: "30880"
 city: Laatzen
-street: "Osterstraße"
-housenumber: 24
-phone: "+49 51022426"
-opening_hours: "Mo-Fr 06:00-17:30, Sa. 06:00-12:30, So. 7:30-10:30"
-website: "https://www.bäckerei-volkmann.de/index.html"
+street: Osterstraße
+housenumber: "24"
+phone: +49 51022426
+opening_hours: Mo-Fr 06:00-17:30, Sa. 06:00-12:30, So. 7:30-10:30
+website: https://www.bäckerei-volkmann.de/index.html

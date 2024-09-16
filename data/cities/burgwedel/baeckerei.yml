@@ -1,11 +1,11 @@
 id: 325244758
-type: way
+type: node
 latitude: 52.51269
 longitude: 9.92093
 postcode: "30938"
 city: Burgwedel
-street: "Bäckerstraße"
-housenumber: 1
+street: Bäckerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 367258093
-type: way
+type: node
 latitude: 52.25902
 longitude: 9.38423
 postcode: "31867"
 city: Messenkamp
-street: "Altenhäger Straße"
-housenumber: 2
-phone: "+49 5043 2435"
-opening_hours: "08:30-12:30,15:30-20:00"
-website: "https://www.blumen-gaertnerei-meyer.de/"
+street: Altenhäger Straße
+housenumber: "2"
+phone: +49 5043 2435
+opening_hours: 08:30-12:30,15:30-20:00
+website: https://www.blumen-gaertnerei-meyer.de/

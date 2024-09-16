@@ -1,11 +1,11 @@
 id: 1013745360
-type: way
+type: node
 latitude: 52.35756
 longitude: 9.85494
 postcode: "30559"
 city: Hannover
-street: "Ohefeldweg"
-housenumber: 9
+street: Ohefeldweg
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 285817504
-type: way
+type: node
 latitude: 52.20762
 longitude: 8.33465
 postcode: "49324"
 city: Melle
-street: "Bismarckstraße"
-housenumber: 40
+street: Bismarckstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.trinkgut.de"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.trinkgut.de

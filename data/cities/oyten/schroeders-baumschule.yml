@@ -1,11 +1,11 @@
 id: 52024826
-type: way
+type: node
 latitude: 53.05836
 longitude: 8.99549
 postcode: "28876"
 city: Oyten
-street: "Oyterdamm"
-housenumber: 16
+street: Oyterdamm
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

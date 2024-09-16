@@ -1,11 +1,11 @@
 id: 799734461
-type: way
+type: node
 latitude: 52.27709
 longitude: 10.52089
 postcode: "38114"
 city: Braunschweig
-street: "Hamburger Straße"
-housenumber: 280
-phone: "+49 531 3808890"
-opening_hours: "Mo-Sa 07:00-21:45, Su off"
-website: "https://goerge-markt.de/filialen/e-center/hamburger-strasse"
+street: Hamburger Straße
+housenumber: "280"
+phone: +49 531 3808890
+opening_hours: Mo-Sa 07:00-21:45, Su off
+website: https://goerge-markt.de/filialen/e-center/hamburger-strasse

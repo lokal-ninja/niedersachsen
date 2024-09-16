@@ -4,8 +4,8 @@ latitude: 52.27847
 longitude: 8.04367
 postcode: "49074"
 city: Osnabrück
-street: "Hasestraße"
-housenumber: 43
-phone: "+49541 44020204"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-16:00"
-website: "http://www.fundament.works/"
+street: Hasestraße
+housenumber: "43"
+phone: +49541 44020204
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-16:00
+website: http://www.fundament.works/

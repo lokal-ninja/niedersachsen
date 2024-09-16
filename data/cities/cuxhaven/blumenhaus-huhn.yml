@@ -1,11 +1,11 @@
 id: 338463496
-type: way
+type: node
 latitude: 53.86403
 longitude: 8.65244
 postcode: "27476"
 city: Cuxhaven
-street: "Sahlenburger Chaussee"
-housenumber: 5
-phone: "+49 4721 714 601"
+street: Sahlenburger Chaussee
+housenumber: "5"
+phone: +49 4721 714 601
 opening_hours: ""
-website: "https://www.blumenhaus-huhn.de/"
+website: https://www.blumenhaus-huhn.de/

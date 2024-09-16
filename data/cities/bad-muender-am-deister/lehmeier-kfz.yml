@@ -4,8 +4,8 @@ latitude: 52.16538
 longitude: 9.48552
 postcode: "31848"
 city: Bad Münder am Deister
-street: "Am Osterfeld"
-housenumber: 1
-phone: "+49 5042 588913"
-opening_hours: "Mo-Fr 07:00-20:00"
-website: "https://www.ex-postautos.de/"
+street: Am Osterfeld
+housenumber: "1"
+phone: +49 5042 588913
+opening_hours: Mo-Fr 07:00-20:00
+website: https://www.ex-postautos.de/

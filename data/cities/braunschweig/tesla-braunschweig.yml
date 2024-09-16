@@ -1,11 +1,11 @@
 id: 75248990
-type: way
+type: node
 latitude: 52.27953
 longitude: 10.49744
 postcode: "38114"
 city: Braunschweig
-street: "Sudetenstraße"
-housenumber: 7
+street: Sudetenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su off"
+opening_hours: Mo-Sa 09:00-18:00; Su off
 website: ""

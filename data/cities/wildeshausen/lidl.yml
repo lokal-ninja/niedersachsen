@@ -1,11 +1,11 @@
 id: 134216624
-type: way
+type: node
 latitude: 52.89614
 longitude: 8.41497
 postcode: "27793"
 city: Wildeshausen
-street: "Westring"
-housenumber: 5
+street: Westring
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de

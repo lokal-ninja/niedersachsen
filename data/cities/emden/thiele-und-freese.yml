@@ -1,11 +1,11 @@
 id: 174019039
-type: way
+type: node
 latitude: 53.36637
 longitude: 7.20903
 postcode: "26725"
 city: Emden
-street: "Hinter der Halle"
-housenumber: 7
-phone: "+49 4921 25184"
+street: Hinter der Halle
+housenumber: "7"
+phone: +49 4921 25184
 opening_hours: ""
-website: "https://www.thiele-tee.de/"
+website: https://www.thiele-tee.de/

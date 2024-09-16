@@ -4,8 +4,8 @@ latitude: 52.73329
 longitude: 7.75657
 postcode: "49624"
 city: Löningen
-street: "Langenstraße"
-housenumber: 22
+street: Langenstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:00,15:00-17:00; We 10:00-12:00; Sa,Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 10:00-12:00,15:00-17:00; We 10:00-12:00; Sa,Su,PH off
 website: ""

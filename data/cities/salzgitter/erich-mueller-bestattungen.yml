@@ -1,11 +1,11 @@
 id: 607058574
-type: way
+type: node
 latitude: 52.15342
 longitude: 10.32108
 postcode: "38226"
 city: Salzgitter
-street: "Am Strumpfwinkel"
-housenumber: 14
+street: Am Strumpfwinkel
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

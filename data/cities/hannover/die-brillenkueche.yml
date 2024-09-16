@@ -4,8 +4,8 @@ latitude: 52.33866
 longitude: 9.7636
 postcode: "30519"
 city: Hannover
-street: "Fiedelerstraße"
-housenumber: 31
+street: Fiedelerstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; We,Sa 10:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; We,Sa 10:00-13:00
 website: ""

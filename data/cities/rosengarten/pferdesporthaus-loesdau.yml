@@ -4,8 +4,8 @@ latitude: 53.3732
 longitude: 9.89561
 postcode: "21224"
 city: Rosengarten
-street: "Am Hatzberg"
-housenumber: 5
-phone: "+49 4108 414161"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.loesdau.de/rosengarten"
+street: Am Hatzberg
+housenumber: "5"
+phone: +49 4108 414161
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.loesdau.de/rosengarten

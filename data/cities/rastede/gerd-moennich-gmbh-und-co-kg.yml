@@ -1,11 +1,11 @@
 id: 707201186
-type: way
+type: node
 latitude: 53.32864
 longitude: 8.14148
 postcode: "26180"
 city: Rastede
-street: "Spohler Straße"
-housenumber: 111
-phone: "+49 4454 577"
+street: Spohler Straße
+housenumber: "111"
+phone: +49 4454 577
 opening_hours: ""
-website: "http://www.moennich-rastede.de"
+website: http://www.moennich-rastede.de

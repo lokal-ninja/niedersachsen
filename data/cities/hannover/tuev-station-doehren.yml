@@ -4,8 +4,8 @@ latitude: 52.33561
 longitude: 9.77526
 postcode: "30519"
 city: Hannover
-street: "Thurnithistraße"
-housenumber: 11
+street: Thurnithistraße
+housenumber: "11"
 phone: ""
-opening_hours: "Sommer- und Winterhalbjahr unterschiedliche Öffnungszeiten"
-website: "https://www.tuev-nord.de/tuev-stationen/Hannover-Doehren"
+opening_hours: '"Sommer- und Winterhalbjahr unterschiedliche Öffnungszeiten"'
+website: https://www.tuev-nord.de/tuev-stationen/Hannover-Doehren

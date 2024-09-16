@@ -1,11 +1,11 @@
 id: 888505346
-type: way
+type: node
 latitude: 53.36362
 longitude: 7.16748
 postcode: "26723"
 city: Emden
-street: "Thüringer Straße"
-housenumber: 3
+street: Thüringer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

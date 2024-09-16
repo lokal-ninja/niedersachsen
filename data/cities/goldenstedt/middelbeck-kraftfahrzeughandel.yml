@@ -1,11 +1,11 @@
 id: 401146056
-type: way
+type: node
 latitude: 52.75895
 longitude: 8.3427
 postcode: "49424"
 city: Goldenstedt
-street: "Große Straße"
-housenumber: 32
+street: Große Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

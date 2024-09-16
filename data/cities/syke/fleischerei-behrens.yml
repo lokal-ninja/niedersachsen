@@ -1,11 +1,11 @@
 id: 174423635
-type: way
+type: node
 latitude: 52.91416
 longitude: 8.81808
 postcode: "28857"
 city: Syke
-street: "Hauptstraße"
-housenumber: 53
-phone: "+49 4242 934355"
-opening_hours: "Mo-Fr 07:00-18:31; Sa 07:00-14:00"
-website: "https://www.fleischerei-behrens.de/syke.html"
+street: Hauptstraße
+housenumber: "53"
+phone: +49 4242 934355
+opening_hours: Mo-Fr 07:00-18:31; Sa 07:00-14:00
+website: https://www.fleischerei-behrens.de/syke.html

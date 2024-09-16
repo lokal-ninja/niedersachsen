@@ -1,11 +1,11 @@
 id: 278039093
-type: way
+type: node
 latitude: 51.9429
 longitude: 10.12346
 postcode: "38723"
 city: Seesen
-street: "Wilhelm-Busch-Straße"
-housenumber: 18
+street: Wilhelm-Busch-Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

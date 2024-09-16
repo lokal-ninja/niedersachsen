@@ -4,8 +4,8 @@ latitude: 53.80792
 longitude: 8.90257
 postcode: "21762"
 city: Otterndorf
-street: "Marktstraße"
-housenumber: 11
-phone: "+49 4751 4069800"
-opening_hours: "Mo-Fr 10:00-12:00"
+street: Marktstraße
+housenumber: "11"
+phone: +49 4751 4069800
+opening_hours: Mo-Fr 10:00-12:00
 website: ""

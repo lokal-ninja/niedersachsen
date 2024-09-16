@@ -1,11 +1,11 @@
 id: 355172608
-type: way
+type: node
 latitude: 53.71412
 longitude: 9.37713
 postcode: "21706"
 city: Drochtersen
-street: "Sietwender Straße"
-housenumber: 66
+street: Sietwender Straße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/drochtersen/sietwender-strasse-66.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/drochtersen/sietwender-strasse-66.html

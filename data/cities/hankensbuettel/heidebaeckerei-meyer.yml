@@ -4,8 +4,8 @@ latitude: 52.7237
 longitude: 10.59685
 postcode: "29386"
 city: Hankensbüttel
-street: "Handwerkerring"
-housenumber: 5
-phone: "+49 5832  6002"
-opening_hours: "Mo-Sa 06:30-20:00; Su 07:30-10:30"
-website: "https://www.baeckerei-meyer.de/"
+street: Handwerkerring
+housenumber: "5"
+phone: +49 5832  6002
+opening_hours: Mo-Sa 06:30-20:00; Su 07:30-10:30
+website: https://www.baeckerei-meyer.de/

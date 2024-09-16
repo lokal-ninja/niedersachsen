@@ -1,11 +1,11 @@
 id: 398944629
-type: way
+type: node
 latitude: 52.5295
 longitude: 10.31684
 postcode: "38539"
 city: Müden (Aller)
-street: "Dorfstraße"
-housenumber: 50
+street: Dorfstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00"
-website: "http://kruegers-hofladen.de"
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00
+website: http://kruegers-hofladen.de

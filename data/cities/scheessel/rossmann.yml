@@ -4,8 +4,8 @@ latitude: 53.16916
 longitude: 9.48665
 postcode: "27383"
 city: Scheeßel
-street: "Harburger Straße"
-housenumber: 2
-phone: "+49 4263 3028437"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.rossmann.de"
+street: Harburger Straße
+housenumber: "2"
+phone: +49 4263 3028437
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
+website: https://www.rossmann.de

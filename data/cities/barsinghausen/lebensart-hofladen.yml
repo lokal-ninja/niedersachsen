@@ -4,8 +4,8 @@ latitude: 52.38567
 longitude: 9.48865
 postcode: "30890"
 city: Barsinghausen
-street: "Bultfeld"
-housenumber: 2
-phone: "+49 5035 3929980"
-opening_hours: "Mo-Sa 09:00-17:00"
+street: Bultfeld
+housenumber: "2"
+phone: +49 5035 3929980
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 26701103
-type: way
+type: node
 latitude: 53.14418
 longitude: 8.19078
 postcode: "26129"
 city: Oldenburg
-street: "Ammerländer Heerstraße"
+street: Ammerländer Heerstraße
 housenumber: 23-29
-phone: "+49 441 972040"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.obi.de/markt/oldenburg-ammerlaender-heerstrasse"
+phone: +49 441 972040
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.obi.de/markt/oldenburg-ammerlaender-heerstrasse

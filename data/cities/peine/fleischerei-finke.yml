@@ -1,11 +1,11 @@
 id: 270048550
-type: way
+type: node
 latitude: 52.33192
 longitude: 10.2718
 postcode: "31224"
 city: Peine
-street: "August-Bebel-Straße"
-housenumber: 49
+street: August-Bebel-Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

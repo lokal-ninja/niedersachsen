@@ -1,11 +1,11 @@
 id: 216117513
-type: way
+type: node
 latitude: 52.48425
 longitude: 10.52606
 postcode: "38518"
 city: Gifhorn
-street: "Fischerweg"
-housenumber: 35
+street: Fischerweg
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

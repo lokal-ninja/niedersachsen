@@ -4,8 +4,9 @@ latitude: 53.58646
 longitude: 6.66631
 postcode: "26757"
 city: Borkum
-street: "Neue Straße"
-housenumber: 19
+street: Neue Straße
+housenumber: "19"
 phone: ""
-opening_hours: "täglich wechselnd, oft 10-13 Uhr, manchmal 15-18 Uhr, an manchen Tagen gar nicht"
+opening_hours: '"täglich wechselnd, oft 10-13 Uhr, manchmal 15-18 Uhr, an manchen
+    Tagen gar nicht"'
 website: ""

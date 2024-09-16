@@ -1,11 +1,11 @@
 id: 95030973
-type: way
+type: node
 latitude: 52.04776
 longitude: 10.00775
 postcode: "31162"
 city: Bad Salzdetfurth
-street: "Ahnepaule"
-housenumber: 4
+street: Ahnepaule
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

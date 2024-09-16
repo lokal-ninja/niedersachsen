@@ -4,8 +4,8 @@ latitude: 51.80369
 longitude: 9.68424
 postcode: "37586"
 city: Dassel
-street: "Breslauer Straße"
-housenumber: 2
+street: Breslauer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

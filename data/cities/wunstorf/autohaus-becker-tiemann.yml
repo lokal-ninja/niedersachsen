@@ -1,11 +1,11 @@
 id: 141779827
-type: way
+type: node
 latitude: 52.4283
 longitude: 9.41141
 postcode: "31515"
 city: Wunstorf
-street: "Hagenburger Straße"
-housenumber: 46
+street: Hagenburger Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

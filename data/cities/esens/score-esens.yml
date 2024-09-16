@@ -4,8 +4,8 @@ latitude: 53.63553
 longitude: 7.61276
 postcode: "26427"
 city: Esens
-street: "Auricher Straße"
-housenumber: 6
-phone: "+49 4971 290711"
-opening_hours: "Mo-Sa 06:30-22:00; Su 07:00-22:00"
-website: "https://www.score-emden.de/esens/"
+street: Auricher Straße
+housenumber: "6"
+phone: +49 4971 290711
+opening_hours: Mo-Sa 06:30-22:00; Su 07:00-22:00
+website: https://www.score-emden.de/esens/

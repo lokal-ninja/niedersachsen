@@ -1,11 +1,11 @@
 id: 204966761
-type: way
+type: node
 latitude: 52.35558
 longitude: 7.99917
 postcode: "49134"
 city: Wallenhorst
-street: "Hansastraße"
-housenumber: 5
+street: Hansastraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

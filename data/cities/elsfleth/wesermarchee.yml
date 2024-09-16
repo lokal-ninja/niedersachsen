@@ -1,11 +1,11 @@
 id: 227835727
-type: way
+type: node
 latitude: 53.24865
 longitude: 8.3484
 postcode: "26931"
 city: Elsfleth
-street: "Birkenstraße"
-housenumber: 1
-phone: "+49 4483 930544"
-opening_hours: "Th-Sa 10:00-18:00; Su 14:00-17:00"
-website: "https://www.wesermarchee.de/"
+street: Birkenstraße
+housenumber: "1"
+phone: +49 4483 930544
+opening_hours: Th-Sa 10:00-18:00; Su 14:00-17:00
+website: https://www.wesermarchee.de/

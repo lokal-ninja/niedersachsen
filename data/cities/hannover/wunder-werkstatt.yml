@@ -1,11 +1,11 @@
 id: 186037802
-type: way
+type: node
 latitude: 52.36304
 longitude: 9.75353
 postcode: "30171"
 city: Hannover
-street: "Krausenstraße"
-housenumber: 13
+street: Krausenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

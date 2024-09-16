@@ -4,8 +4,8 @@ latitude: 53.23456
 longitude: 7.46806
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Bremer Straße"
-housenumber: 27
+street: Bremer Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Su off; PH off"
-website: "http://www.gardinenhaus-fecht.de/"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Su off; PH off
+website: http://www.gardinenhaus-fecht.de/

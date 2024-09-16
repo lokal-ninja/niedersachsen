@@ -1,11 +1,11 @@
 id: 28474069
-type: way
+type: node
 latitude: 52.33049
 longitude: 10.67317
 postcode: "38165"
 city: Lehre
-street: "Campenstraße"
-housenumber: 17
+street: Campenstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

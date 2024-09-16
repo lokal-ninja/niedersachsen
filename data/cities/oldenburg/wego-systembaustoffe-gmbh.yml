@@ -1,11 +1,11 @@
 id: 123593212
-type: way
+type: node
 latitude: 53.16369
 longitude: 8.2529
 postcode: "26125"
 city: Oldenburg
-street: "August-Hanken-Straße"
-housenumber: 23
-phone: "+49 441 933600"
+street: August-Hanken-Straße
+housenumber: "23"
+phone: +49 441 933600
 opening_hours: ""
-website: "https://www.wego-vti.de/"
+website: https://www.wego-vti.de/

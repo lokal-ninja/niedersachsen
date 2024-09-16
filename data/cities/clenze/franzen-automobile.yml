@@ -1,11 +1,11 @@
 id: 359859824
-type: way
+type: node
 latitude: 52.93395
 longitude: 10.95415
 postcode: "29459"
 city: Clenze
-street: "Lange Straße"
-housenumber: 36
+street: Lange Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

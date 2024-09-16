@@ -1,11 +1,11 @@
 id: 173776134
-type: way
+type: node
 latitude: 51.72527
 longitude: 10.61061
 postcode: "38700"
 city: Braunlage
-street: "Herzog-Wilhelm-Straße"
-housenumber: 33
-phone: "+49 36332 24858, mobil: +49 163 6053895"
+street: Herzog-Wilhelm-Straße
+housenumber: "33"
+phone: '+49 36332 24858, mobil: +49 163 6053895'
 opening_hours: ""
-website: "https://www.atelier-obermann.de/"
+website: https://www.atelier-obermann.de/

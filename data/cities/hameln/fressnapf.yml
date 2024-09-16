@@ -1,11 +1,11 @@
 id: 601108755
-type: way
+type: node
 latitude: 52.10014
 longitude: 9.39255
 postcode: "31789"
 city: Hameln
-street: "Hastenbecker Landstraße"
-housenumber: 1
-phone: "+49 5151 7830390"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Hastenbecker Landstraße
+housenumber: "1"
+phone: +49 5151 7830390
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

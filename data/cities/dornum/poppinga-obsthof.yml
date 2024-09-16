@@ -1,11 +1,11 @@
 id: 98608648
-type: way
+type: node
 latitude: 53.64928
 longitude: 7.43587
 postcode: "26553"
 city: Dornum
-street: "Accumer Riege"
-housenumber: 19
+street: Accumer Riege
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su off"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su off
 website: ""

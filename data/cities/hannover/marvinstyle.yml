@@ -4,8 +4,8 @@ latitude: 52.39801
 longitude: 9.74228
 postcode: "30163"
 city: Hannover
-street: "Ferdinand-Wallbrecht-Straße"
-housenumber: 90
-phone: "+49 511 8993949"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+street: Ferdinand-Wallbrecht-Straße
+housenumber: "90"
+phone: +49 511 8993949
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

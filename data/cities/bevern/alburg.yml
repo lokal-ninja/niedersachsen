@@ -1,11 +1,11 @@
 id: 242356727
-type: way
+type: node
 latitude: 51.85615
 longitude: 9.48568
 postcode: "37639"
 city: Bevern
-street: "Birkenweg"
-housenumber: 14
-phone: "+49 5531 80743"
+street: Birkenweg
+housenumber: "14"
+phone: +49 5531 80743
 opening_hours: ""
 website: ""

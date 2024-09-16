@@ -1,11 +1,11 @@
 id: 564059345
-type: way
+type: node
 latitude: 52.75736
 longitude: 7.21143
 postcode: "49733"
 city: Haren (Ems)
-street: "Wesuweer Hauptstraße"
-housenumber: 44
-phone: "+49 5932 7343794"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://aggis-blumenlaube.de/"
+street: Wesuweer Hauptstraße
+housenumber: "44"
+phone: +49 5932 7343794
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://aggis-blumenlaube.de/

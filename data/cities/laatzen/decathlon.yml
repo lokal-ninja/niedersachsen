@@ -1,11 +1,11 @@
 id: 1303275862
-type: way
+type: node
 latitude: 52.31972
 longitude: 9.79399
 postcode: "30880"
 city: Laatzen
-street: "Karlsruher Straße"
-housenumber: 8
+street: Karlsruher Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

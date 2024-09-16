@@ -4,8 +4,8 @@ latitude: 53.14226
 longitude: 8.2065
 postcode: "26122"
 city: Oldenburg
-street: "Steinweg"
-housenumber: 6
+street: Steinweg
+housenumber: "6"
 phone: ""
-opening_hours: "We-Fr 11:00-17:00; Sa 10:00-16:00"
-website: "https://www.orto.kitchen/"
+opening_hours: We-Fr 11:00-17:00; Sa 10:00-16:00
+website: https://www.orto.kitchen/

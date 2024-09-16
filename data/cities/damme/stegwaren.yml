@@ -1,11 +1,11 @@
 id: 211179327
-type: way
+type: node
 latitude: 52.52075
 longitude: 8.19989
 postcode: "49401"
 city: Damme
-street: "Hunteburger Straße"
-housenumber: 8
+street: Hunteburger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

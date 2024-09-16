@@ -1,11 +1,11 @@
 id: 126065773
-type: way
+type: node
 latitude: 52.30565
 longitude: 7.1679
 postcode: "48455"
 city: Bad Bentheim
-street: "Heinrich-Böll-Straße"
-housenumber: 1
+street: Heinrich-Böll-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

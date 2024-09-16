@@ -1,11 +1,11 @@
 id: 1293513399
-type: way
+type: node
 latitude: 52.26485
 longitude: 10.36247
 postcode: "38159"
 city: Vechelde
-street: "Niemodlinstraße"
-housenumber: 15
+street: Niemodlinstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

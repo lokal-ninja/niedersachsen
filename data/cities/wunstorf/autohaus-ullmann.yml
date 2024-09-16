@@ -1,11 +1,11 @@
 id: 208565179
-type: way
+type: node
 latitude: 52.41013
 longitude: 9.45778
 postcode: "31515"
 city: Wunstorf
-street: "Lise-Meitner-Straße"
-housenumber: 13
-phone: "+49 5031 77890"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "https://www.autohaus-ullmann.de/"
+street: Lise-Meitner-Straße
+housenumber: "13"
+phone: +49 5031 77890
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: https://www.autohaus-ullmann.de/

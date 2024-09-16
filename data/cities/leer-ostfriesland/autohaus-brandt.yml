@@ -1,11 +1,11 @@
 id: 219427836
-type: way
+type: node
 latitude: 53.24453
 longitude: 7.4574
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Heisfelder Straße"
-housenumber: 170
+street: Heisfelder Straße
+housenumber: "170"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,13:45-17:30; Sa 09:00-13:00; Su off; PH off"
+opening_hours: Mo-Fr 08:30-12:30,13:45-17:30; Sa 09:00-13:00; Su off; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 27413800
-type: way
+type: node
 latitude: 51.72723
 longitude: 10.24883
 postcode: "37520"
 city: Osterode am Harz
-street: "Am Posthof"
-housenumber: 5
+street: Am Posthof
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

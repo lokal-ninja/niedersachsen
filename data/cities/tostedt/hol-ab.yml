@@ -4,8 +4,8 @@ latitude: 53.2791
 longitude: 9.71567
 postcode: "21255"
 city: Tostedt
-street: "Bahnhofstraße"
-housenumber: 23
+street: Bahnhofstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.holab.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.holab.de/

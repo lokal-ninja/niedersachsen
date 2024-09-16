@@ -4,8 +4,8 @@ latitude: 53.54073
 longitude: 8.58968
 postcode: "27570"
 city: Bremerhaven
-street: "Elbestraße"
-housenumber: 91
-phone: "+49 471 1701002"
-opening_hours: "Mo-Sa 09:00-20:00; PH,Su off"
-website: "https://www.takko.com/"
+street: Elbestraße
+housenumber: "91"
+phone: +49 471 1701002
+opening_hours: Mo-Sa 09:00-20:00; PH,Su off
+website: https://www.takko.com/

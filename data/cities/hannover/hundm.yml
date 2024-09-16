@@ -4,8 +4,8 @@ latitude: 52.37471
 longitude: 9.73838
 postcode: "30159"
 city: Hannover
-street: "Georgstraße"
+street: Georgstraße
 housenumber: 31-33
-phone: "+49 800 6655900"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://hm.com/de"
+phone: +49 800 6655900
+opening_hours: Mo-Sa 10:00-20:00
+website: https://hm.com/de

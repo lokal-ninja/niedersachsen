@@ -4,8 +4,8 @@ latitude: 52.27204
 longitude: 10.53365
 postcode: "38106"
 city: Braunschweig
-street: "Bültenweg"
-housenumber: 93
-phone: "+49 531 347427"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.unterwegs-reisen.de/"
+street: Bültenweg
+housenumber: "93"
+phone: +49 531 347427
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.unterwegs-reisen.de/

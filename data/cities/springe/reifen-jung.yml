@@ -1,11 +1,11 @@
 id: 1161270629
-type: way
+type: node
 latitude: 52.20755
 longitude: 9.54685
 postcode: "31832"
 city: Springe
-street: "Hamelner Straße"
-housenumber: 8
+street: Hamelner Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:30-12:30"
-website: "http://www.reifen-jung.de/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:30-12:30
+website: http://www.reifen-jung.de/

@@ -4,8 +4,8 @@ latitude: 53.14224
 longitude: 8.21373
 postcode: "26122"
 city: Oldenburg
-street: "Lange Straße"
-housenumber: 12
-phone: "+49 441 2197320"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-18:00"
-website: "https://www.fielmann.de/niederlassungen/oldenburg/26122-lange-strasse-12/"
+street: Lange Straße
+housenumber: "12"
+phone: +49 441 2197320
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-18:00
+website: https://www.fielmann.de/niederlassungen/oldenburg/26122-lange-strasse-12/

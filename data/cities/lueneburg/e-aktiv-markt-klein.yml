@@ -4,8 +4,8 @@ latitude: 53.25928
 longitude: 10.39911
 postcode: "21339"
 city: Lüneburg
-street: "Thorner Straße"
-housenumber: 37
-phone: "+49 4131 33400"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"
-website: "https://www.edeka.de/eh/nord/e-aktiv-markt-klein-thorner-str.-37/index.jsp"
+street: Thorner Straße
+housenumber: "37"
+phone: +49 4131 33400
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00
+website: https://www.edeka.de/eh/nord/e-aktiv-markt-klein-thorner-str.-37/index.jsp

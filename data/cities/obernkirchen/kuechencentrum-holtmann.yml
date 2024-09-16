@@ -1,11 +1,11 @@
 id: 1054046252
-type: way
+type: node
 latitude: 52.28273
 longitude: 9.13073
 postcode: "31683"
 city: Obernkirchen
-street: "Gelldorfer Weg"
-housenumber: 44
-phone: "+49 5724 39639"
-opening_hours: "Tu-Fr 09:30-19:00, Sa 09:30-16:00"
-website: "https://kuechencentrum-holtmann.de/"
+street: Gelldorfer Weg
+housenumber: "44"
+phone: +49 5724 39639
+opening_hours: Tu-Fr 09:30-19:00, Sa 09:30-16:00
+website: https://kuechencentrum-holtmann.de/

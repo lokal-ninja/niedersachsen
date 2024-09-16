@@ -1,11 +1,11 @@
 id: 243254037
-type: way
+type: node
 latitude: 53.24877
 longitude: 8.18923
 postcode: "26180"
 city: Rastede
-street: "Raiffeisenstraße"
-housenumber: 34
+street: Raiffeisenstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.holab.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.holab.de/

@@ -1,11 +1,11 @@
 id: 300614177
-type: way
+type: node
 latitude: 53.11903
 longitude: 7.46193
 postcode: "26810"
 city: Westoverledingen
-street: "Papenburger Straße"
-housenumber: 
+street: Papenburger Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

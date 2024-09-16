@@ -4,8 +4,8 @@ latitude: 53.402
 longitude: 10.16561
 postcode: "21037"
 city: Hamburg
-street: "Kirchwerder Elbdeich"
-housenumber: 141
+street: Kirchwerder Elbdeich
+housenumber: "141"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://kohbau.de"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://kohbau.de

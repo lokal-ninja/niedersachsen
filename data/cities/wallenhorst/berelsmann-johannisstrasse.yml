@@ -1,11 +1,11 @@
 id: 686176252
-type: way
+type: node
 latitude: 52.34271
 longitude: 7.99839
 postcode: "49134"
 city: Wallenhorst
-street: "Johannisstraße"
-housenumber: 13
+street: Johannisstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

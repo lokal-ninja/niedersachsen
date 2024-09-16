@@ -4,8 +4,8 @@ latitude: 53.08773
 longitude: 8.78472
 postcode: "28217"
 city: Bremen
-street: "Hansator"
-housenumber: 7
+street: Hansator
+housenumber: "7"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.hoyer-energie.de/index2.php?place=2413&id=152"
+opening_hours: 24/7
+website: https://www.hoyer-energie.de/index2.php?place=2413&id=152

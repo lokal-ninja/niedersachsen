@@ -1,11 +1,11 @@
 id: 238289272
-type: way
+type: node
 latitude: 51.58557
 longitude: 9.75827
 postcode: "37139"
 city: Adelebsen
-street: "Lödingser Straße"
-housenumber: 26
+street: Lödingser Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

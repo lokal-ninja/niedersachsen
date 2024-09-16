@@ -1,11 +1,11 @@
 id: 1005722724
-type: way
+type: node
 latitude: 52.31766
 longitude: 10.53433
 postcode: "38110"
 city: Braunschweig
-street: "Waggumer Straße"
+street: Waggumer Straße
 housenumber: 8 c
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

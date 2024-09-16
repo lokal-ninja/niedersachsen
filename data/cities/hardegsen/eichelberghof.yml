@@ -4,8 +4,8 @@ latitude: 51.70054
 longitude: 9.78503
 postcode: "37181"
 city: Hardegsen
-street: "Brinkstraße"
-housenumber: 10
-phone: "+49 5555  368"
-opening_hours: "Mo 16:00-18:00; We 16:00-18:00; Fr 16:00-18:00"
-website: "http://www.eichelberghof.de"
+street: Brinkstraße
+housenumber: "10"
+phone: +49 5555  368
+opening_hours: Mo 16:00-18:00; We 16:00-18:00; Fr 16:00-18:00
+website: http://www.eichelberghof.de

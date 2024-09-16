@@ -4,8 +4,8 @@ latitude: 53.22644
 longitude: 10.16074
 postcode: "21376"
 city: Salzhausen
-street: "Tangensieck"
-housenumber: 1
-phone: "+49 4172 394"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-17:00; PH,Su off"
-website: "https://www.cafe-diekert.de/"
+street: Tangensieck
+housenumber: "1"
+phone: +49 4172 394
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-17:00; PH,Su off
+website: https://www.cafe-diekert.de/

@@ -1,11 +1,11 @@
 id: 480453654
-type: way
+type: node
 latitude: 51.61567
 longitude: 10.21853
 postcode: "37434"
 city: Gieboldehausen
-street: "Herzberger Landstraße"
-housenumber: 3
-phone: "+49 5528 200891"
-opening_hours: "24/7"
+street: Herzberger Landstraße
+housenumber: "3"
+phone: +49 5528 200891
+opening_hours: 24/7
 website: ""

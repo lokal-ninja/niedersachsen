@@ -1,11 +1,11 @@
 id: 212338172
-type: way
+type: node
 latitude: 53.13762
 longitude: 8.22673
 postcode: "26135"
 city: Oldenburg
-street: "Emsstraße"
+street: Emsstraße
 housenumber: 3-7;5
-phone: "+49 441 3901160"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.expert.de/oldenburg/bening"
+phone: +49 441 3901160
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.expert.de/oldenburg/bening

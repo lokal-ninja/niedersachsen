@@ -1,11 +1,11 @@
 id: 192440543
-type: way
+type: node
 latitude: 52.11118
 longitude: 8.16199
 postcode: "49214"
 city: Bad Rothenfelde
-street: "Osnabrücker Straße"
-housenumber: 
+street: Osnabrücker Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

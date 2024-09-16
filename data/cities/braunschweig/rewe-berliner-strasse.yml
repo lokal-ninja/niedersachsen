@@ -1,11 +1,11 @@
 id: 9721169
-type: way
+type: node
 latitude: 52.28327
 longitude: 10.58038
 postcode: "38104"
 city: Braunschweig
-street: "Berliner Straße"
-housenumber: 53
+street: Berliner Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

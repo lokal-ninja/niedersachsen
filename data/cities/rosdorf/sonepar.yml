@@ -1,11 +1,11 @@
 id: 337877349
-type: way
+type: node
 latitude: 51.51361
 longitude: 9.8938
 postcode: "37124"
 city: Rosdorf
-street: "Siekweg"
-housenumber: 10
+street: Siekweg
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

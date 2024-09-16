@@ -1,11 +1,11 @@
 id: 478313191
-type: way
+type: node
 latitude: 51.65647
 longitude: 10.34382
 postcode: "37412"
 city: Herzberg am Harz
-street: "Marktplatz"
-housenumber: 34
-phone: "+49 5521 5386"
+street: Marktplatz
+housenumber: "34"
+phone: +49 5521 5386
 opening_hours: ""
-website: "http://www.photosterner.de/"
+website: http://www.photosterner.de/

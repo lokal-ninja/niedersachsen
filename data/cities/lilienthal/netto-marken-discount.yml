@@ -1,11 +1,11 @@
 id: 377480406
-type: way
+type: node
 latitude: 53.15683
 longitude: 8.91849
 postcode: "28865"
 city: Lilienthal
-street: "Heidloge"
-housenumber: 2
+street: Heidloge
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

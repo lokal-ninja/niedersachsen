@@ -1,11 +1,11 @@
 id: 25351056
-type: way
+type: node
 latitude: 51.81357
 longitude: 9.87558
 postcode: "37574"
 city: Einbeck
-street: "Altendorfer Tor"
-housenumber: 18
+street: Altendorfer Tor
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

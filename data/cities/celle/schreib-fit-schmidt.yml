@@ -4,8 +4,8 @@ latitude: 52.61156
 longitude: 10.06956
 postcode: ""
 city: Celle
-street: "Windmühlenstraße"
-housenumber: 48
+street: Windmühlenstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 08:00-13:00, Mo-Fr 15:00-18:00"
-website: "https://www.schreib-fit-schmidt.de/"
+opening_hours: Mo-Sa 08:00-13:00, Mo-Fr 15:00-18:00
+website: https://www.schreib-fit-schmidt.de/

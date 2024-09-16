@@ -1,11 +1,11 @@
 id: 200039113
-type: way
+type: node
 latitude: 52.6544
 longitude: 9.40265
 postcode: "31634"
 city: Steimbke
-street: "Altes Ölfeld"
-housenumber: 1
+street: Altes Ölfeld
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.36819
 longitude: 7.2065
 postcode: "26721"
 city: Emden
-street: "Neutorstraße"
-housenumber: 32
-phone: "+49 4921 9181055"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://schuh-mann.de/Schuh-Mann-Emden/"
+street: Neutorstraße
+housenumber: "32"
+phone: +49 4921 9181055
+opening_hours: Mo-Sa 09:00-18:00
+website: https://schuh-mann.de/Schuh-Mann-Emden/

@@ -1,11 +1,11 @@
 id: 266588412
-type: way
+type: node
 latitude: 53.03622
 longitude: 8.51069
 postcode: "27777"
 city: Ganderkesee
-street: "Otto-Lilienthal-Straße"
-housenumber: 23
+street: Otto-Lilienthal-Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

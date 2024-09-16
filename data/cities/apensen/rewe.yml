@@ -1,11 +1,11 @@
 id: 39644016
-type: way
+type: node
 latitude: 53.43004
 longitude: 9.61189
 postcode: "21641"
 city: Apensen
-street: "Beckdorfer Straße"
-housenumber: 16
+street: Beckdorfer Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

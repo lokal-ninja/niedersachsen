@@ -4,8 +4,8 @@ latitude: 53.03483
 longitude: 8.8281
 postcode: "28277"
 city: Bremen
-street: "Gorsemannstraße"
-housenumber: 2
-phone: "+49 421 69638862"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://gri-bremen.de/mobelhallen/kattenturm-mitte/"
+street: Gorsemannstraße
+housenumber: "2"
+phone: +49 421 69638862
+opening_hours: Mo-Fr 09:00-16:00
+website: https://gri-bremen.de/mobelhallen/kattenturm-mitte/

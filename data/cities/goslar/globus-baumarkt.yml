@@ -1,11 +1,11 @@
 id: 291627099
-type: way
+type: node
 latitude: 51.93368
 longitude: 10.41009
 postcode: "38644"
 city: Goslar
-street: "Carl-Zeiß-Straße"
-housenumber: 7
+street: Carl-Zeiß-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

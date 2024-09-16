@@ -1,11 +1,11 @@
 id: 189349576
-type: way
+type: node
 latitude: 53.45667
 longitude: 9.51164
 postcode: "21698"
 city: Harsefeld
-street: "Buxtehuder Straße"
-housenumber: 17
+street: Buxtehuder Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

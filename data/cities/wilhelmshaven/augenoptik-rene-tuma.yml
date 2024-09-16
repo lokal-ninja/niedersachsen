@@ -4,8 +4,8 @@ latitude: 53.54529
 longitude: 8.08489
 postcode: "26389"
 city: Wilhelmshaven
-street: "Friedrich-Paffrath-Straße"
-housenumber: 98
-phone: "+49 4421 771711"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.augenoptik-tuma.de"
+street: Friedrich-Paffrath-Straße
+housenumber: "98"
+phone: +49 4421 771711
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
+website: https://www.augenoptik-tuma.de

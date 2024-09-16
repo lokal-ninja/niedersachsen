@@ -4,8 +4,8 @@ latitude: 52.14368
 longitude: 9.29857
 postcode: "31840"
 city: Hessisch Oldendorf
-street: "Dammstraße"
-housenumber: 3
-phone: "+49 5152 97690"
-opening_hours: "Mo-Fr 07:00-13:00,15:00-18:00; Sa 06:00-12:30"
+street: Dammstraße
+housenumber: "3"
+phone: +49 5152 97690
+opening_hours: Mo-Fr 07:00-13:00,15:00-18:00; Sa 06:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 233744032
-type: way
+type: node
 latitude: 52.35386
 longitude: 10.77209
 postcode: "38444"
 city: Wolfsburg
-street: "Neue Straße"
-housenumber: 53
+street: Neue Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:30; Su 10:00-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:30; Su 10:00-13:00
 website: ""

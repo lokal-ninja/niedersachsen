@@ -1,11 +1,11 @@
 id: 192488382
-type: way
+type: node
 latitude: 52.8634
 longitude: 9.61702
 postcode: "29664"
 city: Walsrode
-street: "Albert-Einstein-Straße"
-housenumber: 2
-phone: "+49 5161 3897"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://walsrode.premio.de/"
+street: Albert-Einstein-Straße
+housenumber: "2"
+phone: +49 5161 3897
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://walsrode.premio.de/

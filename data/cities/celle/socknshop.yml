@@ -4,8 +4,8 @@ latitude: 52.62371
 longitude: 10.08276
 postcode: "29221"
 city: Celle
-street: "Mauernstraße"
-housenumber: 5
+street: Mauernstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-14:00
 website: ""

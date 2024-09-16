@@ -4,8 +4,8 @@ latitude: 53.03388
 longitude: 8.95418
 postcode: "28832"
 city: Achim
-street: "Uphuser Heerstraße"
-housenumber: 110
-phone: "+49 4202 511666"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.ms-kuechenteam.de/"
+street: Uphuser Heerstraße
+housenumber: "110"
+phone: +49 4202 511666
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.ms-kuechenteam.de/

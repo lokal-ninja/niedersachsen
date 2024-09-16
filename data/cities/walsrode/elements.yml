@@ -4,8 +4,8 @@ latitude: 52.86386
 longitude: 9.61394
 postcode: "29664"
 city: Walsrode
-street: "Heinrich-Hertz-Straße"
-housenumber: 2
-phone: "+49 5161 4878422"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.elements-show.de/walsrode"
+street: Heinrich-Hertz-Straße
+housenumber: "2"
+phone: +49 5161 4878422
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.elements-show.de/walsrode

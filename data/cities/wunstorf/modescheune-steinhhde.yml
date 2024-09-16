@@ -1,11 +1,11 @@
 id: 235094093
-type: way
+type: node
 latitude: 52.45279
 longitude: 9.35315
 postcode: "31515"
 city: Wunstorf
-street: "Am Graben"
-housenumber: 8
+street: Am Graben
+housenumber: "8"
 phone: ""
-opening_hours: "We-Su 12:00-17:00"
+opening_hours: We-Su 12:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 84605429
-type: way
+type: node
 latitude: 53.3518
 longitude: 10.22321
 postcode: "21423"
 city: Winsen (Luhe)
-street: "Osttangente"
-housenumber: 211
+street: Osttangente
+housenumber: "211"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off
 website: ""

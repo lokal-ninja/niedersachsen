@@ -1,11 +1,11 @@
 id: 145025830
-type: way
+type: node
 latitude: 52.22726
 longitude: 10.50422
 postcode: "38122"
 city: Braunschweig
-street: "Westerbergstraße"
-housenumber: 93
-phone: "+49 531  23443923"
+street: Westerbergstraße
+housenumber: "93"
+phone: +49 531  23443923
 opening_hours: ""
-website: "https://www.autohaus-amb.de"
+website: https://www.autohaus-amb.de

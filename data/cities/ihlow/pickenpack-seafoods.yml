@@ -1,11 +1,11 @@
 id: 93844077
-type: way
+type: node
 latitude: 53.3846
 longitude: 7.35201
 postcode: "26632"
 city: Ihlow
-street: "Schmiedestraße"
-housenumber: 16
+street: Schmiedestraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

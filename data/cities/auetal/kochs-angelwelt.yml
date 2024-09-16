@@ -4,8 +4,8 @@ latitude: 52.23636
 longitude: 9.24581
 postcode: "31749"
 city: Auetal
-street: "Sandstraße"
-housenumber: 5
-phone: "+49 5752 9269595"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00; PH off"
-website: "https://kochs-angelwelt-shop.de/"
+street: Sandstraße
+housenumber: "5"
+phone: +49 5752 9269595
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00; PH off
+website: https://kochs-angelwelt-shop.de/

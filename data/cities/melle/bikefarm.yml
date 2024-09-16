@@ -1,11 +1,11 @@
 id: 33825264
-type: way
+type: node
 latitude: 52.1905
 longitude: 8.35525
 postcode: "49324"
 city: Melle
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 24a
 phone: ""
 opening_hours: ""
-website: "https://bike-farm.de"
+website: https://bike-farm.de

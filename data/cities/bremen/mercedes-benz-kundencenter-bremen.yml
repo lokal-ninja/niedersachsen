@@ -4,8 +4,8 @@ latitude: 53.06894
 longitude: 8.90365
 postcode: "28309"
 city: Bremen
-street: "Im Holter Feld"
-housenumber: 10
-phone: "+49 30 2694-1010"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.mercedes-benz.de/passengercars/contact/kundencenter-bremen/start/ihre-fahrzeugabholung.html"
+street: Im Holter Feld
+housenumber: "10"
+phone: +49 30 2694-1010
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.mercedes-benz.de/passengercars/contact/kundencenter-bremen/start/ihre-fahrzeugabholung.html

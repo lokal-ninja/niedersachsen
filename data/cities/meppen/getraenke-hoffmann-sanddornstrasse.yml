@@ -1,11 +1,11 @@
 id: 130520366
-type: way
+type: node
 latitude: 52.69861
 longitude: 7.26618
 postcode: "49716"
 city: Meppen
-street: "Sanddornstraße"
-housenumber: 1
+street: Sanddornstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-hoffmann.de/"
+website: https://www.getraenke-hoffmann.de/

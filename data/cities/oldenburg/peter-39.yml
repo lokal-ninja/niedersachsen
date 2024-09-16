@@ -1,11 +1,11 @@
 id: 237494025
-type: way
+type: node
 latitude: 53.14511
 longitude: 8.21001
 postcode: "26121"
 city: Oldenburg
-street: "Peterstraße"
-housenumber: 39
+street: Peterstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Th 10:00-14:00; Fr,Sa 10:00-13:00"
+opening_hours: Mo-Th 10:00-14:00; Fr,Sa 10:00-13:00
 website: ""

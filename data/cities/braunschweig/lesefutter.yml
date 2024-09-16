@@ -1,11 +1,11 @@
 id: 33145204
-type: way
+type: node
 latitude: 52.30873
 longitude: 10.51515
 postcode: "38112"
 city: Braunschweig
-street: "Gifhorner Straße"
-housenumber: 77
+street: Gifhorner Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Tu-Fr 13:00-18:00"
-website: "https://www.der-buchladen-lesefutter.de/"
+opening_hours: Tu-Fr 13:00-18:00
+website: https://www.der-buchladen-lesefutter.de/

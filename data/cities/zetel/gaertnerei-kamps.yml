@@ -1,11 +1,11 @@
 id: 255872993
-type: way
+type: node
 latitude: 53.41983
 longitude: 7.96142
 postcode: "26340"
 city: Zetel
-street: "Bohlenberger Straße"
-housenumber: 63
-phone: "+49 4453 2198"
+street: Bohlenberger Straße
+housenumber: "63"
+phone: +49 4453 2198
 opening_hours: ""
-website: "https://www.gaertnerei-kamps.de/"
+website: https://www.gaertnerei-kamps.de/

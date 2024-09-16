@@ -4,8 +4,8 @@ latitude: 53.06793
 longitude: 8.86142
 postcode: "28207"
 city: Bremen
-street: "Hastedter Heerstraße"
-housenumber: 79
+street: Hastedter Heerstraße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "http://www.tophifi24.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: http://www.tophifi24.de

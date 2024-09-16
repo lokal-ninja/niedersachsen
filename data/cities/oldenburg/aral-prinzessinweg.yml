@@ -1,11 +1,11 @@
 id: 1143946681
-type: way
+type: node
 latitude: 53.14385
 longitude: 8.19169
 postcode: "26122"
 city: Oldenburg
-street: "Prinzessinweg"
-housenumber: 2
-phone: "+49 441 971971"
-opening_hours: "24/7"
-website: "https://tankstelle.aral.de/oldenburg/prinzessinweg-2/21050900"
+street: Prinzessinweg
+housenumber: "2"
+phone: +49 441 971971
+opening_hours: 24/7
+website: https://tankstelle.aral.de/oldenburg/prinzessinweg-2/21050900

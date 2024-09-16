@@ -1,11 +1,11 @@
 id: 176000467
-type: way
+type: node
 latitude: 53.55359
 longitude: 8.58268
 postcode: "27576"
 city: Bremerhaven
-street: "Hafenstraße"
-housenumber: 58
+street: Hafenstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

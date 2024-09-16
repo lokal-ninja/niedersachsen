@@ -1,11 +1,11 @@
 id: 214637469
-type: way
+type: node
 latitude: 52.2444
 longitude: 10.33617
 postcode: "38159"
 city: Vechelde
-street: "Kirchstraße"
-housenumber: 6
+street: Kirchstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.sport-mielke.de"
+website: http://www.sport-mielke.de

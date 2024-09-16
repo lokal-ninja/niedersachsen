@@ -1,11 +1,11 @@
 id: 309847567
-type: way
+type: node
 latitude: 53.32611
 longitude: 9.81656
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Hanomagstraße"
-housenumber: 41
-phone: "+49 4186 891250"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.ttmarkt.de/"
+street: Hanomagstraße
+housenumber: "41"
+phone: +49 4186 891250
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.ttmarkt.de/

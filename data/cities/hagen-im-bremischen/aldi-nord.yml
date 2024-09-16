@@ -1,11 +1,11 @@
 id: 37746818
-type: way
+type: node
 latitude: 53.35856
 longitude: 8.65674
 postcode: "27628"
 city: Hagen im Bremischen
-street: "Döhrenacker"
-housenumber: 3
+street: Döhrenacker
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

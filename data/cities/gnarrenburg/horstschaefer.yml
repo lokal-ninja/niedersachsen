@@ -1,11 +1,11 @@
 id: 261306894
-type: way
+type: node
 latitude: 53.38899
 longitude: 9.00714
 postcode: "27442"
 city: Gnarrenburg
-street: "Hermann-Lamprecht-Straße"
-housenumber: 55
+street: Hermann-Lamprecht-Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.horstschaefer.de/"
+website: https://www.horstschaefer.de/

@@ -1,11 +1,11 @@
 id: 1079487035
-type: way
+type: node
 latitude: 53.0977
 longitude: 9.98176
 postcode: "29646"
 city: Bispingen
-street: "Gaußscher Bogen"
-housenumber: 10
+street: Gaußscher Bogen
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00; PH off"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.04564
 longitude: 8.95749
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 50
-phone: "+49 421 483216"
-opening_hours: "Mo-Sa 09:30-19:00; Th,Fr 09:30-20:00"
-website: "https://www.zoowieso.de/"
+street: Hans-Bredow-Straße
+housenumber: "50"
+phone: +49 421 483216
+opening_hours: Mo-Sa 09:30-19:00; Th,Fr 09:30-20:00
+website: https://www.zoowieso.de/

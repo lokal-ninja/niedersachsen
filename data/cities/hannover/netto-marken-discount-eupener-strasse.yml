@@ -1,11 +1,11 @@
 id: 753364001
-type: way
+type: node
 latitude: 52.34376
 longitude: 9.7806
 postcode: ""
 city: Hannover
-street: "Eupener Straße"
-housenumber: 1
+street: Eupener Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

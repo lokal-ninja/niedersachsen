@@ -4,8 +4,9 @@ latitude: 52.25418
 longitude: 9.61653
 postcode: "30974"
 city: Wennigsen (Deister)
-street: "An der Beeke"
-housenumber: 5
+street: An der Beeke
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,We,Th 10:00-13:00; Tu 10:00-13:00,15:00-18:00; Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00; PH off"
+opening_hours: Mo,We,Th 10:00-13:00; Tu 10:00-13:00,15:00-18:00; Fr 09:00-13:00,15:00-18:00;
+    Sa 09:00-13:00; PH off
 website: ""

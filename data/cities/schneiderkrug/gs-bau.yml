@@ -1,11 +1,11 @@
 id: 122258499
-type: way
+type: node
 latitude: 52.81336
 longitude: 8.23779
 postcode: "49685"
 city: Schneiderkrug
-street: "Hansestraße"
-housenumber: 7
+street: Hansestraße
+housenumber: "7"
 phone: "+4944478020"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
-website: "https://www.gs-agri.de/"
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
+website: https://www.gs-agri.de/

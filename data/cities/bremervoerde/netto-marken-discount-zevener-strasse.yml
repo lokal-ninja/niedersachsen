@@ -1,11 +1,11 @@
 id: 88794601
-type: way
+type: node
 latitude: 53.48203
 longitude: 9.15987
 postcode: "27432"
 city: Bremervörde
-street: "Zevener Straße"
-housenumber: 7
+street: Zevener Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

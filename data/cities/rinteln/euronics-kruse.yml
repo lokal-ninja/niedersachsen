@@ -4,8 +4,8 @@ latitude: 52.21188
 longitude: 9.04992
 postcode: "31737"
 city: Rinteln
-street: "Hauptstraße"
-housenumber: 35
-phone: "+49 5751 76867"
+street: Hauptstraße
+housenumber: "35"
+phone: +49 5751 76867
 opening_hours: ""
-website: "https://www.euronics.de/rinteln-kruse/info/Ueber-uns"
+website: https://www.euronics.de/rinteln-kruse/info/Ueber-uns

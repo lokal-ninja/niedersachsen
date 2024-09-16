@@ -1,11 +1,11 @@
 id: 61828738
-type: way
+type: node
 latitude: 53.01806
 longitude: 8.63712
 postcode: "27755"
 city: Delmenhorst
-street: "Annenheider Straße"
-housenumber: 255
+street: Annenheider Straße
+housenumber: "255"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00|| Samstag nach Vereinbarung"
+opening_hours: Mo-Fr 07:30-16:00|| "Samstag nach Vereinbarung"
 website: ""

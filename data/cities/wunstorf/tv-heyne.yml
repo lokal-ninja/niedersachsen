@@ -4,8 +4,8 @@ latitude: 52.42539
 longitude: 9.42337
 postcode: "31515"
 city: Wunstorf
-street: "Lange Straße"
-housenumber: 64
-phone: "+49 5031 13445"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00, 15:00-18:00; We,Sa 09:00-13:00"
-website: "https://www.tv-heyne.de"
+street: Lange Straße
+housenumber: "64"
+phone: +49 5031 13445
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00, 15:00-18:00; We,Sa 09:00-13:00
+website: https://www.tv-heyne.de

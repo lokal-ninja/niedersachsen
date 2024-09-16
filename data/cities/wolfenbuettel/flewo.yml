@@ -1,11 +1,11 @@
 id: 55832318
-type: way
+type: node
 latitude: 52.15845
 longitude: 10.50711
 postcode: "38304"
 city: Wolfenbüttel
-street: "Am Rehmanger"
-housenumber: 7
+street: Am Rehmanger
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://flewo.de/"
+website: https://flewo.de/

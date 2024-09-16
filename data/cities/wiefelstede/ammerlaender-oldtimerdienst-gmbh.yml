@@ -1,11 +1,11 @@
 id: 675180168
-type: way
+type: node
 latitude: 53.18714
 longitude: 8.18052
 postcode: "26215"
 city: Wiefelstede
-street: "Karl-Fischer-Straße"
-housenumber: 5
+street: Karl-Fischer-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

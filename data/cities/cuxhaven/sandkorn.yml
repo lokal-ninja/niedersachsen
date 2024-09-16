@@ -4,8 +4,8 @@ latitude: 53.88546
 longitude: 8.6437
 postcode: "27476"
 city: Cuxhaven
-street: "Cuxhavener Straße"
-housenumber: 94
-phone: "+49 4723 7187 0"
-opening_hours: "Mo-Su 07:00-18:00"
-website: "https://baecker-tiedemann.de"
+street: Cuxhavener Straße
+housenumber: "94"
+phone: +49 4723 7187 0
+opening_hours: Mo-Su 07:00-18:00
+website: https://baecker-tiedemann.de

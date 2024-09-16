@@ -4,8 +4,8 @@ latitude: 53.08168
 longitude: 8.81252
 postcode: "28195"
 city: Bremen
-street: "Bahnhofsplatz"
-housenumber: 42
-phone: "+49 421 84919860"
-opening_hours: "Mo-Sa 06:00-23:00"
+street: Bahnhofsplatz
+housenumber: "42"
+phone: +49 421 84919860
+opening_hours: Mo-Sa 06:00-23:00
 website: ""

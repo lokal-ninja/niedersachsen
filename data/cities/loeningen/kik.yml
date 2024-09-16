@@ -1,11 +1,11 @@
 id: 155539682
-type: way
+type: node
 latitude: 52.73524
 longitude: 7.7567
 postcode: "49624"
 city: Löningen
-street: "Tabbenstraße"
-housenumber: 2
+street: Tabbenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.kik.de/"
+website: https://www.kik.de/

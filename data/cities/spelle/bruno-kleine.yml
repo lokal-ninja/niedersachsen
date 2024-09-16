@@ -4,8 +4,8 @@ latitude: 52.36827
 longitude: 7.47078
 postcode: "48480"
 city: Spelle
-street: "Markelo-Platz"
-housenumber: 1
-phone: "+49 5977 928980"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00"
-website: "https://www.bruno-kleine.de/spelle/"
+street: Markelo-Platz
+housenumber: "1"
+phone: +49 5977 928980
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-16:00
+website: https://www.bruno-kleine.de/spelle/

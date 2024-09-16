@@ -1,11 +1,11 @@
 id: 673406333
-type: way
+type: node
 latitude: 53.05371
 longitude: 7.33868
 postcode: "26871"
 city: Papenburg
-street: "Raiffeisenstraße"
-housenumber: 1
+street: Raiffeisenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

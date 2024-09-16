@@ -1,11 +1,11 @@
 id: 331857214
-type: way
+type: node
 latitude: 52.91899
 longitude: 11.35855
 postcode: "29485"
 city: Lemgow
-street: "Dorfstraße"
-housenumber: 5
+street: Dorfstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://woodmizer.de/"
+website: https://woodmizer.de/

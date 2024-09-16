@@ -1,11 +1,11 @@
 id: 969823856
-type: way
+type: node
 latitude: 52.47976
 longitude: 9.22813
 postcode: "31547"
 city: Rehburg-Loccum
-street: "Heineken Pohle"
-housenumber: 11
-phone: "+49 5037 969697"
-opening_hours: "Tu-Fr 08:00-13:00, 15:00-18:00, Sa 07:30-13:00"
+street: Heineken Pohle
+housenumber: "11"
+phone: +49 5037 969697
+opening_hours: Tu-Fr 08:00-13:00, 15:00-18:00, Sa 07:30-13:00
 website: ""

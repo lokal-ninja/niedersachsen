@@ -1,11 +1,11 @@
 id: 27125019
-type: way
+type: node
 latitude: 53.18232
 longitude: 8.71212
 postcode: "27721"
 city: Ritterhude
-street: "An der Ihle"
-housenumber: 7
+street: An der Ihle
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

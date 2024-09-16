@@ -1,11 +1,11 @@
 id: 42987949
-type: way
+type: node
 latitude: 52.28613
 longitude: 10.52847
 postcode: "38106"
 city: Braunschweig
-street: "Freyastraße"
-housenumber: 30
+street: Freyastraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

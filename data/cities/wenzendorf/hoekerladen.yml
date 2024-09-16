@@ -4,8 +4,8 @@ latitude: 53.36123
 longitude: 9.77718
 postcode: "21279"
 city: Wenzendorf
-street: "Lindenstraße"
-housenumber: 4
-phone: "+49 4165 211349"
-opening_hours: "May-Oct: Sa-Su 13:00-18:00"
-website: "http://www.museumsbauernhof.de/"
+street: Lindenstraße
+housenumber: "4"
+phone: +49 4165 211349
+opening_hours: 'May-Oct: Sa-Su 13:00-18:00'
+website: http://www.museumsbauernhof.de/

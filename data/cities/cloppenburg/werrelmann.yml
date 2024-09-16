@@ -1,11 +1,11 @@
 id: 121593125
-type: way
+type: node
 latitude: 52.84556
 longitude: 8.04513
 postcode: "49661"
 city: Cloppenburg
-street: "Bahnhofstraße"
-housenumber: 9
+street: Bahnhofstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:30; PH,Su off"
+opening_hours: Mo-Sa 09:30-18:30; PH,Su off
 website: ""

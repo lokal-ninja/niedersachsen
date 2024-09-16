@@ -4,8 +4,8 @@ latitude: 51.81835
 longitude: 9.85054
 postcode: "37574"
 city: Einbeck
-street: "Walter-Poser-Straße"
-housenumber: 4
-phone: "+49 5561 923000"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://moebel-boss.de/moebelhaeuser/einbeck"
+street: Walter-Poser-Straße
+housenumber: "4"
+phone: +49 5561 923000
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://moebel-boss.de/moebelhaeuser/einbeck

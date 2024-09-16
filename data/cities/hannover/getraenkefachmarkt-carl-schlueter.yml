@@ -4,8 +4,8 @@ latitude: 52.34449
 longitude: 9.82294
 postcode: "30539"
 city: Hannover
-street: "Alte Bemeroder Straße"
-housenumber: 108
-phone: "+49-511-511011"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-14:00"
-website: "https://www.getraenke-schlueter.de/"
+street: Alte Bemeroder Straße
+housenumber: "108"
+phone: +49-511-511011
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-14:00
+website: https://www.getraenke-schlueter.de/

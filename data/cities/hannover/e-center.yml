@@ -1,11 +1,11 @@
 id: 205786157
-type: way
+type: node
 latitude: 52.40967
 longitude: 9.80141
 postcode: "30659"
 city: Hannover
-street: "Adolf-Emmelmann-Straße"
-housenumber: 5
+street: Adolf-Emmelmann-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.36063
 longitude: 9.72775
 postcode: "21279"
 city: Hollenstedt
-street: "Dierstorfer Straße"
-housenumber: 1
-phone: "+49 4165 211573"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.luedemann-pflanzen.de/"
+street: Dierstorfer Straße
+housenumber: "1"
+phone: +49 4165 211573
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.luedemann-pflanzen.de/

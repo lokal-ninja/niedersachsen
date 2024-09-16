@@ -1,11 +1,11 @@
 id: 97605174
-type: way
+type: node
 latitude: 52.32021
 longitude: 9.59349
 postcode: "30989"
 city: Gehrden
-street: "Everloher Straße"
-housenumber: 1
+street: Everloher Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

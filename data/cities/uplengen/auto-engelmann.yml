@@ -1,11 +1,11 @@
 id: 181314724
-type: way
+type: node
 latitude: 53.31131
 longitude: 7.74454
 postcode: "26670"
 city: Uplengen
-street: "Cirksenastraße"
-housenumber: 10
+street: Cirksenastraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

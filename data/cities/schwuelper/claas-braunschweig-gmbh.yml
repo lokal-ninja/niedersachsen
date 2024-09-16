@@ -1,11 +1,11 @@
 id: 239030919
-type: way
+type: node
 latitude: 52.32429
 longitude: 10.48392
 postcode: "38179"
 city: Schwülper
-street: "Waller See"
-housenumber: 24
+street: Waller See
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://www.claas-braunschweig.de/"
+opening_hours: Mo-Fr 07:00-16:30
+website: https://www.claas-braunschweig.de/

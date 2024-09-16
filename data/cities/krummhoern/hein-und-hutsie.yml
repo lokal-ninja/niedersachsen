@@ -1,11 +1,11 @@
 id: 332332039
-type: way
+type: node
 latitude: 53.49992
 longitude: 7.09458
 postcode: "26736"
 city: Krummhörn
-street: "Mühlenstraße"
-housenumber: 20
+street: Mühlenstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

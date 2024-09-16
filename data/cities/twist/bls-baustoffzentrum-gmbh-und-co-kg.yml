@@ -1,11 +1,11 @@
 id: 628677875
-type: way
+type: node
 latitude: 52.64567
 longitude: 7.11314
 postcode: "49767"
 city: Twist
-street: "J.-D.-Lauenstein-Straße"
-housenumber: 26
+street: J.-D.-Lauenstein-Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.bls-baustoffzentrum.de/willkommen"
+website: https://www.bls-baustoffzentrum.de/willkommen

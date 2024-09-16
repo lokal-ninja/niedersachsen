@@ -1,11 +1,11 @@
 id: 114394287
-type: way
+type: node
 latitude: 53.17115
 longitude: 8.62112
 postcode: "28757"
 city: Bremen
-street: "Reeder-Bischoff-Straße"
-housenumber: 68
+street: Reeder-Bischoff-Straße
+housenumber: "68"
 phone: ""
 opening_hours: ""
-website: "https://timchristine.de/"
+website: https://timchristine.de/

@@ -1,11 +1,11 @@
 id: 227473922
-type: way
+type: node
 latitude: 51.90077
 longitude: 10.56224
 postcode: "38667"
 city: Bad Harzburg
-street: "Kirchstraße"
-housenumber: 18
+street: Kirchstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

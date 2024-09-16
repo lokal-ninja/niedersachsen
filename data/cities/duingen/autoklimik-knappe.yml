@@ -4,8 +4,8 @@ latitude: 52.00452
 longitude: 9.70544
 postcode: "31089"
 city: Duingen
-street: "Alter Teichsweg"
-housenumber: 1
-phone: "+49 5185 7569885"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "https://www.autoklinik-knappe.de/"
+street: Alter Teichsweg
+housenumber: "1"
+phone: +49 5185 7569885
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
+website: https://www.autoklinik-knappe.de/

@@ -1,11 +1,11 @@
 id: 26590745
-type: way
+type: node
 latitude: 52.33752
 longitude: 10.24772
 postcode: "31228"
 city: Peine
-street: "Dieselstraße"
-housenumber: 12
-phone: "+49 5171 41310"
+street: Dieselstraße
+housenumber: "12"
+phone: +49 5171 41310
 opening_hours: ""
-website: "http://www.stautmeister.com"
+website: http://www.stautmeister.com

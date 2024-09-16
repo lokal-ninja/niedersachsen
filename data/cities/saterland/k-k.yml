@@ -1,11 +1,11 @@
 id: 85470366
-type: way
+type: node
 latitude: 53.12663
 longitude: 7.67484
 postcode: "26683"
 city: Saterland
-street: "Bahnhofstraße"
-housenumber: 26
-phone: "+49 4498 923420"
-opening_hours: "Mo-Sa 07:30-20:00"
+street: Bahnhofstraße
+housenumber: "26"
+phone: +49 4498 923420
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

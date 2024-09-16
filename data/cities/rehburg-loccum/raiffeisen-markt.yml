@@ -1,11 +1,11 @@
 id: 276232688
-type: way
+type: node
 latitude: 52.48355
 longitude: 9.23246
 postcode: "31547"
 city: Rehburg-Loccum
-street: "Meßloher Weg"
-housenumber: 13
-phone: "+49 5037 3678"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"
-website: "https://www.raiffeisenmitte.de/standorte/raiffeisen-maerkte?tx_ttaddress_listview%5Baction%5D=show&tx_ttaddress_listview%5Baddress%5D=39&tx_ttaddress_listview%5Bcontroller%5D=Address&cHash=08aa97e7512e71d5cf2039069fe1c552"
+street: Meßloher Weg
+housenumber: "13"
+phone: +49 5037 3678
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-13:00
+website: https://www.raiffeisenmitte.de/standorte/raiffeisen-maerkte?tx_ttaddress_listview%5Baction%5D=show&tx_ttaddress_listview%5Baddress%5D=39&tx_ttaddress_listview%5Bcontroller%5D=Address&cHash=08aa97e7512e71d5cf2039069fe1c552

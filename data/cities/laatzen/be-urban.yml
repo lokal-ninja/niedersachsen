@@ -4,8 +4,8 @@ latitude: 52.32119
 longitude: 9.78421
 postcode: "30880"
 city: Laatzen
-street: "Hildesheimer Straße"
-housenumber: 8
-phone: "0511 9205747"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.beurban.de"
+street: Hildesheimer Straße
+housenumber: "8"
+phone: 0511 9205747
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.beurban.de

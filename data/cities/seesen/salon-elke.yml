@@ -1,11 +1,11 @@
 id: 278046609
-type: way
+type: node
 latitude: 51.94051
 longitude: 10.12657
 postcode: "38723"
 city: Seesen
-street: "Spadentorstraße"
-housenumber: 1
+street: Spadentorstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

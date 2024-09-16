@@ -1,11 +1,11 @@
 id: 163870672
-type: way
+type: node
 latitude: 52.24674
 longitude: 10.50896
 postcode: "38122"
 city: Braunschweig
-street: "Frankfurter Straße"
-housenumber: 243
-phone: "+49 531 28019624"
-opening_hours: "Mo-Fr 10:00-19:00; PH,Su off; Sa 10:00-18:00"
-website: "https://www.polo-motorrad.de/cms/store/details/polo-store-braunschweig"
+street: Frankfurter Straße
+housenumber: "243"
+phone: +49 531 28019624
+opening_hours: Mo-Fr 10:00-19:00; PH,Su off; Sa 10:00-18:00
+website: https://www.polo-motorrad.de/cms/store/details/polo-store-braunschweig

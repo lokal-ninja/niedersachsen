@@ -4,8 +4,8 @@ latitude: 53.11632
 longitude: 9.23003
 postcode: "27367"
 city: Sottrum
-street: "Kirchstraße"
-housenumber: 1
+street: Kirchstraße
+housenumber: "1"
 phone: "+4942642933"
-opening_hours: "Tu-Fr 05:30-18:00; Sa 05:30-12:00; Su 07:00-12:00"
-website: "https://erster-broetchengeber.de/"
+opening_hours: Tu-Fr 05:30-18:00; Sa 05:30-12:00; Su 07:00-12:00
+website: https://erster-broetchengeber.de/

@@ -1,11 +1,11 @@
 id: 513675790
-type: way
+type: node
 latitude: 53.60214
 longitude: 9.478
 postcode: "21682"
 city: Stade
-street: "Hansestraße"
-housenumber: 10
+street: Hansestraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00, Th 09:00-20:00, Sa 08:00-13:30"
+opening_hours: Tu-Fr 09:00-18:00, Th 09:00-20:00, Sa 08:00-13:30
 website: ""

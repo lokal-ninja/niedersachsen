@@ -4,8 +4,8 @@ latitude: 52.79556
 longitude: 8.25909
 postcode: "49377"
 city: Vechta
-street: "Heideweg"
-housenumber: 7
-phone: "+49 4447 961234"
-opening_hours: "Mo-Fr 07:30-12:30"
+street: Heideweg
+housenumber: "7"
+phone: +49 4447 961234
+opening_hours: Mo-Fr 07:30-12:30
 website: ""

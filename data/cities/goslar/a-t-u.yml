@@ -1,11 +1,11 @@
 id: 80250299
-type: way
+type: node
 latitude: 51.93168
 longitude: 10.40842
 postcode: "38644"
 city: Goslar
-street: "Carl-Zeiß-Straße"
-housenumber: 2
+street: Carl-Zeiß-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.atu.de/"
+website: https://www.atu.de/

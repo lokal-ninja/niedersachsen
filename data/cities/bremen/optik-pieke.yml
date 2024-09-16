@@ -1,11 +1,11 @@
 id: 89943876
-type: way
+type: node
 latitude: 53.17105
 longitude: 8.62257
 postcode: "28757"
 city: Bremen
-street: "Sagerstraße"
-housenumber: 16
+street: Sagerstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
-website: "https://optik-pieke.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00
+website: https://optik-pieke.de/

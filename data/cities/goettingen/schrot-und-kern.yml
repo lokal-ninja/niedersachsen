@@ -4,8 +4,9 @@ latitude: 51.56419
 longitude: 9.93707
 postcode: "37077"
 city: Göttingen
-street: "Springstraße"
-housenumber: 19
+street: Springstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo,Tu,We 09:00-13:30,15:00-18:30; Tu,Fr 09:00-18:30; Sa 08:00-13:30; PH off"
+opening_hours: Mo,Tu,We 09:00-13:30,15:00-18:30; Tu,Fr 09:00-18:30; Sa 08:00-13:30;
+    PH off
 website: ""

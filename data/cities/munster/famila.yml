@@ -1,11 +1,11 @@
 id: 34181348
-type: way
+type: node
 latitude: 52.99054
 longitude: 10.10736
 postcode: "29633"
 city: Munster
-street: "Kohlenbissener Grund"
+street: Kohlenbissener Grund
 housenumber: 8-12
-phone: "+49 519298020"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.famila-nordost.de/wqwarenhaus/munster/"
+phone: +49 519298020
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.famila-nordost.de/wqwarenhaus/munster/

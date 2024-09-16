@@ -4,8 +4,8 @@ latitude: 52.09792
 longitude: 9.38341
 postcode: "31785"
 city: Hameln
-street: "Stüvestraße"
-housenumber: 45
-phone: "+49 5151 787160"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-15:00"
+street: Stüvestraße
+housenumber: "45"
+phone: +49 5151 787160
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-15:00
 website: ""

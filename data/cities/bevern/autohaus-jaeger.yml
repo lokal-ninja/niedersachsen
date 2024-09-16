@@ -1,11 +1,11 @@
 id: 242359522
-type: way
+type: node
 latitude: 51.85223
 longitude: 9.48843
 postcode: "37639"
 city: Bevern
-street: "Flüttenweg"
-housenumber: 2
-phone: "+49 5531 993011"
+street: Flüttenweg
+housenumber: "2"
+phone: +49 5531 993011
 opening_hours: ""
 website: ""

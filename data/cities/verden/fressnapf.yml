@@ -1,11 +1,11 @@
 id: 111370474
-type: way
+type: node
 latitude: 52.95267
 longitude: 9.23805
 postcode: "27283"
 city: Verden
-street: "Neue Schulstraße"
-housenumber: 1
+street: Neue Schulstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

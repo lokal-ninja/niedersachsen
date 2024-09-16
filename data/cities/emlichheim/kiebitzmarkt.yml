@@ -1,11 +1,11 @@
 id: 89114738
-type: way
+type: node
 latitude: 52.61842
 longitude: 6.85657
 postcode: "49824"
 city: Emlichheim
-street: "Mühlenstraße"
-housenumber: 72
+street: Mühlenstraße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

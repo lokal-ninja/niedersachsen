@@ -1,11 +1,11 @@
 id: 236527261
-type: way
+type: node
 latitude: 53.39476
 longitude: 8.14087
 postcode: "26316"
 city: Varel
-street: "Obernstraße"
-housenumber: 17
-phone: "+49 4451 5935"
+street: Obernstraße
+housenumber: "17"
+phone: +49 4451 5935
 opening_hours: ""
-website: "https://www.sanitaetshaus-schlicht.de/"
+website: https://www.sanitaetshaus-schlicht.de/

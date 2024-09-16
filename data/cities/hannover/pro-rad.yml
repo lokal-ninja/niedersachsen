@@ -1,11 +1,11 @@
 id: 329068761
-type: way
+type: node
 latitude: 52.38185
 longitude: 9.74895
 postcode: "30161"
 city: Hannover
-street: "Friesenstraße"
-housenumber: 48
+street: Friesenstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; We 15:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; We 15:00-18:00; Sa 10:00-13:00
 website: ""

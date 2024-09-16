@@ -1,11 +1,11 @@
 id: 243546701
-type: way
+type: node
 latitude: 52.01086
 longitude: 10.13245
 postcode: "31167"
 city: Bockenem
-street: "Am alten Friedhof"
-housenumber: 7
+street: Am alten Friedhof
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

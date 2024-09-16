@@ -1,11 +1,11 @@
 id: 54566089
-type: way
+type: node
 latitude: 53.04549
 longitude: 7.73748
 postcode: "26683"
 city: Saterland
-street: "Hauptstraße"
-housenumber: 66
+street: Hauptstraße
+housenumber: "66"
 phone: "+494492921073"
-opening_hours: "Anfragen unter 0171 7708541"
-website: "https://www.cdu-saterland.de/index.php?ka=1&ska=profil&pid=6"
+opening_hours: '"Anfragen unter 0171 7708541"'
+website: https://www.cdu-saterland.de/index.php?ka=1&ska=profil&pid=6

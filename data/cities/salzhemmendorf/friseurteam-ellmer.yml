@@ -1,11 +1,11 @@
 id: 636579134
-type: way
+type: node
 latitude: 52.0655
 longitude: 9.58979
 postcode: "31020"
 city: Salzhemmendorf
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

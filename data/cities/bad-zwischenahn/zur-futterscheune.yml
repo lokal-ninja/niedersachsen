@@ -1,11 +1,11 @@
 id: 97946172
-type: way
+type: node
 latitude: 53.13936
 longitude: 8.13507
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Mittellinie"
-housenumber: 22
+street: Mittellinie
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.zurfutterscheune.de/"
+website: http://www.zurfutterscheune.de/

@@ -1,11 +1,11 @@
 id: 267116041
-type: way
+type: node
 latitude: 53.2489
 longitude: 8.19028
 postcode: "26180"
 city: Rastede
-street: "Raiffeisenstraße"
-housenumber: 30
-phone: "+49 4402 9728455"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off"
-website: "https://www.eiskoenig.eu/"
+street: Raiffeisenstraße
+housenumber: "30"
+phone: +49 4402 9728455
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off
+website: https://www.eiskoenig.eu/

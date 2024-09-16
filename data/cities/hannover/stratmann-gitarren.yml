@@ -1,11 +1,11 @@
 id: 233384837
-type: way
+type: node
 latitude: 52.36259
 longitude: 9.7551
 postcode: "30171"
 city: Hannover
-street: "Oesterleystraße"
+street: Oesterleystraße
 housenumber: 12A
 phone: ""
-opening_hours: "Mo-Fr 10:30-19:00"
-website: "https://www.stratmann-gitarren.de/"
+opening_hours: Mo-Fr 10:30-19:00
+website: https://www.stratmann-gitarren.de/

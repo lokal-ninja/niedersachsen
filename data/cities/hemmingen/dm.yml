@@ -1,11 +1,11 @@
 id: 651536345
-type: way
+type: node
 latitude: 52.31925
 longitude: 9.73149
 postcode: "30966"
 city: Hemmingen
-street: "Weetzener Landstraße"
-housenumber: 102
-phone: "+49 511 33099650"
-opening_hours: "Mo-Sa 08:00-21:00; Su off"
-website: "https://www.dm.de/store/de-2888/hemmingen/weetzener-landstrasse-102"
+street: Weetzener Landstraße
+housenumber: "102"
+phone: +49 511 33099650
+opening_hours: Mo-Sa 08:00-21:00; Su off
+website: https://www.dm.de/store/de-2888/hemmingen/weetzener-landstrasse-102

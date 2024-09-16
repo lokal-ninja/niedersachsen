@@ -4,8 +4,8 @@ latitude: 53.13864
 longitude: 8.23742
 postcode: "26135"
 city: Oldenburg
-street: "Stedinger Straße"
-housenumber: 141
-phone: "+49 441 2058012"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-14:00; Su,PH off"
-website: "https://anhaengervermietung-oldenburg.de"
+street: Stedinger Straße
+housenumber: "141"
+phone: +49 441 2058012
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-14:00; Su,PH off
+website: https://anhaengervermietung-oldenburg.de

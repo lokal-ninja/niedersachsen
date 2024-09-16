@@ -4,8 +4,8 @@ latitude: 53.52824
 longitude: 8.1097
 postcode: "26382"
 city: Wilhelmshaven
-street: "Rathausplatz"
-housenumber: 10
-phone: "+49 4421 23424"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; PH off"
-website: "https://www.stadtbaeckerei-siemens.de/fachgeschaefte"
+street: Rathausplatz
+housenumber: "10"
+phone: +49 4421 23424
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00; PH off
+website: https://www.stadtbaeckerei-siemens.de/fachgeschaefte

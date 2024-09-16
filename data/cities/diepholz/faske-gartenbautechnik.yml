@@ -1,11 +1,11 @@
 id: 575059853
-type: way
+type: node
 latitude: 52.62041
 longitude: 8.38808
 postcode: "49356"
 city: Diepholz
-street: "Bremer Straße"
-housenumber: 5
+street: Bremer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

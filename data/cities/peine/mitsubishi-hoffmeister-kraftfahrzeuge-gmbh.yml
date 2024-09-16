@@ -1,11 +1,11 @@
 id: 327757758
-type: way
+type: node
 latitude: 52.31823
 longitude: 10.21521
 postcode: "31226"
 city: Peine
-street: "Horst"
-housenumber: 5
-phone: "+49 5171 52357"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-12:00"
-website: "https://www.hoffmeister-kfz.de/"
+street: Horst
+housenumber: "5"
+phone: +49 5171 52357
+opening_hours: Mo-Fr 08:00-17:00; Sa 10:00-12:00
+website: https://www.hoffmeister-kfz.de/

@@ -4,8 +4,8 @@ latitude: 52.33895
 longitude: 9.71738
 postcode: "30459"
 city: Hannover
-street: "Göttinger Chaussee"
-housenumber: 159
-phone: "+49 511 2350856"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00"
+street: Göttinger Chaussee
+housenumber: "159"
+phone: +49 511 2350856
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00
 website: ""

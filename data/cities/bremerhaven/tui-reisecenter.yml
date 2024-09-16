@@ -4,8 +4,8 @@ latitude: 53.54376
 longitude: 8.57928
 postcode: "27568"
 city: Bremerhaven
-street: "Bürgermeister-Smidt-Straße"
-housenumber: 45
-phone: "+49 471 946410"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-18:00"
-website: "https://www.tui-reisecenter.de/bremerhaven1"
+street: Bürgermeister-Smidt-Straße
+housenumber: "45"
+phone: +49 471 946410
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-18:00
+website: https://www.tui-reisecenter.de/bremerhaven1

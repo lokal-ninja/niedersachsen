@@ -1,11 +1,11 @@
 id: 190601787
-type: way
+type: node
 latitude: 52.35902
 longitude: 9.85617
 postcode: "30559"
 city: Hannover
-street: "Lehrter Straße"
-housenumber: 57
+street: Lehrter Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

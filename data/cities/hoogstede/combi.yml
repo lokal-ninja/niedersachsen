@@ -1,11 +1,11 @@
 id: 26088444
-type: way
+type: node
 latitude: 52.57715
 longitude: 6.95028
 postcode: "49846"
 city: Hoogstede
-street: "Hauptstraße"
-housenumber: 57
+street: Hauptstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

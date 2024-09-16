@@ -1,11 +1,11 @@
 id: 202029764
-type: way
+type: node
 latitude: 52.15156
 longitude: 10.3326
 postcode: "38226"
 city: Salzgitter
-street: "Konrad-Adenauer-Straße"
-housenumber: 8
+street: Konrad-Adenauer-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
 website: ""

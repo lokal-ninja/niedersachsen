@@ -4,8 +4,8 @@ latitude: 53.26293
 longitude: 7.93234
 postcode: "26655"
 city: Westerstede
-street: "Am Esch"
-housenumber: 16
-phone: "+49 4488 761877"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+street: Am Esch
+housenumber: "16"
+phone: +49 4488 761877
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

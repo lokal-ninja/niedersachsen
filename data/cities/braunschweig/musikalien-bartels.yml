@@ -4,8 +4,8 @@ latitude: 52.26727
 longitude: 10.5275
 postcode: "38100"
 city: Braunschweig
-street: "Wilhelmstraße"
-housenumber: 89
-phone: "+49 531 49491"
-opening_hours: "Tu-Fr 09:30-18:30; Sa 10:00-16:00"
-website: "https://www.musik-bartels.de/"
+street: Wilhelmstraße
+housenumber: "89"
+phone: +49 531 49491
+opening_hours: Tu-Fr 09:30-18:30; Sa 10:00-16:00
+website: https://www.musik-bartels.de/

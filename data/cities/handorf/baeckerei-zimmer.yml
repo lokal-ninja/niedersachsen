@@ -4,8 +4,8 @@ latitude: 53.34419
 longitude: 10.34486
 postcode: "21447"
 city: Handorf
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-12:30; Su 07:00-11:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:30-12:30; Su 07:00-11:00
 website: ""

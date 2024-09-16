@@ -4,8 +4,8 @@ latitude: 53.38482
 longitude: 10.10593
 postcode: "21435"
 city: Stelle
-street: "Harburger Straße"
-housenumber: 22
-phone: "+49 4174 5909478"
-opening_hours: "Mo-Sa 08:00-20:00, Su 08:00-11:00"
+street: Harburger Straße
+housenumber: "22"
+phone: +49 4174 5909478
+opening_hours: Mo-Sa 08:00-20:00, Su 08:00-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 263719311
-type: way
+type: node
 latitude: 53.02666
 longitude: 8.65209
 postcode: ""
 city: Delmenhorst
-street: "Annenheider Straße"
-housenumber: 181
+street: Annenheider Straße
+housenumber: "181"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.aldi-nord.de/

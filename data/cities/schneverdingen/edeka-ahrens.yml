@@ -4,8 +4,8 @@ latitude: 53.1196
 longitude: 9.78579
 postcode: "29640"
 city: Schneverdingen
-street: "Marktstraße"
-housenumber: 6
-phone: "+49 5193 6020"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+street: Marktstraße
+housenumber: "6"
+phone: +49 5193 6020
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/

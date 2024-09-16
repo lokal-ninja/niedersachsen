@@ -4,8 +4,8 @@ latitude: 52.37484
 longitude: 9.736
 postcode: "30159"
 city: Hannover
-street: "Georgstraße"
-housenumber: 14
-phone: "+49 511 22879010"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-19:00"
+street: Georgstraße
+housenumber: "14"
+phone: +49 511 22879010
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-19:00
 website: ""

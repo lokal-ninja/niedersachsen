@@ -4,8 +4,8 @@ latitude: 52.36025
 longitude: 9.75623
 postcode: "30173"
 city: Hannover
-street: "Stüvestraße"
-housenumber: 1
+street: Stüvestraße
+housenumber: "1"
 phone: "+4951194085715"
-opening_hours: "Tu-Sa 10:00-12:00, We-Fr 15:30-18:00; PH off"
-website: "https://www.wollequeen.de/"
+opening_hours: Tu-Sa 10:00-12:00, We-Fr 15:30-18:00; PH off
+website: https://www.wollequeen.de/

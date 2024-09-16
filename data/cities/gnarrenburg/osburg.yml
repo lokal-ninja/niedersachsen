@@ -1,11 +1,11 @@
 id: 265877219
-type: way
+type: node
 latitude: 53.39001
 longitude: 9.00628
 postcode: "27442"
 city: Gnarrenburg
-street: "Waldstraße"
-housenumber: 7
+street: Waldstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

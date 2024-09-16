@@ -1,11 +1,11 @@
 id: 201583850
-type: way
+type: node
 latitude: 53.86957
 longitude: 8.70047
 postcode: "27472"
 city: Cuxhaven
-street: "Grüner Weg"
-housenumber: 2
+street: Grüner Weg
+housenumber: "2"
 phone: ""
-opening_hours: "PH off; Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: PH off; Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

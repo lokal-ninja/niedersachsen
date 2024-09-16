@@ -1,11 +1,11 @@
 id: 123970682
-type: way
+type: node
 latitude: 52.42946
 longitude: 10.53355
 postcode: "38551"
 city: Ribbesbüttel
-street: "Gifhorner Straße"
-housenumber: 5
+street: Gifhorner Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.weber-kuechen.com/"
+website: https://www.weber-kuechen.com/

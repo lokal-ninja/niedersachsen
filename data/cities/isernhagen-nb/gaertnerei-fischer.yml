@@ -1,11 +1,11 @@
 id: 60168681
-type: way
+type: node
 latitude: 52.45183
 longitude: 9.78626
 postcode: "30916"
 city: Isernhagen NB
-street: "Fuhrbleek"
-housenumber: 42
+street: Fuhrbleek
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.fischer-isernhagen.de"
+website: https://www.fischer-isernhagen.de

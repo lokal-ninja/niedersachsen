@@ -1,11 +1,11 @@
 id: 180782698
-type: way
+type: node
 latitude: 52.60851
 longitude: 6.86288
 postcode: "49824"
 city: Emlichheim
-street: "Ringer Straße"
-housenumber: 51
+street: Ringer Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

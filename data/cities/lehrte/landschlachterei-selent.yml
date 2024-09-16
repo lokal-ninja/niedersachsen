@@ -1,11 +1,11 @@
 id: 198658862
-type: way
+type: node
 latitude: 52.39256
 longitude: 10.08377
 postcode: "31275"
 city: Lehrte
-street: "Immenser Straße"
-housenumber: 8
-phone: "+49 5175 2906"
+street: Immenser Straße
+housenumber: "8"
+phone: +49 5175 2906
 opening_hours: ""
 website: ""

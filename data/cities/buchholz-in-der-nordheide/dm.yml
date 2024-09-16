@@ -4,8 +4,8 @@ latitude: 53.32754
 longitude: 9.87976
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Breite Straße"
-housenumber: 16
-phone: "+49 4181 3704819"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.dm.de"
+street: Breite Straße
+housenumber: "16"
+phone: +49 4181 3704819
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.dm.de

@@ -1,11 +1,11 @@
 id: 166044639
-type: way
+type: node
 latitude: 53.52713
 longitude: 7.9454
 postcode: "26419"
 city: Schortens
-street: "Klein-Ostiemer-Weg"
+street: Klein-Ostiemer-Weg
 housenumber: 2A;2
-phone: "+49 4461-80010"
+phone: +49 4461-80010
 opening_hours: ""
 website: ""

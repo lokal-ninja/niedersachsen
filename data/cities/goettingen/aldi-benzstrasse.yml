@@ -1,11 +1,11 @@
 id: 1174669100
-type: way
+type: node
 latitude: 51.51181
 longitude: 9.9402
 postcode: "37083"
 city: Göttingen
-street: "Benzstraße"
-housenumber: 4
+street: Benzstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

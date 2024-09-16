@@ -1,11 +1,11 @@
 id: 234019312
-type: way
+type: node
 latitude: 52.70353
 longitude: 9.24093
 postcode: "31627"
 city: Rohrsen
-street: "Am Büschen"
-housenumber: 1
+street: Am Büschen
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

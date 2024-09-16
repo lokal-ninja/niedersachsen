@@ -1,11 +1,11 @@
 id: 404248781
-type: way
+type: node
 latitude: 53.09971
 longitude: 8.48849
 postcode: "27798"
 city: Hude (Oldenburg)
-street: "Langenberger Straße"
-housenumber: 61
+street: Langenberger Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

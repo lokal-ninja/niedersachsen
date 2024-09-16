@@ -1,11 +1,11 @@
 id: 459169884
-type: way
+type: node
 latitude: 53.20582
 longitude: 8.14806
 postcode: "26215"
 city: Wiefelstede
-street: "Bremerstraße"
-housenumber: 2
+street: Bremerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 966303599
-type: way
+type: node
 latitude: 52.22561
 longitude: 10.56391
 postcode: "38126"
 city: Braunschweig
-street: "Alte Kirchstraße"
-housenumber: 9
-phone: "+49 531 26 22 40 0"
+street: Alte Kirchstraße
+housenumber: "9"
+phone: +49 531 26 22 40 0
 opening_hours: ""
 website: ""

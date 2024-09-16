@@ -1,11 +1,11 @@
 id: 226065945
-type: way
+type: node
 latitude: 53.32571
 longitude: 8.46113
 postcode: "26919"
 city: Brake
-street: "Breite Straße"
-housenumber: 200
+street: Breite Straße
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

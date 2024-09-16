@@ -1,11 +1,11 @@
 id: 194530869
-type: way
+type: node
 latitude: 52.44612
 longitude: 10.03981
 postcode: "31303"
 city: Burgdorf
-street: "Leineweberstraße"
-housenumber: 4
+street: Leineweberstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.werkzeuge-dietrich.de"
+website: http://www.werkzeuge-dietrich.de

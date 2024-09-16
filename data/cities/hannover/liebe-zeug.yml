@@ -4,8 +4,8 @@ latitude: 52.38949
 longitude: 9.7491
 postcode: "30163"
 city: Hannover
-street: "Edenstraße"
-housenumber: 48
-phone: "+49 511 72719321"
-opening_hours: "We-Fr 10:00-18:00; Sa 10:00-15:00; Mo,Tu off"
-website: "https://www.liebeundzeug.de/"
+street: Edenstraße
+housenumber: "48"
+phone: +49 511 72719321
+opening_hours: We-Fr 10:00-18:00; Sa 10:00-15:00; Mo,Tu off
+website: https://www.liebeundzeug.de/

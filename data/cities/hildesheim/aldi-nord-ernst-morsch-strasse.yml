@@ -1,11 +1,11 @@
 id: 124340557
-type: way
+type: node
 latitude: 52.16775
 longitude: 9.93448
 postcode: ""
 city: Hildesheim
-street: "Ernst-Morsch-Straße"
-housenumber: 9
+street: Ernst-Morsch-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

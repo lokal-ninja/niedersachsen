@@ -1,11 +1,11 @@
 id: 577674052
-type: way
+type: node
 latitude: 53.22121
 longitude: 7.75451
 postcode: "26689"
 city: Apen
-street: "Südgeorgsfehner Straße"
-housenumber: 5
-phone: "+49 4489 1326"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
-website: "https://www.hinrichs-augustfehn.de/"
+street: Südgeorgsfehner Straße
+housenumber: "5"
+phone: +49 4489 1326
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
+website: https://www.hinrichs-augustfehn.de/

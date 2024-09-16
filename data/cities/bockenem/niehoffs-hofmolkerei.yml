@@ -1,11 +1,11 @@
 id: 1160168686
-type: way
+type: node
 latitude: 52.02495
 longitude: 10.06324
 postcode: "31167"
 city: Bockenem
-street: "Nordholz"
-housenumber: 7
+street: Nordholz
+housenumber: "7"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.niehoffs-hofmolkerei.de/"
+opening_hours: 24/7
+website: https://www.niehoffs-hofmolkerei.de/

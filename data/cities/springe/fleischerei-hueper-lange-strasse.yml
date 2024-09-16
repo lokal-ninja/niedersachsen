@@ -1,11 +1,11 @@
 id: 582584722
-type: way
+type: node
 latitude: 52.17105
 longitude: 9.65215
 postcode: "31832"
 city: Springe
-street: "Lange Straße"
-housenumber: 2
-phone: "+49 5044 8412"
-opening_hours: "Mo-Fr 07:00-13:00,15:00-18:00; Sa 07:00-13:00"
-website: "http://www.fleischerei-hueper.de/"
+street: Lange Straße
+housenumber: "2"
+phone: +49 5044 8412
+opening_hours: Mo-Fr 07:00-13:00,15:00-18:00; Sa 07:00-13:00
+website: http://www.fleischerei-hueper.de/

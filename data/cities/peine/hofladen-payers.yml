@@ -1,11 +1,11 @@
 id: 167553441
-type: way
+type: node
 latitude: 52.29816
 longitude: 10.27027
 postcode: "31226"
 city: Peine
-street: "Alte Landstraße"
-housenumber: 14
+street: Alte Landstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 08:00-11:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.32858
 longitude: 9.7818
 postcode: "30519"
 city: Hannover
-street: "Am Mittelfelde"
-housenumber: 27
-phone: "+49 511 93689013"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.tesla.com/de_de/findus/location/store/3951"
+street: Am Mittelfelde
+housenumber: "27"
+phone: +49 511 93689013
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.tesla.com/de_de/findus/location/store/3951

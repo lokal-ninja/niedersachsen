@@ -1,11 +1,11 @@
 id: 154186661
-type: way
+type: node
 latitude: 52.24275
 longitude: 8.03514
 postcode: "49082"
 city: Osnabrück
-street: "Am Wulfter Turm"
+street: Am Wulfter Turm
 housenumber: 2a
-phone: "+49 541 96253130"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.rossmann.de/de/filialen/niedersachsen/osnabrueck/am-wulfter-turm-2-a.html"
+phone: +49 541 96253130
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.rossmann.de/de/filialen/niedersachsen/osnabrueck/am-wulfter-turm-2-a.html

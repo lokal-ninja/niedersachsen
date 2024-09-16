@@ -4,8 +4,9 @@ latitude: 52.21242
 longitude: 9.54729
 postcode: "31832"
 city: Springe
-street: "Bernauer Straße"
+street: Bernauer Straße
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00;Sa 07:00-19:00;Su 08:00-12:30|| open nur Tanken, Zahlung mit Karte am Automaten"
-website: "http://tanke.webnode.com/"
+opening_hours: Mo-Fr 06:00-20:00;Sa 07:00-19:00;Su 08:00-12:30|| open "nur Tanken,
+    Zahlung mit Karte am Automaten"
+website: http://tanke.webnode.com/

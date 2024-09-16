@@ -1,11 +1,11 @@
 id: 34604191
-type: way
+type: node
 latitude: 53.57246
 longitude: 8.59981
 postcode: "27580"
 city: Bremerhaven
-street: "Pferdebade"
-housenumber: 6
+street: Pferdebade
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "www.kaufland.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: www.kaufland.de

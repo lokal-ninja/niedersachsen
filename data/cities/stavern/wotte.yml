@@ -1,11 +1,11 @@
 id: 250274592
-type: way
+type: node
 latitude: 52.79596
 longitude: 7.43119
 postcode: "49777"
 city: Stavern
-street: "Lange Straße"
-housenumber: 3
+street: Lange Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-12:00; Su 08:00-10:00"
+opening_hours: Mo-Sa 06:00-12:00; Su 08:00-10:00
 website: ""

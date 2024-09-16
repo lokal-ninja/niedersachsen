@@ -4,8 +4,8 @@ latitude: 53.35008
 longitude: 9.86632
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Nordring"
-housenumber: 6
-phone: "+49 4181 999660"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.obi.de/"
+street: Nordring
+housenumber: "6"
+phone: +49 4181 999660
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.obi.de/

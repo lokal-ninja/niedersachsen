@@ -1,11 +1,11 @@
 id: 123847370
-type: way
+type: node
 latitude: 53.46981
 longitude: 7.30862
 postcode: "26624"
 city: Südbrookmerland
-street: "Gewerbestraße"
-housenumber: 10
+street: Gewerbestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

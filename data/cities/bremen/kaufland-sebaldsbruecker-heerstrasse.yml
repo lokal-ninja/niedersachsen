@@ -1,11 +1,11 @@
 id: 333368847
-type: way
+type: node
 latitude: 53.05963
 longitude: 8.89327
 postcode: "28309"
 city: Bremen
-street: "Sebaldsbrücker Heerstraße"
-housenumber: 155
-phone: "+49 421 48997580"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+street: Sebaldsbrücker Heerstraße
+housenumber: "155"
+phone: +49 421 48997580
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

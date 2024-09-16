@@ -4,8 +4,8 @@ latitude: 52.98285
 longitude: 9.18083
 postcode: "27299"
 city: Langwedel
-street: "Roggenkamp"
-housenumber: 5
+street: Roggenkamp
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Th 08:30-17:00; We 13:00-17:00; Fr,Sa,Su,PH off"
-website: "https://seitz-hofladen.de/"
+opening_hours: Mo,Th 08:30-17:00; We 13:00-17:00; Fr,Sa,Su,PH off
+website: https://seitz-hofladen.de/

@@ -1,11 +1,11 @@
 id: 24803365
-type: way
+type: node
 latitude: 52.32955
 longitude: 10.51864
 postcode: "38110"
 city: Braunschweig
-street: "Wendenmühle"
-housenumber: 5
+street: Wendenmühle
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

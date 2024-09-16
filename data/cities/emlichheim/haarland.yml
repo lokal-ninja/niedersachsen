@@ -1,11 +1,11 @@
 id: 154324403
-type: way
+type: node
 latitude: 52.60585
 longitude: 6.85401
 postcode: "49824"
 city: Emlichheim
-street: "Wilsumer Straße"
-housenumber: 3
+street: Wilsumer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

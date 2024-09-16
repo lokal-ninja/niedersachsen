@@ -1,11 +1,11 @@
 id: 244083228
-type: way
+type: node
 latitude: 53.1567
 longitude: 8.94228
 postcode: "28865"
 city: Lilienthal
-street: "Falkenberger Landstraße"
-housenumber: 105
+street: Falkenberger Landstraße
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

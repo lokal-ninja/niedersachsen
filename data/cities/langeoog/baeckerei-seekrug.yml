@@ -1,11 +1,11 @@
 id: 189763490
-type: way
+type: node
 latitude: 53.74807
 longitude: 7.48456
 postcode: "26465"
 city: Langeoog
-street: "Gartenstraße"
-housenumber: 14
+street: Gartenstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo,Tu off; PH,We-Su 08:00-17:30"
+opening_hours: Mo,Tu off; PH,We-Su 08:00-17:30
 website: ""

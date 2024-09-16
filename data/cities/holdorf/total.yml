@@ -1,11 +1,11 @@
 id: 118795517
-type: way
+type: node
 latitude: 52.59755
 longitude: 8.11782
 postcode: "49451"
 city: Holdorf
-street: "Zum Hansa-Center"
-housenumber: 2
+street: Zum Hansa-Center
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

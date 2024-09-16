@@ -4,8 +4,8 @@ latitude: 53.15905
 longitude: 8.20908
 postcode: "26121"
 city: Oldenburg
-street: "Alexanderstraße"
-housenumber: 160
-phone: "+49 441 883031"
-opening_hours: "Mo off || Termine nur nach Vereinbarung"
-website: "https://cosmetic-puttkammer.de"
+street: Alexanderstraße
+housenumber: "160"
+phone: +49 441 883031
+opening_hours: Mo off || "Termine nur nach Vereinbarung"
+website: https://cosmetic-puttkammer.de

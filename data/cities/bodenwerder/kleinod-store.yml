@@ -1,11 +1,11 @@
 id: 504463706
-type: way
+type: node
 latitude: 51.97741
 longitude: 9.51548
 postcode: "37619"
 city: Bodenwerder
-street: "Große Straße"
-housenumber: 57
+street: Große Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://kleinod.store/"
+website: https://kleinod.store/

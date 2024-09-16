@@ -1,11 +1,11 @@
 id: 263796203
-type: way
+type: node
 latitude: 53.60162
 longitude: 9.48853
 postcode: "21680"
 city: Stade
-street: "Altländer Straße"
-housenumber: 42
-phone: "+49 4141 95430"
-opening_hours: "Mo-Fr 7:00-18:00, Sa 7:15-13:00"
-website: "https://www.autohaus-dede.de/"
+street: Altländer Straße
+housenumber: "42"
+phone: +49 4141 95430
+opening_hours: Mo-Fr 7:00-18:00, Sa 7:15-13:00
+website: https://www.autohaus-dede.de/

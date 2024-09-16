@@ -1,11 +1,11 @@
 id: 77867736
-type: way
+type: node
 latitude: 53.58158
 longitude: 7.90666
 postcode: "26441"
 city: Jever
-street: "Am Bullhamm"
-housenumber: 1
+street: Am Bullhamm
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

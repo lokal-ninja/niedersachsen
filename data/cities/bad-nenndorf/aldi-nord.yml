@@ -4,8 +4,8 @@ latitude: 52.33561
 longitude: 9.40366
 postcode: "31542"
 city: Bad Nenndorf
-street: "Piepmühle"
-housenumber: 5
+street: Piepmühle
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/

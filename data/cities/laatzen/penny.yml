@@ -1,11 +1,11 @@
 id: 24651775
-type: way
+type: node
 latitude: 52.30065
 longitude: 9.81864
 postcode: "30880"
 city: Laatzen
-street: "Schubertweg"
-housenumber: 1
+street: Schubertweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

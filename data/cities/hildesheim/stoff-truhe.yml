@@ -4,8 +4,8 @@ latitude: 52.15724
 longitude: 9.95229
 postcode: "31134"
 city: Hildesheim
-street: "Bernwardstraße"
-housenumber: 3
-phone: "+49 5121 515004"
-opening_hours: "Mo-Fr 09:30-17:00; Sa 09:30-13:00"
+street: Bernwardstraße
+housenumber: "3"
+phone: +49 5121 515004
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:30-13:00
 website: ""

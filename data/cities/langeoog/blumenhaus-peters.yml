@@ -4,8 +4,8 @@ latitude: 53.74615
 longitude: 7.48074
 postcode: "26465"
 city: Langeoog
-street: "Kirchstraße"
-housenumber: 6
-phone: "+49 4972 411"
-opening_hours: "Mo-Fr 08:30-12:30; Sa 08:30-12:30"
-website: "https://www.blumenhaus-peters.de/"
+street: Kirchstraße
+housenumber: "6"
+phone: +49 4972 411
+opening_hours: Mo-Fr 08:30-12:30; Sa 08:30-12:30
+website: https://www.blumenhaus-peters.de/

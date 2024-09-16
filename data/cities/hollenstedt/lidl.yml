@@ -4,8 +4,8 @@ latitude: 53.3661
 longitude: 9.70878
 postcode: "21279"
 city: Hollenstedt
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

@@ -1,11 +1,11 @@
 id: 233310895
-type: way
+type: node
 latitude: 53.18429
 longitude: 8.19094
 postcode: "26127"
 city: Oldenburg
-street: "Haßforter Straße"
-housenumber: 
+street: Haßforter Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

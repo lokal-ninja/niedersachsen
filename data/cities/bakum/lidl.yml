@@ -1,11 +1,11 @@
 id: 369344762
-type: way
+type: node
 latitude: 52.73824
 longitude: 8.19871
 postcode: "49456"
 city: Bakum
-street: "Sütholter Straße"
-housenumber: 3
+street: Sütholter Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 95532612
-type: way
+type: node
 latitude: 53.38334
 longitude: 7.35187
 postcode: "26632"
 city: Ihlow
-street: "Schmiedestraße"
-housenumber: 19
-phone: "+49 4928 914790"
+street: Schmiedestraße
+housenumber: "19"
+phone: +49 4928 914790
 opening_hours: ""
-website: "https://fuf-fisch.de/"
+website: https://fuf-fisch.de/

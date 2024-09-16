@@ -4,8 +4,8 @@ latitude: 52.62743
 longitude: 9.22389
 postcode: "31582"
 city: Nienburg/Weser
-street: "Hannoversche Straße"
-housenumber: 96
-phone: "+49 5021 2633"
-opening_hours: "Tu, Th, Fr 07:00-13:00, 15:00-18:00; We 07:00-13:00; Sa 07:00-12:00"
-website: "https://partyservice-martin-nienburg.de/"
+street: Hannoversche Straße
+housenumber: "96"
+phone: +49 5021 2633
+opening_hours: Tu, Th, Fr 07:00-13:00, 15:00-18:00; We 07:00-13:00; Sa 07:00-12:00
+website: https://partyservice-martin-nienburg.de/

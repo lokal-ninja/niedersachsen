@@ -1,11 +1,11 @@
 id: 97372928
-type: way
+type: node
 latitude: 53.84365
 longitude: 8.694
 postcode: "27472"
 city: Cuxhaven
-street: "Abschnede"
-housenumber: 203
+street: Abschnede
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

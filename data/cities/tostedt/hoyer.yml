@@ -4,8 +4,8 @@ latitude: 53.28793
 longitude: 9.72569
 postcode: "21255"
 city: Tostedt
-street: "Friedrich-Vorwerk-Straße"
-housenumber: 24
-phone: "+49 4182 1330"
-opening_hours: "Mo-Fr 05:30-21:00; Sa,Su 08:00-20:00"
-website: "https://www.hoyer.de"
+street: Friedrich-Vorwerk-Straße
+housenumber: "24"
+phone: +49 4182 1330
+opening_hours: Mo-Fr 05:30-21:00; Sa,Su 08:00-20:00
+website: https://www.hoyer.de

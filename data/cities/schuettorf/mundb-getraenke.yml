@@ -4,8 +4,8 @@ latitude: 52.32351
 longitude: 7.2273
 postcode: "48465"
 city: Schüttorf
-street: "Salzberger Straße"
-housenumber: 3
-phone: "+49 5923 5086"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-14:00; Su,Mo off"
+street: Salzberger Straße
+housenumber: "3"
+phone: +49 5923 5086
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-14:00; Su,Mo off
 website: ""

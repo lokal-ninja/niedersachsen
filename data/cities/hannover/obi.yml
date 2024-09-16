@@ -1,11 +1,11 @@
 id: 51876536
-type: way
+type: node
 latitude: 52.357
 longitude: 9.71358
 postcode: "30449"
 city: Hannover
-street: "Elfriede-Paul-Allee"
-housenumber: 15
+street: Elfriede-Paul-Allee
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

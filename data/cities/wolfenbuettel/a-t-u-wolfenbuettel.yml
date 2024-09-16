@@ -1,11 +1,11 @@
 id: 296741046
-type: way
+type: node
 latitude: 52.15003
 longitude: 10.54151
 postcode: "38304"
 city: Wolfenbüttel
-street: "Halchtersche Straße"
-housenumber: 105
+street: Halchtersche Straße
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

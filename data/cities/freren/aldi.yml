@@ -1,11 +1,11 @@
 id: 803090509
-type: way
+type: node
 latitude: 52.48154
 longitude: 7.54381
 postcode: "49832"
 city: Freren
-street: "Beestener Straße"
-housenumber: 6
+street: Beestener Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

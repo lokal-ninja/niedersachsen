@@ -1,11 +1,11 @@
 id: 222794967
-type: way
+type: node
 latitude: 52.00958
 longitude: 10.13226
 postcode: "31167"
 city: Bockenem
-street: "Steintorstraße"
-housenumber: 6
+street: Steintorstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 972250917
-type: way
+type: node
 latitude: 52.78046
 longitude: 9.21925
 postcode: "27324"
 city: Eystrup
-street: "Bahnhofstraße"
-housenumber: 27
+street: Bahnhofstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo,Fr 13:00-17:00"
+opening_hours: Mo,Fr 13:00-17:00
 website: ""

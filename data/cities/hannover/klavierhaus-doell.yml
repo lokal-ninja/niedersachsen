@@ -1,11 +1,11 @@
 id: 312748434
-type: way
+type: node
 latitude: 52.37213
 longitude: 9.73601
 postcode: "30159"
 city: Hannover
-street: "Schmiedestraße"
-housenumber: 8
+street: Schmiedestraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 12:00-16:00"
+opening_hours: Mo-Sa 12:00-16:00
 website: ""

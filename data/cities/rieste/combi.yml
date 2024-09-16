@@ -1,11 +1,11 @@
 id: 255403720
-type: way
+type: node
 latitude: 52.48032
 longitude: 8.00899
 postcode: "49597"
 city: Rieste
-street: "Roggenkamp"
-housenumber: 1
-phone: "+49 5464 968338"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+street: Roggenkamp
+housenumber: "1"
+phone: +49 5464 968338
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

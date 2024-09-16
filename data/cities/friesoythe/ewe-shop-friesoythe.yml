@@ -4,8 +4,8 @@ latitude: 53.0198
 longitude: 7.85786
 postcode: "26169"
 city: Friesoythe
-street: "Moorstraße"
-housenumber: 8
+street: Moorstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00;Sa 09:00-13:00"
-website: "https://www.ewe.de"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00;Sa 09:00-13:00
+website: https://www.ewe.de

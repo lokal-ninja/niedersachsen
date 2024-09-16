@@ -1,11 +1,11 @@
 id: 180685972
-type: way
+type: node
 latitude: 53.74581
 longitude: 7.49071
 postcode: "26465"
 city: Langeoog
-street: "Melkerpad"
-housenumber: 20
+street: Melkerpad
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

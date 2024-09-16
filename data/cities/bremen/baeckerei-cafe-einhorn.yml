@@ -4,8 +4,8 @@ latitude: 53.07535
 longitude: 8.82295
 postcode: "28203"
 city: Bremen
-street: "Am Dobben"
-housenumber: 98
-phone: "+49 421 69674800"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 06:30-15:00; Su 07:30-15:00"
+street: Am Dobben
+housenumber: "98"
+phone: +49 421 69674800
+opening_hours: Mo-Fr 06:30-17:00; Sa 06:30-15:00; Su 07:30-15:00
 website: ""

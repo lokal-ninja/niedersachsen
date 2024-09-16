@@ -4,8 +4,8 @@ latitude: 53.50846
 longitude: 8.59589
 postcode: ""
 city: Bremerhaven
-street: "Weserstraße"
-housenumber: 112
+street: Weserstraße
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://www.edeka.de/eh/minden-hannover/edeka-center-wulsdorf-weserstr.-112/index.jsp"
+website: https://www.edeka.de/eh/minden-hannover/edeka-center-wulsdorf-weserstr.-112/index.jsp

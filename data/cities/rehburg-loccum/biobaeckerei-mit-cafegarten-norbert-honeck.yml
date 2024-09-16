@@ -4,8 +4,8 @@ latitude: 52.44704
 longitude: 9.26048
 postcode: "31547"
 city: Rehburg-Loccum
-street: "Südstraße"
-housenumber: 14
-phone: "+49 5037 5433"
-opening_hours: "Sa 06:30-14:00; May-Sep We 12:00-17:00 Holzbackofen Tag"
-website: "https://www.norberthoneck.de/"
+street: Südstraße
+housenumber: "14"
+phone: +49 5037 5433
+opening_hours: Sa 06:30-14:00; May-Sep We 12:00-17:00 "Holzbackofen Tag"
+website: https://www.norberthoneck.de/

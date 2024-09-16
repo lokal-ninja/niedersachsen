@@ -4,8 +4,8 @@ latitude: 52.10614
 longitude: 9.35544
 postcode: "31785"
 city: Hameln
-street: "Thietorstraße"
-housenumber: 1
+street: Thietorstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.beautysalon-luna.de"
+website: https://www.beautysalon-luna.de

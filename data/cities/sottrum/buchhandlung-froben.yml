@@ -4,8 +4,8 @@ latitude: 53.11506
 longitude: 9.23002
 postcode: "27367"
 city: Sottrum
-street: "Große Straße"
-housenumber: 18
+street: Große Straße
+housenumber: "18"
 phone: "+4942643929908"
-opening_hours: "Mo-Fr 9:00-13:00, 14:30-18:30; Sa 09:00-13:00"
-website: "http://www.buchhandlung-froben.de/"
+opening_hours: Mo-Fr 9:00-13:00, 14:30-18:30; Sa 09:00-13:00
+website: http://www.buchhandlung-froben.de/

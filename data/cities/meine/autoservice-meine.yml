@@ -1,11 +1,11 @@
 id: 177942931
-type: way
+type: node
 latitude: 52.38544
 longitude: 10.53281
 postcode: "38527"
 city: Meine
-street: "An der Bahn"
-housenumber: 3
-phone: "+49 5304 5009824"
+street: An der Bahn
+housenumber: "3"
+phone: +49 5304 5009824
 opening_hours: ""
-website: "https://www.autoservice-meine.de"
+website: https://www.autoservice-meine.de

@@ -4,8 +4,8 @@ latitude: 53.28071
 longitude: 9.71106
 postcode: "21255"
 city: Tostedt
-street: "Unter den Linden"
-housenumber: 5
+street: Unter den Linden
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-16:00"
-website: "https://www.ernstings-family.de/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-16:00
+website: https://www.ernstings-family.de/

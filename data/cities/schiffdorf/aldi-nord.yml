@@ -1,11 +1,11 @@
 id: 463210034
-type: way
+type: node
 latitude: 53.52669
 longitude: 8.64438
 postcode: "27619"
 city: Schiffdorf
-street: "Zum Feldkamp"
+street: Zum Feldkamp
 housenumber: 16a
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/schiffdorf/zum-feldkamp-16a.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/schiffdorf/zum-feldkamp-16a.html

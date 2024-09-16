@@ -1,11 +1,11 @@
 id: 126065606
-type: way
+type: node
 latitude: 52.48608
 longitude: 10.5479
 postcode: "38518"
 city: Gifhorn
-street: "Steinweg"
-housenumber: 29
+street: Steinweg
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
 website: ""

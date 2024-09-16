@@ -4,8 +4,8 @@ latitude: 51.6559
 longitude: 10.33881
 postcode: "37412"
 city: Herzberg am Harz
-street: "Hauptstraße"
-housenumber: 51
+street: Hauptstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.fietz-hoergeraete.de/Home"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.fietz-hoergeraete.de/Home

@@ -1,11 +1,11 @@
 id: 681196609
-type: way
+type: node
 latitude: 52.46948
 longitude: 10.5475
 postcode: "38518"
 city: Gifhorn
-street: "Limbergstraße"
-housenumber: 53
+street: Limbergstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:45"
+opening_hours: Mo-Sa 07:00-21:45
 website: ""

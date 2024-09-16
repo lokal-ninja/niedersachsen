@@ -1,11 +1,11 @@
 id: 330657513
-type: way
+type: node
 latitude: 53.77509
 longitude: 8.63694
 postcode: "27639"
 city: Wurster Nordseeküste
-street: "Bundesstraße"
+street: Bundesstraße
 housenumber: 20a
-phone: "+49 47417309"
-opening_hours: "Mo-Fr 05:30-21:30; Sa 07:00-21:30; Su 08:00-21:30"
+phone: +49 47417309
+opening_hours: Mo-Fr 05:30-21:30; Sa 07:00-21:30; Su 08:00-21:30
 website: ""

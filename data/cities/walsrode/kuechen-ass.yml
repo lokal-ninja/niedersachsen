@@ -4,8 +4,8 @@ latitude: 52.8622
 longitude: 9.59298
 postcode: "29664"
 city: Walsrode
-street: "Poststraße"
-housenumber: 3
+street: Poststraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://kuechenass.gmbh/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://kuechenass.gmbh/

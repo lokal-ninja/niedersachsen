@@ -1,11 +1,11 @@
 id: 355456120
-type: way
+type: node
 latitude: 52.69063
 longitude: 9.23435
 postcode: "31623"
 city: Drakenburg
 street: ""
-housenumber: 
-phone: "+49 5024 981516"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.schwarz-powersport.de/"
+housenumber: ""
+phone: +49 5024 981516
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.schwarz-powersport.de/

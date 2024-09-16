@@ -1,11 +1,11 @@
 id: 89985484
-type: way
+type: node
 latitude: 52.36303
 longitude: 9.76341
 postcode: "30171"
 city: Hannover
-street: "Spielhagenstraße"
-housenumber: 20
+street: Spielhagenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de

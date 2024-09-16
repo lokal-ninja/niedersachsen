@@ -1,11 +1,11 @@
 id: 290873380
-type: way
+type: node
 latitude: 52.34428
 longitude: 10.29444
 postcode: "31224"
 city: Peine
-street: "Eilhart-Von-Oberg-Straße"
-housenumber: 25
+street: Eilhart-Von-Oberg-Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

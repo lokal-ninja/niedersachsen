@@ -1,11 +1,11 @@
 id: 286455112
-type: way
+type: node
 latitude: 52.20918
 longitude: 8.33389
 postcode: "49324"
 city: Melle
-street: "Oldendorfer Straße"
-housenumber: 42
+street: Oldendorfer Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

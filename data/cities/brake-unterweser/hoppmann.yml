@@ -4,8 +4,8 @@ latitude: 53.33375
 longitude: 8.46148
 postcode: "26919"
 city: Brake (Unterweser)
-street: "Weserstraße"
-housenumber: 80
-phone: "04401-829864"
-opening_hours: "Mo-Sa: 8:00-20:00"
-website: "https://baeckerei-hoppmann.de/filiale/famila-brake/"
+street: Weserstraße
+housenumber: "80"
+phone: 04401-829864
+opening_hours: 'Mo-Sa: 8:00-20:00'
+website: https://baeckerei-hoppmann.de/filiale/famila-brake/

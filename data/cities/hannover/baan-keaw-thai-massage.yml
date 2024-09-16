@@ -4,8 +4,8 @@ latitude: 52.36913
 longitude: 9.74951
 postcode: "30171"
 city: Hannover
-street: "Marienstraße"
-housenumber: 42
+street: Marienstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:00; Sa 11:00-16:00"
-website: "https://www.baan-keaw-thaimassage.de/"
+opening_hours: Mo-Fr 10:30-18:00; Sa 11:00-16:00
+website: https://www.baan-keaw-thaimassage.de/

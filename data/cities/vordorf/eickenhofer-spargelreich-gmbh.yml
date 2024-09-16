@@ -1,11 +1,11 @@
 id: 1079369824
-type: way
+type: node
 latitude: 52.35524
 longitude: 10.49025
 postcode: "38533"
 city: Vordorf
-street: "Eickenhof"
-housenumber: 4
-phone: "+49 5304 919319"
+street: Eickenhof
+housenumber: "4"
+phone: +49 5304 919319
 opening_hours: ""
 website: ""

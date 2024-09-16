@@ -4,8 +4,9 @@ latitude: 52.09772
 longitude: 10.14149
 postcode: "31188"
 city: Holle
-street: "Bahnhofstraße"
-housenumber: 49
+street: Bahnhofstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mar-Sep: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; Mar-Sep: We,Sa 09:00-13:00; Oct-Feb: Tu,Th,Fr 09:00-13:00,14:00-18:00;Oct-Feb: Sa 09:00-13:00"
-website: "https://www.zweiradwerkstatt-schaefer.de/"
+opening_hours: 'Mar-Sep: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; Mar-Sep: We,Sa 09:00-13:00;
+    Oct-Feb: Tu,Th,Fr 09:00-13:00,14:00-18:00;Oct-Feb: Sa 09:00-13:00'
+website: https://www.zweiradwerkstatt-schaefer.de/

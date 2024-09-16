@@ -1,11 +1,11 @@
 id: 208236131
-type: way
+type: node
 latitude: 52.27307
 longitude: 9.57372
 postcode: "30974"
 city: Wennigsen (Deister)
-street: "Hauptstraße"
-housenumber: 3
-phone: "+49 5103 2334"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.heitmueller.eu/"
+street: Hauptstraße
+housenumber: "3"
+phone: +49 5103 2334
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.heitmueller.eu/

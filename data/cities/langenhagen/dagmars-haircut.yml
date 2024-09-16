@@ -1,11 +1,11 @@
 id: 1107317026
-type: way
+type: node
 latitude: 52.44671
 longitude: 9.66294
 postcode: "30855"
 city: Langenhagen
-street: "Kirchstraße"
-housenumber: 17
-phone: "+49 511 782674"
+street: Kirchstraße
+housenumber: "17"
+phone: +49 511 782674
 opening_hours: ""
 website: ""

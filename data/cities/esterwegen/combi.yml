@@ -4,8 +4,8 @@ latitude: 52.97004
 longitude: 7.62437
 postcode: "26897"
 city: Esterwegen
-street: "Südstraße"
-housenumber: 1
-phone: "+49 5955 1513"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: Südstraße
+housenumber: "1"
+phone: +49 5955 1513
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

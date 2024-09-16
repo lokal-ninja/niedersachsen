@@ -1,11 +1,11 @@
 id: 433845942
-type: way
+type: node
 latitude: 52.26188
 longitude: 8.06982
 postcode: "49084"
 city: Osnabrück
-street: "Hannoversche Straße"
-housenumber: 48
-phone: "+49 541 5068129"
-opening_hours: "Mo-Sa 05:30-20:00"
-website: "https://www.wellmann-baeckerei.de/"
+street: Hannoversche Straße
+housenumber: "48"
+phone: +49 541 5068129
+opening_hours: Mo-Sa 05:30-20:00
+website: https://www.wellmann-baeckerei.de/

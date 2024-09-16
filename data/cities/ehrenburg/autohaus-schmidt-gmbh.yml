@@ -1,11 +1,11 @@
 id: 1127507584
-type: way
+type: node
 latitude: 52.74874
 longitude: 8.70259
 postcode: "27248"
 city: Ehrenburg
-street: "Hauptstraße"
-housenumber: 8
-phone: "+49 427 596 4080"
-opening_hours: "Mo-Th 07:45-18:00; Fr 07:45-16:00; Sa 07:45-12:00"
-website: "https://www.opel-schmidt.de/"
+street: Hauptstraße
+housenumber: "8"
+phone: +49 427 596 4080
+opening_hours: Mo-Th 07:45-18:00; Fr 07:45-16:00; Sa 07:45-12:00
+website: https://www.opel-schmidt.de/

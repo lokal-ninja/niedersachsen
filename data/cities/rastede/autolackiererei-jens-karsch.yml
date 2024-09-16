@@ -1,11 +1,11 @@
 id: 514934337
-type: way
+type: node
 latitude: 53.21728
 longitude: 8.23367
 postcode: "26180"
 city: Rastede
-street: "Tannenkrugstraße"
-housenumber: 30
+street: Tannenkrugstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

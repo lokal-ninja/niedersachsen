@@ -4,8 +4,8 @@ latitude: 52.38109
 longitude: 10.53731
 postcode: "38527"
 city: Meine
-street: "An der Waage"
-housenumber: 10
+street: An der Waage
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.ernstings-family.de"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.ernstings-family.de

@@ -1,11 +1,11 @@
 id: 189347826
-type: way
+type: node
 latitude: 53.57012
 longitude: 7.88909
 postcode: "26441"
 city: Jever
-street: "Adolf-Ahlers-Straße"
-housenumber: 3
+street: Adolf-Ahlers-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

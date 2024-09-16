@@ -1,11 +1,11 @@
 id: 293571268
-type: way
+type: node
 latitude: 53.46783
 longitude: 8.64455
 postcode: "27612"
 city: Loxstedt
-street: "Bahnhofstraße"
-housenumber: 73
-phone: "+49 4744 821641"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-13:00; Su 10:30-12:00"
-website: "https://www.blumenhaus-gaensebluemchen.de/"
+street: Bahnhofstraße
+housenumber: "73"
+phone: +49 4744 821641
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-13:00; Su 10:30-12:00
+website: https://www.blumenhaus-gaensebluemchen.de/

@@ -1,11 +1,11 @@
 id: 1185791906
-type: way
+type: node
 latitude: 52.3204
 longitude: 7.22414
 postcode: "48465"
 city: Schüttorf
-street: "Steinstraße"
-housenumber: 26
-phone: "+49 5923 5298"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa,Su off"
-website: "https://www.hoergeraete-steenweg.de"
+street: Steinstraße
+housenumber: "26"
+phone: +49 5923 5298
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00; Sa,Su off
+website: https://www.hoergeraete-steenweg.de

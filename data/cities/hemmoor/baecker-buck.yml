@@ -1,11 +1,11 @@
 id: 935537710
-type: way
+type: node
 latitude: 53.68496
 longitude: 9.16024
 postcode: "21745"
 city: Hemmoor
-street: "Otto-Peschel-Straße"
-housenumber: 3
+street: Otto-Peschel-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-14:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-14:00
 website: ""

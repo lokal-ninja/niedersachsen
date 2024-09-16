@@ -4,8 +4,8 @@ latitude: 52.37681
 longitude: 9.73782
 postcode: "30159"
 city: Hannover
-street: "Kurt-Schumacher-Straße"
-housenumber: 7
-phone: "+49 511 65517540"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 08:00-15:00"
-website: "https://coupers.de/salons/city"
+street: Kurt-Schumacher-Straße
+housenumber: "7"
+phone: +49 511 65517540
+opening_hours: Mo-Fr 10:00-19:00; Sa 08:00-15:00
+website: https://coupers.de/salons/city

@@ -1,11 +1,11 @@
 id: 442838250
-type: way
+type: node
 latitude: 52.66259
 longitude: 9.48503
 postcode: "31637"
 city: Rodewald
-street: "Schwarmstedter Straße"
-housenumber: 14
-phone: "+49 507 4314"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-rother-schwarmstedter-str.-14/index.jsp"
+street: Schwarmstedter Straße
+housenumber: "14"
+phone: +49 507 4314
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-rother-schwarmstedter-str.-14/index.jsp

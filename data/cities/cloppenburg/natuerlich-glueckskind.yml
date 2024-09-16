@@ -4,8 +4,9 @@ latitude: 52.84213
 longitude: 8.03732
 postcode: "49661"
 city: Cloppenburg
-street: "Löninger Straße"
+street: Löninger Straße
 housenumber: 7a
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:00, Th,Fr 15:00-18:00; Sa [1,3] 10:00-14:00; Mo,Su,PH off"
+opening_hours: Tu-Fr 09:30-12:00, Th,Fr 15:00-18:00; Sa [1,3] 10:00-14:00; Mo,Su,PH
+    off
 website: ""

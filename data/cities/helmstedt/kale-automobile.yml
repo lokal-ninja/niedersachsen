@@ -1,11 +1,11 @@
 id: 163690715
-type: way
+type: node
 latitude: 52.2508
 longitude: 10.99331
 postcode: "38350"
 city: Helmstedt
-street: "Hinter der Ziegelei"
-housenumber: 3
+street: Hinter der Ziegelei
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

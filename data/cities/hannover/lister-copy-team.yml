@@ -4,8 +4,8 @@ latitude: 52.38422
 longitude: 9.74571
 postcode: "30161"
 city: Hannover
-street: "Gretchenstraße"
-housenumber: 6
-phone: "+49 511 2280917"
-opening_hours: "Mo-Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00; PH off"
-website: "https://www.listercopyteam.de/"
+street: Gretchenstraße
+housenumber: "6"
+phone: +49 511 2280917
+opening_hours: Mo-Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00; PH off
+website: https://www.listercopyteam.de/

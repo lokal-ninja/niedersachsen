@@ -4,8 +4,8 @@ latitude: 53.87368
 longitude: 8.695
 postcode: "27472"
 city: Cuxhaven
-street: "Strichweg"
-housenumber: 16
+street: Strichweg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
 website: ""

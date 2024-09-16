@@ -1,11 +1,11 @@
 id: 91303122
-type: way
+type: node
 latitude: 53.66766
 longitude: 7.90958
 postcode: "26434"
 city: Wangerland
-street: "Heinrich-Steinberg-Straße"
-housenumber: 2
+street: Heinrich-Steinberg-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

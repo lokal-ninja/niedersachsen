@@ -1,11 +1,11 @@
 id: 292181647
-type: way
+type: node
 latitude: 53.02868
 longitude: 8.80551
 postcode: "28816"
 city: Stuhr
-street: "Bremer Straße"
-housenumber: 107
+street: Bremer Straße
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://ochtumpark.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://ochtumpark.de/

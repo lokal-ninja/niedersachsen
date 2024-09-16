@@ -1,11 +1,11 @@
 id: 25792384
-type: way
+type: node
 latitude: 52.42292
 longitude: 10.86319
 postcode: "38448"
 city: Wolfsburg
-street: "Karl-Ferdinand-Braun-Ring"
-housenumber: 1
+street: Karl-Ferdinand-Braun-Ring
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.schubert-motors.de/unsere-filialen/wolfsburg"
+website: https://www.schubert-motors.de/unsere-filialen/wolfsburg

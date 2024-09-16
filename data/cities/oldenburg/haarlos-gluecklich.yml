@@ -1,11 +1,11 @@
 id: 118443232
-type: way
+type: node
 latitude: 53.11203
 longitude: 8.21116
 postcode: "26133"
 city: Oldenburg
-street: "Cloppenburger Straße"
-housenumber: 315
+street: Cloppenburger Straße
+housenumber: "315"
 phone: ""
-opening_hours: "Nach Absprache 044130452450"
-website: "http://haarlos-gluecklich-ol.de/"
+opening_hours: '"Nach Absprache 044130452450"'
+website: http://haarlos-gluecklich-ol.de/

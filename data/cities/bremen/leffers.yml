@@ -1,11 +1,11 @@
 id: 89942886
-type: way
+type: node
 latitude: 53.17171
 longitude: 8.62107
 postcode: "28757"
 city: Bremen
-street: "Breite Straße"
+street: Breite Straße
 housenumber: 14-16
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "http://vegesack.leffers.de/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: http://vegesack.leffers.de/

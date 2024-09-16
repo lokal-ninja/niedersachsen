@@ -1,11 +1,12 @@
 id: 194086262
-type: way
+type: node
 latitude: 52.66356
 longitude: 9.15627
 postcode: "31608"
 city: Marklohe
-street: "Lemker Nordfeld"
-housenumber: 4
+street: Lemker Nordfeld
+housenumber: "4"
 phone: ""
-opening_hours: "closed || Wegen Neubau geschlossen! Wiedereröffnung voraussichtlich im November 2024!"
+opening_hours: closed || "Wegen Neubau geschlossen! Wiedereröffnung voraussichtlich
+    im November 2024!"
 website: ""

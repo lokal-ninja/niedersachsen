@@ -1,11 +1,11 @@
 id: 242798204
-type: way
+type: node
 latitude: 53.0976
 longitude: 11.09008
 postcode: "29451"
 city: Dannenberg
-street: "Schützenstraße"
-housenumber: 5
+street: Schützenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

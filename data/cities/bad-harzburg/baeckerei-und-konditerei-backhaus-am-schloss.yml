@@ -1,11 +1,11 @@
 id: 290481941
-type: way
+type: node
 latitude: 51.88817
 longitude: 10.54968
 postcode: "38667"
 city: Bad Harzburg
-street: "Dr.-Heinrich-Jasper-Straße"
-housenumber: 29
-phone: "+49 5322 1734"
+street: Dr.-Heinrich-Jasper-Straße
+housenumber: "29"
+phone: +49 5322 1734
 opening_hours: ""
 website: ""

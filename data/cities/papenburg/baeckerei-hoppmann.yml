@@ -1,11 +1,11 @@
 id: 771724190
-type: way
+type: node
 latitude: 53.08471
 longitude: 7.3821
 postcode: "26871"
 city: Papenburg
-street: "Deverweg"
-housenumber: 
-phone: "+49 4961 8342877"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Deverweg
+housenumber: ""
+phone: +49 4961 8342877
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

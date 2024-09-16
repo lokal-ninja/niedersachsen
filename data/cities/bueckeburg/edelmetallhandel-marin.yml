@@ -4,8 +4,8 @@ latitude: 52.26173
 longitude: 9.05611
 postcode: "31675"
 city: Bückeburg
-street: "Obertorstraße"
-housenumber: 14
-phone: "+49 5722 9017750"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.marin.de"
+street: Obertorstraße
+housenumber: "14"
+phone: +49 5722 9017750
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.marin.de

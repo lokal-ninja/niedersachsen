@@ -1,11 +1,11 @@
 id: 173719473
-type: way
+type: node
 latitude: 52.25906
 longitude: 10.54379
 postcode: "38102"
 city: Braunschweig
-street: "Helmstedter Straße"
-housenumber: 135
-phone: "+49 531 70211661"
-opening_hours: "Mo-Fr 10:00-13:00, Mo,Th 10:00-18:00"
-website: "https://www.drk-kv-bs-sz.de/angebote/kaufbar.html"
+street: Helmstedter Straße
+housenumber: "135"
+phone: +49 531 70211661
+opening_hours: Mo-Fr 10:00-13:00, Mo,Th 10:00-18:00
+website: https://www.drk-kv-bs-sz.de/angebote/kaufbar.html

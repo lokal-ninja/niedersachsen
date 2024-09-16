@@ -4,8 +4,8 @@ latitude: 52.408
 longitude: 10.9364
 postcode: "38458"
 city: Velpke
-street: "Neuenhäuser Straße"
-housenumber: 12
+street: Neuenhäuser Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:30-18:00; We 09:00-13:00; Sa[1] 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:30-18:00; We 09:00-13:00; Sa[1] 09:00-13:00
 website: ""

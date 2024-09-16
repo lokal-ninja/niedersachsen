@@ -1,11 +1,11 @@
 id: 128605668
-type: way
+type: node
 latitude: 52.85702
 longitude: 7.28645
 postcode: "49779"
 city: Niederlangen
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.66381
 longitude: 9.57553
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Junkernstraße"
-housenumber: 1
-phone: "+49 5073 7411"
-opening_hours: "Tu, Th 09:30-18:00; Sa07:00-12:00"
-website: "https://www.backstube-bundschuh.de/"
+street: Junkernstraße
+housenumber: "1"
+phone: +49 5073 7411
+opening_hours: Tu, Th 09:30-18:00; Sa07:00-12:00
+website: https://www.backstube-bundschuh.de/

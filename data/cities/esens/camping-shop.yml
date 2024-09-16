@@ -1,11 +1,11 @@
 id: 88644720
-type: way
+type: node
 latitude: 53.65248
 longitude: 7.62921
 postcode: "26427"
 city: Esens
-street: "Seilerstraße"
-housenumber: 1
+street: Seilerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

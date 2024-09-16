@@ -4,8 +4,8 @@ latitude: 53.12458
 longitude: 8.90653
 postcode: "28357"
 city: Bremen
-street: "Krögersweg"
+street: Krögersweg
 housenumber: 31a
-phone: "+49 421 273631"
-opening_hours: "Tu, Th, Fr 10:00-13:00, 15:00-18:00; We 10:00-13:00; Sa 09:00-12:00"
-website: "https://www.werner-fischer-bremen.de/"
+phone: +49 421 273631
+opening_hours: Tu, Th, Fr 10:00-13:00, 15:00-18:00; We 10:00-13:00; Sa 09:00-12:00
+website: https://www.werner-fischer-bremen.de/

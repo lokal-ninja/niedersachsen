@@ -1,11 +1,11 @@
 id: 349624298
-type: way
+type: node
 latitude: 52.33084
 longitude: 10.23573
 postcode: "31224"
 city: Peine
-street: "Schwarzer Weg"
-housenumber: 78
-phone: "+49 5171 52259"
+street: Schwarzer Weg
+housenumber: "78"
+phone: +49 5171 52259
 opening_hours: ""
-website: "https://www.hotopp-24.de"
+website: https://www.hotopp-24.de

@@ -1,11 +1,11 @@
 id: 890015638
-type: way
+type: node
 latitude: 53.29806
 longitude: 7.59636
 postcode: "26835"
 city: Hesel
-street: "Brinkweg"
-housenumber: 2
+street: Brinkweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off; PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su off; PH off
 website: ""

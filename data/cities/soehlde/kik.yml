@@ -1,11 +1,11 @@
 id: 196627239
-type: way
+type: node
 latitude: 52.21228
 longitude: 10.19239
 postcode: "31185"
 city: Söhlde
-street: "Hauptstraße"
-housenumber: 84
+street: Hauptstraße
+housenumber: "84"
 phone: ""
 opening_hours: ""
-website: "https://www.kik.de/"
+website: https://www.kik.de/

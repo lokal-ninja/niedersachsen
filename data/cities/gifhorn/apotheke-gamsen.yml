@@ -1,11 +1,11 @@
 id: 266238878
-type: way
+type: node
 latitude: 52.51393
 longitude: 10.54003
 postcode: "38518"
 city: Gifhorn
-street: "Hamburger Straße"
+street: Hamburger Straße
 housenumber: 5a
-phone: "+49 5371 71555"
-opening_hours: "Mo,We,Fr 08:00-18:30; Tu,Th 08:00-19:00; Sa 08:30-13:00"
-website: "https://www.apotheke-gamsen.de/"
+phone: +49 5371 71555
+opening_hours: Mo,We,Fr 08:00-18:30; Tu,Th 08:00-19:00; Sa 08:30-13:00
+website: https://www.apotheke-gamsen.de/

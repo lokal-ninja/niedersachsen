@@ -1,11 +1,11 @@
 id: 97217096
-type: way
+type: node
 latitude: 53.65432
 longitude: 7.26234
 postcode: "26524"
 city: Hagermarsch
-street: "Hufschlag"
-housenumber: 7
+street: Hufschlag
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-18:00; Su 10:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-18:00; Su 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 129240575
-type: way
+type: node
 latitude: 53.59224
 longitude: 7.2216
 postcode: "26506"
 city: Norden
-street: "Heerstraße"
-housenumber: 60
+street: Heerstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

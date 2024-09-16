@@ -4,8 +4,8 @@ latitude: 52.37214
 longitude: 8.20715
 postcode: "49179"
 city: Ostercappeln
-street: "Hauptstraße"
-housenumber: 104
-phone: "+49 5473 92070"
-opening_hours: "Mo-Su 06:00-21:00"
+street: Hauptstraße
+housenumber: "104"
+phone: +49 5473 92070
+opening_hours: Mo-Su 06:00-21:00
 website: ""

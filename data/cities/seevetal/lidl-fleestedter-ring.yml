@@ -1,11 +1,11 @@
 id: 569232970
-type: way
+type: node
 latitude: 53.41012
 longitude: 9.99051
 postcode: "21217"
 city: Seevetal
-street: "Fleestedter Ring"
-housenumber: 1
+street: Fleestedter Ring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

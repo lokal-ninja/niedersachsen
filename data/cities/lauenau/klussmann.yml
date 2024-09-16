@@ -1,11 +1,11 @@
 id: 368141695
-type: way
+type: node
 latitude: 52.27362
 longitude: 9.36826
 postcode: "31867"
 city: Lauenau
-street: "Coppenbrügger Landstraße"
-housenumber: 8
-phone: "+49 (0) 5043 / 31 90"
-opening_hours: "Tu-Fr 08:30-18:00"
-website: "https://www.klussmann-friseure.de/"
+street: Coppenbrügger Landstraße
+housenumber: "8"
+phone: +49 (0) 5043 / 31 90
+opening_hours: Tu-Fr 08:30-18:00
+website: https://www.klussmann-friseure.de/

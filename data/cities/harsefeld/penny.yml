@@ -1,11 +1,11 @@
 id: 301070812
-type: way
+type: node
 latitude: 53.45007
 longitude: 9.49773
 postcode: "21698"
 city: Harsefeld
-street: "Am Bahnhof-Süd"
-housenumber: 7
+street: Am Bahnhof-Süd
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

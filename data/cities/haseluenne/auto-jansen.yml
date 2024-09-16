@@ -1,11 +1,11 @@
 id: 720891263
-type: way
+type: node
 latitude: 52.68186
 longitude: 7.51782
 postcode: "49740"
 city: Haselünne
-street: "Ringstraße"
-housenumber: 4
+street: Ringstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00, Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00, Sa 08:00-12:00
 website: ""

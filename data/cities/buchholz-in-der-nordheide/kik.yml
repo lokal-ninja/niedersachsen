@@ -4,8 +4,8 @@ latitude: 53.3311
 longitude: 9.88044
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Schützenstraße"
-housenumber: 5
+street: Schützenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.kik.de/

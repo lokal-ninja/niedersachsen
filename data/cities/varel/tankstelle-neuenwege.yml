@@ -1,11 +1,11 @@
 id: 673501567
-type: way
+type: node
 latitude: 53.3498
 longitude: 8.13552
 postcode: "26316"
 city: Varel
-street: "Oldenburger Straße"
-housenumber: 121
-phone: "+49 4451 5627"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 07:30-19:30; Su 09:00-19:30"
-website: "https://www.rwg-ammerland-ostfriesland.de/energie/tankstellen/tankstellenwaschparks/tankstelle-neuenwege/"
+street: Oldenburger Straße
+housenumber: "121"
+phone: +49 4451 5627
+opening_hours: Mo-Fr 06:30-20:00; Sa 07:30-19:30; Su 09:00-19:30
+website: https://www.rwg-ammerland-ostfriesland.de/energie/tankstellen/tankstellenwaschparks/tankstelle-neuenwege/

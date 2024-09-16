@@ -1,11 +1,11 @@
 id: 477256985
-type: way
+type: node
 latitude: 51.74306
 longitude: 10.22297
 postcode: "37520"
 city: Osterode am Harz
-street: "An der Bahn"
-housenumber: 20
+street: An der Bahn
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

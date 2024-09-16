@@ -4,8 +4,8 @@ latitude: 52.15678
 longitude: 9.95484
 postcode: "31134"
 city: Hildesheim
-street: "Bahnhofsallee"
-housenumber: 12
+street: Bahnhofsallee
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
 website: ""

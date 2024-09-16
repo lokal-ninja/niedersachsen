@@ -1,11 +1,11 @@
 id: 205990544
-type: way
+type: node
 latitude: 52.26235
 longitude: 8.0734
 postcode: ""
 city: Osnabrück
-street: "Hannoversche Straße"
-housenumber: 51
-phone: "+49 541 380610"
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.poco.de/standorte/poco-einrichtungsmarkt-osnabrueck-fledder"
+street: Hannoversche Straße
+housenumber: "51"
+phone: +49 541 380610
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.poco.de/standorte/poco-einrichtungsmarkt-osnabrueck-fledder

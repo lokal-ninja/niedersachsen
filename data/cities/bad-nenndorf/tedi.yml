@@ -4,8 +4,8 @@ latitude: 52.33576
 longitude: 9.40384
 postcode: "31542"
 city: Bad Nenndorf
-street: "Piepmühle"
-housenumber: 7
-phone: "+49 231 555770"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.tedi.com/stores/4319/de/NIEDERSACHSEN/Bad-Nenndorf/Piepmuhle-7"
+street: Piepmühle
+housenumber: "7"
+phone: +49 231 555770
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.tedi.com/stores/4319/de/NIEDERSACHSEN/Bad-Nenndorf/Piepmuhle-7

@@ -1,11 +1,11 @@
 id: 109284995
-type: way
+type: node
 latitude: 51.72081
 longitude: 10.61451
 postcode: "38700"
 city: Braunlage
-street: "Am Buchholzplatz"
-housenumber: 6
+street: Am Buchholzplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

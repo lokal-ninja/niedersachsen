@@ -4,8 +4,8 @@ latitude: 52.10216
 longitude: 9.35625
 postcode: "31785"
 city: Hameln
-street: "Bäckerstraße"
-housenumber: 20
+street: Bäckerstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.hej20.de/"
+website: https://www.hej20.de/

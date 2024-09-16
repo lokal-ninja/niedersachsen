@@ -1,11 +1,11 @@
 id: 224134261
-type: way
+type: node
 latitude: 52.3303
 longitude: 9.36925
 postcode: "31542"
 city: Bad Nenndorf
-street: "Rodenberger Allee"
-housenumber: 26
-phone: "+49 5723 6766"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Rodenberger Allee
+housenumber: "26"
+phone: +49 5723 6766
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

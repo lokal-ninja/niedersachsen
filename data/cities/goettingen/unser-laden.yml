@@ -4,8 +4,9 @@ latitude: 51.5603
 longitude: 10.004
 postcode: "37077"
 city: Göttingen
-street: "Venusring"
-housenumber: 31
+street: Venusring
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, Sa 07:30-12:00, Tu 15:00-18:00, Mo,We,Th 16:00-18:00, Fr 16:00-22:00, Su 14:30-17:00"
+opening_hours: Mo-Fr 08:00-12:00, Sa 07:30-12:00, Tu 15:00-18:00, Mo,We,Th 16:00-18:00,
+    Fr 16:00-22:00, Su 14:30-17:00
 website: ""

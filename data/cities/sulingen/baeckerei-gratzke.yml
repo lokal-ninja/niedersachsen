@@ -1,11 +1,11 @@
 id: 740973152
-type: way
+type: node
 latitude: 52.65627
 longitude: 8.74384
 postcode: "27232"
 city: Sulingen
 street: ""
-housenumber: 75
-phone: "+49 4271 2667"
+housenumber: "75"
+phone: +49 4271 2667
 opening_hours: ""
 website: ""

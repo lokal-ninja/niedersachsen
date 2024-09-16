@@ -4,8 +4,8 @@ latitude: 53.04538
 longitude: 8.95419
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 51
-phone: "+49 421 488500"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.babyone.de/"
+street: Hans-Bredow-Straße
+housenumber: "51"
+phone: +49 421 488500
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.babyone.de/

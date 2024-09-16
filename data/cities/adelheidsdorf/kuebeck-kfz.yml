@@ -4,8 +4,8 @@ latitude: 52.56391
 longitude: 10.06664
 postcode: "29352"
 city: Adelheidsdorf
-street: "Gewerbering"
-housenumber: 7
-phone: "+49 5141 83687"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "https://kuebeck-kfz.de"
+street: Gewerbering
+housenumber: "7"
+phone: +49 5141 83687
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
+website: https://kuebeck-kfz.de

@@ -1,11 +1,11 @@
 id: 24874540
-type: way
+type: node
 latitude: 53.07392
 longitude: 8.79798
 postcode: "28199"
 city: Bremen
-street: "Westerstraße"
-housenumber: 33
+street: Westerstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.aldi-nord.de/

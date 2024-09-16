@@ -4,8 +4,8 @@ latitude: 52.36862
 longitude: 10.72828
 postcode: "38444"
 city: Wolfsburg
-street: "Brandgehaege"
-housenumber: 5
+street: Brandgehaege
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-18:00
 website: ""

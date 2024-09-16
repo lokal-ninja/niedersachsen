@@ -4,8 +4,8 @@ latitude: 52.34103
 longitude: 9.70162
 postcode: "30459"
 city: Hannover
-street: "Wallensteinstraße"
-housenumber: 119
-phone: "+49 511 422243"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
-website: "https://www.friseuramplatz.de/"
+street: Wallensteinstraße
+housenumber: "119"
+phone: +49 511 422243
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
+website: https://www.friseuramplatz.de/

@@ -1,11 +1,11 @@
 id: 373619915
-type: way
+type: node
 latitude: 53.07161
 longitude: 8.59075
 postcode: "27777"
 city: Ganderkesee
-street: "Auf dem Hohenborn"
-housenumber: 45
+street: Auf dem Hohenborn
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

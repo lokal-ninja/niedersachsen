@@ -1,11 +1,11 @@
 id: 28479539
-type: way
+type: node
 latitude: 53.15893
 longitude: 8.16671
 postcode: "26129"
 city: Oldenburg
-street: "Ammerländer Heerstraße"
-housenumber: 303
-phone: "+49 441 2176910"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.globus-baumarkt.de/info/markt/oldenburg"
+street: Ammerländer Heerstraße
+housenumber: "303"
+phone: +49 441 2176910
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.globus-baumarkt.de/info/markt/oldenburg

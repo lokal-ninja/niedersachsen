@@ -4,8 +4,8 @@ latitude: 53.14194
 longitude: 8.21201
 postcode: "26122"
 city: Oldenburg
-street: "Herbartgang"
-housenumber: 20
+street: Herbartgang
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-14:00"
-website: "https://makoer-sports.de/"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-14:00
+website: https://makoer-sports.de/

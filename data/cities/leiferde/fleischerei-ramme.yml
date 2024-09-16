@@ -1,11 +1,11 @@
 id: 45182936
-type: way
+type: node
 latitude: 52.43998
 longitude: 10.43461
 postcode: "38542"
 city: Leiferde
-street: "Dorfstraße"
-housenumber: 8
+street: Dorfstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,14:30-18:00; Sa 07:30-13:00"
+opening_hours: Mo-Fr 08:00-12:30,14:30-18:00; Sa 07:30-13:00
 website: ""

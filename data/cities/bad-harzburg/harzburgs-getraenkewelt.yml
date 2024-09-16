@@ -1,11 +1,11 @@
 id: 292926740
-type: way
+type: node
 latitude: 51.90278
 longitude: 10.54439
 postcode: "38667"
 city: Bad Harzburg
-street: "Mathildenhütte"
-housenumber: 1
+street: Mathildenhütte
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

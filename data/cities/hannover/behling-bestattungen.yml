@@ -1,11 +1,11 @@
 id: 189196921
-type: way
+type: node
 latitude: 52.40836
 longitude: 9.79923
 postcode: "30659"
 city: Hannover
-street: "Sutelstraße"
-housenumber: 69
+street: Sutelstraße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

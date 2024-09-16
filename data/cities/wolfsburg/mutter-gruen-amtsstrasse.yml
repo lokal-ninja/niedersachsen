@@ -1,11 +1,11 @@
 id: 31303182
-type: way
+type: node
 latitude: 52.44067
 longitude: 10.83562
 postcode: "38448"
 city: Wolfsburg
-street: "Amtsstraße"
-housenumber: 45
+street: Amtsstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
 website: ""

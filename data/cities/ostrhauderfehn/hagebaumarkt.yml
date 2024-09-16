@@ -1,11 +1,11 @@
 id: 223988494
-type: way
+type: node
 latitude: 53.13726
 longitude: 7.59742
 postcode: "26842"
 city: Ostrhauderfehn
-street: "Im Gewerbegebiet"
+street: Im Gewerbegebiet
 housenumber: 1a
-phone: "+49 4952 890930"
+phone: +49 4952 890930
 opening_hours: ""
-website: "https://www.hagebaumarkt-ostrhauderfehn.de/index.cfm"
+website: https://www.hagebaumarkt-ostrhauderfehn.de/index.cfm

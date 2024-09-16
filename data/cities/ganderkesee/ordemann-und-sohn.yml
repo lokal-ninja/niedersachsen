@@ -1,11 +1,11 @@
 id: 257021473
-type: way
+type: node
 latitude: 53.01934
 longitude: 8.51947
 postcode: "27777"
 city: Ganderkesee
-street: "Ganderkeseer Weg"
-housenumber: 24
+street: Ganderkeseer Weg
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00"
-website: "https://www.ordemann.info/"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00
+website: https://www.ordemann.info/

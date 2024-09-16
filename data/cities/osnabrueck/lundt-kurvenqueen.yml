@@ -4,8 +4,8 @@ latitude: 52.27511
 longitude: 8.04861
 postcode: "49074"
 city: Osnabrück
-street: "Georgstraße"
-housenumber: 9
-phone: "+49 541 33113530"
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://www.l-t.de/lt-kurvenqueen"
+street: Georgstraße
+housenumber: "9"
+phone: +49 541 33113530
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://www.l-t.de/lt-kurvenqueen

@@ -1,11 +1,11 @@
 id: 205989569
-type: way
+type: node
 latitude: 52.26394
 longitude: 8.06614
 postcode: "49084"
 city: Osnabrück
-street: "Hannoversche Straße"
-housenumber: 28
+street: Hannoversche Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://kitzmann-homecompany.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://kitzmann-homecompany.de/

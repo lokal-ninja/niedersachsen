@@ -1,11 +1,11 @@
 id: 60921103
-type: way
+type: node
 latitude: 52.25017
 longitude: 10.51454
 postcode: "38122"
 city: Braunschweig
-street: "Fabrikstraße"
+street: Fabrikstraße
 housenumber: 1c
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

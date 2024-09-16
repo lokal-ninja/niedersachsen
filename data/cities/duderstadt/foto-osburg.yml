@@ -4,8 +4,8 @@ latitude: 51.5122
 longitude: 10.25976
 postcode: "37115"
 city: Duderstadt
-street: "Marktstraße"
-housenumber: 44
-phone: "+49 5527 98480"
-opening_hours: "Mo-Sa 09:30-13:00; Mo-Fr 14:30-18:00; Sa 10:00-12:00 PH off"
-website: "https://www.foto-osburg.de/"
+street: Marktstraße
+housenumber: "44"
+phone: +49 5527 98480
+opening_hours: Mo-Sa 09:30-13:00; Mo-Fr 14:30-18:00; Sa 10:00-12:00 PH off
+website: https://www.foto-osburg.de/

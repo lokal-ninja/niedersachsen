@@ -1,11 +1,11 @@
 id: 1016436304
-type: way
+type: node
 latitude: 52.51377
 longitude: 7.68005
 postcode: "49584"
 city: Fürstenau
-street: "Fröhlkingstraße"
-housenumber: 10
+street: Fröhlkingstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

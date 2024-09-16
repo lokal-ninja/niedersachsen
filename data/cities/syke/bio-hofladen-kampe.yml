@@ -1,11 +1,11 @@
 id: 268983101
-type: way
+type: node
 latitude: 52.93743
 longitude: 8.82385
 postcode: "28857"
 city: Syke
-street: "Glockenstraße"
-housenumber: 24
-phone: "+49 4242 5976355"
-opening_hours: "Tu 09:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00; Mo,We,Th,Su,PH off"
-website: "https://www.hofladen-kampe.de/"
+street: Glockenstraße
+housenumber: "24"
+phone: +49 4242 5976355
+opening_hours: Tu 09:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00; Mo,We,Th,Su,PH off
+website: https://www.hofladen-kampe.de/

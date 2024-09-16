@@ -1,11 +1,11 @@
 id: 171256072
-type: way
+type: node
 latitude: 53.12916
 longitude: 8.89665
 postcode: "28357"
 city: Bremen
-street: "Hamfhofsweg"
-housenumber: 59
+street: Hamfhofsweg
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
 website: ""

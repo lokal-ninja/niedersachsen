@@ -1,11 +1,11 @@
 id: 239433505
-type: way
+type: node
 latitude: 51.54807
 longitude: 9.9348
 postcode: "37075"
 city: Göttingen
-street: "Goßlerstraße"
-housenumber: 69
+street: Goßlerstraße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo,We-Fr 08:00-18:00; Tu,Sa 08:00-13:00"
+opening_hours: Mo,We-Fr 08:00-18:00; Tu,Sa 08:00-13:00
 website: ""

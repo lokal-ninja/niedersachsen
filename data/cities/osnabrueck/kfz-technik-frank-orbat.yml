@@ -1,11 +1,11 @@
 id: 655099849
-type: way
+type: node
 latitude: 52.29963
 longitude: 8.02986
 postcode: "49090"
 city: Osnabrück
-street: "Winkelhausenstraße"
-housenumber: 9
+street: Winkelhausenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-technik-orbat.de/"
+website: https://www.kfz-technik-orbat.de/

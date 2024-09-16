@@ -1,11 +1,11 @@
 id: 83469525
-type: way
+type: node
 latitude: 53.30533
 longitude: 7.74746
 postcode: "26670"
 city: Uplengen
-street: "Ostertorstraße"
-housenumber: 49
+street: Ostertorstraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

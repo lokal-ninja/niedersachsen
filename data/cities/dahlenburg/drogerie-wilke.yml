@@ -1,11 +1,11 @@
 id: 234006344
-type: way
+type: node
 latitude: 53.18645
 longitude: 10.74281
 postcode: "21368"
 city: Dahlenburg
-street: "Am Markt"
-housenumber: 3
+street: Am Markt
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

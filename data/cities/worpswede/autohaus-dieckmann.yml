@@ -4,8 +4,8 @@ latitude: 53.22849
 longitude: 8.93765
 postcode: "27726"
 city: Worpswede
-street: "Osterweder Straße"
-housenumber: 34
-phone: "+49 4792 1241"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00"
-website: "https://autohaus-dieckmann.de/"
+street: Osterweder Straße
+housenumber: "34"
+phone: +49 4792 1241
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00
+website: https://autohaus-dieckmann.de/

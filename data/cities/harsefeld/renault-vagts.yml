@@ -1,11 +1,11 @@
 id: 301165157
-type: way
+type: node
 latitude: 53.46277
 longitude: 9.51857
 postcode: "21698"
 city: Harsefeld
-street: "Im Sande"
-housenumber: 76
+street: Im Sande
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

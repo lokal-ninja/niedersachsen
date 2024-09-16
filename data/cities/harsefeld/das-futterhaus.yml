@@ -1,11 +1,11 @@
 id: 44048984
-type: way
+type: node
 latitude: 53.45524
 longitude: 9.5121
 postcode: "21698"
 city: Harsefeld
-street: "Paschberg"
-housenumber: 20
+street: Paschberg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
 website: ""

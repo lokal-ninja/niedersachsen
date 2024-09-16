@@ -4,8 +4,8 @@ latitude: 53.0634
 longitude: 8.87013
 postcode: "28207"
 city: Bremen
-street: "Pfalzburger Straße"
-housenumber: 41
+street: Pfalzburger Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka.de/

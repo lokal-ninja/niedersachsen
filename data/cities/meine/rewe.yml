@@ -4,8 +4,8 @@ latitude: 52.38074
 longitude: 10.53744
 postcode: "38527"
 city: Meine
-street: "Am Marktplatz"
-housenumber: 4
+street: Am Marktplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de

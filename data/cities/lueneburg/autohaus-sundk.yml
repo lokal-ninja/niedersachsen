@@ -1,11 +1,11 @@
 id: 115531740
-type: way
+type: node
 latitude: 53.23704
 longitude: 10.45815
 postcode: "21337"
 city: Lüneburg
-street: "August-Horch-Straße"
-housenumber: 9
-phone: "+49 4131 872070"
+street: August-Horch-Straße
+housenumber: "9"
+phone: +49 4131 872070
 opening_hours: ""
-website: "http://www.toyota-lueneburg.com"
+website: http://www.toyota-lueneburg.com

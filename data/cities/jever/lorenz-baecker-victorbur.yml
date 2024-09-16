@@ -4,8 +4,8 @@ latitude: 53.57358
 longitude: 7.89839
 postcode: "26441"
 city: Jever
-street: "Lindenbaumstraße"
-housenumber: 3
-phone: "+49 4461-7485353"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-17:00"
-website: "https://www.wikingerbaecker.de/"
+street: Lindenbaumstraße
+housenumber: "3"
+phone: +49 4461-7485353
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-17:00
+website: https://www.wikingerbaecker.de/

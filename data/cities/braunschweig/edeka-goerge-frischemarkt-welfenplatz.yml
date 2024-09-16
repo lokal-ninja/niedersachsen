@@ -4,8 +4,8 @@ latitude: 52.23323
 longitude: 10.55903
 postcode: "38126"
 city: Braunschweig
-street: "Welfenplatz"
-housenumber: 17
-phone: "+49 531 2148780"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://goerge-markt.de/goerge-filialen/city-markt-welfenplatz/"
+street: Welfenplatz
+housenumber: "17"
+phone: +49 531 2148780
+opening_hours: Mo-Sa 08:00-20:00
+website: https://goerge-markt.de/goerge-filialen/city-markt-welfenplatz/

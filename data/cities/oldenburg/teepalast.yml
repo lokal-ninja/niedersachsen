@@ -4,8 +4,8 @@ latitude: 53.13953
 longitude: 8.21197
 postcode: "26122"
 city: Oldenburg
-street: "Gaststraße"
-housenumber: 10
+street: Gaststraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:30"
-website: "http://www.tee-und-meer.de/"
+opening_hours: Mo-Sa 08:00-18:30
+website: http://www.tee-und-meer.de/

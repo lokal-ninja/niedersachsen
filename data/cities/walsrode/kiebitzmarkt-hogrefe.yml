@@ -1,11 +1,11 @@
 id: 195795806
-type: way
+type: node
 latitude: 52.904
 longitude: 9.61989
 postcode: "29699"
 city: Walsrode
-street: "Am Breekamp"
-housenumber: 1
-phone: "+49 5161 4185"
-opening_hours: "08:00-18:00"
-website: "https://www.kiebitzmarkt.de/fachmaerkte/bomlitz"
+street: Am Breekamp
+housenumber: "1"
+phone: +49 5161 4185
+opening_hours: 08:00-18:00
+website: https://www.kiebitzmarkt.de/fachmaerkte/bomlitz

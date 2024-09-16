@@ -4,8 +4,8 @@ latitude: 53.37176
 longitude: 7.21556
 postcode: "26725"
 city: Emden
-street: "Wolthuser Straße"
-housenumber: 1
-phone: "+49 4921 589180"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://druckkontor-emden.de/"
+street: Wolthuser Straße
+housenumber: "1"
+phone: +49 4921 589180
+opening_hours: Mo-Fr 08:00-16:00
+website: https://druckkontor-emden.de/

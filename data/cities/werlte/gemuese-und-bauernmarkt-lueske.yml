@@ -1,11 +1,11 @@
 id: 331888518
-type: way
+type: node
 latitude: 52.84608
 longitude: 7.67473
 postcode: "49757"
 city: Werlte
-street: "Wehmer Straße"
-housenumber: 15
+street: Wehmer Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Su 08:00-18:00"
+opening_hours: Mo-Su 08:00-18:00
 website: ""

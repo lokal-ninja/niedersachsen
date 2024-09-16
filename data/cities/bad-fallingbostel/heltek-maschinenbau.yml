@@ -1,11 +1,11 @@
 id: 264422271
-type: way
+type: node
 latitude: 52.91009
 longitude: 9.76866
 postcode: "29683"
 city: Bad Fallingbostel
-street: "Westendorfer Straße"
-housenumber: 51
-phone: "+49 5163 91000"
+street: Westendorfer Straße
+housenumber: "51"
+phone: +49 5163 91000
 opening_hours: ""
-website: "https://heltek-maschinenbau.de/"
+website: https://heltek-maschinenbau.de/

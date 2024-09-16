@@ -1,11 +1,11 @@
 id: 310879982
-type: way
+type: node
 latitude: 51.92469
 longitude: 10.43162
 postcode: "38642"
 city: Goslar
-street: "Stettiner Straße"
-housenumber: 61
+street: Stettiner Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Su 09:00-22:30"
+opening_hours: Mo-Su 09:00-22:30
 website: ""

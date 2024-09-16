@@ -4,8 +4,8 @@ latitude: 52.32701
 longitude: 9.21093
 postcode: "31655"
 city: Stadthagen
-street: "Vornhäger Straße"
-housenumber: 18
-phone: "+49 5721 1882"
-opening_hours: "Mo-Fr 08:30-13:00, Mo,Tu,Th,Fr 14:00-18:00, Sa 08:30-12:30; PH off"
+street: Vornhäger Straße
+housenumber: "18"
+phone: +49 5721 1882
+opening_hours: Mo-Fr 08:30-13:00, Mo,Tu,Th,Fr 14:00-18:00, Sa 08:30-12:30; PH off
 website: ""

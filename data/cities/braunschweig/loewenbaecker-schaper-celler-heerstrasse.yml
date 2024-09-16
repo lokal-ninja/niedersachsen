@@ -1,11 +1,11 @@
 id: 76562721
-type: way
+type: node
 latitude: 52.2843
 longitude: 10.50207
 postcode: "38114"
 city: Braunschweig
-street: "Celler Heerstraße"
-housenumber: 162
+street: Celler Heerstraße
+housenumber: "162"
 phone: ""
-opening_hours: "Mo-Sa 06:00-18:00; Su 08:00-16:30"
+opening_hours: Mo-Sa 06:00-18:00; Su 08:00-16:30
 website: ""

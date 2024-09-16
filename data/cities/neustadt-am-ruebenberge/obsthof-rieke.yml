@@ -4,8 +4,8 @@ latitude: 52.53382
 longitude: 9.40816
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Blaubeerweg"
-housenumber: 1
-phone: "+49 5032 4034"
-opening_hours: "Tu-Su,PH 08:00-18:00"
-website: "http://www.obsthof-rieke.de/"
+street: Blaubeerweg
+housenumber: "1"
+phone: +49 5032 4034
+opening_hours: Tu-Su,PH 08:00-18:00
+website: http://www.obsthof-rieke.de/

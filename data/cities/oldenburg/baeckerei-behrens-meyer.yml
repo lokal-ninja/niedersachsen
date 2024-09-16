@@ -4,8 +4,8 @@ latitude: 53.16829
 longitude: 8.21495
 postcode: "26127"
 city: Oldenburg
-street: "Scheideweg"
-housenumber: 100
-phone: "+49 441 99958842"
-opening_hours: "Mo-Sa 7:00-19:00; Su off"
-website: "https://behrens-meyer.de/"
+street: Scheideweg
+housenumber: "100"
+phone: +49 441 99958842
+opening_hours: Mo-Sa 7:00-19:00; Su off
+website: https://behrens-meyer.de/

@@ -5,7 +5,7 @@ longitude: 10.00059
 postcode: "37154"
 city: Northeim
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:00-13:00,13:30-17:00; Fr 08:00-14:00; PH off"
+opening_hours: Mo-Th 08:00-13:00,13:30-17:00; Fr 08:00-14:00; PH off
 website: ""

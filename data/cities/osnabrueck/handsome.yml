@@ -1,11 +1,11 @@
 id: 222639477
-type: way
+type: node
 latitude: 52.27777
 longitude: 8.04041
 postcode: "49074"
 city: Osnabrück
-street: "Bierstraße"
-housenumber: 16
+street: Bierstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "http://www.handsome-os.de/"
+website: http://www.handsome-os.de/

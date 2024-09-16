@@ -1,11 +1,11 @@
 id: 25102808
-type: way
+type: node
 latitude: 52.36989
 longitude: 10.74153
 postcode: "38444"
 city: Wolfsburg
-street: "Heinenkamp"
-housenumber: 8
-phone: "+49 5308 9394 - 0"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00"
-website: "https://m.hagebau.de/baumarkt/bau-und-heimwerkermaerkte-c-ebel-gmbh-co-wolfsburg-kg-wolfsburg-sn159503/"
+street: Heinenkamp
+housenumber: "8"
+phone: +49 5308 9394 - 0
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-18:00
+website: https://m.hagebau.de/baumarkt/bau-und-heimwerkermaerkte-c-ebel-gmbh-co-wolfsburg-kg-wolfsburg-sn159503/

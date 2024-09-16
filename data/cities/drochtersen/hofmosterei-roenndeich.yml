@@ -4,8 +4,8 @@ latitude: 53.69971
 longitude: 9.24888
 postcode: "21706"
 city: Drochtersen
-street: "Rönndeich"
-housenumber: 18
+street: Rönndeich
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:30,14:00-18:00"
-website: "https://www.hofmosterei-roenndeich.de/"
+opening_hours: Mo-Sa 08:00-12:30,14:00-18:00
+website: https://www.hofmosterei-roenndeich.de/

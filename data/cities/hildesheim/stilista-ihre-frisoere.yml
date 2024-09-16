@@ -4,8 +4,8 @@ latitude: 52.1527
 longitude: 9.96317
 postcode: "31141"
 city: Hildesheim
-street: "Steingrube"
-housenumber: 18
-phone: "+49 5121 31820"
-opening_hours: "Di-Fr 08:30-18:00, Sa nach Vereinbarung"
-website: "https://www.stilista-hildesheim.de"
+street: Steingrube
+housenumber: "18"
+phone: +49 5121 31820
+opening_hours: Di-Fr 08:30-18:00, Sa nach Vereinbarung
+website: https://www.stilista-hildesheim.de

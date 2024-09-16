@@ -4,8 +4,8 @@ latitude: 53.86869
 longitude: 8.70323
 postcode: "27472"
 city: Cuxhaven
-street: "Schillerstraße"
-housenumber: 4
+street: Schillerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.aleco.bio/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.aleco.bio/

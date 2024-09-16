@@ -4,8 +4,8 @@ latitude: 53.11427
 longitude: 9.23096
 postcode: "27367"
 city: Sottrum
-street: "Lienworth"
-housenumber: 10
-phone: "+49 4264  398147"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su off"
-website: "https://www.igel-baeckerei.de/filialen.html"
+street: Lienworth
+housenumber: "10"
+phone: +49 4264  398147
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su off
+website: https://www.igel-baeckerei.de/filialen.html

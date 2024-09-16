@@ -1,11 +1,11 @@
 id: 198645709
-type: way
+type: node
 latitude: 52.36469
 longitude: 9.21668
 postcode: "31714"
 city: Lauenhagen
-street: "Hülshagen"
-housenumber: 28
+street: Hülshagen
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

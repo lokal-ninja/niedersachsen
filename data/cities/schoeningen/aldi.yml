@@ -1,11 +1,11 @@
 id: 1236904157
-type: way
+type: node
 latitude: 52.14153
 longitude: 10.95996
 postcode: "38364"
 city: Schöningen
-street: "Bergstraße"
-housenumber: 5
+street: Bergstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

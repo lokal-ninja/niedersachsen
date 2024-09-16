@@ -1,11 +1,11 @@
 id: 196627237
-type: way
+type: node
 latitude: 52.21267
 longitude: 10.19268
 postcode: "31185"
 city: Söhlde
-street: "Marktstraße"
-housenumber: 1
-phone: "+49 5129 96106"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "http://www.b1-kuechen.de"
+street: Marktstraße
+housenumber: "1"
+phone: +49 5129 96106
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: http://www.b1-kuechen.de

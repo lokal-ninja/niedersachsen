@@ -1,11 +1,11 @@
 id: 183759604
-type: way
+type: node
 latitude: 52.35806
 longitude: 10.11867
 postcode: "31275"
 city: Lehrte
-street: "Hermesstraße"
-housenumber: 3
+street: Hermesstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi-nord.de/"
+website: https://www.aldi-nord.de/

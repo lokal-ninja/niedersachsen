@@ -1,11 +1,11 @@
 id: 90969369
-type: way
+type: node
 latitude: 53.1841
 longitude: 8.07974
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Bertha-Benz-Straße"
-housenumber: 24
-phone: "+49 4403 9833533"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00"
-website: "http://nimmmit-moebel.de/"
+street: Bertha-Benz-Straße
+housenumber: "24"
+phone: +49 4403 9833533
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-16:00
+website: http://nimmmit-moebel.de/

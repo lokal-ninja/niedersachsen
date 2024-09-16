@@ -1,11 +1,11 @@
 id: 95462962
-type: way
+type: node
 latitude: 52.15098
 longitude: 8.03707
 postcode: "49186"
 city: Bad Iburg
-street: "Fuchsbreite"
-housenumber: 19
+street: Fuchsbreite
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

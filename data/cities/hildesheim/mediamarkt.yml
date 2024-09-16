@@ -4,8 +4,8 @@ latitude: 52.16476
 longitude: 9.97114
 postcode: "31135"
 city: Hildesheim
-street: "Bavenstedter Straße"
-housenumber: 65
+street: Bavenstedter Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/hildesheim-462"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/hildesheim-462

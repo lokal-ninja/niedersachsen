@@ -4,8 +4,8 @@ latitude: 52.45335
 longitude: 9.73446
 postcode: "30853"
 city: Langenhagen
-street: "Hanseatenstraße"
-housenumber: 34
-phone: "+49 511 / 76 900 100"
-opening_hours: "Mo-Fr 10:30-18:00 Su 09:00-15:00"
+street: Hanseatenstraße
+housenumber: "34"
+phone: +49 511 / 76 900 100
+opening_hours: Mo-Fr 10:30-18:00 Su 09:00-15:00
 website: ""

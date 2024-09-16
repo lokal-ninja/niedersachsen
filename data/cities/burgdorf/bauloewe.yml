@@ -1,11 +1,11 @@
 id: 194530852
-type: way
+type: node
 latitude: 52.44751
 longitude: 10.04121
 postcode: "31303"
 city: Burgdorf
-street: "Färberstraße"
-housenumber: 4
+street: Färberstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

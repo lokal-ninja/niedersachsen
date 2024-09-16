@@ -1,11 +1,11 @@
 id: 87427850
-type: way
+type: node
 latitude: 52.52345
 longitude: 8.19342
 postcode: "49401"
 city: Damme
-street: "Mühlenstraße"
-housenumber: 26
+street: Mühlenstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 08:00-24:00; Su off"
+opening_hours: Mo-Sa 08:00-24:00; Su off
 website: ""

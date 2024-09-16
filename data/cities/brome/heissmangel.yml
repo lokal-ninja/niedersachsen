@@ -1,11 +1,11 @@
 id: 169493225
-type: way
+type: node
 latitude: 52.60389
 longitude: 10.92473
 postcode: "38465"
 city: Brome
-street: "Wittinger Straße"
-housenumber: 11
+street: Wittinger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Th 08:00-11:00"
+opening_hours: Tu-Th 08:00-11:00
 website: ""

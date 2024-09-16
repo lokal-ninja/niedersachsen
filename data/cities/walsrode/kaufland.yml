@@ -1,11 +1,11 @@
 id: 192488421
-type: way
+type: node
 latitude: 52.86434
 longitude: 9.61541
 postcode: "29664"
 city: Walsrode
-street: "Heinrich-Hertz-Straße"
-housenumber: 9
+street: Heinrich-Hertz-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/Home/index.jsp?FilialID=5740"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/Home/index.jsp?FilialID=5740

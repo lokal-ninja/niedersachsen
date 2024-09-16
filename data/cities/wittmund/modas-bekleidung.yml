@@ -1,11 +1,11 @@
 id: 88645232
-type: way
+type: node
 latitude: 53.52893
 longitude: 7.78135
 postcode: "26409"
 city: Wittmund
-street: "Hauptstraße"
-housenumber: 6
+street: Hauptstraße
+housenumber: "6"
 phone: "+4944621759"
 opening_hours: ""
-website: "https://www.modas-bekleidung.de/"
+website: https://www.modas-bekleidung.de/

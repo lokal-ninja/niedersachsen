@@ -1,11 +1,11 @@
 id: 665713208
-type: way
+type: node
 latitude: 52.22236
 longitude: 8.0846
 postcode: "49124"
 city: Georgsmarienhütte
-street: "Brüsseler Straße"
-housenumber: 1
+street: Brüsseler Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

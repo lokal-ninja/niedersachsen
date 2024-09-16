@@ -4,8 +4,8 @@ latitude: 52.39102
 longitude: 9.85225
 postcode: "30629"
 city: Hannover
-street: "Buchholzer Straße"
-housenumber: 4
-phone: "+49 511 5421772"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH off"
-website: "http://www.fensterzumbuch.de"
+street: Buchholzer Straße
+housenumber: "4"
+phone: +49 511 5421772
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH off
+website: http://www.fensterzumbuch.de

@@ -1,11 +1,11 @@
 id: 498122050
-type: way
+type: node
 latitude: 52.48222
 longitude: 10.54321
 postcode: "38518"
 city: Gifhorn
-street: "Oldaustraße"
-housenumber: 2
+street: Oldaustraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

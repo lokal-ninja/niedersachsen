@@ -1,11 +1,11 @@
 id: 125581852
-type: way
+type: node
 latitude: 52.98858
 longitude: 10.10628
 postcode: "29633"
 city: Munster
-street: "Söhlstraße"
-housenumber: 15
+street: Söhlstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 08:00-16:00"
-website: "https://www.jawoll.de/filialsuche/jawoll-filiale-munster.html"
+opening_hours: Mo-Fr 09:00-19:00, Sa 08:00-16:00
+website: https://www.jawoll.de/filialsuche/jawoll-filiale-munster.html

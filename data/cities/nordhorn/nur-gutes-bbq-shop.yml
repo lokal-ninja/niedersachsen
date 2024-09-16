@@ -4,8 +4,8 @@ latitude: 52.44265
 longitude: 7.08611
 postcode: "48531"
 city: Nordhorn
-street: "Bosinks Kamp"
-housenumber: 8
-phone: "+49 5921 302790"
-opening_hours: "Tu-Fr 09:30-18:00"
-website: "https://www.nurgutes.de/bbq"
+street: Bosinks Kamp
+housenumber: "8"
+phone: +49 5921 302790
+opening_hours: Tu-Fr 09:30-18:00
+website: https://www.nurgutes.de/bbq

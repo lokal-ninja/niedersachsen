@@ -1,11 +1,11 @@
 id: 61109389
-type: way
+type: node
 latitude: 53.22549
 longitude: 10.16658
 postcode: "21376"
 city: Salzhausen
-street: "Eyendorfer Straße"
-housenumber: 5
-phone: "+49 4172 7775"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
+street: Eyendorfer Straße
+housenumber: "5"
+phone: +49 4172 7775
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
 website: ""

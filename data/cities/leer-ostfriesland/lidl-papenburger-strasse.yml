@@ -1,11 +1,11 @@
 id: 113585476
-type: way
+type: node
 latitude: 53.23175
 longitude: 7.47715
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Papenburger Straße"
-housenumber: 13
+street: Papenburger Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 08:00-21:00; Su off
+website: https://www.lidl.de/

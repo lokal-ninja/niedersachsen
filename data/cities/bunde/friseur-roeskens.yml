@@ -1,11 +1,11 @@
 id: 511223704
-type: way
+type: node
 latitude: 53.18494
 longitude: 7.27109
 postcode: "26831"
 city: Bunde
-street: "Kirchring"
-housenumber: 39
+street: Kirchring
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

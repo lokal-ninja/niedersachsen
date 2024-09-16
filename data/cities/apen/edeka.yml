@@ -1,11 +1,11 @@
 id: 1083628805
-type: way
+type: node
 latitude: 53.2185
 longitude: 7.76168
 postcode: "26689"
 city: Apen
-street: "Stahlwerkstraße"
-housenumber: 15
-phone: "+49 4489 941480"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Stahlwerkstraße
+housenumber: "15"
+phone: +49 4489 941480
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.06155
 longitude: 8.80546
 postcode: "28201"
 city: Bremen
-street: "Kornstraße"
-housenumber: 128
+street: Kornstraße
+housenumber: "128"
 phone: ""
-opening_hours: "Tu,Th,Fr 15:00-18:00; Sa 09:00-13:00"
+opening_hours: Tu,Th,Fr 15:00-18:00; Sa 09:00-13:00
 website: ""

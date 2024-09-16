@@ -4,8 +4,9 @@ latitude: 53.40827
 longitude: 7.72509
 postcode: "26639"
 city: Wiesmoor
-street: "Hauptstraße"
-housenumber: 238
+street: Hauptstraße
+housenumber: "238"
 phone: ""
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00; PH off"
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00; PH
+    off
 website: ""

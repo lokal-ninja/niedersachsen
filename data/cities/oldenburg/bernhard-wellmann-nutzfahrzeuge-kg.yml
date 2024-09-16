@@ -1,11 +1,11 @@
 id: 131240075
-type: way
+type: node
 latitude: 53.17519
 longitude: 8.2023
 postcode: "26127"
 city: Oldenburg
-street: "Bürgerbuschweg"
-housenumber: 71
+street: Bürgerbuschweg
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 126508397
-type: way
+type: node
 latitude: 52.62489
 longitude: 10.08536
 postcode: "29221"
 city: Celle
-street: "Am Heiligen Kreuz"
-housenumber: 10
+street: Am Heiligen Kreuz
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.42073
 longitude: 9.45224
 postcode: "31515"
 city: Wunstorf
-street: "Industriestraße"
-housenumber: 11
+street: Industriestraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00"
-website: "https://jysk.de/search?query=wunstorf"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00
+website: https://jysk.de/search?query=wunstorf

@@ -1,11 +1,11 @@
 id: 107940649
-type: way
+type: node
 latitude: 52.60063
 longitude: 10.10975
 postcode: "29227"
 city: Celle
-street: "Lärchenweg"
-housenumber: 4
+street: Lärchenweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 06:30-21:00"
+opening_hours: Mo-Sa 06:30-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 226894599
-type: way
+type: node
 latitude: 53.17723
 longitude: 8.6183
 postcode: "28757"
 city: Bremen
-street: "Georg-Gleistein-Straße"
-housenumber: 18
+street: Georg-Gleistein-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 06:00-19:00; Su 06:00-15:00"
+opening_hours: Mo-Sa 06:00-19:00; Su 06:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 557738842
-type: way
+type: node
 latitude: 52.73041
 longitude: 8.2646
 postcode: "49377"
 city: Vechta
-street: "Osloer Straße"
-housenumber: 3
+street: Osloer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

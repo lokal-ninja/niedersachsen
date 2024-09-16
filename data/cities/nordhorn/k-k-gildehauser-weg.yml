@@ -1,11 +1,11 @@
 id: 46133681
-type: way
+type: node
 latitude: 52.41571
 longitude: 7.06847
 postcode: "48529"
 city: Nordhorn
-street: "Gildehauser Weg"
-housenumber: 48
+street: Gildehauser Weg
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

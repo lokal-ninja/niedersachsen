@@ -4,8 +4,8 @@ latitude: 52.3811
 longitude: 9.7469
 postcode: "30161"
 city: Hannover
-street: "Friesenstraße"
-housenumber: 17
-phone: "0511-34020-0"
-opening_hours: "Mo-Fr 10:00-18:00 , Sa 10:00-14:00"
-website: "https://hansgbock.de"
+street: Friesenstraße
+housenumber: "17"
+phone: 0511-34020-0
+opening_hours: Mo-Fr 10:00-18:00 , Sa 10:00-14:00
+website: https://hansgbock.de

@@ -1,11 +1,11 @@
 id: 136230107
-type: way
+type: node
 latitude: 53.58225
 longitude: 8.62969
 postcode: "27619"
 city: Schiffdorf
-street: "Neufelder Weg"
-housenumber: 4
+street: Neufelder Weg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 953078427
-type: way
+type: node
 latitude: 53.41976
 longitude: 7.74438
 postcode: "26639"
 city: Wiesmoor
-street: "Hauptstraße"
-housenumber: 129
+street: Hauptstraße
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

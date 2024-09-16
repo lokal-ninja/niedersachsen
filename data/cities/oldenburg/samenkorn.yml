@@ -4,8 +4,8 @@ latitude: 53.14392
 longitude: 8.20494
 postcode: "26121"
 city: Oldenburg
-street: "Katharinenstraße"
-housenumber: 6
+street: Katharinenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.samenkorn-oldenburg.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.samenkorn-oldenburg.de/

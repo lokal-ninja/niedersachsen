@@ -1,11 +1,11 @@
 id: 84550031
-type: way
+type: node
 latitude: 53.35638
 longitude: 10.20469
 postcode: "21423"
 city: Winsen (Luhe)
-street: "Hansestraße"
-housenumber: 1
+street: Hansestraße
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

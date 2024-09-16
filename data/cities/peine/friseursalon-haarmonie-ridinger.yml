@@ -1,11 +1,11 @@
 id: 269488889
-type: way
+type: node
 latitude: 52.33229
 longitude: 10.26055
 postcode: "31224"
 city: Peine
-street: "Wölfelsdorfer Ring"
-housenumber: 9
+street: Wölfelsdorfer Ring
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

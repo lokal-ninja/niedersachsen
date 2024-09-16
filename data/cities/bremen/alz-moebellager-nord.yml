@@ -1,11 +1,11 @@
 id: 26494731
-type: way
+type: node
 latitude: 53.17025
 longitude: 8.63412
 postcode: ""
 city: Bremen
-street: "Hermann-Fortmann-Straße"
-housenumber: 18
+street: Hermann-Fortmann-Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

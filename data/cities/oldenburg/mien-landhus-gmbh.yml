@@ -1,11 +1,11 @@
 id: 103771210
-type: way
+type: node
 latitude: 53.10733
 longitude: 8.26452
 postcode: "26135"
 city: Oldenburg
-street: "Schlachthofstraße"
-housenumber: 32
-phone: "+49 441 3610660"
+street: Schlachthofstraße
+housenumber: "32"
+phone: +49 441 3610660
 opening_hours: ""
-website: "https://www.mienlandhus.de"
+website: https://www.mienlandhus.de

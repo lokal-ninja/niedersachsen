@@ -1,11 +1,11 @@
 id: 42755789
-type: way
+type: node
 latitude: 52.43181
 longitude: 10.8564
 postcode: "38448"
 city: Wolfsburg
-street: "Am Bahnhof"
-housenumber: 17
-phone: "+49 53631081"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.kroll-wolfsburg.de/"
+street: Am Bahnhof
+housenumber: "17"
+phone: +49 53631081
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.kroll-wolfsburg.de/

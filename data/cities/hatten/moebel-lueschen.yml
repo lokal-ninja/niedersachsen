@@ -1,11 +1,11 @@
 id: 305136493
-type: way
+type: node
 latitude: 53.01945
 longitude: 8.34899
 postcode: "26209"
 city: Hatten
-street: "Hauptstraße"
-housenumber: 7
+street: Hauptstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

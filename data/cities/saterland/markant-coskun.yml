@@ -1,11 +1,11 @@
 id: 78575614
-type: way
+type: node
 latitude: 53.10361
 longitude: 7.67351
 postcode: "26683"
 city: Saterland
-street: "Hauptstraße"
-housenumber: 498
+street: Hauptstraße
+housenumber: "498"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

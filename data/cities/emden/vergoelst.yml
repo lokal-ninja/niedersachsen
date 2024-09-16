@@ -1,11 +1,11 @@
 id: 1075565454
-type: way
+type: node
 latitude: 53.35896
 longitude: 7.17159
 postcode: "26723"
 city: Emden
-street: "Württemberger Straße"
-housenumber: 9
-phone: "+49 4921 51004"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://vergoelst.de/branches/vergoelst-emden-wuerttemberger-strasse.branch-0050.html"
+street: Württemberger Straße
+housenumber: "9"
+phone: +49 4921 51004
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://vergoelst.de/branches/vergoelst-emden-wuerttemberger-strasse.branch-0050.html

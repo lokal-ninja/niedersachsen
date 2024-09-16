@@ -1,11 +1,11 @@
 id: 252923071
-type: way
+type: node
 latitude: 53.30475
 longitude: 7.44356
 postcode: "26802"
 city: Moormerland
-street: "Süderstraße"
-housenumber: 30
+street: Süderstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

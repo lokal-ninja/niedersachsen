@@ -1,11 +1,11 @@
 id: 111497818
-type: way
+type: node
 latitude: 52.91717
 longitude: 9.26691
 postcode: ""
 city: Verden (Aller)
-street: "Borsteler Dorfstraße"
-housenumber: 102
+street: Borsteler Dorfstraße
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 828209222
-type: way
+type: node
 latitude: 53.11665
 longitude: 9.20596
 postcode: "27367"
 city: Sottrum
-street: "Carl-von-Linde-Straße"
-housenumber: 6
-phone: "+49 4264 8364181"
-opening_hours: "Mo-Sa10:00-17:00"
-website: "https://wheelscompany.com/"
+street: Carl-von-Linde-Straße
+housenumber: "6"
+phone: +49 4264 8364181
+opening_hours: Mo-Sa10:00-17:00
+website: https://wheelscompany.com/

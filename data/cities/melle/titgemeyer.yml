@@ -4,8 +4,8 @@ latitude: 52.20287
 longitude: 8.34029
 postcode: ""
 city: Melle
-street: "Dürrenberger Ring"
-housenumber: 16
+street: Dürrenberger Ring
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr,Su 07:00-18:00; Sa 07:00-13:00; PH closed"
-website: "http://www.baeckerei-titgemeyer.de/"
+opening_hours: Mo-Fr,Su 07:00-18:00; Sa 07:00-13:00; PH closed
+website: http://www.baeckerei-titgemeyer.de/

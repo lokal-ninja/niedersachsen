@@ -1,11 +1,11 @@
 id: 121998964
-type: way
+type: node
 latitude: 53.58741
 longitude: 6.67074
 postcode: "26757"
 city: Borkum
-street: "Blumenstraße"
-housenumber: 3
+street: Blumenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00"
-website: "https://fahrraeder-borkum.de/"
+opening_hours: Mo-Fr 09:00-13:00
+website: https://fahrraeder-borkum.de/

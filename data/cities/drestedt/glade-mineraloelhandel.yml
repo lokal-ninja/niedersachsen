@@ -4,8 +4,8 @@ latitude: 53.3348
 longitude: 9.7576
 postcode: "21279"
 city: Drestedt
-street: "Kurze Straße"
-housenumber: 1
-phone: "+49 4186 227"
-opening_hours: "24/7"
-website: "https://glade-heizoel.de/"
+street: Kurze Straße
+housenumber: "1"
+phone: +49 4186 227
+opening_hours: 24/7
+website: https://glade-heizoel.de/

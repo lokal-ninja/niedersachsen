@@ -4,8 +4,8 @@ latitude: 51.93397
 longitude: 10.32497
 postcode: "38685"
 city: Langelsheim
-street: "Harzstraße"
-housenumber: 64
-phone: "+49 5326 996913"
-opening_hours: "Nur nach Vereinbarung"
-website: "http://nagelstudio-flair.de/"
+street: Harzstraße
+housenumber: "64"
+phone: +49 5326 996913
+opening_hours: '"Nur nach Vereinbarung"'
+website: http://nagelstudio-flair.de/

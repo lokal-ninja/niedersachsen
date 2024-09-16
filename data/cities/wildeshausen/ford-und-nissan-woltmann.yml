@@ -1,11 +1,11 @@
 id: 29342806
-type: way
+type: node
 latitude: 52.8985
 longitude: 8.41226
 postcode: "27793"
 city: Wildeshausen
-street: "Ahlhorner Straße"
-housenumber: 83
+street: Ahlhorner Straße
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

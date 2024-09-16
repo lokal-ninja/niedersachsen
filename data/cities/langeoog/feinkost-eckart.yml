@@ -1,11 +1,11 @@
 id: 230939132
-type: way
+type: node
 latitude: 53.7466
 longitude: 7.48035
 postcode: "26465"
 city: Langeoog
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-12:00, 15:00-19:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-12:00, 15:00-19:00
 website: ""

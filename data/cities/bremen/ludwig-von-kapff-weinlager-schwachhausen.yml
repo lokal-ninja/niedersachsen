@@ -4,8 +4,8 @@ latitude: 53.08533
 longitude: 8.8284
 postcode: "28209"
 city: Bremen
-street: "Wachmannstraße"
-housenumber: 16
+street: Wachmannstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo,Tu 15:00-19:00; We-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://www.ludwig-von-kapff.de/"
+opening_hours: Mo,Tu 15:00-19:00; We-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://www.ludwig-von-kapff.de/

@@ -4,8 +4,8 @@ latitude: 52.6054
 longitude: 9.0923
 postcode: "31618"
 city: Liebenau
-street: "Lange Straße"
-housenumber: 9
-phone: "+49 5023 539"
-opening_hours: "Mo-Sa 06:00-13:00; Mo, Tu, Th, Fr 15:00-18:00"
-website: "https://www.fleischerei-suechting.de/produkte/partyservice.html"
+street: Lange Straße
+housenumber: "9"
+phone: +49 5023 539
+opening_hours: Mo-Sa 06:00-13:00; Mo, Tu, Th, Fr 15:00-18:00
+website: https://www.fleischerei-suechting.de/produkte/partyservice.html

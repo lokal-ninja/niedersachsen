@@ -4,8 +4,8 @@ latitude: 52.28059
 longitude: 8.04377
 postcode: "49074"
 city: Osnabrück
-street: "Hasestraße"
-housenumber: 66
+street: Hasestraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.shock-records.de"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.shock-records.de

@@ -1,11 +1,11 @@
 id: 101287714
-type: way
+type: node
 latitude: 52.85736
 longitude: 7.92462
 postcode: "49696"
 city: Molbergen
-street: "Kneheimer Weg"
-housenumber: 10
+street: Kneheimer Weg
+housenumber: "10"
 phone: "+4944478020"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su, PH off"
-website: "https://www.gs-genossenschaft.de/raiffeisenmarkt"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su, PH off
+website: https://www.gs-genossenschaft.de/raiffeisenmarkt

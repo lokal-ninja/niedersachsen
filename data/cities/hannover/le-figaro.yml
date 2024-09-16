@@ -4,8 +4,8 @@ latitude: 52.36956
 longitude: 9.75331
 postcode: "30171"
 city: Hannover
-street: "Detmoldstraße"
-housenumber: 9
+street: Detmoldstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Sa 08:30-13:30; Tu-Fr 09:00-18:00"
-website: "http://www.lefigaro-hannover.de/"
+opening_hours: Sa 08:30-13:30; Tu-Fr 09:00-18:00
+website: http://www.lefigaro-hannover.de/

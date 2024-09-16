@@ -1,11 +1,11 @@
 id: 77483788
-type: way
+type: node
 latitude: 53.57347
 longitude: 7.90159
 postcode: "26441"
 city: Jever
-street: "Am Kirchplatz"
-housenumber: 7
+street: Am Kirchplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-17:00; We 09:00-13:00; Sa,Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 09:00-17:00; We 09:00-13:00; Sa,Su,PH off
 website: ""

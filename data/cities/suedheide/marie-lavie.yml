@@ -1,11 +1,11 @@
 id: 38236609
-type: way
+type: node
 latitude: 52.8314
 longitude: 10.09111
 postcode: "29320"
 city: Südheide
-street: "Lotharstraße"
-housenumber: 6
+street: Lotharstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

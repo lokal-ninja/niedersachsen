@@ -1,11 +1,11 @@
 id: 240616146
-type: way
+type: node
 latitude: 52.96819
 longitude: 11.16911
 postcode: "29439"
 city: Lüchow
-street: "Berthold-Roggan-Ring"
-housenumber: 29
+street: Berthold-Roggan-Ring
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

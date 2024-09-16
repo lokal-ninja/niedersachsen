@@ -1,11 +1,11 @@
 id: 373500969
-type: way
+type: node
 latitude: 53.10104
 longitude: 8.78799
 postcode: "28219"
 city: Bremen
-street: "Waller Heerstraße"
-housenumber: 103
+street: Waller Heerstraße
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH,Su off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH,Su off
 website: ""

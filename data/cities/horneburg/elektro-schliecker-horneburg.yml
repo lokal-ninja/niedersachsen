@@ -1,11 +1,11 @@
 id: 127772314
-type: way
+type: node
 latitude: 53.50856
 longitude: 9.57705
 postcode: "21640"
 city: Horneburg
-street: "Bahnhofstraße"
-housenumber: 
-phone: "+494163 80820"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.schliecker.de/"
+street: Bahnhofstraße
+housenumber: ""
+phone: +494163 80820
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.schliecker.de/

@@ -4,8 +4,8 @@ latitude: 53.74243
 longitude: 8.81007
 postcode: "21776"
 city: Wanna
-street: "Landesstraße"
-housenumber: 46
-phone: "+49 4757 811111"
-opening_hours: "Mo-We 09:00-18:30; Th 09:00-19:00; Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.mode-schult.de/"
+street: Landesstraße
+housenumber: "46"
+phone: +49 4757 811111
+opening_hours: Mo-We 09:00-18:30; Th 09:00-19:00; Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.mode-schult.de/

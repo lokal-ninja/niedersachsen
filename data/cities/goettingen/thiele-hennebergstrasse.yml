@@ -4,8 +4,9 @@ latitude: 51.55978
 longitude: 9.93412
 postcode: "37077"
 city: Göttingen
-street: "Hennebergstraße"
-housenumber: 12
+street: Hennebergstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-14:00; Su,PH 07:00-16:00; Jan 1 off; May 1 off"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-14:00; Su,PH 07:00-16:00; Jan 1 off; May
+    1 off
 website: ""

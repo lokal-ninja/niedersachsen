@@ -1,11 +1,11 @@
 id: 78344834
-type: way
+type: node
 latitude: 51.9249
 longitude: 10.42516
 postcode: "38644"
 city: Goslar
-street: "Bornhardtstraße"
-housenumber: 15
+street: Bornhardtstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://lidl.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://lidl.de

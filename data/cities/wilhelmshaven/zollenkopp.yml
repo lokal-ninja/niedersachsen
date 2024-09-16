@@ -1,11 +1,11 @@
 id: 117714513
-type: way
+type: node
 latitude: 53.52799
 longitude: 8.12642
 postcode: "26384"
 city: Wilhelmshaven
-street: "Ulmenstraße"
-housenumber: 25
+street: Ulmenstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Sa 06:00-13:00, Tu-Fr 14:30-18:00; Mo off"
+opening_hours: Tu-Sa 06:00-13:00, Tu-Fr 14:30-18:00; Mo off
 website: ""

@@ -1,11 +1,11 @@
 id: 112881266
-type: way
+type: node
 latitude: 52.41464
 longitude: 9.37873
 postcode: "31515"
 city: Wunstorf
-street: "Alte Dorfstraße"
-housenumber: 26
+street: Alte Dorfstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

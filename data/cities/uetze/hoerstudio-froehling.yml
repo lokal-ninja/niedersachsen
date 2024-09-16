@@ -4,8 +4,8 @@ latitude: 52.46467
 longitude: 10.20428
 postcode: "31311"
 city: Uetze
-street: "Kirchstraße"
-housenumber: 3
-phone: "+49 5173 690315"
-opening_hours: "Mo 9:30-12:30; We 9:30-12:30; Th 9:30-12:30, 14:00-18:00; Fr 9:30-12:30"
-website: "https://www.hoerstudio-froehling.de/"
+street: Kirchstraße
+housenumber: "3"
+phone: +49 5173 690315
+opening_hours: Mo 9:30-12:30; We 9:30-12:30; Th 9:30-12:30, 14:00-18:00; Fr 9:30-12:30
+website: https://www.hoerstudio-froehling.de/

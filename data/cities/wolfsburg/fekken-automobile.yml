@@ -1,11 +1,11 @@
 id: 104394684
-type: way
+type: node
 latitude: 52.4201
 longitude: 10.71025
 postcode: "38442"
 city: Wolfsburg
-street: "Viehtrift"
-housenumber: 17
+street: Viehtrift
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.fekken.de/index2.htm"
+website: https://www.fekken.de/index2.htm

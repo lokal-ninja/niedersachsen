@@ -1,11 +1,11 @@
 id: 1027117992
-type: way
+type: node
 latitude: 52.71638
 longitude: 7.09034
 postcode: ""
 city: Twist
-street: "Zollstraße"
-housenumber: 25
+street: Zollstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

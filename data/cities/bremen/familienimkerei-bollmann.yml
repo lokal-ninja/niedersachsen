@@ -4,8 +4,8 @@ latitude: 53.0742
 longitude: 8.8451
 postcode: "28205"
 city: Bremen
-street: "Anna-Lühring-Straße"
-housenumber: 35
-phone: "+49 0421 4992183"
-opening_hours: "Mon-Sat 10am-12pm; 1:30pm-6pm; Sun 1:30pm-7pm"
-website: "https://www.bollmann-hb.de"
+street: Anna-Lühring-Straße
+housenumber: "35"
+phone: +49 0421 4992183
+opening_hours: Mon-Sat 10am-12pm; 1:30pm-6pm; Sun 1:30pm-7pm
+website: https://www.bollmann-hb.de

@@ -1,11 +1,11 @@
 id: 411233120
-type: way
+type: node
 latitude: 53.22141
 longitude: 8.18473
 postcode: "26180"
 city: Rastede
-street: "Metjendorfer Straße"
-housenumber: 226
+street: Metjendorfer Straße
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

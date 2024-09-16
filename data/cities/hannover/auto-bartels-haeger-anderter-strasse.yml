@@ -4,8 +4,8 @@ latitude: 52.38193
 longitude: 9.86215
 postcode: "30629"
 city: Hannover
-street: "Anderter Straße"
-housenumber: 71
-phone: "+49 - 511 580538"
-opening_hours: "Mo-Th 07:45-16:45;Fr 07:45-15:30"
-website: "https://auto-bartels-haeger.de"
+street: Anderter Straße
+housenumber: "71"
+phone: +49 - 511 580538
+opening_hours: Mo-Th 07:45-16:45;Fr 07:45-15:30
+website: https://auto-bartels-haeger.de

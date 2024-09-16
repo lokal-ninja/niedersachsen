@@ -1,11 +1,11 @@
 id: 25425003
-type: way
+type: node
 latitude: 53.18731
 longitude: 8.1997
 postcode: "26127"
 city: Oldenburg
-street: "Am Stadtrand"
-housenumber: 
+street: Am Stadtrand
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

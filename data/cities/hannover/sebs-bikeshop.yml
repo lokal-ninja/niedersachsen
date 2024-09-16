@@ -4,8 +4,8 @@ latitude: 52.36983
 longitude: 9.71361
 postcode: "30449"
 city: Hannover
-street: "Haasemannstraße"
-housenumber: 10
+street: Haasemannstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu,Th-Sa 09:00-13:00, Tu-Fr 14:00-18:00"
-website: "https://sebs-bikeshop.de/"
+opening_hours: Tu,Th-Sa 09:00-13:00, Tu-Fr 14:00-18:00
+website: https://sebs-bikeshop.de/

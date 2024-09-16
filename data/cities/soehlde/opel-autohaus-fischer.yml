@@ -4,8 +4,8 @@ latitude: 52.20011
 longitude: 10.15028
 postcode: "31185"
 city: Söhlde
-street: "An der Bundesstraße"
-housenumber: 3
-phone: "+49 5123 690"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.opel-fischer-feldbergen.de/"
+street: An der Bundesstraße
+housenumber: "3"
+phone: +49 5123 690
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.opel-fischer-feldbergen.de/

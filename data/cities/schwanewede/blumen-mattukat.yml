@@ -1,11 +1,11 @@
 id: 367258146
-type: way
+type: node
 latitude: 53.22011
 longitude: 8.58833
 postcode: "28790"
 city: Schwanewede
-street: "Insterburger Weg"
-housenumber: 5
+street: Insterburger Weg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.blumen-mattukat.de/"
+website: http://www.blumen-mattukat.de/

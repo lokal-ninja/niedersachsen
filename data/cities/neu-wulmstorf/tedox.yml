@@ -4,8 +4,8 @@ latitude: 53.46004
 longitude: 9.78343
 postcode: "21629"
 city: Neu Wulmstorf
-street: "Matthias-Claudius-Straße"
-housenumber: 20
-phone: "+49 40 7038580"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.tedox.de/shoplist/index/detail/?id=42"
+street: Matthias-Claudius-Straße
+housenumber: "20"
+phone: +49 40 7038580
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.tedox.de/shoplist/index/detail/?id=42

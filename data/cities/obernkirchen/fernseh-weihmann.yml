@@ -4,8 +4,8 @@ latitude: 52.25
 longitude: 9.11984
 postcode: "31683"
 city: Obernkirchen
-street: "Winternstraße"
-housenumber: 8
-phone: "+49 5724 972030"
-opening_hours: "nach Absprache"
-website: "https://iq-fernseh-weihmann.de/unsereprodukte.php"
+street: Winternstraße
+housenumber: "8"
+phone: +49 5724 972030
+opening_hours: '"nach Absprache"'
+website: https://iq-fernseh-weihmann.de/unsereprodukte.php

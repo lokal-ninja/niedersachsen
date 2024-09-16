@@ -1,11 +1,11 @@
 id: 130520367
-type: way
+type: node
 latitude: 52.68156
 longitude: 7.2898
 postcode: "49716"
 city: Meppen
-street: "Auf der Herrschwiese"
+street: Auf der Herrschwiese
 housenumber: 5-9
-phone: "+49 5931 98010"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://www.euronics.de/xxl-meppen-moesker"
+phone: +49 5931 98010
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://www.euronics.de/xxl-meppen-moesker

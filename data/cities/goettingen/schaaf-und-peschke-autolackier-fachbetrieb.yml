@@ -1,11 +1,11 @@
 id: 31052814
-type: way
+type: node
 latitude: 51.52013
 longitude: 9.88448
 postcode: "37081"
 city: Göttingen
-street: "Anna-Vandenhoeck-Ring"
-housenumber: 32
+street: Anna-Vandenhoeck-Ring
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

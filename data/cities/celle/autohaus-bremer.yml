@@ -4,8 +4,8 @@ latitude: 52.59602
 longitude: 10.10994
 postcode: "29227"
 city: Celle
-street: "Braunschweiger Heerstraße"
-housenumber: 98
+street: Braunschweiger Heerstraße
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-12:00;Su off;PH off"
-website: "https://www.autohausbremer.de/"
+opening_hours: Mo-Fr 08:00-18:00;Sa 09:00-12:00;Su off;PH off
+website: https://www.autohausbremer.de/

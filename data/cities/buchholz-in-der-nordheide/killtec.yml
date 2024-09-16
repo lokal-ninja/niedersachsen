@@ -4,8 +4,8 @@ latitude: 53.34761
 longitude: 9.85749
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Zimmererstraße"
-housenumber: 5
-phone: "+49 4181 20080"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://killtec.de/"
+street: Zimmererstraße
+housenumber: "5"
+phone: +49 4181 20080
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://killtec.de/

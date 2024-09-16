@@ -1,11 +1,11 @@
 id: 141968736
-type: way
+type: node
 latitude: 52.29733
 longitude: 7.15758
 postcode: "48455"
 city: Bad Bentheim
-street: "Berliner Ring"
-housenumber: 44
-phone: "+49 5922 99820"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.klaas-und-kock.de/"
+street: Berliner Ring
+housenumber: "44"
+phone: +49 5922 99820
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.klaas-und-kock.de/

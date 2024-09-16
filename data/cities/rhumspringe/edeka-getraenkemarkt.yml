@@ -1,11 +1,11 @@
 id: 761916746
-type: way
+type: node
 latitude: 51.57888
 longitude: 10.29478
 postcode: "37434"
 city: Rhumspringe
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 179412536
-type: way
+type: node
 latitude: 52.96727
 longitude: 10.57342
 postcode: "29525"
 city: Uelzen
-street: "Bernhard-Nigebur-Straße"
-housenumber: 66
+street: Bernhard-Nigebur-Straße
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

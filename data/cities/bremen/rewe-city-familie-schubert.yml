@@ -1,11 +1,11 @@
 id: 686398099
-type: way
+type: node
 latitude: 53.10059
 longitude: 8.90308
 postcode: "28355"
 city: Bremen
-street: "Oberneulander Heerstraße"
-housenumber: 40
+street: Oberneulander Heerstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

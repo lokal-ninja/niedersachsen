@@ -1,11 +1,11 @@
 id: 56141601
-type: way
+type: node
 latitude: 52.89979
 longitude: 10.17191
 postcode: "29328"
 city: Faßberg
-street: "Finkenweg"
-housenumber: 6
+street: Finkenweg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

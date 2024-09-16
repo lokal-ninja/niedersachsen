@@ -1,11 +1,11 @@
 id: 223940575
-type: way
+type: node
 latitude: 53.13908
 longitude: 7.60839
 postcode: "26842"
 city: Ostrhauderfehn
-street: "Hauptstraße"
-housenumber: 48
+street: Hauptstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

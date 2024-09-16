@@ -1,11 +1,11 @@
 id: 304965063
-type: way
+type: node
 latitude: 53.37258
 longitude: 9.89205
 postcode: "21224"
 city: Rosengarten
-street: "Am Hatzberg"
-housenumber: 16
+street: Am Hatzberg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su 14:00-17:00"
-website: "http://www.thaden-wintergarten.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su 14:00-17:00
+website: http://www.thaden-wintergarten.de/

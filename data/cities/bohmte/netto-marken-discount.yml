@@ -1,11 +1,11 @@
 id: 342106116
-type: way
+type: node
 latitude: 52.43662
 longitude: 8.27062
 postcode: "49163"
 city: Bohmte
-street: "Hauptstraße"
-housenumber: 26
+street: Hauptstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

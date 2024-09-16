@@ -1,11 +1,11 @@
 id: 42105439
-type: way
+type: node
 latitude: 53.34001
 longitude: 8.4191
 postcode: "26939"
 city: Ovelgönne
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.folter-ovelgoenne.de/"
+website: https://www.folter-ovelgoenne.de/

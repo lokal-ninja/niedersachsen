@@ -1,11 +1,11 @@
 id: 891454801
-type: way
+type: node
 latitude: 52.50622
 longitude: 10.53015
 postcode: "38518"
 city: Gifhorn
-street: "Carl-Miele-Straße"
-housenumber: 1
+street: Carl-Miele-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

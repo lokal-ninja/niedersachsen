@@ -1,11 +1,11 @@
 id: 153294640
-type: way
+type: node
 latitude: 52.04629
 longitude: 10.375
 postcode: "38259"
 city: Salzgitter
-street: "Hinter dem Salze"
-housenumber: 
+street: Hinter dem Salze
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

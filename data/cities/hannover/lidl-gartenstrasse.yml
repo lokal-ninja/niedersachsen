@@ -1,11 +1,11 @@
 id: 34426330
-type: way
+type: node
 latitude: 52.37763
 longitude: 9.66111
 postcode: "30453"
 city: Hannover
-street: "Gartenstraße"
-housenumber: 30
-phone: "+49 800 43 53 361"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Gartenstraße
+housenumber: "30"
+phone: +49 800 43 53 361
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

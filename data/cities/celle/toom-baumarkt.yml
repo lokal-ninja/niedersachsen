@@ -1,11 +1,11 @@
 id: 150074367
-type: way
+type: node
 latitude: 52.59234
 longitude: 10.06593
 postcode: "29227"
 city: Celle
-street: "Am Ohlhorstberge"
-housenumber: 7
-phone: "+49 5141 95940"
-opening_hours: "Mo-Th,Sa 08:00-20:00; Fr 08:00-22:00"
-website: "https://toom.de/m/celle/"
+street: Am Ohlhorstberge
+housenumber: "7"
+phone: +49 5141 95940
+opening_hours: Mo-Th,Sa 08:00-20:00; Fr 08:00-22:00
+website: https://toom.de/m/celle/

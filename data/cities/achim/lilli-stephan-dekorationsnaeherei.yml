@@ -4,8 +4,8 @@ latitude: 53.01212
 longitude: 9.03451
 postcode: "28832"
 city: Achim
-street: "Langenstraße"
-housenumber: 4
-phone: "+49 4202 889890"
-opening_hours: "Mo-Fr 9:30-18:00,Sa 9:00-13:00"
-website: "https://www.lilli-stephan.de/"
+street: Langenstraße
+housenumber: "4"
+phone: +49 4202 889890
+opening_hours: Mo-Fr 9:30-18:00,Sa 9:00-13:00
+website: https://www.lilli-stephan.de/

@@ -4,8 +4,8 @@ latitude: 53.63483
 longitude: 8.03368
 postcode: "26434"
 city: Wangerland
-street: "Middeldiek"
-housenumber: 4
-phone: "+49 4426 9296902"
-opening_hours: "09:00-13:00, 14:00-17:00"
-website: "https://www.nordseerad.de/"
+street: Middeldiek
+housenumber: "4"
+phone: +49 4426 9296902
+opening_hours: 09:00-13:00, 14:00-17:00
+website: https://www.nordseerad.de/

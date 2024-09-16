@@ -4,8 +4,8 @@ latitude: 52.98279
 longitude: 9.92321
 postcode: "29614"
 city: Soltau
-street: "Rahrsberg"
-housenumber: 7
-phone: "+49 5191 9737487"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://de.liebeskind-berlin.com/"
+street: Rahrsberg
+housenumber: "7"
+phone: +49 5191 9737487
+opening_hours: Mo-Sa 10:00-20:00
+website: https://de.liebeskind-berlin.com/

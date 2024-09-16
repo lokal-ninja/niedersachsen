@@ -1,11 +1,11 @@
 id: 981621124
-type: way
+type: node
 latitude: 53.03055
 longitude: 8.53315
 postcode: "27777"
 city: Ganderkesee
-street: "Bergedorfer Straße"
-housenumber: 39
+street: Bergedorfer Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 9:00-13:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 9:00-13:00
 website: ""

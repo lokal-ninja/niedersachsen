@@ -4,8 +4,8 @@ latitude: 51.95426
 longitude: 9.74816
 postcode: "31073"
 city: Delligsen
-street: "Untere Hilsstraße"
-housenumber: 32
-phone: "+49 51877228"
-opening_hours: "Mo 08:00-13:00; Tu-Fr 08:00-13:00, 15:00-18:00, Sa 08:00-12:00"
-website: "https://www.fleischerei-meier-gruenenplan.de/"
+street: Untere Hilsstraße
+housenumber: "32"
+phone: +49 51877228
+opening_hours: Mo 08:00-13:00; Tu-Fr 08:00-13:00, 15:00-18:00, Sa 08:00-12:00
+website: https://www.fleischerei-meier-gruenenplan.de/

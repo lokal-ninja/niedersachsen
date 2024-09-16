@@ -1,11 +1,11 @@
 id: 583072084
-type: way
+type: node
 latitude: 53.77239
 longitude: 9.06297
 postcode: "21781"
 city: Cadenberge
-street: "Bergstraße"
-housenumber: 33
+street: Bergstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

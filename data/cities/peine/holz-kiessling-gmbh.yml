@@ -1,11 +1,11 @@
 id: 268454300
-type: way
+type: node
 latitude: 52.33376
 longitude: 10.19368
 postcode: "31228"
 city: Peine
-street: "An der Ziegelei"
-housenumber: 2
+street: An der Ziegelei
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "www.holz-kiessling.de"
+website: www.holz-kiessling.de

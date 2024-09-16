@@ -4,8 +4,8 @@ latitude: 52.20046
 longitude: 8.33489
 postcode: "49324"
 city: Melle
-street: "Plettenberger Straße"
-housenumber: 50
+street: Plettenberger Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00;Sa 09:00-20:00"
-website: "https://www.ewe.de"
+opening_hours: Mo-Fr 09:00-21:00;Sa 09:00-20:00
+website: https://www.ewe.de

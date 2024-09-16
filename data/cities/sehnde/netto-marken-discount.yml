@@ -1,11 +1,11 @@
 id: 87973796
-type: way
+type: node
 latitude: 52.34028
 longitude: 9.93169
 postcode: "31319"
 city: Sehnde
-street: "Am Park"
-housenumber: 57
+street: Am Park
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

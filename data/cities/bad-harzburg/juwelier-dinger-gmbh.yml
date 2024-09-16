@@ -4,8 +4,9 @@ latitude: 51.88106
 longitude: 10.55979
 postcode: "38667"
 city: Bad Harzburg
-street: "Herzog-Wilhelm-Straße"
-housenumber: 66
-phone: "+49 5322 2898"
-opening_hours: "Mo - Fr: 09:00 - 13:30 Uhr und: 14:30 - 18:00 Uhr Samstag: 09:00 - 13:30 Uhr"
-website: "https://www.juwelier-dinger.de"
+street: Herzog-Wilhelm-Straße
+housenumber: "66"
+phone: +49 5322 2898
+opening_hours: 'Mo - Fr: 09:00 - 13:30 Uhr und: 14:30 - 18:00 Uhr Samstag: 09:00 -
+    13:30 Uhr'
+website: https://www.juwelier-dinger.de

@@ -1,11 +1,11 @@
 id: 34909675
-type: way
+type: node
 latitude: 53.47187
 longitude: 9.71591
 postcode: "21614"
 city: Buxtehude
-street: "Harburger Straße"
-housenumber: 80
+street: Harburger Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off
 website: ""

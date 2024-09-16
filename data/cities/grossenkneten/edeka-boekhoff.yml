@@ -1,11 +1,11 @@
 id: 257830987
-type: way
+type: node
 latitude: 52.90035
 longitude: 8.21376
 postcode: "26197"
 city: Großenkneten
-street: "Wildeshauser Straße"
+street: Wildeshauser Straße
 housenumber: 8-10
-phone: "+49 4435 3233"
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
-website: "https://www.edeka.de/"
+phone: +49 4435 3233
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
+website: https://www.edeka.de/

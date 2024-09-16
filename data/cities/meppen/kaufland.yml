@@ -1,11 +1,11 @@
 id: 39607643
-type: way
+type: node
 latitude: 52.69168
 longitude: 7.28894
 postcode: "49716"
 city: Meppen
-street: "Am Neuen Markt"
-housenumber: 1
+street: Am Neuen Markt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

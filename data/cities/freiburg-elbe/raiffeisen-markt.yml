@@ -1,11 +1,11 @@
 id: 92315663
-type: way
+type: node
 latitude: 53.81953
 longitude: 9.28517
 postcode: "21729"
 city: Freiburg (Elbe)
-street: "Landesbrücker Straße"
-housenumber: 22
+street: Landesbrücker Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

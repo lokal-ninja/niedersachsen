@@ -4,8 +4,8 @@ latitude: 53.32881
 longitude: 9.88078
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Breite Straße"
-housenumber: 25
-phone: "+49 4181 5074"
-opening_hours: "Mo,Tu,Th,Fr 09:30-18:00; We 09:30-15:00; Sa 09:30-13:00"
-website: "https://www.reise-hartmann.de/"
+street: Breite Straße
+housenumber: "25"
+phone: +49 4181 5074
+opening_hours: Mo,Tu,Th,Fr 09:30-18:00; We 09:30-15:00; Sa 09:30-13:00
+website: https://www.reise-hartmann.de/

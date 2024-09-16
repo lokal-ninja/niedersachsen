@@ -4,8 +4,8 @@ latitude: 52.30193
 longitude: 9.74047
 postcode: "30966"
 city: Hemmingen
-street: "Göttinger Straße"
-housenumber: 77
-phone: "+49 5101 4453"
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00"
-website: "https://www.brille-und-linse.de/"
+street: Göttinger Straße
+housenumber: "77"
+phone: +49 5101 4453
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00
+website: https://www.brille-und-linse.de/

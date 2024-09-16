@@ -1,11 +1,11 @@
 id: 405645073
-type: way
+type: node
 latitude: 52.60494
 longitude: 8.38025
 postcode: "49356"
 city: Diepholz
-street: "Am Bahnhof"
-housenumber: 2
+street: Am Bahnhof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:30-17:00; PH,Sa-Su off"
+opening_hours: Mo-Fr 09:00-12:30,13:30-17:00; PH,Sa-Su off
 website: ""

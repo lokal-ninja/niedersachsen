@@ -1,11 +1,11 @@
 id: 355262423
-type: way
+type: node
 latitude: 52.44738
 longitude: 9.60791
 postcode: "30827"
 city: Garbsen
-street: "Siemensstraße"
+street: Siemensstraße
 housenumber: 21A
 phone: ""
 opening_hours: ""
-website: "https://hammer-zuhause.de"
+website: https://hammer-zuhause.de

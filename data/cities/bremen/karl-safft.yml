@@ -4,8 +4,9 @@ latitude: 53.09255
 longitude: 8.84582
 postcode: "28213"
 city: Bremen
-street: "H.-H.-Meier-Allee"
-housenumber: 42
+street: H.-H.-Meier-Allee
+housenumber: "42"
 phone: ""
-opening_hours: "Tu-Th 07:30-13:00,15:00-18:00; Fr 07:00-14:00,15:00-18:00; Sa 07:00-12:30; Mo 07:00-13:00"
+opening_hours: Tu-Th 07:30-13:00,15:00-18:00; Fr 07:00-14:00,15:00-18:00; Sa 07:00-12:30;
+    Mo 07:00-13:00
 website: ""

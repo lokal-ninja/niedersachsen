@@ -1,11 +1,11 @@
 id: 145049703
-type: way
+type: node
 latitude: 52.72496
 longitude: 7.94437
 postcode: "49632"
 city: Essen (Oldenburg)
-street: "Cloppenburger Straße"
-housenumber: 2
+street: Cloppenburger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

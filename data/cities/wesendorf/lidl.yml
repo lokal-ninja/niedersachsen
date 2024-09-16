@@ -1,11 +1,11 @@
 id: 210545228
-type: way
+type: node
 latitude: 52.59277
 longitude: 10.53756
 postcode: "29392"
 city: Wesendorf
-street: "Goethestraße"
-housenumber: 19
+street: Goethestraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

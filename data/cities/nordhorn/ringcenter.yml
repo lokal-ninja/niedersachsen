@@ -1,11 +1,11 @@
 id: 46531357
-type: way
+type: node
 latitude: 52.43944
 longitude: 7.06422
 postcode: "48527"
 city: Nordhorn
-street: "Stadtring"
-housenumber: 60
+street: Stadtring
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

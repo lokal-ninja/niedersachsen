@@ -4,8 +4,8 @@ latitude: 53.44518
 longitude: 7.50822
 postcode: "26605"
 city: Aurich
-street: "Korbweidenstraße"
-housenumber: 5
-phone: "+49 4941 99101 0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://janssen-auto.de/standorte/renault-aurich/"
+street: Korbweidenstraße
+housenumber: "5"
+phone: +49 4941 99101 0
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://janssen-auto.de/standorte/renault-aurich/

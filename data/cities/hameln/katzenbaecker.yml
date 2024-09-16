@@ -4,8 +4,8 @@ latitude: 52.09966
 longitude: 9.37626
 postcode: "31785"
 city: Hameln
-street: "Hefehof"
-housenumber: 3
-phone: "+49 5151 16595"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://hajen.de/"
+street: Hefehof
+housenumber: "3"
+phone: +49 5151 16595
+opening_hours: Mo-Sa 07:00-19:00
+website: https://hajen.de/

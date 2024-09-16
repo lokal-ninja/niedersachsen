@@ -1,11 +1,11 @@
 id: 197659908
-type: way
+type: node
 latitude: 52.57913
 longitude: 9.43058
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Pflasterweg"
-housenumber: 8
+street: Pflasterweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

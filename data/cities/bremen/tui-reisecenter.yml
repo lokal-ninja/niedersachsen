@@ -4,8 +4,8 @@ latitude: 53.17014
 longitude: 8.62437
 postcode: "28757"
 city: Bremen
-street: "Reeder-Bischoff-Straße"
-housenumber: 26
+street: Reeder-Bischoff-Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-13:00"
-website: "https://www.tui-reisecenter.de/bremen5"
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-13:00
+website: https://www.tui-reisecenter.de/bremen5

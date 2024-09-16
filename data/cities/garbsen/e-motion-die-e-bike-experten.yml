@@ -1,11 +1,11 @@
 id: 174772864
-type: way
+type: node
 latitude: 52.43129
 longitude: 9.62304
 postcode: "30827"
 city: Garbsen
-street: "Flemmingstraße"
-housenumber: 13
+street: Flemmingstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Tu,We 10:00-18:00; Th,Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.emotion-ebikes.de/e-bike-haendler/hannover/"
+opening_hours: Tu,We 10:00-18:00; Th,Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.emotion-ebikes.de/e-bike-haendler/hannover/

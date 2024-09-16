@@ -4,8 +4,8 @@ latitude: 52.52408
 longitude: 8.19147
 postcode: "49401"
 city: Damme
-street: "Mühlenstraße"
-housenumber: 36
+street: Mühlenstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-18:00"
-website: "https://www.abc-schuhcenter.de/"
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-18:00
+website: https://www.abc-schuhcenter.de/

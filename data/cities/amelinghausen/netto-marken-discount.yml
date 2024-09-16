@@ -1,11 +1,11 @@
 id: 133047223
-type: way
+type: node
 latitude: 53.12917
 longitude: 10.21526
 postcode: "21385"
 city: Amelinghausen
-street: "Grenzweg"
-housenumber: 1
+street: Grenzweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de/

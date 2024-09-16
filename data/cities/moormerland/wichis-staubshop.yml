@@ -1,11 +1,11 @@
 id: 131561885
-type: way
+type: node
 latitude: 53.30996
 longitude: 7.45912
 postcode: "26802"
 city: Moormerland
-street: "Borgwardring"
-housenumber: 17
+street: Borgwardring
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.wichis-staubshop.de"
+website: https://www.wichis-staubshop.de

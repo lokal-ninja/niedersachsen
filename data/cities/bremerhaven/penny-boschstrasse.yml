@@ -1,11 +1,11 @@
 id: 485005155
-type: way
+type: node
 latitude: 53.52171
 longitude: 8.60503
 postcode: "27574"
 city: Bremerhaven
-street: "Boschstraße"
-housenumber: 4
+street: Boschstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su off"
+opening_hours: Mo-Sa 07:00-22:00; Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.34914
 longitude: 9.86755
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Maurerstraße"
-housenumber: 38
-phone: "+49 4181 21960"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://www.kuechen-aktuell.de/"
+street: Maurerstraße
+housenumber: "38"
+phone: +49 4181 21960
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://www.kuechen-aktuell.de/

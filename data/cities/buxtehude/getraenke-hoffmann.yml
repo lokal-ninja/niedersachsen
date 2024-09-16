@@ -1,11 +1,11 @@
 id: 319150668
-type: way
+type: node
 latitude: 53.48366
 longitude: 9.62119
 postcode: "21614"
 city: Buxtehude
-street: "Cuxhavener Straße"
-housenumber: 181
-phone: "+49 4163 8264840"
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
+street: Cuxhavener Straße
+housenumber: "181"
+phone: +49 4163 8264840
+opening_hours: Mo-Sa 09:00-20:00; PH off
 website: ""

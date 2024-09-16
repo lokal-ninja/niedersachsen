@@ -1,11 +1,11 @@
 id: 117968425
-type: way
+type: node
 latitude: 53.46052
 longitude: 9.78347
 postcode: "21629"
 city: Neu Wulmstorf
-street: "Matthias-Claudius-Straße"
-housenumber: 16
-phone: "+49 40 70291940"
-opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00-14:00"
-website: "https://www.getraenkeland.com"
+street: Matthias-Claudius-Straße
+housenumber: "16"
+phone: +49 40 70291940
+opening_hours: Mo-Fr 9:00-19:00; Sa 9:00-14:00
+website: https://www.getraenkeland.com

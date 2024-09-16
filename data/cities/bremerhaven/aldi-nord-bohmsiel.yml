@@ -1,11 +1,11 @@
 id: 51245108
-type: way
+type: node
 latitude: 53.49246
 longitude: 8.59611
 postcode: "27572"
 city: Bremerhaven
-street: "Bohmsiel"
-housenumber: 12
+street: Bohmsiel
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 517840738
-type: way
+type: node
 latitude: 52.24082
 longitude: 10.99554
 postcode: "38350"
 city: Helmstedt
-street: "Emmerstedter Straße"
-housenumber: 11
+street: Emmerstedter Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

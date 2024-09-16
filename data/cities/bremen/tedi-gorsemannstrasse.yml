@@ -4,8 +4,8 @@ latitude: 53.03485
 longitude: 8.82717
 postcode: "28277"
 city: Bremen
-street: "Gorsemannstraße"
-housenumber: 12
+street: Gorsemannstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
-website: "http://www.tedi-discount.com/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off
+website: http://www.tedi-discount.com/

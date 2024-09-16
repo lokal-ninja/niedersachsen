@@ -4,8 +4,8 @@ latitude: 53.08267
 longitude: 8.81885
 postcode: "28209"
 city: Bremen
-street: "Hohenlohestraße"
-housenumber: 21
+street: Hohenlohestraße
+housenumber: "21"
 phone: ""
-opening_hours: "Termine nach Vereinbarung || Mo-Sa 11:00-19:00; Su,PH off"
+opening_hours: '"Termine nach Vereinbarung" || Mo-Sa 11:00-19:00; Su,PH off'
 website: ""

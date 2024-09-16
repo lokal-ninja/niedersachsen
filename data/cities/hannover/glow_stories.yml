@@ -4,8 +4,8 @@ latitude: 52.39011
 longitude: 9.74885
 postcode: "30163"
 city: Hannover
-street: "Ferdinand-Wallbrecht-Straße"
-housenumber: 13
-phone: "+49 511 6005670"
-opening_hours: "Mo-We 09:30-18:30; Th,Fr 09:30-20:00; Sa 09:00-15:00"
-website: "https://glow-stories.de"
+street: Ferdinand-Wallbrecht-Straße
+housenumber: "13"
+phone: +49 511 6005670
+opening_hours: Mo-We 09:30-18:30; Th,Fr 09:30-20:00; Sa 09:00-15:00
+website: https://glow-stories.de

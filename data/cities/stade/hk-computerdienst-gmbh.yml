@@ -1,11 +1,11 @@
 id: 238712886
-type: way
+type: node
 latitude: 53.59377
 longitude: 9.47212
 postcode: "21680"
 city: Stade
-street: "Teichstraße"
-housenumber: 4
-phone: "+49 4141 7790 0"
-opening_hours: "nach Vereinbarung"
-website: "https://www.hk-computer.de/"
+street: Teichstraße
+housenumber: "4"
+phone: +49 4141 7790 0
+opening_hours: '"nach Vereinbarung"'
+website: https://www.hk-computer.de/

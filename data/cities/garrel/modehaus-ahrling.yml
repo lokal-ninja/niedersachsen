@@ -4,8 +4,9 @@ latitude: 52.95654
 longitude: 8.02453
 postcode: "49681"
 city: Garrel
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-We,Fr 08:30-12:30, 14:00-18:00; Th 08:30-12:30, 14:00-20:00; Sa 08:30-13:00; Su,PH off"
+opening_hours: Mo-We,Fr 08:30-12:30, 14:00-18:00; Th 08:30-12:30, 14:00-20:00; Sa
+    08:30-13:00; Su,PH off
 website: ""

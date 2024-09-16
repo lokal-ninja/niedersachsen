@@ -1,11 +1,11 @@
 id: 196561118
-type: way
+type: node
 latitude: 52.69103
 longitude: 7.29164
 postcode: "49716"
 city: Meppen
-street: "Markt"
-housenumber: 6
+street: Markt
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:00"
-website: "http://www.markt-apotheke-am-rathaus.de/"
+opening_hours: Tu-Fr 09:30-18:00
+website: http://www.markt-apotheke-am-rathaus.de/

@@ -1,11 +1,11 @@
 id: 262139206
-type: way
+type: node
 latitude: 53.21432
 longitude: 7.80678
 postcode: "26689"
 city: Apen
-street: "An der Wiek"
-housenumber: 54
-phone: "+49 4489 940472"
+street: An der Wiek
+housenumber: "54"
+phone: +49 4489 940472
 opening_hours: ""
-website: "https://www.vr-automobile.de/"
+website: https://www.vr-automobile.de/

@@ -1,11 +1,11 @@
 id: 37714303
-type: way
+type: node
 latitude: 53.80828
 longitude: 8.90657
 postcode: "21762"
 city: Otterndorf
-street: "Marktstraße"
-housenumber: 47
-phone: "+49 4751 9180"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/nord/e-center-niko-keil-marktstra%C3%9Fe-47/index.jsp"
+street: Marktstraße
+housenumber: "47"
+phone: +49 4751 9180
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/nord/e-center-niko-keil-marktstra%C3%9Fe-47/index.jsp

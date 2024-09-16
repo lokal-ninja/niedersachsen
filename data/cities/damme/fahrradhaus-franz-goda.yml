@@ -4,8 +4,8 @@ latitude: 52.52251
 longitude: 8.19349
 postcode: "49401"
 city: Damme
-street: "Mühlenstraße"
-housenumber: 21
-phone: "+49 5491 4343"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30, Sa 09:00-14:00"
-website: "https://www.fahrradhaus-goda.de/"
+street: Mühlenstraße
+housenumber: "21"
+phone: +49 5491 4343
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30, Sa 09:00-14:00
+website: https://www.fahrradhaus-goda.de/

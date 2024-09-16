@@ -1,11 +1,11 @@
 id: 893262405
-type: way
+type: node
 latitude: 52.63185
 longitude: 10.22487
 postcode: "29331"
 city: Lachendorf
-street: "Kuhlenkamp"
-housenumber: 5
+street: Kuhlenkamp
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 302392221
-type: way
+type: node
 latitude: 52.52068
 longitude: 7.33801
 postcode: "49809"
 city: Lingen (Ems)
-street: "Frerener Straße"
-housenumber: 11
-phone: "+49 591 53415"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 08:00-21:00; Su 09:00-21:00"
+street: Frerener Straße
+housenumber: "11"
+phone: +49 591 53415
+opening_hours: Mo-Fr 06:00-21:00; Sa 08:00-21:00; Su 09:00-21:00
 website: ""

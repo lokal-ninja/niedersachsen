@@ -4,8 +4,8 @@ latitude: 52.42004
 longitude: 9.69611
 postcode: "30419"
 city: Hannover
-street: "Alt-Vinnhorst"
-housenumber: 12
-phone: "+49 (0)511 748340"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00"
-website: "http://www.uhren-schremmer.de/"
+street: Alt-Vinnhorst
+housenumber: "12"
+phone: +49 (0)511 748340
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00
+website: http://www.uhren-schremmer.de/

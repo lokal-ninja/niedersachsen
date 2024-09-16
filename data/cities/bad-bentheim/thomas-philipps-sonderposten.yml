@@ -1,11 +1,11 @@
 id: 51145475
-type: way
+type: node
 latitude: 52.30733
 longitude: 7.16709
 postcode: "48455"
 city: Bad Bentheim
-street: "Heinrich-Heine-Straße"
-housenumber: 1
+street: Heinrich-Heine-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de/Stores/Details/bad-bentheim"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.thomas-philipps.de/Stores/Details/bad-bentheim

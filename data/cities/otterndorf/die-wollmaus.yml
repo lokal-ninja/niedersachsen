@@ -4,8 +4,8 @@ latitude: 53.80764
 longitude: 8.9008
 postcode: "21762"
 city: Otterndorf
-street: "Reichenstraße"
-housenumber: 7
-phone: "+49 4751 9994915"
-opening_hours: "Mo-Fr 09:30-13:00, Sa 09:30-13:00, Mo,Tu,Th,Fr 14:00-18:00"
+street: Reichenstraße
+housenumber: "7"
+phone: +49 4751 9994915
+opening_hours: Mo-Fr 09:30-13:00, Sa 09:30-13:00, Mo,Tu,Th,Fr 14:00-18:00
 website: ""

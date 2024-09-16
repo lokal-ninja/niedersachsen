@@ -1,11 +1,11 @@
 id: 558552423
-type: way
+type: node
 latitude: 52.82747
 longitude: 8.01709
 postcode: "49661"
 city: Cloppenburg
-street: "Krapendorfer Kämpe"
-housenumber: 37
-phone: "+49 4471 9109 0"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"
-website: "https://www.getraenke-bruegging.de/"
+street: Krapendorfer Kämpe
+housenumber: "37"
+phone: +49 4471 9109 0
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00
+website: https://www.getraenke-bruegging.de/

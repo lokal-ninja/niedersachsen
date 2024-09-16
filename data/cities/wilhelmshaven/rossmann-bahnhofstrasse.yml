@@ -1,11 +1,11 @@
 id: 353775392
-type: way
+type: node
 latitude: 53.51921
 longitude: 8.1168
 postcode: "26382"
 city: Wilhelmshaven
-street: "Bahnhofstraße"
-housenumber: 10
+street: Bahnhofstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off
 website: ""

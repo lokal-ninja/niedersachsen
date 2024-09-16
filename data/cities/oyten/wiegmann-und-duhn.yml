@@ -1,11 +1,11 @@
 id: 89432064
-type: way
+type: node
 latitude: 53.06111
 longitude: 9.04672
 postcode: "28876"
 city: Oyten
-street: "Rudolf-Diesel-Straße"
-housenumber: 2
+street: Rudolf-Diesel-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 199168440
-type: way
+type: node
 latitude: 52.48146
 longitude: 10.54979
 postcode: "38518"
 city: Gifhorn
-street: "Fallerslebener Straße"
-housenumber: 31
+street: Fallerslebener Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Tu-Fr 09:30-19:00; Sa 10:00-16:00"
+opening_hours: Tu-Fr 09:30-19:00; Sa 10:00-16:00
 website: ""

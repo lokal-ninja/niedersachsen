@@ -4,8 +4,8 @@ latitude: 52.54656
 longitude: 7.86611
 postcode: "49577"
 city: Ankum
-street: "Loxtener Straße"
-housenumber: 5
+street: Loxtener Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu,We,Th,Sa 09:00-13:00, Tu,We,Th 14:30-18:30, Fr 09:00-18:30"
-website: "http://www.brummer-bange.de"
+opening_hours: Tu,We,Th,Sa 09:00-13:00, Tu,We,Th 14:30-18:30, Fr 09:00-18:30
+website: http://www.brummer-bange.de

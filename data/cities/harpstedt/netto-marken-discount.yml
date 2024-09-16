@@ -1,11 +1,11 @@
 id: 472309714
-type: way
+type: node
 latitude: 52.9107
 longitude: 8.59872
 postcode: "27243"
 city: Harpstedt
-street: "Amtsfreiheit"
-housenumber: 30
+street: Amtsfreiheit
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

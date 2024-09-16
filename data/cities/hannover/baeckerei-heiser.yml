@@ -4,8 +4,8 @@ latitude: 52.3518
 longitude: 9.82152
 postcode: "30559"
 city: Hannover
-street: "Döhrbruch"
-housenumber: 14
+street: Döhrbruch
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-12:00; Su 08:00-11:00"
-website: "https://www.baeckerei-heiser.de/"
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:00-12:00; Su 08:00-11:00
+website: https://www.baeckerei-heiser.de/

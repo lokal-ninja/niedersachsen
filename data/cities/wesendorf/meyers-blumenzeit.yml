@@ -1,11 +1,11 @@
 id: 150168865
-type: way
+type: node
 latitude: 52.59464
 longitude: 10.54783
 postcode: "29392"
 city: Wesendorf
-street: "Wittinger Straße"
-housenumber: 50
+street: Wittinger Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://blumenzeit.de/"
+website: https://blumenzeit.de/

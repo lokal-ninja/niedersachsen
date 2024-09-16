@@ -1,11 +1,11 @@
 id: 34910202
-type: way
+type: node
 latitude: 53.47116
 longitude: 9.71599
 postcode: "21614"
 city: Buxtehude
-street: "Harburger Straße"
-housenumber: 84
+street: Harburger Straße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.scholz-raumgestaltung.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.scholz-raumgestaltung.de/

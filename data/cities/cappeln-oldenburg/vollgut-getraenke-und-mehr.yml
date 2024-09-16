@@ -1,11 +1,11 @@
 id: 977385871
-type: way
+type: node
 latitude: 52.80383
 longitude: 8.11963
 postcode: "49692"
 city: Cappeln (Oldenburg)
-street: "Tenstedter Straße"
-housenumber: 39
-phone: "+49 4478 608935"
-opening_hours: "Mo-Fr 09:00-22:00; Su 10:00-22:00"
-website: "http://www.vollgutgetränke.de/"
+street: Tenstedter Straße
+housenumber: "39"
+phone: +49 4478 608935
+opening_hours: Mo-Fr 09:00-22:00; Su 10:00-22:00
+website: http://www.vollgutgetränke.de/

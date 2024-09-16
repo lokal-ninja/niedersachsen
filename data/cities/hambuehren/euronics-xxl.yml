@@ -1,11 +1,11 @@
 id: 256287051
-type: way
+type: node
 latitude: 52.63367
 longitude: 9.95805
 postcode: "29313"
 city: Hambühren
-street: "Sudermannstraße"
-housenumber: 2
+street: Sudermannstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-18:00
 website: ""

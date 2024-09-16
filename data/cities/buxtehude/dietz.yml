@@ -4,8 +4,8 @@ latitude: 53.47314
 longitude: 9.69407
 postcode: "21614"
 city: Buxtehude
-street: "Bahnhofstraße"
-housenumber: 19
+street: Bahnhofstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:30; Su,PH off"
-website: "https://www.baecker-dietz.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:30; Su,PH off
+website: https://www.baecker-dietz.de/

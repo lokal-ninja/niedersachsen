@@ -1,11 +1,11 @@
 id: 90819446
-type: way
+type: node
 latitude: 52.35365
 longitude: 9.69352
 postcode: "30453"
 city: Hannover
-street: "Bornumer Straße"
-housenumber: 148
-phone: "+49 511 431984"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.reifen.com/"
+street: Bornumer Straße
+housenumber: "148"
+phone: +49 511 431984
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.reifen.com/

@@ -4,8 +4,8 @@ latitude: 53.1878
 longitude: 8.57226
 postcode: "28779"
 city: Bremen
-street: "Mühlenstraße"
-housenumber: 78
+street: Mühlenstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, Mo-Fr 14:30-18:00, Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-13:00, Mo-Fr 14:30-18:00, Sa 09:00-13:00
 website: ""

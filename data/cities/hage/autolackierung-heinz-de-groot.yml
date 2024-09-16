@@ -1,11 +1,11 @@
 id: 83351277
-type: way
+type: node
 latitude: 53.60372
 longitude: 7.28892
 postcode: "26524"
 city: Hage
-street: "Hauptstraße"
-housenumber: 12
-phone: "+49 4931 7058"
+street: Hauptstraße
+housenumber: "12"
+phone: +49 4931 7058
 opening_hours: ""
 website: ""

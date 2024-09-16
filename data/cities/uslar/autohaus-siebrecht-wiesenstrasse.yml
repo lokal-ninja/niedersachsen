@@ -1,11 +1,11 @@
 id: 200711979
-type: way
+type: node
 latitude: 51.65864
 longitude: 9.63022
 postcode: "37170"
 city: Uslar
-street: "Wiesenstraße"
-housenumber: 15
+street: Wiesenstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

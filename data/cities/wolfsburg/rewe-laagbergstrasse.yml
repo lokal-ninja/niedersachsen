@@ -1,11 +1,11 @@
 id: 33891777
-type: way
+type: node
 latitude: 52.42173
 longitude: 10.76546
 postcode: "38440"
 city: Wolfsburg
-street: "Laagbergstraße"
-housenumber: 54
+street: Laagbergstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00"
+opening_hours: Mo-Sa 07:00-23:00
 website: ""

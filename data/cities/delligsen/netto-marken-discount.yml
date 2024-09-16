@@ -1,11 +1,11 @@
 id: 102792976
-type: way
+type: node
 latitude: 51.94014
 longitude: 9.81264
 postcode: "31073"
 city: Delligsen
-street: "Dr.-Jasper-Straße"
-housenumber: 12
+street: Dr.-Jasper-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

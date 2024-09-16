@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Homann"
 url: /leer-ostfriesland/autohaus-homann/
-shop: Autohaus
+shop: Autowerkstatt
 ---

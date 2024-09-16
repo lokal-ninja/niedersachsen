@@ -1,11 +1,11 @@
 id: 93144414
-type: way
+type: node
 latitude: 52.2883
 longitude: 8.02855
 postcode: "49090"
 city: Osnabrück
-street: "Springmannskamp"
-housenumber: 1
+street: Springmannskamp
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

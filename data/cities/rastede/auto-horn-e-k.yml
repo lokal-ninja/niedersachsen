@@ -1,11 +1,11 @@
 id: 356498057
-type: way
+type: node
 latitude: 53.20968
 longitude: 8.22857
 postcode: "26180"
 city: Rastede
-street: "Am Nordkreuz"
-housenumber: 10
-phone: "+49 4402 939478-0"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.auto-horn.de/"
+street: Am Nordkreuz
+housenumber: "10"
+phone: +49 4402 939478-0
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.auto-horn.de/

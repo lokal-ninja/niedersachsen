@@ -1,11 +1,11 @@
 id: 195374368
-type: way
+type: node
 latitude: 52.67002
 longitude: 7.29706
 postcode: "49716"
 city: Meppen
-street: "Borsigstraße"
-housenumber: 2
+street: Borsigstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://toom.de/"
+website: https://toom.de/

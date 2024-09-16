@@ -4,8 +4,8 @@ latitude: 52.26305
 longitude: 10.51728
 postcode: "38100"
 city: Braunschweig
-street: "Altstadtmarkt"
-housenumber: 8
-phone: "+49 531 48111177"
-opening_hours: "Tu,Th,Fr 10:00-14:00,15:00-18:00; We,Sa 10:00-14:00; Mo off"
-website: "https://www.zeissvisioncenter.com/de/braunschweig.html"
+street: Altstadtmarkt
+housenumber: "8"
+phone: +49 531 48111177
+opening_hours: Tu,Th,Fr 10:00-14:00,15:00-18:00; We,Sa 10:00-14:00; Mo off
+website: https://www.zeissvisioncenter.com/de/braunschweig.html

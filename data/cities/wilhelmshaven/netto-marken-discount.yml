@@ -4,8 +4,8 @@ latitude: 53.52299
 longitude: 8.09048
 postcode: "26389"
 city: Wilhelmshaven
-street: "Peterstraße"
-housenumber: 146
+street: Peterstraße
+housenumber: "146"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

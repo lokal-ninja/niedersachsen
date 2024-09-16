@@ -4,8 +4,8 @@ latitude: 53.34769
 longitude: 9.86443
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Maurerstraße"
-housenumber: 28
-phone: "+49 4181 93060"
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://www.hsp-buchholz.de/"
+street: Maurerstraße
+housenumber: "28"
+phone: +49 4181 93060
+opening_hours: Mo-Fr 09:00-17:30
+website: https://www.hsp-buchholz.de/

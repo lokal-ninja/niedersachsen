@@ -1,11 +1,11 @@
 id: 218996729
-type: way
+type: node
 latitude: 53.40872
 longitude: 10.39461
 postcode: "21436"
 city: Marschacht
-street: "Elbuferstraße"
-housenumber: 3
+street: Elbuferstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.jagdschule-elbmarsch.de"
+website: http://www.jagdschule-elbmarsch.de

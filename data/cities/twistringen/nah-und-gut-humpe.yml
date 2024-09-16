@@ -4,8 +4,8 @@ latitude: 52.77336
 longitude: 8.54657
 postcode: "27239"
 city: Twistringen
-street: "Hauptstraße"
-housenumber: 30
-phone: "+49 4246 95014"
-opening_hours: "Mo-Fr 06:30-19:00,Sa 6:30-18:00"
-website: "https://www.nahundgut-humpe.de/"
+street: Hauptstraße
+housenumber: "30"
+phone: +49 4246 95014
+opening_hours: Mo-Fr 06:30-19:00,Sa 6:30-18:00
+website: https://www.nahundgut-humpe.de/

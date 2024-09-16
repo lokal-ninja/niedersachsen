@@ -1,11 +1,12 @@
 id: 319304936
-type: way
+type: node
 latitude: 51.80196
 longitude: 9.69407
 postcode: "37586"
 city: Dassel
-street: "Bahnhofstraße"
-housenumber: 33
-phone: "+49 5564 91159"
-opening_hours: "Mo-Tu 08:30-12:30, 14:00-18:00; We 08:30-12:30; Th-Fr 08:30-12:30, 14:00-18:00; Sa 08:00-14:00"
+street: Bahnhofstraße
+housenumber: "33"
+phone: +49 5564 91159
+opening_hours: Mo-Tu 08:30-12:30, 14:00-18:00; We 08:30-12:30; Th-Fr 08:30-12:30,
+    14:00-18:00; Sa 08:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 92470090
-type: way
+type: node
 latitude: 53.377
 longitude: 7.7513
 postcode: "26639"
 city: Wiesmoor
-street: "Ilexstraße"
-housenumber: 5
-phone: "+49 4944 9459 490"
+street: Ilexstraße
+housenumber: "5"
+phone: +49 4944 9459 490
 opening_hours: ""
-website: "https://www.gattoreifen.de/"
+website: https://www.gattoreifen.de/

@@ -1,11 +1,11 @@
 id: 248566083
-type: way
+type: node
 latitude: 52.33518
 longitude: 9.5789
 postcode: "30989"
 city: Gehrden
-street: "Bundesstraße"
-housenumber: 27
+street: Bundesstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

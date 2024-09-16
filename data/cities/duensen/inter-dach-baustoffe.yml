@@ -1,11 +1,11 @@
 id: 111814020
-type: way
+type: node
 latitude: 52.92388
 longitude: 8.64631
 postcode: "27243"
 city: Dünsen
-street: "Klosterseelter Straße"
-housenumber: 5
-phone: "+49 4244 91881 0"
+street: Klosterseelter Straße
+housenumber: "5"
+phone: +49 4244 91881 0
 opening_hours: ""
-website: "https://inter-dach.de/"
+website: https://inter-dach.de/

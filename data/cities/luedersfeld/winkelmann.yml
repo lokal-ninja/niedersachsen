@@ -1,11 +1,11 @@
 id: 109447780
-type: way
+type: node
 latitude: 52.3307
 longitude: 9.24426
 postcode: "31702"
 city: Lüdersfeld
-street: "Allerfeld"
-housenumber: 10
+street: Allerfeld
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

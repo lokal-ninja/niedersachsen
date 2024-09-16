@@ -1,11 +1,11 @@
 id: 146739953
-type: way
+type: node
 latitude: 52.49976
 longitude: 8.90568
 postcode: "31600"
 city: Uchte
-street: "Burgstraße"
-housenumber: 4
+street: Burgstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/

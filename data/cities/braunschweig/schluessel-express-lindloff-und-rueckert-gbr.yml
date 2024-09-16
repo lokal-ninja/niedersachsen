@@ -4,8 +4,8 @@ latitude: 52.26098
 longitude: 10.5241
 postcode: "38100"
 city: Braunschweig
-street: "Hinter Liebfrauen"
-housenumber: 4
-phone: "+49 531 43821"
-opening_hours: "Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-15:00"
+street: Hinter Liebfrauen
+housenumber: "4"
+phone: +49 531 43821
+opening_hours: Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-15:00
 website: ""

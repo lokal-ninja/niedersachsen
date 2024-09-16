@@ -1,11 +1,11 @@
 id: 209632547
-type: way
+type: node
 latitude: 52.4672
 longitude: 10.53052
 postcode: "38518"
 city: Gifhorn
-street: "Im Heidland"
-housenumber: 5
+street: Im Heidland
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://autopeter-gifhorn.de/"
+website: https://autopeter-gifhorn.de/

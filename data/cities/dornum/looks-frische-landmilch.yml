@@ -4,8 +4,8 @@ latitude: 53.64589
 longitude: 7.40974
 postcode: "26553"
 city: Dornum
-street: "Westerstraße"
-housenumber: 13
-phone: "+49 4933 990345"
-opening_hours: "24/7"
+street: Westerstraße
+housenumber: "13"
+phone: +49 4933 990345
+opening_hours: 24/7
 website: ""

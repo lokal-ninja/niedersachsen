@@ -1,11 +1,11 @@
 id: 208798576
-type: way
+type: node
 latitude: 51.40626
 longitude: 9.65938
 postcode: "34346"
 city: Hann. Münden
-street: "Am Entenbusch"
-housenumber: 32
+street: Am Entenbusch
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

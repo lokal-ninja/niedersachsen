@@ -1,11 +1,11 @@
 id: 84375996
-type: way
+type: node
 latitude: 52.13718
 longitude: 10.95311
 postcode: "38364"
 city: Schöningen
-street: "Hoiersdorfer Straße"
-housenumber: 6
+street: Hoiersdorfer Straße
+housenumber: "6"
 phone: "+495352946211"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

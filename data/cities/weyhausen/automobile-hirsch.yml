@@ -1,11 +1,11 @@
 id: 137625585
-type: way
+type: node
 latitude: 52.46236
 longitude: 10.71904
 postcode: "38554"
 city: Weyhausen
-street: "Wolfsburger Straße"
-housenumber: 24
+street: Wolfsburger Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.06712
 longitude: 9.75254
 postcode: "31028"
 city: Gronau
-street: "Göttinger Straße"
-housenumber: 24
-phone: "+49 5182 8271"
-opening_hours: "Mo, We, Fr, Sa 06:00-12:00; Tu, Th 06:00-12:00, 15:00-18:00"
+street: Göttinger Straße
+housenumber: "24"
+phone: +49 5182 8271
+opening_hours: Mo, We, Fr, Sa 06:00-12:00; Tu, Th 06:00-12:00, 15:00-18:00
 website: ""

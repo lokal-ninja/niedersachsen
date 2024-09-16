@@ -1,11 +1,11 @@
 id: 750334828
-type: way
+type: node
 latitude: 53.09852
 longitude: 7.68518
 postcode: "26683"
 city: Saterland
-street: "Hauptstraße"
-housenumber: 452
+street: Hauptstraße
+housenumber: "452"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

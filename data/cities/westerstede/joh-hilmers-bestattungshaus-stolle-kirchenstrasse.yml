@@ -1,11 +1,11 @@
 id: 298284317
-type: way
+type: node
 latitude: 53.25892
 longitude: 7.93099
 postcode: "26655"
 city: Westerstede
-street: "Kirchenstraße"
-housenumber: 15
+street: Kirchenstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.50852
 longitude: 10.62235
 postcode: "38524"
 city: Sassenburg
-street: "Quellengrund"
-housenumber: 7
+street: Quellengrund
+housenumber: "7"
 phone: ""
-opening_hours: "Termin nach Vereinbarung"
+opening_hours: '"Termin nach Vereinbarung"'
 website: ""

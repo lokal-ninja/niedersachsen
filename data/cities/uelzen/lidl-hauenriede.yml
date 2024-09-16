@@ -1,11 +1,11 @@
 id: 200411797
-type: way
+type: node
 latitude: 52.96992
 longitude: 10.54838
 postcode: "29525"
 city: Uelzen
-street: "Hauenriede"
-housenumber: 1
+street: Hauenriede
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

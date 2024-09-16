@@ -1,11 +1,11 @@
 id: 367786806
-type: way
+type: node
 latitude: 52.47419
 longitude: 10.35514
 postcode: "38536"
 city: Meinersen
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

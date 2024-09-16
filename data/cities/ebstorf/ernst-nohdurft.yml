@@ -4,8 +4,8 @@ latitude: 53.02892
 longitude: 10.41439
 postcode: "29574"
 city: Ebstorf
-street: "Hauptstraße"
-housenumber: 13
-phone: "+49 5822 2335"
-opening_hours: "Mo-Fr 08:00-12:30, 14:00-18:00; Sa 08:00-12:30; PH off"
-website: "http://www.buchhandlung-ebstorf.de/"
+street: Hauptstraße
+housenumber: "13"
+phone: +49 5822 2335
+opening_hours: Mo-Fr 08:00-12:30, 14:00-18:00; Sa 08:00-12:30; PH off
+website: http://www.buchhandlung-ebstorf.de/

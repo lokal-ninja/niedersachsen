@@ -1,11 +1,11 @@
 id: 1208074563
-type: way
+type: node
 latitude: 52.32586
 longitude: 7.24486
 postcode: "48465"
 city: Samern
-street: "Salzbergener Straße"
-housenumber: 85
+street: Salzbergener Straße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

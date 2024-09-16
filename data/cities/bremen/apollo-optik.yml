@@ -4,8 +4,8 @@ latitude: 53.05044
 longitude: 8.9582
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 1785430"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.apollo.de/"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 1785430
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.apollo.de/

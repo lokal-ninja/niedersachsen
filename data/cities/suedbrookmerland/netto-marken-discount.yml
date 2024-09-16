@@ -1,11 +1,11 @@
 id: 113285386
-type: way
+type: node
 latitude: 53.48409
 longitude: 7.37415
 postcode: "26624"
 city: Südbrookmerland
-street: "Handelsring"
-housenumber: 1
+street: Handelsring
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

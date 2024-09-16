@@ -1,11 +1,11 @@
 id: 499649103
-type: way
+type: node
 latitude: 52.2908
 longitude: 8.02301
 postcode: "49090"
 city: Osnabrück
-street: "Pagenstecherstraße"
+street: Pagenstecherstraße
 housenumber: 77-83
-phone: "+49 541 6911570"
+phone: +49 541 6911570
 opening_hours: ""
-website: "https://www.lexusforum-osnabrueck.de/"
+website: https://www.lexusforum-osnabrueck.de/

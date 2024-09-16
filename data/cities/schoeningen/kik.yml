@@ -1,11 +1,11 @@
 id: 269429113
-type: way
+type: node
 latitude: 52.13896
 longitude: 10.96985
 postcode: "38364"
 city: Schöningen
-street: "Niedernstraße"
-housenumber: 46
+street: Niedernstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.69098
 longitude: 9.56374
 postcode: "37170"
 city: Uslar
-street: "Kastensiekstraße"
-housenumber: 2
-phone: "+49 5571 2563"
-opening_hours: "Mo 09:00-12:00; Tu-Fr 09:00-12:00,15:00-18:00; Sa 08:00-12:00"
-website: "https://www.bauer-otte.de/"
+street: Kastensiekstraße
+housenumber: "2"
+phone: +49 5571 2563
+opening_hours: Mo 09:00-12:00; Tu-Fr 09:00-12:00,15:00-18:00; Sa 08:00-12:00
+website: https://www.bauer-otte.de/

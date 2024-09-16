@@ -4,8 +4,8 @@ latitude: 52.26574
 longitude: 10.51482
 postcode: "38100"
 city: Braunschweig
-street: "Bäckerklint"
-housenumber: 5
+street: Bäckerklint
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-16:00"
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-16:00
 website: ""

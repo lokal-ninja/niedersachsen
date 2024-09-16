@@ -1,11 +1,11 @@
 id: 139251026
-type: way
+type: node
 latitude: 52.45158
 longitude: 7.05624
 postcode: "48527"
 city: Nordhorn
-street: "Veldhauser Straße"
-housenumber: 171
+street: Veldhauser Straße
+housenumber: "171"
 phone: ""
 opening_hours: ""
 website: ""

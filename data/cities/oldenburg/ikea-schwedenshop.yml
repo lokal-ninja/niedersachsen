@@ -4,8 +4,8 @@ latitude: 53.13972
 longitude: 8.25558
 postcode: "26135"
 city: Oldenburg
-street: "Holler Landstraße"
-housenumber: 89
+street: Holler Landstraße
+housenumber: "89"
 phone: ""
 opening_hours: ""
-website: "http://www.ikea.de/oldenburg"
+website: http://www.ikea.de/oldenburg

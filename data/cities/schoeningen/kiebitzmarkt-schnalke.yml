@@ -1,11 +1,11 @@
 id: 351205516
-type: way
+type: node
 latitude: 52.13846
 longitude: 10.96682
 postcode: "38364"
 city: Schöningen
-street: "Brauhof"
-housenumber: 8
-phone: "+49 535290099457"
-opening_hours: "Mo-Fr 09:30-13:00, Mo-Tu,Th-Fr 14:30-18:00, Sa 09:00-13:00"
-website: "https://schnalke.info/"
+street: Brauhof
+housenumber: "8"
+phone: +49 535290099457
+opening_hours: Mo-Fr 09:30-13:00, Mo-Tu,Th-Fr 14:30-18:00, Sa 09:00-13:00
+website: https://schnalke.info/

@@ -4,8 +4,8 @@ latitude: 53.22224
 longitude: 8.92391
 postcode: "27726"
 city: Worpswede
-street: "Findorffstraße"
-housenumber: 17
-phone: "+49 4792 1827"
-opening_hours: "Tu-Fr 11:00-13:00,15:00-18:00; Sa 11:00-14:00"
-website: "http://buchladen-worpswede.de/"
+street: Findorffstraße
+housenumber: "17"
+phone: +49 4792 1827
+opening_hours: Tu-Fr 11:00-13:00,15:00-18:00; Sa 11:00-14:00
+website: http://buchladen-worpswede.de/

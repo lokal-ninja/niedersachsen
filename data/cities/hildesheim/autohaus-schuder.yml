@@ -1,11 +1,11 @@
 id: 124389941
-type: way
+type: node
 latitude: 52.17018
 longitude: 9.93481
 postcode: "31137"
 city: Hildesheim
-street: "Steuerwalder Straße"
-housenumber: 161
+street: Steuerwalder Straße
+housenumber: "161"
 phone: ""
 opening_hours: ""
 website: ""

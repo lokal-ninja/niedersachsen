@@ -1,11 +1,11 @@
 id: 130417636
-type: way
+type: node
 latitude: 53.12782
 longitude: 8.23636
 postcode: "26135"
 city: Oldenburg
-street: "Bremer Heerstraße"
-housenumber: 79
-phone: "+49 441 99845095"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-19:00; Su,PH off"
-website: "https://standorte.getraenke-hoffmann.de/niedersachsen/oldenburg/bremer-heerstr.-79"
+street: Bremer Heerstraße
+housenumber: "79"
+phone: +49 441 99845095
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-19:00; Su,PH off
+website: https://standorte.getraenke-hoffmann.de/niedersachsen/oldenburg/bremer-heerstr.-79

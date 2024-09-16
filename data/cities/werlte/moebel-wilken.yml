@@ -1,11 +1,11 @@
 id: 197215027
-type: way
+type: node
 latitude: 52.85014
 longitude: 7.65717
 postcode: "49757"
 city: Werlte
-street: "Unfriedstraße"
-housenumber: 4
+street: Unfriedstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

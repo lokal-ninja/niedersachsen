@@ -4,8 +4,8 @@ latitude: 53.45823
 longitude: 7.49779
 postcode: "26603"
 city: Aurich
-street: "Raiffeisenstraße"
-housenumber: 18
-phone: "+49 4941 6985584"
-opening_hours: "Mo-Sa 06:30-20:00"
+street: Raiffeisenstraße
+housenumber: "18"
+phone: +49 4941 6985584
+opening_hours: Mo-Sa 06:30-20:00
 website: ""

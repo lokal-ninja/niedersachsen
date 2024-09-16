@@ -1,11 +1,11 @@
 id: 309220332
-type: way
+type: node
 latitude: 53.00687
 longitude: 8.43564
 postcode: "27801"
 city: Dötlingen
-street: "Stedinger Weg"
-housenumber: 16
+street: Stedinger Weg
+housenumber: "16"
 phone: ""
-opening_hours: "Apr-Sep: Sa 10:00-16:00"
+opening_hours: 'Apr-Sep: Sa 10:00-16:00'
 website: ""

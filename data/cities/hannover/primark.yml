@@ -4,8 +4,8 @@ latitude: 52.374
 longitude: 9.73612
 postcode: "30159"
 city: Hannover
-street: "Osterstraße"
-housenumber: 10
-phone: "+49 511 16979853"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.primark.com/de-de/stores/hannover/osterstrasse-10"
+street: Osterstraße
+housenumber: "10"
+phone: +49 511 16979853
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.primark.com/de-de/stores/hannover/osterstrasse-10

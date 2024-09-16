@@ -1,11 +1,11 @@
 id: 178769361
-type: way
+type: node
 latitude: 52.71244
 longitude: 9.0824
 postcode: "31613"
 city: Wietzen
-street: "Kirchplatz"
-housenumber: 33
-phone: "+49 50229448747"
+street: Kirchplatz
+housenumber: "33"
+phone: +49 50229448747
 opening_hours: ""
-website: "https://doktor-apfel.com/"
+website: https://doktor-apfel.com/

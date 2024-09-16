@@ -4,8 +4,8 @@ latitude: 53.17097
 longitude: 8.62375
 postcode: "28757"
 city: Bremen
-street: "Sagerstraße"
-housenumber: 27
+street: Sagerstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-14:00"
-website: "https://www.casa-lagua.de/"
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-14:00
+website: https://www.casa-lagua.de/

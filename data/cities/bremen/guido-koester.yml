@@ -4,8 +4,8 @@ latitude: 53.0962
 longitude: 8.78615
 postcode: "28217"
 city: Bremen
-street: "Vegesacker Straße"
-housenumber: 17
-phone: "+49 42083720"
-opening_hours: "We-Fr 07:00-13:00; Th, Fr 15:00-18:00; Sa 07:00-12:00"
-website: "https://www.guido-koester.de/"
+street: Vegesacker Straße
+housenumber: "17"
+phone: +49 42083720
+opening_hours: We-Fr 07:00-13:00; Th, Fr 15:00-18:00; Sa 07:00-12:00
+website: https://www.guido-koester.de/

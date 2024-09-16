@@ -4,8 +4,9 @@ latitude: 51.53531
 longitude: 9.91262
 postcode: "37081"
 city: Göttingen
-street: "Posthof"
-housenumber: 2
+street: Posthof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 10:30-12:30,14:30-17:30; Fr 10:30-12:30,15:00-17:30; Sa 10:30-12:30; Su,PH off"
+opening_hours: Mo-Th 10:30-12:30,14:30-17:30; Fr 10:30-12:30,15:00-17:30; Sa 10:30-12:30;
+    Su,PH off
 website: ""

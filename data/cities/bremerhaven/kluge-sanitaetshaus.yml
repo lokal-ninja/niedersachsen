@@ -4,8 +4,8 @@ latitude: 53.54997
 longitude: 8.57973
 postcode: "27576"
 city: Bremerhaven
-street: "Hafenstraße"
-housenumber: 5
+street: Hafenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; PH off"
-website: "http://www.kluge-sh.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; PH off
+website: http://www.kluge-sh.de/

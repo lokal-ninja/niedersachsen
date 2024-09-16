@@ -1,11 +1,11 @@
 id: 1085262895
-type: way
+type: node
 latitude: 52.34031
 longitude: 9.55109
 postcode: "30890"
 city: Barsinghausen
-street: "Golterner Straße"
-housenumber: 25
+street: Golterner Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.goexe-kfz.de/"
+website: https://www.goexe-kfz.de/

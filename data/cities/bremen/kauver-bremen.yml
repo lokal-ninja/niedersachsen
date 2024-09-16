@@ -1,11 +1,11 @@
 id: 1264456627
-type: way
+type: node
 latitude: 53.05499
 longitude: 8.73122
 postcode: "28259"
 city: Bremen
-street: "Oldeoog"
-housenumber: 6
+street: Oldeoog
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

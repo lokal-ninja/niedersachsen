@@ -4,8 +4,8 @@ latitude: 52.26457
 longitude: 10.52138
 postcode: "38100"
 city: Braunschweig
-street: "Sack"
-housenumber: 4
+street: Sack
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.decathlon.de/store-view/filiale-braunschweig-0070206902069"
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.decathlon.de/store-view/filiale-braunschweig-0070206902069

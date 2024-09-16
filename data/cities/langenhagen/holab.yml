@@ -1,11 +1,11 @@
 id: 97945515
-type: way
+type: node
 latitude: 52.43369
 longitude: 9.72311
 postcode: "30851"
 city: Langenhagen
-street: "Hans-Böckler-Straße"
-housenumber: 23
-phone: "+49 511 54207810"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Hans-Böckler-Straße
+housenumber: "23"
+phone: +49 511 54207810
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

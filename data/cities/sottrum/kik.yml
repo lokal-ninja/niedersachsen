@@ -1,11 +1,11 @@
 id: 192864752
-type: way
+type: node
 latitude: 53.11762
 longitude: 9.23057
 postcode: "27367"
 city: Sottrum
-street: "Holstenstraße"
-housenumber: 1
+street: Holstenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00-16:00"
+opening_hours: Mo-Fr 9:00-19:00; Sa 9:00-16:00
 website: ""

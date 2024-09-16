@@ -1,11 +1,11 @@
 id: 317550198
-type: way
+type: node
 latitude: 53.11923
 longitude: 8.25621
 postcode: "26135"
 city: Oldenburg
-street: "Bremer Heerstraße"
-housenumber: 280
+street: Bremer Heerstraße
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

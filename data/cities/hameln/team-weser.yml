@@ -1,11 +1,11 @@
 id: 129882026
-type: way
+type: node
 latitude: 52.09545
 longitude: 9.36096
 postcode: ""
 city: Hameln
-street: "Ruthenstraße"
-housenumber: 31
-phone: "+49 5151 4030730"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.team-weser.de"
+street: Ruthenstraße
+housenumber: "31"
+phone: +49 5151 4030730
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.team-weser.de

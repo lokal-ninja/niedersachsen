@@ -4,8 +4,8 @@ latitude: 51.51128
 longitude: 10.26
 postcode: "37115"
 city: Duderstadt
-street: "Apothekenstraße"
-housenumber: 11
-phone: "+49 5527 9440625"
-opening_hours: "Mo-Th 10:00-13:00, 15:00-17:00; Fr 10:00-13:00"
-website: "https://www.farbdesignstudio.eu/"
+street: Apothekenstraße
+housenumber: "11"
+phone: +49 5527 9440625
+opening_hours: Mo-Th 10:00-13:00, 15:00-17:00; Fr 10:00-13:00
+website: https://www.farbdesignstudio.eu/

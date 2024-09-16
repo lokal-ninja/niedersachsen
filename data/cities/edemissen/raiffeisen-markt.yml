@@ -1,11 +1,11 @@
 id: 26794948
-type: way
+type: node
 latitude: 52.38635
 longitude: 10.25866
 postcode: "31234"
 city: Edemissen
-street: "Peiner Straße"
+street: Peiner Straße
 housenumber: 30a
-phone: "+49 5176 5553371"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"
-website: "https://www.rwg-osthannover.de/9196/6"
+phone: +49 5176 5553371
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-13:00
+website: https://www.rwg-osthannover.de/9196/6

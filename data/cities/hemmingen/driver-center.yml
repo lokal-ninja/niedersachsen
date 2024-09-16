@@ -1,11 +1,11 @@
 id: 1100600043
-type: way
+type: node
 latitude: 52.32009
 longitude: 9.72609
 postcode: "30966"
 city: Hemmingen
-street: "Carl-Zeiss-Straße"
-housenumber: 22
-phone: "+49 511 420144"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://www.drivercenter.eu/de-de/standorte/driver-hemmingen-westerfeld"
+street: Carl-Zeiss-Straße
+housenumber: "22"
+phone: +49 511 420144
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://www.drivercenter.eu/de-de/standorte/driver-hemmingen-westerfeld

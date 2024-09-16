@@ -4,8 +4,9 @@ latitude: 52.73076
 longitude: 8.28995
 postcode: "49377"
 city: Vechta
-street: "Bremer Tor"
-housenumber: 8
-phone: "+49 4441 9140980"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00; Apr 26,Aug 30,Oct 04,Oct 25 13:00-18:00; May 09,Nov 28 09:30-22:00; Aug 17 off"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5531/"
+street: Bremer Tor
+housenumber: "8"
+phone: +49 4441 9140980
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00; Apr 26,Aug 30,Oct 04,Oct 25 13:00-18:00;
+    May 09,Nov 28 09:30-22:00; Aug 17 off
+website: https://www.thalia.de/shop/home/filialen/showDetails/5531/

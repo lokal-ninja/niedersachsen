@@ -1,11 +1,11 @@
 id: 240087741
-type: way
+type: node
 latitude: 53.14791
 longitude: 8.2159
 postcode: "26123"
 city: Oldenburg
-street: "Lindenstraße"
-housenumber: 8
-phone: "+49 441 36102992"
-opening_hours: "Mo-Fr 12:00-17:00; Sa 10:00-14:00"
-website: "https://idea4tex.business.site"
+street: Lindenstraße
+housenumber: "8"
+phone: +49 441 36102992
+opening_hours: Mo-Fr 12:00-17:00; Sa 10:00-14:00
+website: https://idea4tex.business.site

@@ -1,11 +1,11 @@
 id: 220646314
-type: way
+type: node
 latitude: 52.08043
 longitude: 7.99642
 postcode: "49219"
 city: Glandorf
-street: "Münsterstraße"
-housenumber: 32
+street: Münsterstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

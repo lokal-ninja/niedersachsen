@@ -1,11 +1,11 @@
 id: 632529747
-type: way
+type: node
 latitude: 52.83253
 longitude: 8.30925
 postcode: "49429"
 city: Visbek
-street: "Astruper Straße"
-housenumber: 27
+street: Astruper Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off"
+opening_hours: Mo-Sa 08:00-21:00; Su off
 website: ""

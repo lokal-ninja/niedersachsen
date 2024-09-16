@@ -1,11 +1,11 @@
 id: 634995711
-type: way
+type: node
 latitude: 51.98194
 longitude: 9.2248
 postcode: "31812"
 city: Bad Pyrmont
-street: "Lange Wand"
-housenumber: 15
+street: Lange Wand
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

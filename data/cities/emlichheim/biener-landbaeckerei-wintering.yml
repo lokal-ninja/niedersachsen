@@ -4,8 +4,8 @@ latitude: 52.60979
 longitude: 6.85314
 postcode: "49824"
 city: Emlichheim
-street: "Mühlenstraße"
-housenumber: 1
-phone: "+49 5943 983418"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; Su 07:00-17:00"
-website: "https://www.wintering.de/filialen.html"
+street: Mühlenstraße
+housenumber: "1"
+phone: +49 5943 983418
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00; Su 07:00-17:00
+website: https://www.wintering.de/filialen.html

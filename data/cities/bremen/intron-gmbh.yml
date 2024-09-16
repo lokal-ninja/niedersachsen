@@ -1,11 +1,11 @@
 id: 177714741
-type: way
+type: node
 latitude: 53.15864
 longitude: 8.70317
 postcode: "28719"
 city: Bremen
-street: "Bremer Heerstraße"
-housenumber: 8
+street: Bremer Heerstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.intron-bremen.com/"
+website: https://www.intron-bremen.com/

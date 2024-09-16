@@ -1,11 +1,11 @@
 id: 166683449
-type: way
+type: node
 latitude: 52.83684
 longitude: 10.68266
 postcode: "29389"
 city: Bad Bodenteich
-street: "Neustädter Straße"
-housenumber: 29
+street: Neustädter Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

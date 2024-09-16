@@ -4,8 +4,8 @@ latitude: 52.43991
 longitude: 9.1982
 postcode: "31547"
 city: Rehburg-Loccum
-street: "Bergstraße"
-housenumber: 1
-phone: "+49 5037 3691"
-opening_hours: "Tu,We 09:00-18:30, Th 08:00-19:00, Fr 08:00-18:30, Sa 08:00-14:30"
-website: "https://salonbredemeier.de/"
+street: Bergstraße
+housenumber: "1"
+phone: +49 5037 3691
+opening_hours: Tu,We 09:00-18:30, Th 08:00-19:00, Fr 08:00-18:30, Sa 08:00-14:30
+website: https://salonbredemeier.de/

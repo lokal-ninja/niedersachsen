@@ -1,11 +1,11 @@
 id: 171978846
-type: way
+type: node
 latitude: 52.29899
 longitude: 10.17638
 postcode: "31226"
 city: Peine
-street: "Zum Walde"
-housenumber: 20
-phone: "+49 5171 545600"
+street: Zum Walde
+housenumber: "20"
+phone: +49 5171 545600
 opening_hours: ""
-website: "https://www.autohaus-tschesche.de/"
+website: https://www.autohaus-tschesche.de/

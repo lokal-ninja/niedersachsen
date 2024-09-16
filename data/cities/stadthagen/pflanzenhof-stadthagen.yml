@@ -4,8 +4,8 @@ latitude: 52.32711
 longitude: 9.21622
 postcode: "31655"
 city: Stadthagen
-street: "Ostring"
-housenumber: 26
-phone: "+49 5721 73301"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.pflanzenhof-stadthagen.net/"
+street: Ostring
+housenumber: "26"
+phone: +49 5721 73301
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.pflanzenhof-stadthagen.net/

@@ -1,11 +1,11 @@
 id: 582216732
-type: way
+type: node
 latitude: 52.33003
 longitude: 9.19153
 postcode: "31655"
 city: Stadthagen
-street: "Bahnhofstraße"
-housenumber: 69
-phone: "+49 5721 9756 0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.schwier-holz.de/home.html"
+street: Bahnhofstraße
+housenumber: "69"
+phone: +49 5721 9756 0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.schwier-holz.de/home.html

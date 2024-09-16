@@ -1,11 +1,11 @@
 id: 169048571
-type: way
+type: node
 latitude: 52.38082
 longitude: 10.53986
 postcode: "38527"
 city: Meine
-street: "Hauptstraße"
-housenumber: 9
+street: Hauptstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 09:00-13:00"
-website: "http://www.vinetum-meine.de/"
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00; Sa 09:00-13:00
+website: http://www.vinetum-meine.de/

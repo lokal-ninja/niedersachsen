@@ -1,11 +1,11 @@
 id: 163061126
-type: way
+type: node
 latitude: 52.79434
 longitude: 7.24844
 postcode: "49733"
 city: Haren (Ems)
-street: "Am Alten Hafen"
-housenumber: 6
-phone: "+49 5932 2400"
+street: Am Alten Hafen
+housenumber: "6"
+phone: +49 5932 2400
 opening_hours: ""
-website: "https://www.klene-schiffsmotoren.de"
+website: https://www.klene-schiffsmotoren.de

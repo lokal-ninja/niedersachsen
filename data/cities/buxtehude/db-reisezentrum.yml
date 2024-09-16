@@ -1,11 +1,12 @@
 id: 350684741
-type: way
+type: node
 latitude: 53.47121
 longitude: 9.69184
 postcode: "21614"
 city: Buxtehude
-street: "Bahnhofstraße"
-housenumber: 47
+street: Bahnhofstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo 08:15-12:30,13:15-18:15; Tu-Fr 08:15-12:30,13:15-18:00; Sa 08:30-13:00; PH off"
+opening_hours: Mo 08:15-12:30,13:15-18:15; Tu-Fr 08:15-12:30,13:15-18:00; Sa 08:30-13:00;
+    PH off
 website: ""

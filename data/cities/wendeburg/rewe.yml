@@ -1,11 +1,11 @@
 id: 28060026
-type: way
+type: node
 latitude: 52.32013
 longitude: 10.39693
 postcode: "38176"
 city: Wendeburg
-street: "Büssingstraße"
-housenumber: 2
+street: Büssingstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

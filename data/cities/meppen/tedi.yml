@@ -1,11 +1,11 @@
 id: 195645108
-type: way
+type: node
 latitude: 52.69258
 longitude: 7.29072
 postcode: "49716"
 city: Meppen
-street: "Hasestraße"
-housenumber: 4
+street: Hasestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

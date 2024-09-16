@@ -4,8 +4,9 @@ latitude: 52.11985
 longitude: 9.73964
 postcode: "31008"
 city: Elze
-street: "Bahnhofstraße"
-housenumber: 20
-phone: "+49 5068931335"
-opening_hours: "Mo 09:00-12:00; Tu 09:00-12:00, 14:30-17:00; We OFF; Th 09:00-12:00, 14:30-17:00; Fr 09:00-12:00"
+street: Bahnhofstraße
+housenumber: "20"
+phone: +49 5068931335
+opening_hours: Mo 09:00-12:00; Tu 09:00-12:00, 14:30-17:00; We OFF; Th 09:00-12:00,
+    14:30-17:00; Fr 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 305109031
-type: way
+type: node
 latitude: 53.44789
 longitude: 10.07691
 postcode: "21217"
 city: Seevetal
-street: "Lührsweg"
-housenumber: 17
+street: Lührsweg
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.uniquenails.de/"
+website: https://www.uniquenails.de/

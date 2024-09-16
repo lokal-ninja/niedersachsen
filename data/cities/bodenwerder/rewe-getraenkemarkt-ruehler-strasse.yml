@@ -1,11 +1,11 @@
 id: 165643879
-type: way
+type: node
 latitude: 51.97103
 longitude: 9.5151
 postcode: "37619"
 city: Bodenwerder
-street: "Rühler Straße"
-housenumber: 32
-phone: "+49 5533 40070"
+street: Rühler Straße
+housenumber: "32"
+phone: +49 5533 40070
 opening_hours: ""
 website: ""

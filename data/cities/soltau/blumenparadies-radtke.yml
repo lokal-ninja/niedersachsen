@@ -4,8 +4,8 @@ latitude: 52.98659
 longitude: 9.86244
 postcode: "29614"
 city: Soltau
-street: "Lüneburger Straße"
-housenumber: 96
+street: Lüneburger Straße
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:30"
-website: "https://www.blumenparadies-radtke.de"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-13:30
+website: https://www.blumenparadies-radtke.de

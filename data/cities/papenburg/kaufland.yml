@@ -1,11 +1,11 @@
 id: 771724189
-type: way
+type: node
 latitude: 53.08493
 longitude: 7.38205
 postcode: "26871"
 city: Papenburg
-street: "Deverweg"
+street: Deverweg
 housenumber: 39 - 45
-phone: "+49 4961 6640980"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://filiale.kaufland.de/service/filiale.storeName=DE6380.html"
+phone: +49 4961 6640980
+opening_hours: Mo-Sa 07:00-22:00
+website: https://filiale.kaufland.de/service/filiale.storeName=DE6380.html

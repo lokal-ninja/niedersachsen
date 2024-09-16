@@ -1,11 +1,11 @@
 id: 217666300
-type: way
+type: node
 latitude: 51.73293
 longitude: 10.24681
 postcode: "37520"
 city: Osterode am Harz
-street: "In den Geeren"
-housenumber: 7
-phone: "+49 5522 4060922"
+street: In den Geeren
+housenumber: "7"
+phone: +49 5522 4060922
 opening_hours: ""
-website: "https://www.infimedix.com/"
+website: https://www.infimedix.com/

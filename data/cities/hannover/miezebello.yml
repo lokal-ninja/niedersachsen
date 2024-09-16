@@ -4,8 +4,8 @@ latitude: 52.34134
 longitude: 9.82576
 postcode: "30539"
 city: Hannover
-street: "Hinter dem Dorfe"
-housenumber: 10
-phone: "+49 511 8972304"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.miezebello.de/html/filialen/bemerode.htm"
+street: Hinter dem Dorfe
+housenumber: "10"
+phone: +49 511 8972304
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.miezebello.de/html/filialen/bemerode.htm

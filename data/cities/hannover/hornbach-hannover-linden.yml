@@ -1,11 +1,11 @@
 id: 29698304
-type: way
+type: node
 latitude: 52.35926
 longitude: 9.70857
 postcode: "30449"
 city: Hannover
-street: "Bornumer Straße"
-housenumber: 19
-phone: "+49 511 123591-0"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.hornbach.de/"
+street: Bornumer Straße
+housenumber: "19"
+phone: +49 511 123591-0
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.hornbach.de/

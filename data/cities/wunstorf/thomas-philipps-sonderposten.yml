@@ -4,8 +4,8 @@ latitude: 52.41703
 longitude: 9.44601
 postcode: "31515"
 city: Wunstorf
-street: "König-Ludwig-Straße"
-housenumber: 1
-phone: "+49 5031 5168 750"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de/"
+street: König-Ludwig-Straße
+housenumber: "1"
+phone: +49 5031 5168 750
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.thomas-philipps.de/

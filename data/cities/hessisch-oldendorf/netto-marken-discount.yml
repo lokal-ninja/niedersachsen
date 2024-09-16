@@ -1,11 +1,11 @@
 id: 618781745
-type: way
+type: node
 latitude: 52.13488
 longitude: 9.24877
 postcode: "31840"
 city: Hessisch Oldendorf
-street: "Hamelner Straße"
-housenumber: 9
+street: Hamelner Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

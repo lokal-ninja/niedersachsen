@@ -4,8 +4,8 @@ latitude: 52.2764
 longitude: 8.04199
 postcode: "49074"
 city: Osnabrück
-street: "Krahnstraße"
-housenumber: 11
-phone: "+49 541 7609542"
-opening_hours: "Mo,We-Sa 10:00-18:00"
-website: "https://www.teehus-osnabrueck.de/"
+street: Krahnstraße
+housenumber: "11"
+phone: +49 541 7609542
+opening_hours: Mo,We-Sa 10:00-18:00
+website: https://www.teehus-osnabrueck.de/

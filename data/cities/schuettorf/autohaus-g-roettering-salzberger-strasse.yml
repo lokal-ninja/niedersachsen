@@ -1,11 +1,11 @@
 id: 115737307
-type: way
+type: node
 latitude: 52.32406
 longitude: 7.23493
 postcode: "48465"
 city: Schüttorf
-street: "Salzberger Straße"
-housenumber: 48
+street: Salzberger Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
 website: ""

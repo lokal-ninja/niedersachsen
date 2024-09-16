@@ -1,11 +1,11 @@
 id: 729372400
-type: way
+type: node
 latitude: 52.26309
 longitude: 10.5281
 postcode: "38100"
 city: Braunschweig
-street: "Schloss Arkaden"
-housenumber: 1
-phone: "+49 531 4811072"
-opening_hours: "Mo-Sa 09:30-20:00; Su off"
-website: "https://shopseite.telekom.de/nord-ost/braunschweig/platz-am-ritterbrunnen-1"
+street: Schloss Arkaden
+housenumber: "1"
+phone: +49 531 4811072
+opening_hours: Mo-Sa 09:30-20:00; Su off
+website: https://shopseite.telekom.de/nord-ost/braunschweig/platz-am-ritterbrunnen-1

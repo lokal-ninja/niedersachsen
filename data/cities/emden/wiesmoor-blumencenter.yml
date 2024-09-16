@@ -1,11 +1,11 @@
 id: 102676461
-type: way
+type: node
 latitude: 53.3895
 longitude: 7.20681
 postcode: "26721"
 city: Emden
-street: "Parkweg"
-housenumber: 16
+street: Parkweg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

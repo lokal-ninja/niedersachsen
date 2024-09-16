@@ -4,8 +4,8 @@ latitude: 52.08424
 longitude: 9.77461
 postcode: "31028"
 city: Gronau (Leine)
-street: "Hauptstraße"
-housenumber: 18
+street: Hauptstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00"
-website: "https://www.nkd.com/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-14:00
+website: https://www.nkd.com/

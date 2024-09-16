@@ -1,11 +1,11 @@
 id: 213757254
-type: way
+type: node
 latitude: 52.44049
 longitude: 9.55358
 postcode: "30826"
 city: Garbsen
-street: "Steinwartskamp"
-housenumber: 1
-phone: "+49 5131 441453"
+street: Steinwartskamp
+housenumber: "1"
+phone: +49 5131 441453
 opening_hours: ""
-website: "https://www.combi.de"
+website: https://www.combi.de

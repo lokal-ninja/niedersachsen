@@ -1,11 +1,11 @@
 id: 28923877
-type: way
+type: node
 latitude: 53.25653
 longitude: 8.11643
 postcode: "26215"
 city: Wiefelstede
-street: "Mühlenstraße"
-housenumber: 2
+street: Mühlenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

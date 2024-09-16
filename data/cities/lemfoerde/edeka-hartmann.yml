@@ -1,11 +1,11 @@
 id: 124449783
-type: way
+type: node
 latitude: 52.46941
 longitude: 8.37358
 postcode: "49448"
 city: Lemförde
-street: "Burgstraße"
-housenumber: 18
+street: Burgstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 149412013
-type: way
+type: node
 latitude: 53.1938
 longitude: 8.22981
 postcode: "26125"
 city: Oldenburg
-street: "Am Patentbusch"
-housenumber: 10
+street: Am Patentbusch
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

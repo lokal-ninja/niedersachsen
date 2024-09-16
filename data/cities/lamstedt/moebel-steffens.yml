@@ -1,11 +1,11 @@
 id: 1155224510
-type: way
+type: node
 latitude: 53.6262
 longitude: 9.09245
 postcode: "21769"
 city: Lamstedt
-street: "Auf den Schmaläckern"
-housenumber: 43
+street: Auf den Schmaläckern
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

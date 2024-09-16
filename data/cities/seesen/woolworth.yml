@@ -1,11 +1,11 @@
 id: 214229463
-type: way
+type: node
 latitude: 51.88926
 longitude: 10.17453
 postcode: "38723"
 city: Seesen
-street: "Jacobsonstraße"
-housenumber: 18
+street: Jacobsonstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://woolworth.de"
+website: https://woolworth.de

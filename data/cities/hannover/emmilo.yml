@@ -4,8 +4,8 @@ latitude: 52.3417
 longitude: 9.76443
 postcode: "30519"
 city: Hannover
-street: "Fiedelerstraße"
-housenumber: 5
-phone: "0511 53070176"
+street: Fiedelerstraße
+housenumber: "5"
+phone: 0511 53070176
 opening_hours: ""
-website: "https://emmilo.de"
+website: https://emmilo.de

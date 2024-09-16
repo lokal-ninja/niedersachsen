@@ -1,11 +1,11 @@
 id: 161227593
-type: way
+type: node
 latitude: 52.84469
 longitude: 8.0481
 postcode: "49661"
 city: Cloppenburg
-street: "Emsteker Straße"
-housenumber: 8
+street: Emsteker Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:30; Sa 07:30-12:00; Su,PH off"
-website: "https://www.kleier-cloppenburg.de"
+opening_hours: Mo-Fr 07:00-17:30; Sa 07:30-12:00; Su,PH off
+website: https://www.kleier-cloppenburg.de

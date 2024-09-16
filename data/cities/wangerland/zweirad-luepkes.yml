@@ -1,11 +1,11 @@
 id: 88802211
-type: way
+type: node
 latitude: 53.63157
 longitude: 8.0183
 postcode: "26434"
 city: Wangerland
-street: "Berghamm"
-housenumber: 10
+street: Berghamm
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, Mo,Tu,Th,Fr 14:00-17:00, Sa 09:30-12:00"
+opening_hours: Mo-Fr 09:00-12:00, Mo,Tu,Th,Fr 14:00-17:00, Sa 09:30-12:00
 website: ""

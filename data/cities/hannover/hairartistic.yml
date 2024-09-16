@@ -4,8 +4,8 @@ latitude: 52.37356
 longitude: 9.73368
 postcode: "30159"
 city: Hannover
-street: "Knochenhauerstraße"
-housenumber: 11
+street: Knochenhauerstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Di-Do 10:00-20:30; Fr 10:00-19:00; Sa auf Anfrage"
+opening_hours: Di-Do 10:00-20:30; Fr 10:00-19:00; Sa "auf Anfrage"
 website: ""

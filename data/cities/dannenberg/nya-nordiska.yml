@@ -4,8 +4,8 @@ latitude: 53.10104
 longitude: 11.09971
 postcode: "29451"
 city: Dannenberg
-street: "Marschtorstraße"
-housenumber: 20
-phone: "+49 5861 8090"
-opening_hours: "Th,Fr 09:00-16:30"
-website: "https://www.nya.com/de"
+street: Marschtorstraße
+housenumber: "20"
+phone: +49 5861 8090
+opening_hours: Th,Fr 09:00-16:30
+website: https://www.nya.com/de

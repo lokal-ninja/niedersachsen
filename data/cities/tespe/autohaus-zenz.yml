@@ -1,11 +1,11 @@
 id: 219405481
-type: way
+type: node
 latitude: 53.3988
 longitude: 10.41079
 postcode: "21395"
 city: Tespe
-street: "Lüneburger Straße"
-housenumber: 14
+street: Lüneburger Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.autohauszenz.de/"
+website: https://www.autohauszenz.de/

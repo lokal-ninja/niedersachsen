@@ -4,8 +4,8 @@ latitude: 53.68454
 longitude: 9.16827
 postcode: "21745"
 city: Hemmoor
-street: "Bahnhofstraße"
-housenumber: 25
-phone: "+49 4771 2388"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.modehaus-schroeder.de"
+street: Bahnhofstraße
+housenumber: "25"
+phone: +49 4771 2388
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.modehaus-schroeder.de

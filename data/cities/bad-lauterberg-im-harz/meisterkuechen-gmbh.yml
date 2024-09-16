@@ -1,11 +1,11 @@
 id: 233754493
-type: way
+type: node
 latitude: 51.62698
 longitude: 10.46201
 postcode: "37431"
 city: Bad Lauterberg im Harz
-street: "Hauptstraße"
-housenumber: 20
+street: Hauptstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-13:00; Su off"
-website: "https://www.meisterkuechen.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-13:00; Su off
+website: https://www.meisterkuechen.de/

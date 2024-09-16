@@ -1,11 +1,11 @@
 id: 219565617
-type: way
+type: node
 latitude: 53.1093
 longitude: 8.46245
 postcode: "27798"
 city: Hude
-street: "Stöverskamp"
-housenumber: 2
+street: Stöverskamp
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

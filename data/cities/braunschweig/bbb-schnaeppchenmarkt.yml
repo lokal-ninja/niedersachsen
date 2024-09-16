@@ -1,11 +1,11 @@
 id: 494219932
-type: way
+type: node
 latitude: 52.27183
 longitude: 10.4866
 postcode: "38116"
 city: Braunschweig
-street: "Luftstraße"
-housenumber: 17
+street: Luftstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

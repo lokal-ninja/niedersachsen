@@ -1,11 +1,11 @@
 id: 470141142
-type: way
+type: node
 latitude: 51.70491
 longitude: 9.99545
 postcode: ""
 city: Northeim
-street: "Am Münster"
-housenumber: 1
+street: Am Münster
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

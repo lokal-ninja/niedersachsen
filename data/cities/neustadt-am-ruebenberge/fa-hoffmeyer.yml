@@ -4,8 +4,8 @@ latitude: 52.53511
 longitude: 9.32595
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Heuberg"
-housenumber: 19
-phone: "+49 5036 2101"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.hoffmeyer-kfz.de/"
+street: Heuberg
+housenumber: "19"
+phone: +49 5036 2101
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.hoffmeyer-kfz.de/

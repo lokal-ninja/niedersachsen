@@ -1,11 +1,11 @@
 id: 145680638
-type: way
+type: node
 latitude: 52.54624
 longitude: 8.59146
 postcode: "49419"
 city: Wagenfeld
-street: "Mindener Straße"
-housenumber: 2
+street: Mindener Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

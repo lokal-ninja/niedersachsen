@@ -4,8 +4,8 @@ latitude: 53.13742
 longitude: 8.90074
 postcode: "28865"
 city: Lilienthal
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu 8:00-19:00; We,Fr 8:00-18:00; Th 8:00-20:00"
-website: "https://www.friseur-krumbach.de/"
+opening_hours: Tu 8:00-19:00; We,Fr 8:00-18:00; Th 8:00-20:00
+website: https://www.friseur-krumbach.de/

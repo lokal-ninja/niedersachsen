@@ -1,11 +1,11 @@
 id: 31051596
-type: way
+type: node
 latitude: 51.52399
 longitude: 9.88238
 postcode: "37081"
 city: Göttingen
-street: "Herbert-Quandt-Straße"
-housenumber: 7
+street: Herbert-Quandt-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

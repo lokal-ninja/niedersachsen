@@ -1,11 +1,11 @@
 id: 162209613
-type: way
+type: node
 latitude: 53.0377
 longitude: 8.72672
 postcode: "28259"
 city: Bremen
-street: "Dovemoorstraße"
+street: Dovemoorstraße
 housenumber: 10a
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

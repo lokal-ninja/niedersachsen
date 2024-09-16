@@ -1,11 +1,11 @@
 id: 151161961
-type: way
+type: node
 latitude: 52.60732
 longitude: 10.06322
 postcode: ""
 city: Celle
-street: "Vor den Fuhren"
-housenumber: 4
+street: Vor den Fuhren
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

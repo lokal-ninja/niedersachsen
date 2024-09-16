@@ -1,11 +1,11 @@
 id: 188444066
-type: way
+type: node
 latitude: 52.42083
 longitude: 9.79801
 postcode: "30657"
 city: Hannover
-street: "Burgwedeler Straße"
-housenumber: 11
+street: Burgwedeler Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

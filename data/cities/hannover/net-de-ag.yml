@@ -1,11 +1,11 @@
 id: 139630697
-type: way
+type: node
 latitude: 52.4087
 longitude: 9.72714
 postcode: "30165"
 city: Hannover
-street: "Büttnerstraße"
-housenumber: 57
+street: Büttnerstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

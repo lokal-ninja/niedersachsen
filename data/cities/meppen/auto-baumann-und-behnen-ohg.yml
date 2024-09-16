@@ -1,11 +1,11 @@
 id: 191050789
-type: way
+type: node
 latitude: 52.69974
 longitude: 7.26408
 postcode: "49716"
 city: Meppen
-street: "Sanddornstraße"
-housenumber: 9
+street: Sanddornstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

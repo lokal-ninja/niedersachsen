@@ -1,11 +1,11 @@
 id: 496364200
-type: way
+type: node
 latitude: 52.25989
 longitude: 8.09453
 postcode: "49084"
 city: Osnabrück
-street: "Hettlicher Masch"
-housenumber: 12
-phone: "+49 541 34978790"
+street: Hettlicher Masch
+housenumber: "12"
+phone: +49 541 34978790
 opening_hours: ""
-website: "https://www.stickelbroeck.de/"
+website: https://www.stickelbroeck.de/

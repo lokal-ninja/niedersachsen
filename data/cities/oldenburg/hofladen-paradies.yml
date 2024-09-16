@@ -1,11 +1,11 @@
 id: 103771281
-type: way
+type: node
 latitude: 53.10647
 longitude: 8.2753
 postcode: "26135"
 city: Oldenburg
-street: "Borchersweg"
-housenumber: 2
-phone: "+49 174 8213570"
+street: Borchersweg
+housenumber: "2"
+phone: +49 174 8213570
 opening_hours: ""
-website: "http://www.leckere-torten.de/"
+website: http://www.leckere-torten.de/

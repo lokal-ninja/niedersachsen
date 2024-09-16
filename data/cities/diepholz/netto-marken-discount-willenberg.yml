@@ -1,11 +1,11 @@
 id: 215070384
-type: way
+type: node
 latitude: 52.59892
 longitude: 8.36873
 postcode: "49356"
 city: Diepholz
-street: "Willenberg"
-housenumber: 40
+street: Willenberg
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,12 @@
 id: 31051602
-type: way
+type: node
 latitude: 51.52403
 longitude: 9.88752
 postcode: "37081"
 city: Göttingen
-street: "Anna-Vandenhoeck-Ring"
-housenumber: 2
+street: Anna-Vandenhoeck-Ring
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00 Verkauf; Sa 09:00-16:00 Verkauf; Mo-Fr 07:30-18:00 Kundendienst; Sa 09:00-13:00 Kundendienst; Su 14:00-18:00 freie Schau"
+opening_hours: Mo-Fr 07:30-19:00 "Verkauf"; Sa 09:00-16:00 "Verkauf"; Mo-Fr 07:30-18:00
+    "Kundendienst"; Sa 09:00-13:00 "Kundendienst"; Su 14:00-18:00 "freie Schau"
 website: ""

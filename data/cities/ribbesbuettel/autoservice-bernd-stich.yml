@@ -1,11 +1,11 @@
 id: 116716571
-type: way
+type: node
 latitude: 52.42996
 longitude: 10.53437
 postcode: "38551"
 city: Ribbesbüttel
-street: "Gifhorner Straße"
-housenumber: 2
-phone: "+49 5374 2312"
+street: Gifhorner Straße
+housenumber: "2"
+phone: +49 5374 2312
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.01179
 longitude: 9.07927
 postcode: "28832"
 city: Achim
-street: "Finienweg"
-housenumber: 13
-phone: "+49 4202 97440"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-12:00"
-website: "https://www.sundsautomobile.de/"
+street: Finienweg
+housenumber: "13"
+phone: +49 4202 97440
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:30-12:00
+website: https://www.sundsautomobile.de/

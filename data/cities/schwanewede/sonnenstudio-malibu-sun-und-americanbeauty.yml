@@ -4,8 +4,8 @@ latitude: 53.22351
 longitude: 8.59018
 postcode: "28790"
 city: Schwanewede
-street: "Waldweg"
-housenumber: 5
-phone: "+49 152 37373964"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su 10:00-15:00"
+street: Waldweg
+housenumber: "5"
+phone: +49 152 37373964
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su 10:00-15:00
 website: ""

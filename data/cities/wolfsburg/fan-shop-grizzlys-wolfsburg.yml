@@ -4,8 +4,8 @@ latitude: 52.43713
 longitude: 10.81356
 postcode: "38448"
 city: Wolfsburg
-street: "Allerpark"
-housenumber: 5
+street: Allerpark
+housenumber: "5"
 phone: "+49536184848958"
 opening_hours: ""
-website: "https://www.grizzlys.de/fanshop.html"
+website: https://www.grizzlys.de/fanshop.html

@@ -1,11 +1,11 @@
 id: 96680755
-type: way
+type: node
 latitude: 52.02422
 longitude: 10.4335
 postcode: "38704"
 city: Liebenburg
-street: "Lewer Straße"
-housenumber: 6
+street: Lewer Straße
+housenumber: "6"
 phone: "+4922120199959"
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

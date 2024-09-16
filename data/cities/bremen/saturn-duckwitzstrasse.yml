@@ -1,11 +1,11 @@
 id: 442418761
-type: way
+type: node
 latitude: 53.06563
 longitude: 8.76929
 postcode: "28199"
 city: Bremen
-street: "Duckwitzstraße"
-housenumber: 55
-phone: "+49 421 478850"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.saturn.de/de/store/bremen-duckwitzstrasse-1437"
+street: Duckwitzstraße
+housenumber: "55"
+phone: +49 421 478850
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.saturn.de/de/store/bremen-duckwitzstrasse-1437

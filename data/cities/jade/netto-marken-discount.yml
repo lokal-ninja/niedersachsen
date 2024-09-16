@@ -1,11 +1,11 @@
 id: 224212850
-type: way
+type: node
 latitude: 53.33798
 longitude: 8.1856
 postcode: "26349"
 city: Jade
-street: "Tiergartenstraße"
-housenumber: 1
+street: Tiergartenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

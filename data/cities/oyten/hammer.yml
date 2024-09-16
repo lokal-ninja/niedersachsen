@@ -1,11 +1,11 @@
 id: 89419187
-type: way
+type: node
 latitude: 53.0537
 longitude: 9.03327
 postcode: "28876"
 city: Oyten
-street: "Industriestraße"
-housenumber: 30
+street: Industriestraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

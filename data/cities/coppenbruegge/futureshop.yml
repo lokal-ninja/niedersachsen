@@ -1,11 +1,11 @@
 id: 81088617
-type: way
+type: node
 latitude: 52.08468
 longitude: 9.50132
 postcode: "31863"
 city: Coppenbrügge
-street: "Lange Straße"
-housenumber: 12
+street: Lange Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

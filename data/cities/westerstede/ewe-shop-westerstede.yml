@@ -4,8 +4,8 @@ latitude: 53.25651
 longitude: 7.92607
 postcode: "26655"
 city: Westerstede
-street: "Zum Stadtpark"
-housenumber: 2
+street: Zum Stadtpark
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00;Fr 09:00-16:00"
-website: "https://www.ewe.de"
+opening_hours: Mo-Th 09:00-18:00;Fr 09:00-16:00
+website: https://www.ewe.de

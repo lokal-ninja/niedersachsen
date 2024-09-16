@@ -4,8 +4,8 @@ latitude: 52.31605
 longitude: 9.82179
 postcode: "30539"
 city: Hannover
-street: "Boulevard de Montreal"
-housenumber: 18
-phone: "0511 2200550"
-opening_hours: "Mo-Fr 08:30-18:00"
+street: Boulevard de Montreal
+housenumber: "18"
+phone: 0511 2200550
+opening_hours: Mo-Fr 08:30-18:00
 website: ""

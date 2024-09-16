@@ -1,11 +1,11 @@
 id: 26590911
-type: way
+type: node
 latitude: 52.33879
 longitude: 10.24116
 postcode: ""
 city: Peine
-street: "Daimlerstraße"
-housenumber: 2
+street: Daimlerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

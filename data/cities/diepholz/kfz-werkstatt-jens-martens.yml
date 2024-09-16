@@ -1,11 +1,11 @@
 id: 1106460384
-type: way
+type: node
 latitude: 52.61038
 longitude: 8.38043
 postcode: "49356"
 city: Diepholz
-street: "Hindenburgstraße"
-housenumber: 27
+street: Hindenburgstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

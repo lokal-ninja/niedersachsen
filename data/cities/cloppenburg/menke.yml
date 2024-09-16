@@ -1,11 +1,11 @@
 id: 1215638515
-type: way
+type: node
 latitude: 52.82899
 longitude: 7.99962
 postcode: "49661"
 city: Cloppenburg
-street: "Neuendamm"
-housenumber: 8
+street: Neuendamm
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-12:00; Su,PH off
 website: ""

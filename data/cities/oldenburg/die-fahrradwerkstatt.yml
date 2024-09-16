@@ -1,11 +1,11 @@
 id: 89166871
-type: way
+type: node
 latitude: 53.13301
 longitude: 8.19407
 postcode: "26122"
 city: Oldenburg
-street: "Hauptstraße"
-housenumber: 73
-phone: "+49 441 18017593"
-opening_hours: "Mo-Fr 11:00-17:00"
-website: "https://die-fahrrad-werkstatt.com/wo-was-und-wieviel.html"
+street: Hauptstraße
+housenumber: "73"
+phone: +49 441 18017593
+opening_hours: Mo-Fr 11:00-17:00
+website: https://die-fahrrad-werkstatt.com/wo-was-und-wieviel.html

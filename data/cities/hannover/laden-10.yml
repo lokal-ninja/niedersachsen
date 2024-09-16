@@ -4,8 +4,8 @@ latitude: 52.3596
 longitude: 9.75822
 postcode: "30173"
 city: Hannover
-street: "Stüvestraße"
-housenumber: 10
+street: Stüvestraße
+housenumber: "10"
 phone: ""
-opening_hours: "Th,Fr 10:00-13:30; We-Fr 16:00-18:00; Sa 11:00-13:30"
+opening_hours: Th,Fr 10:00-13:30; We-Fr 16:00-18:00; Sa 11:00-13:30
 website: ""

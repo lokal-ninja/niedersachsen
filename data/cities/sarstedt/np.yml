@@ -4,8 +4,8 @@ latitude: 52.23605
 longitude: 9.85901
 postcode: "31157"
 city: Sarstedt
-street: "Friedrich-Ebert-Straße"
-housenumber: 5
-phone: "+49 5066 603215"
-opening_hours: "07:00-21:00; Su,PH off"
-website: "https://www.np.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "5"
+phone: +49 5066 603215
+opening_hours: 07:00-21:00; Su,PH off
+website: https://www.np.de/

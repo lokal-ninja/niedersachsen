@@ -4,8 +4,8 @@ latitude: 51.90752
 longitude: 10.42786
 postcode: "38640"
 city: Goslar
-street: "Bäckerstraße"
-housenumber: 104
-phone: "+49 5321 4699646"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su off"
-website: "https://www.vockeroth.com/modehaeuser/goslar/"
+street: Bäckerstraße
+housenumber: "104"
+phone: +49 5321 4699646
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su off
+website: https://www.vockeroth.com/modehaeuser/goslar/

@@ -1,11 +1,11 @@
 id: 269779850
-type: way
+type: node
 latitude: 52.33408
 longitude: 10.26806
 postcode: "31224"
 city: Peine
-street: "Glatzer Ring"
-housenumber: 23
+street: Glatzer Ring
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

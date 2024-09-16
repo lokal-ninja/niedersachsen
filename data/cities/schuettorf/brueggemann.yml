@@ -4,8 +4,8 @@ latitude: 52.32096
 longitude: 7.22279
 postcode: "48465"
 city: Schüttorf
-street: "Steinstraße"
-housenumber: 4
-phone: "+49 5923 2227"
-opening_hours: "Mo,We-Fr 05:00-18:30; Tu 05:00-13:00; Sa 04:30-13:00; Su 07:00-11:30"
+street: Steinstraße
+housenumber: "4"
+phone: +49 5923 2227
+opening_hours: Mo,We-Fr 05:00-18:30; Tu 05:00-13:00; Sa 04:30-13:00; Su 07:00-11:30
 website: ""

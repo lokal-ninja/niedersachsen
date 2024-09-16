@@ -4,8 +4,8 @@ latitude: 53.00915
 longitude: 7.76606
 postcode: "26169"
 city: Friesoythe
-street: "Alte Hauptstraße"
-housenumber: 18
-phone: "+49 4493 204"
-opening_hours: "Mo,Tu,Th,Fr 06:30-12:00, 15:00-18:00; We 06:30-12:00; Sa 07:00-12:30"
-website: "https://www.baeckerei-engbers.de/"
+street: Alte Hauptstraße
+housenumber: "18"
+phone: +49 4493 204
+opening_hours: Mo,Tu,Th,Fr 06:30-12:00, 15:00-18:00; We 06:30-12:00; Sa 07:00-12:30
+website: https://www.baeckerei-engbers.de/

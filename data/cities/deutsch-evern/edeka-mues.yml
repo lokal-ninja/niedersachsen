@@ -1,11 +1,11 @@
 id: 1311380129
-type: way
+type: node
 latitude: 53.20228
 longitude: 10.43817
 postcode: "21407"
 city: Deutsch Evern
-street: "Am Alten Landhaus"
-housenumber: 2
+street: Am Alten Landhaus
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:00-19:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.40433
 longitude: 9.73409
 postcode: "30165"
 city: Hannover
-street: "Vahrenwalder Straße"
-housenumber: 193
-phone: "+49 511 51930950"
-opening_hours: "nach Vereinbarung"
-website: "https://www.hfb.audio/"
+street: Vahrenwalder Straße
+housenumber: "193"
+phone: +49 511 51930950
+opening_hours: '"nach Vereinbarung"'
+website: https://www.hfb.audio/

@@ -1,11 +1,11 @@
 id: 1023143146
-type: way
+type: node
 latitude: 53.27227
 longitude: 10.00733
 postcode: "21271"
 city: Hanstedt
-street: "Auepark"
-housenumber: 
+street: Auepark
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

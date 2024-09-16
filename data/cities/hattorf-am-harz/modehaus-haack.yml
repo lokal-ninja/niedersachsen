@@ -4,8 +4,8 @@ latitude: 51.64411
 longitude: 10.23296
 postcode: "37197"
 city: Hattorf am Harz
-street: "Rotenbergstraße"
-housenumber: 26
-phone: "+49 5584317"
-opening_hours: "Mo-Fr 15:00-18:30; Sa 09:30-13:00"
-website: "https://modehaus-haack.de/"
+street: Rotenbergstraße
+housenumber: "26"
+phone: +49 5584317
+opening_hours: Mo-Fr 15:00-18:30; Sa 09:30-13:00
+website: https://modehaus-haack.de/

@@ -4,8 +4,8 @@ latitude: 52.47982
 longitude: 9.7347
 postcode: "30855"
 city: Langenhagen
-street: "Bertha-von-Suttner-Ring"
-housenumber: 3
-phone: "+49 511 89 79 240"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
-website: "https://www.oliven-apotheke.com/"
+street: Bertha-von-Suttner-Ring
+housenumber: "3"
+phone: +49 511 89 79 240
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-14:00
+website: https://www.oliven-apotheke.com/

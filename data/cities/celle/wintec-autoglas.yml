@@ -1,11 +1,11 @@
 id: 533677336
-type: way
+type: node
 latitude: 52.59633
 longitude: 10.10926
 postcode: "29227"
 city: Celle
-street: "Braunschweiger Heerstraße"
-housenumber: 96
+street: Braunschweiger Heerstraße
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

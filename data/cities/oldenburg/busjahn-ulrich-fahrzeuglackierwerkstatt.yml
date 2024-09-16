@@ -1,11 +1,11 @@
 id: 131240106
-type: way
+type: node
 latitude: 53.17756
 longitude: 8.20227
 postcode: "26127"
 city: Oldenburg
-street: "Baumschulenweg"
-housenumber: 25
+street: Baumschulenweg
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

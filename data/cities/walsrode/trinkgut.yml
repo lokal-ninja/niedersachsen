@@ -1,11 +1,11 @@
 id: 232935372
-type: way
+type: node
 latitude: 52.86195
 longitude: 9.58873
 postcode: ""
 city: Walsrode
-street: "Lange Straße"
-housenumber: 56
+street: Lange Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

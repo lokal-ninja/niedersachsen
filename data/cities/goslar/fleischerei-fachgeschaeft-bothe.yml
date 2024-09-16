@@ -1,11 +1,11 @@
 id: 246848126
-type: way
+type: node
 latitude: 51.89972
 longitude: 10.48037
 postcode: "38642"
 city: Goslar
-street: "Höhlenweg"
-housenumber: 11
+street: Höhlenweg
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

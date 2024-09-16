@@ -1,11 +1,11 @@
 id: 43638926
-type: way
+type: node
 latitude: 52.31149
 longitude: 10.59884
 postcode: "38108"
 city: Braunschweig
-street: "Troppaustraße"
-housenumber: 20
+street: Troppaustraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

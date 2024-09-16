@@ -1,11 +1,11 @@
 id: 1199948251
-type: way
+type: node
 latitude: 51.68392
 longitude: 9.98239
 postcode: "37154"
 city: Northeim
-street: "Robert-Bosch-Straße"
-housenumber: 17
+street: Robert-Bosch-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00; PH off
 website: ""

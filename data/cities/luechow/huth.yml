@@ -4,8 +4,8 @@ latitude: 52.96745
 longitude: 11.1551
 postcode: "29439"
 city: Lüchow
-street: "Lange Straße"
-housenumber: 55
-phone: "+49 5841 9747466"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.huthundfricke.de/huth/"
+street: Lange Straße
+housenumber: "55"
+phone: +49 5841 9747466
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.huthundfricke.de/huth/

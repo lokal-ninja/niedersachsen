@@ -1,11 +1,11 @@
 id: 27147221
-type: way
+type: node
 latitude: 52.25187
 longitude: 9.97129
 postcode: "31191"
 city: Algermissen
-street: "Kolpingstraße"
-housenumber: 37
+street: Kolpingstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

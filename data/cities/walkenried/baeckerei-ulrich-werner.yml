@@ -1,11 +1,12 @@
 id: 505004066
-type: way
+type: node
 latitude: 51.63588
 longitude: 10.63308
 postcode: "37445"
 city: Walkenried
-street: "Am Kurpark"
-housenumber: 6
+street: Am Kurpark
+housenumber: "6"
 phone: ""
-opening_hours: "Tu, We 07:00-11:29, 14:00-16:00; Th 07:00-11:30; Fr 07:00-11:30, 14:00-16:00; Sa 07:00-11:30, 14:00-16:00; Su 08:00-10:00, 14:00-16:00"
+opening_hours: Tu, We 07:00-11:29, 14:00-16:00; Th 07:00-11:30; Fr 07:00-11:30, 14:00-16:00;
+    Sa 07:00-11:30, 14:00-16:00; Su 08:00-10:00, 14:00-16:00
 website: ""

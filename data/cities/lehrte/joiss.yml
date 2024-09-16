@@ -1,11 +1,11 @@
 id: 306972767
-type: way
+type: node
 latitude: 52.39843
 longitude: 9.97322
 postcode: "31275"
 city: Lehrte
-street: "Dammfeldstraße"
-housenumber: 1
+street: Dammfeldstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

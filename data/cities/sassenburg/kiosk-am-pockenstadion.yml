@@ -1,11 +1,11 @@
 id: 320722234
-type: way
+type: node
 latitude: 52.48189
 longitude: 10.62539
 postcode: "38524"
 city: Sassenburg
-street: "Zum Sportplatz"
-housenumber: 100
+street: Zum Sportplatz
+housenumber: "100"
 phone: ""
-opening_hours: "nur während Punktspiele"
+opening_hours: '"nur während Punktspiele"'
 website: ""

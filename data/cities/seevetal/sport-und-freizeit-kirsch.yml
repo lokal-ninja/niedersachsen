@@ -4,8 +4,8 @@ latitude: 53.44783
 longitude: 10.07599
 postcode: "21217"
 city: Seevetal
-street: "Lührsweg"
-housenumber: 8
+street: Lührsweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00"
-website: "http://www.sport-kirsch.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00
+website: http://www.sport-kirsch.de/

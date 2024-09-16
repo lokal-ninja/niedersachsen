@@ -1,11 +1,11 @@
 id: 387794161
-type: way
+type: node
 latitude: 52.94223
 longitude: 8.24024
 postcode: "26197"
 city: Großenkneten
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 4-6
 phone: "+4944478020"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.gs-genossenschaft.de/raiffeisenmarkt"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.gs-genossenschaft.de/raiffeisenmarkt

@@ -1,11 +1,11 @@
 id: 161209812
-type: way
+type: node
 latitude: 52.37743
 longitude: 9.80091
 postcode: "30625"
 city: Hannover
-street: "Berckhusenstraße"
-housenumber: 111
+street: Berckhusenstraße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-12:00"
-website: "https://ars-kleefeld.de"
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-12:00
+website: https://ars-kleefeld.de

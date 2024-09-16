@@ -4,8 +4,8 @@ latitude: 52.31827
 longitude: 8.36131
 postcode: "49152"
 city: Bad Essen
-street: "Lindenstraße"
-housenumber: 126
+street: Lindenstraße
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

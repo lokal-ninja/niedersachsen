@@ -1,11 +1,11 @@
 id: 36972921
-type: way
+type: node
 latitude: 51.54823
 longitude: 9.90917
 postcode: "37079"
 city: Göttingen
-street: "Königsallee"
-housenumber: 243
+street: Königsallee
+housenumber: "243"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de

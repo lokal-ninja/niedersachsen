@@ -1,11 +1,11 @@
 id: 1109766556
-type: way
+type: node
 latitude: 52.46508
 longitude: 7.15436
 postcode: "48531"
 city: Nordhorn
-street: "Karl-Braun-Straße"
-housenumber: 3
+street: Karl-Braun-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

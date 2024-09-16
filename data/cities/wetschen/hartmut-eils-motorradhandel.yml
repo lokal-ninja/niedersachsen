@@ -1,11 +1,11 @@
 id: 130584179
-type: way
+type: node
 latitude: 52.62291
 longitude: 8.46267
 postcode: "49453"
 city: Wetschen
-street: "Kornstraße"
-housenumber: 11
+street: Kornstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
 website: ""

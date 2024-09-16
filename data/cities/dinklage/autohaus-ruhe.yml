@@ -1,11 +1,11 @@
 id: 707817580
-type: way
+type: node
 latitude: 52.66762
 longitude: 8.11657
 postcode: "49413"
 city: Dinklage
-street: "Quakenbrücker Straße"
-housenumber: 17
-phone: "+49 4443 507990"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-12:00"
-website: "https://www.autohaus-ruhe.de/"
+street: Quakenbrücker Straße
+housenumber: "17"
+phone: +49 4443 507990
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-12:00
+website: https://www.autohaus-ruhe.de/

@@ -1,11 +1,11 @@
 id: 361659332
-type: way
+type: node
 latitude: 53.05823
 longitude: 8.1806
 postcode: "26203"
 city: Wardenburg
-street: "An den Voßbergen"
-housenumber: 12
-phone: "+49(0)44 07 7189840"
-opening_hours: ""
-website: "https://www.warnken-pflanzen.de/"
+street: An den Voßbergen
+housenumber: "12"
+phone: +49(0)44 07 7189840
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su,PH off
+website: https://www.warnken-pflanzen.de/

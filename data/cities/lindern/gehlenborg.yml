@@ -1,11 +1,11 @@
 id: 87993556
-type: way
+type: node
 latitude: 52.84566
 longitude: 7.77984
 postcode: "49699"
 city: Lindern
-street: "Vreeser Straße"
-housenumber: 5
+street: Vreeser Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

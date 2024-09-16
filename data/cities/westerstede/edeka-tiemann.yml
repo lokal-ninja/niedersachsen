@@ -4,8 +4,8 @@ latitude: 53.25403
 longitude: 7.91753
 postcode: "26655"
 city: Westerstede
-street: "Kuhlenstraße"
-housenumber: 51
-phone: "+49 4488 71809"
-opening_hours: "Mo-Fr 07:30-21:00; Sa 07:30-20:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-tiemann-kuhlenstr.-51/index.jsp"
+street: Kuhlenstraße
+housenumber: "51"
+phone: +49 4488 71809
+opening_hours: Mo-Fr 07:30-21:00; Sa 07:30-20:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-tiemann-kuhlenstr.-51/index.jsp

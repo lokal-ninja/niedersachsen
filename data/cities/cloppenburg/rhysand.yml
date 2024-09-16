@@ -4,8 +4,8 @@ latitude: 52.8432
 longitude: 8.03666
 postcode: "49661"
 city: Cloppenburg
-street: "Kirchhofstraße"
-housenumber: 2
+street: Kirchhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:30; Sa 12:00-18:00; Mo,Su,PH off ||Termine nach Vereinbarung"
+opening_hours: Tu-Fr 11:00-18:30; Sa 12:00-18:00; Mo,Su,PH off ||"Termine nach Vereinbarung"
 website: ""

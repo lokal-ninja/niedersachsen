@@ -4,8 +4,8 @@ latitude: 52.33818
 longitude: 9.76034
 postcode: "30519"
 city: Hannover
-street: "Weststraße"
-housenumber: 2
+street: Weststraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00
 website: ""

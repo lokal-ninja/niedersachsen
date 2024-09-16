@@ -4,8 +4,8 @@ latitude: 52.45268
 longitude: 8.7303
 postcode: "31603"
 city: Diepenau
-street: "Dorfstraße"
-housenumber: 14
+street: Dorfstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo 09:00-19:00; Sa 09:00-15:00"
-website: "https://jm-partner.de/"
+opening_hours: Mo 09:00-19:00; Sa 09:00-15:00
+website: https://jm-partner.de/

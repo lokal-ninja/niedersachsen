@@ -4,8 +4,8 @@ latitude: 52.18816
 longitude: 9.08025
 postcode: "31737"
 city: Rinteln
-street: "Weserstraße"
-housenumber: 11
-phone: "+49 5751 967420"
-opening_hours: "Mo-Fr 09:00-14:00,15:00-18:00; Sa 09:30-13:00; PH off"
-website: "https://www.speisekorn-schuhtechnik.de/"
+street: Weserstraße
+housenumber: "11"
+phone: +49 5751 967420
+opening_hours: Mo-Fr 09:00-14:00,15:00-18:00; Sa 09:30-13:00; PH off
+website: https://www.speisekorn-schuhtechnik.de/

@@ -1,11 +1,11 @@
 id: 195985970
-type: way
+type: node
 latitude: 52.67907
 longitude: 7.30231
 postcode: "49716"
 city: Meppen
-street: "Fürstenbergstraße"
-housenumber: 54
+street: Fürstenbergstraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

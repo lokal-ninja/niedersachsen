@@ -4,8 +4,9 @@ latitude: 53.56177
 longitude: 8.04559
 postcode: "26388"
 city: Wilhelmshaven
-street: "Poststraße"
+street: Poststraße
 housenumber: 31a
-phone: "+49 4423 1417"
-opening_hours: "Tu 09:00-18:00; We 09:00-14:00; Th,Fr 09:00-18:00; Sa 09:00-13:00; Mo,Su,PH off"
+phone: +49 4423 1417
+opening_hours: Tu 09:00-18:00; We 09:00-14:00; Th,Fr 09:00-18:00; Sa 09:00-13:00;
+    Mo,Su,PH off
 website: ""

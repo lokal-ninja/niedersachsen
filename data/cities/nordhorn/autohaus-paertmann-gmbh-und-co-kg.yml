@@ -1,11 +1,11 @@
 id: 46133801
-type: way
+type: node
 latitude: 52.41336
 longitude: 7.04495
 postcode: "48527"
 city: Nordhorn
-street: "Borkener Hof"
-housenumber: 4
-phone: "+49 5921 88030"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.volvocars-haendler.de/paertmann/nordhorn#"
+street: Borkener Hof
+housenumber: "4"
+phone: +49 5921 88030
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.volvocars-haendler.de/paertmann/nordhorn#

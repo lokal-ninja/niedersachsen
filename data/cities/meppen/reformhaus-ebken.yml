@@ -1,11 +1,11 @@
 id: 196543530
-type: way
+type: node
 latitude: 52.69145
 longitude: 7.29159
 postcode: "49716"
 city: Meppen
-street: "Markt"
-housenumber: 12
+street: Markt
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00"
-website: "https://reformhaus.de/blogs/reformhaus-ebken/reformhaus-ebken"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00
+website: https://reformhaus.de/blogs/reformhaus-ebken/reformhaus-ebken

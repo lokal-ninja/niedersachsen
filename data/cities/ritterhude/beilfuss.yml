@@ -1,11 +1,11 @@
 id: 128799395
-type: way
+type: node
 latitude: 53.18087
 longitude: 8.71249
 postcode: "27721"
 city: Ritterhude
-street: "An der Ihle"
-housenumber: 22
+street: An der Ihle
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-13:00"
-website: "https://www.autohaus-beilfuss.de/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-13:00
+website: https://www.autohaus-beilfuss.de/

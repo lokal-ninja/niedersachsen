@@ -1,11 +1,11 @@
 id: 154241910
-type: way
+type: node
 latitude: 52.60652
 longitude: 8.36829
 postcode: "49356"
 city: Diepholz
-street: "Steinstraße"
-housenumber: 38
+street: Steinstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-14:00; Su 10:00-12:00"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-14:00; Su 10:00-12:00
 website: ""

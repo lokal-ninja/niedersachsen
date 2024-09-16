@@ -1,11 +1,11 @@
 id: 173597867
-type: way
+type: node
 latitude: 51.73268
 longitude: 10.61035
 postcode: "38700"
 city: Braunlage
-street: "Harzburger Straße"
-housenumber: 23
+street: Harzburger Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Su 08:30-17:30"
+opening_hours: Mo-Su 08:30-17:30
 website: ""

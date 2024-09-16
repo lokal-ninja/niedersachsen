@@ -1,11 +1,11 @@
 id: 192696901
-type: way
+type: node
 latitude: 53.49717
 longitude: 8.02262
 postcode: "26452"
 city: Sande
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 08:30-17:00; Fr-Su,PH off"
+opening_hours: Mo-Th 08:30-17:00; Fr-Su,PH off
 website: ""

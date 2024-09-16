@@ -4,8 +4,8 @@ latitude: 53.52875
 longitude: 8.10739
 postcode: "26382"
 city: Wilhelmshaven
-street: "Bismarckstraße"
-housenumber: 185
-phone: "+49 4421 9787 0"
-opening_hours: "Mo-Th 08:30-13:00,14:00-17:00; Fr 08:30-13:00,14:00-16:00"
-website: "https://www.selos.de/"
+street: Bismarckstraße
+housenumber: "185"
+phone: +49 4421 9787 0
+opening_hours: Mo-Th 08:30-13:00,14:00-17:00; Fr 08:30-13:00,14:00-16:00
+website: https://www.selos.de/

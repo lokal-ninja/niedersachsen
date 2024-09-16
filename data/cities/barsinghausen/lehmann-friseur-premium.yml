@@ -4,8 +4,8 @@ latitude: 52.30288
 longitude: 9.46137
 postcode: "30890"
 city: Barsinghausen
-street: "Marktstraße"
-housenumber: 29
-phone: "+49 5105 9595"
-opening_hours: "Mo, Fr 09:00-18:00; Tu,We,Th 09:00-19:00; Sa 08:00-14:00"
-website: "https://www.lehmannfriseure.de/lehmann_premium/"
+street: Marktstraße
+housenumber: "29"
+phone: +49 5105 9595
+opening_hours: Mo, Fr 09:00-18:00; Tu,We,Th 09:00-19:00; Sa 08:00-14:00
+website: https://www.lehmannfriseure.de/lehmann_premium/

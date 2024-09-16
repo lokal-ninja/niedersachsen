@@ -1,11 +1,11 @@
 id: 262990150
-type: way
+type: node
 latitude: 51.43219
 longitude: 9.64769
 postcode: "34346"
 city: Hann. Münden
-street: "Auefeld"
-housenumber: 4
-phone: "+49 5541 98400"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
-website: "https://www.hagebau-dreyer.de/"
+street: Auefeld
+housenumber: "4"
+phone: +49 5541 98400
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
+website: https://www.hagebau-dreyer.de/

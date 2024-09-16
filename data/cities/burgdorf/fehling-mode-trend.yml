@@ -4,8 +4,8 @@ latitude: 52.44656
 longitude: 10.00687
 postcode: "31303"
 city: Burgdorf
-street: "Marktstraße"
-housenumber: 57
+street: Marktstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.fehling-mode.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.fehling-mode.de

@@ -1,11 +1,11 @@
 id: 556000835
-type: way
+type: node
 latitude: 52.26136
 longitude: 9.01404
 postcode: "31675"
 city: Bückeburg
-street: "Röcker Feld"
-housenumber: 3
+street: Röcker Feld
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.wiedemann.de/badpunkt"
+website: https://www.wiedemann.de/badpunkt

@@ -1,11 +1,11 @@
 id: 233844904
-type: way
+type: node
 latitude: 52.60459
 longitude: 9.09393
 postcode: "31618"
 city: Liebenau
-street: "Lange Straße"
-housenumber: 29
+street: Lange Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Tu, Su 16:00-19:00"
+opening_hours: Tu, Su 16:00-19:00
 website: ""

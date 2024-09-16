@@ -1,11 +1,11 @@
 id: 169166562
-type: way
+type: node
 latitude: 53.03214
 longitude: 8.66196
 postcode: "27751"
 city: Delmenhorst
-street: "Annenheider Allee"
-housenumber: 114
+street: Annenheider Allee
+housenumber: "114"
 phone: ""
 opening_hours: ""
-website: "https://www.natuschke-lange.de/de"
+website: https://www.natuschke-lange.de/de

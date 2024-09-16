@@ -4,8 +4,8 @@ latitude: 52.34602
 longitude: 9.72461
 postcode: "30459"
 city: Hannover
-street: "Ricklinger Stadtweg"
-housenumber: 34
-phone: "0511 26286444"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://rb-roza.reisebuero-webseite.de"
+street: Ricklinger Stadtweg
+housenumber: "34"
+phone: 0511 26286444
+opening_hours: Mo-Su 10:00-18:00
+website: https://rb-roza.reisebuero-webseite.de

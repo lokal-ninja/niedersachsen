@@ -1,11 +1,11 @@
 id: 827608193
-type: way
+type: node
 latitude: 53.30967
 longitude: 7.48082
 postcode: "26802"
 city: Moormerland
-street: "Am Kirchweg"
-housenumber: 3
+street: Am Kirchweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off; PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su off; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 115006502
-type: way
+type: node
 latitude: 53.17524
 longitude: 8.61108
 postcode: "28755"
 city: Bremen
-street: "Lindenstraße"
-housenumber: 2
+street: Lindenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

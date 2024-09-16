@@ -1,11 +1,11 @@
 id: 779270925
-type: way
+type: node
 latitude: 53.40375
 longitude: 7.6038
 postcode: "26629"
 city: Großefehn
-street: "Jahnstraße"
-housenumber: 1
+street: Jahnstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

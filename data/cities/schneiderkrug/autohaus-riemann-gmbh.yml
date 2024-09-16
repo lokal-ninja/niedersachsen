@@ -1,11 +1,11 @@
 id: 122651827
-type: way
+type: node
 latitude: 52.80944
 longitude: 8.24228
 postcode: "49685"
 city: Schneiderkrug
-street: "Hansestraße"
-housenumber: 27
+street: Hansestraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.riemann-automobile.de/"
+website: https://www.riemann-automobile.de/

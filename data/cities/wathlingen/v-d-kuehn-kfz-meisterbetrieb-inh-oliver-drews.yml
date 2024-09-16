@@ -4,8 +4,8 @@ latitude: 52.5406
 longitude: 10.14591
 postcode: "29339"
 city: Wathlingen
-street: "Nienhagener Straße"
-housenumber: 4
+street: Nienhagener Straße
+housenumber: "4"
 phone: "+4951448890"
-opening_hours: "Mo-Do 08:00-16:45, Fr 08:00-13:00"
-website: "https://www.ollis-kfz.de/"
+opening_hours: Mo-Do 08:00-16:45, Fr 08:00-13:00
+website: https://www.ollis-kfz.de/

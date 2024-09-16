@@ -4,8 +4,8 @@ latitude: 51.96015
 longitude: 10.01116
 postcode: "31195"
 city: Lamspringe
-street: "Hauptstraße"
-housenumber: 25
-phone: "+49 5183431"
-opening_hours: "Mo-Sa 09:00-12:00; Mo, Tu, Th, Fr 15:00-17:00"
-website: "https://www.becker-elektro-lamspringe.de/home.html"
+street: Hauptstraße
+housenumber: "25"
+phone: +49 5183431
+opening_hours: Mo-Sa 09:00-12:00; Mo, Tu, Th, Fr 15:00-17:00
+website: https://www.becker-elektro-lamspringe.de/home.html

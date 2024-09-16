@@ -1,11 +1,11 @@
 id: 28864406
-type: way
+type: node
 latitude: 52.32469
 longitude: 10.47904
 postcode: "38179"
 city: Schwülper
-street: "Waller See"
-housenumber: 18
+street: Waller See
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-13:00"
-website: "https://www.hti-handel.de/"
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-13:00
+website: https://www.hti-handel.de/

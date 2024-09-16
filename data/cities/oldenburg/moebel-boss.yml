@@ -1,11 +1,11 @@
 id: 32148393
-type: way
+type: node
 latitude: 53.18096
 longitude: 8.22735
 postcode: "26125"
 city: Oldenburg
-street: "Stubbenweg"
-housenumber: 25
-phone: "+49 441 998670"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"
-website: "https://moebel-boss.de/moebelhaeuser/oldenburg"
+street: Stubbenweg
+housenumber: "25"
+phone: +49 441 998670
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off
+website: https://moebel-boss.de/moebelhaeuser/oldenburg

@@ -4,8 +4,8 @@ latitude: 52.41804
 longitude: 10.7152
 postcode: "38442"
 city: Wolfsburg
-street: "Hoffmannstraße"
-housenumber: 1
+street: Hoffmannstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
 website: ""

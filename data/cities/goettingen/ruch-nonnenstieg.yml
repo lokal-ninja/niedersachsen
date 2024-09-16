@@ -4,8 +4,8 @@ latitude: 51.5426
 longitude: 9.9498
 postcode: "37075"
 city: Göttingen
-street: "Nonnenstieg"
-housenumber: 2
+street: Nonnenstieg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 06:30-12:00; Su 07:00-13:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 06:30-12:00; Su 07:00-13:00
 website: ""

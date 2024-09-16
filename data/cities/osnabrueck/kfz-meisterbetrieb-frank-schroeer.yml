@@ -4,8 +4,9 @@ latitude: 52.26919
 longitude: 8.09447
 postcode: "49084"
 city: Osnabrück
-street: "Mindener Straße"
-housenumber: 186
-phone: "+49 541 61 624"
-opening_hours: "Montag bis Donnerstag: 7:00 bis 17:30 Uhr; Freitag: 7:00 bis 16:00 Uhr"
+street: Mindener Straße
+housenumber: "186"
+phone: +49 541 61 624
+opening_hours: 'Montag bis Donnerstag: 7:00 bis 17:30 Uhr; Freitag: 7:00 bis 16:00
+    Uhr'
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.26562
 longitude: 10.54182
 postcode: "38102"
 city: Braunschweig
-street: "Altewiekring"
-housenumber: 39
+street: Altewiekring
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Th 14:00-19:00, Fr 12:00-19:00, Sa 10:00-16:00"
-website: "https://www.jacques.de/"
+opening_hours: Mo-Th 14:00-19:00, Fr 12:00-19:00, Sa 10:00-16:00
+website: https://www.jacques.de/

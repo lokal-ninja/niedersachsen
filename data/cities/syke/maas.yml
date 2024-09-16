@@ -4,8 +4,8 @@ latitude: 52.91301
 longitude: 8.82345
 postcode: "28857"
 city: Syke
-street: "Hauptstraße"
-housenumber: 8
-phone: "+49 4242 930 282"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00; PH off"
-website: "https://www.modehaus-maas.de"
+street: Hauptstraße
+housenumber: "8"
+phone: +49 4242 930 282
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00; PH off
+website: https://www.modehaus-maas.de

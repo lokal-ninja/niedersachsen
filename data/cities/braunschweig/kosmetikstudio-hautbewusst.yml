@@ -4,8 +4,8 @@ latitude: 52.29054
 longitude: 10.55526
 postcode: "38108"
 city: Braunschweig
-street: "Westfalenplatz"
-housenumber: 3
+street: Westfalenplatz
+housenumber: "3"
 phone: "+4953120893090"
-opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 08:00-13:00"
-website: "https://www.hautbewusst-kosmetik.de/"
+opening_hours: Mo off; Tu-Fr 09:00-18:00; Sa 08:00-13:00
+website: https://www.hautbewusst-kosmetik.de/

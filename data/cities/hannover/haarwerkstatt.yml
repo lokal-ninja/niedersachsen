@@ -4,8 +4,8 @@ latitude: 52.35973
 longitude: 9.75052
 postcode: "30169"
 city: Hannover
-street: "Hildesheimer Straße"
-housenumber: 86
-phone: "+49 511 3532062"
-opening_hours: "Tu-Fr 09:00-18:00; Sa Termine nach Vereinbarung"
+street: Hildesheimer Straße
+housenumber: "86"
+phone: +49 511 3532062
+opening_hours: Tu-Fr 09:00-18:00; Sa "Termine nach Vereinbarung"
 website: ""

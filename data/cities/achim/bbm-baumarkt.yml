@@ -4,8 +4,8 @@ latitude: 53.01995
 longitude: 9.06646
 postcode: "28832"
 city: Achim
-street: "Margarete-Steiff-Allee"
-housenumber: 1
-phone: "+49 4202 910350"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://achim.bbm-baumarkt.de/"
+street: Margarete-Steiff-Allee
+housenumber: "1"
+phone: +49 4202 910350
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://achim.bbm-baumarkt.de/

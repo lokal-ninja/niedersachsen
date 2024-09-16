@@ -1,11 +1,11 @@
 id: 756590349
-type: way
+type: node
 latitude: 53.40446
 longitude: 7.60229
 postcode: "26629"
 city: Großefehn
-street: "Müllers Kamp"
+street: Müllers Kamp
 housenumber: 4-6
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-d%C3%B6melt-m%C3%BCllers-kamp-4-6/index.jsp"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-d%C3%B6melt-m%C3%BCllers-kamp-4-6/index.jsp

@@ -4,8 +4,8 @@ latitude: 52.33396
 longitude: 9.5834
 postcode: "30989"
 city: Gehrden
-street: "Bundesstraße"
-housenumber: 6
-phone: "+49 5108 924236"
-opening_hours: "Mo-Fr 12:00-18:00; Sa 10:00-14:00"
-website: "https://www.galeriehof-antik.de/"
+street: Bundesstraße
+housenumber: "6"
+phone: +49 5108 924236
+opening_hours: Mo-Fr 12:00-18:00; Sa 10:00-14:00
+website: https://www.galeriehof-antik.de/

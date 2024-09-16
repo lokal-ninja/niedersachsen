@@ -1,11 +1,11 @@
 id: 914634681
-type: way
+type: node
 latitude: 51.6621
 longitude: 10.18174
 postcode: "37199"
 city: Wulften am Harz
-street: "Im Bierweg"
-housenumber: 5
+street: Im Bierweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

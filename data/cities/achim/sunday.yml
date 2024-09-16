@@ -4,8 +4,8 @@ latitude: 53.00348
 longitude: 9.0515
 postcode: "28832"
 city: Achim
-street: "Obernstraße"
-housenumber: 155
+street: Obernstraße
+housenumber: "155"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa-Su 10:00-16:00"
-website: "https://www.sunday-sonnenstudio.de"
+opening_hours: Mo-Fr 10:00-20:00; Sa-Su 10:00-16:00
+website: https://www.sunday-sonnenstudio.de

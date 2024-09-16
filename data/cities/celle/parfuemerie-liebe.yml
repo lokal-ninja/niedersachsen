@@ -4,8 +4,8 @@ latitude: 52.62369
 longitude: 10.08214
 postcode: "29221"
 city: Celle
-street: "Poststraße"
-housenumber: 1
-phone: "+49 5141 22949"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.liebe-hannover.de/"
+street: Poststraße
+housenumber: "1"
+phone: +49 5141 22949
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.liebe-hannover.de/

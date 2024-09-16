@@ -1,11 +1,11 @@
 id: 117147153
-type: way
+type: node
 latitude: 53.3669
 longitude: 7.20219
 postcode: "26721"
 city: Emden
-street: "Lookvenne"
-housenumber: 12
+street: Lookvenne
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.aldi-nord.de/

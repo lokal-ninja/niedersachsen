@@ -1,11 +1,11 @@
 id: 1118074112
-type: way
+type: node
 latitude: 52.55328
 longitude: 8.58602
 postcode: "49419"
 city: Wagenfeld
-street: "Meiersfeld"
-housenumber: 21
+street: Meiersfeld
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1205267777
-type: way
+type: node
 latitude: 52.92416
 longitude: 9.13295
 postcode: "27337"
 city: Blender
-street: "Mühlenberg"
-housenumber: 6
-phone: "04233 272"
-opening_hours: "Tu,We,Fr 08:00-12:30,14:00-18:00; Th 08:00-12:30,14:00-20:00; Sa 07:00-13:00"
+street: Mühlenberg
+housenumber: "6"
+phone: 04233 272
+opening_hours: Tu,We,Fr 08:00-12:30,14:00-18:00; Th 08:00-12:30,14:00-20:00; Sa 07:00-13:00
 website: ""

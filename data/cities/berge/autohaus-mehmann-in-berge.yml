@@ -1,11 +1,11 @@
 id: 244672303
-type: way
+type: node
 latitude: 52.6223
 longitude: 7.75316
 postcode: "49626"
 city: Berge
-street: "Hauptstraße"
-housenumber: 59
+street: Hauptstraße
+housenumber: "59"
 phone: ""
 opening_hours: ""
-website: "https://auto-mehmann.de/"
+website: https://auto-mehmann.de/

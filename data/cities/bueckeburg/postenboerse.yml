@@ -1,11 +1,11 @@
 id: 1253813490
-type: way
+type: node
 latitude: 52.26167
 longitude: 9.03252
 postcode: "31675"
 city: Bückeburg
-street: "Wilhelm-Raabe-Straße"
-housenumber: 3
+street: Wilhelm-Raabe-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.posten-boerse.de/"
+website: https://www.posten-boerse.de/

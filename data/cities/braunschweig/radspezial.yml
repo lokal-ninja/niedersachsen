@@ -4,8 +4,8 @@ latitude: 52.28392
 longitude: 10.5784
 postcode: "38104"
 city: Braunschweig
-street: "Petzvalstraße"
-housenumber: 54
-phone: "+49 531 4719 249"
-opening_hours: "Mo-Fr 08:00-16:00; Th 08:00-18:00"
+street: Petzvalstraße
+housenumber: "54"
+phone: +49 531 4719 249
+opening_hours: Mo-Fr 08:00-16:00; Th 08:00-18:00
 website: ""

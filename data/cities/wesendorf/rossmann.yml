@@ -1,11 +1,11 @@
 id: 1266601348
-type: way
+type: node
 latitude: 52.59351
 longitude: 10.54365
 postcode: "29392"
 city: Wesendorf
-street: "Wittinger Straße"
-housenumber: 42
+street: Wittinger Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

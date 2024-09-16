@@ -1,11 +1,11 @@
 id: 98740565
-type: way
+type: node
 latitude: 51.92111
 longitude: 10.41535
 postcode: "38644"
 city: Goslar
-street: "Am Helleberg"
-housenumber: 3
+street: Am Helleberg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30, Sa 08:30-14:00"
+opening_hours: Mo-Fr 07:30-18:30, Sa 08:30-14:00
 website: ""

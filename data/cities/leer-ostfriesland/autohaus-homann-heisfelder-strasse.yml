@@ -1,11 +1,11 @@
-id: 2285891918
+id: 2285891719
 type: node
-latitude: 53.24704
-longitude: 7.45923
+latitude: 53.24695
+longitude: 7.45859
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Heisfelder Straße"
-housenumber: 210
-phone: "+49 491 919270"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00; Su off; PH off"
-website: "https://www.autohaus-homann.de/"
+street: Heisfelder Straße
+housenumber: "210"
+phone: +49 491 919270
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off; PH off
+website: https://www.autohaus-homann.de/

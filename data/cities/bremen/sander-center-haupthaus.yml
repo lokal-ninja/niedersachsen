@@ -1,11 +1,11 @@
 id: 282181609
-type: way
+type: node
 latitude: 53.13733
 longitude: 8.7443
 postcode: "28239"
 city: Bremen
-street: "Schragestraße"
-housenumber: 4
+street: Schragestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 09:00-23:00"
+opening_hours: Mo-Su 09:00-23:00
 website: ""

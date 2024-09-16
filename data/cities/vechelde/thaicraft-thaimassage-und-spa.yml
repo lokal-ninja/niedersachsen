@@ -1,11 +1,11 @@
 id: 117392350
-type: way
+type: node
 latitude: 52.2593
 longitude: 10.37871
 postcode: "38159"
 city: Vechelde
-street: "Spiegelbergallee"
-housenumber: 4
-phone: "+49 53026839"
-opening_hours: "nach telefonischer Vereinbarung"
-website: "www.thaicraft.de"
+street: Spiegelbergallee
+housenumber: "4"
+phone: +49 53026839
+opening_hours: '"nach telefonischer Vereinbarung"'
+website: www.thaicraft.de

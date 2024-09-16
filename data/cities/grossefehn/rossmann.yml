@@ -1,11 +1,11 @@
 id: 360698662
-type: way
+type: node
 latitude: 53.40007
 longitude: 7.6051
 postcode: "26629"
 city: Großefehn
-street: "Postweg"
-housenumber: 30
+street: Postweg
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

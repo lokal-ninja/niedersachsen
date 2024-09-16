@@ -1,11 +1,11 @@
 id: 363769804
-type: way
+type: node
 latitude: 51.52603
 longitude: 9.88044
 postcode: "37079"
 city: Göttingen
-street: "Am Kauf Park"
-housenumber: 7
+street: Am Kauf Park
+housenumber: "7"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

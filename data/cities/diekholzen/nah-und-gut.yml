@@ -1,11 +1,11 @@
 id: 427194179
-type: way
+type: node
 latitude: 52.09547
 longitude: 9.917
 postcode: "31199"
 city: Diekholzen
-street: "Alfelder Straße"
-housenumber: 14
+street: Alfelder Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

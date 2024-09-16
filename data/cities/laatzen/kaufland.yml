@@ -1,11 +1,11 @@
 id: 772194571
-type: way
+type: node
 latitude: 52.31876
 longitude: 9.79337
 postcode: "30880"
 city: Laatzen
-street: "Münchener Straße"
-housenumber: 3
+street: Münchener Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

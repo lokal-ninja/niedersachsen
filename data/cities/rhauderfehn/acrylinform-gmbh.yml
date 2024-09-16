@@ -1,11 +1,11 @@
 id: 894569260
-type: way
+type: node
 latitude: 53.14276
 longitude: 7.55572
 postcode: "26817"
 city: Rhauderfehn
-street: "Schlosserstraße"
-housenumber: 10
-phone: "+49 4952 941629"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://acrylinform.de/"
+street: Schlosserstraße
+housenumber: "10"
+phone: +49 4952 941629
+opening_hours: Mo-Fr 09:00-17:00
+website: https://acrylinform.de/

@@ -1,11 +1,11 @@
 id: 931710298
-type: way
+type: node
 latitude: 53.05694
 longitude: 9.16935
 postcode: "28870"
 city: Ottersberg
-street: "Hintzendorf-Mitteldorf"
-housenumber: 15
+street: Hintzendorf-Mitteldorf
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

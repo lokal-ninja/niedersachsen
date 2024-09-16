@@ -4,8 +4,8 @@ latitude: 53.17736
 longitude: 8.18981
 postcode: "26127"
 city: Oldenburg
-street: "Alexanderstraße"
-housenumber: 444
-phone: "+49 441 4089948"
-opening_hours: "Mo-Fr 05:00-19:00; Sa 05:00-18:00; Su 07:00-11:00"
-website: "https://www.innungsbaecker.de/baeckerfinder/baecker/0149fbac-5e35-4413-9ea4-5347b620c4c6"
+street: Alexanderstraße
+housenumber: "444"
+phone: +49 441 4089948
+opening_hours: Mo-Fr 05:00-19:00; Sa 05:00-18:00; Su 07:00-11:00
+website: https://www.innungsbaecker.de/baeckerfinder/baecker/0149fbac-5e35-4413-9ea4-5347b620c4c6

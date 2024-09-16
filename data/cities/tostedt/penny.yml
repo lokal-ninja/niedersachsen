@@ -1,11 +1,11 @@
 id: 25398913
-type: way
+type: node
 latitude: 53.27577
 longitude: 9.71625
 postcode: "21255"
 city: Tostedt
-street: "Bahnhofstraße"
-housenumber: 36
+street: Bahnhofstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-21:30
+website: https://www.penny.de/

@@ -1,11 +1,11 @@
 id: 370396726
-type: way
+type: node
 latitude: 52.26868
 longitude: 10.94962
 postcode: "38350"
 city: Helmstedt
-street: "Zum Stüh"
-housenumber: 16
+street: Zum Stüh
+housenumber: "16"
 phone: ""
-opening_hours: "Tu,Fr 16:00-18:00"
-website: "https://www.verein-wilde-moehre.de/"
+opening_hours: Tu,Fr 16:00-18:00
+website: https://www.verein-wilde-moehre.de/

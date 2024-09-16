@@ -1,11 +1,11 @@
 id: 100263527
-type: way
+type: node
 latitude: 52.34225
 longitude: 9.7271
 postcode: "30459"
 city: Hannover
-street: "Beekestraße"
-housenumber: 66
+street: Beekestraße
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://www.boeker-hannover.de/"
+website: https://www.boeker-hannover.de/

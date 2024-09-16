@@ -1,11 +1,11 @@
 id: 135171592
-type: way
+type: node
 latitude: 53.37932
 longitude: 7.1975
 postcode: "26721"
 city: Emden
-street: "Steinweg"
-housenumber: 59
-phone: "+49 4921 42287"
+street: Steinweg
+housenumber: "59"
+phone: +49 4921 42287
 opening_hours: ""
-website: "https://www.spree-bestattungen.de/"
+website: https://www.spree-bestattungen.de/

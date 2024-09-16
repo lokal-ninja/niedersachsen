@@ -4,8 +4,8 @@ latitude: 53.15876
 longitude: 8.20911
 postcode: "26121"
 city: Oldenburg
-street: "Alexanderstraße"
-housenumber: 156
-phone: "+49 441 884300"
-opening_hours: "Mo-Fr 08:00-13:00, 14:30-19:00; Sa 09:00-13:30"
-website: "https://schneiderei-bruns.de"
+street: Alexanderstraße
+housenumber: "156"
+phone: +49 441 884300
+opening_hours: Mo-Fr 08:00-13:00, 14:30-19:00; Sa 09:00-13:30
+website: https://schneiderei-bruns.de

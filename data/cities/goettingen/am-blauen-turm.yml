@@ -1,11 +1,11 @@
 id: 258395886
-type: way
+type: node
 latitude: 51.54513
 longitude: 9.93684
 postcode: "37075"
 city: Göttingen
-street: "Beyerstraße"
-housenumber: 
+street: Beyerstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-24:00"
+opening_hours: Mo-Su 09:00-24:00
 website: ""

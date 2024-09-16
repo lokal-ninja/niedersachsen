@@ -4,8 +4,9 @@ latitude: 53.17113
 longitude: 7.29427
 postcode: "26826"
 city: Weener
-street: "Boenster Straße"
-housenumber: 25
+street: Boenster Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo 06:00-13:00; Tu-Th 06:00-18:00; Fr 06:00-16:00; Sa 06:00-12:00; Su 08:00-11:00"
+opening_hours: Mo 06:00-13:00; Tu-Th 06:00-18:00; Fr 06:00-16:00; Sa 06:00-12:00;
+    Su 08:00-11:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.09386
 longitude: 8.80637
 postcode: "28215"
 city: Bremen
-street: "Hemmstraße"
-housenumber: 165
+street: Hemmstraße
+housenumber: "165"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:00-12:30"
-website: "http://www.baeckermeister-thraem.de/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:00-12:30
+website: http://www.baeckermeister-thraem.de/

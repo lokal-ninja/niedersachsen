@@ -4,8 +4,8 @@ latitude: 52.37272
 longitude: 9.80836
 postcode: "30625"
 city: Hannover
-street: "Haubergstraße"
-housenumber: 3
+street: Haubergstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00"
-website: "https://www.john-bamberg.de/de/"
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:00
+website: https://www.john-bamberg.de/de/

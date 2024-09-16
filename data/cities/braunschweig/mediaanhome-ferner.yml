@@ -4,8 +4,8 @@ latitude: 52.26426
 longitude: 10.51958
 postcode: "38100"
 city: Braunschweig
-street: "Neue Straße"
-housenumber: 22
-phone: "+49 531 49487"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.radio-ferner.com/"
+street: Neue Straße
+housenumber: "22"
+phone: +49 531 49487
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.radio-ferner.com/

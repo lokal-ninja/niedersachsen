@@ -4,8 +4,8 @@ latitude: 52.38461
 longitude: 9.18947
 postcode: "31718"
 city: Pollhagen
-street: "Hauptstraße"
-housenumber: 77
-phone: "+49 5721 - 46 42"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.schuhhaus-schaefer.de/"
+street: Hauptstraße
+housenumber: "77"
+phone: +49 5721 - 46 42
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.schuhhaus-schaefer.de/

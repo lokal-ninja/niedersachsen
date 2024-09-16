@@ -1,11 +1,11 @@
 id: 682839951
-type: way
+type: node
 latitude: 53.57704
 longitude: 7.22228
 postcode: "26506"
 city: Norden
-street: "Stellmacherstraße"
-housenumber: 8
-phone: "+49 4931 93900"
+street: Stellmacherstraße
+housenumber: "8"
+phone: +49 4931 93900
 opening_hours: ""
-website: "https://www.siebels-baustoffcenter.de/"
+website: https://www.siebels-baustoffcenter.de/

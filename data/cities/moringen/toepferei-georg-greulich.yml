@@ -4,8 +4,8 @@ latitude: 51.73433
 longitude: 9.78724
 postcode: "37186"
 city: Moringen
-street: "Deichstraße"
-housenumber: 14
-phone: "+49 5555 441"
-opening_hours: "Mo-Fr 10:00-12:30,13:00-16:30; Sa,Su 12:00-16:00"
-website: "https://www.bunzlauer-handtoepferei.de"
+street: Deichstraße
+housenumber: "14"
+phone: +49 5555 441
+opening_hours: Mo-Fr 10:00-12:30,13:00-16:30; Sa,Su 12:00-16:00
+website: https://www.bunzlauer-handtoepferei.de

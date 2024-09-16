@@ -1,11 +1,11 @@
 id: 296398813
-type: way
+type: node
 latitude: 52.26304
 longitude: 9.03269
 postcode: "31675"
 city: Bückeburg
-street: "Wilhelm-Raabe-Straße"
-housenumber: 1
-phone: "+49 5722 9549040"
+street: Wilhelm-Raabe-Straße
+housenumber: "1"
+phone: +49 5722 9549040
 opening_hours: ""
-website: "http://www.errico-automobile.de/"
+website: http://www.errico-automobile.de/

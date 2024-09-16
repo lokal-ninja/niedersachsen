@@ -1,11 +1,11 @@
 id: 261557330
-type: way
+type: node
 latitude: 51.88656
 longitude: 10.55864
 postcode: "38667"
 city: Bad Harzburg
-street: "Herzog-Julius-Straße"
-housenumber: 9
-phone: "+49 5322 558800"
+street: Herzog-Julius-Straße
+housenumber: "9"
+phone: +49 5322 558800
 opening_hours: ""
-website: "https://www.ford-bathauer-bad-harzburg.de/"
+website: https://www.ford-bathauer-bad-harzburg.de/

@@ -4,8 +4,8 @@ latitude: 53.08472
 longitude: 7.38572
 postcode: "26871"
 city: Papenburg
-street: "Deverweg"
+street: Deverweg
 housenumber: 18-40
-phone: "+49 4961 9175-0"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"
-website: "https://www.albers.de/standorte/papenburg?tx_standorte_oeffnungszeiten%5Bstandort%5D=3"
+phone: +49 4961 9175-0
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-18:00
+website: https://www.albers.de/standorte/papenburg?tx_standorte_oeffnungszeiten%5Bstandort%5D=3

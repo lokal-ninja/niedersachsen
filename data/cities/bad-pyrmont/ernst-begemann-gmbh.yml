@@ -1,11 +1,11 @@
 id: 302990871
-type: way
+type: node
 latitude: 51.98654
 longitude: 9.22444
 postcode: "31812"
 city: Bad Pyrmont
-street: "Hagener Straße"
-housenumber: 55
-phone: "+49 5281 4395"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.begemann-autohaus.de/"
+street: Hagener Straße
+housenumber: "55"
+phone: +49 5281 4395
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.begemann-autohaus.de/

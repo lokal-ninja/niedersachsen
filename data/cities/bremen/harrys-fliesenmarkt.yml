@@ -1,11 +1,11 @@
 id: 27375490
-type: way
+type: node
 latitude: 53.06431
 longitude: 8.77893
 postcode: "28199"
 city: Bremen
-street: "Duckwitzstraße"
-housenumber: 48
+street: Duckwitzstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su 14:00-18:00 exhibition"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su 14:00-18:00 "exhibition"
 website: ""

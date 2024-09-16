@@ -4,8 +4,8 @@ latitude: 52.862
 longitude: 9.58732
 postcode: "29664"
 city: Walsrode
-street: "Moorstraße"
-housenumber: 80
+street: Moorstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

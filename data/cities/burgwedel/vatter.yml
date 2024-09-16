@@ -1,11 +1,11 @@
 id: 104002839
-type: way
+type: node
 latitude: 52.49188
 longitude: 9.85881
 postcode: "30938"
 city: Burgwedel
-street: "Hannoversche Straße"
-housenumber: 7
-phone: "+49 5139 706113"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 06:30-13:00; Su 06:30-16:00"
-website: "https://baeckerei-vatter.de/"
+street: Hannoversche Straße
+housenumber: "7"
+phone: +49 5139 706113
+opening_hours: Mo-Fr 06:30-17:00; Sa 06:30-13:00; Su 06:30-16:00
+website: https://baeckerei-vatter.de/

@@ -1,11 +1,11 @@
 id: 1108517979
-type: way
+type: node
 latitude: 52.40995
 longitude: 9.71086
 postcode: "30165"
 city: Hannover
-street: "Schachtebeckweg"
-housenumber: 7
-phone: "+49 163 166 3441"
+street: Schachtebeckweg
+housenumber: "7"
+phone: +49 163 166 3441
 opening_hours: ""
 website: ""

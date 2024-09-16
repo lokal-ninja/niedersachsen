@@ -1,11 +1,11 @@
 id: 430812088
-type: way
+type: node
 latitude: 52.40692
 longitude: 7.98037
 postcode: "49565"
 city: Bramsche
-street: "Brückenort"
-housenumber: 20
+street: Brückenort
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
 website: ""

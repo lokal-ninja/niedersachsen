@@ -1,11 +1,11 @@
 id: 258084186
-type: way
+type: node
 latitude: 51.53404
 longitude: 9.93406
 postcode: "37073"
 city: Göttingen
-street: "Weender Straße"
-housenumber: 19
+street: Weender Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; PH off"
+opening_hours: Mo-Fr 09:30-19:00; PH off
 website: ""

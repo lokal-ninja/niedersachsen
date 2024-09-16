@@ -4,8 +4,8 @@ latitude: 52.86931
 longitude: 9.58469
 postcode: "29664"
 city: Walsrode
-street: "Bergstraße"
-housenumber: 93
-phone: "+49 5161 3288"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-20:00; Su 08:00-20:00"
-website: "https://www.hoyer-tankstellen.de/tankstelle/Walsrode+Bergstr.+93"
+street: Bergstraße
+housenumber: "93"
+phone: +49 5161 3288
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-20:00; Su 08:00-20:00
+website: https://www.hoyer-tankstellen.de/tankstelle/Walsrode+Bergstr.+93

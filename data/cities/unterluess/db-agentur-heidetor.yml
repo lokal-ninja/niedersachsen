@@ -4,8 +4,9 @@ latitude: 52.83448
 longitude: 10.29902
 postcode: "29345"
 city: Unterlüß
-street: "Am Bahnhof"
-housenumber: 1
-phone: "+49 5827 5278"
-opening_hours: "Mo-We, Fr 06:15-11:30, 13:15-16:30; Th 06:15-11:30; Sa08:00-12:00; Su off"
+street: Am Bahnhof
+housenumber: "1"
+phone: +49 5827 5278
+opening_hours: Mo-We, Fr 06:15-11:30, 13:15-16:30; Th 06:15-11:30; Sa08:00-12:00;
+    Su off
 website: ""

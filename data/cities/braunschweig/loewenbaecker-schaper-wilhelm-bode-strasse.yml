@@ -4,8 +4,8 @@ latitude: 52.27371
 longitude: 10.54366
 postcode: "38106"
 city: Braunschweig
-street: "Wilhelm-Bode-Straße"
-housenumber: 38
+street: Wilhelm-Bode-Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-18:00; Su,PH 08:00-16:30"
-website: "https://loewenbaecker-schaper.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-18:00; Su,PH 08:00-16:30
+website: https://loewenbaecker-schaper.de/

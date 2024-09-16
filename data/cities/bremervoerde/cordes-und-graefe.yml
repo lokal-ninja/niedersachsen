@@ -1,11 +1,11 @@
 id: 343748895
-type: way
+type: node
 latitude: 53.49245
 longitude: 9.12061
 postcode: "27432"
 city: Bremervörde
-street: "Industriestraße"
-housenumber: 13
+street: Industriestraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

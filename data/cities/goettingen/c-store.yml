@@ -1,11 +1,11 @@
 id: 42437410
-type: way
+type: node
 latitude: 51.53074
 longitude: 9.93234
 postcode: "37073"
 city: Göttingen
-street: "Gartenstraße"
-housenumber: 16
+street: Gartenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Th 10:00-20:00; Sa 10:00-13:30; PH off"
+opening_hours: Mo-Fr 10:00-18:30; Th 10:00-20:00; Sa 10:00-13:30; PH off
 website: ""

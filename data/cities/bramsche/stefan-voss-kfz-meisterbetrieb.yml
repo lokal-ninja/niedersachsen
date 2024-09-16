@@ -1,11 +1,11 @@
 id: 435712772
-type: way
+type: node
 latitude: 52.41599
 longitude: 7.97886
 postcode: "49565"
 city: Bramsche
-street: "Wiesenweg"
-housenumber: 10
+street: Wiesenweg
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: ""

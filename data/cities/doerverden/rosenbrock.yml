@@ -1,11 +1,11 @@
 id: 160399414
-type: way
+type: node
 latitude: 52.83979
 longitude: 9.30343
 postcode: "27313"
 city: Dörverden
-street: "Hauptstraße"
-housenumber: 10
+street: Hauptstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

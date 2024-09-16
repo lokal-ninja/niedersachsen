@@ -1,11 +1,11 @@
 id: 162879907
-type: way
+type: node
 latitude: 52.40206
 longitude: 10.74222
 postcode: "38444"
 city: Wolfsburg
-street: "Halberstädter Straße"
+street: Halberstädter Straße
 housenumber: 28A
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.penny.de/

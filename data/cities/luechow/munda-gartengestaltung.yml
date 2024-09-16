@@ -1,11 +1,11 @@
 id: 321211459
-type: way
+type: node
 latitude: 52.96944
 longitude: 11.17212
 postcode: "29439"
 city: Lüchow
-street: "Berthold-Roggan-Ring"
-housenumber: 12
+street: Berthold-Roggan-Ring
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://ma-gruenwelt.de/"
+website: https://ma-gruenwelt.de/

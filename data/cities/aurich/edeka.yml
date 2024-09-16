@@ -1,11 +1,11 @@
 id: 877284531
-type: way
+type: node
 latitude: 53.48781
 longitude: 7.49681
 postcode: "26607"
 city: Aurich
-street: "Südeweg"
-housenumber: 7
+street: Südeweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

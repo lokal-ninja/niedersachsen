@@ -4,8 +4,8 @@ latitude: 53.28971
 longitude: 9.73067
 postcode: "21255"
 city: Tostedt
-street: "Friedrich-Vorwerk-Straße"
-housenumber: 15
-phone: "+49 4182 807780"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.druckstudio.de/"
+street: Friedrich-Vorwerk-Straße
+housenumber: "15"
+phone: +49 4182 807780
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.druckstudio.de/

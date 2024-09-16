@@ -4,8 +4,8 @@ latitude: 53.38519
 longitude: 10.41914
 postcode: "21395"
 city: Tespe
-street: "Lüneburger Straße"
-housenumber: 114
-phone: "+49 4176 9440800"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.supperundhamann.de/index.php/unsere-maerkte"
+street: Lüneburger Straße
+housenumber: "114"
+phone: +49 4176 9440800
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.supperundhamann.de/index.php/unsere-maerkte

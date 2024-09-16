@@ -1,11 +1,11 @@
 id: 83470330
-type: way
+type: node
 latitude: 53.60242
 longitude: 7.27435
 postcode: "26524"
 city: Hage
-street: "Hauptstraße"
-housenumber: 101
-phone: "+49 4931 7219"
+street: Hauptstraße
+housenumber: "101"
+phone: +49 4931 7219
 opening_hours: ""
 website: ""

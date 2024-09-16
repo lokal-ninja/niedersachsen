@@ -1,11 +1,11 @@
 id: 332585583
-type: way
+type: node
 latitude: 52.45038
 longitude: 10.00475
 postcode: "31303"
 city: Burgdorf
-street: "Raiffeisenstraße"
-housenumber: 8
+street: Raiffeisenstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

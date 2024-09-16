@@ -4,8 +4,9 @@ latitude: 51.56447
 longitude: 9.84412
 postcode: "37079"
 city: Göttingen
-street: "An der Insel"
+street: An der Insel
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Tu 08:00-12:30,14:00-17:00; We 08:00-12:00; Th 08:00-12:30,14:00-17:00; Fr 08:00-12:30; Sa 09:00-12:00; PH off"
+opening_hours: Mo-Tu 08:00-12:30,14:00-17:00; We 08:00-12:00; Th 08:00-12:30,14:00-17:00;
+    Fr 08:00-12:30; Sa 09:00-12:00; PH off
 website: ""

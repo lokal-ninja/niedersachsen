@@ -1,11 +1,11 @@
 id: 114116294
-type: way
+type: node
 latitude: 52.31621
 longitude: 9.46532
 postcode: "30890"
 city: Barsinghausen
-street: "Steinklippenstraße"
-housenumber: 5
+street: Steinklippenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

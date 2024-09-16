@@ -1,11 +1,11 @@
 id: 130547789
-type: way
+type: node
 latitude: 53.19554
 longitude: 8.22724
 postcode: "26125"
 city: Oldenburg
-street: "Am Patentbusch"
-housenumber: 11
+street: Am Patentbusch
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.schlickel.de/"
+website: https://www.schlickel.de/

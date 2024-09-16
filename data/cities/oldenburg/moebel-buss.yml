@@ -1,11 +1,11 @@
 id: 96152077
-type: way
+type: node
 latitude: 53.10816
 longitude: 8.2767
 postcode: "26135"
 city: Oldenburg
-street: "Bremer Heerstraße"
-housenumber: 575
-phone: "+49 441 9990400"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-18:30"
-website: "https://www.moebelbuss.de/"
+street: Bremer Heerstraße
+housenumber: "575"
+phone: +49 441 9990400
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-18:30
+website: https://www.moebelbuss.de/

@@ -1,11 +1,11 @@
 id: 93251517
-type: way
+type: node
 latitude: 53.49128
 longitude: 7.35996
 postcode: "26624"
 city: Südbrookmerland
-street: "Koppelweg"
-housenumber: 2
+street: Koppelweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.combi.de/"
+website: https://www.combi.de/

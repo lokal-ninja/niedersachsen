@@ -1,11 +1,11 @@
 id: 294669837
-type: way
+type: node
 latitude: 53.091
 longitude: 10.40328
 postcode: "29582"
 city: Hanstedt
 street: ""
-housenumber: 35
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.deerberg.de/"
+website: https://www.deerberg.de/

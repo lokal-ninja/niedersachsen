@@ -1,11 +1,11 @@
 id: 82967394
-type: way
+type: node
 latitude: 53.52277
 longitude: 7.27128
 postcode: "26529"
 city: Marienhafe
-street: "Am Markt"
-housenumber: 12
-phone: "+49 4934805500"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://moinpc.de"
+street: Am Markt
+housenumber: "12"
+phone: +49 4934805500
+opening_hours: Mo-Fr 09:00-17:00
+website: https://moinpc.de

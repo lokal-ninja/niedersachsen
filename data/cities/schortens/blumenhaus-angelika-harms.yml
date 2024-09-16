@@ -1,11 +1,11 @@
 id: 198774654
-type: way
+type: node
 latitude: 53.57176
 longitude: 7.98614
 postcode: "26419"
 city: Schortens
-street: "Jeversche Landstraße"
-housenumber: 16
-phone: "+49 4423 6575"
+street: Jeversche Landstraße
+housenumber: "16"
+phone: +49 4423 6575
 opening_hours: ""
 website: ""

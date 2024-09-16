@@ -1,11 +1,11 @@
 id: 98498873
-type: way
+type: node
 latitude: 53.22528
 longitude: 8.59571
 postcode: "28790"
 city: Schwanewede
-street: "Am Markt"
-housenumber: 5
+street: Am Markt
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

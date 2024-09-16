@@ -4,8 +4,9 @@ latitude: 52.37679
 longitude: 9.1481
 postcode: "31712"
 city: Niedernwöhren
-street: "Mittelbrink"
-housenumber: 7
-phone: "+49 5726 228"
-opening_hours: "We,Sa 09:00-12:30; Tu,Fr 09:00-12:30, 14:00-18:30; Th 09:00-12:30, 14:00-20:00"
-website: "https://www.naturwarenladen-mittelbrink.de/"
+street: Mittelbrink
+housenumber: "7"
+phone: +49 5726 228
+opening_hours: We,Sa 09:00-12:30; Tu,Fr 09:00-12:30, 14:00-18:30; Th 09:00-12:30,
+    14:00-20:00
+website: https://www.naturwarenladen-mittelbrink.de/

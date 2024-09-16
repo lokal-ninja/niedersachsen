@@ -1,11 +1,11 @@
 id: 322863457
-type: way
+type: node
 latitude: 53.03831
 longitude: 8.1089
 postcode: "26203"
 city: Wardenburg
-street: "Böseler Straße"
-housenumber: 416
-phone: "+49 44079149910"
+street: Böseler Straße
+housenumber: "416"
+phone: +49 44079149910
 opening_hours: ""
-website: "www.rwg-wardenburg.de"
+website: www.rwg-wardenburg.de

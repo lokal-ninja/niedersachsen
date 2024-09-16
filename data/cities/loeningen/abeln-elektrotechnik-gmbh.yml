@@ -1,11 +1,11 @@
 id: 40106237
-type: way
+type: node
 latitude: 52.73353
 longitude: 7.76455
 postcode: "49624"
 city: Löningen
-street: "Marienstraße"
-housenumber: 4
-phone: "+49 54 32 24 24"
+street: Marienstraße
+housenumber: "4"
+phone: +49 54 32 24 24
 opening_hours: ""
 website: ""

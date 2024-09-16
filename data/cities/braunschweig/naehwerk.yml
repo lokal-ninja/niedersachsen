@@ -4,8 +4,8 @@ latitude: 52.26132
 longitude: 10.5271
 postcode: "38100"
 city: Braunschweig
-street: "Kuhstraße"
-housenumber: 1
-phone: "+49 178 5268607"
-opening_hours: "Tu,We,Fr 12:00-18:00; Sa 12:00-16:00; PH off"
-website: "https://naehwerk-bs.de/"
+street: Kuhstraße
+housenumber: "1"
+phone: +49 178 5268607
+opening_hours: Tu,We,Fr 12:00-18:00; Sa 12:00-16:00; PH off
+website: https://naehwerk-bs.de/

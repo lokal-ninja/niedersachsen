@@ -4,8 +4,8 @@ latitude: 52.51848
 longitude: 10.01616
 postcode: "31303"
 city: Burgdorf
-street: "Ramlinger Straße"
-housenumber: 37
-phone: "05141 3028870"
-opening_hours: "Mo-Fr 06:00-13:00; Sa 07:00-12:00; So 07:00-11:00"
-website: "https://www.muca-backmanufaktur.de"
+street: Ramlinger Straße
+housenumber: "37"
+phone: 05141 3028870
+opening_hours: Mo-Fr 06:00-13:00; Sa 07:00-12:00; So 07:00-11:00
+website: https://www.muca-backmanufaktur.de

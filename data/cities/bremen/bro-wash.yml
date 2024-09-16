@@ -4,8 +4,8 @@ latitude: 53.09103
 longitude: 8.8057
 postcode: "28215"
 city: Bremen
-street: "Admiralstraße"
-housenumber: 99
-phone: "+49 162 4700002"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://bro-wash.business.site/"
+street: Admiralstraße
+housenumber: "99"
+phone: +49 162 4700002
+opening_hours: Mo-Su 07:00-22:00
+website: https://bro-wash.business.site/

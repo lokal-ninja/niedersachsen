@@ -1,11 +1,11 @@
 id: 26818581
-type: way
+type: node
 latitude: 52.46478
 longitude: 10.1891
 postcode: "31311"
 city: Uetze
-street: "Schapers Kamp"
-housenumber: 3
+street: Schapers Kamp
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/"
+website: https://www.lidl.de/

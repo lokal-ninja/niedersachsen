@@ -1,11 +1,11 @@
 id: 192679080
-type: way
+type: node
 latitude: 52.84672
 longitude: 8.08593
 postcode: "49661"
 city: Cloppenburg
-street: "Boschstraße"
-housenumber: 56
-phone: "+49 4471 958 310"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 10:00-13:00; Su,PH off"
-website: "https://www.die-patrone.de/"
+street: Boschstraße
+housenumber: "56"
+phone: +49 4471 958 310
+opening_hours: Mo-Fr 08:30-18:00; Sa 10:00-13:00; Su,PH off
+website: https://www.die-patrone.de/

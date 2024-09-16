@@ -4,8 +4,9 @@ latitude: 52.32472
 longitude: 9.20451
 postcode: "31655"
 city: Stadthagen
-street: "Querstraße"
-housenumber: 13
+street: Querstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo,We,Fr 08:30-13:00, Mo 15:00-16:30, Tu 08:30-16:30, Th 08:30-16:30, Fr 08:30-13:00"
+opening_hours: Mo,We,Fr 08:30-13:00, Mo 15:00-16:30, Tu 08:30-16:30, Th 08:30-16:30,
+    Fr 08:30-13:00
 website: ""

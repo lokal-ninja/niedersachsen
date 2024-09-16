@@ -1,11 +1,11 @@
 id: 133753698
-type: way
+type: node
 latitude: 52.64355
 longitude: 9.22494
 postcode: "31582"
 city: Nienburg/Weser
-street: "Sorenkamp"
-housenumber: 55
+street: Sorenkamp
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

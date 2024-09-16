@@ -1,11 +1,11 @@
 id: 137716850
-type: way
+type: node
 latitude: 53.17341
 longitude: 8.6397
 postcode: ""
 city: Bremen
-street: "Vegesacker Heerstraße"
-housenumber: 157
+street: Vegesacker Heerstraße
+housenumber: "157"
 phone: ""
 opening_hours: ""
-website: "http://www.engelhardt-automobile.de/"
+website: http://www.engelhardt-automobile.de/

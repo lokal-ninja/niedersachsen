@@ -1,11 +1,11 @@
 id: 127582260
-type: way
+type: node
 latitude: 53.864
 longitude: 8.63429
 postcode: "27476"
 city: Cuxhaven
-street: "Spanger Straße"
-housenumber: 4
-phone: "+49 4721 510600"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:30-13:00"
-website: "https://www.edeka.de/"
+street: Spanger Straße
+housenumber: "4"
+phone: +49 4721 510600
+opening_hours: Mo-Sa 07:00-20:00; Su 07:30-13:00
+website: https://www.edeka.de/

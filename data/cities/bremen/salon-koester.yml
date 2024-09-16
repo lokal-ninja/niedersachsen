@@ -1,11 +1,11 @@
 id: 179407981
-type: way
+type: node
 latitude: 53.19369
 longitude: 8.54382
 postcode: "28777"
 city: Bremen
-street: "Bahnstraße"
-housenumber: 14
+street: Bahnstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Sa 08:00-12:00"
+opening_hours: Tu-Sa 08:00-12:00
 website: ""

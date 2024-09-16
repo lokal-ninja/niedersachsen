@@ -1,11 +1,11 @@
 id: 274194559
-type: way
+type: node
 latitude: 53.34416
 longitude: 10.58544
 postcode: "21522"
 city: Hittbergen
-street: "Schulweg"
-housenumber: 1
-phone: "+49 4139 695066"
+street: Schulweg
+housenumber: "1"
+phone: +49 4139 695066
 opening_hours: ""
-website: "https://www.sedea.de/"
+website: https://www.sedea.de/

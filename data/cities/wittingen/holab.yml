@@ -1,11 +1,11 @@
 id: 103422674
-type: way
+type: node
 latitude: 52.72995
 longitude: 10.72022
 postcode: "29378"
 city: Wittingen
-street: "Celler Straße"
-housenumber: 29
+street: Celler Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

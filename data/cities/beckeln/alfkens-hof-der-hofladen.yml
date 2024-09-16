@@ -5,7 +5,7 @@ longitude: 8.58685
 postcode: "27243"
 city: Beckeln
 street: ""
-housenumber: 4
-phone: "+49 4244 7592"
-opening_hours: "Apr-Aug: 08:00-18:00"
-website: "https://www.alfkens-hof.de/hofladen.php"
+housenumber: "4"
+phone: +49 4244 7592
+opening_hours: 'Apr-Aug: 08:00-18:00'
+website: https://www.alfkens-hof.de/hofladen.php

@@ -1,11 +1,11 @@
 id: 324067201
-type: way
+type: node
 latitude: 53.18544
 longitude: 8.23057
 postcode: "26125"
 city: Oldenburg
-street: "Wilhelmshavener Heerstraße"
-housenumber: 244
+street: Wilhelmshavener Heerstraße
+housenumber: "244"
 phone: ""
 opening_hours: ""
 website: ""

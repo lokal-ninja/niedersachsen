@@ -1,11 +1,11 @@
 id: 945813399
-type: way
+type: node
 latitude: 52.74677
 longitude: 8.28405
 postcode: "49377"
 city: Vechta
-street: "Oldenburger Straße"
-housenumber: 128
-phone: "+49 4441 90969 0"
+street: Oldenburger Straße
+housenumber: "128"
+phone: +49 4441 90969 0
 opening_hours: ""
-website: "https://www.menke-gruppe.de/"
+website: https://www.menke-gruppe.de/

@@ -4,8 +4,8 @@ latitude: 52.37036
 longitude: 9.75672
 postcode: "30171"
 city: Hannover
-street: "Marienstraße"
-housenumber: 93
-phone: "+49 511 817793"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.stichweh.com/niederlassung/marienstr/"
+street: Marienstraße
+housenumber: "93"
+phone: +49 511 817793
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.stichweh.com/niederlassung/marienstr/

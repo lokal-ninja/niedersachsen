@@ -4,8 +4,8 @@ latitude: 52.15298
 longitude: 9.94968
 postcode: "31134"
 city: Hildesheim
-street: "Kurzer Hagen"
-housenumber: 1
+street: Kurzer Hagen
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-16:00; Sa 10:00-15:00
 website: ""

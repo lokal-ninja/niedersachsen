@@ -1,11 +1,11 @@
 id: 192137860
-type: way
+type: node
 latitude: 52.99075
 longitude: 7.62888
 postcode: "26897"
 city: Esterwegen
-street: "Poststraße"
-housenumber: 15
+street: Poststraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de

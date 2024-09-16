@@ -1,11 +1,11 @@
 id: 88364949
-type: way
+type: node
 latitude: 52.50499
 longitude: 7.32266
 postcode: "49809"
 city: Lingen (Ems)
-street: "Rheiner Straße"
-housenumber: 118
+street: Rheiner Straße
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

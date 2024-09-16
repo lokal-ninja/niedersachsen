@@ -1,11 +1,11 @@
 id: 262213995
-type: way
+type: node
 latitude: 53.18999
 longitude: 8.20178
 postcode: "26125"
 city: Oldenburg
-street: "Ofenerdieker Straße"
-housenumber: 61
+street: Ofenerdieker Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 139447302
-type: way
+type: node
 latitude: 52.84194
 longitude: 8.03693
 postcode: "49661"
 city: Cloppenburg
-street: "Löninger Straße"
-housenumber: 8
-phone: "+49 4471 2329"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su, PH off"
-website: "https://www.moritz-willenborg.de/"
+street: Löninger Straße
+housenumber: "8"
+phone: +49 4471 2329
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su, PH off
+website: https://www.moritz-willenborg.de/

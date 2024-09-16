@@ -1,11 +1,11 @@
 id: 42943713
-type: way
+type: node
 latitude: 52.31704
 longitude: 8.99534
 postcode: "31675"
 city: Bückeburg
-street: "Friller Straße"
-housenumber: 43
-phone: "+49 571 974100"
-opening_hours: "Sa 09:00-16:00; Mo-Fr 09:00-18:30"
-website: "https://www.schuhhaus-niemann.de/"
+street: Friller Straße
+housenumber: "43"
+phone: +49 571 974100
+opening_hours: Sa 09:00-16:00; Mo-Fr 09:00-18:30
+website: https://www.schuhhaus-niemann.de/

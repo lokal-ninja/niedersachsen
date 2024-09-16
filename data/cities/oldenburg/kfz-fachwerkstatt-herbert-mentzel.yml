@@ -1,11 +1,11 @@
 id: 31029811
-type: way
+type: node
 latitude: 53.13788
 longitude: 8.22989
 postcode: "26135"
 city: Oldenburg
-street: "Emsstraße"
-housenumber: 11
-phone: "+49 441 24286"
-opening_hours: "Mo-Fr 07:45-17:00"
-website: "https://www.karosseriefachwerkstatt-mentzel.de"
+street: Emsstraße
+housenumber: "11"
+phone: +49 441 24286
+opening_hours: Mo-Fr 07:45-17:00
+website: https://www.karosseriefachwerkstatt-mentzel.de

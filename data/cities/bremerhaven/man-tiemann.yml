@@ -1,11 +1,11 @@
 id: 201813902
-type: way
+type: node
 latitude: 53.49773
 longitude: 8.6245
 postcode: ""
 city: Bremerhaven
-street: "Frederikshavner Straße"
-housenumber: 99
-phone: "+49 471 984000"
+street: Frederikshavner Straße
+housenumber: "99"
+phone: +49 471 984000
 opening_hours: ""
-website: "https://www.tiemann.eu/"
+website: https://www.tiemann.eu/

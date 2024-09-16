@@ -1,11 +1,11 @@
 id: 179444179
-type: way
+type: node
 latitude: 53.176
 longitude: 8.60761
 postcode: "28755"
 city: Bremen
-street: "Lindenstraße"
-housenumber: 32
-phone: "+49 421 663388"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 10:30-13:00"
-website: "https://www.bertram-bremen.de"
+street: Lindenstraße
+housenumber: "32"
+phone: +49 421 663388
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:00; Sa 10:30-13:00
+website: https://www.bertram-bremen.de

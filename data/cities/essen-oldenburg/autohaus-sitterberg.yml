@@ -1,11 +1,11 @@
 id: 138408536
-type: way
+type: node
 latitude: 52.71771
 longitude: 7.96041
 postcode: "49632"
 city: Essen (Oldenburg)
-street: "Robert-Bosch-Straße"
-housenumber: 1
+street: Robert-Bosch-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-12:00
 website: ""

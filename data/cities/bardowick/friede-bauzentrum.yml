@@ -1,11 +1,11 @@
 id: 98000097
-type: way
+type: node
 latitude: 53.28599
 longitude: 10.3932
 postcode: "21357"
 city: Bardowick
-street: "Am Landwehrkreisel"
-housenumber: 1
-phone: "+49 4131 266610"
+street: Am Landwehrkreisel
+housenumber: "1"
+phone: +49 4131 266610
 opening_hours: ""
 website: ""

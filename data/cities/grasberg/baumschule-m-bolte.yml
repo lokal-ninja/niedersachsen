@@ -1,11 +1,11 @@
 id: 547871993
-type: way
+type: node
 latitude: 53.12984
 longitude: 9.01937
 postcode: "28879"
 city: Grasberg
-street: "Rautendorfer Landstraße"
-housenumber: 44
+street: Rautendorfer Landstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

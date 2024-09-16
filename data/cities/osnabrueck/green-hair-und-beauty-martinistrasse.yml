@@ -4,8 +4,8 @@ latitude: 52.2714
 longitude: 8.03525
 postcode: "49080"
 city: Osnabrück
-street: "Martinistraße"
-housenumber: 37
+street: Martinistraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-We 09:00-18:00; Th-Fr 09:00-20:00; Sa 09:00-15:00"
-website: "https://www.greenhairandbeauty.de/"
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-20:00; Sa 09:00-15:00
+website: https://www.greenhairandbeauty.de/

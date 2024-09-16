@@ -1,11 +1,11 @@
 id: 795180858
-type: way
+type: node
 latitude: 53.37454
 longitude: 9.90472
 postcode: "21224"
 city: Rosengarten
-street: "Am Oheberg"
-housenumber: 2
+street: Am Oheberg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

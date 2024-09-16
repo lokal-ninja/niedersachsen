@@ -1,11 +1,11 @@
 id: 88382581
-type: way
+type: node
 latitude: 53.16017
 longitude: 8.17568
 postcode: "26129"
 city: Oldenburg
-street: "Posthalterweg"
-housenumber: 10
-phone: "+49 800 7234870"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/oldenburg/posthalterweg-10/3182552"
+street: Posthalterweg
+housenumber: "10"
+phone: +49 800 7234870
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/oldenburg/posthalterweg-10/3182552

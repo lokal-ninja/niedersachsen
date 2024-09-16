@@ -4,8 +4,8 @@ latitude: 52.26229
 longitude: 10.51446
 postcode: "38100"
 city: Braunschweig
-street: "Güldenstraße"
-housenumber: 63
-phone: "+49 531 121 96 45"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:30; Su nach Absprache oder Schulung"
-website: "https://maher-aslan.de/"
+street: Güldenstraße
+housenumber: "63"
+phone: +49 531 121 96 45
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:30; Su "nach Absprache oder Schulung"
+website: https://maher-aslan.de/

@@ -1,11 +1,11 @@
 id: 650068585
-type: way
+type: node
 latitude: 51.72646
 longitude: 10.25412
 postcode: "37520"
 city: Osterode am Harz
-street: "Auenstraße"
-housenumber: 14
+street: Auenstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
 website: ""

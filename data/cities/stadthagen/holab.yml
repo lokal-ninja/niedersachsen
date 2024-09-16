@@ -1,11 +1,11 @@
 id: 150927922
-type: way
+type: node
 latitude: 52.31202
 longitude: 9.19112
 postcode: "31655"
 city: Stadthagen
-street: "Jahnstraße"
-housenumber: 24
-phone: "+49 5721 995317"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+street: Jahnstraße
+housenumber: "24"
+phone: +49 5721 995317
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

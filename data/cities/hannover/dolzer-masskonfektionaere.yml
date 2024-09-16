@@ -1,11 +1,12 @@
 id: 89269138
-type: way
+type: node
 latitude: 52.39771
 longitude: 9.76893
 postcode: "30177"
 city: Hannover
-street: "Günther-Wagner-Allee"
-housenumber: 7
-phone: "+49 511 262 449 2"
-opening_hours: "Tu-Fr 10:00-19:00; Th 12:00-21:00; Sa 10:00-18:00; week 02-52/2 We 07:00-19:00"
-website: "https://www.dolzer.com/filiale/Hannover/"
+street: Günther-Wagner-Allee
+housenumber: "7"
+phone: +49 511 262 449 2
+opening_hours: Tu-Fr 10:00-19:00; Th 12:00-21:00; Sa 10:00-18:00; week 02-52/2 We
+    07:00-19:00
+website: https://www.dolzer.com/filiale/Hannover/

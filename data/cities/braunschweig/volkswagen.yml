@@ -1,11 +1,11 @@
 id: 107067113
-type: way
+type: node
 latitude: 52.23554
 longitude: 10.52712
 postcode: "38124"
 city: Braunschweig
-street: "Wolfenbütteler Straße"
-housenumber: 51
+street: Wolfenbütteler Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

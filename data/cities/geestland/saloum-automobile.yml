@@ -1,11 +1,11 @@
 id: 134278693
-type: way
+type: node
 latitude: 53.61729
 longitude: 8.62876
 postcode: "27607"
 city: Geestland
-street: "Langener Straße"
-housenumber: 57
+street: Langener Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

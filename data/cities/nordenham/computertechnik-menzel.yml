@@ -1,11 +1,11 @@
 id: 221837113
-type: way
+type: node
 latitude: 53.48962
 longitude: 8.4668
 postcode: ""
 city: Nordenham
-street: "Oldenburger Straße"
-housenumber: 23
+street: Oldenburger Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:45; PH closed"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:45; PH closed
 website: ""

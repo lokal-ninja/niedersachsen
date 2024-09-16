@@ -1,11 +1,11 @@
 id: 203926154
-type: way
+type: node
 latitude: 52.30701
 longitude: 9.7218
 postcode: "30966"
 city: Hemmingen
-street: "Hoher Holzweg"
-housenumber: 43
+street: Hoher Holzweg
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.elysia-massagen.de"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.elysia-massagen.de

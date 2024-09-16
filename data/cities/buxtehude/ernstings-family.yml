@@ -4,8 +4,8 @@ latitude: 53.47448
 longitude: 9.69619
 postcode: "21614"
 city: Buxtehude
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; PH off; Dec 24,31 09:00-13:00"
-website: "https://www.ernstings-family.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; PH off; Dec 24,31 09:00-13:00
+website: https://www.ernstings-family.de/

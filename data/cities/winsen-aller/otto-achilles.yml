@@ -1,11 +1,11 @@
 id: 348399816
-type: way
+type: node
 latitude: 52.67356
 longitude: 9.90513
 postcode: "29308"
 city: Winsen (Aller)
-street: "Bahnhofstraße"
-housenumber: 30
-phone: "+49 5143 6377"
+street: Bahnhofstraße
+housenumber: "30"
+phone: +49 5143 6377
 opening_hours: ""
 website: ""

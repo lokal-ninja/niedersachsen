@@ -1,11 +1,11 @@
 id: 135162075
-type: way
+type: node
 latitude: 52.39597
 longitude: 9.75544
 postcode: "30163"
 city: Hannover
-street: "Lister Kirchweg"
-housenumber: 71
+street: Lister Kirchweg
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 110025028
-type: way
+type: node
 latitude: 52.73092
 longitude: 8.26783
 postcode: "49377"
 city: Vechta
-street: "Falkenrotter Straße"
-housenumber: 151
+street: Falkenrotter Straße
+housenumber: "151"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
 website: ""

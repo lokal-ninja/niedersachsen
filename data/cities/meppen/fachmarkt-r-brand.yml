@@ -1,11 +1,11 @@
 id: 245265028
-type: way
+type: node
 latitude: 52.66308
 longitude: 7.29747
 postcode: "49716"
 city: Meppen
-street: "Lilienthalstraße"
-housenumber: 17
+street: Lilienthalstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.fachmarkt-brand.de/"
+website: https://www.fachmarkt-brand.de/

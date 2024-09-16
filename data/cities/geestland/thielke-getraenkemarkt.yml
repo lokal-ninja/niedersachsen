@@ -1,11 +1,11 @@
 id: 132380859
-type: way
+type: node
 latitude: 53.59986
 longitude: 8.59567
 postcode: "27607"
 city: Geestland
-street: "Leher Landstraße"
-housenumber: 52
+street: Leher Landstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:30"
+opening_hours: Mo-Fr 15:00-18:30
 website: ""

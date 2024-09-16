@@ -1,11 +1,11 @@
 id: 91018449
-type: way
+type: node
 latitude: 52.89878
 longitude: 10.16841
 postcode: "29328"
 city: Faßberg
-street: "Große Horststraße"
-housenumber: 52
+street: Große Horststraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

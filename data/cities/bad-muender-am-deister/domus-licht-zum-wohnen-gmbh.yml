@@ -1,11 +1,11 @@
 id: 520531548
-type: way
+type: node
 latitude: 52.19566
 longitude: 9.45618
 postcode: "31848"
 city: Bad Münder am Deister
-street: "Unter der Bleiche"
-housenumber: 36
+street: Unter der Bleiche
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://www.domus-licht.de/"
+website: https://www.domus-licht.de/

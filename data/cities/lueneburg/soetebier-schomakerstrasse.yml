@@ -4,8 +4,8 @@ latitude: 53.25581
 longitude: 10.38777
 postcode: "21339"
 city: Lüneburg
-street: "Schomakerstraße"
-housenumber: 70
+street: Schomakerstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa,Su 07:00-18:00"
-website: "https://soetebackt.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa,Su 07:00-18:00
+website: https://soetebackt.de/

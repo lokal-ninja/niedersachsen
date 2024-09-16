@@ -4,8 +4,8 @@ latitude: 52.35142
 longitude: 9.72231
 postcode: "30459"
 city: Hannover
-street: "Friedrich-Ebert-Platz"
-housenumber: 1
+street: Friedrich-Ebert-Platz
+housenumber: "1"
 phone: "+4951123495820"
-opening_hours: "Mo-Fr 09:02-15:02; Sa 10:01-13:03"
-website: "https://druck.ninja/"
+opening_hours: Mo-Fr 09:02-15:02; Sa 10:01-13:03
+website: https://druck.ninja/

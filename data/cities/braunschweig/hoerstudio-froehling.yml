@@ -4,8 +4,8 @@ latitude: 52.26554
 longitude: 10.52189
 postcode: "38100"
 city: Braunschweig
-street: "Schild"
-housenumber: 10
-phone: "+49 531 14089"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://hoerstudio-froehling.de/"
+street: Schild
+housenumber: "10"
+phone: +49 531 14089
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://hoerstudio-froehling.de/

@@ -1,11 +1,11 @@
 id: 829696067
-type: way
+type: node
 latitude: 51.75735
 longitude: 9.38731
 postcode: "37691"
 city: Boffzen
-street: "Höxtersche Straße"
-housenumber: 3
+street: Höxtersche Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:30-14:30"
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:30-14:30
 website: ""

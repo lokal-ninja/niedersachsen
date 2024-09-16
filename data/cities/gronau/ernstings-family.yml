@@ -4,8 +4,9 @@ latitude: 52.08751
 longitude: 9.78541
 postcode: "31028"
 city: Gronau
-street: "Bethelner Landstraße"
-housenumber: 15
+street: Bethelner Landstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo 08:30-19:00, Tu 08:30-19:00, We 08:30-19:00,Th 08:30-18:00, Fr 08:30-19:00, Sa 09:30-18:00"
-website: "https://filialen.ernstings-family.de/327/bethelner-landstra%C3%9Fe-15-31028-gronau"
+opening_hours: Mo 08:30-19:00, Tu 08:30-19:00, We 08:30-19:00,Th 08:30-18:00, Fr 08:30-19:00,
+    Sa 09:30-18:00
+website: https://filialen.ernstings-family.de/327/bethelner-landstra%C3%9Fe-15-31028-gronau

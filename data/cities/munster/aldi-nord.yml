@@ -1,11 +1,11 @@
 id: 34779362
-type: way
+type: node
 latitude: 52.98605
 longitude: 10.08747
 postcode: "29633"
 city: Munster
-street: "Winkelmannshof"
-housenumber: 1
+street: Winkelmannshof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

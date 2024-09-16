@@ -1,11 +1,11 @@
 id: 168657694
-type: way
+type: node
 latitude: 53.03538
 longitude: 8.66556
 postcode: "27751"
 city: Delmenhorst
-street: "Annenheider Allee"
-housenumber: 97
+street: Annenheider Allee
+housenumber: "97"
 phone: ""
-opening_hours: "Mo 13:00-18:00; Tu-Fr 10:00-18:00; Sa 10:00-15:00; PH off"
+opening_hours: Mo 13:00-18:00; Tu-Fr 10:00-18:00; Sa 10:00-15:00; PH off
 website: ""

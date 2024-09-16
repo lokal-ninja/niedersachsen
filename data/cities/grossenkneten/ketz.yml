@@ -4,8 +4,9 @@ latitude: 52.99029
 longitude: 8.27289
 postcode: "26197"
 city: Großenkneten
-street: "Bahnhofstraße"
-housenumber: 27
+street: Bahnhofstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Tu,We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 07:00-13:00; PH,Mo,Su off"
+opening_hours: Tu,We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 07:00-13:00;
+    PH,Mo,Su off
 website: ""

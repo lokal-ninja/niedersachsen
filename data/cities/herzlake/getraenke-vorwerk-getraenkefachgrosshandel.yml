@@ -1,11 +1,11 @@
 id: 969635783
-type: way
+type: node
 latitude: 52.68682
 longitude: 7.60857
 postcode: "49770"
 city: Herzlake
-street: "Osterstraße"
-housenumber: 5
+street: Osterstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

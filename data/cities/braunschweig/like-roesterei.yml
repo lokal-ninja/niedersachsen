@@ -1,11 +1,11 @@
 id: 109022282
-type: way
+type: node
 latitude: 52.28901
 longitude: 10.57499
 postcode: "38104"
 city: Braunschweig
-street: "Koppestraße"
+street: Koppestraße
 housenumber: 3a
-phone: "+49 531 3700729"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00"
-website: "https://www.likeroesterei.de"
+phone: +49 531 3700729
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00
+website: https://www.likeroesterei.de

@@ -1,11 +1,11 @@
 id: 121024238
-type: way
+type: node
 latitude: 52.60566
 longitude: 8.37091
 postcode: "49356"
 city: Diepholz
-street: "Lange Straße"
-housenumber: 27
+street: Lange Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

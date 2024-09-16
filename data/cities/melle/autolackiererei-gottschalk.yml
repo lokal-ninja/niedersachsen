@@ -1,11 +1,11 @@
 id: 303542951
-type: way
+type: node
 latitude: 52.22983
 longitude: 8.31097
 postcode: "49324"
 city: Melle
-street: "Betonstraße"
-housenumber: 11
+street: Betonstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

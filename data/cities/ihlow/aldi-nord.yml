@@ -1,11 +1,11 @@
 id: 400184383
-type: way
+type: node
 latitude: 53.40703
 longitude: 7.44051
 postcode: "26632"
 city: Ihlow
-street: "2. Kompanieweg"
-housenumber: 4
+street: 2. Kompanieweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

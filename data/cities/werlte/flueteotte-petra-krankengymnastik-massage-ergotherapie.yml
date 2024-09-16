@@ -1,11 +1,11 @@
 id: 445539492
-type: way
+type: node
 latitude: 52.85147
 longitude: 7.67807
 postcode: "49757"
 city: Werlte
-street: "Gartenstraße"
-housenumber: 5
-phone: "+49 5951 5211"
+street: Gartenstraße
+housenumber: "5"
+phone: +49 5951 5211
 opening_hours: ""
 website: ""

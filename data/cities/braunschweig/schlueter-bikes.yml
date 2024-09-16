@@ -4,8 +4,8 @@ latitude: 52.26969
 longitude: 10.50969
 postcode: "38114"
 city: Braunschweig
-street: "Celler Straße"
-housenumber: 116
-phone: "+49 531 503712"
-opening_hours: "zur Zeit nur nach Terminvereinbarung"
-website: "https://www.schlueter-bikes.de/"
+street: Celler Straße
+housenumber: "116"
+phone: +49 531 503712
+opening_hours: '"zur Zeit nur nach Terminvereinbarung"'
+website: https://www.schlueter-bikes.de/

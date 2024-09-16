@@ -1,11 +1,11 @@
 id: 58425256
-type: way
+type: node
 latitude: 52.2818
 longitude: 10.53813
 postcode: "38106"
 city: Braunschweig
-street: "Bültenweg"
-housenumber: 49
+street: Bültenweg
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://braunschweig.quick.de/"
+website: https://braunschweig.quick.de/

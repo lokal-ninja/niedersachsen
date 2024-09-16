@@ -1,11 +1,11 @@
 id: 126812278
-type: way
+type: node
 latitude: 52.1297
 longitude: 10.64164
 postcode: "38329"
 city: Wittmar
-street: "Forstweg"
-housenumber: 14
-phone: "+49 5337 538"
+street: Forstweg
+housenumber: "14"
+phone: +49 5337 538
 opening_hours: ""
-website: "https://www.kirche-asse.de"
+website: https://www.kirche-asse.de

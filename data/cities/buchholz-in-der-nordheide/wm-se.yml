@@ -1,11 +1,11 @@
 id: 483712840
-type: way
+type: node
 latitude: 53.32595
 longitude: 9.81501
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Hanomagstraße"
-housenumber: 31
+street: Hanomagstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.wm.de/"
+website: https://www.wm.de/

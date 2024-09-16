@@ -1,11 +1,11 @@
 id: 232275960
-type: way
+type: node
 latitude: 53.64642
 longitude: 7.60928
 postcode: "26427"
 city: Esens
-street: "Herdestraße"
-housenumber: 20
+street: Herdestraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-11:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-11:00
 website: ""

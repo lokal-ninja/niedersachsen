@@ -4,8 +4,8 @@ latitude: 52.2746
 longitude: 10.53408
 postcode: "38106"
 city: Braunschweig
-street: "Bültenweg"
-housenumber: 80
-phone: "+49 175 620 88 18"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "http://firstwash.de/"
+street: Bültenweg
+housenumber: "80"
+phone: +49 175 620 88 18
+opening_hours: Mo-Su 06:00-23:00
+website: http://firstwash.de/

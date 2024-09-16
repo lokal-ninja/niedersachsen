@@ -4,8 +4,8 @@ latitude: 53.22259
 longitude: 8.92632
 postcode: "27726"
 city: Worpswede
-street: "Hembergstraße"
-housenumber: 5
-phone: "+49 4792 9877990"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://www.worpsweder-schloesschen.de/"
+street: Hembergstraße
+housenumber: "5"
+phone: +49 4792 9877990
+opening_hours: Mo-Su 11:00-18:00
+website: https://www.worpsweder-schloesschen.de/

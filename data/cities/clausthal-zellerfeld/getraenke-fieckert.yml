@@ -1,11 +1,11 @@
 id: 147429433
-type: way
+type: node
 latitude: 51.82118
 longitude: 10.34115
 postcode: ""
 city: Clausthal-Zellerfeld
-street: "Goslarsche Straße"
-housenumber: 65
+street: Goslarsche Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 318812218
-type: way
+type: node
 latitude: 53.11462
 longitude: 8.45448
 postcode: "27798"
 city: Hude
-street: "Parkstraße"
-housenumber: 63
+street: Parkstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,13:30-18:00; Sa 09:00-12:30"
+opening_hours: Mo-Fr 08:00-12:30,13:30-18:00; Sa 09:00-12:30
 website: ""

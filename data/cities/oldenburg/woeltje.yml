@@ -4,8 +4,8 @@ latitude: 53.13936
 longitude: 8.21504
 postcode: "26122"
 city: Oldenburg
-street: "Achternstraße"
-housenumber: 34
+street: Achternstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.woeltje.de/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.woeltje.de/

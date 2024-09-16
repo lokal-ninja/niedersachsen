@@ -1,11 +1,11 @@
 id: 27712613
-type: way
+type: node
 latitude: 52.63337
 longitude: 9.9604
 postcode: "29313"
 city: Hambühren
-street: "Sudermannstraße"
-housenumber: 1
+street: Sudermannstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

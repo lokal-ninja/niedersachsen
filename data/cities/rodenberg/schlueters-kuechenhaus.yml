@@ -1,11 +1,11 @@
 id: 448277572
-type: way
+type: node
 latitude: 52.31155
 longitude: 9.3668
 postcode: "31552"
 city: Rodenberg
-street: "Hans-Sachs-Straße"
-housenumber: 11
+street: Hans-Sachs-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.kuechenhaus-schlueter.de"
+website: https://www.kuechenhaus-schlueter.de

@@ -1,11 +1,11 @@
 id: 889018863
-type: way
+type: node
 latitude: 52.51208
 longitude: 9.06073
 postcode: "31592"
 city: Stolzenau
-street: "Bürgermeister-Heuvemann-Straße"
-housenumber: 2
-phone: "+49 5761 9080096"
-opening_hours: "Mo-Fr 09:00-19:00,Sa 09:00-16:00"
-website: "https://posten-boerse.de/index.php/standorte/2-uncategorised/443-stolzenau"
+street: Bürgermeister-Heuvemann-Straße
+housenumber: "2"
+phone: +49 5761 9080096
+opening_hours: Mo-Fr 09:00-19:00,Sa 09:00-16:00
+website: https://posten-boerse.de/index.php/standorte/2-uncategorised/443-stolzenau

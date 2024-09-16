@@ -4,8 +4,8 @@ latitude: 53.48554
 longitude: 8.48436
 postcode: "26954"
 city: Nordenham
-street: "Friedrich-Ebert-Straße"
-housenumber: 13
+street: Friedrich-Ebert-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:30-12:30"
-website: "https://www.ewe.de"
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:30-12:30
+website: https://www.ewe.de

@@ -1,11 +1,11 @@
 id: 66985031
-type: way
+type: node
 latitude: 53.58036
 longitude: 9.4979
 postcode: "21684"
 city: Stade
-street: "Carl-Benz-Straße"
-housenumber: 3
+street: Carl-Benz-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-16:00; Su,PH off"
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-16:00; Su,PH off
 website: ""

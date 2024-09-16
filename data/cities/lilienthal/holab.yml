@@ -1,11 +1,11 @@
 id: 1079733134
-type: way
+type: node
 latitude: 53.15389
 longitude: 8.93429
 postcode: "28865"
 city: Lilienthal
-street: "Falkenberger Landstraße"
+street: Falkenberger Landstraße
 housenumber: 89i
-phone: "+49 4298 419951"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.holab.de/"
+phone: +49 4298 419951
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.holab.de/

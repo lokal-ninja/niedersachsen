@@ -1,11 +1,11 @@
 id: 395469888
-type: way
+type: node
 latitude: 53.43158
 longitude: 7.55837
 postcode: "26629"
 city: Großefehn
-street: "Am Bahnhof"
-housenumber: 3
+street: Am Bahnhof
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

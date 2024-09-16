@@ -1,11 +1,11 @@
 id: 188756435
-type: way
+type: node
 latitude: 53.48227
 longitude: 9.32182
 postcode: "27449"
 city: Kutenholz
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

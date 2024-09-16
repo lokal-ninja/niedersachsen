@@ -1,11 +1,11 @@
 id: 203334864
-type: way
+type: node
 latitude: 52.08233
 longitude: 8.00356
 postcode: "49219"
 city: Glandorf
-street: "Laersche Straße"
-housenumber: 4
+street: Laersche Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

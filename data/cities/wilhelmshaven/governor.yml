@@ -1,11 +1,11 @@
 id: 207842502
-type: way
+type: node
 latitude: 53.52457
 longitude: 8.06773
 postcode: "26389"
 city: Wilhelmshaven
-street: "Groß Belt"
-housenumber: 16
+street: Groß Belt
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

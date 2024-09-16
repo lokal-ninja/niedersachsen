@@ -4,8 +4,8 @@ latitude: 52.4203
 longitude: 10.63247
 postcode: "38547"
 city: Calberlah
-street: "Hauptstraße"
-housenumber: 41
+street: Hauptstraße
+housenumber: "41"
 phone: "+4953749311022"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.baeckerei-meyer.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.baeckerei-meyer.de/

@@ -1,11 +1,11 @@
 id: 90990006
-type: way
+type: node
 latitude: 53.23449
 longitude: 7.47641
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Papenburger Straße"
+street: Papenburger Straße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su off; PH off"
-website: "https://www.action.de/"
+opening_hours: Mo-Sa 09:00-20:00; Su off; PH off
+website: https://www.action.de/

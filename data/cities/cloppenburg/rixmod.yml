@@ -4,8 +4,8 @@ latitude: 52.84494
 longitude: 8.03825
 postcode: "49661"
 city: Cloppenburg
-street: "Färbereigang"
-housenumber: 5
-phone: "+49 4471 7010380"
-opening_hours: "Mo-Fr 11:00-17:00; Sa 10:00-15:00; PH,Su off"
-website: "https://www.rixmod.de/"
+street: Färbereigang
+housenumber: "5"
+phone: +49 4471 7010380
+opening_hours: Mo-Fr 11:00-17:00; Sa 10:00-15:00; PH,Su off
+website: https://www.rixmod.de/

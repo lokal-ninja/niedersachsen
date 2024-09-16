@@ -1,11 +1,11 @@
 id: 356993546
-type: way
+type: node
 latitude: 52.77988
 longitude: 9.13543
 postcode: "27333"
 city: Bücken
-street: "Nienburger Straße"
-housenumber: 1
+street: Nienburger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

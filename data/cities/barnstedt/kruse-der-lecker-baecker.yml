@@ -4,8 +4,8 @@ latitude: 53.13568
 longitude: 10.37259
 postcode: "21406"
 city: Barnstedt
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: "+49413491510"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.der-lecker-baecker.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.der-lecker-baecker.de/

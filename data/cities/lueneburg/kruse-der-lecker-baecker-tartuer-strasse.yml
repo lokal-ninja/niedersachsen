@@ -4,8 +4,8 @@ latitude: 53.25369
 longitude: 10.43335
 postcode: "21337"
 city: Lüneburg
-street: "Tartuer Straße"
-housenumber: 17
-phone: "+49 4131 6030717"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su 07:30-16:00"
-website: "https://www.der-lecker-baecker.de"
+street: Tartuer Straße
+housenumber: "17"
+phone: +49 4131 6030717
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su 07:30-16:00
+website: https://www.der-lecker-baecker.de

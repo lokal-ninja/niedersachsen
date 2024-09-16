@@ -1,11 +1,11 @@
 id: 348686551
-type: way
+type: node
 latitude: 53.40507
 longitude: 7.36828
 postcode: "26632"
 city: Ihlow
-street: "Friesenstraße"
-housenumber: 85
-phone: "+49 4928 9195 0"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
-website: "https://www.bu-aurich.de/"
+street: Friesenstraße
+housenumber: "85"
+phone: +49 4928 9195 0
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
+website: https://www.bu-aurich.de/

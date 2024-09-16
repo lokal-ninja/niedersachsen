@@ -1,11 +1,11 @@
 id: 792343541
-type: way
+type: node
 latitude: 52.22496
 longitude: 10.24307
 postcode: "31246"
 city: Ilsede
-street: "Hindenburgstraße"
-housenumber: 3
-phone: "+49 5174 350"
+street: Hindenburgstraße
+housenumber: "3"
+phone: +49 5174 350
 opening_hours: ""
 website: ""

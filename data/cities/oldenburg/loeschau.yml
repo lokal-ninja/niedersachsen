@@ -4,8 +4,8 @@ latitude: 53.15591
 longitude: 8.20755
 postcode: "26121"
 city: Oldenburg
-street: "Melkbrink"
-housenumber: 15
-phone: "+49 441 86678"
-opening_hours: "Mo-Fr 09:00-18:30 Uhr; Sa 09:00-14:00; Su,PH off"
-website: "https://loeschau.com"
+street: Melkbrink
+housenumber: "15"
+phone: +49 441 86678
+opening_hours: Mo-Fr 09:00-18:30 Uhr; Sa 09:00-14:00; Su,PH off
+website: https://loeschau.com

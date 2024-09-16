@@ -1,11 +1,11 @@
 id: 31029666
-type: way
+type: node
 latitude: 53.13721
 longitude: 8.22989
 postcode: "26135"
 city: Oldenburg
-street: "Weserstraße"
-housenumber: 6
-phone: "+49 441 9984120"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off"
-website: "https://www.raiffeisenmarkt.de/raiffeisen-markt-osternburg-oldenburg"
+street: Weserstraße
+housenumber: "6"
+phone: +49 441 9984120
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off
+website: https://www.raiffeisenmarkt.de/raiffeisen-markt-osternburg-oldenburg

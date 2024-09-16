@@ -1,11 +1,11 @@
 id: 416571489
-type: way
+type: node
 latitude: 53.10657
 longitude: 8.27815
 postcode: "26135"
 city: Oldenburg
-street: "Bremer Heerstraße"
-housenumber: 575
-phone: "+49 441 35036702"
+street: Bremer Heerstraße
+housenumber: "575"
+phone: +49 441 35036702
 opening_hours: ""
 website: ""

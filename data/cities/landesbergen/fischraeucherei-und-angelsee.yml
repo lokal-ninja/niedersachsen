@@ -1,11 +1,11 @@
 id: 264747829
-type: way
+type: node
 latitude: 52.53161
 longitude: 9.11435
 postcode: "31628"
 city: Landesbergen
-street: "Am kleinen Maschsee"
-housenumber: 1
-phone: "+49 5025 212"
-opening_hours: "dayly open"
+street: Am kleinen Maschsee
+housenumber: "1"
+phone: +49 5025 212
+opening_hours: '"dayly open"'
 website: ""

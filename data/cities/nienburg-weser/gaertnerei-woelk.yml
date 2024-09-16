@@ -1,11 +1,11 @@
 id: 825099718
-type: way
+type: node
 latitude: 52.61937
 longitude: 9.19658
 postcode: "31582"
 city: Nienburg/Weser
-street: "Zu den Köhlerbergen"
+street: Zu den Köhlerbergen
 housenumber: 1; 3
-phone: "+49 5021 913088"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.gaertnerei-woelk.de/"
+phone: +49 5021 913088
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.gaertnerei-woelk.de/

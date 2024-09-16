@@ -1,11 +1,11 @@
 id: 114388754
-type: way
+type: node
 latitude: 52.2999
 longitude: 10.60101
 postcode: "38108"
 city: Braunschweig
-street: "Alte Schulstraße"
-housenumber: 14
+street: Alte Schulstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

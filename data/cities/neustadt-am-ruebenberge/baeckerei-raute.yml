@@ -4,8 +4,8 @@ latitude: 52.50461
 longitude: 9.45916
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Marktstraße"
-housenumber: 30
+street: Marktstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:30"
-website: "https://www.baeckerei-raute.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:30
+website: https://www.baeckerei-raute.de/

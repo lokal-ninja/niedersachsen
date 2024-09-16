@@ -1,11 +1,11 @@
 id: 165334977
-type: way
+type: node
 latitude: 53.05346
 longitude: 8.25667
 postcode: "26209"
 city: Hatten
-street: "Gartenweg"
-housenumber: 1
+street: Gartenweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

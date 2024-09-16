@@ -1,11 +1,11 @@
 id: 27791838
-type: way
+type: node
 latitude: 52.15807
 longitude: 10.50421
 postcode: "38304"
 city: Wolfenbüttel
-street: "Am Rehmanger"
-housenumber: 17
+street: Am Rehmanger
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

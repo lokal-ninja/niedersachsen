@@ -1,11 +1,11 @@
 id: 406619450
-type: way
+type: node
 latitude: 53.04718
 longitude: 8.55853
 postcode: "27777"
 city: Ganderkesee
-street: "Zur Straßenmeisterei"
-housenumber: 15
-phone: "+49 4222 945334"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su 10:00-13:00"
-website: "https://www.fleurgarten.de/"
+street: Zur Straßenmeisterei
+housenumber: "15"
+phone: +49 4222 945334
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su 10:00-13:00
+website: https://www.fleurgarten.de/

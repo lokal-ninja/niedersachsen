@@ -1,11 +1,11 @@
 id: 655980684
-type: way
+type: node
 latitude: 52.71455
 longitude: 8.51383
 postcode: "49406"
 city: Barnstorf
-street: "Bremer Straße"
-housenumber: 27
+street: Bremer Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 05:30-22:00; Su 07:00-22:00"
+opening_hours: Mo-Sa 05:30-22:00; Su 07:00-22:00
 website: ""

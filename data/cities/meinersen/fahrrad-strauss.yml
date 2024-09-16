@@ -1,11 +1,11 @@
 id: 521018573
-type: way
+type: node
 latitude: 52.47308
 longitude: 10.36372
 postcode: "38536"
 city: Meinersen
-street: "Dalldorfer Straße"
-housenumber: 17
+street: Dalldorfer Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:30-18:00"
+opening_hours: Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:30-18:00
 website: ""

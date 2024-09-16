@@ -4,8 +4,9 @@ latitude: 52.38648
 longitude: 10.73159
 postcode: "38442"
 city: Wolfsburg
-street: "Baumschulenweg"
-housenumber: 1
+street: Baumschulenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mar-Oct: Mo-Fr 09:00-18:00; Mar-Jun: Sa 09:00-15:00; Jul-Oct: Sa 09:00-14:00; Nov-Feb: Mo-Fr 09:00-17:00; Nov-Feb: Sa 09:00-13:00"
+opening_hours: 'Mar-Oct: Mo-Fr 09:00-18:00; Mar-Jun: Sa 09:00-15:00; Jul-Oct: Sa 09:00-14:00;
+    Nov-Feb: Mo-Fr 09:00-17:00; Nov-Feb: Sa 09:00-13:00'
 website: ""

@@ -1,11 +1,11 @@
 id: 254258736
-type: way
+type: node
 latitude: 53.58907
 longitude: 9.47179
 postcode: "21680"
 city: Stade
-street: "Harsefelder Straße"
-housenumber: 44
+street: Harsefelder Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

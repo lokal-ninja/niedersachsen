@@ -4,8 +4,8 @@ latitude: 53.52242
 longitude: 7.2735
 postcode: "26529"
 city: Marienhafe
-street: "Rosenstraße"
-housenumber: 5
+street: Rosenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Tu 10:00-13:00,14:30-17:00; Th,Sa 10:00-13:00; Fr 14:30-17:00"
+opening_hours: Mo,Tu 10:00-13:00,14:30-17:00; Th,Sa 10:00-13:00; Fr 14:30-17:00
 website: ""

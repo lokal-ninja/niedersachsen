@@ -1,11 +1,11 @@
 id: 730032828
-type: way
+type: node
 latitude: 51.72643
 longitude: 10.25386
 postcode: "37520"
 city: Osterode am Harz
-street: "Auenstraße"
-housenumber: 12
-phone: "+49-5522-312835"
+street: Auenstraße
+housenumber: "12"
+phone: +49-5522-312835
 opening_hours: ""
 website: ""

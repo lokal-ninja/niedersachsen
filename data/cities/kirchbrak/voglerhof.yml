@@ -1,11 +1,11 @@
 id: 261857658
-type: way
+type: node
 latitude: 51.9656
 longitude: 9.57525
 postcode: "37619"
 city: Kirchbrak
-street: "Tiebrink"
-housenumber: 4
-phone: "+49 5533 1514"
-opening_hours: "Tu 15:00-18:00; Fr 09:00-18:00; Sa 07:00-13:00"
-website: "https://www.voglerhof.de/"
+street: Tiebrink
+housenumber: "4"
+phone: +49 5533 1514
+opening_hours: Tu 15:00-18:00; Fr 09:00-18:00; Sa 07:00-13:00
+website: https://www.voglerhof.de/

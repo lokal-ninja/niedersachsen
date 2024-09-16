@@ -4,8 +4,8 @@ latitude: 52.84471
 longitude: 8.0368
 postcode: "49661"
 city: Cloppenburg
-street: "Soestenstraße"
-housenumber: 6
-phone: "+49 4471 7009948"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-17:00; Su,PH off"
-website: "https://www.formen-cloppenburg.de/"
+street: Soestenstraße
+housenumber: "6"
+phone: +49 4471 7009948
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-17:00; Su,PH off
+website: https://www.formen-cloppenburg.de/

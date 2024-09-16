@@ -1,11 +1,11 @@
 id: 41143714
-type: way
+type: node
 latitude: 53.18566
 longitude: 8.57182
 postcode: "28779"
 city: Bremen
-street: "Mühlenstraße"
-housenumber: 47
+street: Mühlenstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de

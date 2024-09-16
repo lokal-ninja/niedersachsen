@@ -1,11 +1,11 @@
 id: 219771785
-type: way
+type: node
 latitude: 53.57519
 longitude: 8.36247
 postcode: "26969"
 city: Butjadingen
-street: "Butjadinger Straße"
-housenumber: 68
+street: Butjadinger Straße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

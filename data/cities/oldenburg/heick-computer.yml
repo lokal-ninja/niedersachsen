@@ -1,11 +1,11 @@
 id: 278817058
-type: way
+type: node
 latitude: 53.15945
 longitude: 8.22126
 postcode: "26123"
 city: Oldenburg
-street: "Nadorster Straße"
-housenumber: 181
+street: Nadorster Straße
+housenumber: "181"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00"
-website: "https://www.heick-computer.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00
+website: https://www.heick-computer.de/

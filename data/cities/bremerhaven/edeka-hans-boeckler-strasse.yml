@@ -1,11 +1,11 @@
 id: 207946685
-type: way
+type: node
 latitude: 53.58799
 longitude: 8.61655
 postcode: "27578"
 city: Bremerhaven
-street: "Hans-Böckler-Straße"
+street: Hans-Böckler-Straße
 housenumber: 32 b
-phone: "+49 471 1428980"
-opening_hours: "Mo-Sa 07:00-22:00"
+phone: +49 471 1428980
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 88659022
-type: way
+type: node
 latitude: 51.52416
 longitude: 9.95878
 postcode: "37085"
 city: Göttingen
-street: "Am Kirschberge"
-housenumber: 9
+street: Am Kirschberge
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

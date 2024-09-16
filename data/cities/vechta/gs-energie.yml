@@ -1,11 +1,11 @@
 id: 785570267
-type: way
+type: node
 latitude: 52.78153
 longitude: 8.26095
 postcode: "49377"
 city: Vechta
-street: "Oldenburger Straße"
-housenumber: 300
+street: Oldenburger Straße
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Sa 05:00-22:00; Su 07:00-22:00"
-website: "https://www.gs-genossenschaft.de/energie"
+opening_hours: Mo-Sa 05:00-22:00; Su 07:00-22:00
+website: https://www.gs-genossenschaft.de/energie

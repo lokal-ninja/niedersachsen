@@ -4,8 +4,8 @@ latitude: 53.09942
 longitude: 8.9006
 postcode: "28355"
 city: Bremen
-street: "Oberneulander Heerstraße"
-housenumber: 25
-phone: "+49 421 67357999"
-opening_hours: "Mo-Fr 06:30-18:00; Sa-Su"
-website: "https://www.mueller-egerer.de/"
+street: Oberneulander Heerstraße
+housenumber: "25"
+phone: +49 421 67357999
+opening_hours: Mo-Fr 06:30-18:00; Sa-Su
+website: https://www.mueller-egerer.de/

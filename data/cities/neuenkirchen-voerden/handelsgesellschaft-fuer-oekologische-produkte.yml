@@ -1,11 +1,11 @@
 id: 709190076
-type: way
+type: node
 latitude: 52.48997
 longitude: 8.07955
 postcode: "49434"
 city: Neuenkirchen-Vörden
-street: "Hörster Heide"
-housenumber: 10
+street: Hörster Heide
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

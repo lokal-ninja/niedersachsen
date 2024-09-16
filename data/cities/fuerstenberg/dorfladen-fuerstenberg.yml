@@ -4,8 +4,8 @@ latitude: 51.72964
 longitude: 9.40334
 postcode: "37699"
 city: Fürstenberg
-street: "Von Langen Reihe"
-housenumber: 1
-phone: "+49 5271 9519802"
-opening_hours: "Mo-Sa 07:00-12:00, Di-fr 15:00-17:30, So 08:00-09:30"
-website: "https://www.dorfladen-fuerstenberg.de"
+street: Von Langen Reihe
+housenumber: "1"
+phone: +49 5271 9519802
+opening_hours: Mo-Sa 07:00-12:00, Di-fr 15:00-17:30, So 08:00-09:30
+website: https://www.dorfladen-fuerstenberg.de

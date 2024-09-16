@@ -1,11 +1,11 @@
 id: 313860701
-type: way
+type: node
 latitude: 53.09383
 longitude: 8.80523
 postcode: "28215"
 city: Bremen
-street: "Hemmstraße"
+street: Hemmstraße
 housenumber: 158,160,162,164
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

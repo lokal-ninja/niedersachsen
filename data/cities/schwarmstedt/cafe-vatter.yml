@@ -1,11 +1,11 @@
 id: 188048619
-type: way
+type: node
 latitude: 52.67717
 longitude: 9.62024
 postcode: "29690"
 city: Schwarmstedt
-street: "Moorstraße"
-housenumber: 18
-phone: "+49 5071 800367"
-opening_hours: "Mo-Fr 06:00-18:00;Sa 06:00-15:00;Su 07:00-15:00"
-website: "https://www.baeckerei-vatter.de/standorte/fachgeschaefte/cafe-moorstrasse"
+street: Moorstraße
+housenumber: "18"
+phone: +49 5071 800367
+opening_hours: Mo-Fr 06:00-18:00;Sa 06:00-15:00;Su 07:00-15:00
+website: https://www.baeckerei-vatter.de/standorte/fachgeschaefte/cafe-moorstrasse

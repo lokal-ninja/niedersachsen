@@ -1,11 +1,11 @@
 id: 620266509
-type: way
+type: node
 latitude: 52.2857
 longitude: 9.82077
 postcode: ""
 city: Laatzen
-street: "Hildesheimer Straße"
-housenumber: 350
+street: Hildesheimer Straße
+housenumber: "350"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 591386320
-type: way
+type: node
 latitude: 53.19866
 longitude: 8.57164
 postcode: "28779"
 city: Bremen
-street: "Schwaneweder Straße"
-housenumber: 27
+street: Schwaneweder Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/bremen/blumenthal/schwaneweder-strasse-27.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/bremen/blumenthal/schwaneweder-strasse-27.html

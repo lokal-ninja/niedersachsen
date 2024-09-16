@@ -4,8 +4,8 @@ latitude: 52.32162
 longitude: 8.34848
 postcode: "49152"
 city: Bad Essen
-street: "Lerchenstraße"
-housenumber: 29
-phone: "+49 5472 9584866"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-16:30; Su 07:30-12:00"
-website: "https://www.baeckerei-schmidt.de/"
+street: Lerchenstraße
+housenumber: "29"
+phone: +49 5472 9584866
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-16:30; Su 07:30-12:00
+website: https://www.baeckerei-schmidt.de/

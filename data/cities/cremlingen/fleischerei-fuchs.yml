@@ -1,11 +1,11 @@
 id: 429414585
-type: way
+type: node
 latitude: 52.25664
 longitude: 10.70999
 postcode: "38162"
 city: Cremlingen
-street: "Langer Acker"
-housenumber: 4
+street: Langer Acker
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-We off; Th-Fr 08:00-12:00,15:00-18:00; Sa 08:00-12:00; Su off"
+opening_hours: Mo-We off; Th-Fr 08:00-12:00,15:00-18:00; Sa 08:00-12:00; Su off
 website: ""

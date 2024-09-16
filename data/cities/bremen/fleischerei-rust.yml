@@ -4,8 +4,8 @@ latitude: 53.17505
 longitude: 8.6673
 postcode: "28717"
 city: Bremen
-street: "Lesumer Heerstraße"
-housenumber: 89
-phone: "+49 421 62638771"
+street: Lesumer Heerstraße
+housenumber: "89"
+phone: +49 421 62638771
 opening_hours: ""
-website: "https://www.fleischerei-rust.de/"
+website: https://www.fleischerei-rust.de/

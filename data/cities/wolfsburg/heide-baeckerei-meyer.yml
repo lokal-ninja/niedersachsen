@@ -4,8 +4,8 @@ latitude: 52.38758
 longitude: 10.75467
 postcode: "38444"
 city: Wolfsburg
-street: "John-F.-Kennedy-Allee"
-housenumber: 29
-phone: "+49 5361 7752535"
-opening_hours: "Mo-Fr 06:00-13:00; Sa 06:00-13:00; Su 07:00-10:30, PH off"
-website: "https://www.baeckerei-meyer.de/"
+street: John-F.-Kennedy-Allee
+housenumber: "29"
+phone: +49 5361 7752535
+opening_hours: Mo-Fr 06:00-13:00; Sa 06:00-13:00; Su 07:00-10:30, PH off
+website: https://www.baeckerei-meyer.de/

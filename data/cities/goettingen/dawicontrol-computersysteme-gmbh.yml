@@ -1,11 +1,11 @@
 id: 127724837
-type: way
+type: node
 latitude: 51.54371
 longitude: 9.88445
 postcode: "37079"
 city: Göttingen
-street: "Gerhard-Gerdes-Straße"
-housenumber: 3
+street: Gerhard-Gerdes-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; PH off"
+opening_hours: Mo-Fr 09:00-17:00; PH off
 website: ""

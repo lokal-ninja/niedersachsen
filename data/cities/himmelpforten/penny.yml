@@ -1,11 +1,11 @@
 id: 497657009
-type: way
+type: node
 latitude: 53.61382
 longitude: 9.30061
 postcode: "21709"
 city: Himmelpforten
-street: "Mühlenstraße"
-housenumber: 36
+street: Mühlenstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

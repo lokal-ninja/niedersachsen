@@ -4,8 +4,8 @@ latitude: 52.84218
 longitude: 8.06026
 postcode: "49661"
 city: Cloppenburg
-street: "Emsteker Straße"
-housenumber: 75
-phone: "+49 4471 9173 0"
-opening_hours: "Mo-Fr 08:15-18:00; Sa 08:30-13:00"
-website: "https://www.vw-eckert.de"
+street: Emsteker Straße
+housenumber: "75"
+phone: +49 4471 9173 0
+opening_hours: Mo-Fr 08:15-18:00; Sa 08:30-13:00
+website: https://www.vw-eckert.de

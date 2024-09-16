@@ -1,11 +1,11 @@
 id: 92262058
-type: way
+type: node
 latitude: 52.22171
 longitude: 10.51663
 postcode: "38124"
 city: Braunschweig
-street: "Leipziger Straße"
-housenumber: 190
-phone: "+49 531 611269"
+street: Leipziger Straße
+housenumber: "190"
+phone: +49 531 611269
 opening_hours: ""
-website: "https://zoo-bs.de/"
+website: https://zoo-bs.de/

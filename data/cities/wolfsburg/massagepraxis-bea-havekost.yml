@@ -1,11 +1,11 @@
 id: 43104115
-type: way
+type: node
 latitude: 52.43496
 longitude: 10.86314
 postcode: "38448"
 city: Wolfsburg
-street: "Heinrichswinkel"
-housenumber: 7
+street: Heinrichswinkel
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

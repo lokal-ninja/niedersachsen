@@ -4,8 +4,8 @@ latitude: 53.08415
 longitude: 7.38531
 postcode: "26871"
 city: Papenburg
-street: "Deverweg"
-housenumber: 29
+street: Deverweg
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00, Sa 09:00-13:00"
-website: "https://www.ewe.de"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00, Sa 09:00-13:00
+website: https://www.ewe.de

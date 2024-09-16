@@ -1,11 +1,11 @@
 id: 193148821
-type: way
+type: node
 latitude: 52.41409
 longitude: 7.84115
 postcode: "49586"
 city: Neuenkirchen
-street: "Bramscher Straße"
-housenumber: 5
+street: Bramscher Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

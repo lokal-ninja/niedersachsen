@@ -1,11 +1,11 @@
 id: 207320580
-type: way
+type: node
 latitude: 52.36881
 longitude: 10.73307
 postcode: "38444"
 city: Wolfsburg
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

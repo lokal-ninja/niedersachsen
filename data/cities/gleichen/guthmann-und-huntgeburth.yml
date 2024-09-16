@@ -1,11 +1,11 @@
 id: 1062457080
-type: way
+type: node
 latitude: 51.48915
 longitude: 10.09157
 postcode: "37130"
 city: Gleichen
-street: "Sattenhäuser Straße"
-housenumber: 6
+street: Sattenhäuser Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-14:00; PH off"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-14:00; PH off
 website: ""

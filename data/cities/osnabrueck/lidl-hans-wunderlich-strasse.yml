@@ -1,11 +1,11 @@
 id: 39319451
-type: way
+type: node
 latitude: 52.26727
 longitude: 8.00116
 postcode: "49078"
 city: Osnabrück
-street: "Hans-Wunderlich-Straße"
-housenumber: 2
+street: Hans-Wunderlich-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

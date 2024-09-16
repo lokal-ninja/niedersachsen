@@ -4,8 +4,9 @@ latitude: 53.07932
 longitude: 8.88643
 postcode: "28329"
 city: Bremen
-street: "Kurt-Schumacher-Allee"
+street: Kurt-Schumacher-Allee
 housenumber: 12a
 phone: ""
-opening_hours: "Mo,Tu 08:00-13:00,14:00-18:00; We 08:00-13:00; Th 08:00-13:00,14:00-18:00; Fr 08:00-13:00,14:00-17:00; Sa,Su,PH off"
+opening_hours: Mo,Tu 08:00-13:00,14:00-18:00; We 08:00-13:00; Th 08:00-13:00,14:00-18:00;
+    Fr 08:00-13:00,14:00-17:00; Sa,Su,PH off
 website: ""

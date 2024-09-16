@@ -1,11 +1,11 @@
 id: 208769730
-type: way
+type: node
 latitude: 52.6865
 longitude: 8.83643
 postcode: "27232"
 city: Sulingen
-street: "Magdeburger Straße"
-housenumber: 3
-phone: "+49 4271 93730"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-14:00"
-website: "https://sulinger-getraenkemarkt.de/"
+street: Magdeburger Straße
+housenumber: "3"
+phone: +49 4271 93730
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-14:00
+website: https://sulinger-getraenkemarkt.de/

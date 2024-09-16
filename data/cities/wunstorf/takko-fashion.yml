@@ -4,8 +4,8 @@ latitude: 52.42584
 longitude: 9.42575
 postcode: "31515"
 city: Wunstorf
-street: "Lange Straße"
-housenumber: 34
+street: Lange Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.takko.com/de-de/stores/#!/l/wunstorf/lange-strasse-34/1700"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://www.takko.com/de-de/stores/#!/l/wunstorf/lange-strasse-34/1700

@@ -4,8 +4,8 @@ latitude: 53.02142
 longitude: 8.3492
 postcode: "26209"
 city: Hatten
-street: "Hauptstraße"
-housenumber: 23
-phone: "+49 4482 9081622"
-opening_hours: "Mo-Fr 09:30-13:00, 14:00-18:00; Sa 10:00-14:00"
-website: "https://reckrad.de/"
+street: Hauptstraße
+housenumber: "23"
+phone: +49 4482 9081622
+opening_hours: Mo-Fr 09:30-13:00, 14:00-18:00; Sa 10:00-14:00
+website: https://reckrad.de/

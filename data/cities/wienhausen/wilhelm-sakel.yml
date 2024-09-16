@@ -1,11 +1,11 @@
 id: 260787731
-type: way
+type: node
 latitude: 52.58001
 longitude: 10.19141
 postcode: "29342"
 city: Wienhausen
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 07:30-12:45; Sa 06:45-12:00; Su off"
+opening_hours: Mo off; Tu-Fr 07:30-12:45; Sa 06:45-12:00; Su off
 website: ""

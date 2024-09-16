@@ -1,11 +1,11 @@
 id: 44365075
-type: way
+type: node
 latitude: 52.27207
 longitude: 10.48645
 postcode: "38116"
 city: Braunschweig
-street: "Hannoversche Straße"
-housenumber: 35
+street: Hannoversche Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

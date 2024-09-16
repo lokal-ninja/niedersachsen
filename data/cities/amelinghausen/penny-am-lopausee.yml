@@ -1,11 +1,11 @@
 id: 59985815
-type: way
+type: node
 latitude: 53.13045
 longitude: 10.21901
 postcode: "21385"
 city: Amelinghausen
-street: "Lerchenweg"
-housenumber: 2
+street: Lerchenweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

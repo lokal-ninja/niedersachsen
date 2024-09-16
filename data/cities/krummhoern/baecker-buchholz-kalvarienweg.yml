@@ -4,8 +4,8 @@ latitude: 53.50121
 longitude: 7.09406
 postcode: "26736"
 city: Krummhörn
-street: "Kalvarienweg"
-housenumber: 8
+street: Kalvarienweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Su 07:00-18:00"
-website: "https://www.buchholz-baecker.de/"
+opening_hours: Mo-Su 07:00-18:00
+website: https://www.buchholz-baecker.de/

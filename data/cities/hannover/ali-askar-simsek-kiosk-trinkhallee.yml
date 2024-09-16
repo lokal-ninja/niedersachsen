@@ -4,8 +4,8 @@ latitude: 52.35543
 longitude: 9.75555
 postcode: "30173"
 city: Hannover
-street: "Altenbekener Damm"
-housenumber: 61
-phone: "+49 511 85969244"
-opening_hours: "Sa-Mo 09:00-22:00; Tu-Fr 08:00-22:00"
+street: Altenbekener Damm
+housenumber: "61"
+phone: +49 511 85969244
+opening_hours: Sa-Mo 09:00-22:00; Tu-Fr 08:00-22:00
 website: ""

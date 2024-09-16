@@ -4,8 +4,8 @@ latitude: 53.07451
 longitude: 8.80657
 postcode: "28195"
 city: Bremen
-street: "Wachtstraße"
-housenumber: 18
+street: Wachtstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 11:00-15:00"
-website: "https://bartelsnoten.de/"
+opening_hours: Mo-Fr 11:00-15:00
+website: https://bartelsnoten.de/

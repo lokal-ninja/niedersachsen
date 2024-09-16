@@ -4,8 +4,8 @@ latitude: 53.64527
 longitude: 7.61305
 postcode: "26427"
 city: Esens
-street: "Steinstraße"
-housenumber: 30
-phone: "+49 4971 927 9550"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00"
-website: "https://www.tombrook.de"
+street: Steinstraße
+housenumber: "30"
+phone: +49 4971 927 9550
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-14:00
+website: https://www.tombrook.de

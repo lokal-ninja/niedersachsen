@@ -1,11 +1,11 @@
 id: 61421658
-type: way
+type: node
 latitude: 52.51535
 longitude: 7.31704
 postcode: "49808"
 city: Lingen (Ems)
-street: "Lindenstraße"
-housenumber: 22
+street: Lindenstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

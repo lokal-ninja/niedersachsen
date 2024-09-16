@@ -4,8 +4,8 @@ latitude: 53.22466
 longitude: 8.59122
 postcode: "28790"
 city: Schwanewede
-street: "Hospitalstraße"
-housenumber: 9
-phone: "+49 4209 1422"
-opening_hours: "Mo-Fr 08:30-12:30; Mo-Fr 14:30-18:00; Sa 08:30-12:30"
-website: "https://www.uhren-steinborn.de"
+street: Hospitalstraße
+housenumber: "9"
+phone: +49 4209 1422
+opening_hours: Mo-Fr 08:30-12:30; Mo-Fr 14:30-18:00; Sa 08:30-12:30
+website: https://www.uhren-steinborn.de

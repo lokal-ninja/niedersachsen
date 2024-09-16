@@ -4,8 +4,8 @@ latitude: 51.815
 longitude: 9.76887
 postcode: "37586"
 city: Dassel
-street: "Ilmebahnstraße"
-housenumber: 7
+street: Ilmebahnstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.rewe.de/angebote/dassel-markoldendorf/1465820/rewe-markt-ilmebahnstr-7/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.rewe.de/angebote/dassel-markoldendorf/1465820/rewe-markt-ilmebahnstr-7/

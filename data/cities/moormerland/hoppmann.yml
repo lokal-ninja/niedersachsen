@@ -4,8 +4,9 @@ latitude: 53.28902
 longitude: 7.48155
 postcode: "26802"
 city: Moormerland
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 107, 109
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:00; Su 08:00-11:00; PH 08:00-11:00; Jan 1 off; Dec 25 off; Dec 26 off"
-website: "https://www.baeckerei-hoppmann.de/"
+opening_hours: Mo-Sa 06:30-18:00; Su 08:00-11:00; PH 08:00-11:00; Jan 1 off; Dec 25
+    off; Dec 26 off
+website: https://www.baeckerei-hoppmann.de/

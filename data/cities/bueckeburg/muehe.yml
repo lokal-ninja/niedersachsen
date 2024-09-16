@@ -4,8 +4,8 @@ latitude: 52.26052
 longitude: 9.0484
 postcode: "31675"
 city: Bückeburg
-street: "Lange Straße"
-housenumber: 56
-phone: "+49 5722 914981"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 06:00-13:00; Su,PH off"
-website: "http://www.fleischerei-muehe.de/"
+street: Lange Straße
+housenumber: "56"
+phone: +49 5722 914981
+opening_hours: Mo-Fr 07:00-18:00; Sa 06:00-13:00; Su,PH off
+website: http://www.fleischerei-muehe.de/

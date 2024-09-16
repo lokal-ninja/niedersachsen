@@ -4,8 +4,8 @@ latitude: 53.36846
 longitude: 7.20231
 postcode: "26721"
 city: Emden
-street: "Boltentorstraße"
-housenumber: 5
+street: Boltentorstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.barghoorn.de"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.barghoorn.de

@@ -1,11 +1,11 @@
 id: 294294774
-type: way
+type: node
 latitude: 52.83223
 longitude: 7.50987
 postcode: "49751"
 city: Sögel
-street: "Püttkesberge"
-housenumber: 4
+street: Püttkesberge
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-15:00"
-website: "https://www.knipper24.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-15:00
+website: https://www.knipper24.de/

@@ -1,11 +1,11 @@
 id: 52304011
-type: way
+type: node
 latitude: 53.60278
 longitude: 9.49002
 postcode: "21680"
 city: Stade
-street: "Am Bullenhof"
-housenumber: 5
+street: Am Bullenhof
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

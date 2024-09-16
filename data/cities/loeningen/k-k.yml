@@ -1,11 +1,11 @@
 id: 40152070
-type: way
+type: node
 latitude: 52.73279
 longitude: 7.75645
 postcode: "49624"
 city: Löningen
-street: "Angelbecker Straße"
-housenumber: 4
+street: Angelbecker Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.04878
 longitude: 8.9585
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 42809657"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.jeans-fritz.de"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 42809657
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.jeans-fritz.de

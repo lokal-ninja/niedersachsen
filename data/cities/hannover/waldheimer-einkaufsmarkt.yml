@@ -1,11 +1,11 @@
 id: 775110916
-type: way
+type: node
 latitude: 52.35069
 longitude: 9.7731
 postcode: "30519"
 city: Hannover
-street: "Liebrechtstraße"
-housenumber: 63
+street: Liebrechtstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Su 05:30-20:30"
+opening_hours: Mo-Su 05:30-20:30
 website: ""

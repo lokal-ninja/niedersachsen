@@ -4,8 +4,8 @@ latitude: 53.16745
 longitude: 7.35427
 postcode: "26826"
 city: Weener
-street: "Neue Straße"
-housenumber: 16
-phone: "+49 4951 1615"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.bahns.de/"
+street: Neue Straße
+housenumber: "16"
+phone: +49 4951 1615
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.bahns.de/

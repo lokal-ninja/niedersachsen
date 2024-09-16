@@ -4,8 +4,8 @@ latitude: 52.27434
 longitude: 8.04633
 postcode: "49074"
 city: Osnabrück
-street: "Große Straße"
-housenumber: 66
+street: Große Straße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.mueller.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.mueller.de/

@@ -1,11 +1,11 @@
 id: 44170021
-type: way
+type: node
 latitude: 53.18272
 longitude: 7.99534
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Westersteder Straße"
+street: Westersteder Straße
 housenumber: 2A
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 10:00-18:00"
-website: "https://www.lidl.de/filialen/bad-zwischenahn/westersteder-str-2a.html"
+opening_hours: Mo-Sa 07:00-21:00; Su 10:00-18:00
+website: https://www.lidl.de/filialen/bad-zwischenahn/westersteder-str-2a.html

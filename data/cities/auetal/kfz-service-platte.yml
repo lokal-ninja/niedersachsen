@@ -1,11 +1,11 @@
 id: 87287512
-type: way
+type: node
 latitude: 52.23421
 longitude: 9.24515
 postcode: "31749"
 city: Auetal
-street: "Altes Feld"
-housenumber: 7
+street: Altes Feld
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

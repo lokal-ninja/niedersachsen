@@ -1,11 +1,11 @@
 id: 359637771
-type: way
+type: node
 latitude: 52.62396
 longitude: 9.23923
 postcode: "31582"
 city: Nienburg/Weser
-street: "Nienburger Damm"
-housenumber: 7
+street: Nienburger Damm
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
 website: ""

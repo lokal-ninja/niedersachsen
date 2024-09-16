@@ -1,11 +1,11 @@
 id: 198262043
-type: way
+type: node
 latitude: 53.14434
 longitude: 8.21279
 postcode: "26121"
 city: Oldenburg
-street: "Heiligengeiststraße"
-housenumber: 27
+street: Heiligengeiststraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

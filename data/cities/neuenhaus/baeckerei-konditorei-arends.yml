@@ -4,8 +4,8 @@ latitude: 52.51841
 longitude: 6.99882
 postcode: "49828"
 city: Neuenhaus
-street: "Georgsdorfer Straße"
-housenumber: 8
-phone: "+49 5941 373"
-opening_hours: "Mo-Sa 06:00-12:30, Mo,We-Fr 14:00-18:00; Su 08:00-11:00"
-website: "http://www.baeckerei-arends.de/"
+street: Georgsdorfer Straße
+housenumber: "8"
+phone: +49 5941 373
+opening_hours: Mo-Sa 06:00-12:30, Mo,We-Fr 14:00-18:00; Su 08:00-11:00
+website: http://www.baeckerei-arends.de/

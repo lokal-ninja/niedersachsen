@@ -4,8 +4,8 @@ latitude: 53.2695
 longitude: 9.72972
 postcode: "21255"
 city: Tostedt
-street: "Zinnhütte"
-housenumber: 12
+street: Zinnhütte
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.budni.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.budni.de/

@@ -1,11 +1,11 @@
 id: 155251837
-type: way
+type: node
 latitude: 52.74465
 longitude: 7.75193
 postcode: "49624"
 city: Löningen
-street: "Elbingstraße"
-housenumber: 8
+street: Elbingstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

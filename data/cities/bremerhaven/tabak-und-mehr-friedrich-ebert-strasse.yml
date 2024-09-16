@@ -4,8 +4,8 @@ latitude: 53.53507
 longitude: 8.59806
 postcode: "27570"
 city: Bremerhaven
-street: "Friedrich-Ebert-Straße"
-housenumber: 73
+street: Friedrich-Ebert-Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 05:00-20:00; Sa 06:00-20:00; PH,Su 08:00-20:00"
-website: "https://www.tabak-und-mehr.de/index.php?link=hauptbahnhof"
+opening_hours: Mo-Fr 05:00-20:00; Sa 06:00-20:00; PH,Su 08:00-20:00
+website: https://www.tabak-und-mehr.de/index.php?link=hauptbahnhof

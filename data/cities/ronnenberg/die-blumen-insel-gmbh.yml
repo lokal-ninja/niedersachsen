@@ -4,8 +4,8 @@ latitude: 52.3395
 longitude: 9.65545
 postcode: "30952"
 city: Ronnenberg
-street: "Nenndorfer Straße"
-housenumber: 92
-phone: "+49 511 464339"
-opening_hours: "Mo-Tu 09:00-18:00; We 09:00-13:00; Th-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.dieblumeninsel.de/startseite/"
+street: Nenndorfer Straße
+housenumber: "92"
+phone: +49 511 464339
+opening_hours: Mo-Tu 09:00-18:00; We 09:00-13:00; Th-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.dieblumeninsel.de/startseite/

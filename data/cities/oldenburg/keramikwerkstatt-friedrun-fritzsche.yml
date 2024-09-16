@@ -4,8 +4,8 @@ latitude: 53.15929
 longitude: 8.24311
 postcode: "26125"
 city: Oldenburg
-street: "Großer Kuhlenweg"
-housenumber: 23
-phone: "+49 441 33931"
-opening_hours: "Tu-Th 10:00-13:00; Fr 12:00-18:00"
-website: "http://www.fidi-keramik.de/"
+street: Großer Kuhlenweg
+housenumber: "23"
+phone: +49 441 33931
+opening_hours: Tu-Th 10:00-13:00; Fr 12:00-18:00
+website: http://www.fidi-keramik.de/

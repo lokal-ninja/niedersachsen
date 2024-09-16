@@ -4,8 +4,8 @@ latitude: 53.16708
 longitude: 8.21466
 postcode: "26127"
 city: Oldenburg
-street: "Kreyenstraße"
-housenumber: 101
+street: Kreyenstraße
+housenumber: "101"
 phone: "+4944136180780"
-opening_hours: "Mo-Fr 09:00-16:30"
-website: "https://www.sportversand-mueller.de/"
+opening_hours: Mo-Fr 09:00-16:30
+website: https://www.sportversand-mueller.de/

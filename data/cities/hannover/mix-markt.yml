@@ -4,8 +4,8 @@ latitude: 52.41121
 longitude: 9.74973
 postcode: "30179"
 city: Hannover
-street: "Vahrenheider Markt"
-housenumber: 6
-phone: "+49 511 2619855"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/18/"
+street: Vahrenheider Markt
+housenumber: "6"
+phone: +49 511 2619855
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/18/

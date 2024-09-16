@@ -1,11 +1,11 @@
 id: 147911451
-type: way
+type: node
 latitude: 53.16014
 longitude: 8.20878
 postcode: "26121"
 city: Oldenburg
-street: "Alexanderstraße"
-housenumber: 180
-phone: "+49 441 2050638"
-opening_hours: "Mo-Sa 08:00-22:00; PH off"
+street: Alexanderstraße
+housenumber: "180"
+phone: +49 441 2050638
+opening_hours: Mo-Sa 08:00-22:00; PH off
 website: ""

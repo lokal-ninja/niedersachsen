@@ -4,8 +4,8 @@ latitude: 52.21552
 longitude: 9.55583
 postcode: "31832"
 city: Springe
-street: "Industriestraße"
-housenumber: 15
-phone: "+49 151 74330524"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.biobauerbartels.de/"
+street: Industriestraße
+housenumber: "15"
+phone: +49 151 74330524
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.biobauerbartels.de/

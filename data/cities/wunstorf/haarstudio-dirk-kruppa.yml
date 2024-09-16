@@ -1,11 +1,11 @@
 id: 112865387
-type: way
+type: node
 latitude: 52.41703
 longitude: 9.37665
 postcode: "31515"
 city: Wunstorf
-street: "Alte Dorfstraße"
-housenumber: 2
-phone: "+49 5031 16472"
+street: Alte Dorfstraße
+housenumber: "2"
+phone: +49 5031 16472
 opening_hours: ""
 website: ""

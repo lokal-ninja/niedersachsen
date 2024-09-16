@@ -1,11 +1,11 @@
 id: 27121056
-type: way
+type: node
 latitude: 53.16882
 longitude: 8.69718
 postcode: "28717"
 city: Bremen
-street: "Hindenburgstraße"
-housenumber: 19
+street: Hindenburgstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "https://www.holab.de/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
+website: https://www.holab.de/

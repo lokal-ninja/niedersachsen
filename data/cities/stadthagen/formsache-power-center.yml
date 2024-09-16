@@ -4,8 +4,8 @@ latitude: 52.32187
 longitude: 9.18865
 postcode: "31655"
 city: Stadthagen
-street: "Jahnstraße"
-housenumber: 2
-phone: "+49 5721 9374174"
-opening_hours: "nach Vereinbarung"
-website: "https://www.powerplate.de"
+street: Jahnstraße
+housenumber: "2"
+phone: +49 5721 9374174
+opening_hours: '"nach Vereinbarung"'
+website: https://www.powerplate.de

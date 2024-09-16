@@ -4,8 +4,8 @@ latitude: 51.81249
 longitude: 9.84564
 postcode: "37574"
 city: Einbeck
-street: "Schwammelwitzer Straße"
-housenumber: 11
-phone: "+49 5561 93570"
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00"
-website: "https://toom.de/m/einbeck/"
+street: Schwammelwitzer Straße
+housenumber: "11"
+phone: +49 5561 93570
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00
+website: https://toom.de/m/einbeck/

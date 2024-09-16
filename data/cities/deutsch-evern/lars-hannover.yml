@@ -1,11 +1,11 @@
 id: 401090929
-type: way
+type: node
 latitude: 53.20306
 longitude: 10.4487
 postcode: "21407"
 city: Deutsch Evern
-street: "Schützenstraße"
-housenumber: 12
+street: Schützenstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

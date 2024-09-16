@@ -1,11 +1,11 @@
 id: 936599258
-type: way
+type: node
 latitude: 53.32598
 longitude: 7.64119
 postcode: "26835"
 city: Firrel
-street: "Klosterstraße"
-housenumber: 2
+street: Klosterstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

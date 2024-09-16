@@ -1,11 +1,11 @@
 id: 542985257
-type: way
+type: node
 latitude: 53.44098
 longitude: 8.73506
 postcode: "27616"
 city: Beverstedt
-street: "Heerstedter Straße"
-housenumber: 18
+street: Heerstedter Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 58425278
-type: way
+type: node
 latitude: 52.28166
 longitude: 10.53688
 postcode: "38106"
 city: Braunschweig
-street: "Bültenweg"
-housenumber: 44
+street: Bültenweg
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://autoplus.de/filiale/braunschweig"
+website: https://autoplus.de/filiale/braunschweig

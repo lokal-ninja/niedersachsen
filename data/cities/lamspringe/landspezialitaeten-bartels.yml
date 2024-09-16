@@ -4,8 +4,8 @@ latitude: 51.96046
 longitude: 10.01183
 postcode: "31195"
 city: Lamspringe
-street: "Hauptstraße"
-housenumber: 40
-phone: "+49 5183 1251"
-opening_hours: "Mo-Fr 087:00-13:00; Sa 07:00-12:30; Th, Fr 15:00-18:00"
-website: "https://www.lf-b.de/filialen.php"
+street: Hauptstraße
+housenumber: "40"
+phone: +49 5183 1251
+opening_hours: Mo-Fr 087:00-13:00; Sa 07:00-12:30; Th, Fr 15:00-18:00
+website: https://www.lf-b.de/filialen.php

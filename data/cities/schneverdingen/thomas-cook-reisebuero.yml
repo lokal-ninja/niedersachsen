@@ -4,8 +4,8 @@ latitude: 53.1191
 longitude: 9.78593
 postcode: "29640"
 city: Schneverdingen
-street: "Marktstraße"
-housenumber: 4
-phone: "+49 5193 2850"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:00; Sa 09:30-12:30"
-website: "https://www.thomascook.de/"
+street: Marktstraße
+housenumber: "4"
+phone: +49 5193 2850
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:00; Sa 09:30-12:30
+website: https://www.thomascook.de/

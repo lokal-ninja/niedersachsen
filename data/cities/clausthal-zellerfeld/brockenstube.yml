@@ -1,11 +1,11 @@
 id: 178292550
-type: way
+type: node
 latitude: 51.80243
 longitude: 10.53729
 postcode: ""
 city: Clausthal-Zellerfeld
-street: "Torfhaus"
-housenumber: 6
+street: Torfhaus
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

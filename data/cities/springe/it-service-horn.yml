@@ -4,8 +4,8 @@ latitude: 52.21217
 longitude: 9.55746
 postcode: "31832"
 city: Springe
-street: "Bahnhofstraße"
-housenumber: 19
+street: Bahnhofstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.horn-it-service.de/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.horn-it-service.de/

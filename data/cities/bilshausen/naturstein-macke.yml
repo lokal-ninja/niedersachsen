@@ -1,11 +1,11 @@
 id: 777089258
-type: way
+type: node
 latitude: 51.62536
 longitude: 10.16055
 postcode: ""
 city: Bilshausen
-street: "Kapellenweg"
-housenumber: 3
+street: Kapellenweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; PH off"
+opening_hours: Mo-Fr 08:00-17:00; PH off
 website: ""

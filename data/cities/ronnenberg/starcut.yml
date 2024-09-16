@@ -4,8 +4,8 @@ latitude: 52.34335
 longitude: 9.66305
 postcode: "30952"
 city: Ronnenberg
-street: "Nenndorfer Straße"
-housenumber: 60
-phone: "+49 511 8009 3320"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00; Su,Mo,PH off"
+street: Nenndorfer Straße
+housenumber: "60"
+phone: +49 511 8009 3320
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00; Su,Mo,PH off
 website: ""

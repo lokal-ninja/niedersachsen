@@ -1,11 +1,11 @@
 id: 119379073
-type: way
+type: node
 latitude: 53.5219
 longitude: 8.52146
 postcode: "26954"
 city: Nordenham
-street: "Lange Straße"
-housenumber: 105
+street: Lange Straße
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.action.com/de-de/laden/nordenham-einswarden/"
+website: https://www.action.com/de-de/laden/nordenham-einswarden/

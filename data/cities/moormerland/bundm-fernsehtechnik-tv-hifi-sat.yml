@@ -4,8 +4,9 @@ latitude: 53.2903
 longitude: 7.49331
 postcode: "26802"
 city: Moormerland
-street: "Koloniestraße"
-housenumber: 2
-phone: "+49 4954 8932690"
-opening_hours: "Mo-Tu 09:00-12:00,14:00-18:00; We off; Th-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.fernsehtechnik-online.de/"
+street: Koloniestraße
+housenumber: "2"
+phone: +49 4954 8932690
+opening_hours: Mo-Tu 09:00-12:00,14:00-18:00; We off; Th-Fr 09:00-12:00,14:00-18:00;
+    Sa 09:00-12:00; PH off
+website: https://www.fernsehtechnik-online.de/

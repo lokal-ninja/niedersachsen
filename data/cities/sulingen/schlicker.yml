@@ -1,11 +1,11 @@
 id: 208567840
-type: way
+type: node
 latitude: 52.68452
 longitude: 8.83706
 postcode: "27232"
 city: Sulingen
-street: "Nienburger Straße"
-housenumber: 175
+street: Nienburger Straße
+housenumber: "175"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-13:00
 website: ""

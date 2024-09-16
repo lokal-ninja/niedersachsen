@@ -4,8 +4,8 @@ latitude: 52.39399
 longitude: 10.71438
 postcode: "38442"
 city: Wolfsburg
-street: "Mörser Straße"
-housenumber: 67
+street: Mörser Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-14:00, Su 07:00-10:00; PH off"
-website: "https://www.leifert.de/"
+opening_hours: Mo-Fr 05:30-18:30; Sa 05:30-14:00, Su 07:00-10:00; PH off
+website: https://www.leifert.de/

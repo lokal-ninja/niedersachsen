@@ -1,11 +1,11 @@
 id: 915496377
-type: way
+type: node
 latitude: 51.59811
 longitude: 10.54938
 postcode: "37441"
 city: Bad Sachsa
-street: "Hindenburgstraße"
+street: Hindenburgstraße
 housenumber: 5a
-phone: "+49 5523 93006"
-opening_hours: "Mo-Fr 08:30-13:00; Mo-Fr 14:30-18:00; Sa 08:30-12:30"
-website: "https://pawlik-brillenmode.de/"
+phone: +49 5523 93006
+opening_hours: Mo-Fr 08:30-13:00; Mo-Fr 14:30-18:00; Sa 08:30-12:30
+website: https://pawlik-brillenmode.de/

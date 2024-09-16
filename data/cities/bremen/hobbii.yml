@@ -1,11 +1,11 @@
 id: 442545433
-type: way
+type: node
 latitude: 53.06594
 longitude: 8.76962
 postcode: "28199"
 city: Bremen
-street: "Duckwitzstraße"
-housenumber: 55
+street: Duckwitzstraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

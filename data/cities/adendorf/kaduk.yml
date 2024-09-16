@@ -1,11 +1,11 @@
 id: 222016362
-type: way
+type: node
 latitude: 53.28928
 longitude: 10.42545
 postcode: "21365"
 city: Adendorf
-street: "Artlenburger Landstraße"
-housenumber: 69
+street: Artlenburger Landstraße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

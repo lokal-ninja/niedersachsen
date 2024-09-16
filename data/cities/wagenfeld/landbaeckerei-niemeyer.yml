@@ -4,8 +4,8 @@ latitude: 52.54871
 longitude: 8.58882
 postcode: "49419"
 city: Wagenfeld
-street: "Hauptstraße"
-housenumber: 41
+street: Hauptstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-12:00; Su 07:00-11:00"
-website: "https://landbaeckerei-niemeyer.de/"
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:00-12:00; Su 07:00-11:00
+website: https://landbaeckerei-niemeyer.de/

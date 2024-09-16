@@ -1,11 +1,11 @@
 id: 98480403
-type: way
+type: node
 latitude: 52.4091
 longitude: 9.71034
 postcode: "30165"
 city: Hannover
-street: "Krepenstraße"
-housenumber: 5
+street: Krepenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

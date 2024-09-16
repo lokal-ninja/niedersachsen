@@ -4,8 +4,8 @@ latitude: 53.01795
 longitude: 9.02637
 postcode: "28832"
 city: Achim
-street: "Lerchenstraße"
-housenumber: 10
-phone: "+49 4202 889933"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.heilemachen.de/"
+street: Lerchenstraße
+housenumber: "10"
+phone: +49 4202 889933
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.heilemachen.de/

@@ -4,8 +4,8 @@ latitude: 52.15311
 longitude: 9.95469
 postcode: "31134"
 city: Hildesheim
-street: "Osterstraße"
-housenumber: 51
-phone: "+49 1520 7116500"
-opening_hours: "Mo-Su 08:30-20:30 nur mit Termin"
-website: "https://www.harzer-ebike.de/"
+street: Osterstraße
+housenumber: "51"
+phone: +49 1520 7116500
+opening_hours: Mo-Su 08:30-20:30 "nur mit Termin"
+website: https://www.harzer-ebike.de/

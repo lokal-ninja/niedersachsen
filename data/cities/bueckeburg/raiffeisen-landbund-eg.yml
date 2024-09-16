@@ -4,8 +4,8 @@ latitude: 52.2639
 longitude: 9.06468
 postcode: "31675"
 city: Bückeburg
-street: "Kreuzbreite"
-housenumber: 6
-phone: "+49 5722 913908"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.rlb-eg.de/raiffeisen-maerkte/standorte/bueckeburg"
+street: Kreuzbreite
+housenumber: "6"
+phone: +49 5722 913908
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.rlb-eg.de/raiffeisen-maerkte/standorte/bueckeburg

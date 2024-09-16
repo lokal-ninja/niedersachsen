@@ -4,8 +4,8 @@ latitude: 52.4204
 longitude: 8.74611
 postcode: "31603"
 city: Diepenau
-street: "Mindener Straße"
-housenumber: 2
-phone: "+49 5775 344"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00, Sa 08:00-12:00"
-website: "https://www.bekemeier-lavelsloh.de/"
+street: Mindener Straße
+housenumber: "2"
+phone: +49 5775 344
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00, Sa 08:00-12:00
+website: https://www.bekemeier-lavelsloh.de/

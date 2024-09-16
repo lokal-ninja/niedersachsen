@@ -1,11 +1,11 @@
 id: 203530890
-type: way
+type: node
 latitude: 51.80527
 longitude: 10.3339
 postcode: "38678"
 city: Clausthal-Zellerfeld
-street: "Adolph-Roemer-Straße"
-housenumber: 11
+street: Adolph-Roemer-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"
-website: "https://www.eine.harz.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-13:00
+website: https://www.eine.harz.de/

@@ -1,11 +1,11 @@
 id: 191061857
-type: way
+type: node
 latitude: 53.05058
 longitude: 8.62483
 postcode: "27753"
 city: Delmenhorst
-street: "Mühlenstraße"
-housenumber: 3
-phone: "+49-4221-9741370"
-opening_hours: "Mo-Fr 09:00-18:00; Th 9:00-20:00; Sa 8:30-15:00"
-website: "https://www.haarinspiration.de/"
+street: Mühlenstraße
+housenumber: "3"
+phone: +49-4221-9741370
+opening_hours: Mo-Fr 09:00-18:00; Th 9:00-20:00; Sa 8:30-15:00
+website: https://www.haarinspiration.de/

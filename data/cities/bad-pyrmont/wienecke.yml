@@ -1,11 +1,11 @@
 id: 548051508
-type: way
+type: node
 latitude: 51.97546
 longitude: 9.19316
 postcode: "31812"
 city: Bad Pyrmont
-street: "Pyrmonter Straße"
-housenumber: 35
+street: Pyrmonter Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

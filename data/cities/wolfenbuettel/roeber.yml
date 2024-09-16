@@ -4,8 +4,8 @@ latitude: 52.16171
 longitude: 10.53532
 postcode: "38300"
 city: Wolfenbüttel
-street: "Kornmarkt"
-housenumber: 6
-phone: "+49 5331 12 41"
-opening_hours: "Tu, Th, Fr 08:30-18:30; We 08:30-13:00; Sa 08:00-13:00"
-website: "https://www.roeber-gourmetmarkt.de/"
+street: Kornmarkt
+housenumber: "6"
+phone: +49 5331 12 41
+opening_hours: Tu, Th, Fr 08:30-18:30; We 08:30-13:00; Sa 08:00-13:00
+website: https://www.roeber-gourmetmarkt.de/

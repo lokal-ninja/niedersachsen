@@ -4,8 +4,8 @@ latitude: 52.55486
 longitude: 7.94652
 postcode: "49593"
 city: Bersenbrück
-street: "Lindenstraße"
-housenumber: 5
-phone: "05439 3030"
-opening_hours: "Mo,Tu,Th,Fr 10:00-18:00; We,Sa 10:00-13:00"
-website: "https://t-boedeker.de"
+street: Lindenstraße
+housenumber: "5"
+phone: 05439 3030
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; We,Sa 10:00-13:00
+website: https://t-boedeker.de

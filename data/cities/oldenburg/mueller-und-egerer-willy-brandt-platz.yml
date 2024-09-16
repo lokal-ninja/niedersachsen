@@ -4,8 +4,8 @@ latitude: 53.14476
 longitude: 8.22267
 postcode: "26123"
 city: Oldenburg
-street: "Willy-Brandt-Platz"
-housenumber: 
+street: Willy-Brandt-Platz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 05:00-20:00; Su 07:30-18:00"
-website: "https://www.mueller-egerer.de/filialen/oldenburg-willy-brandt-platz-im-bahnhof-nord/"
+opening_hours: Mo-Sa 05:00-20:00; Su 07:30-18:00
+website: https://www.mueller-egerer.de/filialen/oldenburg-willy-brandt-platz-im-bahnhof-nord/

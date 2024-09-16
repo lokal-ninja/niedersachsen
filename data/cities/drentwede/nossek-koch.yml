@@ -4,8 +4,8 @@ latitude: 52.74965
 longitude: 8.57035
 postcode: "49406"
 city: Drentwede
-street: "Holzkrug"
-housenumber: 1
-phone: "+49 4246 398"
-opening_hours: "Mo-Fr 09:00-12:00, 14:30-18:00; Sa 09:00-12:00"
-website: "http://www.nossek-koch.de/"
+street: Holzkrug
+housenumber: "1"
+phone: +49 4246 398
+opening_hours: Mo-Fr 09:00-12:00, 14:30-18:00; Sa 09:00-12:00
+website: http://www.nossek-koch.de/

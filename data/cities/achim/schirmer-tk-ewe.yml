@@ -4,8 +4,8 @@ latitude: 53.01095
 longitude: 9.03775
 postcode: "28832"
 city: Achim
-street: "Obernstraße"
-housenumber: 42
-phone: "+49 4202 3031"
-opening_hours: "Mo-Fr 09:00-12:00, Tu,Fr 15:00-18:00"
+street: Obernstraße
+housenumber: "42"
+phone: +49 4202 3031
+opening_hours: Mo-Fr 09:00-12:00, Tu,Fr 15:00-18:00
 website: ""

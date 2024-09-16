@@ -4,8 +4,8 @@ latitude: 53.47103
 longitude: 7.4826
 postcode: "26603"
 city: Aurich
-street: "Norderstraße"
-housenumber: 11
-phone: "+49 4941 6044884"
-opening_hours: "Mo-Fr 09:00-13:00; Sa 09:30-13:00; Su off"
-website: "https://shopseite.telekom.de/nord-ost/aurich/norderstr-11"
+street: Norderstraße
+housenumber: "11"
+phone: +49 4941 6044884
+opening_hours: Mo-Fr 09:00-13:00; Sa 09:30-13:00; Su off
+website: https://shopseite.telekom.de/nord-ost/aurich/norderstr-11

@@ -1,11 +1,11 @@
 id: 261078424
-type: way
+type: node
 latitude: 51.88226
 longitude: 10.55999
 postcode: "38667"
 city: Bad Harzburg
-street: "Herzog-Wilhelm-Straße"
-housenumber: 49
-phone: "+49 5322 5530822"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+street: Herzog-Wilhelm-Straße
+housenumber: "49"
+phone: +49 5322 5530822
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

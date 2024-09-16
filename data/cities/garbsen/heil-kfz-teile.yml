@@ -1,11 +1,11 @@
 id: 291941152
-type: way
+type: node
 latitude: 52.42933
 longitude: 9.62444
 postcode: "30827"
 city: Garbsen
-street: "Robert-Hesse-Straße"
-housenumber: 9
+street: Robert-Hesse-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://www.heilundsohn.de/"
+website: http://www.heilundsohn.de/

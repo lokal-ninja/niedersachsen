@@ -1,11 +1,11 @@
 id: 152955182
-type: way
+type: node
 latitude: 52.32369
 longitude: 9.20175
 postcode: "31655"
 city: Stadthagen
-street: "Marktstraße"
-housenumber: 3
-phone: "+49 5721 9870"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.hagemeyer.de/"
+street: Marktstraße
+housenumber: "3"
+phone: +49 5721 9870
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.hagemeyer.de/

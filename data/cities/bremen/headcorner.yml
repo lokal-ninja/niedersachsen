@@ -4,8 +4,8 @@ latitude: 53.06805
 longitude: 8.79099
 postcode: "28199"
 city: Bremen
-street: "Pappelstraße"
-housenumber: 76
+street: Pappelstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-12:30,14:00-17:00; We,Sa 09:00-13:00"
-website: "http://www.headcorner.de/"
+opening_hours: Tu,Th,Fr 09:00-12:30,14:00-17:00; We,Sa 09:00-13:00
+website: http://www.headcorner.de/

@@ -4,8 +4,8 @@ latitude: 53.38486
 longitude: 10.11055
 postcode: "21435"
 city: Stelle
-street: "Harburger Straße"
-housenumber: 1
-phone: "+49 4174 669790"
-opening_hours: "Mo-Fr 09:00-13:00, Mo-Fr 14:00-18:00, Sa 09:00-13:00"
-website: "https://www.mrware.de/"
+street: Harburger Straße
+housenumber: "1"
+phone: +49 4174 669790
+opening_hours: Mo-Fr 09:00-13:00, Mo-Fr 14:00-18:00, Sa 09:00-13:00
+website: https://www.mrware.de/

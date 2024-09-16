@@ -4,8 +4,8 @@ latitude: 53.39216
 longitude: 7.21094
 postcode: "26721"
 city: Emden
-street: "Wilhelm-Raabe-Straße"
-housenumber: 16
+street: Wilhelm-Raabe-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 10:00-13:00"
-website: "http://www.bäderstrasse.com"
+opening_hours: Mo-Fr 08:30-18:00; Sa 10:00-13:00
+website: http://www.bäderstrasse.com

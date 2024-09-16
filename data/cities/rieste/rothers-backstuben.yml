@@ -1,11 +1,11 @@
 id: 297984864
-type: way
+type: node
 latitude: 52.48509
 longitude: 8.01272
 postcode: "49597"
 city: Rieste
-street: "Malgartener Straße"
-housenumber: 6
-phone: "+49 5464 5536"
-opening_hours: "Mo-Sa 05:30-12:00; Su 07:30-10:30"
-website: "https://rothertsbackstuben.de/"
+street: Malgartener Straße
+housenumber: "6"
+phone: +49 5464 5536
+opening_hours: Mo-Sa 05:30-12:00; Su 07:30-10:30
+website: https://rothertsbackstuben.de/

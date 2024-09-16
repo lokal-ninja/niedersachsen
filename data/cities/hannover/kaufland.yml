@@ -4,8 +4,8 @@ latitude: 52.38031
 longitude: 9.73983
 postcode: "30161"
 city: Hannover
-street: "Rundestraße"
-housenumber: 5
-phone: "+49 5 11 / 7 63 51 60"
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
-website: "https://www.kaufland.de/Home/index.jsp?PageId=3&FilialID=6410"
+street: Rundestraße
+housenumber: "5"
+phone: +49 5 11 / 7 63 51 60
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-23:30
+website: https://www.kaufland.de/Home/index.jsp?PageId=3&FilialID=6410

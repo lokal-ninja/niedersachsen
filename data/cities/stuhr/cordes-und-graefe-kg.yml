@@ -1,11 +1,11 @@
 id: 245994325
-type: way
+type: node
 latitude: 52.98492
 longitude: 8.78126
 postcode: "28816"
 city: Stuhr
-street: "An der Riede"
-housenumber: 1
-phone: "+49 421 2029-0"
-opening_hours: "by appointment"
-website: "https://www.gc-gruppe.de/de/unternehmen/cordes-graefe-kg"
+street: An der Riede
+housenumber: "1"
+phone: +49 421 2029-0
+opening_hours: '"by appointment"'
+website: https://www.gc-gruppe.de/de/unternehmen/cordes-graefe-kg

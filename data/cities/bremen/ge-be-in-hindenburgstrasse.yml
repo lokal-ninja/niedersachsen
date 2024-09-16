@@ -1,11 +1,11 @@
 id: 88348723
-type: way
+type: node
 latitude: 53.16881
 longitude: 8.69562
 postcode: "28717"
 city: Bremen
-street: "Hindenburgstraße"
-housenumber: 23
+street: Hindenburgstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.ge-be-in.de/"
+website: https://www.ge-be-in.de/

@@ -4,8 +4,8 @@ latitude: 53.27058
 longitude: 9.68206
 postcode: "21255"
 city: Wistedt
-street: "Bremer Straße"
-housenumber: 23
-phone: "+49 4182 2309897"
-opening_hours: "Mo-Fr 05:00-11:00,16:00-18:00; Sa,Su 07:00-11:00"
-website: "https://wistedter-dorfladen.de/"
+street: Bremer Straße
+housenumber: "23"
+phone: +49 4182 2309897
+opening_hours: Mo-Fr 05:00-11:00,16:00-18:00; Sa,Su 07:00-11:00
+website: https://wistedter-dorfladen.de/

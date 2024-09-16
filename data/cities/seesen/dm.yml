@@ -1,11 +1,11 @@
 id: 320051442
-type: way
+type: node
 latitude: 51.89676
 longitude: 10.18179
 postcode: "38723"
 city: Seesen
-street: "Braunschweiger Straße"
-housenumber: 34
+street: Braunschweiger Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

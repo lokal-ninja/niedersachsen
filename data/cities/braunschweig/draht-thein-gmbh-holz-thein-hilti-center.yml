@@ -1,11 +1,11 @@
 id: 216903249
-type: way
+type: node
 latitude: 52.24973
 longitude: 10.58297
 postcode: "38126"
 city: Braunschweig
-street: "Vorlingskamp"
-housenumber: 8
+street: Vorlingskamp
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

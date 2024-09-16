@@ -4,8 +4,8 @@ latitude: 53.09866
 longitude: 8.81348
 postcode: "28215"
 city: Bremen
-street: "Meraner Straße"
-housenumber: 1
-phone: "+49 421 352135"
-opening_hours: "Tu-Fr 08:30-18:00"
+street: Meraner Straße
+housenumber: "1"
+phone: +49 421 352135
+opening_hours: Tu-Fr 08:30-18:00
 website: ""

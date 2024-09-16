@@ -4,8 +4,8 @@ latitude: 53.0827
 longitude: 8.80774
 postcode: "28195"
 city: Bremen
-street: "Bürgermeister-Smidt-Straße"
-housenumber: 123
+street: Bürgermeister-Smidt-Straße
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Th 10:30-18:15; Sa 10:00-16:00; Fr 10:30-15:30,16:30-18:15"
-website: "http://www.cyow.de/"
+opening_hours: Mo-Th 10:30-18:15; Sa 10:00-16:00; Fr 10:30-15:30,16:30-18:15
+website: http://www.cyow.de/

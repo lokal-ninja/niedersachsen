@@ -1,11 +1,11 @@
 id: 384744945
-type: way
+type: node
 latitude: 53.07163
 longitude: 8.63996
 postcode: "27753"
 city: Delmenhorst
-street: "Stedinger Straße"
-housenumber: 247
+street: Stedinger Straße
+housenumber: "247"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00; PH off"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-17:00; PH off
 website: ""

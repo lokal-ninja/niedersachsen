@@ -1,11 +1,11 @@
 id: 28818104
-type: way
+type: node
 latitude: 52.42424
 longitude: 9.78281
 postcode: "30657"
 city: Hannover
-street: "Langenforther Straße"
-housenumber: 105
+street: Langenforther Straße
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

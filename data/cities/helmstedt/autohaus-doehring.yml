@@ -1,11 +1,11 @@
 id: 123717926
-type: way
+type: node
 latitude: 52.24777
 longitude: 10.99525
 postcode: "38350"
 city: Helmstedt
-street: "Marientaler Straße"
-housenumber: 86
+street: Marientaler Straße
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

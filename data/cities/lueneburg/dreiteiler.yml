@@ -4,8 +4,8 @@ latitude: 53.24808
 longitude: 10.40668
 postcode: "21335"
 city: Lüneburg
-street: "Untere Schrangenstraße"
-housenumber: 2
-phone: "+49 4131 9995056"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.dreiteiler.com/"
+street: Untere Schrangenstraße
+housenumber: "2"
+phone: +49 4131 9995056
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.dreiteiler.com/

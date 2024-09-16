@@ -4,8 +4,8 @@ latitude: 53.24884
 longitude: 10.40642
 postcode: "21335"
 city: Lüneburg
-street: "Schröderstraße"
-housenumber: 2
-phone: "+49 4131 44718"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Th 08:00-13:00; Sa 09:00-12:30"
-website: "https://goldschmiede-arthur-mueller.de/"
+street: Schröderstraße
+housenumber: "2"
+phone: +49 4131 44718
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Th 08:00-13:00; Sa 09:00-12:30
+website: https://goldschmiede-arthur-mueller.de/

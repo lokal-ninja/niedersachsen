@@ -1,11 +1,11 @@
 id: 916759142
-type: way
+type: node
 latitude: 52.44718
 longitude: 9.66708
 postcode: "30855"
 city: Langenhagen
-street: "Heidestraße"
-housenumber: 4
-phone: "+49-511 741389"
-opening_hours: "Mo 08:00-13:00; Tu-Fr 08:00-12:30,15:00-18:00; Sa 08:00-12:30"
+street: Heidestraße
+housenumber: "4"
+phone: +49-511 741389
+opening_hours: Mo 08:00-13:00; Tu-Fr 08:00-12:30,15:00-18:00; Sa 08:00-12:30
 website: ""

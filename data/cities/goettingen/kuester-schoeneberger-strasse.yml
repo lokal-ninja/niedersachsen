@@ -1,11 +1,12 @@
 id: 89441701
-type: way
+type: node
 latitude: 51.5172
 longitude: 9.97096
 postcode: "37085"
 city: Göttingen
-street: "Schöneberger Straße"
-housenumber: 3
+street: Schöneberger Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 08:00-17:00; easter +1 day off; easter +50 days off; Dec 25 off; Dec 26 off; Jan 01 off"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 08:00-17:00; easter +1 day
+    off; easter +50 days off; Dec 25 off; Dec 26 off; Jan 01 off
 website: ""

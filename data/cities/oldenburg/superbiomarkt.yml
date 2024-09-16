@@ -1,11 +1,11 @@
 id: 229334260
-type: way
+type: node
 latitude: 53.1543
 longitude: 8.21068
 postcode: "26121"
 city: Oldenburg
-street: "Alexanderstraße"
+street: Alexanderstraße
 housenumber: 94-98
-phone: "+49 441 20553673"
-opening_hours: "Mo-Th 08:30-19:30; Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off"
-website: "https://www.superbiomarkt.de/oldenburg-buergerfelde/"
+phone: +49 441 20553673
+opening_hours: Mo-Th 08:30-19:30; Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off
+website: https://www.superbiomarkt.de/oldenburg-buergerfelde/

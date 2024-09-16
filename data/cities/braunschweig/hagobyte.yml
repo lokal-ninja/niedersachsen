@@ -1,11 +1,11 @@
 id: 75616709
-type: way
+type: node
 latitude: 52.2755
 longitude: 10.47931
 postcode: "38116"
 city: Braunschweig
-street: "Saarstraße"
-housenumber: 107
-phone: "+49 531 52340"
-opening_hours: "Mo-Fr 08:30-13:00,15:00-18:00; Sa 08:30-13:00"
+street: Saarstraße
+housenumber: "107"
+phone: +49 531 52340
+opening_hours: Mo-Fr 08:30-13:00,15:00-18:00; Sa 08:30-13:00
 website: ""

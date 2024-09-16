@@ -4,8 +4,8 @@ latitude: 53.0825
 longitude: 11.19492
 postcode: "29476"
 city: Gusborn
-street: "Alte Dorfstraße"
-housenumber: 27
-phone: "+49 5865 1087"
-opening_hours: "nach Vereinbarung"
+street: Alte Dorfstraße
+housenumber: "27"
+phone: +49 5865 1087
+opening_hours: '"nach Vereinbarung"'
 website: ""

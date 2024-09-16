@@ -1,11 +1,11 @@
 id: 195228571
-type: way
+type: node
 latitude: 52.7933
 longitude: 8.42408
 postcode: "49424"
 city: Goldenstedt
-street: "Bremer Straße"
-housenumber: 2
+street: Bremer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

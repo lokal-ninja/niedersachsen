@@ -1,11 +1,11 @@
 id: 244924750
-type: way
+type: node
 latitude: 53.24908
 longitude: 8.19118
 postcode: "26180"
 city: Rastede
-street: "Raiffeisenstraße"
-housenumber: 26
+street: Raiffeisenstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00;Sa 07:30-13:00"
+opening_hours: Tu-Fr 08:00-18:00;Sa 07:30-13:00
 website: ""

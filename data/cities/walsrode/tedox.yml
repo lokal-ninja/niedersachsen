@@ -1,11 +1,11 @@
 id: 114205836
-type: way
+type: node
 latitude: 52.89816
 longitude: 9.65812
 postcode: "29699"
 city: Walsrode
-street: "Walsroder Straße"
-housenumber: 42
-phone: "+49 5161 4096"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.tedox.de"
+street: Walsroder Straße
+housenumber: "42"
+phone: +49 5161 4096
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.tedox.de

@@ -1,11 +1,11 @@
 id: 233910705
-type: way
+type: node
 latitude: 51.55467
 longitude: 9.93349
 postcode: "37075"
 city: Göttingen
-street: "Rudolf-Diesel-Straße"
-housenumber: 14
+street: Rudolf-Diesel-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; PH off"
+opening_hours: Mo-Fr 08:00-17:30; PH off
 website: ""

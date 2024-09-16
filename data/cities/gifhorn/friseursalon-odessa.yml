@@ -1,11 +1,11 @@
 id: 151996716
-type: way
+type: node
 latitude: 52.48404
 longitude: 10.54838
 postcode: "38518"
 city: Gifhorn
-street: "Herzog-Franz-Straße"
-housenumber: 5
+street: Herzog-Franz-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

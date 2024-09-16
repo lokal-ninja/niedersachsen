@@ -4,8 +4,8 @@ latitude: 52.78217
 longitude: 7.99251
 postcode: "49688"
 city: Lastrup
-street: "Bahnhofstraße"
-housenumber: 61
+street: Bahnhofstraße
+housenumber: "61"
 phone: ""
-opening_hours: "unregelmäßig Öffnungszeiten"
+opening_hours: '"unregelmäßig Öffnungszeiten"'
 website: ""

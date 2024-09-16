@@ -1,11 +1,11 @@
 id: 93862621
-type: way
+type: node
 latitude: 52.30073
 longitude: 8.11071
 postcode: "49191"
 city: Belm
-street: "Weberstraße"
-housenumber: 3
+street: Weberstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

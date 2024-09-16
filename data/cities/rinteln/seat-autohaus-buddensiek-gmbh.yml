@@ -1,11 +1,11 @@
 id: 519669708
-type: way
+type: node
 latitude: 52.19671
 longitude: 9.0892
 postcode: "31737"
 city: Rinteln
-street: "Konrad-Adenauer-Straße"
-housenumber: 43
-phone: "+49 5751 76680"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:30-12:30"
-website: "https://buddensiek.seat.de/"
+street: Konrad-Adenauer-Straße
+housenumber: "43"
+phone: +49 5751 76680
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:30-12:30
+website: https://buddensiek.seat.de/

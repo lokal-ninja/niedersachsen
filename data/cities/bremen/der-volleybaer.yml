@@ -4,8 +4,8 @@ latitude: 53.02335
 longitude: 8.8632
 postcode: "28279"
 city: Bremen
-street: "Arster Heerstraße"
-housenumber: 212
-phone: "+49 421 831115"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-20:00"
-website: "https://www.volleybaer.de/"
+street: Arster Heerstraße
+housenumber: "212"
+phone: +49 421 831115
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-20:00
+website: https://www.volleybaer.de/

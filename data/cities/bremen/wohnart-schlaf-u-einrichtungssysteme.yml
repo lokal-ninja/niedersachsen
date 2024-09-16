@@ -1,11 +1,11 @@
 id: 315246050
-type: way
+type: node
 latitude: 53.09158
 longitude: 8.80741
 postcode: "28215"
 city: Bremen
-street: "Herbststraße"
-housenumber: 97
+street: Herbststraße
+housenumber: "97"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00; Su,PH off"
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00; Su,PH off
 website: ""

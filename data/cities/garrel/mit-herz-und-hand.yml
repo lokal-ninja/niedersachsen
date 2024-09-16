@@ -1,11 +1,12 @@
 id: 990936857
-type: way
+type: node
 latitude: 52.95521
 longitude: 8.01977
 postcode: "49681"
 city: Garrel
-street: "Petersfelder Straße"
-housenumber: 19
+street: Petersfelder Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo,Tu off; We 10:00-12:00; Th,Fr 15:00-18:00; Sa 10:00-12:00; Su,PH off"
+opening_hours: Mo,Tu off; We 10:00-12:00; Th,Fr 15:00-18:00; Sa 10:00-12:00; Su,PH
+    off
 website: ""

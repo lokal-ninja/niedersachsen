@@ -4,8 +4,8 @@ latitude: 52.98227
 longitude: 9.92567
 postcode: "29614"
 city: Soltau
-street: "Rahrsberg"
-housenumber: 7
-phone: "+49 5191 9793680"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hechter.com/de_DE"
+street: Rahrsberg
+housenumber: "7"
+phone: +49 5191 9793680
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.hechter.com/de_DE

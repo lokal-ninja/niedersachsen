@@ -4,8 +4,8 @@ latitude: 51.5345
 longitude: 9.93607
 postcode: "37073"
 city: Göttingen
-street: "Theaterstraße"
-housenumber: 4
+street: Theaterstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; PH off"
+opening_hours: Mo-Fr 09:30-19:00; PH off; Sa 09:30-18:00
 website: ""

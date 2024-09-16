@@ -4,8 +4,8 @@ latitude: 52.26359
 longitude: 10.51529
 postcode: "38100"
 city: Braunschweig
-street: "Scharrnstraße"
-housenumber: 
+street: Scharrnstraße
+housenumber: ""
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

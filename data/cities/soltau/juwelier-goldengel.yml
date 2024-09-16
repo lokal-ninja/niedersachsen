@@ -4,8 +4,8 @@ latitude: 52.9854
 longitude: 9.83994
 postcode: "29614"
 city: Soltau
-street: "Marktstraße"
-housenumber: 15
-phone: "+49 5191 9681112"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00; PH off"
+street: Marktstraße
+housenumber: "15"
+phone: +49 5191 9681112
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00; PH off
 website: ""

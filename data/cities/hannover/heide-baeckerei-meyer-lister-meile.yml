@@ -4,8 +4,8 @@ latitude: 52.38406
 longitude: 9.74674
 postcode: "30161"
 city: Hannover
-street: "Lister Meile"
-housenumber: 42
+street: Lister Meile
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:30"
-website: "https://www.baeckerei-meyer.de/filialen/filiale-hannover-lister-meile"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:30
+website: https://www.baeckerei-meyer.de/filialen/filiale-hannover-lister-meile

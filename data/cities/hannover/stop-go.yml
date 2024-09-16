@@ -1,11 +1,11 @@
 id: 55594973
-type: way
+type: node
 latitude: 52.34888
 longitude: 9.68886
 postcode: "30453"
 city: Hannover
-street: "Bornumer Straße"
-housenumber: 168
+street: Bornumer Straße
+housenumber: "168"
 phone: ""
 opening_hours: ""
 website: ""

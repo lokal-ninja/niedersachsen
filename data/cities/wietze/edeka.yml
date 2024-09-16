@@ -1,11 +1,11 @@
 id: 27429709
-type: way
+type: node
 latitude: 52.65218
 longitude: 9.83835
 postcode: "29323"
 city: Wietze
-street: "Bonifatiusstraße"
-housenumber: 10
+street: Bonifatiusstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 06:30-20:00"
+opening_hours: Mo-Sa 06:30-20:00
 website: ""

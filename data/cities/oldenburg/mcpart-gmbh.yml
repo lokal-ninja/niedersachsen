@@ -1,11 +1,11 @@
 id: 324067230
-type: way
+type: node
 latitude: 53.18934
 longitude: 8.22597
 postcode: "26125"
 city: Oldenburg
-street: "Wilhelmshavener Heerstraße"
-housenumber: 275
-phone: "+49 421 8302400"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "https://mcpart.de/filialen/oldenburg/"
+street: Wilhelmshavener Heerstraße
+housenumber: "275"
+phone: +49 421 8302400
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: https://mcpart.de/filialen/oldenburg/

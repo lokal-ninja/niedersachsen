@@ -4,8 +4,8 @@ latitude: 52.37064
 longitude: 10.73909
 postcode: "38444"
 city: Wolfsburg
-street: "Heinenkamp"
-housenumber: 1
+street: Heinenkamp
+housenumber: "1"
 phone: ""
-opening_hours: "07:00-17:00"
-website: "https://www.diemietwaesche.de/"
+opening_hours: 07:00-17:00
+website: https://www.diemietwaesche.de/

@@ -1,11 +1,11 @@
 id: 387620151
-type: way
+type: node
 latitude: 51.56009
 longitude: 9.92964
 postcode: "37077"
 city: Göttingen
-street: "Große Breite"
-housenumber: 4
+street: Große Breite
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
+opening_hours: Mo-Sa 10:00-19:00; PH off
 website: ""

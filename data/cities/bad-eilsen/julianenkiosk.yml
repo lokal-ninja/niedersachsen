@@ -1,11 +1,11 @@
 id: 518073002
-type: way
+type: node
 latitude: 52.24468
 longitude: 9.10094
 postcode: ""
 city: Bad Eilsen
-street: "Julianenstraße"
-housenumber: 2
+street: Julianenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr,Su 12:00-22:00, Sa 15:00-23:30"
+opening_hours: Mo,Tu,Th,Fr,Su 12:00-22:00, Sa 15:00-23:30
 website: ""

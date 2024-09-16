@@ -1,11 +1,11 @@
 id: 171632434
-type: way
+type: node
 latitude: 52.35548
 longitude: 9.7203
 postcode: "30449"
 city: Hannover
-street: "Ricklinger Straße"
-housenumber: 99
+street: Ricklinger Straße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

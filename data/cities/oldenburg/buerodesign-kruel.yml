@@ -1,11 +1,11 @@
 id: 35288023
-type: way
+type: node
 latitude: 53.14145
 longitude: 8.17017
 postcode: "26129"
 city: Oldenburg
-street: "Bloherfelder Straße"
+street: Bloherfelder Straße
 housenumber: 137c
-phone: "+49 441 57017 0"
-opening_hours: "Mo-Th 08:00-17:00, Fr 08:00-14:00"
-website: "https://www.bd-kruel.de/"
+phone: +49 441 57017 0
+opening_hours: Mo-Th 08:00-17:00, Fr 08:00-14:00
+website: https://www.bd-kruel.de/

@@ -4,8 +4,8 @@ latitude: 52.37515
 longitude: 9.739
 postcode: "30159"
 city: Hannover
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.footlocker.eu/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.footlocker.eu/

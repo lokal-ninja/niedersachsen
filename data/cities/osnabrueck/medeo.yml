@@ -1,11 +1,11 @@
 id: 35878639
-type: way
+type: node
 latitude: 52.29515
 longitude: 8.0664
 postcode: "49088"
 city: Osnabrück
-street: "Dammer Hof"
-housenumber: 14
+street: Dammer Hof
+housenumber: "14"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-18:00; We 09:00-20:00; Sa 09:00-14:00; Mo off"
+opening_hours: Tu,Th,Fr 09:00-18:00; We 09:00-20:00; Sa 09:00-14:00; Mo off
 website: ""

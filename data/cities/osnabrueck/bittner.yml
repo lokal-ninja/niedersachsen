@@ -1,11 +1,11 @@
 id: 202349168
-type: way
+type: node
 latitude: 52.28541
 longitude: 8.04233
 postcode: "49088"
 city: Osnabrück
-street: "Bramscher Straße"
-housenumber: 42
-phone: "+49 54164449"
-opening_hours: "Mo-Th 08:30-13:00,14:30-18:00; Fr 08:30-18:00; Sa 09:00-13:00"
+street: Bramscher Straße
+housenumber: "42"
+phone: +49 54164449
+opening_hours: Mo-Th 08:30-13:00,14:30-18:00; Fr 08:30-18:00; Sa 09:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.26731
 longitude: 8.05089
 postcode: "49074"
 city: Osnabrück
-street: "Johannistorwall"
-housenumber: 16
-phone: "+49 541 22051"
-opening_hours: "Tu-We,Fr 09:00-13:00,14:00-18:00; Th 09:00-13:00,14:00-16:30; Sa 09:00-12:30"
-website: "http://www.stefan-adam.de/"
+street: Johannistorwall
+housenumber: "16"
+phone: +49 541 22051
+opening_hours: Tu-We,Fr 09:00-13:00,14:00-18:00; Th 09:00-13:00,14:00-16:30; Sa 09:00-12:30
+website: http://www.stefan-adam.de/

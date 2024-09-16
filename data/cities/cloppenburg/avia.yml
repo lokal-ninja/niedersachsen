@@ -1,11 +1,11 @@
 id: 222034910
-type: way
+type: node
 latitude: 52.87438
 longitude: 8.09327
 postcode: "49661"
 city: Cloppenburg
-street: "Kellerhöher Straße"
-housenumber: 2
-phone: "+49 4471 2408"
-opening_hours: "Mo-Fr 06:30-19:30; Sa 07:30-19:30; Su 08:30-19:30"
-website: "https://www.avia.de/"
+street: Kellerhöher Straße
+housenumber: "2"
+phone: +49 4471 2408
+opening_hours: Mo-Fr 06:30-19:30; Sa 07:30-19:30; Su 08:30-19:30
+website: https://www.avia.de/

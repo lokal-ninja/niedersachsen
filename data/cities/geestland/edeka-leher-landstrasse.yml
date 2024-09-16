@@ -1,11 +1,11 @@
 id: 198643286
-type: way
+type: node
 latitude: 53.59588
 longitude: 8.59882
 postcode: "27607"
 city: Geestland
-street: "Leher Landstraße"
-housenumber: 94
+street: Leher Landstraße
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.94607
 longitude: 9.31352
 postcode: "27308"
 city: Kirchlinteln
-street: "Bahnhofstraße"
-housenumber: 6
-phone: "+49 4236 687"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://scholly.de/kirchlinteln"
+street: Bahnhofstraße
+housenumber: "6"
+phone: +49 4236 687
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://scholly.de/kirchlinteln

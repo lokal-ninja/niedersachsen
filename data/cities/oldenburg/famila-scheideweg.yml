@@ -1,11 +1,11 @@
 id: 31647634
-type: way
+type: node
 latitude: 53.16815
 longitude: 8.2148
 postcode: "26127"
 city: Oldenburg
-street: "Scheideweg"
-housenumber: 100
+street: Scheideweg
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su,PH off
 website: ""

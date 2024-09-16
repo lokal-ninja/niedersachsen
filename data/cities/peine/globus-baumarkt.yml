@@ -1,11 +1,11 @@
 id: 313838206
-type: way
+type: node
 latitude: 52.33856
 longitude: 10.25717
 postcode: "31228"
 city: Peine
-street: "Caroline-Herschel-Straße"
-housenumber: 7
-phone: "+49 5171 506730"
+street: Caroline-Herschel-Straße
+housenumber: "7"
+phone: +49 5171 506730
 opening_hours: ""
-website: "https://www.globus-baumarkt.de/"
+website: https://www.globus-baumarkt.de/

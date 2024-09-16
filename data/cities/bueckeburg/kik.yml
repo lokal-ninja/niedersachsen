@@ -1,11 +1,11 @@
 id: 97856264
-type: way
+type: node
 latitude: 52.26382
 longitude: 9.06667
 postcode: "31675"
 city: Bückeburg
-street: "Kreuzbreite"
+street: Kreuzbreite
 housenumber: 14b
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.kik-textilien.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.kik-textilien.de/

@@ -1,11 +1,11 @@
 id: 202007473
-type: way
+type: node
 latitude: 51.98956
 longitude: 10.27396
 postcode: "38729"
 city: Langelsheim
-street: "Frankfurter Straße"
-housenumber: 3
+street: Frankfurter Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

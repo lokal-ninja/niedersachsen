@@ -4,8 +4,8 @@ latitude: 51.7527
 longitude: 9.52039
 postcode: "37603"
 city: Holzminden
-street: "Am Wildenkiel"
-housenumber: 5
+street: Am Wildenkiel
+housenumber: "5"
 phone: ""
-opening_hours: "Tu 9:00-18:00; We 9:00-19:00; Fr 9:00-19:00"
-website: "https://www.hairundmeer.de/team-neuhaus/"
+opening_hours: Tu 9:00-18:00; We 9:00-19:00; Fr 9:00-19:00
+website: https://www.hairundmeer.de/team-neuhaus/

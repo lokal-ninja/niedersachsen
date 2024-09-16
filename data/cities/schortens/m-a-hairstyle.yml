@@ -4,8 +4,8 @@ latitude: 53.52318
 longitude: 8.03969
 postcode: "26419"
 city: Schortens
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 4421 70605"
-opening_hours: "Tu,Fr 08:00-18:00; We,Th 08:30-17:00; Sa 08:00-13:00"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 4421 70605
+opening_hours: Tu,Fr 08:00-18:00; We,Th 08:30-17:00; Sa 08:00-13:00
 website: ""

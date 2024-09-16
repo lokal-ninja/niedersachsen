@@ -1,11 +1,11 @@
 id: 28990494
-type: way
+type: node
 latitude: 53.02371
 longitude: 8.34487
 postcode: "26209"
 city: Hatten
-street: "Hauptstraße"
-housenumber: 37
+street: Hauptstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

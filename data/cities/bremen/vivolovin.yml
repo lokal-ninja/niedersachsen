@@ -4,8 +4,8 @@ latitude: 53.09346
 longitude: 8.81124
 postcode: "28215"
 city: Bremen
-street: "Neukirchstraße"
-housenumber: 41
+street: Neukirchstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Tu,Th 09:00-13:00; Sa 09:00-13:30"
-website: "http://www.vivolovin.de/"
+opening_hours: Tu,Th 09:00-13:00; Sa 09:00-13:30
+website: http://www.vivolovin.de/

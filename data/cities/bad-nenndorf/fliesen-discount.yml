@@ -1,11 +1,11 @@
 id: 798492335
-type: way
+type: node
 latitude: 52.33703
 longitude: 9.40015
 postcode: "31542"
 city: Bad Nenndorf
-street: "Auf dem Wachtlande"
-housenumber: 4
-phone: "+49 5723 740413"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.fliesendiscount.de/fliesenmaerkte/31542-bad-nenndorf/"
+street: Auf dem Wachtlande
+housenumber: "4"
+phone: +49 5723 740413
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.fliesendiscount.de/fliesenmaerkte/31542-bad-nenndorf/

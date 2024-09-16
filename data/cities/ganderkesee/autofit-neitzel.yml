@@ -4,8 +4,8 @@ latitude: 53.01887
 longitude: 8.57151
 postcode: "27777"
 city: Ganderkesee
-street: "Wildeshauser Landstraße"
-housenumber: 59
-phone: "+49 4222 1341"
-opening_hours: "Mo-Fr 08:00-12:30,13:30-17:15; Sa 09:00-12:30"
-website: "https://www.autofit-neitzel.de/"
+street: Wildeshauser Landstraße
+housenumber: "59"
+phone: +49 4222 1341
+opening_hours: Mo-Fr 08:00-12:30,13:30-17:15; Sa 09:00-12:30
+website: https://www.autofit-neitzel.de/

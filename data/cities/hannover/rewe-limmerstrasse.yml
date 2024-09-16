@@ -1,11 +1,11 @@
 id: 108457573
-type: way
+type: node
 latitude: 52.37196
 longitude: 9.71243
 postcode: "30451"
 city: Hannover
-street: "Limmerstraße"
-housenumber: 4
+street: Limmerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30; Su off"
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-23:30; Su off
 website: ""

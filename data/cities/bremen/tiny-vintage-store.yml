@@ -1,11 +1,11 @@
 id: 1300942213
-type: way
+type: node
 latitude: 53.17194
 longitude: 8.62044
 postcode: "28757"
 city: Bremen
-street: "Gerhard-Rohlfs-Straße"
-housenumber: 78
-phone: "+49 421 2064283"
-opening_hours: "on request"
+street: Gerhard-Rohlfs-Straße
+housenumber: "78"
+phone: +49 421 2064283
+opening_hours: on request
 website: ""

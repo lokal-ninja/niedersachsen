@@ -1,11 +1,11 @@
 id: 243921726
-type: way
+type: node
 latitude: 53.25033
 longitude: 8.19594
 postcode: "26180"
 city: Rastede
-street: "Oldenburger Straße"
-housenumber: 286
+street: Oldenburger Straße
+housenumber: "286"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 10:00-12:00"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 10:00-12:00
 website: ""

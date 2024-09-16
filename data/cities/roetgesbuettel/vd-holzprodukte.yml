@@ -4,8 +4,8 @@ latitude: 52.41569
 longitude: 10.53307
 postcode: "38531"
 city: Rötgesbüttel
-street: "Hauptstraße"
-housenumber: 18
+street: Hauptstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00; 14:30-18:00; Sa 10:00-15:00"
-website: "https://www.der-tischprofi.de/"
+opening_hours: Mo-Fr 10:00-12:00; 14:30-18:00; Sa 10:00-15:00
+website: https://www.der-tischprofi.de/

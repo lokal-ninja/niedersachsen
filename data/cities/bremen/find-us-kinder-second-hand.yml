@@ -4,8 +4,8 @@ latitude: 53.09362
 longitude: 8.80488
 postcode: "28215"
 city: Bremen
-street: "Hemmstraße"
-housenumber: 152
-phone: "+49 421 371022"
-opening_hours: "Mo 10:00-13:00,15:00-18:00; Tu 10:00-13:00; We 15:00-18:00; Th,Fr 10:00-13:00"
-website: "https://www.cei-bremen.de/find-us-second-hand-laden/"
+street: Hemmstraße
+housenumber: "152"
+phone: +49 421 371022
+opening_hours: Mo 10:00-13:00,15:00-18:00; Tu 10:00-13:00; We 15:00-18:00; Th,Fr 10:00-13:00
+website: https://www.cei-bremen.de/find-us-second-hand-laden/

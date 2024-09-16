@@ -1,11 +1,11 @@
 id: 243545013
-type: way
+type: node
 latitude: 53.04698
 longitude: 8.89371
 postcode: "28309"
 city: Bremen
-street: "Hemelinger Heerstraße"
-housenumber: 17
-phone: "+49 421 41797-0"
-opening_hours: "Mo-Th 7:00-17:00; Fr 7:00-16:00"
-website: "https://www.bergmann-werkzeug.de/"
+street: Hemelinger Heerstraße
+housenumber: "17"
+phone: +49 421 41797-0
+opening_hours: Mo-Th 7:00-17:00; Fr 7:00-16:00
+website: https://www.bergmann-werkzeug.de/

@@ -1,11 +1,11 @@
 id: 87449814
-type: way
+type: node
 latitude: 53.11294
 longitude: 8.264
 postcode: "26135"
 city: Oldenburg
-street: "Bremer Heerstraße"
-housenumber: 400
-phone: "+49 441 9207710"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://www.wandscher-gruppe.de/"
+street: Bremer Heerstraße
+housenumber: "400"
+phone: +49 441 9207710
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://www.wandscher-gruppe.de/

@@ -1,11 +1,11 @@
 id: 355297120
-type: way
+type: node
 latitude: 52.04023
 longitude: 9.25584
 postcode: "31855"
 city: Aerzen
-street: "Blankschmiede"
-housenumber: 3
+street: Blankschmiede
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We 07:00-21:00; Th-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-We 07:00-21:00; Th-Sa 07:00-22:00; Su,PH off
 website: ""

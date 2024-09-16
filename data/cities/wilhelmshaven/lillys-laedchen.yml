@@ -1,11 +1,11 @@
 id: 512648534
-type: way
+type: node
 latitude: 53.52492
 longitude: 8.10497
 postcode: "26382"
 city: Wilhelmshaven
-street: "Bremer Straße"
-housenumber: 107
+street: Bremer Straße
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

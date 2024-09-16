@@ -1,11 +1,11 @@
 id: 507024808
-type: way
+type: node
 latitude: 52.69259
 longitude: 8.94859
 postcode: "27254"
 city: Siedenburg
-street: "Speckenstraße"
-housenumber: 29
-phone: "+49 4272 9648001"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://velomobil.eu/"
+street: Speckenstraße
+housenumber: "29"
+phone: +49 4272 9648001
+opening_hours: Mo-Fr 10:00-18:00
+website: https://velomobil.eu/

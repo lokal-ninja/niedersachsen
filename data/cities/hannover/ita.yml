@@ -1,11 +1,11 @@
 id: 206105612
-type: way
+type: node
 latitude: 52.40944
 longitude: 9.80039
 postcode: "30659"
 city: Hannover
-street: "Adolf-Emmelmann-Straße"
-housenumber: 5
-phone: "+49 511 628111"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.fernreise.de"
+street: Adolf-Emmelmann-Straße
+housenumber: "5"
+phone: +49 511 628111
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.fernreise.de

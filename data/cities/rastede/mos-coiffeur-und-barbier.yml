@@ -1,11 +1,11 @@
 id: 243837306
-type: way
+type: node
 latitude: 53.24735
 longitude: 8.19766
 postcode: "26180"
 city: Rastede
-street: "Anton-Günther-Straße"
-housenumber: 1
-phone: "+49 4402 9646805"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-16:00"
+street: Anton-Günther-Straße
+housenumber: "1"
+phone: +49 4402 9646805
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

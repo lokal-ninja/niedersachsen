@@ -1,11 +1,11 @@
 id: 33144509
-type: way
+type: node
 latitude: 52.30738
 longitude: 10.51885
 postcode: "38112"
 city: Braunschweig
-street: "Eichenstieg"
-housenumber: 3
+street: Eichenstieg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

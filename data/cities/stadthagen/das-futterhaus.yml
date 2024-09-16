@@ -1,11 +1,11 @@
 id: 267102601
-type: way
+type: node
 latitude: 52.31061
 longitude: 9.19069
 postcode: "31655"
 city: Stadthagen
-street: "Jahnstraße"
-housenumber: 28
+street: Jahnstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Sa 09:00-16:00; Mo-Fr 08:00-18:00"
-website: "https://www.futterhaus.de/mein-futterhaus/filialen/stadthagen/"
+opening_hours: Sa 09:00-16:00; Mo-Fr 08:00-18:00
+website: https://www.futterhaus.de/mein-futterhaus/filialen/stadthagen/

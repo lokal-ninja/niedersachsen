@@ -1,11 +1,11 @@
 id: 738082386
-type: way
+type: node
 latitude: 52.19731
 longitude: 9.08527
 postcode: "31737"
 city: Rinteln
-street: "Im Emerten"
-housenumber: 10
+street: Im Emerten
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

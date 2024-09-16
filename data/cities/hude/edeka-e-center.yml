@@ -1,11 +1,11 @@
 id: 259882105
-type: way
+type: node
 latitude: 53.11169
 longitude: 8.44991
 postcode: "27798"
 city: Hude
-street: "Burgstraße"
-housenumber: 2
+street: Burgstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

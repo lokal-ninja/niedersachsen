@@ -1,11 +1,11 @@
 id: 90298404
-type: way
+type: node
 latitude: 53.52441
 longitude: 8.07254
 postcode: "26389"
 city: Wilhelmshaven
-street: "An der Junkerei"
-housenumber: 26
+street: An der Junkerei
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su off
 website: ""

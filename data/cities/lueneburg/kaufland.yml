@@ -1,11 +1,11 @@
 id: 26693354
-type: way
+type: node
 latitude: 53.27399
 longitude: 10.40449
 postcode: "21339"
 city: Lüneburg
-street: "Boecklerstraße"
-housenumber: 7
-phone: "+49 4131 409010"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Boecklerstraße
+housenumber: "7"
+phone: +49 4131 409010
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

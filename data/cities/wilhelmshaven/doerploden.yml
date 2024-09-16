@@ -4,8 +4,9 @@ latitude: 53.56298
 longitude: 8.04347
 postcode: "26388"
 city: Wilhelmshaven
-street: "Poststraße"
-housenumber: 38
+street: Poststraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00, 15:00-18:00; Sa 07:00-12:00, 14:00-17:00; Su,PH 08:00-10:00, 14:00-17:00"
+opening_hours: Mo-Fr 06:00-12:00, 15:00-18:00; Sa 07:00-12:00, 14:00-17:00; Su,PH
+    08:00-10:00, 14:00-17:00
 website: ""

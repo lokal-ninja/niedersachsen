@@ -1,11 +1,11 @@
 id: 27007404
-type: way
+type: node
 latitude: 52.1604
 longitude: 9.93761
 postcode: "31137"
 city: Hildesheim
-street: "Römerring"
-housenumber: 90
+street: Römerring
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

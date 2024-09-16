@@ -1,11 +1,11 @@
 id: 170647023
-type: way
+type: node
 latitude: 52.79178
 longitude: 8.63158
 postcode: "27239"
 city: Twistringen
-street: "Lindenstraße"
-housenumber: 83
+street: Lindenstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su off"
-website: "http://www.kik-textilien.com/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su off
+website: http://www.kik-textilien.com/

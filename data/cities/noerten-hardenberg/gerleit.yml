@@ -1,11 +1,11 @@
 id: 230248266
-type: way
+type: node
 latitude: 51.62919
 longitude: 9.93591
 postcode: "37176"
 city: Nörten-Hardenberg
-street: "Göttinger Straße"
-housenumber: 70
+street: Göttinger Straße
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

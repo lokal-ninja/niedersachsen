@@ -1,11 +1,11 @@
 id: 712058746
-type: way
+type: node
 latitude: 52.38822
 longitude: 9.73779
 postcode: "30161"
 city: Hannover
-street: "Isernhagener Straße"
-housenumber: 18
+street: Isernhagener Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

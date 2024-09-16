@@ -1,11 +1,11 @@
 id: 1199948148
-type: way
+type: node
 latitude: 51.68738
 longitude: 9.98592
 postcode: "37154"
 city: Northeim
-street: "Hillerser Straße"
-housenumber: 10
+street: Hillerser Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00; PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00; PH off
 website: ""

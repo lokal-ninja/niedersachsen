@@ -1,11 +1,11 @@
 id: 24674150
-type: way
+type: node
 latitude: 53.18039
 longitude: 8.70757
 postcode: "27721"
 city: Ritterhude
-street: "Rosenhügel"
-housenumber: 5
+street: Rosenhügel
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.kaufland.com/"
+website: https://www.kaufland.com/

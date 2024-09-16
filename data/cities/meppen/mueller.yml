@@ -4,8 +4,8 @@ latitude: 52.69305
 longitude: 7.29112
 postcode: "49716"
 city: Meppen
-street: "Hasestraße"
-housenumber: 8
+street: Hasestraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.mueller.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.mueller.de/

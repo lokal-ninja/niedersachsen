@@ -4,8 +4,8 @@ latitude: 52.6237
 longitude: 10.08253
 postcode: "29221"
 city: Celle
-street: "Mauernstraße"
-housenumber: 3
-phone: "+49 5141 207020"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://augen-weide.de/"
+street: Mauernstraße
+housenumber: "3"
+phone: +49 5141 207020
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://augen-weide.de/

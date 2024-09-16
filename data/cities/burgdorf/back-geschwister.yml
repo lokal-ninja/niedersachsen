@@ -1,11 +1,11 @@
 id: 342904485
-type: way
+type: node
 latitude: 52.44643
 longitude: 10.00736
 postcode: "31303"
 city: Burgdorf
-street: "Marktstraße"
-housenumber: 10
-phone: "+49 5136 9771220"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su 08:00-12:00"
+street: Marktstraße
+housenumber: "10"
+phone: +49 5136 9771220
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su 08:00-12:00
 website: ""

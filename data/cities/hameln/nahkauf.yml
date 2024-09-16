@@ -4,8 +4,8 @@ latitude: 52.10613
 longitude: 9.35975
 postcode: "31785"
 city: Hameln
-street: "Kastanienwall"
-housenumber: 36
+street: Kastanienwall
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://rewe.de"
+opening_hours: Mo-Su 07:00-21:00
+website: https://rewe.de

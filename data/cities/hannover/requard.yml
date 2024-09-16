@@ -4,8 +4,8 @@ latitude: 52.32932
 longitude: 9.68941
 postcode: "30457"
 city: Hannover
-street: "Bürgermeister-Stümpel-Weg"
-housenumber: 1
-phone: "+49 511 463296"
-opening_hours: "Mo-We 08:00-18:00; Th-Fr 08:00-19:00"
-website: "https://www.requard.de/"
+street: Bürgermeister-Stümpel-Weg
+housenumber: "1"
+phone: +49 511 463296
+opening_hours: Mo-We 08:00-18:00; Th-Fr 08:00-19:00
+website: https://www.requard.de/

@@ -1,11 +1,11 @@
 id: 228975301
-type: way
+type: node
 latitude: 52.35693
 longitude: 10.43047
 postcode: "38179"
 city: Schwülper
-street: "Schloßstraße"
+street: Schloßstraße
 housenumber: 17a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.holab.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.holab.de

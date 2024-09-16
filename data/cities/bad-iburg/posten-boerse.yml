@@ -1,11 +1,11 @@
 id: 269065122
-type: way
+type: node
 latitude: 52.16304
 longitude: 8.04907
 postcode: "49186"
 city: Bad Iburg
-street: "Osnabrücker Straße"
+street: Osnabrücker Straße
 housenumber: 29a
-phone: "+49 5403 7815234"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.posten-boerse.de/"
+phone: +49 5403 7815234
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.posten-boerse.de/

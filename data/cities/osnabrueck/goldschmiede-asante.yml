@@ -4,8 +4,8 @@ latitude: 52.27433
 longitude: 8.0216
 postcode: "49078"
 city: Osnabrück
-street: "Lotter Straße"
-housenumber: 80
-phone: "+49 541 40 822 40"
-opening_hours: "Mo-We 10:00-13:00,14:30-18:30; Th,Fr 14:30-18:30; Sa 10:00-13:00"
-website: "https://www.goldschmiede-asante.de/"
+street: Lotter Straße
+housenumber: "80"
+phone: +49 541 40 822 40
+opening_hours: Mo-We 10:00-13:00,14:30-18:30; Th,Fr 14:30-18:30; Sa 10:00-13:00
+website: https://www.goldschmiede-asante.de/

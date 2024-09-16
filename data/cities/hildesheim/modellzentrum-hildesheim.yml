@@ -1,11 +1,11 @@
 id: 147912486
-type: way
+type: node
 latitude: 52.17706
 longitude: 9.96406
 postcode: "31135"
 city: Hildesheim
-street: "Peiner Landstraße"
-housenumber: 213
+street: Peiner Landstraße
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

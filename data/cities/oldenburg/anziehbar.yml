@@ -4,8 +4,8 @@ latitude: 53.14684
 longitude: 8.20953
 postcode: "26121"
 city: Oldenburg
-street: "Ziegelhofstraße"
-housenumber: 11
-phone: "+49 441 81178"
-opening_hours: "Mo-Fr 11:00-13:00,14:30-18:00; Sa 11:00-14:00"
-website: "https://second-hand-anziehbar.edan.io"
+street: Ziegelhofstraße
+housenumber: "11"
+phone: +49 441 81178
+opening_hours: Mo-Fr 11:00-13:00,14:30-18:00; Sa 11:00-14:00
+website: https://second-hand-anziehbar.edan.io

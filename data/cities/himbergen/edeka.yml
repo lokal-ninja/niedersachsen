@@ -4,8 +4,8 @@ latitude: 53.08963
 longitude: 10.73137
 postcode: "29584"
 city: Himbergen
-street: "Bahnhofstraße"
-housenumber: 24
-phone: "+49 5828 216"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
-website: "https://www.edeka.de/eh/nord/e-aktiv-markt-schwabe-bahnhofstr.-24/index.jsp"
+street: Bahnhofstraße
+housenumber: "24"
+phone: +49 5828 216
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
+website: https://www.edeka.de/eh/nord/e-aktiv-markt-schwabe-bahnhofstr.-24/index.jsp

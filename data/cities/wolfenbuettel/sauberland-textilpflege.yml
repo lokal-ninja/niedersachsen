@@ -4,8 +4,8 @@ latitude: 52.16276
 longitude: 10.5334
 postcode: "38300"
 city: Wolfenbüttel
-street: "Krambuden"
-housenumber: 10
-phone: "+9 5331 56 04"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 09:00-14:00"
-website: "https://www.sauberland-wf.de/"
+street: Krambuden
+housenumber: "10"
+phone: +9 5331 56 04
+opening_hours: Mo-Fr 07:30-18:30; Sa 09:00-14:00
+website: https://www.sauberland-wf.de/

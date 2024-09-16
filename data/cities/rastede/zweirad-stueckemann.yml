@@ -1,11 +1,11 @@
 id: 266337014
-type: way
+type: node
 latitude: 53.22812
 longitude: 8.21245
 postcode: "26180"
 city: Rastede
-street: "Oldenburger Straße"
-housenumber: 76
-phone: "+49 4402 9250-0"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.stueckemann.de/"
+street: Oldenburger Straße
+housenumber: "76"
+phone: +49 4402 9250-0
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.stueckemann.de/

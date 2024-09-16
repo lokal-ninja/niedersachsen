@@ -4,8 +4,8 @@ latitude: 52.38083
 longitude: 9.86247
 postcode: "30629"
 city: Hannover
-street: "Anderter Straße"
-housenumber: 79
-phone: "+49 511 5865722"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.pitstop.de/"
+street: Anderter Straße
+housenumber: "79"
+phone: +49 511 5865722
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.pitstop.de/

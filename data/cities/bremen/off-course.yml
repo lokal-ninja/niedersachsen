@@ -4,8 +4,8 @@ latitude: 53.07312
 longitude: 8.82167
 postcode: "28203"
 city: Bremen
-street: "Bauernstraße"
-housenumber: 8
+street: Bauernstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00
 website: ""

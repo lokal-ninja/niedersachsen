@@ -1,11 +1,11 @@
 id: 276671733
-type: way
+type: node
 latitude: 53.25724
 longitude: 7.92625
 postcode: "26655"
 city: Westerstede
-street: "Lange Straße"
-housenumber: 4
+street: Lange Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

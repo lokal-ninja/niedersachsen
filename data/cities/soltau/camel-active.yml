@@ -4,8 +4,8 @@ latitude: 52.98215
 longitude: 9.92456
 postcode: "29614"
 city: Soltau
-street: "Rahrsberg"
-housenumber: 7
-phone: "+49 5191 9790844"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.camelactive.de/"
+street: Rahrsberg
+housenumber: "7"
+phone: +49 5191 9790844
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.camelactive.de/

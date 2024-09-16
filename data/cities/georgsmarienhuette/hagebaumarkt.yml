@@ -1,11 +1,11 @@
 id: 98339528
-type: way
+type: node
 latitude: 52.2187
 longitude: 8.06523
 postcode: "49124"
 city: Georgsmarienhütte
-street: "Bremer Straße"
-housenumber: 1
+street: Bremer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.25597
 longitude: 10.51104
 postcode: "38118"
 city: Braunschweig
-street: "Luisenstraße"
-housenumber: 1
-phone: "+49 531 6128671"
-opening_hours: "Mo-Fr 09:30-15:00; Sa 10:00-14:00"
+street: Luisenstraße
+housenumber: "1"
+phone: +49 531 6128671
+opening_hours: Mo-Fr 09:30-15:00; Sa 10:00-14:00
 website: ""

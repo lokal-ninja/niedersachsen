@@ -1,11 +1,11 @@
 id: 582690308
-type: way
+type: node
 latitude: 52.87906
 longitude: 8.37695
 postcode: "27793"
 city: Wildeshausen
-street: "Holzhausen"
-housenumber: 9
+street: Holzhausen
+housenumber: "9"
 phone: ""
-opening_hours: "Apr-Jun 09:00-12:00, 14:00-18:00"
+opening_hours: Apr-Jun 09:00-12:00, 14:00-18:00
 website: ""

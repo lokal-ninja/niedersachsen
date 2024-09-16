@@ -4,8 +4,8 @@ latitude: 53.39405
 longitude: 8.13766
 postcode: "26316"
 city: Varel
-street: "Neue Straße"
-housenumber: 19
+street: Neue Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.ewe.de"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.ewe.de

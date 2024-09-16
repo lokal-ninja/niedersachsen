@@ -4,8 +4,8 @@ latitude: 52.37488
 longitude: 9.73865
 postcode: "30159"
 city: Hannover
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hugendubel.de"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.hugendubel.de

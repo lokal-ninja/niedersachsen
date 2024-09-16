@@ -1,11 +1,11 @@
 id: 125005481
-type: way
+type: node
 latitude: 52.34063
 longitude: 10.35936
 postcode: "38176"
 city: Wendeburg
-street: "Zweidorfer Holz Nord"
-housenumber: 
-phone: "+49 5303990110"
-opening_hours: "24/7"
-website: "https://www.shell.de/"
+street: Zweidorfer Holz Nord
+housenumber: ""
+phone: +49 5303990110
+opening_hours: 24/7
+website: https://www.shell.de/

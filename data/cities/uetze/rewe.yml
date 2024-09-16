@@ -1,11 +1,11 @@
 id: 88886559
-type: way
+type: node
 latitude: 52.46342
 longitude: 10.19645
 postcode: "31311"
 city: Uetze
-street: "Burgdorfer Straße"
-housenumber: 23
-phone: "+49 5173 92113"
-opening_hours: "Mo-Sa 7:00-22:00"
-website: "https://www.rewe.de/mein-markt/4662"
+street: Burgdorfer Straße
+housenumber: "23"
+phone: +49 5173 92113
+opening_hours: Mo-Sa 7:00-22:00
+website: https://www.rewe.de/mein-markt/4662

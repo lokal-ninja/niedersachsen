@@ -1,11 +1,11 @@
 id: 34584835
-type: way
+type: node
 latitude: 53.14046
 longitude: 8.216
 postcode: "26122"
 city: Oldenburg
-street: "Staustraße"
-housenumber: 13
+street: Staustraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

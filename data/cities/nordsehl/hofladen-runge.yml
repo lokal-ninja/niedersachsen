@@ -4,8 +4,8 @@ latitude: 52.35726
 longitude: 9.18309
 postcode: "31717"
 city: Nordsehl
-street: "Landstraße"
-housenumber: 78
-phone: "+49 5721 82285"
-opening_hours: "Fr 09:00-18:00"
-website: "https://neuland-hof.de/"
+street: Landstraße
+housenumber: "78"
+phone: +49 5721 82285
+opening_hours: Fr 09:00-18:00
+website: https://neuland-hof.de/

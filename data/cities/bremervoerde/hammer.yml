@@ -1,11 +1,11 @@
 id: 89811725
-type: way
+type: node
 latitude: 53.49834
 longitude: 9.1075
 postcode: "27432"
 city: Bremervörde
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
+street: Rudolf-Diesel-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.26358
 longitude: 8.05487
 postcode: "49082"
 city: Osnabrück
-street: "Wörthstraße"
-housenumber: 64
+street: Wörthstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00"
-website: "http://www.lifestyle-badsanierung.de/baederstudios"
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00
+website: http://www.lifestyle-badsanierung.de/baederstudios

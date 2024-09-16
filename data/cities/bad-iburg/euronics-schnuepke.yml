@@ -1,11 +1,11 @@
 id: 269066311
-type: way
+type: node
 latitude: 52.15963
 longitude: 8.04802
 postcode: "49186"
 city: Bad Iburg
-street: "Osnabrücker Straße"
-housenumber: 14
-phone: "+49 5403 73760"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00"
-website: "https://www.euronics.de/bad-iburg-schnuepke"
+street: Osnabrücker Straße
+housenumber: "14"
+phone: +49 5403 73760
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00
+website: https://www.euronics.de/bad-iburg-schnuepke

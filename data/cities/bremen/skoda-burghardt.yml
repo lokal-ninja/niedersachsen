@@ -4,8 +4,8 @@ latitude: 53.10692
 longitude: 8.87889
 postcode: "28357"
 city: Bremen
-street: "Haferwende"
-housenumber: 45
+street: Haferwende
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://autoburghardt.skoda-auto.de/"
+website: https://autoburghardt.skoda-auto.de/

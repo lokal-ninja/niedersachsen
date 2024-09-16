@@ -4,8 +4,8 @@ latitude: 52.78236
 longitude: 8.2586
 postcode: "49377"
 city: Vechta
-street: "Hauptstraße"
-housenumber: 18
+street: Hauptstraße
+housenumber: "18"
 phone: "+4944478114582"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 07:00-11:00"
-website: "https://behrens-meyer.de/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 07:00-11:00
+website: https://behrens-meyer.de/

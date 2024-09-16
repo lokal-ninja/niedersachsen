@@ -1,11 +1,11 @@
 id: 269505792
-type: way
+type: node
 latitude: 52.33252
 longitude: 10.2641
 postcode: "31224"
 city: Peine
-street: "Sudetenstraße"
-housenumber: 45
+street: Sudetenstraße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

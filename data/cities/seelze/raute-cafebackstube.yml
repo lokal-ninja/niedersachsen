@@ -4,8 +4,8 @@ latitude: 52.39699
 longitude: 9.64027
 postcode: "30926"
 city: Seelze
-street: "Lange-Feld-Straße"
-housenumber: 22
+street: Lange-Feld-Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:30-17:00"
-website: "https://www.baeckerei-raute.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:30-17:00
+website: https://www.baeckerei-raute.de/

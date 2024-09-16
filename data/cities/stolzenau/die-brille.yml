@@ -1,11 +1,11 @@
 id: 221825883
-type: way
+type: node
 latitude: 52.51056
 longitude: 9.07491
 postcode: "31592"
 city: Stolzenau
-street: "Lange Straße"
-housenumber: 17
-phone: "+49 5761 3737"
+street: Lange Straße
+housenumber: "17"
+phone: +49 5761 3737
 opening_hours: ""
-website: "https://diebrille-nienburg.de/"
+website: https://diebrille-nienburg.de/

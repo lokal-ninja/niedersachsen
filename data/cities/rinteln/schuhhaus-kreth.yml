@@ -1,11 +1,11 @@
 id: 365253751
-type: way
+type: node
 latitude: 52.18652
 longitude: 9.07989
 postcode: "31737"
 city: Rinteln
-street: "Weserstraße"
-housenumber: 39
-phone: "+49 5751 9245110"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.schuhhaus-kreth.de/"
+street: Weserstraße
+housenumber: "39"
+phone: +49 5751 9245110
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.schuhhaus-kreth.de/

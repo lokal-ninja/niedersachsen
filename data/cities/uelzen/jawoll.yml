@@ -1,11 +1,11 @@
 id: 224626247
-type: way
+type: node
 latitude: 52.98735
 longitude: 10.54524
 postcode: "29525"
 city: Uelzen
-street: "Fischerhofstraße"
-housenumber: 2
+street: Fischerhofstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

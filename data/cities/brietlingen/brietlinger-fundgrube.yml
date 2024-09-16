@@ -1,11 +1,11 @@
 id: 230350112
-type: way
+type: node
 latitude: 53.33192
 longitude: 10.44664
 postcode: "21382"
 city: Brietlingen
-street: "Bundesstraße"
-housenumber: 14
-phone: "+49 4133 4423"
+street: Bundesstraße
+housenumber: "14"
+phone: +49 4133 4423
 opening_hours: ""
-website: "http://www.brietlinger-fundgrube.de"
+website: http://www.brietlinger-fundgrube.de

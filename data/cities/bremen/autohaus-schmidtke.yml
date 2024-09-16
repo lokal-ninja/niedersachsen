@@ -1,11 +1,11 @@
 id: 27323780
-type: way
+type: node
 latitude: 53.04895
 longitude: 8.84596
 postcode: "28279"
 city: Bremen
-street: "Fritz-Thiele-Straße"
-housenumber: 23
+street: Fritz-Thiele-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 10:00-13:00
 website: ""

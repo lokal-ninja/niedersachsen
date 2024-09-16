@@ -4,8 +4,8 @@ latitude: 52.4395
 longitude: 9.74039
 postcode: "30853"
 city: Langenhagen
-street: "Marktplatz"
-housenumber: 3
-phone: "+49(0)511 733821"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-16:00"
-website: "https://haase-ihr-modespezialist.de/"
+street: Marktplatz
+housenumber: "3"
+phone: +49(0)511 733821
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-16:00
+website: https://haase-ihr-modespezialist.de/

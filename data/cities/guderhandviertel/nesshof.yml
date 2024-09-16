@@ -1,11 +1,11 @@
 id: 60740287
-type: way
+type: node
 latitude: 53.54256
 longitude: 9.61309
 postcode: "21720"
 city: Guderhandviertel
-street: "Nesshof"
-housenumber: 
+street: Nesshof
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

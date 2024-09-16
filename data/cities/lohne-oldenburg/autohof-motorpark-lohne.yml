@@ -1,11 +1,11 @@
 id: 348708965
-type: way
+type: node
 latitude: 52.65877
 longitude: 8.16691
 postcode: "49393"
 city: Lohne (Oldenburg)
-street: "Von-Siemens-Straße"
-housenumber: 1
+street: Von-Siemens-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

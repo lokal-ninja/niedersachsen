@@ -1,11 +1,11 @@
 id: 129822776
-type: way
+type: node
 latitude: 52.2504
 longitude: 9.85995
 postcode: "31157"
 city: Sarstedt
-street: "Wiedemannstraße"
-housenumber: 3
+street: Wiedemannstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00; Sa 09:00-16:00"
-website: "https://www.notebooksbilliger.de/"
+opening_hours: Mo-Fr 11:00-20:00; Sa 09:00-16:00
+website: https://www.notebooksbilliger.de/

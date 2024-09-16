@@ -1,11 +1,11 @@
 id: 89985826
-type: way
+type: node
 latitude: 52.46429
 longitude: 10.2031
 postcode: "31311"
 city: Uetze
-street: "Kaiserstraße"
-housenumber: 2
+street: Kaiserstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:30; Sa 9:00-14:00"
+opening_hours: Mo-Fr 9:00-18:30; Sa 9:00-14:00
 website: ""

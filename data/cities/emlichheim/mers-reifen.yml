@@ -1,11 +1,11 @@
 id: 621953008
-type: way
+type: node
 latitude: 52.61581
 longitude: 6.8554
 postcode: "49824"
 city: Emlichheim
-street: "Westersand"
-housenumber: 13
+street: Westersand
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

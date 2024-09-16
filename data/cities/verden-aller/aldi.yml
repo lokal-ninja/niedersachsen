@@ -1,11 +1,11 @@
 id: 113502167
-type: way
+type: node
 latitude: 52.91392
 longitude: 9.25421
 postcode: "27283"
 city: Verden (Aller)
-street: "Max-Planck-Straße"
-housenumber: 3
+street: Max-Planck-Straße
+housenumber: "3"
 phone: ""
 opening_hours: "off"
 website: ""

@@ -1,11 +1,11 @@
 id: 116490711
-type: way
+type: node
 latitude: 53.46944
 longitude: 7.47912
 postcode: "26603"
 city: Aurich
-street: "Burgstraße"
-housenumber: 38
+street: Burgstraße
+housenumber: "38"
 phone: "+4949419746766"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-16:00
 website: ""

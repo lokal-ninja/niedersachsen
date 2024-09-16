@@ -4,8 +4,8 @@ latitude: 53.15599
 longitude: 8.20245
 postcode: "26121"
 city: Oldenburg
-street: "Melkbrink"
-housenumber: 61
-phone: "+49 441 40576020"
-opening_hours: "Tu-Fr 14:00-17:00; Sa 12:00-16:00"
-website: "http://pc-wittfoot.de/"
+street: Melkbrink
+housenumber: "61"
+phone: +49 441 40576020
+opening_hours: Tu-Fr 14:00-17:00; Sa 12:00-16:00
+website: http://pc-wittfoot.de/

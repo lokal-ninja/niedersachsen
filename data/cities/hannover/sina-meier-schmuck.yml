@@ -4,8 +4,8 @@ latitude: 52.39014
 longitude: 9.74071
 postcode: "30161"
 city: Hannover
-street: "Goebenstraße"
-housenumber: 42
+street: Goebenstraße
+housenumber: "42"
 phone: "+491707485576"
 opening_hours: ""
-website: "https://sinameier.com/"
+website: https://sinameier.com/

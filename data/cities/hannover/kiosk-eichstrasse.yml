@@ -4,8 +4,8 @@ latitude: 52.38188
 longitude: 9.74981
 postcode: "30161"
 city: Hannover
-street: "Eichstraße"
-housenumber: 50
+street: Eichstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 07:00-13:30,16:00-23:00; Sa,Su 08:00-23:00"
+opening_hours: Mo-Fr 07:00-13:30,16:00-23:00; Sa,Su 08:00-23:00
 website: ""

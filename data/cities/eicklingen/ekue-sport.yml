@@ -1,11 +1,11 @@
 id: 309680696
-type: way
+type: node
 latitude: 52.54361
 longitude: 10.19367
 postcode: "29358"
 city: Eicklingen
-street: "Josef-Ressel-Straße"
-housenumber: 1
-phone: "+49 5144 6988900"
+street: Josef-Ressel-Straße
+housenumber: "1"
+phone: +49 5144 6988900
 opening_hours: ""
-website: "https://www.ekue-sport.de"
+website: https://www.ekue-sport.de

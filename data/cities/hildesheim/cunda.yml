@@ -4,8 +4,8 @@ latitude: 52.15058
 longitude: 9.95242
 postcode: "31134"
 city: Hildesheim
-street: "Schuhstraße"
-housenumber: 42
-phone: "+49 5121 39498"
-opening_hours: "Mo-Sa 09:30-18:30"
-website: "https://www.c-and-a.com/"
+street: Schuhstraße
+housenumber: "42"
+phone: +49 5121 39498
+opening_hours: Mo-Sa 09:30-18:30
+website: https://www.c-and-a.com/

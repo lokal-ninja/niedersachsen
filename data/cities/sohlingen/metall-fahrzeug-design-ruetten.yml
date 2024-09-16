@@ -1,11 +1,11 @@
 id: 846685306
-type: way
+type: node
 latitude: 51.67029
 longitude: 9.59796
 postcode: "37170"
 city: Sohlingen
-street: "Uslarer Straße"
-housenumber: 5
-phone: "+495571 2128"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Uslarer Straße
+housenumber: "5"
+phone: +495571 2128
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

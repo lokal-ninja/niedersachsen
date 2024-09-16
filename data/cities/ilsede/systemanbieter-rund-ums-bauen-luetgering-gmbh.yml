@@ -1,11 +1,11 @@
 id: 454489255
-type: way
+type: node
 latitude: 52.25586
 longitude: 10.24947
 postcode: "31246"
 city: Ilsede
-street: "Kirchstraße"
-housenumber: 4
-phone: "+49 5172 4033"
+street: Kirchstraße
+housenumber: "4"
+phone: +49 5172 4033
 opening_hours: ""
-website: "https://www.luetgering.de/"
+website: https://www.luetgering.de/

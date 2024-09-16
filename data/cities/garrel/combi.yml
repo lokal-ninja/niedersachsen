@@ -1,11 +1,11 @@
 id: 503660167
-type: way
+type: node
 latitude: 52.96237
 longitude: 8.02832
 postcode: "49681"
 city: Garrel
-street: "Nikolausdorfer Straße"
-housenumber: 5
+street: Nikolausdorfer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su, PH off"
-website: "https://www.combi.de"
+opening_hours: Mo-Sa 08:00-22:00; Su, PH off
+website: https://www.combi.de

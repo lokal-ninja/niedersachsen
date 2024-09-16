@@ -4,8 +4,8 @@ latitude: 52.84438
 longitude: 8.03762
 postcode: "49661"
 city: Cloppenburg
-street: "Lange Straße"
-housenumber: 60
-phone: "+49 4471 187860"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.gzm-cloppenburg.de/"
+street: Lange Straße
+housenumber: "60"
+phone: +49 4471 187860
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off
+website: https://www.gzm-cloppenburg.de/

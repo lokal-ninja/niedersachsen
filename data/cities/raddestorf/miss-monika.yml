@@ -4,8 +4,8 @@ latitude: 52.4427
 longitude: 8.93172
 postcode: "31604"
 city: Raddestorf
-street: "Kreuzkrug"
-housenumber: 26
-phone: "+49 5765 9419102"
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00"
+street: Kreuzkrug
+housenumber: "26"
+phone: +49 5765 9419102
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00
 website: ""

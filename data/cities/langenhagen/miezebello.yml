@@ -1,11 +1,11 @@
 id: 213198965
-type: way
+type: node
 latitude: 52.43779
 longitude: 9.7358
 postcode: "30851"
 city: Langenhagen
-street: "Bothfelder Straße"
-housenumber: 11
-phone: "+49 511 98431660"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
-website: "https://miezebello.de/filiale-langenhagen"
+street: Bothfelder Straße
+housenumber: "11"
+phone: +49 511 98431660
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
+website: https://miezebello.de/filiale-langenhagen

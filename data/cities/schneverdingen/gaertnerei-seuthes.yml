@@ -4,8 +4,8 @@ latitude: 53.18174
 longitude: 9.83882
 postcode: "29640"
 city: Schneverdingen
-street: "An der Gärtnerei"
-housenumber: 2
-phone: "+49 5198 226"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "http://www.seuthes-gruen-erleben.de/"
+street: An der Gärtnerei
+housenumber: "2"
+phone: +49 5198 226
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: http://www.seuthes-gruen-erleben.de/

@@ -1,11 +1,11 @@
 id: 1198306042
-type: way
+type: node
 latitude: 52.99292
 longitude: 8.87113
 postcode: "28844"
 city: Weyhe
-street: "Dorfstraße"
-housenumber: 
+street: Dorfstraße
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 263520643
-type: way
+type: node
 latitude: 52.55292
 longitude: 10.18536
 postcode: "29358"
 city: Eicklingen
-street: "Mühlenweg"
-housenumber: 38
+street: Mühlenweg
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,14:30-18:00, Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-12:30,14:30-18:00, Sa 08:00-13:00
 website: ""

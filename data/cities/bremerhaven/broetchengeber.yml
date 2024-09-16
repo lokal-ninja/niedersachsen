@@ -1,11 +1,11 @@
 id: 158652438
-type: way
+type: node
 latitude: 53.58881
 longitude: 8.6072
 postcode: "27578"
 city: Bremerhaven
-street: "Adolf-Kolping-Straße"
-housenumber: 24
+street: Adolf-Kolping-Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Sa 07:00-12:00; Mo-Fr 06:30-16:00"
+opening_hours: Sa 07:00-12:00; Mo-Fr 06:30-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.42578
 longitude: 9.42653
 postcode: "31515"
 city: Wunstorf
-street: "Lange Straße"
-housenumber: 21
+street: Lange Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00"
-website: "https://www.dm.de/"
+opening_hours: Mo-Fr 08:00-19:30; Sa 08:00-18:00
+website: https://www.dm.de/

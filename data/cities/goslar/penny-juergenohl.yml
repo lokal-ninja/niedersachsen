@@ -1,11 +1,11 @@
 id: 81115088
-type: way
+type: node
 latitude: 51.92324
 longitude: 10.43692
 postcode: "38642"
 city: Goslar
-street: "Marienburger Straße"
-housenumber: 1
-phone: "0221 20199959"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Marienburger Straße
+housenumber: "1"
+phone: 0221 20199959
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

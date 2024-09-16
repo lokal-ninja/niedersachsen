@@ -1,11 +1,11 @@
 id: 456756039
-type: way
+type: node
 latitude: 52.26149
 longitude: 9.02326
 postcode: "31675"
 city: Bückeburg
-street: "Weinberg"
+street: Weinberg
 housenumber: 10A
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 273477088
-type: way
+type: node
 latitude: 52.62043
 longitude: 9.20303
 postcode: "31582"
 city: Nienburg/Weser
-street: "Südring"
-housenumber: 1
-phone: "+49 5021 8619698"
-opening_hours: "24/7"
-website: "https://www.hoyer.de/tankstelle/hoyer_tank-treff-31582_nienburg__weser_-suedring_1"
+street: Südring
+housenumber: "1"
+phone: +49 5021 8619698
+opening_hours: 24/7
+website: https://www.hoyer.de/tankstelle/hoyer_tank-treff-31582_nienburg__weser_-suedring_1

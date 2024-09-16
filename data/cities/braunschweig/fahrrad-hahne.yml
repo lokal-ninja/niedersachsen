@@ -4,8 +4,8 @@ latitude: 52.26609
 longitude: 10.51975
 postcode: "38100"
 city: Braunschweig
-street: "Meinhardshof"
-housenumber: 2
-phone: "+49 531 44339"
-opening_hours: "Mar-Sep Mo-Sa 10:00-18:00; Oct-Feb Mo-Fr 10:00-18:00; Oct-Feb Sa 10:00-16:00"
-website: "https://www.fahrrad-hahne.de/"
+street: Meinhardshof
+housenumber: "2"
+phone: +49 531 44339
+opening_hours: Mar-Sep Mo-Sa 10:00-18:00; Oct-Feb Mo-Fr 10:00-18:00; Oct-Feb Sa 10:00-16:00
+website: https://www.fahrrad-hahne.de/

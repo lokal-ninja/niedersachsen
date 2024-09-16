@@ -1,11 +1,11 @@
 id: 385731741
-type: way
+type: node
 latitude: 52.26048
 longitude: 9.05125
 postcode: "31675"
 city: Bückeburg
-street: "Lange Straße"
-housenumber: 6
+street: Lange Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

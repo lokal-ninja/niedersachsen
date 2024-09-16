@@ -1,11 +1,11 @@
 id: 276981578
-type: way
+type: node
 latitude: 52.78387
 longitude: 9.38125
 postcode: "27336"
 city: Rethem (Aller)
-street: "Hainholzstraße"
-housenumber: 15
+street: Hainholzstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su off"
+opening_hours: Mo-Sa 07:00-22:00; Su off
 website: ""

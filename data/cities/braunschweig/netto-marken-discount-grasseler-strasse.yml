@@ -1,11 +1,11 @@
 id: 1222217584
-type: way
+type: node
 latitude: 52.33929
 longitude: 10.57376
 postcode: "38110"
 city: Braunschweig
-street: "Grasseler Straße"
-housenumber: 55
+street: Grasseler Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 144312443
-type: way
+type: node
 latitude: 52.3986
 longitude: 9.74993
 postcode: "30163"
 city: Hannover
-street: "Wöhlerstraße"
-housenumber: 48
+street: Wöhlerstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

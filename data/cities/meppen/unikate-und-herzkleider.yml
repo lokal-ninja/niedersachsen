@@ -1,11 +1,11 @@
 id: 1094782799
-type: way
+type: node
 latitude: 52.69095
 longitude: 7.29118
 postcode: "49716"
 city: Meppen
-street: "Markt"
-housenumber: 5
+street: Markt
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

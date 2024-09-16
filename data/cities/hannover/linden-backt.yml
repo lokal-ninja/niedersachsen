@@ -4,8 +4,8 @@ latitude: 52.374
 longitude: 9.70616
 postcode: "30451"
 city: Hannover
-street: "Limmerstraße"
-housenumber: 58
+street: Limmerstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa, Su 08:00-17:00"
-website: "https://lindenbackt.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa, Su 08:00-17:00
+website: https://lindenbackt.de/

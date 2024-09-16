@@ -1,11 +1,11 @@
 id: 40140714
-type: way
+type: node
 latitude: 52.73878
 longitude: 7.75572
 postcode: "49624"
 city: Löningen
-street: "Elberger Straße"
-housenumber: 20
+street: Elberger Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

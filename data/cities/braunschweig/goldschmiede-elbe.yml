@@ -4,8 +4,8 @@ latitude: 52.26104
 longitude: 10.51866
 postcode: "38100"
 city: Braunschweig
-street: "Bankplatz"
-housenumber: 5
-phone: "+49 531 798265"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 12:00-16:00"
-website: "http://www.goldschmiede-elbe.de"
+street: Bankplatz
+housenumber: "5"
+phone: +49 531 798265
+opening_hours: Tu-Fr 12:00-19:00; Sa 12:00-16:00
+website: http://www.goldschmiede-elbe.de

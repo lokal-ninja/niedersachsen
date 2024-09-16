@@ -1,11 +1,11 @@
 id: 1008152541
-type: way
+type: node
 latitude: 52.67493
 longitude: 7.49364
 postcode: "49740"
 city: Haselünne
-street: "Kettelerstraße"
-housenumber: 10
+street: Kettelerstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

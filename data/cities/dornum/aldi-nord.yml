@@ -1,11 +1,11 @@
 id: 159289240
-type: way
+type: node
 latitude: 53.64915
 longitude: 7.42447
 postcode: "26553"
 city: Dornum
-street: "Am Bensjücht"
-housenumber: 1
+street: Am Bensjücht
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
+opening_hours: Mo-Sa 08:00-20:00; Su off
 website: ""

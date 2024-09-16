@@ -4,8 +4,8 @@ latitude: 51.55385
 longitude: 9.96323
 postcode: "37075"
 city: Göttingen
-street: "An der Lutter"
-housenumber: 30
+street: An der Lutter
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00, Fr 07:00-14:00"
-website: "https://bach-handel.de/"
+opening_hours: Mo-Th 07:00-16:00, Fr 07:00-14:00
+website: https://bach-handel.de/

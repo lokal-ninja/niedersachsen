@@ -4,8 +4,8 @@ latitude: 52.32165
 longitude: 9.78478
 postcode: "30519"
 city: Hannover
-street: "Hildesheimer Straße"
-housenumber: 451
-phone: "0511 8609 0"
+street: Hildesheimer Straße
+housenumber: "451"
+phone: 0511 8609 0
 opening_hours: ""
-website: "https://www.volkswagen-automobile-hannover.de/standorte/standortuebersicht/standort/volkswagen-hannover-hildesheimer-strasse"
+website: https://www.volkswagen-automobile-hannover.de/standorte/standortuebersicht/standort/volkswagen-hannover-hildesheimer-strasse

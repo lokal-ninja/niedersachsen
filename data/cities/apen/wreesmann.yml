@@ -1,11 +1,11 @@
 id: 1016243612
-type: way
+type: node
 latitude: 53.22242
 longitude: 7.75513
 postcode: "26689"
 city: Apen
-street: "Südgeorgsfehner Straße"
-housenumber: 12
+street: Südgeorgsfehner Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

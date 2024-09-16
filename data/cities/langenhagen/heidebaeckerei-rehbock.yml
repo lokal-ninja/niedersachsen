@@ -4,8 +4,8 @@ latitude: 52.43513
 longitude: 9.75554
 postcode: "30851"
 city: Langenhagen
-street: "Erich-Ollenhauer-Straße"
-housenumber: 9
-phone: "+49 511 98430655"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.baeckerei-rehbock.de/filiale-langehagen-silbersee/"
+street: Erich-Ollenhauer-Straße
+housenumber: "9"
+phone: +49 511 98430655
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.baeckerei-rehbock.de/filiale-langehagen-silbersee/

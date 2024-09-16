@@ -1,11 +1,11 @@
 id: 470439786
-type: way
+type: node
 latitude: 53.32002
 longitude: 9.78804
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Drestedter Weg"
-housenumber: 2
+street: Drestedter Weg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

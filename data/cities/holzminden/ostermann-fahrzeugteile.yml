@@ -1,11 +1,11 @@
 id: 502341976
-type: way
+type: node
 latitude: 51.83495
 longitude: 9.44351
 postcode: "37603"
 city: Holzminden
-street: "Weseraue"
-housenumber: 7
-phone: "+49 5531 93470"
+street: Weseraue
+housenumber: "7"
+phone: +49 5531 93470
 opening_hours: ""
 website: ""

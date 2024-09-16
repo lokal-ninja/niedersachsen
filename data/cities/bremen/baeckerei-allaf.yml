@@ -4,8 +4,8 @@ latitude: 53.05394
 longitude: 8.79107
 postcode: "28199"
 city: Bremen
-street: "Airbus-Allee"
-housenumber: 3
+street: Airbus-Allee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 05:30-16:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 05:30-16:00; Sa,Su,PH off
 website: ""

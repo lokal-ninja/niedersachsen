@@ -4,8 +4,8 @@ latitude: 52.36595
 longitude: 9.91311
 postcode: "31275"
 city: Lehrte
-street: "Backhausstraße"
-housenumber: 2
-phone: "+49 5132 / 856873"
-opening_hours: "Mo-Th 07:00-17:00; Fr 09:00-14:00"
+street: Backhausstraße
+housenumber: "2"
+phone: +49 5132 / 856873
+opening_hours: Mo-Th 07:00-17:00; Fr 09:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 112306400
-type: way
+type: node
 latitude: 52.9222
 longitude: 8.15137
 postcode: "49685"
 city: Emstek
-street: "Baumweg"
+street: Baumweg
 housenumber: 5a
 phone: ""
-opening_hours: "Th-Fr 14:00-16:00; Fr 09:00-12:00"
-website: "https://www.landesforsten.de/erleben/unsere-naturtalente/teichwirtschaft-ahlhorn/"
+opening_hours: Th-Fr 14:00-16:00; Fr 09:00-12:00
+website: https://www.landesforsten.de/erleben/unsere-naturtalente/teichwirtschaft-ahlhorn/

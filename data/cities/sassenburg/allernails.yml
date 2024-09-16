@@ -4,8 +4,8 @@ latitude: 52.49436
 longitude: 10.62246
 postcode: "38524"
 city: Sassenburg
-street: "Allerstraße"
-housenumber: 29
+street: Allerstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

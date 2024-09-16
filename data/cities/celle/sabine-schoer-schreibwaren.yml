@@ -1,11 +1,11 @@
 id: 211117930
-type: way
+type: node
 latitude: 52.59739
 longitude: 10.1071
 postcode: "29227"
 city: Celle
-street: "Burger Landstraße"
-housenumber: 6
+street: Burger Landstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30, 15:00-18:00; Sa 08:00-12:30"
+opening_hours: Mo-Fr 08:00-12:30, 15:00-18:00; Sa 08:00-12:30
 website: ""

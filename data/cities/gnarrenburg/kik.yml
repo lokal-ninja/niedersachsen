@@ -1,11 +1,11 @@
 id: 261307818
-type: way
+type: node
 latitude: 53.38075
 longitude: 9.00374
 postcode: "27442"
 city: Gnarrenburg
-street: "Hindenburgstraße"
-housenumber: 61
+street: Hindenburgstraße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

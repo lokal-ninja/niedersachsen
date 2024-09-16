@@ -4,8 +4,8 @@ latitude: 52.15205
 longitude: 9.95314
 postcode: "31134"
 city: Hildesheim
-street: "Scheelenstraße"
-housenumber: 3
+street: Scheelenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00, Sa 10:00-15:00"
-website: "http://www.das-trauring-studio.de/geschaefte/standorte/hildesheim/index.html"
+opening_hours: Tu-Fr 11:00-19:00, Sa 10:00-15:00
+website: http://www.das-trauring-studio.de/geschaefte/standorte/hildesheim/index.html

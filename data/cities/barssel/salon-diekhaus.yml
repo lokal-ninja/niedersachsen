@@ -4,8 +4,9 @@ latitude: 53.11644
 longitude: 7.823
 postcode: "26676"
 city: Barßel
-street: "Dorfstraße"
-housenumber: 61
+street: Dorfstraße
+housenumber: "61"
 phone: "+4944971779"
-opening_hours: "Mo nach Vereinbarung; Tu-Fr 09:00-18:00; Th 09:00-20:00; Sa 08:00-14:00; Su, PH off"
-website: "https://diekhaus.net"
+opening_hours: Mo "nach Vereinbarung"; Tu-Fr 09:00-18:00; Th 09:00-20:00; Sa 08:00-14:00;
+    Su, PH off
+website: https://diekhaus.net

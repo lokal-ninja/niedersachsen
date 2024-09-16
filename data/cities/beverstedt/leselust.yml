@@ -1,11 +1,11 @@
 id: 255303877
-type: way
+type: node
 latitude: 53.43344
 longitude: 8.82207
 postcode: "27616"
 city: Beverstedt
-street: "Logestraße"
-housenumber: 25
+street: Logestraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

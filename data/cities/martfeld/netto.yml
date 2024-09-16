@@ -1,11 +1,11 @@
 id: 466714281
-type: way
+type: node
 latitude: 52.87361
 longitude: 9.05843
 postcode: "27327"
 city: Martfeld
-street: "Bruchhauser Straße"
-housenumber: 3
+street: Bruchhauser Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

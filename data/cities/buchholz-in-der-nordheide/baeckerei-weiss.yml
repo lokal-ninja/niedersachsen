@@ -4,8 +4,8 @@ latitude: 53.35137
 longitude: 9.86346
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Nordring"
-housenumber: 4
-phone: "+49 4181 968185"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.baecker-weiss.de/"
+street: Nordring
+housenumber: "4"
+phone: +49 4181 968185
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.baecker-weiss.de/

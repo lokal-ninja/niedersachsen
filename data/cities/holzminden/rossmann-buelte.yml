@@ -1,11 +1,11 @@
 id: 315770571
-type: way
+type: node
 latitude: 51.84124
 longitude: 9.46477
 postcode: "37603"
 city: Holzminden
-street: "Bülte"
-housenumber: 7
+street: Bülte
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
-website: "https://www.rossmann.de/de/filialen/niedersachsen/holzminden/buelte-7.html?utm_source=gmb&utm_medium=store-entry&utm_campaign=gmb&utm_content=2336"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
+website: https://www.rossmann.de/de/filialen/niedersachsen/holzminden/buelte-7.html?utm_source=gmb&utm_medium=store-entry&utm_campaign=gmb&utm_content=2336

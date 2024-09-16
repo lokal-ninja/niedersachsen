@@ -1,11 +1,11 @@
 id: 88832600
-type: way
+type: node
 latitude: 52.3099
 longitude: 9.6086
 postcode: "30989"
 city: Gehrden
-street: "Schulstraße"
-housenumber: 20
+street: Schulstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

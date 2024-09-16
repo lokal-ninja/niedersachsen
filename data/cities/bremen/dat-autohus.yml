@@ -1,11 +1,11 @@
 id: 25546651
-type: way
+type: node
 latitude: 53.02821
 longitude: 8.86183
 postcode: "28279"
 city: Bremen
-street: "Arster Hemm"
-housenumber: 50
-phone: "+49 421 244000"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-16:00 open Schautag"
-website: "https://www.autohus.de/"
+street: Arster Hemm
+housenumber: "50"
+phone: +49 421 244000
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-16:00 open "Schautag"
+website: https://www.autohus.de/

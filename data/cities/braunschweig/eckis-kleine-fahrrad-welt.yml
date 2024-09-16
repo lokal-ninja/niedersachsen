@@ -4,8 +4,8 @@ latitude: 52.23525
 longitude: 10.4809
 postcode: "38122"
 city: Braunschweig
-street: "Oststraße"
+street: Oststraße
 housenumber: 2c
-phone: "+49 531 8667451"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00"
-website: "https://www.eckis-fahrradwelt.de/"
+phone: +49 531 8667451
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00
+website: https://www.eckis-fahrradwelt.de/

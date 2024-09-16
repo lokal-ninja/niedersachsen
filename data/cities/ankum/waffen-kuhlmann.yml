@@ -4,8 +4,8 @@ latitude: 52.54479
 longitude: 7.86525
 postcode: "49577"
 city: Ankum
-street: "Bippener Straße"
-housenumber: 3
+street: Bippener Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:00-13:00"
-website: "https://www.waffen-kuhlmann.de/"
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:00-13:00
+website: https://www.waffen-kuhlmann.de/

@@ -1,11 +1,11 @@
 id: 203154276
-type: way
+type: node
 latitude: 53.7053
 longitude: 9.39771
 postcode: "21706"
 city: Drochtersen
-street: "Werkstraße"
-housenumber: 2
-phone: "+49 4143 6171"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.johannsen-autohaus.de"
+street: Werkstraße
+housenumber: "2"
+phone: +49 4143 6171
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.johannsen-autohaus.de

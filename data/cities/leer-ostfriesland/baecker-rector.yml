@@ -4,8 +4,8 @@ latitude: 53.22967
 longitude: 7.45466
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Mühlenstraße"
-housenumber: 42
+street: Mühlenstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00; Su off; PH off"
-website: "https://www.baecker-rector.de/"
+opening_hours: Mo-Sa 07:00-18:00; Su off; PH off
+website: https://www.baecker-rector.de/

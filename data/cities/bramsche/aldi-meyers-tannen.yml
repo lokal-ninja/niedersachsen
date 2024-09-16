@@ -1,11 +1,11 @@
 id: 829762770
-type: way
+type: node
 latitude: 52.40094
 longitude: 7.99117
 postcode: "49565"
 city: Bramsche
-street: "Meyers Tannen"
-housenumber: 8
+street: Meyers Tannen
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi-nord.de/"
+website: https://www.aldi-nord.de/

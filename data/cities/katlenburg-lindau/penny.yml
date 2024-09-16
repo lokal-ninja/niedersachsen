@@ -1,11 +1,11 @@
 id: 752941554
-type: way
+type: node
 latitude: 51.68311
 longitude: 10.10031
 postcode: "37191"
 city: Katlenburg-Lindau
-street: "Osteroder Straße"
-housenumber: 1
+street: Osteroder Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.penny.de/

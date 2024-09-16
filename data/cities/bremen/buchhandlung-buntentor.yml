@@ -4,8 +4,8 @@ latitude: 53.0648
 longitude: 8.80667
 postcode: "28201"
 city: Bremen
-street: "Buntentorsteinweg"
-housenumber: 107
+street: Buntentorsteinweg
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00; Su off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00; Su off
 website: ""

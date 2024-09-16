@@ -1,11 +1,11 @@
 id: 832399927
-type: way
+type: node
 latitude: 51.43997
 longitude: 9.92864
 postcode: "37133"
 city: Friedland
-street: "Am Kreuzweg"
-housenumber: 2
+street: Am Kreuzweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-13:30; PH off"
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-13:30; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 155292083
-type: way
+type: node
 latitude: 53.32565
 longitude: 9.81307
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Hanomagstraße"
-housenumber: 25
-phone: "+49 4181 28900"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.stadac.de/"
+street: Hanomagstraße
+housenumber: "25"
+phone: +49 4181 28900
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.stadac.de/

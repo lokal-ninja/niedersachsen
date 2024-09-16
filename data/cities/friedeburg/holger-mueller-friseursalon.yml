@@ -1,11 +1,11 @@
 id: 944018102
-type: way
+type: node
 latitude: 53.45059
 longitude: 7.83846
 postcode: "26446"
 city: Friedeburg
-street: "Wieseder Straße"
-housenumber: 12
+street: Wieseder Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

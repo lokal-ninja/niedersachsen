@@ -1,11 +1,11 @@
 id: 151147489
-type: way
+type: node
 latitude: 53.46231
 longitude: 9.79555
 postcode: "21629"
 city: Neu Wulmstorf
-street: "Hauptstraße"
-housenumber: 61
+street: Hauptstraße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

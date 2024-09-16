@@ -1,11 +1,11 @@
 id: 120411174
-type: way
+type: node
 latitude: 53.11986
 longitude: 8.22168
 postcode: "26133"
 city: Oldenburg
-street: "Eidechsenstraße"
-housenumber: 17
+street: Eidechsenstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

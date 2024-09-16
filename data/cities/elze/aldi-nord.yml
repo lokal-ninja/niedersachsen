@@ -1,11 +1,11 @@
 id: 41760676
-type: way
+type: node
 latitude: 52.11547
 longitude: 9.72708
 postcode: "31008"
 city: Elze
-street: "Sehlder Straße"
-housenumber: 19
+street: Sehlder Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/elze/sehlder-str-19.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/elze/sehlder-str-19.html

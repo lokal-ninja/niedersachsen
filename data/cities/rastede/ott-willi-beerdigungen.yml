@@ -1,11 +1,11 @@
 id: 244004971
-type: way
+type: node
 latitude: 53.25161
 longitude: 8.19408
 postcode: "26180"
 city: Rastede
-street: "Baumgartenstraße"
-housenumber: 3
+street: Baumgartenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

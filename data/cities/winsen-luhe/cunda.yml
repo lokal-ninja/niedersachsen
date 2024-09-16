@@ -1,11 +1,11 @@
 id: 83951985
-type: way
+type: node
 latitude: 53.36089
 longitude: 10.20562
 postcode: "21423"
 city: Winsen (Luhe)
-street: "Rathausstraße"
-housenumber: 31
+street: Rathausstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

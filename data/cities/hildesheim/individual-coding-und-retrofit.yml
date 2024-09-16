@@ -4,8 +4,8 @@ latitude: 52.16042
 longitude: 9.99278
 postcode: "31135"
 city: Hildesheim
-street: "Max-Planck-Straße"
-housenumber: 9
-phone: "+49 157 58522983"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://indivcore.de/"
+street: Max-Planck-Straße
+housenumber: "9"
+phone: +49 157 58522983
+opening_hours: Mo-Fr 08:00-18:00
+website: https://indivcore.de/

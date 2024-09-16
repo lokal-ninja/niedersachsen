@@ -1,11 +1,11 @@
 id: 192654617
-type: way
+type: node
 latitude: 52.83257
 longitude: 8.02221
 postcode: "49661"
 city: Cloppenburg
-street: "Alte Löninger Straße"
-housenumber: 25
+street: Alte Löninger Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:15; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-17:15; Sa 08:00-12:00; Su,PH off
 website: ""

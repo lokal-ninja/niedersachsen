@@ -1,11 +1,11 @@
 id: 179405902
-type: way
+type: node
 latitude: 53.16899
 longitude: 8.69121
 postcode: "28717"
 city: Bremen
-street: "Hindenburgstraße"
-housenumber: 57
+street: Hindenburgstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:30 -18:30; Sa 09:00-14:00"
-website: "http://www.lesumer-lesezeit.de/"
+opening_hours: Mo-Fr 09:00-13:00, 14:30 -18:30; Sa 09:00-14:00
+website: http://www.lesumer-lesezeit.de/

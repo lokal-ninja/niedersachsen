@@ -1,11 +1,11 @@
 id: 262335241
-type: way
+type: node
 latitude: 53.21388
 longitude: 7.80112
 postcode: "26689"
 city: Apen
-street: "An der Wiek"
-housenumber: 24
-phone: "+49 4489 406328"
+street: An der Wiek
+housenumber: "24"
+phone: +49 4489 406328
 opening_hours: ""
-website: "https://reisebuero-vanrueschen.de/"
+website: https://reisebuero-vanrueschen.de/

@@ -4,8 +4,8 @@ latitude: 52.3383
 longitude: 9.71731
 postcode: "30459"
 city: Hannover
-street: "Göttinger Chaussee"
-housenumber: 167
+street: Göttinger Chaussee
+housenumber: "167"
 phone: "+495117684989"
-opening_hours: "Mo-Fr 09:00-14:00,16:00-18:00; Sa 09:00-14:00"
-website: "https://www.vikolatours.de"
+opening_hours: Mo-Fr 09:00-14:00,16:00-18:00; Sa 09:00-14:00
+website: https://www.vikolatours.de

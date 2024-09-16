@@ -4,8 +4,8 @@ latitude: 53.54121
 longitude: 8.57896
 postcode: "27568"
 city: Bremerhaven
-street: "Obere Bürger"
-housenumber: 26
-phone: "+49 471 9414232"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+street: Obere Bürger
+housenumber: "26"
+phone: +49 471 9414232
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

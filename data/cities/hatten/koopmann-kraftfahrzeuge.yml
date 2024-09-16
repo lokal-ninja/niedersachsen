@@ -1,11 +1,11 @@
 id: 669488007
-type: way
+type: node
 latitude: 53.02163
 longitude: 8.34956
 postcode: "26209"
 city: Hatten
-street: "Munderloher Straße"
-housenumber: 2
+street: Munderloher Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

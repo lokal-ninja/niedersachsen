@@ -1,11 +1,11 @@
 id: 87691481
-type: way
+type: node
 latitude: 51.95634
 longitude: 10.47838
 postcode: "38690"
 city: Goslar
-street: "Hahndorfer Straße"
+street: Hahndorfer Straße
 housenumber: 5a
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "http://www.bikewheels.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: http://www.bikewheels.de/

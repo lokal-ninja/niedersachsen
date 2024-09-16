@@ -1,11 +1,11 @@
 id: 885533933
-type: way
+type: node
 latitude: 52.68547
 longitude: 8.8334
 postcode: "27232"
 city: Sulingen
-street: "Berliner Straße"
-housenumber: 91
+street: Berliner Straße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

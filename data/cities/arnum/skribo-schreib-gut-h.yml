@@ -4,8 +4,8 @@ latitude: 52.30275
 longitude: 9.7391
 postcode: "30966"
 city: Arnum
-street: "Göttinger Straße"
-housenumber: 62
-phone: "+49 5101 4844"
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00"
-website: "https://www.skribo.de/haendler/schreib-guth/"
+street: Göttinger Straße
+housenumber: "62"
+phone: +49 5101 4844
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00
+website: https://www.skribo.de/haendler/schreib-guth/

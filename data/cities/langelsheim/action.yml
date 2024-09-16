@@ -1,11 +1,11 @@
 id: 182159384
-type: way
+type: node
 latitude: 51.93512
 longitude: 10.34545
 postcode: "38685"
 city: Langelsheim
-street: "Jerstedter Straße"
-housenumber: 2
+street: Jerstedter Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

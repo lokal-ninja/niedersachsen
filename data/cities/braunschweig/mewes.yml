@@ -4,8 +4,8 @@ latitude: 52.26202
 longitude: 10.51961
 postcode: "38100"
 city: Braunschweig
-street: "Kohlmarkt"
-housenumber: 10
-phone: "+49 531 4737140"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://modedesign-kohlmarkt.de/"
+street: Kohlmarkt
+housenumber: "10"
+phone: +49 531 4737140
+opening_hours: Mo-Sa 11:00-18:00
+website: https://modedesign-kohlmarkt.de/

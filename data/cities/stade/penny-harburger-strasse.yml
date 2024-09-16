@@ -1,11 +1,11 @@
 id: 279151465
-type: way
+type: node
 latitude: 53.58794
 longitude: 9.48992
 postcode: "21680"
 city: Stade
-street: "Harburger Straße"
-housenumber: 121
-phone: "+49 22120199959"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.penny.de/markt/stade/462044/penny-campe-harburger-str-121?ecid=seo_localseo_462044_g_nn_nn_nn_nn_nn"
+street: Harburger Straße
+housenumber: "121"
+phone: +49 22120199959
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.penny.de/markt/stade/462044/penny-campe-harburger-str-121?ecid=seo_localseo_462044_g_nn_nn_nn_nn_nn

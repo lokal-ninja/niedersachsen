@@ -4,8 +4,8 @@ latitude: 53.06099
 longitude: 8.77968
 postcode: "28199"
 city: Bremen
-street: "Industriestraße"
-housenumber: 20
-phone: "+49-421-17517531"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.amazon.de/stores/Ivorys-Garden/page/56C51A6D-25A5-4410-8F33-FA8EAD7BD5D5?ref_=ast_bln"
+street: Industriestraße
+housenumber: "20"
+phone: +49-421-17517531
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.amazon.de/stores/Ivorys-Garden/page/56C51A6D-25A5-4410-8F33-FA8EAD7BD5D5?ref_=ast_bln

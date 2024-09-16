@@ -1,11 +1,11 @@
 id: 178456857
-type: way
+type: node
 latitude: 53.53168
 longitude: 7.97515
 postcode: "26419"
 city: Schortens
-street: "Nordfrost-Ring"
-housenumber: 16
-phone: "+49 4461 7487-0"
+street: Nordfrost-Ring
+housenumber: "16"
+phone: +49 4461 7487-0
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 151294108
-type: way
+type: node
 latitude: 52.26244
 longitude: 8.0667
 postcode: "49084"
 city: Osnabrück
-street: "Braunschweiger Straße"
-housenumber: 35
-phone: "+49 541 355590"
-opening_hours: "Mo-Th 07:00-17:00, Fr 07:00-14:00; PH off"
-website: "https://www.wilts.de/norddeutschland/grosshandel-maler-bodenleger-osnabrueck"
+street: Braunschweiger Straße
+housenumber: "35"
+phone: +49 541 355590
+opening_hours: Mo-Th 07:00-17:00, Fr 07:00-14:00; PH off
+website: https://www.wilts.de/norddeutschland/grosshandel-maler-bodenleger-osnabrueck

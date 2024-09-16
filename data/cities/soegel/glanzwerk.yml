@@ -1,11 +1,11 @@
 id: 1286853246
-type: way
+type: node
 latitude: 52.83382
 longitude: 7.50506
 postcode: "49751"
 city: Sögel
-street: "Hümmlinger Ring"
-housenumber: 5
+street: Hümmlinger Ring
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-bartels.com/glanzwerk/"
+website: https://www.autohaus-bartels.com/glanzwerk/

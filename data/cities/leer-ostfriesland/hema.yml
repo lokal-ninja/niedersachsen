@@ -1,11 +1,11 @@
 id: 182349980
-type: way
+type: node
 latitude: 53.23089
 longitude: 7.45747
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Mühlenstraße"
-housenumber: 81
+street: Mühlenstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; PH off"
-website: "https://www.hemashop.com/de"
+opening_hours: Mo-Sa 10:00-18:00; PH off
+website: https://www.hemashop.com/de

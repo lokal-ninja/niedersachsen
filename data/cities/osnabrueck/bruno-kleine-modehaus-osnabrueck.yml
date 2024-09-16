@@ -4,8 +4,8 @@ latitude: 52.26825
 longitude: 8.09819
 postcode: "49084"
 city: Osnabrück
-street: "Mindener Straße"
-housenumber: 222
-phone: "+49 541 70102"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00"
-website: "https://www.bruno-kleine.de/osnabrueck/"
+street: Mindener Straße
+housenumber: "222"
+phone: +49 541 70102
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-16:00
+website: https://www.bruno-kleine.de/osnabrueck/

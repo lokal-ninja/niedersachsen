@@ -1,11 +1,11 @@
 id: 988825201
-type: way
+type: node
 latitude: 51.37705
 longitude: 9.628
 postcode: "34355"
 city: Staufenberg
-street: "Vor der Hecke"
-housenumber: 11
+street: Vor der Hecke
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

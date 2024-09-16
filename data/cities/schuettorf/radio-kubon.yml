@@ -1,11 +1,11 @@
 id: 1185791907
-type: way
+type: node
 latitude: 52.32062
 longitude: 7.22412
 postcode: "48465"
 city: Schüttorf
-street: "Steinstraße"
-housenumber: 22
-phone: "+49 5923 6329"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa,Su off"
-website: "https://www.iq-radiokubon.de"
+street: Steinstraße
+housenumber: "22"
+phone: +49 5923 6329
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa,Su off
+website: https://www.iq-radiokubon.de

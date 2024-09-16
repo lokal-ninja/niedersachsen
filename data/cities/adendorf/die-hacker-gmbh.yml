@@ -1,11 +1,11 @@
 id: 92906912
-type: way
+type: node
 latitude: 53.28921
 longitude: 10.42696
 postcode: "21365"
 city: Adendorf
-street: "Dieselstraße"
-housenumber: 1
-phone: "+49 4131 189771"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
-website: "https://die-hacker-gmbh.de/"
+street: Dieselstraße
+housenumber: "1"
+phone: +49 4131 189771
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
+website: https://die-hacker-gmbh.de/

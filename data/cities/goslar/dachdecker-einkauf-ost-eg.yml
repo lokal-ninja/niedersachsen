@@ -1,11 +1,11 @@
 id: 87772627
-type: way
+type: node
 latitude: 51.93738
 longitude: 10.42293
 postcode: "38644"
 city: Goslar
-street: "Magdeburger Kamp"
-housenumber: 14
+street: Magdeburger Kamp
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "http://www.de-ost.de"
+website: http://www.de-ost.de

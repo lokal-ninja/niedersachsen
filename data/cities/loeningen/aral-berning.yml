@@ -1,11 +1,11 @@
 id: 40140670
-type: way
+type: node
 latitude: 52.73803
 longitude: 7.76029
 postcode: "49624"
 city: Löningen
-street: "Bremer Straße"
-housenumber: 20
+street: Bremer Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://tankstelle.aral.de/loeningen/bremer-strasse-20/21101200"
+website: https://tankstelle.aral.de/loeningen/bremer-strasse-20/21101200

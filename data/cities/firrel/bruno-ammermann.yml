@@ -1,11 +1,11 @@
 id: 385545936
-type: way
+type: node
 latitude: 53.33899
 longitude: 7.69025
 postcode: "26835"
 city: Firrel
-street: "Uhlhornstraße"
-housenumber: 8
-phone: "+49 4946 991976"
+street: Uhlhornstraße
+housenumber: "8"
+phone: +49 4946 991976
 opening_hours: ""
 website: ""

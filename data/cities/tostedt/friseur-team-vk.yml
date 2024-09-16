@@ -4,8 +4,8 @@ latitude: 53.28148
 longitude: 9.71257
 postcode: "21255"
 city: Tostedt
-street: "Kastanienallee"
-housenumber: 1
-phone: "+49 4182 2889535"
-opening_hours: "Tu,Th 09:00-18:00; We,Fr 09:00-20:00; Sa 09:00-14:00"
-website: "http://friseur-team-vk.de/"
+street: Kastanienallee
+housenumber: "1"
+phone: +49 4182 2889535
+opening_hours: Tu,Th 09:00-18:00; We,Fr 09:00-20:00; Sa 09:00-14:00
+website: http://friseur-team-vk.de/

@@ -1,11 +1,11 @@
 id: 234117819
-type: way
+type: node
 latitude: 52.35218
 longitude: 10.77367
 postcode: "38444"
 city: Wolfsburg
-street: "Neue Straße"
-housenumber: 35
+street: Neue Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.netto-online.de/filialen/wolfsburg-heiligendorf/neue-str-35/2467"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.netto-online.de/filialen/wolfsburg-heiligendorf/neue-str-35/2467

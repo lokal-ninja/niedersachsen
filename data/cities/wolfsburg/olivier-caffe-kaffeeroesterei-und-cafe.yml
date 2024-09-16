@@ -4,8 +4,8 @@ latitude: 52.41018
 longitude: 10.7674
 postcode: "38440"
 city: Wolfsburg
-street: "Röntgenstraße"
-housenumber: 85
-phone: "+49 5361 2219304"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.oliviercaffe.com/"
+street: Röntgenstraße
+housenumber: "85"
+phone: +49 5361 2219304
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.oliviercaffe.com/

@@ -4,8 +4,8 @@ latitude: 51.93818
 longitude: 10.32965
 postcode: "38685"
 city: Langelsheim
-street: "Mühlenstraße"
-housenumber: 33
-phone: "+49 5326 2556"
-opening_hours: "Mo-Fr 08:15-12:30,14:30-18:00; Sa 08:15-13:00; Su 10:00-12:00"
+street: Mühlenstraße
+housenumber: "33"
+phone: +49 5326 2556
+opening_hours: Mo-Fr 08:15-12:30,14:30-18:00; Sa 08:15-13:00; Su 10:00-12:00
 website: ""

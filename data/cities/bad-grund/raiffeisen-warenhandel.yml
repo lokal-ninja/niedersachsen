@@ -1,11 +1,11 @@
 id: 746025306
-type: way
+type: node
 latitude: 51.76955
 longitude: 10.20335
 postcode: "37539"
 city: Bad Grund
-street: "Am Breiten Anger"
-housenumber: 3
+street: Am Breiten Anger
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

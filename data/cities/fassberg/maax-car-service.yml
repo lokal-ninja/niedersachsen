@@ -1,11 +1,11 @@
 id: 103152121
-type: way
+type: node
 latitude: 52.89348
 longitude: 10.15599
 postcode: "29328"
 city: Faßberg
-street: "Müdener Weg"
-housenumber: 27
-phone: "+49-5055-591010"
-opening_hours: "Mo-Th 09:00-13:00, 14:00-18:00; Fr 09:00-17:00"
-website: "https://www.maax-cs.de/"
+street: Müdener Weg
+housenumber: "27"
+phone: +49-5055-591010
+opening_hours: Mo-Th 09:00-13:00, 14:00-18:00; Fr 09:00-17:00
+website: https://www.maax-cs.de/

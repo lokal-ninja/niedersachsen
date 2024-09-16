@@ -1,11 +1,11 @@
 id: 692472379
-type: way
+type: node
 latitude: 52.63311
 longitude: 9.22021
 postcode: "31582"
 city: Nienburg/Weser
-street: "Göttinger Straße"
-housenumber: 2
+street: Göttinger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.48615
 longitude: 8.48511
 postcode: "26954"
 city: Nordenham
-street: "Friedrich-Ebert-Straße"
-housenumber: 20
-phone: "+49 4731 4749"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su, PH off"
-website: "http://www.arko-nordenham.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "20"
+phone: +49 4731 4749
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su, PH off
+website: http://www.arko-nordenham.de/

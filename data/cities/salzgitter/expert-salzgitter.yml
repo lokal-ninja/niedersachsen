@@ -1,11 +1,11 @@
 id: 195183011
-type: way
+type: node
 latitude: 52.15389
 longitude: 10.35191
 postcode: "38229"
 city: Salzgitter
-street: "Peiner Straße"
-housenumber: 107
-phone: "+49-5341-833630"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.expert.de/salzgitter"
+street: Peiner Straße
+housenumber: "107"
+phone: +49-5341-833630
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.expert.de/salzgitter

@@ -1,11 +1,11 @@
 id: 235250329
-type: way
+type: node
 latitude: 51.7028
 longitude: 9.87645
 postcode: "37186"
 city: Moringen
-street: "Mannenstraße"
-housenumber: 42
-phone: "+49 5554 9987334"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:30; Su 07:00-17:00"
-website: "https://beckmann-uslar.de/unsere-fillialen/"
+street: Mannenstraße
+housenumber: "42"
+phone: +49 5554 9987334
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:30; Su 07:00-17:00
+website: https://beckmann-uslar.de/unsere-fillialen/

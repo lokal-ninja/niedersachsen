@@ -4,8 +4,8 @@ latitude: 53.13651
 longitude: 8.22871
 postcode: "26135"
 city: Oldenburg
-street: "Stedinger Straße"
-housenumber: 83
-phone: "+49 441 384877"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.carstens-unterwaesche.de"
+street: Stedinger Straße
+housenumber: "83"
+phone: +49 441 384877
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.carstens-unterwaesche.de

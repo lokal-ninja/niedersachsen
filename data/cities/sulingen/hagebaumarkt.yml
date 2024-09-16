@@ -1,11 +1,11 @@
 id: 128879250
-type: way
+type: node
 latitude: 52.68618
 longitude: 8.81714
 postcode: "27232"
 city: Sulingen
-street: "Hasseler Weg"
-housenumber: 1
+street: Hasseler Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

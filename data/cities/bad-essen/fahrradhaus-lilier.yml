@@ -4,8 +4,8 @@ latitude: 52.31963
 longitude: 8.33958
 postcode: "49152"
 city: Bad Essen
-street: "Lindenstraße"
-housenumber: 14
-phone: "+49 5472 3925"
-opening_hours: "Tu-Fr 09:00-12:30, 14:30-18:00; Sa 09:00-12:30;Su 14:30-18:00"
-website: "http://www.fahrradhaus-badessen.de/"
+street: Lindenstraße
+housenumber: "14"
+phone: +49 5472 3925
+opening_hours: Tu-Fr 09:00-12:30, 14:30-18:00; Sa 09:00-12:30;Su 14:30-18:00
+website: http://www.fahrradhaus-badessen.de/

@@ -1,11 +1,11 @@
 id: 410464490
-type: way
+type: node
 latitude: 52.11789
 longitude: 9.54949
 postcode: ""
 city: Coppenbrügge
-street: "Osterstraße"
-housenumber: 28
+street: Osterstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

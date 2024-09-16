@@ -4,8 +4,8 @@ latitude: 52.37622
 longitude: 9.98056
 postcode: "31275"
 city: Lehrte
-street: "Zuckerpassage"
-housenumber: 33
+street: Zuckerpassage
+housenumber: "33"
 phone: "+495132888670"
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-18:00"
-website: "https://www.expert.de/lehrte/ehg1"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-18:00
+website: https://www.expert.de/lehrte/ehg1

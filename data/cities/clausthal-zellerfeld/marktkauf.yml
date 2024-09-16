@@ -1,11 +1,11 @@
 id: 8044561
-type: way
+type: node
 latitude: 51.80526
 longitude: 10.35155
 postcode: "38678"
 city: Clausthal-Zellerfeld
-street: "Am Ostbahnhof"
-housenumber: 2
-phone: "+49 5323 982 20"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.edeka.de/eh/hessenring/marktkauf-clausthal-zellerfeld-am-ostbahnhof-2/index.jsp"
+street: Am Ostbahnhof
+housenumber: "2"
+phone: +49 5323 982 20
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.edeka.de/eh/hessenring/marktkauf-clausthal-zellerfeld-am-ostbahnhof-2/index.jsp

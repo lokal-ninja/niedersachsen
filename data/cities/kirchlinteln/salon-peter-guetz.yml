@@ -4,8 +4,9 @@ latitude: 52.94022
 longitude: 9.31873
 postcode: "27308"
 city: Kirchlinteln
-street: "Hauptstraße"
-housenumber: 9
-phone: "+49 4236 393"
-opening_hours: "Mo off, Tu 08:30-18:00, We 08:30-17:00, Th 08:30-20:00, Fr 08:00-18:00, Sa 08:00-12:00, Su off"
-website: "https://www.salon-guetz.de"
+street: Hauptstraße
+housenumber: "9"
+phone: +49 4236 393
+opening_hours: Mo off, Tu 08:30-18:00, We 08:30-17:00, Th 08:30-20:00, Fr 08:00-18:00,
+    Sa 08:00-12:00, Su off
+website: https://www.salon-guetz.de

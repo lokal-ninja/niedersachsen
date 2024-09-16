@@ -1,11 +1,11 @@
 id: 198053553
-type: way
+type: node
 latitude: 52.73494
 longitude: 7.77772
 postcode: "49624"
 city: Löningen
-street: "Möllerskamp"
-housenumber: 1
+street: Möllerskamp
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

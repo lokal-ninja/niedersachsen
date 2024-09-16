@@ -4,8 +4,8 @@ latitude: 53.04665
 longitude: 8.81895
 postcode: "28277"
 city: Bremen
-street: "Arsterdamm"
-housenumber: 4
+street: Arsterdamm
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 11:00-16:00"
-website: "http://sportnahrung-bremen.de/"
+opening_hours: Mo-Fr 12:00-19:00; Sa 11:00-16:00
+website: http://sportnahrung-bremen.de/

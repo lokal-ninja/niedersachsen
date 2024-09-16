@@ -1,11 +1,11 @@
 id: 103225036
-type: way
+type: node
 latitude: 53.3627
 longitude: 7.16652
 postcode: "26723"
 city: Emden
-street: "Thüringer Straße"
-housenumber: 8
-phone: "+49 4921 27857"
+street: Thüringer Straße
+housenumber: "8"
+phone: +49 4921 27857
 opening_hours: ""
 website: ""

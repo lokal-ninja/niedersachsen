@@ -1,11 +1,11 @@
 id: 321971348
-type: way
+type: node
 latitude: 52.35695
 longitude: 8.00438
 postcode: "49134"
 city: Wallenhorst
-street: "Borsigstraße"
-housenumber: 1
+street: Borsigstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://porta.de/einrichtungshaeuser/einrichtungshaeuser2/wallenhorst"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://porta.de/einrichtungshaeuser/einrichtungshaeuser2/wallenhorst

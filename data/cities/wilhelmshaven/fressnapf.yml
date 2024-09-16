@@ -4,8 +4,8 @@ latitude: 53.52384
 longitude: 8.07432
 postcode: "26389"
 city: Wilhelmshaven
-street: "Ebkeriege"
-housenumber: 61
-phone: "+49 4421 997741"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.fressnapf.de/maerkte/fressnapf-wilhelmshaven"
+street: Ebkeriege
+housenumber: "61"
+phone: +49 4421 997741
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://www.fressnapf.de/maerkte/fressnapf-wilhelmshaven

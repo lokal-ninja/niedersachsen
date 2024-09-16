@@ -4,8 +4,8 @@ latitude: 53.36714
 longitude: 9.71427
 postcode: "21279"
 city: Hollenstedt
-street: "Hauptstraße"
-housenumber: 4
-phone: "+49 4165 82368"
-opening_hours: "Tu,Th 08:00-18:00; We,Sa 08:00-12:00; Fr 08:00-12:00,14:00-18:00"
+street: Hauptstraße
+housenumber: "4"
+phone: +49 4165 82368
+opening_hours: Tu,Th 08:00-18:00; We,Sa 08:00-12:00; Fr 08:00-12:00,14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 26590987
-type: way
+type: node
 latitude: 52.34075
 longitude: 10.24939
 postcode: "31228"
 city: Peine
-street: "Hesebergweg"
-housenumber: 45
+street: Hesebergweg
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://www.mediamarkt.de/de/store/peine-261"
+website: https://www.mediamarkt.de/de/store/peine-261

@@ -1,11 +1,11 @@
 id: 1125824109
-type: way
+type: node
 latitude: 52.46748
 longitude: 10.18967
 postcode: "31311"
 city: Uetze
-street: "Schapers Kamp"
-housenumber: 7
+street: Schapers Kamp
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

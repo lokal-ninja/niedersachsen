@@ -1,11 +1,11 @@
 id: 111765467
-type: way
+type: node
 latitude: 52.318
 longitude: 10.21312
 postcode: "31226"
 city: Peine
-street: "Horst"
-housenumber: 12
-phone: "+49 5171 58590"
+street: Horst
+housenumber: "12"
+phone: +49 5171 58590
 opening_hours: ""
-website: "https://www.blockamring.net/"
+website: https://www.blockamring.net/

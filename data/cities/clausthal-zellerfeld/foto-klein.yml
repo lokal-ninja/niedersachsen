@@ -1,11 +1,11 @@
 id: 133173479
-type: way
+type: node
 latitude: 51.8018
 longitude: 10.44791
 postcode: "38707"
 city: Clausthal-Zellerfeld
-street: "Breite Straße"
-housenumber: 17
+street: Breite Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

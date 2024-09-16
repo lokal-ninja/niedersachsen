@@ -4,8 +4,8 @@ latitude: 53.37832
 longitude: 9.89831
 postcode: "21224"
 city: Rosengarten
-street: "Eckeler Straße"
-housenumber: 7
-phone: "+49 4105 2419"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-18:00"
-website: "https://www.blumen-buschmann.de/"
+street: Eckeler Straße
+housenumber: "7"
+phone: +49 4105 2419
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:00-18:00
+website: https://www.blumen-buschmann.de/

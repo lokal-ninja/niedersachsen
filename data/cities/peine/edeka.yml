@@ -1,11 +1,11 @@
 id: 639686929
-type: way
+type: node
 latitude: 52.34316
 longitude: 10.18548
 postcode: "31228"
 city: Peine
-street: "Kirchvordener Straße"
-housenumber: 45
+street: Kirchvordener Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

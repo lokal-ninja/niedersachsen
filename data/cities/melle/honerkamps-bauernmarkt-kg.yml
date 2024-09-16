@@ -1,11 +1,11 @@
 id: 44868685
-type: way
+type: node
 latitude: 52.17395
 longitude: 8.45776
 postcode: "49328"
 city: Melle
-street: "Herforder Straße"
-housenumber: 70
+street: Herforder Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 14:30-18:00, Sa 8:00-12:00"
+opening_hours: Mo-Fr 08:30-12:00, 14:30-18:00, Sa 8:00-12:00
 website: ""

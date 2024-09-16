@@ -1,11 +1,11 @@
 id: 1191299476
-type: way
+type: node
 latitude: 51.93159
 longitude: 10.42806
 postcode: "38642"
 city: Goslar
-street: "Im Fliegerhorst"
-housenumber: 5
+street: Im Fliegerhorst
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

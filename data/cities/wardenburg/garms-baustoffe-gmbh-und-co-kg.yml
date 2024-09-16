@@ -1,11 +1,11 @@
 id: 93075901
-type: way
+type: node
 latitude: 53.05212
 longitude: 8.20357
 postcode: "26203"
 city: Wardenburg
-street: "Rheinstraße"
-housenumber: 1
+street: Rheinstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.36577
 longitude: 9.76205
 postcode: "30171"
 city: Hannover
-street: "Tiestestraße"
-housenumber: 2
+street: Tiestestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 157549094
-type: way
+type: node
 latitude: 52.70861
 longitude: 8.50998
 postcode: "49406"
 city: Barnstorf
-street: "Berliner Platz"
-housenumber: 16
+street: Berliner Platz
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

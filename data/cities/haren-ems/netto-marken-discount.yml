@@ -1,11 +1,11 @@
 id: 161032198
-type: way
+type: node
 latitude: 52.78975
 longitude: 7.22849
 postcode: "49733"
 city: Haren (Ems)
-street: "Wesuweer Straße"
-housenumber: 35
+street: Wesuweer Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

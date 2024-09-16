@@ -4,8 +4,8 @@ latitude: 53.53213
 longitude: 8.59181
 postcode: "27570"
 city: Bremerhaven
-street: "Bülkenstraße"
-housenumber: 35
-phone: "+49 471 33007"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.brigitteswaeschemoden.de"
+street: Bülkenstraße
+housenumber: "35"
+phone: +49 471 33007
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.brigitteswaeschemoden.de

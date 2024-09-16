@@ -1,11 +1,11 @@
 id: 312453608
-type: way
+type: node
 latitude: 52.4883
 longitude: 7.22818
 postcode: "49835"
 city: Wietmarschen
-street: "Hauptstraße"
-housenumber: 6
-phone: "+49 5908 934 884"
+street: Hauptstraße
+housenumber: "6"
+phone: +49 5908 934 884
 opening_hours: ""
-website: "https://www.points-mers.de/"
+website: https://www.points-mers.de/

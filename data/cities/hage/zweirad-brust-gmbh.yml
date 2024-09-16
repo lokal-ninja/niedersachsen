@@ -4,8 +4,8 @@ latitude: 53.60301
 longitude: 7.28581
 postcode: "26524"
 city: Hage
-street: "Hauptstraße"
-housenumber: 37
-phone: "+49 4931 7033"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:00-13:00"
-website: "https://www.zweirad-brust.de/"
+street: Hauptstraße
+housenumber: "37"
+phone: +49 4931 7033
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:00-13:00
+website: https://www.zweirad-brust.de/

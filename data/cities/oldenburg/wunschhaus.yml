@@ -1,11 +1,11 @@
 id: 90932520
-type: way
+type: node
 latitude: 53.13325
 longitude: 8.19696
 postcode: "26122"
 city: Oldenburg
-street: "Hauptstraße"
-housenumber: 46
+street: Hauptstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

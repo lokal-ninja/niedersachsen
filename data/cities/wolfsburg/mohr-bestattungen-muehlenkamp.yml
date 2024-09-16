@@ -1,11 +1,11 @@
 id: 46974122
-type: way
+type: node
 latitude: 52.42076
 longitude: 10.7183
 postcode: "38442"
 city: Wolfsburg
-street: "Mühlenkamp"
-housenumber: 11
+street: Mühlenkamp
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 696446063
-type: way
+type: node
 latitude: 52.50635
 longitude: 10.5318
 postcode: "38518"
 city: Gifhorn
-street: "Carl-Miele-Straße"
-housenumber: 9
+street: Carl-Miele-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://autoglas-assistent.de/"
+website: http://autoglas-assistent.de/

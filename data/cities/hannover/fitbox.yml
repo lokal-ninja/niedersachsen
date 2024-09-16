@@ -4,8 +4,8 @@ latitude: 52.37911
 longitude: 9.73004
 postcode: "30159"
 city: Hannover
-street: "Am Klagesmarkt"
-housenumber: 51
-phone: "+49 511 89738370"
-opening_hours: "Tu-Fr 08:00-20:00; Sa 09:00-16:00"
-website: "https://www.fitbox.de/"
+street: Am Klagesmarkt
+housenumber: "51"
+phone: +49 511 89738370
+opening_hours: Tu-Fr 08:00-20:00; Sa 09:00-16:00
+website: https://www.fitbox.de/

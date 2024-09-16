@@ -1,11 +1,11 @@
 id: 1014421085
-type: way
+type: node
 latitude: 53.52107
 longitude: 7.34459
 postcode: "26624"
 city: Südbrookmerland
-street: "Tom-Brook-Straße"
-housenumber: 128
+street: Tom-Brook-Straße
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

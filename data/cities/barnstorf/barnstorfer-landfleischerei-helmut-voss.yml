@@ -1,11 +1,11 @@
 id: 189414850
-type: way
+type: node
 latitude: 52.70218
 longitude: 8.49298
 postcode: "49406"
 city: Barnstorf
-street: "Otto-Hahn-Straße"
-housenumber: 7
+street: Otto-Hahn-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00, 15:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-13:00, 15:00-18:00; Sa 08:00-13:00
 website: ""

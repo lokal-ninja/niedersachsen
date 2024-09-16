@@ -1,11 +1,11 @@
 id: 367122097
-type: way
+type: node
 latitude: 52.30209
 longitude: 7.94933
 postcode: "49076"
 city: Osnabrück
-street: "Prof.-Porsche-Straße"
-housenumber: 1
+street: Prof.-Porsche-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

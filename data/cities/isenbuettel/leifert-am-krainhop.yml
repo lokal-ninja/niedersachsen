@@ -1,11 +1,11 @@
 id: 583559773
-type: way
+type: node
 latitude: 52.44852
 longitude: 10.58616
 postcode: "38550"
 city: Isenbüttel
-street: "Am Krainhop"
-housenumber: 1
+street: Am Krainhop
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-14:00; Su 07:00-11:00; PH off"
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:00-14:00; Su 07:00-11:00; PH off
 website: ""

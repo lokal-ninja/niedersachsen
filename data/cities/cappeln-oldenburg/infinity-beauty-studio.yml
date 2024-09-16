@@ -4,8 +4,8 @@ latitude: 52.80988
 longitude: 8.0611
 postcode: "49692"
 city: Cappeln (Oldenburg)
-street: "Hauptstraße"
-housenumber: 23
-phone: "+491575 855 13 25"
-opening_hours: "Termine nur nach Vereinbarung"
-website: "https://infinity-beauty-studio.de/"
+street: Hauptstraße
+housenumber: "23"
+phone: +491575 855 13 25
+opening_hours: '"Termine nur nach Vereinbarung"'
+website: https://infinity-beauty-studio.de/

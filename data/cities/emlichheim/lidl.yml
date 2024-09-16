@@ -1,11 +1,11 @@
 id: 118354793
-type: way
+type: node
 latitude: 52.60796
 longitude: 6.85516
 postcode: "49824"
 city: Emlichheim
-street: "Ringer Straße"
-housenumber: 13
+street: Ringer Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/filialen/emlichheim/ringer-str-13.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/filialen/emlichheim/ringer-str-13.html

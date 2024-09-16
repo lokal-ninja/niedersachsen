@@ -1,11 +1,11 @@
 id: 486858417
-type: way
+type: node
 latitude: 52.52198
 longitude: 8.19333
 postcode: "49401"
 city: Damme
-street: "Lindenstraße"
-housenumber: 6
-phone: "+49 5491 9960 66"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-14:00"
-website: "https://www.buchhandlung-damme.de/"
+street: Lindenstraße
+housenumber: "6"
+phone: +49 5491 9960 66
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-14:00
+website: https://www.buchhandlung-damme.de/

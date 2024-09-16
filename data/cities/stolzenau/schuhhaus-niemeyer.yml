@@ -1,11 +1,11 @@
 id: 221960334
-type: way
+type: node
 latitude: 52.51182
 longitude: 9.07678
 postcode: "31592"
 city: Stolzenau
-street: "Allee"
-housenumber: 11
-phone: "+49 5761 502"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,15:00-18:00; We 09:00-12:30; Sa 09:00-12:30"
+street: Allee
+housenumber: "11"
+phone: +49 5761 502
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,15:00-18:00; We 09:00-12:30; Sa 09:00-12:30
 website: ""

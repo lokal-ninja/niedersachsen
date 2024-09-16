@@ -1,11 +1,11 @@
 id: 257834067
-type: way
+type: node
 latitude: 52.89976
 longitude: 8.21042
 postcode: "26197"
 city: Großenkneten
-street: "Vechtaer Straße"
-housenumber: 2
+street: Vechtaer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.netto-online.de

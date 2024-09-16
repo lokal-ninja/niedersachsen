@@ -1,11 +1,11 @@
 id: 156070842
-type: way
+type: node
 latitude: 52.60334
 longitude: 10.07751
 postcode: ""
 city: Celle
-street: "Westerceller Straße"
-housenumber: 1
+street: Westerceller Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

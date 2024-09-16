@@ -1,11 +1,11 @@
 id: 363304306
-type: way
+type: node
 latitude: 53.38245
 longitude: 10.1153
 postcode: "21435"
 city: Stelle
-street: "Lüneburger Straße"
-housenumber: 28
+street: Lüneburger Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:30"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:30
 website: ""

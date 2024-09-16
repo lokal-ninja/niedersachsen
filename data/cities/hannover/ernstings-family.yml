@@ -4,8 +4,8 @@ latitude: 52.37238
 longitude: 9.71034
 postcode: "30451"
 city: Hannover
-street: "Limmerstraße"
-housenumber: 17
+street: Limmerstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.ernstings-family.de/"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.ernstings-family.de/

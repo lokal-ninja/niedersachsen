@@ -1,11 +1,11 @@
 id: 830094321
-type: way
+type: node
 latitude: 51.92344
 longitude: 10.45896
 postcode: "38642"
 city: Goslar
-street: "Ohlhofbreite"
-housenumber: 40
+street: Ohlhofbreite
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de

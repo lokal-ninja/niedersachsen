@@ -1,11 +1,11 @@
 id: 1167971277
-type: way
+type: node
 latitude: 53.42724
 longitude: 7.10635
 postcode: "26736"
 city: Krummhörn
-street: "Handelsstraße"
-housenumber: 1
+street: Handelsstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

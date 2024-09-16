@@ -1,11 +1,11 @@
 id: 314626719
-type: way
+type: node
 latitude: 53.09325
 longitude: 8.92819
 postcode: "28355"
 city: Bremen
-street: "Krummacherweg"
-housenumber: 
+street: Krummacherweg
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

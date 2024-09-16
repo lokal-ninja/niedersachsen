@@ -1,11 +1,11 @@
 id: 385585436
-type: way
+type: node
 latitude: 53.35919
 longitude: 8.66214
 postcode: "27628"
 city: Hagen im Bremischen
-street: "Am Neumarkt"
-housenumber: 1
+street: Am Neumarkt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

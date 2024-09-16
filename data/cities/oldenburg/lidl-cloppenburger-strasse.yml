@@ -1,11 +1,11 @@
 id: 87449631
-type: way
+type: node
 latitude: 53.10758
 longitude: 8.2085
 postcode: "26133"
 city: Oldenburg
-street: "Cloppenburger Straße"
-housenumber: 405
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/oldenburg/kreyenbrueck-cloppenburger-str-405.html"
+street: Cloppenburger Straße
+housenumber: "405"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/oldenburg/kreyenbrueck-cloppenburger-str-405.html

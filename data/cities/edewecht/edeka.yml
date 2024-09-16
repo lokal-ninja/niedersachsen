@@ -1,11 +1,11 @@
 id: 41704589
-type: way
+type: node
 latitude: 53.1276
 longitude: 7.98062
 postcode: "26188"
 city: Edewecht
-street: "Bahnhofstraße"
-housenumber: 16
+street: Bahnhofstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

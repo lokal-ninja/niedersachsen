@@ -1,11 +1,11 @@
 id: 152292559
-type: way
+type: node
 latitude: 52.13834
 longitude: 9.96694
 postcode: "31141"
 city: Hildesheim
-street: "Marienburger Straße"
-housenumber: 77
+street: Marienburger Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

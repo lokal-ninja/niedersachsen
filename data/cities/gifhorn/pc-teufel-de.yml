@@ -1,11 +1,11 @@
 id: 261144347
-type: way
+type: node
 latitude: 52.5008
 longitude: 10.54178
 postcode: "38518"
 city: Gifhorn
-street: "Hamburger Straße"
-housenumber: 100
+street: Hamburger Straße
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

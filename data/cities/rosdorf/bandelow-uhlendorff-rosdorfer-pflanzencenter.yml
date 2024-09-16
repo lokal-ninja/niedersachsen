@@ -1,11 +1,12 @@
 id: 437179593
-type: way
+type: node
 latitude: 51.50845
 longitude: 9.91358
 postcode: "37124"
 city: Rosdorf
-street: "Raiffeisenstraße"
-housenumber: 7
+street: Raiffeisenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "week 9-43: Tu-Fr 09:00-18:00; Sa 09:00-14:00; week 44-53: Tu-Fr 09:00-17:00; Sa 09:00-13:00; Jan,Feb off; Mo,Su,PH off"
+opening_hours: 'week 9-43: Tu-Fr 09:00-18:00; Sa 09:00-14:00; week 44-53: Tu-Fr 09:00-17:00;
+    Sa 09:00-13:00; Jan,Feb off; Mo,Su,PH off'
 website: ""

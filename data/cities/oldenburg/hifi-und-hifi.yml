@@ -1,11 +1,11 @@
 id: 316315252
-type: way
+type: node
 latitude: 53.17996
 longitude: 8.23137
 postcode: "26125"
 city: Oldenburg
-street: "Haseler Weg"
-housenumber: 2
+street: Haseler Weg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.mediaathome.de/info/portal/vs=mediahome/dealer=509636-0/ZacCenter/main.ipm"
+website: https://www.mediaathome.de/info/portal/vs=mediahome/dealer=509636-0/ZacCenter/main.ipm

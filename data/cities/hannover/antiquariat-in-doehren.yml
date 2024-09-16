@@ -4,8 +4,9 @@ latitude: 52.33904
 longitude: 9.76506
 postcode: "30519"
 city: Hannover
-street: "Helenenstraße"
-housenumber: 7
-phone: "+49 84889919"
-opening_hours: "Mo., Di., Do. 11 - 18 Uhr Mittwoch geschlossen Fr. 9.00 - 19 Uhr Sa. n.V."
-website: "https://www.antiquariat.de/?i=HD63288746"
+street: Helenenstraße
+housenumber: "7"
+phone: +49 84889919
+opening_hours: Mo., Di., Do. 11 - 18 Uhr Mittwoch geschlossen Fr. 9.00 - 19 Uhr Sa.
+    n.V.
+website: https://www.antiquariat.de/?i=HD63288746

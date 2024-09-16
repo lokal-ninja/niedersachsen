@@ -4,8 +4,8 @@ latitude: 52.11623
 longitude: 9.55625
 postcode: "31863"
 city: Coppenbrügge
-street: "Alte Heerstraße"
-housenumber: 21
-phone: "05156 98791"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka-durasin.de/"
+street: Alte Heerstraße
+housenumber: "21"
+phone: 05156 98791
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka-durasin.de/

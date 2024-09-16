@@ -4,8 +4,8 @@ latitude: 53.52327
 longitude: 8.58712
 postcode: "27572"
 city: Bremerhaven
-street: "Nansenstraße"
-housenumber: 12
-phone: "+49 471 80949501"
-opening_hours: "Mo,Tu,Th 09:00-15:30; We 10:00-16:30; Fr 09:00-14:00"
-website: "http://copy-center-bremerhaven.de/"
+street: Nansenstraße
+housenumber: "12"
+phone: +49 471 80949501
+opening_hours: Mo,Tu,Th 09:00-15:30; We 10:00-16:30; Fr 09:00-14:00
+website: http://copy-center-bremerhaven.de/

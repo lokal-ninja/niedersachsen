@@ -4,8 +4,8 @@ latitude: 53.0951
 longitude: 8.8085
 postcode: "28215"
 city: Bremen
-street: "Hemmstraße"
-housenumber: 202
-phone: "+49173 1603525"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.lederi.de/"
+street: Hemmstraße
+housenumber: "202"
+phone: +49173 1603525
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.lederi.de/

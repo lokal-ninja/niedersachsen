@@ -1,11 +1,11 @@
 id: 422603686
-type: way
+type: node
 latitude: 53.36894
 longitude: 7.20906
 postcode: "26725"
 city: Emden
-street: "Bollwerkstraße"
-housenumber: 19
+street: Bollwerkstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

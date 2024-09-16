@@ -1,11 +1,11 @@
 id: 183740595
-type: way
+type: node
 latitude: 52.42048
 longitude: 9.7272
 postcode: ""
 city: Hannover
-street: "Industrieweg"
-housenumber: 
+street: Industrieweg
+housenumber: ""
 phone: "+4951139089710"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://toom.de/m/hannover/"
+opening_hours: Mo-Su 08:00-20:00
+website: https://toom.de/m/hannover/

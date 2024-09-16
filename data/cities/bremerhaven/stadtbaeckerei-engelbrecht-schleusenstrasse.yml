@@ -4,8 +4,8 @@ latitude: 53.55289
 longitude: 8.57301
 postcode: "27568"
 city: Bremerhaven
-street: "Schleusenstraße"
-housenumber: 33
+street: Schleusenstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 06:00-16:00; Sa 07:00-13:00; Su 08:00-16:00"
-website: "http://www.stadtbaeckerei-engelbrecht.org/"
+opening_hours: Mo-Fr 06:00-16:00; Sa 07:00-13:00; Su 08:00-16:00
+website: http://www.stadtbaeckerei-engelbrecht.org/

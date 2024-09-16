@@ -1,11 +1,11 @@
 id: 219598103
-type: way
+type: node
 latitude: 53.09239
 longitude: 8.53002
 postcode: "27777"
 city: Ganderkesee
-street: "Stedinger Straße"
-housenumber: 26
+street: Stedinger Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

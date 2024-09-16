@@ -1,11 +1,11 @@
 id: 176058713
-type: way
+type: node
 latitude: 53.59044
 longitude: 9.48567
 postcode: "21680"
 city: Stade
-street: "Harburger Straße"
-housenumber: 80
-phone: "+49 4141 60780"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:30; Su 13:00-18:00"
-website: "https://www.autohaus-cordes.de/"
+street: Harburger Straße
+housenumber: "80"
+phone: +49 4141 60780
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:30; Su 13:00-18:00
+website: https://www.autohaus-cordes.de/

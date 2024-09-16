@@ -1,11 +1,11 @@
 id: 231421145
-type: way
+type: node
 latitude: 53.77992
 longitude: 9.32339
 postcode: "21737"
 city: Wischhafen
-street: "Lippscher Straße"
-housenumber: 2
+street: Lippscher Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

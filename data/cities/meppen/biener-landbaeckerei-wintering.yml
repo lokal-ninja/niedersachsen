@@ -4,8 +4,8 @@ latitude: 52.70052
 longitude: 7.27307
 postcode: "49716"
 city: Meppen
-street: "Esterfelder Stiege"
-housenumber: 113
-phone: "+49 5931 4099202"
-opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-17:00"
-website: "https://www.wintering.de/filialen.html"
+street: Esterfelder Stiege
+housenumber: "113"
+phone: +49 5931 4099202
+opening_hours: Mo-Sa 06:00-20:00; Su 08:00-17:00
+website: https://www.wintering.de/filialen.html

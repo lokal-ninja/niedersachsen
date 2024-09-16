@@ -1,11 +1,11 @@
 id: 474685028
-type: way
+type: node
 latitude: 52.40721
 longitude: 8.00571
 postcode: "49565"
 city: Bramsche
-street: "Lutterdamm"
-housenumber: 68
+street: Lutterdamm
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.53041
 longitude: 8.58985
 postcode: "27570"
 city: Bremerhaven
-street: "Georgstraße"
-housenumber: 73
+street: Georgstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00"
-website: "http://www.barnkow.de/"
+opening_hours: Mo-Fr 09:00-13:00
+website: http://www.barnkow.de/

@@ -4,8 +4,8 @@ latitude: 53.16815
 longitude: 8.21552
 postcode: "26127"
 city: Oldenburg
-street: "Scheideweg"
-housenumber: 100
-phone: "+49 800 3000111"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su,PH off"
-website: "https://www.tchibo.de/service/storefinder/store/90113284"
+street: Scheideweg
+housenumber: "100"
+phone: +49 800 3000111
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su,PH off
+website: https://www.tchibo.de/service/storefinder/store/90113284

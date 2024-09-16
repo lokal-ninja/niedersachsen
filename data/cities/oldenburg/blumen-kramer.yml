@@ -1,11 +1,11 @@
 id: 108036024
-type: way
+type: node
 latitude: 53.13393
 longitude: 8.18715
 postcode: "26131"
 city: Oldenburg
-street: "Hauptstraße"
-housenumber: 122
+street: Hauptstraße
+housenumber: "122"
 phone: ""
-opening_hours: "z.z. nicht besetzt"
+opening_hours: '"z.z. nicht besetzt"'
 website: ""

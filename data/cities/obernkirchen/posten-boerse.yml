@@ -1,11 +1,11 @@
 id: 174134681
-type: way
+type: node
 latitude: 52.27445
 longitude: 9.12517
 postcode: "31683"
 city: Obernkirchen
-street: "Lange Straße"
-housenumber: 59
-phone: "+49 5724 3973915"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
+street: Lange Straße
+housenumber: "59"
+phone: +49 5724 3973915
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
 website: ""

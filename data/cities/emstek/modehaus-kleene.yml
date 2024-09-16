@@ -1,11 +1,11 @@
 id: 220510581
-type: way
+type: node
 latitude: 52.83414
 longitude: 8.15713
 postcode: "49685"
 city: Emstek
-street: "Lange Straße"
-housenumber: 5
+street: Lange Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-16:00"
-website: "https://www.modehaus-kleene.com/"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-16:00
+website: https://www.modehaus-kleene.com/

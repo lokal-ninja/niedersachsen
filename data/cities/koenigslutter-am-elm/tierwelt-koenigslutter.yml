@@ -1,11 +1,11 @@
 id: 370613305
-type: way
+type: node
 latitude: 52.25665
 longitude: 10.81888
 postcode: "38154"
 city: Königslutter am Elm
-street: "Kupfermühlenberg"
-housenumber: 3
+street: Kupfermühlenberg
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00; Su off; PH off"
-website: "https://tierwelt-koenigslutter.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00; Su off; PH off
+website: https://tierwelt-koenigslutter.de/

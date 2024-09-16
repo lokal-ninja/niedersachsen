@@ -1,11 +1,11 @@
 id: 89345303
-type: way
+type: node
 latitude: 52.79708
 longitude: 7.86548
 postcode: "49688"
 city: Lastrup
-street: "Vlämische Straße"
-housenumber: 40
+street: Vlämische Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 345633835
-type: way
+type: node
 latitude: 52.09068
 longitude: 10.16197
 postcode: "31188"
 city: Holle
-street: "Bindersche Straße"
-housenumber: 5
+street: Bindersche Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

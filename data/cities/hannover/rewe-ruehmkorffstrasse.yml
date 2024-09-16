@@ -4,8 +4,8 @@ latitude: 52.39076
 longitude: 9.75312
 postcode: "30163"
 city: Hannover
-street: "Rühmkorffstraße"
-housenumber: 20
-phone: "+49 511 623842"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/hannover/540810/rewe-markt-ruehmkorffstr-20/"
+street: Rühmkorffstraße
+housenumber: "20"
+phone: +49 511 623842
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/hannover/540810/rewe-markt-ruehmkorffstr-20/

@@ -4,8 +4,8 @@ latitude: 52.44566
 longitude: 9.41971
 postcode: "31515"
 city: Wunstorf
-street: "Schulstraße"
-housenumber: 1
-phone: "+49 5031 5160044"
-opening_hours: "Mo-Sa 07:00-12:00"
-website: "https://www.fleischerei-knuhr.de/"
+street: Schulstraße
+housenumber: "1"
+phone: +49 5031 5160044
+opening_hours: Mo-Sa 07:00-12:00
+website: https://www.fleischerei-knuhr.de/

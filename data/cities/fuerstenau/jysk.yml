@@ -1,11 +1,11 @@
 id: 1016436311
-type: way
+type: node
 latitude: 52.5139
 longitude: 7.68671
 postcode: "49584"
 city: Fürstenau
-street: "Werner-von-Siemens-Straße"
-housenumber: 1
+street: Werner-von-Siemens-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

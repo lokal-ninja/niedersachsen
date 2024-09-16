@@ -1,11 +1,12 @@
 id: 223422325
-type: way
+type: node
 latitude: 52.38685
 longitude: 10.53273
 postcode: "38527"
 city: Meine
-street: "An der Bahn"
-housenumber: 9
+street: An der Bahn
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:30; Fr 07:00-14:45; Weitere Termine sind nach Absprache möglich."
+opening_hours: Mo-Th 07:00-17:30; Fr 07:00-14:45; "Weitere Termine sind nach Absprache
+    möglich."
 website: ""

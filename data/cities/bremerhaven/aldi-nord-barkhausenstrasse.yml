@@ -1,11 +1,11 @@
 id: 185320462
-type: way
+type: node
 latitude: 53.55705
 longitude: 8.56549
 postcode: "27568"
 city: Bremerhaven
-street: "Barkhausenstraße"
-housenumber: 107
+street: Barkhausenstraße
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

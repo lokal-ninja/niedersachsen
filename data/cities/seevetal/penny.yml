@@ -1,11 +1,11 @@
 id: 143824444
-type: way
+type: node
 latitude: 53.41684
 longitude: 10.0188
 postcode: "21217"
 city: Seevetal
-street: "Glüsinger Straße"
-housenumber: 32
+street: Glüsinger Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

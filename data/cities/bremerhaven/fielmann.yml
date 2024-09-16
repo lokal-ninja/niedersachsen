@@ -4,8 +4,8 @@ latitude: 53.55951
 longitude: 8.58559
 postcode: "27576"
 city: Bremerhaven
-street: "Hafenstraße"
-housenumber: 141
+street: Hafenstraße
+housenumber: "141"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.fielmann.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.fielmann.de/

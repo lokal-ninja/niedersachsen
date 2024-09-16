@@ -1,11 +1,11 @@
 id: 341315254
-type: way
+type: node
 latitude: 53.31997
 longitude: 7.48658
 postcode: "26802"
 city: Moormerland
-street: "Dr.-Warsing-Straße"
-housenumber: 74
-phone: "+49 4954 8931740"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; PH off"
-website: "https://www.aktionshaus-wreesmann.de"
+street: Dr.-Warsing-Straße
+housenumber: "74"
+phone: +49 4954 8931740
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; PH off
+website: https://www.aktionshaus-wreesmann.de

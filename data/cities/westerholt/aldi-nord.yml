@@ -1,11 +1,11 @@
 id: 1197855669
-type: way
+type: node
 latitude: 53.58676
 longitude: 7.46043
 postcode: "26556"
 city: Westerholt
-street: "Auricher Straße"
-housenumber: 14
+street: Auricher Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

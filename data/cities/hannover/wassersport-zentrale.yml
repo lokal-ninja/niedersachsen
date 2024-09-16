@@ -1,11 +1,11 @@
 id: 183003890
-type: way
+type: node
 latitude: 52.3624
 longitude: 9.87132
 postcode: "30559"
 city: Hannover
-street: "Hägenstraße"
-housenumber: 12
-phone: "+49 511 331447"
+street: Hägenstraße
+housenumber: "12"
+phone: +49 511 331447
 opening_hours: ""
-website: "https://www.wassersportzentrale.de/"
+website: https://www.wassersportzentrale.de/

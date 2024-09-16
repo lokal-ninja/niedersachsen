@@ -4,8 +4,8 @@ latitude: 52.98217
 longitude: 9.92495
 postcode: "29614"
 city: Soltau
-street: "Rahrsberg"
-housenumber: 7
-phone: "+49 5191 9739939"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://de.gant.com/"
+street: Rahrsberg
+housenumber: "7"
+phone: +49 5191 9739939
+opening_hours: Mo-Sa 10:00-20:00
+website: https://de.gant.com/

@@ -1,11 +1,11 @@
 id: 331894417
-type: way
+type: node
 latitude: 52.85122
 longitude: 7.68638
 postcode: "49757"
 city: Werlte
-street: "Hauptstraße"
-housenumber: 79
-phone: "+49 5951 995641"
-opening_hours: "Mo-Fr 10:00-18:30"
+street: Hauptstraße
+housenumber: "79"
+phone: +49 5951 995641
+opening_hours: Mo-Fr 10:00-18:30
 website: ""

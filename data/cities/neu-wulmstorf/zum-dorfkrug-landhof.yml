@@ -1,11 +1,11 @@
 id: 994029051
-type: way
+type: node
 latitude: 53.45025
 longitude: 9.78891
 postcode: "21629"
 city: Neu Wulmstorf
-street: "Höftenberg"
-housenumber: 2
+street: Höftenberg
+housenumber: "2"
 phone: ""
-opening_hours: "Fr-Su 11:00-19:00"
-website: "https://www.zum-dorfkrug.de/landhof/"
+opening_hours: Fr-Su 11:00-19:00
+website: https://www.zum-dorfkrug.de/landhof/

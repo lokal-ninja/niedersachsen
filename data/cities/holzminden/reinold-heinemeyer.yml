@@ -1,11 +1,11 @@
 id: 361666010
-type: way
+type: node
 latitude: 51.76952
 longitude: 9.54638
 postcode: "37603"
 city: Holzminden
-street: "Dasseler Straße"
-housenumber: 5
+street: Dasseler Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

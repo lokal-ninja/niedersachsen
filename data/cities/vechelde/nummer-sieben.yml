@@ -1,11 +1,11 @@
 id: 117389521
-type: way
+type: node
 latitude: 52.26153
 longitude: 10.37613
 postcode: "38159"
 city: Vechelde
-street: "Hildesheimer Straße"
-housenumber: 7
+street: Hildesheimer Straße
+housenumber: "7"
 phone: "+495302805837"
-opening_hours: "Mo-Th 10:00-17:30; Fr 09:00-17:30; Sa 10:00-13:00"
-website: "http://www.nummersieben.com/"
+opening_hours: Mo-Th 10:00-17:30; Fr 09:00-17:30; Sa 10:00-13:00
+website: http://www.nummersieben.com/

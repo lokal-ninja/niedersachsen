@@ -1,11 +1,11 @@
 id: 103771224
-type: way
+type: node
 latitude: 53.10493
 longitude: 8.26771
 postcode: "26135"
 city: Oldenburg
-street: "Am Schulgraben"
-housenumber: 11
+street: Am Schulgraben
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.rolfes.biz/"
+website: https://www.rolfes.biz/

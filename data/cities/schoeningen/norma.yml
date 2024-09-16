@@ -1,11 +1,11 @@
 id: 269429017
-type: way
+type: node
 latitude: 52.14042
 longitude: 10.97588
 postcode: "38364"
 city: Schöningen
-street: "Büddenstedter Straße"
-housenumber: 
+street: Büddenstedter Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH closed"
+opening_hours: Mo-Sa 07:00-20:00; PH closed
 website: ""

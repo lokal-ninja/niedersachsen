@@ -1,11 +1,11 @@
 id: 616337941
-type: way
+type: node
 latitude: 52.19095
 longitude: 10.22757
 postcode: "31185"
 city: Söhlde
-street: "An der Mühle"
-housenumber: 1
+street: An der Mühle
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

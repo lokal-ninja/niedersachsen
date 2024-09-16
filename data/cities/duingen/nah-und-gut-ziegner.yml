@@ -1,11 +1,11 @@
 id: 94511768
-type: way
+type: node
 latitude: 52.00426
 longitude: 9.69636
 postcode: "31089"
 city: Duingen
-street: "Industriestraße"
-housenumber: 12
-phone: "+49 5185 957363"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/marktsuche.jsp#/?searchstring=31089"
+street: Industriestraße
+housenumber: "12"
+phone: +49 5185 957363
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/marktsuche.jsp#/?searchstring=31089

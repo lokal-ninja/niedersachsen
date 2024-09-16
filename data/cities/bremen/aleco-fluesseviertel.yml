@@ -4,8 +4,8 @@ latitude: 53.06728
 longitude: 8.79188
 postcode: "28199"
 city: Bremen
-street: "Pappelstraße"
-housenumber: 95
+street: Pappelstraße
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.aleco.bio/standorte/28199-hb-pappelstrasse"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.aleco.bio/standorte/28199-hb-pappelstrasse

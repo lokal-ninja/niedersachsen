@@ -1,11 +1,11 @@
 id: 130417639
-type: way
+type: node
 latitude: 53.12847
 longitude: 8.23703
 postcode: ""
 city: Oldenburg
-street: "Bremer Heerstraße"
-housenumber: 83
+street: Bremer Heerstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00
 website: ""

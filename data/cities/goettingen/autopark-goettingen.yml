@@ -1,11 +1,11 @@
 id: 150644394
-type: way
+type: node
 latitude: 51.5384
 longitude: 9.91116
 postcode: "37081"
 city: Göttingen
-street: "Königsstieg"
-housenumber: 33
+street: Königsstieg
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-12:30; PH off"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-12:30; PH off
 website: ""

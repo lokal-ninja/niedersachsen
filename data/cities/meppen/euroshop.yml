@@ -1,11 +1,11 @@
 id: 196000314
-type: way
+type: node
 latitude: 52.69231
 longitude: 7.29105
 postcode: "49716"
 city: Meppen
-street: "Hasestraße"
-housenumber: 2
-phone: "+49 931 90004390"
-opening_hours: "Mo-Fr 10:30-18:00; Sa 10:00-17:00"
-website: "https://euroshop-online.de/filiale/"
+street: Hasestraße
+housenumber: "2"
+phone: +49 931 90004390
+opening_hours: Mo-Fr 10:30-18:00; Sa 10:00-17:00
+website: https://euroshop-online.de/filiale/

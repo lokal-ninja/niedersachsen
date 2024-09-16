@@ -1,11 +1,11 @@
 id: 92412484
-type: way
+type: node
 latitude: 53.02214
 longitude: 8.77307
 postcode: "28816"
 city: Stuhr
-street: "Carl-Zeiss-Straße"
-housenumber: 26
-phone: "+49 421 8009700"
+street: Carl-Zeiss-Straße
+housenumber: "26"
+phone: +49 421 8009700
 opening_hours: ""
-website: "https://www.caravan-freizeit.de/"
+website: https://www.caravan-freizeit.de/

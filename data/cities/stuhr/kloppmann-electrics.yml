@@ -1,11 +1,11 @@
 id: 182176483
-type: way
+type: node
 latitude: 53.02465
 longitude: 8.69081
 postcode: "28816"
 city: Stuhr
-street: "Alter Postweg"
-housenumber: 64
+street: Alter Postweg
+housenumber: "64"
 phone: ""
 opening_hours: ""
-website: "https://www.kloppmann-electrics.com/"
+website: https://www.kloppmann-electrics.com/

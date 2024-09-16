@@ -4,8 +4,8 @@ latitude: 52.32344
 longitude: 8.33713
 postcode: "49152"
 city: Bad Essen
-street: "Gartenstraße"
-housenumber: 61
-phone: "+49 5472 94050"
-opening_hours: "Mo- Fr 08:00-18:00; Sa 09:00-12:30"
-website: "https://www.autohaus-beutler.de/"
+street: Gartenstraße
+housenumber: "61"
+phone: +49 5472 94050
+opening_hours: Mo- Fr 08:00-18:00; Sa 09:00-12:30
+website: https://www.autohaus-beutler.de/

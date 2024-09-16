@@ -1,11 +1,11 @@
 id: 39706050
-type: way
+type: node
 latitude: 52.8474
 longitude: 8.72736
 postcode: "27211"
 city: Bassum
-street: "Sulinger Straße"
-housenumber: 3
+street: Sulinger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 346586302
-type: way
+type: node
 latitude: 52.37685
 longitude: 9.74171
 postcode: "30159"
 city: Hannover
-street: "Ernst-August-Carree"
-housenumber: 1
+street: Ernst-August-Carree
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
+opening_hours: Mo-Su 09:00-19:00
 website: ""

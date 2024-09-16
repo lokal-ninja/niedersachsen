@@ -4,8 +4,8 @@ latitude: 51.54676
 longitude: 9.88629
 postcode: "37079"
 city: Göttingen
-street: "Gustav-Bielefeld-Straße"
-housenumber: 2
-phone: "+49 551 5211842"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.mbe.de/de/versand-druck/gttingen/0042"
+street: Gustav-Bielefeld-Straße
+housenumber: "2"
+phone: +49 551 5211842
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.mbe.de/de/versand-druck/gttingen/0042

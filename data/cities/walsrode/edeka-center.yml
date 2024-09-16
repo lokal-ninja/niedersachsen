@@ -1,11 +1,11 @@
 id: 192474521
-type: way
+type: node
 latitude: 52.86543
 longitude: 9.61971
 postcode: "29664"
 city: Walsrode
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
+street: Rudolf-Diesel-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "http://mein.edeka.de/eh/de/minden_hannover/3629/index.jsp"
+opening_hours: Mo-Sa 08:00-21:00
+website: http://mein.edeka.de/eh/de/minden_hannover/3629/index.jsp

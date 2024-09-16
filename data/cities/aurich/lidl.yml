@@ -1,11 +1,11 @@
 id: 510268569
-type: way
+type: node
 latitude: 53.47042
 longitude: 7.46609
 postcode: "26607"
 city: Aurich
-street: "Emder Straße"
-housenumber: 27
+street: Emder Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

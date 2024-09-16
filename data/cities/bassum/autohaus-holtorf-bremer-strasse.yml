@@ -1,11 +1,11 @@
 id: 51954411
-type: way
+type: node
 latitude: 52.85237
 longitude: 8.72658
 postcode: "27211"
 city: Bassum
-street: "Bremer Straße"
-housenumber: 47
+street: Bremer Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:00
 website: ""

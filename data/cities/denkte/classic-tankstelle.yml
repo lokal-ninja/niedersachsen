@@ -1,11 +1,11 @@
 id: 544573108
-type: way
+type: node
 latitude: 52.14557
 longitude: 10.60759
 postcode: "38321"
 city: Denkte
-street: "Leipziger Straße"
-housenumber: 1
+street: Leipziger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 08:00-20:00; Su 08:00-18:00"
+opening_hours: Mo-Fr 06:00-20:00; Sa 08:00-20:00; Su 08:00-18:00
 website: ""

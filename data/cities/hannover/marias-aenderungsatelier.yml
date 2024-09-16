@@ -4,8 +4,9 @@ latitude: 52.37426
 longitude: 9.78773
 postcode: "30625"
 city: Hannover
-street: "Dohmeyers Weg"
-housenumber: 6
+street: Dohmeyers Weg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Tu, Th-Fr 08:00-13:00, 15:00-18:00; We 08:00-13:00; Sa 08:00-12:00; PH off"
+opening_hours: Mo-Tu, Th-Fr 08:00-13:00, 15:00-18:00; We 08:00-13:00; Sa 08:00-12:00;
+    PH off
 website: ""

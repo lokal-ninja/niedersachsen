@@ -1,11 +1,11 @@
 id: 88592728
-type: way
+type: node
 latitude: 53.38609
 longitude: 8.00888
 postcode: "26345"
 city: Bockhorn
-street: "Am Geeschendamm"
-housenumber: 2
+street: Am Geeschendamm
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

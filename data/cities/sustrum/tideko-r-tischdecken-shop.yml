@@ -1,11 +1,11 @@
 id: 556778795
-type: way
+type: node
 latitude: 52.89893
 longitude: 7.16996
 postcode: "49762"
 city: Sustrum
-street: "Lindenstraße"
-housenumber: 11
-phone: "+49 5939 774"
+street: Lindenstraße
+housenumber: "11"
+phone: +49 5939 774
 opening_hours: ""
-website: "https://www.tischdecken-shop.de/shopware/"
+website: https://www.tischdecken-shop.de/shopware/

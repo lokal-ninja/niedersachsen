@@ -4,8 +4,8 @@ latitude: 52.3616
 longitude: 9.74997
 postcode: "30169"
 city: Hannover
-street: "Hildesheimer Straße"
-housenumber: 71
-phone: "+49 511 885877"
-opening_hours: "Sa 08:00-13:00; Mo,Tu,Fr 08:00-18:00; We 09:00-18:00; Th 08:00-18:00"
+street: Hildesheimer Straße
+housenumber: "71"
+phone: +49 511 885877
+opening_hours: Sa 08:00-13:00; Mo,Tu,Fr 08:00-18:00; We 09:00-18:00; Th 08:00-18:00
 website: ""

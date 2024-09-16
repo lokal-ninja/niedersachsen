@@ -4,8 +4,8 @@ latitude: 53.1399
 longitude: 8.21505
 postcode: "26122"
 city: Oldenburg
-street: "Achternstraße"
-housenumber: 23
+street: Achternstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.fynch-hatton.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.fynch-hatton.de/

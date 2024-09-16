@@ -1,11 +1,11 @@
 id: 34515017
-type: way
+type: node
 latitude: 53.5402
 longitude: 7.95005
 postcode: "26419"
 city: Schortens
-street: "Jadestraße"
+street: Jadestraße
 housenumber: 7-9
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.lidl.de/filialen/schortens/jadestr-7-9.html"
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.lidl.de/filialen/schortens/jadestr-7-9.html

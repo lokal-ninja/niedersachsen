@@ -1,11 +1,11 @@
 id: 304461672
-type: way
+type: node
 latitude: 52.96381
 longitude: 10.56129
 postcode: "29525"
 city: Uelzen
-street: "Schuhstraße"
-housenumber: 27
+street: Schuhstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-We 07:30-13:30; Th,Fr 07:30-18:00"
+opening_hours: Mo-We 07:30-13:30; Th,Fr 07:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 801942560
-type: way
+type: node
 latitude: 53.33685
 longitude: 8.46877
 postcode: "26919"
 city: Brake (Unterweser)
-street: "Weserstraße"
-housenumber: 74
+street: Weserstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
 website: ""

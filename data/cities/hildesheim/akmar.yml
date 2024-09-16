@@ -4,8 +4,8 @@ latitude: 52.16319
 longitude: 9.9432
 postcode: "31137"
 city: Hildesheim
-street: "Bischofskamp"
-housenumber: 45
-phone: "+49 5121 7415261"
-opening_hours: "Mo-Fr 08:00-20:00"
+street: Bischofskamp
+housenumber: "45"
+phone: +49 5121 7415261
+opening_hours: Mo-Fr 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.40552
 longitude: 9.71273
 postcode: "30165"
 city: Hannover
-street: "Schulenburger Landstraße"
-housenumber: 120
-phone: "+49 511 3886403"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.polo-motorrad.de/cms/store/details/polo-store-hannover"
+street: Schulenburger Landstraße
+housenumber: "120"
+phone: +49 511 3886403
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.polo-motorrad.de/cms/store/details/polo-store-hannover

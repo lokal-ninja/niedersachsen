@@ -4,8 +4,8 @@ latitude: 53.52598
 longitude: 8.59493
 postcode: "27570"
 city: Bremerhaven
-street: "Georg-Seebeck-Straße"
-housenumber: 56
+street: Georg-Seebeck-Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "http://www.the-hairport-bremerhaven.de"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: http://www.the-hairport-bremerhaven.de

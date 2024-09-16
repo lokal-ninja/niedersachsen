@@ -4,8 +4,8 @@ latitude: 52.26968
 longitude: 10.53859
 postcode: "38106"
 city: Braunschweig
-street: "Hagenring"
-housenumber: 8
-phone: "+49 531 39078299"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; PH off"
-website: "http://www.zauberhafteblumen.de/"
+street: Hagenring
+housenumber: "8"
+phone: +49 531 39078299
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; PH off
+website: http://www.zauberhafteblumen.de/

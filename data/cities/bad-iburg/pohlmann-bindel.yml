@@ -1,11 +1,11 @@
 id: 883940666
-type: way
+type: node
 latitude: 52.15029
 longitude: 8.04753
 postcode: "49186"
 city: Bad Iburg
-street: "Janheck"
-housenumber: 1
+street: Janheck
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.pohlmann-bindel.de/"
+website: https://www.pohlmann-bindel.de/

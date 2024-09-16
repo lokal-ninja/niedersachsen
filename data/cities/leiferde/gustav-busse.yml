@@ -1,11 +1,11 @@
 id: 46048888
-type: way
+type: node
 latitude: 52.44055
 longitude: 10.43131
 postcode: "38542"
 city: Leiferde
-street: "Zum Wohlenberg"
-housenumber: 7
+street: Zum Wohlenberg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

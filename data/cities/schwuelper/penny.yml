@@ -1,11 +1,11 @@
 id: 228975302
-type: way
+type: node
 latitude: 52.35742
 longitude: 10.43185
 postcode: "38179"
 city: Schwülper
-street: "Schloßstraße"
-housenumber: 20
+street: Schloßstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.penny.de/

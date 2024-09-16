@@ -4,8 +4,8 @@ latitude: 53.53205
 longitude: 8.5913
 postcode: "27570"
 city: Bremerhaven
-street: "Grashoffstraße"
-housenumber: 7
+street: Grashoffstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:30; Su 07:30-11:00"
-website: "http://www.backhus-bremerhaven.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:30; Su 07:30-11:00
+website: http://www.backhus-bremerhaven.de/

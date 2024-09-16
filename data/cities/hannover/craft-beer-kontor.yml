@@ -4,8 +4,8 @@ latitude: 52.36388
 longitude: 9.75081
 postcode: "30171"
 city: Hannover
-street: "Schlägerstraße"
-housenumber: 17
-phone: "+49 511 89865334"
-opening_hours: "We-Fr 14:00-20:00, Sa 12:00-18:00"
-website: "https://www.craftbeerkontor.de/"
+street: Schlägerstraße
+housenumber: "17"
+phone: +49 511 89865334
+opening_hours: We-Fr 14:00-20:00, Sa 12:00-18:00
+website: https://www.craftbeerkontor.de/

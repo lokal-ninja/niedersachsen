@@ -1,11 +1,11 @@
 id: 323351498
-type: way
+type: node
 latitude: 53.40289
 longitude: 7.59086
 postcode: "26629"
 city: Großefehn
-street: "Kanalstraße Nord"
-housenumber: 49
-phone: "+49 4943 1379"
+street: Kanalstraße Nord
+housenumber: "49"
+phone: +49 4943 1379
 opening_hours: ""
-website: "https://www.polster-hicken.de/"
+website: https://www.polster-hicken.de/

@@ -4,8 +4,8 @@ latitude: 53.17745
 longitude: 8.18951
 postcode: "26127"
 city: Oldenburg
-street: "Alexanderstraße"
-housenumber: 444
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/oldenburg/alexandersfeld-alexanderstr-444.html"
+street: Alexanderstraße
+housenumber: "444"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/oldenburg/alexandersfeld-alexanderstr-444.html

@@ -4,8 +4,8 @@ latitude: 53.53216
 longitude: 8.59209
 postcode: "27570"
 city: Bremerhaven
-street: "Grashoffstraße"
-housenumber: 11
-phone: "+49 471 36052"
-opening_hours: "Mo-Fr 09:00-13:00, Sa 09:00-13:00, Mo-Fr 14:00-18:00"
-website: "https://www.buchhandlung-memminger.de"
+street: Grashoffstraße
+housenumber: "11"
+phone: +49 471 36052
+opening_hours: Mo-Fr 09:00-13:00, Sa 09:00-13:00, Mo-Fr 14:00-18:00
+website: https://www.buchhandlung-memminger.de

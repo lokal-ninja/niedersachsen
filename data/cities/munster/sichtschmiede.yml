@@ -4,8 +4,8 @@ latitude: 52.98732
 longitude: 10.08701
 postcode: "29633"
 city: Munster
-street: "Wilhelm-Bockelmann-Straße"
-housenumber: 23
-phone: "+49 5192 4595"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:30"
-website: "https://www.sichtschmiede-munster.de"
+street: Wilhelm-Bockelmann-Straße
+housenumber: "23"
+phone: +49 5192 4595
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:30
+website: https://www.sichtschmiede-munster.de

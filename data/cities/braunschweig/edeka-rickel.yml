@@ -1,11 +1,11 @@
 id: 28192198
-type: way
+type: node
 latitude: 52.21634
 longitude: 10.49944
 postcode: "38122"
 city: Braunschweig
-street: "Rüningenstraße"
-housenumber: 80
+street: Rüningenstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

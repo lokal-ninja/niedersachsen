@@ -1,11 +1,11 @@
 id: 461324742
-type: way
+type: node
 latitude: 52.72199
 longitude: 10.73025
 postcode: "29378"
 city: Wittingen
-street: "Wunderbütteler Kirchweg"
-housenumber: 5
+street: Wunderbütteler Kirchweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 238131201
-type: way
+type: node
 latitude: 52.31396
 longitude: 9.72332
 postcode: "30966"
 city: Hemmingen
-street: "Alfred-Bentz-Straße"
-housenumber: 5
-phone: "+49 511 4104120"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.evochip.de"
+street: Alfred-Bentz-Straße
+housenumber: "5"
+phone: +49 511 4104120
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.evochip.de

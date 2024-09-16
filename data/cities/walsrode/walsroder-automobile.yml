@@ -4,8 +4,8 @@ latitude: 52.86571
 longitude: 9.60531
 postcode: "29664"
 city: Walsrode
-street: "Quintusstraße"
-housenumber: 53
-phone: "+49 5161 8063821"
-opening_hours: "Mo-Fr 09:30-17:00; Sa 09:00-14:00; PH off"
-website: "https://www.walsroder-automobile.de"
+street: Quintusstraße
+housenumber: "53"
+phone: +49 5161 8063821
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:00-14:00; PH off
+website: https://www.walsroder-automobile.de

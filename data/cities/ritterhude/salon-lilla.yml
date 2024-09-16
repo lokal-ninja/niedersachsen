@@ -1,11 +1,11 @@
 id: 44048801
-type: way
+type: node
 latitude: 53.17868
 longitude: 8.73075
 postcode: "27721"
 city: Ritterhude
-street: "Bremer Landstraße"
-housenumber: 103
+street: Bremer Landstraße
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

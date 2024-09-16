@@ -1,11 +1,11 @@
 id: 26600345
-type: way
+type: node
 latitude: 52.32517
 longitude: 10.47934
 postcode: "38179"
 city: Schwülper
-street: "Waller See"
-housenumber: 20
+street: Waller See
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:30; Fr 07:00-13:00"
-website: "https://www.gc-gruppe.de/"
+opening_hours: Mo-Th 07:00-17:30; Fr 07:00-13:00
+website: https://www.gc-gruppe.de/

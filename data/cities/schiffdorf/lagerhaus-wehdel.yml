@@ -1,11 +1,11 @@
 id: 479843909
-type: way
+type: node
 latitude: 53.50801
 longitude: 8.79586
 postcode: "27619"
 city: Schiffdorf
-street: "Wesermünder Straße"
-housenumber: 42
+street: Wesermünder Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.33799
 longitude: 7.55799
 postcode: "26835"
 city: Neukamperfehn
-street: "Hauptstraße"
-housenumber: 64
+street: Hauptstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 06:00-12:30,14:30-18:00; We,Sa 06:00-12:30; Su 08:00-11:00"
-website: "https://www.bäckerei-behmann.de/"
+opening_hours: Mo,Tu,Th,Fr 06:00-12:30,14:30-18:00; We,Sa 06:00-12:30; Su 08:00-11:00
+website: https://www.bäckerei-behmann.de/

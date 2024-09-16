@@ -1,11 +1,11 @@
 id: 111499233
-type: way
+type: node
 latitude: 53.41703
 longitude: 7.73901
 postcode: "26639"
 city: Wiesmoor
-street: "Hauptstraße"
-housenumber: 138
+street: Hauptstraße
+housenumber: "138"
 phone: ""
 opening_hours: ""
 website: ""

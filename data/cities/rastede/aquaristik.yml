@@ -1,11 +1,11 @@
 id: 245159334
-type: way
+type: node
 latitude: 53.24951
 longitude: 8.19977
 postcode: "26180"
 city: Rastede
-street: "Kögel-Willms-Straße"
-housenumber: 11
+street: Kögel-Willms-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

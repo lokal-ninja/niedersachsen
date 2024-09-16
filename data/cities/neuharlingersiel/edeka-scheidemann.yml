@@ -1,11 +1,11 @@
 id: 157822042
-type: way
+type: node
 latitude: 53.69414
 longitude: 7.69003
 postcode: "26427"
 city: Neuharlingersiel
-street: "Otzumer Balje"
-housenumber: 2
-phone: "+49 4974 9149950"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-18:00"
-website: "https://www.edeka-scheidemann.de/"
+street: Otzumer Balje
+housenumber: "2"
+phone: +49 4974 9149950
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-18:00
+website: https://www.edeka-scheidemann.de/

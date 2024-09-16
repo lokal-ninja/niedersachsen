@@ -1,11 +1,11 @@
 id: 50282799
-type: way
+type: node
 latitude: 53.17324
 longitude: 8.22803
 postcode: "26125"
 city: Oldenburg
-street: "Wilhelmshavener Heerstraße"
+street: Wilhelmshavener Heerstraße
 housenumber: 49a
-phone: "+49 441 84738"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH off"
-website: "https://www.polo-motorrad.com/de-de/stores-polo-motorrad-store-oldenburg"
+phone: +49 441 84738
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH off
+website: https://www.polo-motorrad.com/de-de/stores-polo-motorrad-store-oldenburg

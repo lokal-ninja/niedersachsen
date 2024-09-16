@@ -1,11 +1,11 @@
 id: 92164221
-type: way
+type: node
 latitude: 52.26958
 longitude: 8.02679
 postcode: "49080"
 city: Osnabrück
-street: "Schreberstraße"
-housenumber: 2
-phone: "+49 541 47058496"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-15:00"
-website: "https://www.absolutfm.de/"
+street: Schreberstraße
+housenumber: "2"
+phone: +49 541 47058496
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-15:00
+website: https://www.absolutfm.de/

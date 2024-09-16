@@ -1,11 +1,11 @@
 id: 314264788
-type: way
+type: node
 latitude: 53.12281
 longitude: 8.08176
 postcode: "26188"
 city: Edewecht
-street: "Spiekerooger Straße"
-housenumber: 5
+street: Spiekerooger Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

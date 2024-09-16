@@ -4,8 +4,8 @@ latitude: 52.15156
 longitude: 9.95209
 postcode: "31134"
 city: Hildesheim
-street: "Scheelenstraße"
-housenumber: 21
-phone: "+49 5121 37745"
-opening_hours: "Mo,Sa 11:00-15:00; Tu-Fr 11:00-18:00"
-website: "https://www.el-puente.de/"
+street: Scheelenstraße
+housenumber: "21"
+phone: +49 5121 37745
+opening_hours: Mo,Sa 11:00-15:00; Tu-Fr 11:00-18:00
+website: https://www.el-puente.de/

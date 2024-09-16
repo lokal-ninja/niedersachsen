@@ -4,8 +4,8 @@ latitude: 52.07506
 longitude: 9.32914
 postcode: "31789"
 city: Hameln
-street: "Werkstraße"
-housenumber: 17
-phone: "+49 5151 99760"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Werkstraße
+housenumber: "17"
+phone: +49 5151 99760
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

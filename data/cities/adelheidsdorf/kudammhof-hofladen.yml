@@ -4,8 +4,8 @@ latitude: 52.54919
 longitude: 9.99625
 postcode: "29352"
 city: Adelheidsdorf
-street: "Kurfürstendamm"
-housenumber: 46
+street: Kurfürstendamm
+housenumber: "46"
 phone: ""
-opening_hours: "Fr 14:00-18:00"
-website: "https://www.kudammhof.de/"
+opening_hours: Fr 14:00-18:00
+website: https://www.kudammhof.de/

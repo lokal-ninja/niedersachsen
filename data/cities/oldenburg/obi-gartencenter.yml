@@ -1,11 +1,11 @@
 id: 1138531447
-type: way
+type: node
 latitude: 53.14198
 longitude: 8.25826
 postcode: "26135"
 city: Oldenburg
-street: "Werrastraße"
-housenumber: 3
-phone: "+49 441 20962250"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.obi.de/markt/oldenburg-werrastrasse/gartencenter"
+street: Werrastraße
+housenumber: "3"
+phone: +49 441 20962250
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.obi.de/markt/oldenburg-werrastrasse/gartencenter

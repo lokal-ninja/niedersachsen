@@ -1,11 +1,11 @@
 id: 938461665
-type: way
+type: node
 latitude: 52.39786
 longitude: 9.75243
 postcode: "30163"
 city: Hannover
-street: "Lister Damm"
-housenumber: 8
+street: Lister Damm
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 515042262
-type: way
+type: node
 latitude: 52.47453
 longitude: 10.3685
 postcode: "38536"
 city: Meinersen
-street: "Gifhorner Straße"
-housenumber: 12
+street: Gifhorner Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

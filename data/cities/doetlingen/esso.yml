@@ -1,11 +1,11 @@
 id: 189086119
-type: way
+type: node
 latitude: 52.91499
 longitude: 8.42609
 postcode: "27801"
 city: Dötlingen
-street: "Hunteweg"
-housenumber: 12
+street: Hunteweg
+housenumber: "12"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

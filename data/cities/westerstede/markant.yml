@@ -1,11 +1,11 @@
 id: 234795925
-type: way
+type: node
 latitude: 53.25165
 longitude: 7.93977
 postcode: "26655"
 city: Westerstede
-street: "Goethestraße"
-housenumber: 21
-phone: "+49 4488 1636"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.mein-markant.de/mein-markt/unsere-dienstleistungen/kapels-westerstede/"
+street: Goethestraße
+housenumber: "21"
+phone: +49 4488 1636
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.mein-markant.de/mein-markt/unsere-dienstleistungen/kapels-westerstede/

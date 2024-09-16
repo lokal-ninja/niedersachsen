@@ -1,11 +1,11 @@
 id: 190148906
-type: way
+type: node
 latitude: 52.48616
 longitude: 10.51643
 postcode: "38518"
 city: Gifhorn
-street: "Celler Straße"
-housenumber: 121
+street: Celler Straße
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

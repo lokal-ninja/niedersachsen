@@ -4,8 +4,8 @@ latitude: 52.50494
 longitude: 9.45878
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Marktstraße"
-housenumber: 14
-phone: "+49 5032 9011910"
-opening_hours: "opening_hours:url=https://www.moa-fashion.de/"
-website: "https://www.moa-fashion.de/"
+street: Marktstraße
+housenumber: "14"
+phone: +49 5032 9011910
+opening_hours: opening_hours:url=https://www.moa-fashion.de/
+website: https://www.moa-fashion.de/

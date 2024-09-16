@@ -4,8 +4,8 @@ latitude: 53.67748
 longitude: 6.99689
 postcode: "26571"
 city: Juist
-street: "Wilhelmstraße"
-housenumber: 48
-phone: "+49 4935 922 81 22"
-opening_hours: "Mo-Fr 09:30-12:30, 16:00-18:00"
-website: "https://app.juist.de/de/juist/streaming/detail/POI/p_100050743/toewerland-optik-mehr"
+street: Wilhelmstraße
+housenumber: "48"
+phone: +49 4935 922 81 22
+opening_hours: Mo-Fr 09:30-12:30, 16:00-18:00
+website: https://app.juist.de/de/juist/streaming/detail/POI/p_100050743/toewerland-optik-mehr

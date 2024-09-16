@@ -1,11 +1,11 @@
 id: 207762390
-type: way
+type: node
 latitude: 53.36072
 longitude: 10.21486
 postcode: "21423"
 city: Winsen (Luhe)
-street: "Niedersachsenstraße"
-housenumber: 40
+street: Niedersachsenstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-12:00; Su 07:00-12:00; PH off"
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:00-12:00; Su 07:00-12:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.38152
 longitude: 9.74482
 postcode: "30161"
 city: Hannover
-street: "Lister Meile"
-housenumber: 21
-phone: "+49 511 312356"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH closed"
-website: "https://fridolins-spielzeug.de"
+street: Lister Meile
+housenumber: "21"
+phone: +49 511 312356
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH closed
+website: https://fridolins-spielzeug.de

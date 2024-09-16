@@ -1,11 +1,11 @@
 id: 867700819
-type: way
+type: node
 latitude: 53.36594
 longitude: 9.42375
 postcode: "21702"
 city: Ahlerstedt
-street: "Eichenweg"
-housenumber: 3
+street: Eichenweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

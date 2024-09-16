@@ -4,8 +4,8 @@ latitude: 52.12128
 longitude: 9.7256
 postcode: "31008"
 city: Elze
-street: "Schmiedetorstraße"
-housenumber: 52
-phone: "+49 5068 8365"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/elze/241051/rewe-markt-schmiedetorstr-52"
+street: Schmiedetorstraße
+housenumber: "52"
+phone: +49 5068 8365
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/elze/241051/rewe-markt-schmiedetorstr-52

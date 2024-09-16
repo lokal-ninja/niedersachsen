@@ -1,11 +1,11 @@
 id: 118965798
-type: way
+type: node
 latitude: 53.11804
 longitude: 8.21546
 postcode: "26133"
 city: Oldenburg
-street: "Cloppenburger Straße"
-housenumber: 215
+street: Cloppenburger Straße
+housenumber: "215"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 10:00-13:00"
-website: "https://www.teppichland-oldenburg.de/wir.html"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 10:00-13:00
+website: https://www.teppichland-oldenburg.de/wir.html

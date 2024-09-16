@@ -4,8 +4,8 @@ latitude: 53.07458
 longitude: 8.80667
 postcode: "28195"
 city: Bremen
-street: "Wachtstraße"
-housenumber: 20
+street: Wachtstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://philoro.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://philoro.de/

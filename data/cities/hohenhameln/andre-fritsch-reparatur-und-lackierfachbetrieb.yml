@@ -1,11 +1,11 @@
 id: 357659036
-type: way
+type: node
 latitude: 52.28916
 longitude: 10.12044
 postcode: "31249"
 city: Hohenhameln
-street: "Maschfeld"
-housenumber: 3
-phone: "+49 5128 960116"
+street: Maschfeld
+housenumber: "3"
+phone: +49 5128 960116
 opening_hours: ""
-website: "http://www.fritsch-lack.com"
+website: http://www.fritsch-lack.com

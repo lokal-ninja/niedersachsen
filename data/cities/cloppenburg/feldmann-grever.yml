@@ -1,11 +1,11 @@
 id: 192984840
-type: way
+type: node
 latitude: 52.85152
 longitude: 8.08475
 postcode: "49661"
 city: Cloppenburg
-street: "Brookweg"
-housenumber: 43
-phone: "+49 4471 8433 0"
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-16:00; Sa,Su,PH off"
-website: "https://feldmann-grever.com/"
+street: Brookweg
+housenumber: "43"
+phone: +49 4471 8433 0
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-16:00; Sa,Su,PH off
+website: https://feldmann-grever.com/

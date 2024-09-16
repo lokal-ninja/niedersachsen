@@ -1,11 +1,11 @@
 id: 74360669
-type: way
+type: node
 latitude: 51.92401
 longitude: 10.41535
 postcode: "38644"
 city: Goslar
-street: "Bornhardtstraße"
-housenumber: 4
+street: Bornhardtstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-13:00"
+opening_hours: Mo-Fr 07:00-18:00, Sa 09:00-13:00
 website: ""

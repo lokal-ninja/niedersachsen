@@ -1,11 +1,11 @@
 id: 175655930
-type: way
+type: node
 latitude: 52.80238
 longitude: 8.64356
 postcode: "27239"
 city: Twistringen
-street: "Bremer Straße"
-housenumber: 16
+street: Bremer Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 226128380
-type: way
+type: node
 latitude: 53.05805
 longitude: 8.93482
 postcode: "28307"
 city: Bremen
-street: "Osterholzer Heerstraße"
-housenumber: 111
+street: Osterholzer Heerstraße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

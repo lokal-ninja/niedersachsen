@@ -1,11 +1,11 @@
 id: 775783688
-type: way
+type: node
 latitude: 52.69468
 longitude: 7.29525
 postcode: "49716"
 city: Meppen
-street: "Bahnhofstraße"
-housenumber: 10
+street: Bahnhofstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

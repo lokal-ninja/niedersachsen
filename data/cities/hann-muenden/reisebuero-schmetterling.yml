@@ -4,8 +4,8 @@ latitude: 51.41646
 longitude: 9.65065
 postcode: "34346"
 city: Hann. Münden
-street: "Kirchplatz"
-housenumber: 11
+street: Kirchplatz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:30-13:30"
-website: "https://www.schmetterling-hann-muenden.de/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:30-13:30
+website: https://www.schmetterling-hann-muenden.de/

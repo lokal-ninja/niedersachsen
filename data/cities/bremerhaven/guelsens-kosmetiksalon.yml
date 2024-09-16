@@ -4,8 +4,8 @@ latitude: 53.5336
 longitude: 8.59372
 postcode: "27570"
 city: Bremerhaven
-street: "Schillerstraße"
-housenumber: 17
-phone: "+49 176 31163324"
-opening_hours: "Nur nach Terminvereinbarung"
-website: "https://www.guelsens-kosmetiksalon.de"
+street: Schillerstraße
+housenumber: "17"
+phone: +49 176 31163324
+opening_hours: '"Nur nach Terminvereinbarung"'
+website: https://www.guelsens-kosmetiksalon.de

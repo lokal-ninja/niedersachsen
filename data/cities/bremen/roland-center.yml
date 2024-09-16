@@ -1,11 +1,11 @@
 id: 4695941
-type: way
+type: node
 latitude: 53.04781
 longitude: 8.74078
 postcode: "28259"
 city: Bremen
-street: "Alter Dorfweg"
+street: Alter Dorfweg
 housenumber: 30-50
-phone: "+49 421 576550"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.roland-center.de/"
+phone: +49 421 576550
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.roland-center.de/

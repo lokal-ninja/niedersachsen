@@ -4,8 +4,8 @@ latitude: 53.05672
 longitude: 8.80003
 postcode: "28199"
 city: Bremen
-street: "Kirchweg"
-housenumber: 204
+street: Kirchweg
+housenumber: "204"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "http://www.alecobio.de"
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: http://www.alecobio.de

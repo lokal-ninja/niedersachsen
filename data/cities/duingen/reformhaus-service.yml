@@ -4,8 +4,8 @@ latitude: 51.99893
 longitude: 9.69428
 postcode: "31089"
 city: Duingen
-street: "Heinrich-Heine-Straße"
-housenumber: 18
-phone: "+49 5185 940 10"
+street: Heinrich-Heine-Straße
+housenumber: "18"
+phone: +49 5185 940 10
 opening_hours: ""
-website: "http://reformhaus-service.de/HOME.html"
+website: http://reformhaus-service.de/HOME.html

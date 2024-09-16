@@ -1,11 +1,11 @@
 id: 172844994
-type: way
+type: node
 latitude: 52.08193
 longitude: 9.34074
 postcode: "31789"
 city: Hameln
-street: "Böcklerstraße"
-housenumber: 6
+street: Böcklerstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

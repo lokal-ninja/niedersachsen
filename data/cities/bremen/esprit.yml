@@ -4,8 +4,8 @@ latitude: 53.04928
 longitude: 8.95868
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 1785666"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.esprit.de/"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 1785666
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.esprit.de/

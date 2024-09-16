@@ -1,11 +1,11 @@
 id: 335097800
-type: way
+type: node
 latitude: 53.01443
 longitude: 9.02117
 postcode: "28832"
 city: Achim
-street: "Bremer Straße"
-housenumber: 54
+street: Bremer Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

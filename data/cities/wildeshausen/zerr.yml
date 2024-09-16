@@ -1,11 +1,11 @@
 id: 884551317
-type: way
+type: node
 latitude: 52.88594
 longitude: 8.40952
 postcode: "27793"
 city: Wildeshausen
-street: "Gerberstraße"
-housenumber: 4
+street: Gerberstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 217136822
-type: way
+type: node
 latitude: 52.26015
 longitude: 7.99806
 postcode: "49078"
 city: Osnabrück
-street: "Töpferstraße"
-housenumber: 1
+street: Töpferstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

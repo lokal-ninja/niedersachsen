@@ -1,11 +1,11 @@
 id: 124340558
-type: way
+type: node
 latitude: 52.16454
 longitude: 9.93452
 postcode: ""
 city: Hildesheim
-street: "Münchewiese"
-housenumber: 5
+street: Münchewiese
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

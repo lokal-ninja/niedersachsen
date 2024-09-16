@@ -1,11 +1,11 @@
 id: 310506482
-type: way
+type: node
 latitude: 52.67832
 longitude: 9.90862
 postcode: "29308"
 city: Winsen (Aller)
-street: "Von-Reden-Straße"
-housenumber: 3
+street: Von-Reden-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

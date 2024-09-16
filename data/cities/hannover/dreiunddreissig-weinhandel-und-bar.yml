@@ -4,8 +4,8 @@ latitude: 52.37311
 longitude: 9.70525
 postcode: "30451"
 city: Hannover
-street: "Kötnerholzweg"
-housenumber: 33
+street: Kötnerholzweg
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-We 17:00-19:00; Th,Fr,Sa 15:00-19:00; Mo,Su,PH off"
-website: "https://33-weine.de/"
+opening_hours: Tu-We 17:00-19:00; Th,Fr,Sa 15:00-19:00; Mo,Su,PH off
+website: https://33-weine.de/

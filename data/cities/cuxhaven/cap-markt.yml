@@ -1,11 +1,11 @@
 id: 137887403
-type: way
+type: node
 latitude: 53.84461
 longitude: 8.72531
 postcode: "27472"
 city: Cuxhaven
-street: "Freiherr-vom-Stein-Straße"
-housenumber: 46
+street: Freiherr-vom-Stein-Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-14:00"
-website: "https://cap-markt.de/maerkte/cuxhaven"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-14:00
+website: https://cap-markt.de/maerkte/cuxhaven

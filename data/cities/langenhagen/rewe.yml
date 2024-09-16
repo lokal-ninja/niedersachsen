@@ -4,8 +4,8 @@ latitude: 52.43512
 longitude: 9.75563
 postcode: "30851"
 city: Langenhagen
-street: "Erich-Ollenhauer-Straße"
-housenumber: 9
-phone: "+49 511 2359332"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.rewe.de/marktseite/langenhagen/565543/rewe-markt-erich-ollenhauer-str-9/"
+street: Erich-Ollenhauer-Straße
+housenumber: "9"
+phone: +49 511 2359332
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.rewe.de/marktseite/langenhagen/565543/rewe-markt-erich-ollenhauer-str-9/

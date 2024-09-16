@@ -1,11 +1,11 @@
 id: 93185925
-type: way
+type: node
 latitude: 53.21943
 longitude: 7.43414
 postcode: "26789"
 city: Leer
-street: "Am Emsdeich"
-housenumber: 50
+street: Am Emsdeich
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:30-12:30; Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:30-12:30; Su off
 website: ""

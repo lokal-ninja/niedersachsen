@@ -1,11 +1,11 @@
 id: 213180688
-type: way
+type: node
 latitude: 51.82389
 longitude: 9.45069
 postcode: "37603"
 city: Holzminden
-street: "Bahnhofstraße"
-housenumber: 12
-phone: "+49 5531 7047150"
+street: Bahnhofstraße
+housenumber: "12"
+phone: +49 5531 7047150
 opening_hours: ""
-website: "https://www.edeka.de/"
+website: https://www.edeka.de/

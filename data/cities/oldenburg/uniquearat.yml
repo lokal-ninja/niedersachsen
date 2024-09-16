@@ -4,8 +4,8 @@ latitude: 53.14077
 longitude: 8.20945
 postcode: "26122"
 city: Oldenburg
-street: "Haarenstraße"
-housenumber: 34
-phone: "+49 441 777225"
-opening_hours: "Tu-Fr 10:00-18:00, Sa 10:00-16:00; Su-Mo off; PH off"
-website: "https://uniqueart.de/"
+street: Haarenstraße
+housenumber: "34"
+phone: +49 441 777225
+opening_hours: Tu-Fr 10:00-18:00, Sa 10:00-16:00; Su-Mo off; PH off
+website: https://uniqueart.de/

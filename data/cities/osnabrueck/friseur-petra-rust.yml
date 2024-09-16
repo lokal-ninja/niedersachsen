@@ -4,8 +4,8 @@ latitude: 52.27558
 longitude: 8.0499
 postcode: "49074"
 city: Osnabrück
-street: "Schillerstraße"
-housenumber: 20
+street: Schillerstraße
+housenumber: "20"
 phone: "+4954122250"
 opening_hours: ""
-website: "https://www.friseur-petra-rust.de"
+website: https://www.friseur-petra-rust.de

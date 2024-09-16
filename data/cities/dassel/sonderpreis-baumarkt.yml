@@ -1,11 +1,11 @@
 id: 237235748
-type: way
+type: node
 latitude: 51.79996
 longitude: 9.69801
 postcode: "37586"
 city: Dassel
-street: "Ilmestraße"
+street: Ilmestraße
 housenumber: 1B
-phone: "+49 5564 9994888"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-16:00"
-website: "https://www.sonderpreis-baumarkt.de/markt/dassel"
+phone: +49 5564 9994888
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-16:00
+website: https://www.sonderpreis-baumarkt.de/markt/dassel

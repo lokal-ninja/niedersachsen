@@ -4,8 +4,8 @@ latitude: 53.14955
 longitude: 8.21348
 postcode: "26121"
 city: Oldenburg
-street: "Alexanderstraße"
-housenumber: 21
-phone: "+49 4418 853512"
-opening_hours: "Mo-Fr 09:00-13:30,14:30-18:00; Su 10:00-14:00"
-website: "http://www.planb-oldenburg.de"
+street: Alexanderstraße
+housenumber: "21"
+phone: +49 4418 853512
+opening_hours: Mo-Fr 09:00-13:30,14:30-18:00; Su 10:00-14:00
+website: http://www.planb-oldenburg.de

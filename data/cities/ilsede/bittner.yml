@@ -1,11 +1,11 @@
 id: 454342997
-type: way
+type: node
 latitude: 52.2557
 longitude: 10.24713
 postcode: "31246"
 city: Ilsede
-street: "Oberger Hauptstraße"
-housenumber: 8
-phone: "+49 5172 2729"
+street: Oberger Hauptstraße
+housenumber: "8"
+phone: +49 5172 2729
 opening_hours: ""
 website: ""

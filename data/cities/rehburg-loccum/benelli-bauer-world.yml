@@ -1,11 +1,11 @@
 id: 276232686
-type: way
+type: node
 latitude: 52.48479
 longitude: 9.22945
 postcode: "31547"
 city: Rehburg-Loccum
-street: "Nienburger Straße"
-housenumber: 26
+street: Nienburger Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

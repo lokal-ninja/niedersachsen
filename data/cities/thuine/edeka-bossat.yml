@@ -1,11 +1,11 @@
 id: 1223242385
-type: way
+type: node
 latitude: 52.50171
 longitude: 7.48229
 postcode: "49832"
 city: Thuine
-street: "Kolpingstraße"
-housenumber: 2
+street: Kolpingstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 244258968
-type: way
+type: node
 latitude: 52.36558
 longitude: 9.75368
 postcode: "30171"
 city: Hannover
-street: "Große Barlinge"
-housenumber: 56
-phone: "+49 511 60579930"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Große Barlinge
+housenumber: "56"
+phone: +49 511 60579930
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

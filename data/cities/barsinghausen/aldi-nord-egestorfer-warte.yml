@@ -1,11 +1,11 @@
 id: 254843260
-type: way
+type: node
 latitude: 52.29043
 longitude: 9.50898
 postcode: "30890"
 city: Barsinghausen
-street: "Egestorfer Warte"
-housenumber: 1
+street: Egestorfer Warte
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/

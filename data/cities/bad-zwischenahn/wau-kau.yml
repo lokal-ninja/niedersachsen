@@ -4,8 +4,8 @@ latitude: 53.18185
 longitude: 8.0689
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Eva-Lessing-Straße"
-housenumber: 3
+street: Eva-Lessing-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr; Sa"
-website: "https://www.waukau.de/"
+opening_hours: Tu-Fr; Sa
+website: https://www.waukau.de/

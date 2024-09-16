@@ -4,8 +4,8 @@ latitude: 51.80206
 longitude: 9.6881
 postcode: "37586"
 city: Dassel
-street: "Obere Straße"
-housenumber: 11
+street: Obere Straße
+housenumber: "11"
 phone: "+4955641088"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-12:00"
-website: "https://www.optik-diercks.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-12:00
+website: https://www.optik-diercks.de/

@@ -1,11 +1,11 @@
 id: 87973824
-type: way
+type: node
 latitude: 51.54708
 longitude: 9.93459
 postcode: "37075"
 city: Göttingen
-street: "Annastraße"
-housenumber: 36
+street: Annastraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

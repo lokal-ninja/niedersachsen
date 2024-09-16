@@ -1,11 +1,11 @@
 id: 823947540
-type: way
+type: node
 latitude: 52.20348
 longitude: 7.93095
 postcode: "49170"
 city: Hagen am Teutoburger Wald
-street: "Natruper Straße"
-housenumber: 88
+street: Natruper Straße
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:00
 website: ""

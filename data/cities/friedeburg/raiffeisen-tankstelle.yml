@@ -1,11 +1,11 @@
 id: 807261578
-type: way
+type: node
 latitude: 53.44273
 longitude: 7.93654
 postcode: "26446"
 city: Friedeburg
-street: "Hohler Weg"
-housenumber: 1
+street: Hohler Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

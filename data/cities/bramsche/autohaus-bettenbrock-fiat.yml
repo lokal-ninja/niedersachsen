@@ -1,11 +1,11 @@
 id: 331855171
-type: way
+type: node
 latitude: 52.40871
 longitude: 8.09787
 postcode: "49565"
 city: Bramsche
-street: "Barenauer Weg"
-housenumber: 14
+street: Barenauer Weg
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.bettenbrock.com/"
+website: https://www.bettenbrock.com/

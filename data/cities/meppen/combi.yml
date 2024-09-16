@@ -1,11 +1,11 @@
 id: 195991240
-type: way
+type: node
 latitude: 52.68152
 longitude: 7.29908
 postcode: "49716"
 city: Meppen
-street: "Fürstenbergstraße"
-housenumber: 17
+street: Fürstenbergstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Ph off"
-website: "https://www.combi.de/"
+opening_hours: Mo-Sa 08:00-21:00; Ph off
+website: https://www.combi.de/

@@ -1,11 +1,11 @@
 id: 115715362
-type: way
+type: node
 latitude: 53.62468
 longitude: 9.0902
 postcode: "21769"
 city: Lamstedt
-street: "Am Galgenberg"
-housenumber: 1
+street: Am Galgenberg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

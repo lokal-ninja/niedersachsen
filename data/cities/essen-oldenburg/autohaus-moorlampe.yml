@@ -1,11 +1,11 @@
 id: 198648282
-type: way
+type: node
 latitude: 52.72217
 longitude: 7.94091
 postcode: "49632"
 city: Essen (Oldenburg)
-street: "Lange Straße"
-housenumber: 28
+street: Lange Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:30; Sa 08:00-12:00; Su,PH off
 website: ""

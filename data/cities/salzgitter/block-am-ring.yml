@@ -1,11 +1,11 @@
 id: 145673802
-type: way
+type: node
 latitude: 52.04333
 longitude: 10.35921
 postcode: "38259"
 city: Salzgitter
-street: "Gittertor"
-housenumber: 56
+street: Gittertor
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

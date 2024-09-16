@@ -1,11 +1,11 @@
 id: 256084927
-type: way
+type: node
 latitude: 53.48371
 longitude: 8.68466
 postcode: "27612"
 city: Loxstedt
-street: "Lindenallee"
-housenumber: 73
+street: Lindenallee
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

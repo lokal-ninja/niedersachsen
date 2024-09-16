@@ -1,11 +1,11 @@
 id: 100297911
-type: way
+type: node
 latitude: 53.46928
 longitude: 7.47994
 postcode: "26603"
 city: Aurich
-street: "Burgstraße"
-housenumber: 27
-phone: "+49 4941 62615"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-18:00; Su 07:30-17:00"
-website: "http://www.lorenz-baecker-victorbur.de/index.php/aurich-burgstrasse.html"
+street: Burgstraße
+housenumber: "27"
+phone: +49 4941 62615
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-18:00; Su 07:30-17:00
+website: http://www.lorenz-baecker-victorbur.de/index.php/aurich-burgstrasse.html

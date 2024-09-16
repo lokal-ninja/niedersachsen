@@ -4,8 +4,8 @@ latitude: 52.49998
 longitude: 9.44342
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Im Heidland"
-housenumber: 26
-phone: "+49 5032 5091"
-opening_hours: "closed || nach telefonischer Vereinbarung"
-website: "http://www.Blumiges-mit-Pfiff.de"
+street: Im Heidland
+housenumber: "26"
+phone: +49 5032 5091
+opening_hours: closed || "nach telefonischer Vereinbarung"
+website: http://www.Blumiges-mit-Pfiff.de

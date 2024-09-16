@@ -4,8 +4,8 @@ latitude: 52.37136
 longitude: 9.73818
 postcode: "30159"
 city: Hannover
-street: "Röselerstraße"
-housenumber: 2
+street: Röselerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00, We 09:00-13:00, Mo,Tu,Th,Fr 14:30-18:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00, We 09:00-13:00, Mo,Tu,Th,Fr 14:30-18:00
 website: ""

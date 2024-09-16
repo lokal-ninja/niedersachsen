@@ -4,8 +4,9 @@ latitude: 52.63216
 longitude: 9.21187
 postcode: "31582"
 city: Nienburg/Weser
-street: "Cretschmarstraße"
-housenumber: 32
+street: Cretschmarstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Tu,Fr 06:00-13:00,15:00-18:00; We,Th 06:00-13:00; Sa 06:00-13:00; Su,Mo off"
+opening_hours: Tu,Fr 06:00-13:00,15:00-18:00; We,Th 06:00-13:00; Sa 06:00-13:00; Su,Mo
+    off
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.35485
 longitude: 9.67074
 postcode: "30455"
 city: Hannover
-street: "Badenstedter Straße"
-housenumber: 223
-phone: "+49 511 4733550"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-16:00; Su,Mo,PH off"
-website: "https://www.se-hairsalon.de"
+street: Badenstedter Straße
+housenumber: "223"
+phone: +49 511 4733550
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-16:00; Su,Mo,PH off
+website: https://www.se-hairsalon.de

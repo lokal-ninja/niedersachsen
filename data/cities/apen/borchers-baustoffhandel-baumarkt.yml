@@ -1,11 +1,11 @@
 id: 732265353
-type: way
+type: node
 latitude: 53.21519
 longitude: 7.76066
 postcode: "26689"
 city: Apen
-street: "Saterlandstraße"
-housenumber: 2
-phone: "+49 4489 92850"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-14:30"
-website: "https://www.borchers-bau.de/baustoffe/"
+street: Saterlandstraße
+housenumber: "2"
+phone: +49 4489 92850
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-14:30
+website: https://www.borchers-bau.de/baustoffe/

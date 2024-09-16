@@ -4,8 +4,8 @@ latitude: 52.37362
 longitude: 9.70659
 postcode: "30451"
 city: Hannover
-street: "Limmerstraße"
-housenumber: 55
+street: Limmerstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; PH off"
-website: "https://www.humusnaturkost.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00; PH off
+website: https://www.humusnaturkost.de/

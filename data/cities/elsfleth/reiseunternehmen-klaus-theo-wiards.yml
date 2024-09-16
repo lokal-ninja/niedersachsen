@@ -1,11 +1,11 @@
 id: 227829818
-type: way
+type: node
 latitude: 53.22412
 longitude: 8.37074
 postcode: "26931"
 city: Elsfleth
-street: "Georgstraße"
-housenumber: 20
-phone: "+49 4485 201"
-opening_hours: "Mo-Sa 08:00-12:00, Mo-Fr 14:30-18:00"
-website: "https://www.wiards-reisen.de/"
+street: Georgstraße
+housenumber: "20"
+phone: +49 4485 201
+opening_hours: Mo-Sa 08:00-12:00, Mo-Fr 14:30-18:00
+website: https://www.wiards-reisen.de/

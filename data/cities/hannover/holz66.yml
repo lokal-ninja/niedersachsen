@@ -4,8 +4,8 @@ latitude: 52.37155
 longitude: 9.73273
 postcode: "30159"
 city: Hannover
-street: "Holzmarkt"
-housenumber: 3
-phone: "+49 511 54576009"
-opening_hours: "kein Schild für Öffnungszeiten"
-website: "https://holz66.de/"
+street: Holzmarkt
+housenumber: "3"
+phone: +49 511 54576009
+opening_hours: '"kein Schild für Öffnungszeiten"'
+website: https://holz66.de/

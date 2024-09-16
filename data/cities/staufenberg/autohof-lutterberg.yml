@@ -1,11 +1,11 @@
 id: 162095319
-type: way
+type: node
 latitude: 51.37079
 longitude: 9.63387
 postcode: "34355"
 city: Staufenberg
-street: "Triftstraße"
-housenumber: 11
+street: Triftstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.24-autohof.de/"
+website: https://www.24-autohof.de/

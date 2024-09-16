@@ -4,8 +4,8 @@ latitude: 52.86436
 longitude: 9.70139
 postcode: "29683"
 city: Bad Fallingbostel
-street: "Vogteistraße"
-housenumber: 30
-phone: "+49 5162 9000441"
-opening_hours: "nach Vereinbarung"
-website: "http://www.cohrs-bestattungen.de/"
+street: Vogteistraße
+housenumber: "30"
+phone: +49 5162 9000441
+opening_hours: '"nach Vereinbarung"'
+website: http://www.cohrs-bestattungen.de/

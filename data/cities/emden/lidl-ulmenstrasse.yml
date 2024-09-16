@@ -1,11 +1,11 @@
 id: 102684519
-type: way
+type: node
 latitude: 53.34545
 longitude: 7.22718
 postcode: "26725"
 city: Emden
-street: "Ulmenstraße"
-housenumber: 15
+street: Ulmenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

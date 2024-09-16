@@ -1,11 +1,11 @@
 id: 130624520
-type: way
+type: node
 latitude: 52.86149
 longitude: 7.31914
 postcode: "49762"
 city: Lathen
-street: "Große Straße"
-housenumber: 15
+street: Große Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

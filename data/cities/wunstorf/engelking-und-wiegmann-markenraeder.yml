@@ -4,8 +4,8 @@ latitude: 52.45322
 longitude: 9.35816
 postcode: "31515"
 city: Wunstorf
-street: "Braustraße"
-housenumber: 5
-phone: "+49 5033 5326"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-17:00"
-website: "https://eundw-markenraeder.de/"
+street: Braustraße
+housenumber: "5"
+phone: +49 5033 5326
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-17:00
+website: https://eundw-markenraeder.de/

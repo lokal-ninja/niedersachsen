@@ -4,8 +4,8 @@ latitude: 52.16771
 longitude: 9.06677
 postcode: "31737"
 city: Rinteln
-street: "Stükenstraße"
-housenumber: 2
-phone: "+49 5751 6078118"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+street: Stükenstraße
+housenumber: "2"
+phone: +49 5751 6078118
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

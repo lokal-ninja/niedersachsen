@@ -1,11 +1,11 @@
 id: 217948541
-type: way
+type: node
 latitude: 51.85931
 longitude: 10.34049
 postcode: "38644"
 city: Goslar
-street: "Rathausstraße"
-housenumber: 9
+street: Rathausstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://marnies.info"
+website: http://marnies.info

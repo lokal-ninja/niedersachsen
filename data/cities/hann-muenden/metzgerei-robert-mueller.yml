@@ -1,11 +1,11 @@
 id: 585453272
-type: way
+type: node
 latitude: 51.40172
 longitude: 9.658
 postcode: "34346"
 city: Hann. Münden
-street: "Quedlinburger Straße"
-housenumber: 5
+street: Quedlinburger Straße
+housenumber: "5"
 phone: "+49554132603"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://metzgerei-robert-mueller.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://metzgerei-robert-mueller.de/

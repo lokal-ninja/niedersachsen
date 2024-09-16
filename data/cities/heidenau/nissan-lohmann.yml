@@ -4,8 +4,8 @@ latitude: 53.31889
 longitude: 9.64371
 postcode: "21258"
 city: Heidenau
-street: "Hauptstraße"
-housenumber: 42
-phone: "+49 4182 4283"
+street: Hauptstraße
+housenumber: "42"
+phone: +49 4182 4283
 opening_hours: ""
-website: "https://lohmann.nissan-haendler.de/"
+website: https://lohmann.nissan-haendler.de/

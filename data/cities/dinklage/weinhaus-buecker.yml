@@ -1,11 +1,12 @@
 id: 706969797
-type: way
+type: node
 latitude: 52.66253
 longitude: 8.11743
 postcode: "49413"
 city: Dinklage
-street: "An der Bleiche"
-housenumber: 1
+street: An der Bleiche
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Th 09:00-12:30,14:00-18:30; Fr 09:00-18:30; Sa 09:00-14:00; Mo,Su,PH off"
+opening_hours: Tu-Th 09:00-12:30,14:00-18:30; Fr 09:00-18:30; Sa 09:00-14:00; Mo,Su,PH
+    off
 website: ""

@@ -1,11 +1,11 @@
 id: 354398113
-type: way
+type: node
 latitude: 53.14065
 longitude: 10.48749
 postcode: "29553"
 city: Bienenbüttel
-street: "Ladestraße"
-housenumber: 9
+street: Ladestraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

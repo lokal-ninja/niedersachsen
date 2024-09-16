@@ -1,11 +1,11 @@
 id: 88842578
-type: way
+type: node
 latitude: 53.40045
 longitude: 7.21082
 postcode: "26721"
 city: Emden
-street: "Auricher Straße"
-housenumber: 291
+street: Auricher Straße
+housenumber: "291"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-16:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-16:00
 website: ""

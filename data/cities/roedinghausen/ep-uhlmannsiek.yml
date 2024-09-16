@@ -1,11 +1,11 @@
 id: 220800991
-type: way
+type: node
 latitude: 52.20162
 longitude: 8.45443
 postcode: "32289"
 city: Rödinghausen
-street: "Meller Straße"
-housenumber: 14
+street: Meller Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

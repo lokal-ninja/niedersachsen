@@ -1,11 +1,11 @@
 id: 331886642
-type: way
+type: node
 latitude: 52.85118
 longitude: 7.6707
 postcode: "49757"
 city: Werlte
-street: "Bahnhofstraße"
-housenumber: 4
-phone: "+49 5951 3359"
+street: Bahnhofstraße
+housenumber: "4"
+phone: +49 5951 3359
 opening_hours: ""
 website: ""

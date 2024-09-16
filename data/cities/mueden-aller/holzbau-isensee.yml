@@ -1,11 +1,11 @@
 id: 55937147
-type: way
+type: node
 latitude: 52.52282
 longitude: 10.36797
 postcode: "38539"
 city: Müden (Aller)
-street: "Gifhorner Straße"
-housenumber: 3
-phone: "+49 5375 9520"
+street: Gifhorner Straße
+housenumber: "3"
+phone: +49 5375 9520
 opening_hours: ""
 website: ""

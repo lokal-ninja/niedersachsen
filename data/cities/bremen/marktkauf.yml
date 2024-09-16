@@ -1,11 +1,11 @@
 id: 18082575
-type: way
+type: node
 latitude: 53.04689
 longitude: 8.84838
 postcode: "28279"
 city: Bremen
-street: "Steinsetzerstraße"
-housenumber: 15
+street: Steinsetzerstraße
+housenumber: "15"
 phone: "+494214270780"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.edeka.de/eh/minden-hannover/marktkauf-bremen-habenhausen-steinsetzerstr.-15/index.jsp"
+opening_hours: Mo-Sa 08:00-22:00
+website: https://www.edeka.de/eh/minden-hannover/marktkauf-bremen-habenhausen-steinsetzerstr.-15/index.jsp

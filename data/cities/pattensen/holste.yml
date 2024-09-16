@@ -1,11 +1,11 @@
 id: 1062362247
-type: way
+type: node
 latitude: 52.25681
 longitude: 9.75774
 postcode: "30982"
 city: Pattensen
-street: "Göttinger Straße"
-housenumber: 52
+street: Göttinger Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

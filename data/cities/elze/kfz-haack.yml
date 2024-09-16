@@ -4,8 +4,8 @@ latitude: 52.12126
 longitude: 9.72816
 postcode: "31008"
 city: Elze
-street: "Schmiedetorstraße"
-housenumber: 44
-phone: "+49 506892970"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00"
-website: "https://www.kfz-haack.de/"
+street: Schmiedetorstraße
+housenumber: "44"
+phone: +49 506892970
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00
+website: https://www.kfz-haack.de/

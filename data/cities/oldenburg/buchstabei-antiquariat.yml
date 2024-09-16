@@ -4,8 +4,8 @@ latitude: 53.1496
 longitude: 8.21626
 postcode: "26123"
 city: Oldenburg
-street: "Nadorster Straße"
-housenumber: 32
-phone: "+49 441 776500"
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; PH off"
-website: "https://www.buchstabei.de/"
+street: Nadorster Straße
+housenumber: "32"
+phone: +49 441 776500
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; PH off
+website: https://www.buchstabei.de/

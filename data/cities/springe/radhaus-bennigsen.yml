@@ -1,11 +1,11 @@
 id: 568545991
-type: way
+type: node
 latitude: 52.23961
 longitude: 9.66505
 postcode: "31832"
 city: Springe
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1158989265
-type: way
+type: node
 latitude: 52.17011
 longitude: 9.64939
 postcode: "31832"
 city: Springe
-street: "Schützenstraße"
-housenumber: 11
-phone: "+49 5044 309"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00"
-website: "http://www.baumschule-kewel.de/"
+street: Schützenstraße
+housenumber: "11"
+phone: +49 5044 309
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00
+website: http://www.baumschule-kewel.de/

@@ -1,11 +1,11 @@
 id: 165178036
-type: way
+type: node
 latitude: 53.1765
 longitude: 8.61612
 postcode: "28757"
 city: Bremen
-street: "Albrecht-Poppe-Straße"
-housenumber: 19
+street: Albrecht-Poppe-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.autoteam-yagmur.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.autoteam-yagmur.de/

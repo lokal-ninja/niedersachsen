@@ -1,11 +1,11 @@
 id: 237140454
-type: way
+type: node
 latitude: 53.10128
 longitude: 11.09738
 postcode: "29451"
 city: Dannenberg
-street: "Werder"
-housenumber: 2
+street: Werder
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

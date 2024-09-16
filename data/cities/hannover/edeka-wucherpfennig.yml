@@ -1,11 +1,11 @@
 id: 45142289
-type: way
+type: node
 latitude: 52.3891
 longitude: 9.85593
 postcode: "30629"
 city: Hannover
-street: "Anderter Straße"
-housenumber: 11
+street: Anderter Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://edeka-wucherpfennig.de/standorte/edeka-misburg/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://edeka-wucherpfennig.de/standorte/edeka-misburg/

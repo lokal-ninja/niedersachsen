@@ -1,11 +1,11 @@
 id: 342927423
-type: way
+type: node
 latitude: 52.44735
 longitude: 10.00608
 postcode: "31303"
 city: Burgdorf
-street: "Schmiedestraße"
-housenumber: 49
+street: Schmiedestraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.fahrrad-schiwy.de"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00
+website: https://www.fahrrad-schiwy.de

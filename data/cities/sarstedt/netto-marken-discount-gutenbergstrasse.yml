@@ -1,11 +1,11 @@
 id: 50695108
-type: way
+type: node
 latitude: 52.24591
 longitude: 9.85787
 postcode: "31157"
 city: Sarstedt
-street: "Gutenbergstraße"
-housenumber: 8
+street: Gutenbergstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

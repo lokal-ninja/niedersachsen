@@ -4,8 +4,8 @@ latitude: 52.31023
 longitude: 8.01672
 postcode: "49090"
 city: Osnabrück
-street: "Honeburger Weg"
-housenumber: 2
+street: Honeburger Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-12:00"
-website: "https://www.nilsson.de/unternehmen/standorte/osnabrueck-haste/mn_24902"
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-12:00
+website: https://www.nilsson.de/unternehmen/standorte/osnabrueck-haste/mn_24902

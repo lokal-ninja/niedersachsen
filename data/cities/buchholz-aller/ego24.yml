@@ -1,11 +1,11 @@
 id: 195968375
-type: way
+type: node
 latitude: 52.67279
 longitude: 9.68678
 postcode: "29690"
 city: Buchholz (Aller)
-street: "An der Autobahn"
-housenumber: 6
+street: An der Autobahn
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

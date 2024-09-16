@@ -1,11 +1,11 @@
 id: 337016255
-type: way
+type: node
 latitude: 52.6846
 longitude: 7.6088
 postcode: "49770"
 city: Herzlake
-street: "Löninger Straße"
-housenumber: 14
+street: Löninger Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

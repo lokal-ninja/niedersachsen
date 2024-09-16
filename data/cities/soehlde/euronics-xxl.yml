@@ -1,11 +1,11 @@
 id: 127638221
-type: way
+type: node
 latitude: 52.21323
 longitude: 10.19409
 postcode: "31185"
 city: Söhlde
-street: "Marktstraße"
-housenumber: 2
-phone: "+49-5129-977777"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.euronics.de/hoheneggelsen/info/Ueber-Uns"
+street: Marktstraße
+housenumber: "2"
+phone: +49-5129-977777
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.euronics.de/hoheneggelsen/info/Ueber-Uns

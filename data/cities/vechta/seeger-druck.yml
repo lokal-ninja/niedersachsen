@@ -4,8 +4,8 @@ latitude: 52.72424
 longitude: 8.28508
 postcode: "49377"
 city: Vechta
-street: "Münsterstraße"
-housenumber: 4
+street: Münsterstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-12:30"
-website: "https://www.seeger-druck.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-12:30
+website: https://www.seeger-druck.de/

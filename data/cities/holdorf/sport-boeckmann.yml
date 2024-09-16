@@ -1,11 +1,11 @@
 id: 494733599
-type: way
+type: node
 latitude: 52.59449
 longitude: 8.12575
 postcode: "49451"
 city: Holdorf
-street: "Dinklager Straße"
-housenumber: 15
-phone: "+49 5494 9888 0"
+street: Dinklager Straße
+housenumber: "15"
+phone: +49 5494 9888 0
 opening_hours: ""
-website: "https://www.sport-boeckmann.de/"
+website: https://www.sport-boeckmann.de/

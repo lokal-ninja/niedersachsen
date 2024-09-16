@@ -1,11 +1,11 @@
 id: 148298433
-type: way
+type: node
 latitude: 52.97679
 longitude: 7.51676
 postcode: "26903"
 city: Surwold
-street: "Schleusenstraße"
-housenumber: 130
-phone: "+49 4965 898765"
-opening_hours: "Mo-Sa 07:15-21:00"
+street: Schleusenstraße
+housenumber: "130"
+phone: +49 4965 898765
+opening_hours: Mo-Sa 07:15-21:00
 website: ""

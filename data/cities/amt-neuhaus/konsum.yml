@@ -1,11 +1,11 @@
 id: 243978009
-type: way
+type: node
 latitude: 53.28694
 longitude: 10.93363
 postcode: "19273"
 city: Amt Neuhaus
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:00-18:00
 website: ""

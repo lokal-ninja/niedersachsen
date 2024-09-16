@@ -1,11 +1,11 @@
 id: 89034637
-type: way
+type: node
 latitude: 52.96201
 longitude: 9.02065
 postcode: "27321"
 city: Thedinghausen
-street: "Syker Straße"
-housenumber: 
+street: Syker Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 14:30-18:00"
+opening_hours: Mo-Sa 09:00-13:00, Mo-Fr 14:30-18:00
 website: ""

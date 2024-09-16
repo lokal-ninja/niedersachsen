@@ -1,11 +1,11 @@
 id: 694812616
-type: way
+type: node
 latitude: 52.45201
 longitude: 9.74552
 postcode: "30853"
 city: Langenhagen
-street: "Walsroder Straße"
-housenumber: 165
+street: Walsroder Straße
+housenumber: "165"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

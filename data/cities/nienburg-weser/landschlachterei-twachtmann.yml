@@ -4,8 +4,9 @@ latitude: 52.6632
 longitude: 9.24457
 postcode: "31582"
 city: Nienburg/Weser
-street: "Schmiedestraße"
-housenumber: 1
+street: Schmiedestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-13:00, Mo,Tu,Th 15:00-18:00, Fr 14:30-18:00; Sa 06:00-13:00; Su,PH off"
-website: "https://www.landschlachterei-twachtmann.de/"
+opening_hours: Mo-Fr 07:00-13:00, Mo,Tu,Th 15:00-18:00, Fr 14:30-18:00; Sa 06:00-13:00;
+    Su,PH off
+website: https://www.landschlachterei-twachtmann.de/

@@ -1,11 +1,11 @@
 id: 247579545
-type: way
+type: node
 latitude: 52.16072
 longitude: 8.26548
 postcode: "49326"
 city: Melle
-street: "Wellingholzhausener Straße"
-housenumber: 123
+street: Wellingholzhausener Straße
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

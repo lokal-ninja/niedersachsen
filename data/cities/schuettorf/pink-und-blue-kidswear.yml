@@ -1,11 +1,11 @@
 id: 115857181
-type: way
+type: node
 latitude: 52.32116
 longitude: 7.22211
 postcode: "48465"
 city: Schüttorf
-street: "Markt"
-housenumber: 18
-phone: "+49 5923 785336"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.pink-and-blue.de/"
+street: Markt
+housenumber: "18"
+phone: +49 5923 785336
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00
+website: https://www.pink-and-blue.de/

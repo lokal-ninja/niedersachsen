@@ -1,11 +1,11 @@
 id: 123465212
-type: way
+type: node
 latitude: 53.17305
 longitude: 8.61746
 postcode: "28757"
 city: Bremen
-street: "Gerhard-Rohlfs-Straße"
-housenumber: 63
+street: Gerhard-Rohlfs-Straße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://www.gebers.de/"
+opening_hours: Mo-Sa 09:30-18:00
+website: https://www.gebers.de/

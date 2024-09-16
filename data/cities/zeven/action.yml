@@ -1,11 +1,11 @@
 id: 144571093
-type: way
+type: node
 latitude: 53.29453
 longitude: 9.26573
 postcode: "27404"
 city: Zeven
-street: "Bremer Straße"
-housenumber: 51
+street: Bremer Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

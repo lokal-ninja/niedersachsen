@@ -4,8 +4,8 @@ latitude: 53.16031
 longitude: 8.17204
 postcode: "26129"
 city: Oldenburg
-street: "Posthalterweg"
-housenumber: 19
-phone: "+49 441 2170780"
-opening_hours: "Mo-Sa 10:00-18:00; Su,PH off"
-website: "https://boc24.de/pages/fahrrad-oldenburg-boc-filiale"
+street: Posthalterweg
+housenumber: "19"
+phone: +49 441 2170780
+opening_hours: Mo-Sa 10:00-18:00; Su,PH off
+website: https://boc24.de/pages/fahrrad-oldenburg-boc-filiale

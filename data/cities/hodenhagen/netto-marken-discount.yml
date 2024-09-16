@@ -1,11 +1,11 @@
 id: 111628234
-type: way
+type: node
 latitude: 52.76555
 longitude: 9.58107
 postcode: "29693"
 city: Hodenhagen
-street: "Am Markt"
-housenumber: 1
+street: Am Markt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

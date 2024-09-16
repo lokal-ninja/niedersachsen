@@ -5,7 +5,7 @@ longitude: 10.52708
 postcode: "38100"
 city: Braunschweig
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu 10:00-13:00; Th 15:00-18:00"
-website: "https://www.kunsthandel-koch.de/"
+opening_hours: Tu 10:00-13:00; Th 15:00-18:00
+website: https://www.kunsthandel-koch.de/

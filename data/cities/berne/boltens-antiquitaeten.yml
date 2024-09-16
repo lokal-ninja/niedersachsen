@@ -1,11 +1,11 @@
 id: 195553259
-type: way
+type: node
 latitude: 53.19486
 longitude: 8.46416
 postcode: "27804"
 city: Berne
-street: "Schlüter Straße"
-housenumber: 55
-phone: "+49 4406 6552"
+street: Schlüter Straße
+housenumber: "55"
+phone: +49 4406 6552
 opening_hours: ""
 website: ""

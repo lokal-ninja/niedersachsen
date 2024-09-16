@@ -1,11 +1,11 @@
 id: 215666834
-type: way
+type: node
 latitude: 52.2165
 longitude: 9.56705
 postcode: "31832"
 city: Springe
-street: "Industriestraße"
-housenumber: 33
+street: Industriestraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:30-12:30"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:30-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.83298
 longitude: 8.14975
 postcode: "49685"
 city: Emstek
-street: "Clemens-August-Straße"
-housenumber: 19
-phone: "+49 4473 318"
-opening_hours: "Mo-Fr 09:00-13:00"
-website: "https://grosse-wietfeld.de/"
+street: Clemens-August-Straße
+housenumber: "19"
+phone: +49 4473 318
+opening_hours: Mo-Fr 09:00-13:00
+website: https://grosse-wietfeld.de/

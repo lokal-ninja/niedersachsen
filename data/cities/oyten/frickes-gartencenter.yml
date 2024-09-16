@@ -1,11 +1,11 @@
 id: 248039220
-type: way
+type: node
 latitude: 53.05179
 longitude: 9.0795
 postcode: "28876"
 city: Oyten
-street: "Borsteler Straße"
-housenumber: 60
-phone: "+49 4207 91950"
+street: Borsteler Straße
+housenumber: "60"
+phone: +49 4207 91950
 opening_hours: ""
-website: "https://www.frickes-gartencenter.de/"
+website: https://www.frickes-gartencenter.de/

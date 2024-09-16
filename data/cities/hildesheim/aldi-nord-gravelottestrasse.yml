@@ -1,11 +1,11 @@
 id: 215837331
-type: way
+type: node
 latitude: 52.14803
 longitude: 9.96378
 postcode: "31134"
 city: Hildesheim
-street: "Gravelottestraße"
-housenumber: 2
+street: Gravelottestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

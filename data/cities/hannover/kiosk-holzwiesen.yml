@@ -1,11 +1,11 @@
 id: 88115363
-type: way
+type: node
 latitude: 52.4127
 longitude: 9.76304
 postcode: "30179"
 city: Hannover
-street: "Holzwiesen"
-housenumber: 66
+street: Holzwiesen
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-18:00
 website: ""

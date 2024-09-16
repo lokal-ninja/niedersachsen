@@ -1,11 +1,11 @@
 id: 185342410
-type: way
+type: node
 latitude: 51.60267
 longitude: 10.20595
 postcode: "37434"
 city: Gieboldehausen
-street: "Ludwig-Erhard-Straße"
-housenumber: 2
+street: Ludwig-Erhard-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

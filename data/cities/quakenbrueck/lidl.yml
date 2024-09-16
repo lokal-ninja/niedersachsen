@@ -1,11 +1,11 @@
 id: 201129965
-type: way
+type: node
 latitude: 52.68017
 longitude: 7.94825
 postcode: "49610"
 city: Quakenbrück
-street: "Bürgerstraße"
-housenumber: 10
+street: Bürgerstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

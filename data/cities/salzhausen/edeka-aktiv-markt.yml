@@ -4,8 +4,8 @@ latitude: 53.22711
 longitude: 10.16058
 postcode: "21376"
 city: Salzhausen
-street: "Alte Baumschule"
-housenumber: 2
-phone: "+49 4172 7474"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.aktiv-markt-duever.de"
+street: Alte Baumschule
+housenumber: "2"
+phone: +49 4172 7474
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.aktiv-markt-duever.de

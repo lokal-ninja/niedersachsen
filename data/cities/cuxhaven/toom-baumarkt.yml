@@ -1,11 +1,11 @@
 id: 147762804
-type: way
+type: node
 latitude: 53.85256
 longitude: 8.71582
 postcode: "27472"
 city: Cuxhaven
-street: "Meyerstraße"
-housenumber: 46
+street: Meyerstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00; PH off"
-website: "https://toom.de/m/cuxhaven/"
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00; PH off
+website: https://toom.de/m/cuxhaven/

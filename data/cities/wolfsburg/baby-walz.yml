@@ -4,8 +4,8 @@ latitude: 52.42201
 longitude: 10.78537
 postcode: "38440"
 city: Wolfsburg
-street: "Goethestraße"
-housenumber: 61
-phone: "+49 536 1436860"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-16:00"
+street: Goethestraße
+housenumber: "61"
+phone: +49 536 1436860
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-16:00
 website: ""

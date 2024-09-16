@@ -4,8 +4,8 @@ latitude: 51.86735
 longitude: 10.18121
 postcode: "38723"
 city: Seesen
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.thudts-hof.de"
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.thudts-hof.de

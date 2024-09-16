@@ -4,8 +4,8 @@ latitude: 52.32505
 longitude: 9.20622
 postcode: "31655"
 city: Stadthagen
-street: "Niedernstraße"
-housenumber: 43
-phone: "+49 5724 97260-19"
-opening_hours: "Mo-Fr 10:00-15:00"
-website: "https://www.drk-schaumburg.de/angebote/existenzsichernde-hilfe/drk-shops.html"
+street: Niedernstraße
+housenumber: "43"
+phone: +49 5724 97260-19
+opening_hours: Mo-Fr 10:00-15:00
+website: https://www.drk-schaumburg.de/angebote/existenzsichernde-hilfe/drk-shops.html

@@ -4,8 +4,8 @@ latitude: 51.9826
 longitude: 9.5062
 postcode: "37619"
 city: Bodenwerder
-street: "Ernst-Reuter-Straße"
-housenumber: 9
+street: Ernst-Reuter-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/f/bodenwerder/ernst-reuter-str-9.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/f/bodenwerder/ernst-reuter-str-9.html

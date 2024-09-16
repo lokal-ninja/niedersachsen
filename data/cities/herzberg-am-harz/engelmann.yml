@@ -1,11 +1,11 @@
 id: 538318433
-type: way
+type: node
 latitude: 51.65223
 longitude: 10.34015
 postcode: "37412"
 city: Herzberg am Harz
-street: "Heidestraße"
-housenumber: 18
+street: Heidestraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

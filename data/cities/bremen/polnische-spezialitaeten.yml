@@ -1,11 +1,11 @@
 id: 27120427
-type: way
+type: node
 latitude: 53.17451
 longitude: 8.71808
 postcode: "28719"
 city: Bremen
-street: "Stockholmer Straße"
-housenumber: 2
+street: Stockholmer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

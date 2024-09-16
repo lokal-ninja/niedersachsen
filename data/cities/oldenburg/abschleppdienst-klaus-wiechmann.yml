@@ -1,11 +1,11 @@
 id: 96323264
-type: way
+type: node
 latitude: 53.13851
 longitude: 8.22617
 postcode: "26135"
 city: Oldenburg
-street: "Rheinstraße"
-housenumber: 9
-phone: "+49 441 9200402"
-opening_hours: "24/7"
-website: "https://www.abschleppdienst-wiechmann.com/"
+street: Rheinstraße
+housenumber: "9"
+phone: +49 441 9200402
+opening_hours: 24/7
+website: https://www.abschleppdienst-wiechmann.com/

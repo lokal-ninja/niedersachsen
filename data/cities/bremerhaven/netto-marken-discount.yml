@@ -4,8 +4,8 @@ latitude: 53.54126
 longitude: 8.59008
 postcode: "27570"
 city: Bremerhaven
-street: "Elbestraße"
-housenumber: 93
+street: Elbestraße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

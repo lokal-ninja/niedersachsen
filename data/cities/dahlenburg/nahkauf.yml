@@ -1,11 +1,11 @@
 id: 99874549
-type: way
+type: node
 latitude: 53.18797
 longitude: 10.73796
 postcode: "21368"
 city: Dahlenburg
-street: "Lüneburger Straße"
-housenumber: 24
+street: Lüneburger Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

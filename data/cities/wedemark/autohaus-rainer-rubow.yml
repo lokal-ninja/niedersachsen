@@ -1,11 +1,11 @@
 id: 202717999
-type: way
+type: node
 latitude: 52.60126
 longitude: 9.72392
 postcode: "30900"
 city: Wedemark
-street: "Auf den Raden"
-housenumber: 1
+street: Auf den Raden
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.profi-service-werkstatt.de/coparts/psw/rubow"
+website: https://www.profi-service-werkstatt.de/coparts/psw/rubow

@@ -1,11 +1,11 @@
 id: 88271237
-type: way
+type: node
 latitude: 52.27041
 longitude: 8.02803
 postcode: "49080"
 city: Osnabrück
-street: "Martinistraße"
-housenumber: 93
+street: Martinistraße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/osnabruck/martinistrasse-93/3182352"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/osnabruck/martinistrasse-93/3182352

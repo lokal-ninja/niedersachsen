@@ -1,11 +1,11 @@
 id: 316750179
-type: way
+type: node
 latitude: 53.30228
 longitude: 7.73629
 postcode: "26670"
 city: Uplengen
-street: "Moorweg"
-housenumber: 4
-phone: "+49 4956 9270946"
+street: Moorweg
+housenumber: "4"
+phone: +49 4956 9270946
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 35817247
-type: way
+type: node
 latitude: 52.29869
 longitude: 8.05993
 postcode: "49088"
 city: Osnabrück
-street: "Mönkedieckstraße"
-housenumber: 14
+street: Mönkedieckstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

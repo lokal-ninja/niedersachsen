@@ -4,8 +4,8 @@ latitude: 52.32133
 longitude: 9.82264
 postcode: "30539"
 city: Hannover
-street: "Iris-Runge-Platz"
-housenumber: 3
+street: Iris-Runge-Platz
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.leifert.de/"
+website: https://www.leifert.de/

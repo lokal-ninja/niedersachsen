@@ -4,8 +4,8 @@ latitude: 52.64212
 longitude: 9.20741
 postcode: "31582"
 city: Nienburg/Weser
-street: "Lange Straße"
-housenumber: 99
-phone: "+49 5021 2137"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH off"
-website: "https://www.juwelier-nienburg.de/"
+street: Lange Straße
+housenumber: "99"
+phone: +49 5021 2137
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH off
+website: https://www.juwelier-nienburg.de/

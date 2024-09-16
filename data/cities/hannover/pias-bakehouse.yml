@@ -4,8 +4,8 @@ latitude: 52.37214
 longitude: 9.78876
 postcode: "30625"
 city: Hannover
-street: "Kirchröder Straße"
-housenumber: 94
-phone: "+49 511 21941752"
-opening_hours: "Tu-Fr 11:00-17:00; Sa 11:00-16:00; Su,Mo Off"
-website: "https://www.piasbakehouse.com/"
+street: Kirchröder Straße
+housenumber: "94"
+phone: +49 511 21941752
+opening_hours: Tu-Fr 11:00-17:00; Sa 11:00-16:00; Su,Mo Off
+website: https://www.piasbakehouse.com/

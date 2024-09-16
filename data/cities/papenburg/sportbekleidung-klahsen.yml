@@ -4,8 +4,8 @@ latitude: 53.0503
 longitude: 7.32063
 postcode: "26871"
 city: Papenburg
-street: "In der Emsmarsch"
-housenumber: 2
+street: In der Emsmarsch
+housenumber: "2"
 phone: "+49496291360"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://www.sportklahsen.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://www.sportklahsen.de/

@@ -1,11 +1,11 @@
 id: 403395107
-type: way
+type: node
 latitude: 52.70979
 longitude: 8.50217
 postcode: "49406"
 city: Barnstorf
-street: "Osnabrücker Straße"
-housenumber: 7
+street: Osnabrücker Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00; Su 10:00-12:00"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00; Su 10:00-12:00
 website: ""

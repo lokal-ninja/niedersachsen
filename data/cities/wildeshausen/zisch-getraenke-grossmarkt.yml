@@ -1,11 +1,11 @@
 id: 650348861
-type: way
+type: node
 latitude: 52.89122
 longitude: 8.41736
 postcode: "27793"
 city: Wildeshausen
-street: "Bargloyer Straße"
-housenumber: 61
-phone: "+49 4431 72408"
-opening_hours: "Mo-Th 08:00-20:00; Fr,Sa 08:00-22:00; Su,PH off"
-website: "https://www.zisch.com/index.php/wildeshausen.html"
+street: Bargloyer Straße
+housenumber: "61"
+phone: +49 4431 72408
+opening_hours: Mo-Th 08:00-20:00; Fr,Sa 08:00-22:00; Su,PH off
+website: https://www.zisch.com/index.php/wildeshausen.html

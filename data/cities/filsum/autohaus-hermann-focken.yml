@@ -1,11 +1,11 @@
 id: 663489551
-type: way
+type: node
 latitude: 53.27014
 longitude: 7.66733
 postcode: "26849"
 city: Filsum
-street: "Friesenstraße"
-housenumber: 45
-phone: "+49 4957 990022"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
-website: "https://handel.suzuki.de/focken"
+street: Friesenstraße
+housenumber: "45"
+phone: +49 4957 990022
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
+website: https://handel.suzuki.de/focken

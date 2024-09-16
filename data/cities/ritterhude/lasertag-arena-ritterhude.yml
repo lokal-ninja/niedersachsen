@@ -4,8 +4,8 @@ latitude: 53.19023
 longitude: 8.70359
 postcode: "27721"
 city: Ritterhude
-street: "Max-Planck-Straße"
-housenumber: 3
+street: Max-Planck-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 15:00-22:00, Sa-Su 10:00-22:00"
-website: "https://www.lasertag-ritterhude.de"
+opening_hours: Mo-Fr 15:00-22:00, Sa-Su 10:00-22:00
+website: https://www.lasertag-ritterhude.de

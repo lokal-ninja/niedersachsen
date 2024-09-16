@@ -1,11 +1,11 @@
 id: 1087522013
-type: way
+type: node
 latitude: 52.95359
 longitude: 8.04013
 postcode: "49681"
 city: Garrel
-street: "Rembrandtstraße"
-housenumber: 12
+street: Rembrandtstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:45, 14:15-18:00"
+opening_hours: Mo-Sa 09:00-12:45, 14:15-18:00
 website: ""

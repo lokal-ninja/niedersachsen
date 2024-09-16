@@ -1,11 +1,11 @@
 id: 148872560
-type: way
+type: node
 latitude: 51.48176
 longitude: 10.09946
 postcode: "37130"
 city: Gleichen
-street: "Gartestraße"
-housenumber: 12
+street: Gartestraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

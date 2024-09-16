@@ -4,8 +4,8 @@ latitude: 51.51349
 longitude: 10.26142
 postcode: "37115"
 city: Duderstadt
-street: "Hinterstraße"
-housenumber: 59
-phone: "+49 5527 1247"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00; PH off"
+street: Hinterstraße
+housenumber: "59"
+phone: +49 5527 1247
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-13:00; PH off
 website: ""

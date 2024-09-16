@@ -1,11 +1,11 @@
 id: 153376718
-type: way
+type: node
 latitude: 53.41709
 longitude: 7.96394
 postcode: "26340"
 city: Zetel
-street: "Kronshausen"
-housenumber: 26
+street: Kronshausen
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

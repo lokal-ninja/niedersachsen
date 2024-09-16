@@ -5,7 +5,7 @@ longitude: 11.01656
 postcode: "29496"
 city: Waddeweitz
 street: ""
-housenumber: 9
-phone: "+49 5849 6139847"
+housenumber: "9"
+phone: +49 5849 6139847
 opening_hours: ""
-website: "https://solawi-marlin.de"
+website: https://solawi-marlin.de

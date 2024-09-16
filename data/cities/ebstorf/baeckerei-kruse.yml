@@ -4,8 +4,8 @@ latitude: 53.02038
 longitude: 10.4206
 postcode: "29574"
 city: Ebstorf
-street: "Georg-Marwede-Straße"
-housenumber: 32
-phone: "+49 5822 9474160"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-19:00"
-website: "https://www.der-lecker-baecker.de"
+street: Georg-Marwede-Straße
+housenumber: "32"
+phone: +49 5822 9474160
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-19:00
+website: https://www.der-lecker-baecker.de

@@ -1,11 +1,11 @@
 id: 211908506
-type: way
+type: node
 latitude: 52.14455
 longitude: 10.29517
 postcode: "38228"
 city: Salzgitter
-street: "Kurt-Schumacher-Ring"
-housenumber: 102
+street: Kurt-Schumacher-Ring
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

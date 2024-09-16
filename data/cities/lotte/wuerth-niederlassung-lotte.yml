@@ -1,11 +1,11 @@
 id: 652826511
-type: way
+type: node
 latitude: 52.30567
 longitude: 7.95174
 postcode: "49504"
 city: Lotte
-street: "Würth Brücke"
-housenumber: 1
+street: Würth Brücke
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

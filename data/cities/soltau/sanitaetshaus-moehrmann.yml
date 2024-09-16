@@ -4,8 +4,8 @@ latitude: 52.98495
 longitude: 9.84027
 postcode: "29614"
 city: Soltau
-street: "Marktstraße"
-housenumber: 21
+street: Marktstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00; Sa 09:00-12:30"
-website: "https://www.sanitaetshaus-moehrmann.de/"
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00; Sa 09:00-12:30
+website: https://www.sanitaetshaus-moehrmann.de/

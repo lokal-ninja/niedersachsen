@@ -1,11 +1,11 @@
 id: 265491518
-type: way
+type: node
 latitude: 52.90786
 longitude: 9.75761
 postcode: "29683"
 city: Bad Fallingbostel
-street: "Winkelhäuser Weg"
-housenumber: 9
-phone: "+49 5163 6881"
-opening_hours: "Mo,Sa 09:00-12:00; Th,Fr 09:00-12:00,15:00-18:00; PH off"
+street: Winkelhäuser Weg
+housenumber: "9"
+phone: +49 5163 6881
+opening_hours: Mo,Sa 09:00-12:00; Th,Fr 09:00-12:00,15:00-18:00; PH off
 website: ""

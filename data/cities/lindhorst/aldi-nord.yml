@@ -1,11 +1,11 @@
 id: 942684992
-type: way
+type: node
 latitude: 52.35351
 longitude: 9.29014
 postcode: "31698"
 city: Lindhorst
-street: "Gewerbestraße"
-housenumber: 3
+street: Gewerbestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 161366677
-type: way
+type: node
 latitude: 53.36154
 longitude: 7.16909
 postcode: "26723"
 city: Emden
-street: "Thüringer Straße"
-housenumber: 9
-phone: "+49 4921 946808"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.o2online.de/"
+street: Thüringer Straße
+housenumber: "9"
+phone: +49 4921 946808
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.o2online.de/

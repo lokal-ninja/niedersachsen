@@ -1,11 +1,11 @@
 id: 276161246
-type: way
+type: node
 latitude: 53.18277
 longitude: 8.00894
 postcode: "26160"
 city: Bad Zwischenahn
-street: "Georgstraße"
-housenumber: 4
-phone: "+49 4403 916113"
+street: Georgstraße
+housenumber: "4"
+phone: +49 4403 916113
 opening_hours: ""
 website: ""

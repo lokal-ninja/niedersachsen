@@ -1,11 +1,11 @@
 id: 23415372
-type: way
+type: node
 latitude: 53.03758
 longitude: 8.67523
 postcode: "27751"
 city: Delmenhorst
-street: "Reinersweg"
-housenumber: 20
+street: Reinersweg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

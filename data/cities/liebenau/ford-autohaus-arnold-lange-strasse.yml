@@ -1,11 +1,11 @@
 id: 282546339
-type: way
+type: node
 latitude: 52.60165
 longitude: 9.09907
 postcode: "31618"
 city: Liebenau
-street: "Lange Straße"
+street: Lange Straße
 housenumber: 77A
-phone: "+49 5023 898"
+phone: +49 5023 898
 opening_hours: ""
-website: "https://www.ford-arnold-liebenau.de/"
+website: https://www.ford-arnold-liebenau.de/

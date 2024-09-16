@@ -1,11 +1,11 @@
 id: 199466823
-type: way
+type: node
 latitude: 52.56552
 longitude: 9.12809
 postcode: "31628"
 city: Landesbergen
-street: "Lange Straße"
-housenumber: 92
+street: Lange Straße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

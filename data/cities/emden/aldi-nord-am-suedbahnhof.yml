@@ -1,11 +1,11 @@
 id: 913918389
-type: way
+type: node
 latitude: 53.35961
 longitude: 7.216
 postcode: "26725"
 city: Emden
-street: "Am Südbahnhof"
-housenumber: 42
+street: Am Südbahnhof
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 129242728
-type: way
+type: node
 latitude: 52.70106
 longitude: 8.49071
 postcode: "49406"
 city: Barnstorf
-street: "Robert-Bosch-Straße"
-housenumber: 2
+street: Robert-Bosch-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 125373121
-type: way
+type: node
 latitude: 52.99137
 longitude: 10.10049
 postcode: "29633"
 city: Munster
-street: "Wagnerstraße"
-housenumber: 20
-phone: "+49 5192 98330"
-opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-16:00"
-website: "https://www.autohauszahrte.de/"
+street: Wagnerstraße
+housenumber: "20"
+phone: +49 5192 98330
+opening_hours: Mo-Th 08:00-17:30; Fr 08:00-16:00
+website: https://www.autohauszahrte.de/

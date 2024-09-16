@@ -1,11 +1,11 @@
 id: 361307231
-type: way
+type: node
 latitude: 51.91013
 longitude: 10.31899
 postcode: "38685"
 city: Langelsheim
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00"
+opening_hours: Mo-Fr 05:30-18:00
 website: ""

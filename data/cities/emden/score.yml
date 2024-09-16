@@ -4,8 +4,8 @@ latitude: 53.34922
 longitude: 7.18325
 postcode: "26723"
 city: Emden
-street: "Frisiastraße"
-housenumber: 6
-phone: "+49 4921 33 447"
-opening_hours: "Mo-Fr 04:30-23:00; Sa 04:30-22:00; Su 07:00-22:00"
-website: "https://www.score-tankstellen.de/"
+street: Frisiastraße
+housenumber: "6"
+phone: +49 4921 33 447
+opening_hours: Mo-Fr 04:30-23:00; Sa 04:30-22:00; Su 07:00-22:00
+website: https://www.score-tankstellen.de/

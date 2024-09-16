@@ -1,11 +1,11 @@
 id: 306400471
-type: way
+type: node
 latitude: 52.46169
 longitude: 8.36316
 postcode: "49448"
 city: Lemförde
-street: "Alter Bahndamm"
-housenumber: 60
+street: Alter Bahndamm
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
 website: ""

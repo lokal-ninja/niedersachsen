@@ -1,11 +1,11 @@
 id: 287052584
-type: way
+type: node
 latitude: 52.38285
 longitude: 9.39445
 postcode: "31559"
 city: Haste
-street: "Hauptstraße"
-housenumber: 63
-phone: "+49 5723 981048"
-opening_hours: "Mo-Fr 05:00-21:00; Sa,Su 06:00-21:00"
+street: Hauptstraße
+housenumber: "63"
+phone: +49 5723 981048
+opening_hours: Mo-Fr 05:00-21:00; Sa,Su 06:00-21:00
 website: ""

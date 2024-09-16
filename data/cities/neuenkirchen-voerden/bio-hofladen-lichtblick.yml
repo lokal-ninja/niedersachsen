@@ -4,8 +4,9 @@ latitude: 52.51059
 longitude: 8.0666
 postcode: "49434"
 city: Neuenkirchen-Vörden
-street: "Große Straße"
-housenumber: 8
-phone: "+49 5493 9133700"
-opening_hours: "Mo-Tu,Th 08:30-12:00,14:30-18:00, We,Su closed; Fr 08:30-18:00; Sa 08:30-12:00"
-website: "https://lichtblick-biohofladen.de/"
+street: Große Straße
+housenumber: "8"
+phone: +49 5493 9133700
+opening_hours: Mo-Tu,Th 08:30-12:00,14:30-18:00, We,Su closed; Fr 08:30-18:00; Sa
+    08:30-12:00
+website: https://lichtblick-biohofladen.de/

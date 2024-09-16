@@ -1,11 +1,11 @@
 id: 656519020
-type: way
+type: node
 latitude: 52.38798
 longitude: 9.45921
 postcode: "31515"
 city: Wunstorf
-street: "Schwalenbergstraße"
-housenumber: 44
+street: Schwalenbergstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-14:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-14:00
 website: ""

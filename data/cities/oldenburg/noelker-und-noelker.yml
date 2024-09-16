@@ -4,8 +4,8 @@ latitude: 53.14013
 longitude: 8.21306
 postcode: "26122"
 city: Oldenburg
-street: "Lange Straße"
-housenumber: 37
+street: Lange Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Th 09:30-18:30; Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.noelker-noelker.de/"
+opening_hours: Mo-Th 09:30-18:30; Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.noelker-noelker.de/

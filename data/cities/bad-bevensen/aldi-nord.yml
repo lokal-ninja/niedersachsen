@@ -1,11 +1,11 @@
 id: 797211146
-type: way
+type: node
 latitude: 53.08134
 longitude: 10.57286
 postcode: "29549"
 city: Bad Bevensen
-street: "Medinger Straße"
-housenumber: 32
+street: Medinger Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

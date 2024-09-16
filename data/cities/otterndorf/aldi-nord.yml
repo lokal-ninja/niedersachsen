@@ -1,11 +1,11 @@
 id: 126505469
-type: way
+type: node
 latitude: 53.80779
 longitude: 8.88729
 postcode: "21762"
 city: Otterndorf
-street: "Cuxhavener Straße"
+street: Cuxhavener Straße
 housenumber: 42-44
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 10:00-18:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/otterndorf/cuxhavener-str-42-44.html"
+opening_hours: Mo-Sa 07:00-20:00; Su 10:00-18:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/otterndorf/cuxhavener-str-42-44.html

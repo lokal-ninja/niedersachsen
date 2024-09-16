@@ -4,8 +4,8 @@ latitude: 53.1403
 longitude: 8.21274
 postcode: "26122"
 city: Oldenburg
-street: "Lange Straße"
-housenumber: 62
-phone: "+49 441 25000"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://www.papier-onken.de/"
+street: Lange Straße
+housenumber: "62"
+phone: +49 441 25000
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://www.papier-onken.de/

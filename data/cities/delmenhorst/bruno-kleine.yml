@@ -1,11 +1,12 @@
 id: 41936168
-type: way
+type: node
 latitude: 53.05439
 longitude: 8.62685
 postcode: "27753"
 city: Delmenhorst
-street: "Am Wehrhahn"
-housenumber: 4
-phone: "+49 4221 120800"
-opening_hours: "Mo-We 09:30-18:30; Th 09:30-19:00; Fr 09:30-18:30; Sa 09:00-16:00; Su,PH off"
-website: "https://www.bruno-kleine.de/delmenhorst/"
+street: Am Wehrhahn
+housenumber: "4"
+phone: +49 4221 120800
+opening_hours: Mo-We 09:30-18:30; Th 09:30-19:00; Fr 09:30-18:30; Sa 09:00-16:00;
+    Su,PH off
+website: https://www.bruno-kleine.de/delmenhorst/

@@ -1,11 +1,12 @@
 id: 178292558
-type: way
+type: node
 latitude: 51.80257
 longitude: 10.53704
 postcode: "38667"
 city: Clausthal-Zellerfeld
-street: "Torfhaus"
-housenumber: 8
-phone: "+49 5320 33179-0"
-opening_hours: "Apr-Oct: 09:00-17:00; Nov-Mar: Tu-Su 10:00-16:00; Nov-Mar: Mo off; Dec 24: off; Jan 1: off"
-website: "http://www.torfhaus.info/"
+street: Torfhaus
+housenumber: "8"
+phone: +49 5320 33179-0
+opening_hours: 'Apr-Oct: 09:00-17:00; Nov-Mar: Tu-Su 10:00-16:00; Nov-Mar: Mo off;
+    Dec 24: off; Jan 1: off'
+website: http://www.torfhaus.info/

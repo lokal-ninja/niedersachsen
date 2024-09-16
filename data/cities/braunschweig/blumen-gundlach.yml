@@ -4,8 +4,9 @@ latitude: 52.27286
 longitude: 10.5427
 postcode: "38106"
 city: Braunschweig
-street: "Wabestraße"
+street: Wabestraße
 housenumber: 11a
-phone: "+49 531 333351"
-opening_hours: "Mo-Tu,Th-Fr 08:30-13:00,15:00-18:00; We 08:30-13:00; Sa 08:00-13:00; Su 10:00-12:00; PH off"
-website: "https://www.blumen-gundlach.de/"
+phone: +49 531 333351
+opening_hours: Mo-Tu,Th-Fr 08:30-13:00,15:00-18:00; We 08:30-13:00; Sa 08:00-13:00;
+    Su 10:00-12:00; PH off
+website: https://www.blumen-gundlach.de/

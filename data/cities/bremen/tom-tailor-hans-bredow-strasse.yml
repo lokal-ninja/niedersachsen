@@ -4,8 +4,8 @@ latitude: 53.04866
 longitude: 8.95813
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 43300641"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.tom-tailor.de/"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 43300641
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.tom-tailor.de/

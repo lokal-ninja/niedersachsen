@@ -1,11 +1,11 @@
 id: 26590813
-type: way
+type: node
 latitude: 52.33911
 longitude: 10.25518
 postcode: "31228"
 city: Peine
-street: "Heinrich-Hertz-Straße"
-housenumber: 12
-phone: "+49 5171 50870"
+street: Heinrich-Hertz-Straße
+housenumber: "12"
+phone: +49 5171 50870
 opening_hours: ""
-website: "https://www.kaufland.de/Home/index.jsp"
+website: https://www.kaufland.de/Home/index.jsp

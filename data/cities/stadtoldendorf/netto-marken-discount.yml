@@ -1,11 +1,11 @@
 id: 378769824
-type: way
+type: node
 latitude: 51.88531
 longitude: 9.61962
 postcode: "37627"
 city: Stadtoldendorf
-street: "Mühlenanger"
-housenumber: 28
+street: Mühlenanger
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

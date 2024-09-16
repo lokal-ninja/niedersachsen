@@ -1,11 +1,11 @@
 id: 168285406
-type: way
+type: node
 latitude: 52.25237
 longitude: 10.64084
 postcode: "38162"
 city: Cremlingen
-street: "Im Moorbusche"
-housenumber: 5
+street: Im Moorbusche
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

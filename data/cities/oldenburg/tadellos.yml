@@ -1,11 +1,11 @@
 id: 169541107
-type: way
+type: node
 latitude: 53.18438
 longitude: 8.2022
 postcode: "26125"
 city: Oldenburg
-street: "Weißenmoorstraße"
-housenumber: 287
+street: Weißenmoorstraße
+housenumber: "287"
 phone: ""
 opening_hours: ""
 website: ""

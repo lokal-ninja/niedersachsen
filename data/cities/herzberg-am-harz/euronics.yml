@@ -1,11 +1,11 @@
 id: 111823480
-type: way
+type: node
 latitude: 51.6573
 longitude: 10.33357
 postcode: "37412"
 city: Herzberg am Harz
-street: "Osteroder Straße"
-housenumber: 13
+street: Osteroder Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

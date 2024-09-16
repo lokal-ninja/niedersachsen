@@ -4,8 +4,8 @@ latitude: 53.13864
 longitude: 8.21344
 postcode: "26122"
 city: Oldenburg
-street: "Markt"
-housenumber: 22
-phone: "+49 441 361330;+49 441 99884335"
-opening_hours: "Mo-Fr 10:00-17:00; Sa,Su,PH off"
-website: "https://www.hanseatreisen.de/unsere-standorte/oldenburg;https://leserreisen.nwzonline.de"
+street: Markt
+housenumber: "22"
+phone: +49 441 361330;+49 441 99884335
+opening_hours: Mo-Fr 10:00-17:00; Sa,Su,PH off
+website: https://www.hanseatreisen.de/unsere-standorte/oldenburg;https://leserreisen.nwzonline.de

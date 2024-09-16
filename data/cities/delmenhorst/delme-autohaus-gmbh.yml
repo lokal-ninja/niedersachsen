@@ -1,11 +1,11 @@
 id: 41956736
-type: way
+type: node
 latitude: 53.05155
 longitude: 8.63991
 postcode: "27749"
 city: Delmenhorst
-street: "Bremer Straße"
-housenumber: 39
+street: Bremer Straße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

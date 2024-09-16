@@ -1,11 +1,11 @@
 id: 136089797
-type: way
+type: node
 latitude: 52.07635
 longitude: 9.72409
 postcode: "31036"
 city: Eime
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 19A
-phone: "+49 5182 960203"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.niedrig-preis.de/"
+phone: +49 5182 960203
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.niedrig-preis.de/

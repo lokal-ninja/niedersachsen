@@ -4,8 +4,8 @@ latitude: 53.28023
 longitude: 9.71252
 postcode: "21255"
 city: Tostedt
-street: "Waldstraße"
-housenumber: 2
-phone: "+49 4182 3151"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:30-18:30; We 09:00-13:00"
+street: Waldstraße
+housenumber: "2"
+phone: +49 4182 3151
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:30-18:30; We 09:00-13:00
 website: ""

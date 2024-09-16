@@ -1,11 +1,11 @@
 id: 90984515
-type: way
+type: node
 latitude: 53.14414
 longitude: 8.12542
 postcode: "26160"
 city: Bad Zwischenahn
-street: "An den Kolonaten"
-housenumber: 10
+street: An den Kolonaten
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

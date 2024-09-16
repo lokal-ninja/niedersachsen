@@ -4,8 +4,8 @@ latitude: 53.41233
 longitude: 7.7316
 postcode: "26639"
 city: Wiesmoor
-street: "Hauptstraße"
-housenumber: 190
+street: Hauptstraße
+housenumber: "190"
 phone: "+4949449207441"
-opening_hours: "Tu-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.uhren-schmuckhuus.de"
+opening_hours: Tu-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00
+website: https://www.uhren-schmuckhuus.de

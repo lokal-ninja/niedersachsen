@@ -4,8 +4,8 @@ latitude: 52.60033
 longitude: 10.1064
 postcode: "29227"
 city: Celle
-street: "Baumschulenweg"
-housenumber: 2
+street: Baumschulenweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-13:00;Su off;PH off"
-website: "https://www.fischer-autohaus.com"
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-13:00;Su off;PH off
+website: https://www.fischer-autohaus.com

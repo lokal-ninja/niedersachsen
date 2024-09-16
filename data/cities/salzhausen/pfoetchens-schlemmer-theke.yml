@@ -4,8 +4,9 @@ latitude: 53.22432
 longitude: 10.17182
 postcode: "21376"
 city: Salzhausen
-street: "Lüneburger Straße"
-housenumber: 2
-phone: "+49 4172 2830121"
-opening_hours: "Mo off; Tu 10:00-13:00, 14:30-18:00; We-Th 14:30-18:00; Fr 10:00-18:00; Sa 10:00-14:00; Su off"
-website: "https://pfoetchens-schlemmer-theke.de/"
+street: Lüneburger Straße
+housenumber: "2"
+phone: +49 4172 2830121
+opening_hours: Mo off; Tu 10:00-13:00, 14:30-18:00; We-Th 14:30-18:00; Fr 10:00-18:00;
+    Sa 10:00-14:00; Su off
+website: https://pfoetchens-schlemmer-theke.de/

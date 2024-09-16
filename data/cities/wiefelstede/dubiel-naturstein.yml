@@ -1,11 +1,11 @@
 id: 686271043
-type: way
+type: node
 latitude: 53.1896
 longitude: 8.11625
 postcode: "26215"
 city: Wiefelstede
-street: "An der Autobahn"
-housenumber: 19
-phone: "+49 441 36163792"
+street: An der Autobahn
+housenumber: "19"
+phone: +49 441 36163792
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 125035272
-type: way
+type: node
 latitude: 52.17207
 longitude: 10.35143
 postcode: "38229"
 city: Salzgitter
-street: "Peiner Straße"
-housenumber: 246
-phone: "+49 53 41 409 10 60"
-opening_hours: "Mo-Fr 07:30-19:00, Sa 08:30-14:00"
-website: "https://autoplus.de/filiale/salzgitter"
+street: Peiner Straße
+housenumber: "246"
+phone: +49 53 41 409 10 60
+opening_hours: Mo-Fr 07:30-19:00, Sa 08:30-14:00
+website: https://autoplus.de/filiale/salzgitter

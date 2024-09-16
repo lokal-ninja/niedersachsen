@@ -1,11 +1,12 @@
 id: 1075859744
-type: way
+type: node
 latitude: 52.8996
 longitude: 8.21103
 postcode: "26197"
 city: Großenkneten
-street: "Vechtaer Straße"
+street: Vechtaer Straße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00,13:00-18:00; Fr 09:00-12:00,13:00-16:00; PH,Sa,Su off"
+opening_hours: Mo-Th 09:00-12:00,13:00-18:00; Fr 09:00-12:00,13:00-16:00; PH,Sa,Su
+    off
 website: ""

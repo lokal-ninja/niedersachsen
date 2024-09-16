@@ -4,8 +4,8 @@ latitude: 52.10586
 longitude: 9.35779
 postcode: "31785"
 city: Hameln
-street: "Emmernstraße"
-housenumber: 20
-phone: "+49 05151 821484"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-18:00"
-website: "http://buchvonblum.buchhandlung.de/"
+street: Emmernstraße
+housenumber: "20"
+phone: +49 05151 821484
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-18:00
+website: http://buchvonblum.buchhandlung.de/

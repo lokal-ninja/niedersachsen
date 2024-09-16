@@ -1,11 +1,11 @@
 id: 108578036
-type: way
+type: node
 latitude: 53.75189
 longitude: 7.48
 postcode: "26465"
 city: Langeoog
-street: "Warmbadweg"
-housenumber: 4
+street: Warmbadweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:30,15:00-17:00; We 10:00-12:30; Sa 11:00-13:00"
-website: "https://www.atelier-am-meer-langeoog.de/"
+opening_hours: Mo,Tu,Th,Fr 10:00-12:30,15:00-17:00; We 10:00-12:30; Sa 11:00-13:00
+website: https://www.atelier-am-meer-langeoog.de/

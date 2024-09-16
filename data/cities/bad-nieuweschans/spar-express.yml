@@ -2,10 +2,10 @@ id: 11378511976
 type: node
 latitude: 53.1788
 longitude: 7.21852
-postcode: "9693CK"
+postcode: 9693CK
 city: Bad Nieuweschans
-street: "Rijksweg"
-housenumber: 42
-phone: "+31 597 799801"
-opening_hours: "Mo-Fr 06:00-18:00; Sa-Su 09:00-17:00"
-website: "https://www.spar.nl/winkels/spar-express-nieuweschans-408/"
+street: Rijksweg
+housenumber: "42"
+phone: +31 597 799801
+opening_hours: Mo-Fr 06:00-18:00; Sa-Su 09:00-17:00
+website: https://www.spar.nl/winkels/spar-express-nieuweschans-408/

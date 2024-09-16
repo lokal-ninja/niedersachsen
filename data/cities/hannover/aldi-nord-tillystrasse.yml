@@ -1,11 +1,11 @@
 id: 192234819
-type: way
+type: node
 latitude: 52.338
 longitude: 9.71796
 postcode: "30459"
 city: Hannover
-street: "Tillystraße"
-housenumber: 30
+street: Tillystraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

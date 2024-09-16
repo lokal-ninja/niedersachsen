@@ -1,11 +1,12 @@
 id: 282546228
-type: way
+type: node
 latitude: 53.58634
 longitude: 8.5985
 postcode: ""
 city: Bremerhaven
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa,Su open nach Vereinbarung; PH off"
-website: "https://www.fliesen-bremerhaven.de/"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa,Su open "nach Vereinbarung";
+    PH off
+website: https://www.fliesen-bremerhaven.de/

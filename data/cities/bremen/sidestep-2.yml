@@ -1,11 +1,11 @@
 id: 373588304
-type: way
+type: node
 latitude: 53.11128
 longitude: 8.74888
 postcode: ""
 city: Bremen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
 website: ""

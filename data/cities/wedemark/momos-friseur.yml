@@ -4,8 +4,8 @@ latitude: 52.54852
 longitude: 9.74672
 postcode: "30900"
 city: Wedemark
-street: "Wedemarkstraße"
-housenumber: 96
-phone: "+49 0 5130 58 76 322"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.momos-friseur.de"
+street: Wedemarkstraße
+housenumber: "96"
+phone: +49 0 5130 58 76 322
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.momos-friseur.de

@@ -1,11 +1,11 @@
 id: 921199032
-type: way
+type: node
 latitude: 51.64091
 longitude: 10.24299
 postcode: "37197"
 city: Hattorf am Harz
-street: "Oderstraße"
-housenumber: 57
-phone: "+49 5584 94848"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-15:00"
-website: "https://www.halle57-kfztechnik.de/"
+street: Oderstraße
+housenumber: "57"
+phone: +49 5584 94848
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-15:00
+website: https://www.halle57-kfztechnik.de/

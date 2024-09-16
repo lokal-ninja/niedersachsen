@@ -4,8 +4,8 @@ latitude: 52.26511
 longitude: 10.52163
 postcode: "38100"
 city: Braunschweig
-street: "Sack"
-housenumber: 15
-phone: "+49 531 480 89 0"
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.graff.de/"
+street: Sack
+housenumber: "15"
+phone: +49 531 480 89 0
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.graff.de/

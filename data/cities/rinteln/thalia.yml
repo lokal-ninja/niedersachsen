@@ -1,11 +1,11 @@
 id: 365082470
-type: way
+type: node
 latitude: 52.18885
 longitude: 9.08062
 postcode: "31737"
 city: Rinteln
-street: "Weserstraße"
-housenumber: 3
+street: Weserstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5569/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.thalia.de/shop/home/filialen/showDetails/5569/

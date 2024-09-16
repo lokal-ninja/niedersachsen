@@ -1,11 +1,11 @@
 id: 88272403
-type: way
+type: node
 latitude: 52.60799
 longitude: 8.36628
 postcode: "49356"
 city: Diepholz
-street: "Mollerstraße"
-housenumber: 20
+street: Mollerstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su off
+website: https://www.aldi-nord.de/

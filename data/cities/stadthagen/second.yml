@@ -1,11 +1,11 @@
 id: 838803105
-type: way
+type: node
 latitude: 52.32391
 longitude: 9.15696
 postcode: "31655"
 city: Stadthagen
-street: "Stadthäger Straße"
-housenumber: 8
-phone: "+49 5721 9383651"
+street: Stadthäger Straße
+housenumber: "8"
+phone: +49 5721 9383651
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 206696890
-type: way
+type: node
 latitude: 52.37901
 longitude: 10.44704
 postcode: "38528"
 city: Adenbüttel
-street: "Westerendstraße"
-housenumber: 11
+street: Westerendstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "http://www.gabelstapler-heckert.com"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
+website: http://www.gabelstapler-heckert.com

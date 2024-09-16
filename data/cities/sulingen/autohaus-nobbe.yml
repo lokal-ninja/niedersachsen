@@ -1,11 +1,11 @@
 id: 208770910
-type: way
+type: node
 latitude: 52.68687
 longitude: 8.83138
 postcode: "27232"
 city: Sulingen
-street: "Berliner Straße"
-housenumber: 85
+street: Berliner Straße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 09:00-12:00"
-website: "https://www.nobbe-gmbh.de/unternehmen/standorte/sulingen"
+opening_hours: Mo-Fr 07:30-17:30; Sa 09:00-12:00
+website: https://www.nobbe-gmbh.de/unternehmen/standorte/sulingen

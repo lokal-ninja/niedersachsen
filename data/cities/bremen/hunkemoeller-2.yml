@@ -1,11 +1,11 @@
 id: 373751698
-type: way
+type: node
 latitude: 53.11026
 longitude: 8.74872
 postcode: ""
 city: Bremen
 street: ""
-housenumber: 
-phone: "+49 421 39099729"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.hunkemoller.de/"
+housenumber: ""
+phone: +49 421 39099729
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.hunkemoller.de/

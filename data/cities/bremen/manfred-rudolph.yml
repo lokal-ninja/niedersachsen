@@ -1,11 +1,11 @@
 id: 123500047
-type: way
+type: node
 latitude: 53.17187
 longitude: 8.62063
 postcode: "28757"
 city: Bremen
-street: "Gerhard-Rohlfs-Straße"
-housenumber: 79
+street: Gerhard-Rohlfs-Straße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://fleischerei-rudolph.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://fleischerei-rudolph.de/

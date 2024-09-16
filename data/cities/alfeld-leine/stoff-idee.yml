@@ -4,8 +4,8 @@ latitude: 51.98543
 longitude: 9.82589
 postcode: "31061"
 city: Alfeld (Leine)
-street: "Winde"
-housenumber: 12
-phone: "05181-805081"
-opening_hours: "Mo-Sa 09:00-13:00, Tu-Fr 15:00-18:00"
-website: "https://www.stoff-idee.com"
+street: Winde
+housenumber: "12"
+phone: 05181-805081
+opening_hours: Mo-Sa 09:00-13:00, Tu-Fr 15:00-18:00
+website: https://www.stoff-idee.com

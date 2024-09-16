@@ -1,11 +1,11 @@
 id: 91245472
-type: way
+type: node
 latitude: 53.29607
 longitude: 7.58836
 postcode: "26835"
 city: Hesel
-street: "Wehrden"
-housenumber: 2
-phone: "+49 4950 3599"
+street: Wehrden
+housenumber: "2"
+phone: +49 4950 3599
 opening_hours: ""
 website: ""

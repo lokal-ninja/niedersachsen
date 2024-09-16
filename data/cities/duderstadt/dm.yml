@@ -4,8 +4,8 @@ latitude: 51.50824
 longitude: 10.25079
 postcode: "37115"
 city: Duderstadt
-street: "Bahnhofstraße"
-housenumber: 3
-phone: "+49 5527 8419175"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-2291/duderstadt/bahnhofstrasse-3"
+street: Bahnhofstraße
+housenumber: "3"
+phone: +49 5527 8419175
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-2291/duderstadt/bahnhofstrasse-3

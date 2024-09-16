@@ -1,11 +1,11 @@
 id: 208845734
-type: way
+type: node
 latitude: 52.41359
 longitude: 9.45911
 postcode: "31515"
 city: Wunstorf
-street: "Albert-Einstein-Straße"
-housenumber: 15
-phone: "+49 5031 960181"
+street: Albert-Einstein-Straße
+housenumber: "15"
+phone: +49 5031 960181
 opening_hours: ""
-website: "https://www.heinemannkfz.de/"
+website: https://www.heinemannkfz.de/

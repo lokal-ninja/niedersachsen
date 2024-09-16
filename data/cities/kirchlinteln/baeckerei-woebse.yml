@@ -4,8 +4,8 @@ latitude: 52.94063
 longitude: 9.31855
 postcode: "27308"
 city: Kirchlinteln
-street: "Alte Dorfstraße"
-housenumber: 6
+street: Alte Dorfstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-11:00"
-website: "https://www.baeckerei-woebse.de/filialen/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-11:00
+website: https://www.baeckerei-woebse.de/filialen/

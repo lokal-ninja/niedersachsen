@@ -1,11 +1,11 @@
 id: 1227130171
-type: way
+type: node
 latitude: 53.08445
 longitude: 7.38797
 postcode: "26871"
 city: Papenburg
-street: "Am Ems-Center"
-housenumber: 2
-phone: "+49 (0) 4961/61664470"
-opening_hours: "Mo-Sa 08:00-22:00"
+street: Am Ems-Center
+housenumber: "2"
+phone: +49 (0) 4961/61664470
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

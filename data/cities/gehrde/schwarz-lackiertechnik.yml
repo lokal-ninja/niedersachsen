@@ -1,11 +1,11 @@
 id: 958972182
-type: way
+type: node
 latitude: 52.57879
 longitude: 7.99899
 postcode: "49596"
 city: Gehrde
-street: "Im Reetern"
-housenumber: 2
+street: Im Reetern
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su,PH off
 website: ""

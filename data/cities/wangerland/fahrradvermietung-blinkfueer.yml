@@ -4,8 +4,8 @@ latitude: 53.68556
 longitude: 8.01249
 postcode: "26434"
 city: Wangerland
-street: "Goldstraße"
-housenumber: 14
-phone: "+49 4426 9296902"
-opening_hours: "Mo-Su 09:00-17:00"
-website: "https://www.nordseerad.de/"
+street: Goldstraße
+housenumber: "14"
+phone: +49 4426 9296902
+opening_hours: Mo-Su 09:00-17:00
+website: https://www.nordseerad.de/

@@ -4,8 +4,8 @@ latitude: 52.37734
 longitude: 9.72292
 postcode: "30167"
 city: Hannover
-street: "Königsworther Straße"
-housenumber: 3
+street: Königsworther Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-15:00"
-website: "https://www.goeing.de/koenigsworther-strasse"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-15:00
+website: https://www.goeing.de/koenigsworther-strasse

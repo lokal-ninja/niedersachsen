@@ -4,8 +4,8 @@ latitude: 53.2709
 longitude: 9.68472
 postcode: "21255"
 city: Wistedt
-street: "Quellner Straße"
-housenumber: 6
-phone: "+49 4182 3615"
-opening_hours: "Mo-Tu 10:00-18:00; Th-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.schulz-tostedt.de/"
+street: Quellner Straße
+housenumber: "6"
+phone: +49 4182 3615
+opening_hours: Mo-Tu 10:00-18:00; Th-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.schulz-tostedt.de/

@@ -4,8 +4,8 @@ latitude: 52.26562
 longitude: 10.52752
 postcode: "38100"
 city: Braunschweig
-street: "Steinweg"
-housenumber: 8
-phone: "+49 531 5909245"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.muellenheim.de"
+street: Steinweg
+housenumber: "8"
+phone: +49 531 5909245
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.muellenheim.de

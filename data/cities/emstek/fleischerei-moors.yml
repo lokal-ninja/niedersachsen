@@ -1,11 +1,11 @@
 id: 223757242
-type: way
+type: node
 latitude: 52.83387
 longitude: 8.15598
 postcode: "49685"
 city: Emstek
-street: "Lange Straße"
-housenumber: 2
-phone: "+49 4473 381"
-opening_hours: "Mo-Fr 07:00-12:30, 14:00-18:00; Sa 06:00-13:00; Su,PH off"
-website: "http://fleischerei-moors.com/"
+street: Lange Straße
+housenumber: "2"
+phone: +49 4473 381
+opening_hours: Mo-Fr 07:00-12:30, 14:00-18:00; Sa 06:00-13:00; Su,PH off
+website: http://fleischerei-moors.com/

@@ -1,11 +1,11 @@
 id: 97726944
-type: way
+type: node
 latitude: 51.92565
 longitude: 10.41821
 postcode: "38644"
 city: Goslar
-street: "Lange Wanne"
-housenumber: 4
+street: Lange Wanne
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://karosseriebau-pachel.de/"
+website: https://karosseriebau-pachel.de/

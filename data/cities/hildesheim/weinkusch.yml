@@ -4,8 +4,8 @@ latitude: 52.15327
 longitude: 9.95477
 postcode: "31134"
 city: Hildesheim
-street: "Osterstraße"
-housenumber: 50
+street: Osterstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-15:00"
-website: "http://www.weinkusch.de"
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-15:00
+website: http://www.weinkusch.de

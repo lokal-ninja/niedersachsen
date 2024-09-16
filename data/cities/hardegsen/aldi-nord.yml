@@ -1,11 +1,11 @@
 id: 42448153
-type: way
+type: node
 latitude: 51.65094
 longitude: 9.83573
 postcode: "37181"
 city: Hardegsen
-street: "Göttinger Straße"
-housenumber: 18
+street: Göttinger Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

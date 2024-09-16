@@ -1,11 +1,11 @@
 id: 1181399986
-type: way
+type: node
 latitude: 52.43352
 longitude: 9.68873
 postcode: "30855"
 city: Langenhagen
-street: "Magdeburger Straße"
-housenumber: 7
+street: Magdeburger Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://papemetals.com/metallhandel.html"
+website: https://papemetals.com/metallhandel.html

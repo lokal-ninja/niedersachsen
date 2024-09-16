@@ -1,11 +1,11 @@
 id: 46133806
-type: way
+type: node
 latitude: 52.41386
 longitude: 7.04562
 postcode: "48527"
 city: Nordhorn
-street: "Borkener Hof"
-housenumber: 6
+street: Borkener Hof
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://www.lidl.de/filialen/nordhorn/blumensiedlung-borkener-hof-6.html"
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://www.lidl.de/filialen/nordhorn/blumensiedlung-borkener-hof-6.html

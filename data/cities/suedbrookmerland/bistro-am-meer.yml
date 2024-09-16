@@ -1,11 +1,11 @@
 id: 490268087
-type: way
+type: node
 latitude: 53.44471
 longitude: 7.30638
 postcode: "26624"
 city: Südbrookmerland
-street: "Am Gästehafen"
-housenumber: 2
+street: Am Gästehafen
+housenumber: "2"
 phone: ""
-opening_hours: "Su,Mo 12:00-19:00; Tu-Sa 12:00-20:00"
-website: "https://www.grossesmeer.de/"
+opening_hours: Su,Mo 12:00-19:00; Tu-Sa 12:00-20:00
+website: https://www.grossesmeer.de/

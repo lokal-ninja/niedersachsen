@@ -1,11 +1,11 @@
 id: 327753690
-type: way
+type: node
 latitude: 52.3156
 longitude: 10.21027
 postcode: "31226"
 city: Peine
-street: "Werner-Nordmeyer-Straße"
-housenumber: 43
-phone: "+49 5171 57383"
+street: Werner-Nordmeyer-Straße
+housenumber: "43"
+phone: +49 5171 57383
 opening_hours: ""
-website: "https://www.sh-kemnitz.de/home"
+website: https://www.sh-kemnitz.de/home

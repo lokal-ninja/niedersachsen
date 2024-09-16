@@ -1,11 +1,11 @@
 id: 91428858
-type: way
+type: node
 latitude: 52.46629
 longitude: 10.19875
 postcode: "31311"
 city: Uetze
-street: "Lange Straße"
-housenumber: 8
+street: Lange Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.beffori.com/"
+website: https://www.beffori.com/

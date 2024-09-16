@@ -1,11 +1,12 @@
 id: 316410610
-type: way
+type: node
 latitude: 53.17031
 longitude: 8.22938
 postcode: "26125"
 city: Oldenburg
-street: "Wilhelmshavener Heerstraße"
-housenumber: 7
-phone: "+49 441 350250331"
-opening_hours: "Mo-Fr 08:00-18:00 Verkauf und Service, Sa 09:00-12:00 Verkauf und Service, Mo-Fr 17:00-18:00 Nur Verkauf kein Service; PH off"
-website: "https://www.freese-gruppe.de/standorte/freese-oldenburg-mini"
+street: Wilhelmshavener Heerstraße
+housenumber: "7"
+phone: +49 441 350250331
+opening_hours: Mo-Fr 08:00-18:00 "Verkauf und Service", Sa 09:00-12:00 "Verkauf und
+    Service", Mo-Fr 17:00-18:00 "Nur Verkauf kein Service"; PH off
+website: https://www.freese-gruppe.de/standorte/freese-oldenburg-mini

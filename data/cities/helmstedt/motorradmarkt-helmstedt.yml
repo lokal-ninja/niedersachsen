@@ -1,11 +1,11 @@
 id: 163383796
-type: way
+type: node
 latitude: 52.2439
 longitude: 10.97999
 postcode: "38350"
 city: Helmstedt
-street: "Porschestraße"
-housenumber: 11
+street: Porschestraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

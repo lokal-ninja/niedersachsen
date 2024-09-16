@@ -1,11 +1,11 @@
 id: 39498132
-type: way
+type: node
 latitude: 53.04516
 longitude: 8.82796
 postcode: "28277"
 city: Bremen
-street: "Am Hansastadion"
-housenumber: 2
+street: Am Hansastadion
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.kniefco.com"
+website: https://www.kniefco.com

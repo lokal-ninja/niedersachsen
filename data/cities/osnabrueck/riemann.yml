@@ -4,8 +4,9 @@ latitude: 52.29321
 longitude: 8.01518
 postcode: "49090"
 city: Osnabrück
-street: "Natruper Straße"
-housenumber: 213
+street: Natruper Straße
+housenumber: "213"
 phone: ""
-opening_hours: ""
-website: "https://www.wein-riemann.de"
+opening_hours: '"Der Verkauf von Wein ist auf Grund von Kreankheit nur nach telefonischer
+    Absprache möglich 0160 5536917"'
+website: ""

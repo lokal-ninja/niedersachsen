@@ -1,11 +1,11 @@
 id: 266537505
-type: way
+type: node
 latitude: 53.10899
 longitude: 8.4672
 postcode: "27798"
 city: Hude
-street: "Auf der Nordheide"
-housenumber: 28
+street: Auf der Nordheide
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

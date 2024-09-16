@@ -1,11 +1,11 @@
 id: 234976046
-type: way
+type: node
 latitude: 53.57782
 longitude: 9.49458
 postcode: "21684"
 city: Stade
-street: "Ferdinand-Porsche-Straße"
-housenumber: 2
-phone: "+49 4141 690 565"
-opening_hours: "Mo-Th 07:30-17:00, Fr 07:30-15:00; Sa nach Vereinbarung; PH off"
-website: "https://www.meisterhaft-team-may.de/"
+street: Ferdinand-Porsche-Straße
+housenumber: "2"
+phone: +49 4141 690 565
+opening_hours: Mo-Th 07:30-17:00, Fr 07:30-15:00; Sa "nach Vereinbarung"; PH off
+website: https://www.meisterhaft-team-may.de/

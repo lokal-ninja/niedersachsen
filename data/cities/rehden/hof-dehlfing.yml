@@ -1,11 +1,11 @@
 id: 87770270
-type: way
+type: node
 latitude: 52.6092
 longitude: 8.49025
 postcode: "49453"
 city: Rehden
-street: "Nienburger Straße"
-housenumber: 68
+street: Nienburger Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Su 08:00-18:00"
+opening_hours: Mo-Su 08:00-18:00
 website: ""

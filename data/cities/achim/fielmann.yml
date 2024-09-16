@@ -4,8 +4,8 @@ latitude: 53.01257
 longitude: 9.02972
 postcode: "28832"
 city: Achim
-street: "Bremer Straße"
-housenumber: 1
-phone: "+49 4202 8087"
-opening_hours: "Mo-Fr 09:90-18:30, Sa 09:00-13:30; PH off"
+street: Bremer Straße
+housenumber: "1"
+phone: +49 4202 8087
+opening_hours: Mo-Fr 09:90-18:30, Sa 09:00-13:30; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 302287448
-type: way
+type: node
 latitude: 52.60257
 longitude: 10.94152
 postcode: "38465"
 city: Brome
-street: "Mühlenstraße"
-housenumber: 10
+street: Mühlenstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

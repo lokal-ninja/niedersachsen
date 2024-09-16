@@ -1,11 +1,11 @@
 id: 183472562
-type: way
+type: node
 latitude: 52.86136
 longitude: 9.68503
 postcode: "29683"
 city: Bad Fallingbostel
-street: "Walsroder Straße"
-housenumber: 27
+street: Walsroder Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

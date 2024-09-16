@@ -1,11 +1,11 @@
 id: 100054869
-type: way
+type: node
 latitude: 52.83876
 longitude: 8.06909
 postcode: "49661"
 city: Cloppenburg
-street: "Max-Planck-Straße"
-housenumber: 6
-phone: "+49 4471 9580530"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00; Su,PH off"
-website: "https://www.maxxikuechen.de/"
+street: Max-Planck-Straße
+housenumber: "6"
+phone: +49 4471 9580530
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00; Su,PH off
+website: https://www.maxxikuechen.de/

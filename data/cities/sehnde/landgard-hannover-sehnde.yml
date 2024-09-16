@@ -1,11 +1,11 @@
 id: 167515044
-type: way
+type: node
 latitude: 52.35577
 longitude: 9.90338
 postcode: "31319"
 city: Sehnde
-street: "Ahlter Feld"
-housenumber: 1
-phone: "+49 5132 58930"
+street: Ahlter Feld
+housenumber: "1"
+phone: +49 5132 58930
 opening_hours: ""
 website: ""

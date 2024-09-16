@@ -4,8 +4,8 @@ latitude: 53.13487
 longitude: 8.73928
 postcode: "28239"
 city: Bremen
-street: "Am Oslebshauser Bahnhof"
-housenumber: 2
-phone: "+49 421 6441138"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://www.blumenhaus-vergiss-mein-nicht.de/"
+street: Am Oslebshauser Bahnhof
+housenumber: "2"
+phone: +49 421 6441138
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.blumenhaus-vergiss-mein-nicht.de/

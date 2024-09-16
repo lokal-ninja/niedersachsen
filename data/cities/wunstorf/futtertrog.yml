@@ -4,8 +4,8 @@ latitude: 52.44757
 longitude: 9.43791
 postcode: "31515"
 city: Wunstorf
-street: "Stiefelholz"
-housenumber: 2
-phone: "+49 173 2036326"
-opening_hours: "Mo,Tu,Th,Fr 13:30-18:00, Sa 08:30-13:00"
-website: "http://futtertrog-stiefelholz.de/"
+street: Stiefelholz
+housenumber: "2"
+phone: +49 173 2036326
+opening_hours: Mo,Tu,Th,Fr 13:30-18:00, Sa 08:30-13:00
+website: http://futtertrog-stiefelholz.de/

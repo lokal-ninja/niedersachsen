@@ -1,11 +1,11 @@
 id: 241040752
-type: way
+type: node
 latitude: 53.14935
 longitude: 8.21607
 postcode: "26123"
 city: Oldenburg
-street: "Nadorster Straße"
-housenumber: 30
+street: Nadorster Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 10:00-15:00; PH closed"
+opening_hours: Mo-Fr 10:00-15:00; PH closed
 website: ""

@@ -1,11 +1,11 @@
 id: 41197282
-type: way
+type: node
 latitude: 52.90673
 longitude: 10.58542
 postcode: "29559"
 city: Wrestedt
-street: "Bahnhofstraße"
-housenumber: 61
+street: Bahnhofstraße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

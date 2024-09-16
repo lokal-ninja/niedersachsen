@@ -1,11 +1,11 @@
 id: 95679885
-type: way
+type: node
 latitude: 52.20216
 longitude: 8.06496
 postcode: "49124"
 city: Georgsmarienhütte
-street: "Oeseder Straße"
-housenumber: 112
+street: Oeseder Straße
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

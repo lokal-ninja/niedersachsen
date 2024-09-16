@@ -4,8 +4,8 @@ latitude: 53.14213
 longitude: 8.19157
 postcode: "26129"
 city: Oldenburg
-street: "Bloherfelder Straße"
-housenumber: 2
+street: Bloherfelder Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-14:00; Su 07:00-11:00"
-website: "https://musswessels.com/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-14:00; Su 07:00-11:00
+website: https://musswessels.com/

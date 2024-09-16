@@ -1,11 +1,11 @@
 id: 91095992
-type: way
+type: node
 latitude: 53.26669
 longitude: 7.94629
 postcode: "26655"
 city: Westerstede
-street: "Neukamp"
-housenumber: 1
-phone: "+49 4488 84900"
+street: Neukamp
+housenumber: "1"
+phone: +49 4488 84900
 opening_hours: ""
 website: ""

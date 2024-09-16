@@ -1,11 +1,11 @@
 id: 263160054
-type: way
+type: node
 latitude: 53.25726
 longitude: 7.92585
 postcode: "26655"
 city: Westerstede
-street: "Lange Straße"
-housenumber: 6
-phone: "+49 4488 2309"
+street: Lange Straße
+housenumber: "6"
+phone: +49 4488 2309
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 89309860
-type: way
+type: node
 latitude: 53.05804
 longitude: 9.0184
 postcode: "28876"
 city: Oyten
-street: "Kirchweg"
-housenumber: 9
+street: Kirchweg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.62338
 longitude: 10.08199
 postcode: "29221"
 city: Celle
-street: "Poststraße"
-housenumber: 7
-phone: "+49 5141 90520"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 10:00-15:00; Mo off"
-website: "https://optik-celle.de/"
+street: Poststraße
+housenumber: "7"
+phone: +49 5141 90520
+opening_hours: Tu-Fr 09:00-18:00; Sa 10:00-15:00; Mo off
+website: https://optik-celle.de/

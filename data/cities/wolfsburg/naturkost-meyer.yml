@@ -1,11 +1,11 @@
 id: 229389628
-type: way
+type: node
 latitude: 52.3931
 longitude: 10.73343
 postcode: "38442"
 city: Wolfsburg
-street: "Feldscheunenweg"
-housenumber: 2
+street: Feldscheunenweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

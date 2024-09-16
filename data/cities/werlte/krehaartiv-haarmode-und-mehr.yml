@@ -1,11 +1,11 @@
 id: 252256974
-type: way
+type: node
 latitude: 52.85063
 longitude: 7.67101
 postcode: "49757"
 city: Werlte
-street: "Sögeler Straße"
-housenumber: 2
-phone: "+49 5951 9950530"
+street: Sögeler Straße
+housenumber: "2"
+phone: +49 5951 9950530
 opening_hours: ""
 website: ""

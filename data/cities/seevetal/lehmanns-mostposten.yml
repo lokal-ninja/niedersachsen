@@ -4,8 +4,8 @@ latitude: 53.36521
 longitude: 9.99882
 postcode: "21218"
 city: Seevetal
-street: "Moorstraße"
-housenumber: 48
-phone: "+49 4105 667492"
+street: Moorstraße
+housenumber: "48"
+phone: +49 4105 667492
 opening_hours: ""
-website: "http://mostposten.de"
+website: http://mostposten.de

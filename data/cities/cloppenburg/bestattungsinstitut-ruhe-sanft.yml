@@ -1,11 +1,11 @@
 id: 445335657
-type: way
+type: node
 latitude: 52.84322
 longitude: 8.03027
 postcode: "49661"
 city: Cloppenburg
-street: "Molberger Straße"
-housenumber: 20
+street: Molberger Straße
+housenumber: "20"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 28143475
-type: way
+type: node
 latitude: 52.21523
 longitude: 10.53127
 postcode: "38124"
 city: Braunschweig
-street: "Senefelderstraße"
-housenumber: 2
+street: Senefelderstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

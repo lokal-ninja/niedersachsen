@@ -1,11 +1,11 @@
 id: 111867525
-type: way
+type: node
 latitude: 52.2808
 longitude: 10.5536
 postcode: "38104"
 city: Braunschweig
-street: "Kurzekampstraße"
+street: Kurzekampstraße
 housenumber: 14B
 phone: ""
 opening_hours: ""
-website: "https://www.bornemann-bs.de/"
+website: https://www.bornemann-bs.de/

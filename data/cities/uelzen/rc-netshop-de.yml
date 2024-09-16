@@ -1,11 +1,11 @@
 id: 30322242
-type: way
+type: node
 latitude: 52.92314
 longitude: 10.5224
 postcode: "29525"
 city: Uelzen
-street: "Ulmenweg"
-housenumber: 8
+street: Ulmenweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "http://www.rc-netshop.de"
+website: http://www.rc-netshop.de

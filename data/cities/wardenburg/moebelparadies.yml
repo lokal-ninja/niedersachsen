@@ -1,11 +1,11 @@
 id: 493096806
-type: way
+type: node
 latitude: 53.06174
 longitude: 8.1974
 postcode: "26203"
 city: Wardenburg
-street: "Oldenburger Straße"
-housenumber: 241
+street: Oldenburger Straße
+housenumber: "241"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://www.wohnparadies-schloetelburg.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://www.wohnparadies-schloetelburg.de/

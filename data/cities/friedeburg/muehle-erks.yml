@@ -1,11 +1,11 @@
 id: 502143391
-type: way
+type: node
 latitude: 53.45078
 longitude: 7.94158
 postcode: "26446"
 city: Friedeburg
-street: "Horster Hauptstraße"
-housenumber: 5
-phone: "+49 4453 2230"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.muehle-erks.de/"
+street: Horster Hauptstraße
+housenumber: "5"
+phone: +49 4453 2230
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.muehle-erks.de/

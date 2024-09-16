@@ -4,8 +4,8 @@ latitude: 52.61895
 longitude: 9.20396
 postcode: "31582"
 city: Nienburg/Weser
-street: "Südring"
-housenumber: 6
-phone: "+49 5021 96260"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.nobbe-gmbh.de/unternehmen/standorte/nienburg"
+street: Südring
+housenumber: "6"
+phone: +49 5021 96260
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.nobbe-gmbh.de/unternehmen/standorte/nienburg

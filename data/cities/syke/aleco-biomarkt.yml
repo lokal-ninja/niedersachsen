@@ -1,11 +1,11 @@
 id: 473385935
-type: way
+type: node
 latitude: 52.91399
 longitude: 8.82732
 postcode: "28857"
 city: Syke
-street: "Herrlichkeit"
-housenumber: 10
+street: Herrlichkeit
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

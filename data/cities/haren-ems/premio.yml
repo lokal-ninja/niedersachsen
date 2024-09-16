@@ -1,11 +1,11 @@
 id: 498078579
-type: way
+type: node
 latitude: 52.79397
 longitude: 7.22753
 postcode: "49733"
 city: Haren (Ems)
-street: "Belmfort"
-housenumber: 2
+street: Belmfort
+housenumber: "2"
 phone: "+4959322070"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://nuesse.premio.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://nuesse.premio.de/

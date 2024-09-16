@@ -1,11 +1,11 @@
 id: 147982155
-type: way
+type: node
 latitude: 52.36148
 longitude: 9.72087
 postcode: "30449"
 city: Hannover
-street: "Ritter-Brüning-Straße"
-housenumber: 
+street: Ritter-Brüning-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

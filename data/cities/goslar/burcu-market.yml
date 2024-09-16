@@ -1,11 +1,11 @@
 id: 794576293
-type: way
+type: node
 latitude: 51.90263
 longitude: 10.48118
 postcode: "38642"
 city: Goslar
-street: "Bahnhofstraße"
-housenumber: 27
+street: Bahnhofstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

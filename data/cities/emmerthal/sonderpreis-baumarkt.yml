@@ -1,11 +1,11 @@
 id: 199000015
-type: way
+type: node
 latitude: 52.04898
 longitude: 9.38795
 postcode: "31860"
 city: Emmerthal
-street: "Zum Distelflecken"
-housenumber: 2
-phone: "+49 51559596030"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://markt.sonderpreis-baumarkt.de/niedersachsen/emmerthal/zum-distelflecken-2"
+street: Zum Distelflecken
+housenumber: "2"
+phone: +49 51559596030
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://markt.sonderpreis-baumarkt.de/niedersachsen/emmerthal/zum-distelflecken-2

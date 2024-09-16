@@ -1,11 +1,11 @@
 id: 345776109
-type: way
+type: node
 latitude: 53.29975
 longitude: 7.59498
 postcode: "26835"
 city: Hesel
-street: "Im Brink"
-housenumber: 13
-phone: "+49 4950 937210"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-13:00; PH off"
-website: "http://www.heseler-pflanzencenter.de/"
+street: Im Brink
+housenumber: "13"
+phone: +49 4950 937210
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-13:00; PH off
+website: http://www.heseler-pflanzencenter.de/

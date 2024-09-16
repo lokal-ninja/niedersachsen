@@ -1,11 +1,11 @@
 id: 246166230
-type: way
+type: node
 latitude: 53.54488
 longitude: 8.57762
 postcode: "27568"
 city: Bremerhaven
-street: "Bürgermeister-Smidt-Straße"
-housenumber: 66
-phone: "+49 471 94680"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-19:00"
+street: Bürgermeister-Smidt-Straße
+housenumber: "66"
+phone: +49 471 94680
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-19:00
 website: ""

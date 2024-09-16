@@ -1,11 +1,11 @@
 id: 289175403
-type: way
+type: node
 latitude: 52.85841
 longitude: 9.58288
 postcode: "29664"
 city: Walsrode
-street: "Sudetenstraße"
-housenumber: 2
+street: Sudetenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

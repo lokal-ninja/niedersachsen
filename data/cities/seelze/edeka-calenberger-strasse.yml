@@ -1,11 +1,11 @@
 id: 192074031
-type: way
+type: node
 latitude: 52.40145
 longitude: 9.55139
 postcode: "30926"
 city: Seelze
-street: "Calenberger Straße"
-housenumber: 33
+street: Calenberger Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

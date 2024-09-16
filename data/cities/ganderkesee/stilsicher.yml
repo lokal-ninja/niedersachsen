@@ -1,11 +1,11 @@
 id: 265702422
-type: way
+type: node
 latitude: 53.03492
 longitude: 8.54325
 postcode: "27777"
 city: Ganderkesee
-street: "Wittekindstraße"
-housenumber: 4
+street: Wittekindstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Th,Fr 09:30-18:00; Sa 09:30-13:00; PH off"
+opening_hours: Th,Fr 09:30-18:00; Sa 09:30-13:00; PH off
 website: ""

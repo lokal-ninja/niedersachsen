@@ -1,11 +1,11 @@
 id: 209743446
-type: way
+type: node
 latitude: 52.40046
 longitude: 10.74854
 postcode: "38444"
 city: Wolfsburg
-street: "Erfurter Ring"
-housenumber: 14
+street: Erfurter Ring
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:30-22:30; Sa 10:00-18:00; Su 10:00-14:00"
-website: "https://www.sportstudio-wolfsburg.de/"
+opening_hours: Mo-Fr 08:30-22:30; Sa 10:00-18:00; Su 10:00-14:00
+website: https://www.sportstudio-wolfsburg.de/

@@ -1,11 +1,11 @@
 id: 337511604
-type: way
+type: node
 latitude: 52.91158
 longitude: 8.72402
 postcode: "27211"
 city: Bassum
-street: "Nordwohlde"
-housenumber: 60
+street: Nordwohlde
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

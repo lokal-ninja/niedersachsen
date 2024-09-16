@@ -4,8 +4,8 @@ latitude: 52.32261
 longitude: 7.22466
 postcode: "48465"
 city: Schüttorf
-street: "Färberstraße"
-housenumber: 2
-phone: "+49 5923 4890"
-opening_hours: "Mo-Sa 07:00-24:00"
-website: "https://www.klaas-und-kock.de/"
+street: Färberstraße
+housenumber: "2"
+phone: +49 5923 4890
+opening_hours: Mo-Sa 07:00-24:00
+website: https://www.klaas-und-kock.de/

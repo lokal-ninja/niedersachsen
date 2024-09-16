@@ -1,11 +1,11 @@
 id: 257917142
-type: way
+type: node
 latitude: 53.16003
 longitude: 8.22353
 postcode: "26123"
 city: Oldenburg
-street: "Nadorster Straße"
-housenumber: 192
+street: Nadorster Straße
+housenumber: "192"
 phone: ""
 opening_hours: ""
-website: "https://www.sicherheitshaus-redelfs.de/"
+website: https://www.sicherheitshaus-redelfs.de/

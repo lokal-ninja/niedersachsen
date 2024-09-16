@@ -1,11 +1,11 @@
 id: 161366662
-type: way
+type: node
 latitude: 53.36146
 longitude: 7.1686
 postcode: "26723"
 city: Emden
-street: "Thüringer Straße"
-housenumber: 9
-phone: "+49 4921 903254"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.klier.de/"
+street: Thüringer Straße
+housenumber: "9"
+phone: +49 4921 903254
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.klier.de/

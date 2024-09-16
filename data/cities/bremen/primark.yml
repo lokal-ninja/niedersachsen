@@ -1,11 +1,11 @@
 id: 373588283
-type: way
+type: node
 latitude: 53.1095
 longitude: 8.7506
 postcode: "28237"
 city: Bremen
-street: "AG Weser Straße"
-housenumber: 3
+street: AG Weser Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su,PH off
 website: ""

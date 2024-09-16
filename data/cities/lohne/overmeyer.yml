@@ -1,11 +1,11 @@
 id: 126132524
-type: way
+type: node
 latitude: 52.61464
 longitude: 8.26621
 postcode: "49393"
 city: Lohne
-street: "Kroger Straße"
-housenumber: 47
+street: Kroger Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 05:45-12:00; Su 08:00-11:00"
+opening_hours: Mo-Sa 05:45-12:00; Su 08:00-11:00
 website: ""

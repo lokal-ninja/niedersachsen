@@ -4,8 +4,8 @@ latitude: 52.26077
 longitude: 10.51838
 postcode: "38100"
 city: Braunschweig
-street: "Am Bruchtor"
-housenumber: 4
-phone: "+49 531 18371"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:15-16:00"
-website: "https://www.zweiradprofis.de/"
+street: Am Bruchtor
+housenumber: "4"
+phone: +49 531 18371
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:15-16:00
+website: https://www.zweiradprofis.de/

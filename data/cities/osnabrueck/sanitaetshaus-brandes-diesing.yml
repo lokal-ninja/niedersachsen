@@ -4,8 +4,8 @@ latitude: 52.27339
 longitude: 8.05397
 postcode: "49074"
 city: Osnabrück
-street: "Möserstraße"
-housenumber: 44
+street: Möserstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:30-12:30"
-website: "https://www.brandes-und-diesing.de/sanitaetshaus/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:30-12:30
+website: https://www.brandes-und-diesing.de/sanitaetshaus/

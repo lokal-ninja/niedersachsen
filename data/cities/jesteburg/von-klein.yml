@@ -4,8 +4,8 @@ latitude: 53.30502
 longitude: 9.95409
 postcode: "21266"
 city: Jesteburg
-street: "Am Stubbenhof"
-housenumber: 2
-phone: "+49 4183 - 98 98 692"
-opening_hours: "Mo 14:00-19:00; Tu,We,Fr 10:00-19:00; Th 10:00-20:00; Sa 10:00-14:00"
-website: "https://vnkln.de/"
+street: Am Stubbenhof
+housenumber: "2"
+phone: +49 4183 - 98 98 692
+opening_hours: Mo 14:00-19:00; Tu,We,Fr 10:00-19:00; Th 10:00-20:00; Sa 10:00-14:00
+website: https://vnkln.de/

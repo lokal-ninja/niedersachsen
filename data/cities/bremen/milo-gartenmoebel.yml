@@ -1,11 +1,11 @@
 id: 118914257
-type: way
+type: node
 latitude: 53.06296
 longitude: 8.77553
 postcode: "28199"
 city: Bremen
-street: "Duckwitzstraße"
-housenumber: 45
+street: Duckwitzstraße
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://www.milo-bremen.de/"
+website: https://www.milo-bremen.de/

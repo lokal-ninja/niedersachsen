@@ -1,11 +1,11 @@
 id: 85280547
-type: way
+type: node
 latitude: 52.41311
 longitude: 10.53124
 postcode: "38531"
 city: Rötgesbüttel
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 10a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.np.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.np.de

@@ -1,11 +1,11 @@
 id: 36971678
-type: way
+type: node
 latitude: 51.5411
 longitude: 9.90321
 postcode: "37079"
 city: Göttingen
-street: "Industriestraße"
-housenumber: 22
+street: Industriestraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

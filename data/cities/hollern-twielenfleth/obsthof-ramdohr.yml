@@ -4,8 +4,9 @@ latitude: 53.6027
 longitude: 9.52997
 postcode: "21723"
 city: Hollern-Twielenfleth
-street: "Hollernstraße"
-housenumber: 156
+street: Hollernstraße
+housenumber: "156"
 phone: ""
-opening_hours: "Mar Su[-1]-Oct Su[-1] -1 day: Mo-Sa 08:00-18:00; Mar Su[-1]-Oct Su[-1] -1 day: Su 10:00-18:00"
+opening_hours: 'Mar Su[-1]-Oct Su[-1] -1 day: Mo-Sa 08:00-18:00; Mar Su[-1]-Oct Su[-1]
+    -1 day: Su 10:00-18:00'
 website: ""

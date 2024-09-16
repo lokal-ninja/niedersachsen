@@ -4,8 +4,8 @@ latitude: 52.32545
 longitude: 7.24495
 postcode: "48465"
 city: Samern
-street: "Salzbergener Straße"
-housenumber: 85
-phone: "+49 5923 9024432"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:30-12:00"
-website: "https://www.baeckerei-triffterer.de/"
+street: Salzbergener Straße
+housenumber: "85"
+phone: +49 5923 9024432
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:30-12:00
+website: https://www.baeckerei-triffterer.de/

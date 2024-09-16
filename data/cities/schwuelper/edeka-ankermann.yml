@@ -1,11 +1,11 @@
 id: 157801911
-type: way
+type: node
 latitude: 52.35507
 longitude: 10.43698
 postcode: "38179"
 city: Schwülper
-street: "Meerweg"
-housenumber: 2
+street: Meerweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
-website: "http://edeka-ankermann.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su off
+website: http://edeka-ankermann.de/

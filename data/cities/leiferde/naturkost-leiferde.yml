@@ -4,8 +4,8 @@ latitude: 52.43835
 longitude: 10.43996
 postcode: "38542"
 city: Leiferde
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.naturkost-leiferde.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.naturkost-leiferde.de/

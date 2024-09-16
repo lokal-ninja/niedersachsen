@@ -1,11 +1,11 @@
 id: 107944673
-type: way
+type: node
 latitude: 53.80939
 longitude: 8.91159
 postcode: "21762"
 city: Otterndorf
-street: "Stader Straße"
-housenumber: 67
+street: Stader Straße
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

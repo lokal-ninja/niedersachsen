@@ -1,11 +1,11 @@
 id: 1200330457
-type: way
+type: node
 latitude: 51.72049
 longitude: 10.01055
 postcode: "37154"
 city: Northeim
-street: "Braunschweiger Straße"
-housenumber: 21
+street: Braunschweiger Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

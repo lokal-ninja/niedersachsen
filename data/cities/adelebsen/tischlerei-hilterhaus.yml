@@ -1,11 +1,11 @@
 id: 446338543
-type: way
+type: node
 latitude: 51.58171
 longitude: 9.76442
 postcode: "37139"
 city: Adelebsen
-street: "An der Rampe"
-housenumber: 2
+street: An der Rampe
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

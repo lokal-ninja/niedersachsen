@@ -4,8 +4,8 @@ latitude: 52.97308
 longitude: 9.82079
 postcode: "29614"
 city: Soltau
-street: "Am Hornberg"
-housenumber: 1
-phone: "+49 5191 98900"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; PH off"
-website: "https://www.it-wesemann.de/"
+street: Am Hornberg
+housenumber: "1"
+phone: +49 5191 98900
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; PH off
+website: https://www.it-wesemann.de/

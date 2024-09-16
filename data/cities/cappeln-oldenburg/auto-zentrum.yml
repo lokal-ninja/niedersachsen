@@ -1,11 +1,11 @@
 id: 193192756
-type: way
+type: node
 latitude: 52.80912
 longitude: 8.117
 postcode: "49692"
 city: Cappeln (Oldenburg)
-street: "Tenstedter Straße"
-housenumber: 1
+street: Tenstedter Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 08:00-09:30,09:45-17:00; Sa 08:00-13:00"
+opening_hours: Mo 08:00-09:30,09:45-17:00; Sa 08:00-13:00
 website: ""

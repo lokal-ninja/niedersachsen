@@ -1,11 +1,11 @@
 id: 93075885
-type: way
+type: node
 latitude: 53.04711
 longitude: 8.21286
 postcode: "26203"
 city: Wardenburg
-street: "Keilstraße"
-housenumber: 3
+street: Keilstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.freese-freizeit-mobile.de/pages/seiten.php?Seite=home"
+website: https://www.freese-freizeit-mobile.de/pages/seiten.php?Seite=home

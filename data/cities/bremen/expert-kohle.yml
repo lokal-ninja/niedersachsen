@@ -4,8 +4,8 @@ latitude: 53.12637
 longitude: 8.90276
 postcode: "28357"
 city: Bremen
-street: "Borgfelder Heerstraße"
-housenumber: 55
-phone: "+49 421 275071"
-opening_hours: "Mo-Fr 09:00-13:00; Sa 09:00-12:30; Mo, Tu, Th, Fr 14:30-18:00"
-website: "https://www.expert.de/bremen/kohle/"
+street: Borgfelder Heerstraße
+housenumber: "55"
+phone: +49 421 275071
+opening_hours: Mo-Fr 09:00-13:00; Sa 09:00-12:30; Mo, Tu, Th, Fr 14:30-18:00
+website: https://www.expert.de/bremen/kohle/

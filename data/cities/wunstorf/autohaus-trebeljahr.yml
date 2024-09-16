@@ -1,11 +1,11 @@
 id: 208845396
-type: way
+type: node
 latitude: 52.41422
 longitude: 9.46077
 postcode: "31515"
 city: Wunstorf
-street: "Albert-Einstein-Straße"
-housenumber: 17
+street: Albert-Einstein-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

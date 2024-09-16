@@ -1,11 +1,11 @@
 id: 137706413
-type: way
+type: node
 latitude: 53.17322
 longitude: 8.68901
 postcode: "28717"
 city: Bremen
-street: "Bördestraße"
-housenumber: 13
+street: Bördestraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.blochundhaenisch.de/"
+website: https://www.blochundhaenisch.de/

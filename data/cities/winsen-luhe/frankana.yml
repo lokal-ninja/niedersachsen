@@ -1,11 +1,11 @@
 id: 218425999
-type: way
+type: node
 latitude: 53.33612
 longitude: 10.22032
 postcode: "21423"
 city: Winsen (Luhe)
-street: "Porschestraße"
-housenumber: 15
+street: Porschestraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

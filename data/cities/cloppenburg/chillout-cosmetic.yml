@@ -4,8 +4,9 @@ latitude: 52.84519
 longitude: 8.04174
 postcode: "49661"
 city: Cloppenburg
-street: "Brandstraße"
-housenumber: 2
+street: Brandstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Bitte setzen Sie sich telefonisch mit mir in Verbindung, um einen Termin zu vereinbaren."
-website: "http://www.chillout-cosmetic.com"
+opening_hours: '"Bitte setzen Sie sich telefonisch mit mir in Verbindung, um einen
+    Termin zu vereinbaren."'
+website: http://www.chillout-cosmetic.com

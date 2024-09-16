@@ -4,8 +4,8 @@ latitude: 52.32376
 longitude: 10.23035
 postcode: "31224"
 city: Peine
-street: "Schillerstraße"
-housenumber: 1
-phone: "+49 5171 6936"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.breymann.com"
+street: Schillerstraße
+housenumber: "1"
+phone: +49 5171 6936
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.breymann.com

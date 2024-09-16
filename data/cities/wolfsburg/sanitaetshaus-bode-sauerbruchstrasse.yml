@@ -4,8 +4,8 @@ latitude: 52.41401
 longitude: 10.77096
 postcode: "38440"
 city: Wolfsburg
-street: "Sauerbruchstraße"
-housenumber: 13
+street: Sauerbruchstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa,Su closed; PH closed"
-website: "https://sanitaetshaus-bode.de/"
+opening_hours: Mo-Fr 09:00-17:00; Sa,Su closed; PH closed
+website: https://sanitaetshaus-bode.de/

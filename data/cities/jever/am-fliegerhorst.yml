@@ -1,11 +1,11 @@
 id: 145181923
-type: way
+type: node
 latitude: 53.55146
 longitude: 7.88561
 postcode: "26441"
 city: Jever
-street: "Rahrdumer Straße"
-housenumber: 86
+street: Rahrdumer Straße
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

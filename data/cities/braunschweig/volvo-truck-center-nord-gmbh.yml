@@ -1,11 +1,11 @@
 id: 180912700
-type: way
+type: node
 latitude: 52.31213
 longitude: 10.50944
 postcode: "38112"
 city: Braunschweig
-street: "Ottostraße"
-housenumber: 2
-phone: "+49 531 31 68 29"
+street: Ottostraße
+housenumber: "2"
+phone: +49 531 31 68 29
 opening_hours: ""
-website: "http://www.rabe-trucks.de"
+website: http://www.rabe-trucks.de

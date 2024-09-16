@@ -1,11 +1,11 @@
 id: 653451171
-type: way
+type: node
 latitude: 53.31388
 longitude: 9.87914
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Soltauer Straße"
-housenumber: 93
+street: Soltauer Straße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; PH off"
-website: "https://www.budni.de/filialen/21244-soltauer-strasse-93/"
+opening_hours: Mo-Sa 08:30-20:00; PH off
+website: https://www.budni.de/filialen/21244-soltauer-strasse-93/

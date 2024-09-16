@@ -1,11 +1,11 @@
 id: 183457501
-type: way
+type: node
 latitude: 53.30996
 longitude: 10.29018
 postcode: "21449"
 city: Radbruch
-street: "Bardowicker Straße"
-housenumber: 17
+street: Bardowicker Straße
+housenumber: "17"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

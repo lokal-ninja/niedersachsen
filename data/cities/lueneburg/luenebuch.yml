@@ -4,8 +4,8 @@ latitude: 53.24751
 longitude: 10.40821
 postcode: "21335"
 city: Lüneburg
-street: "Grapengießerstraße"
-housenumber: 4
-phone: "+49 4131 75474-0"
-opening_hours: "Mo-Sa 09:30-18:30"
-website: "https://www.luenebuch.de/"
+street: Grapengießerstraße
+housenumber: "4"
+phone: +49 4131 75474-0
+opening_hours: Mo-Sa 09:30-18:30
+website: https://www.luenebuch.de/

@@ -1,11 +1,11 @@
 id: 125872719
-type: way
+type: node
 latitude: 53.40418
 longitude: 9.97851
 postcode: "21218"
 city: Seevetal
-street: "Helmsweg"
-housenumber: 8
+street: Helmsweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 201387525
-type: way
+type: node
 latitude: 51.90749
 longitude: 10.42713
 postcode: "38640"
 city: Goslar
-street: "Bäckerstraße"
-housenumber: 23
+street: Bäckerstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,13:30-18:00"
-website: "https://www.brillen.de/"
+opening_hours: Mo-Fr 09:00-13:00,13:30-18:00
+website: https://www.brillen.de/

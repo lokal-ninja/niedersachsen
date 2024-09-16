@@ -4,8 +4,8 @@ latitude: 52.28004
 longitude: 8.04376
 postcode: "49074"
 city: Osnabrück
-street: "Hasestraße"
-housenumber: 60
+street: Hasestraße
+housenumber: "60"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00"
-website: "https://www.die-friseure-os.de/"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00
+website: https://www.die-friseure-os.de/

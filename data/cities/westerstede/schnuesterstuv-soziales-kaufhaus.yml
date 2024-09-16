@@ -1,11 +1,11 @@
 id: 386316276
-type: way
+type: node
 latitude: 53.25725
 longitude: 7.92378
 postcode: "26655"
 city: Westerstede
-street: "Lange Straße"
-housenumber: 22
-phone: "+49 4488 5205810"
-opening_hours: "Mo 13:00-17:00; Tu,Th 09:30-18:00; We,Fr 09:30-17:00; Sa 09:30-13:00"
-website: "http://www.aia-ammerland.de/einrichtungen-und-projekte/schnuesterstuv.html"
+street: Lange Straße
+housenumber: "22"
+phone: +49 4488 5205810
+opening_hours: Mo 13:00-17:00; Tu,Th 09:30-18:00; We,Fr 09:30-17:00; Sa 09:30-13:00
+website: http://www.aia-ammerland.de/einrichtungen-und-projekte/schnuesterstuv.html

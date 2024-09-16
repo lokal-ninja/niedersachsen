@@ -4,8 +4,8 @@ latitude: 52.26869
 longitude: 10.52834
 postcode: "38100"
 city: Braunschweig
-street: "Schöppenstedter Straße"
-housenumber: 25
-phone: "+49 531 22434911"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.brettspieleck.de/"
+street: Schöppenstedter Straße
+housenumber: "25"
+phone: +49 531 22434911
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.brettspieleck.de/

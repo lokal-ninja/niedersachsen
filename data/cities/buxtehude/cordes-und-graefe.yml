@@ -1,11 +1,11 @@
 id: 68645986
-type: way
+type: node
 latitude: 53.46306
 longitude: 9.70345
 postcode: "21614"
 city: Buxtehude
-street: "Lüneburger Schanze"
-housenumber: 24
+street: Lüneburger Schanze
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:30; Fr 07:00-15:00; PH off"
-website: "https://www.gc-gruppe.de/de/unternehmen/cordes-graefe-stade/locations/abex-buxtehude"
+opening_hours: Mo-Th 07:30-16:30; Fr 07:00-15:00; PH off
+website: https://www.gc-gruppe.de/de/unternehmen/cordes-graefe-stade/locations/abex-buxtehude

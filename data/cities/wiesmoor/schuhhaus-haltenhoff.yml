@@ -4,8 +4,8 @@ latitude: 53.41604
 longitude: 7.73749
 postcode: "26639"
 city: Wiesmoor
-street: "Hauptstraße"
-housenumber: 152
-phone: "+49 4944 912103"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00"
-website: "https://www.schuhhaus-haltenhoff.de"
+street: Hauptstraße
+housenumber: "152"
+phone: +49 4944 912103
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-14:00
+website: https://www.schuhhaus-haltenhoff.de

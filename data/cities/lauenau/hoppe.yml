@@ -4,8 +4,8 @@ latitude: 52.27404
 longitude: 9.36778
 postcode: "31867"
 city: Lauenau
-street: "Marktstraße"
-housenumber: 3
-phone: "+49 504322 51"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00;We,Sa 09:00-13:00"
-website: "http://www.drogerie-hoppe.de"
+street: Marktstraße
+housenumber: "3"
+phone: +49 504322 51
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00;We,Sa 09:00-13:00
+website: http://www.drogerie-hoppe.de

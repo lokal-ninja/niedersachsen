@@ -1,11 +1,11 @@
 id: 658941734
-type: way
+type: node
 latitude: 52.32435
 longitude: 9.78336
 postcode: "30519"
 city: Hannover
-street: "Hildesheimer Straße"
-housenumber: 413
+street: Hildesheimer Straße
+housenumber: "413"
 phone: ""
 opening_hours: ""
 website: ""

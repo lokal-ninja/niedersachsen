@@ -4,8 +4,9 @@ latitude: 52.73324
 longitude: 7.79521
 postcode: "49624"
 city: Löningen
-street: "Eschstraße"
-housenumber: 35
+street: Eschstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Tu,We,Th,Fr 06:00-11:00, 14:30-18:00; Sa 06:00-11:30; Su 08:00-10:30; Mo off"
+opening_hours: Tu,We,Th,Fr 06:00-11:00, 14:30-18:00; Sa 06:00-11:30; Su 08:00-10:30;
+    Mo off
 website: ""

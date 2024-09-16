@@ -4,8 +4,8 @@ latitude: 51.88252
 longitude: 10.55922
 postcode: "38667"
 city: Bad Harzburg
-street: "Herzog-Wilhelm-Straße"
-housenumber: 50
-phone: "0 53 22 - 81 64 2"
-opening_hours: "Mo,Tu,Th 07:30-16:00; We,Fr 07:30-13:00; Sa off"
-website: "https://www.diewaschbar-badharzburg.de"
+street: Herzog-Wilhelm-Straße
+housenumber: "50"
+phone: 0 53 22 - 81 64 2
+opening_hours: Mo,Tu,Th 07:30-16:00; We,Fr 07:30-13:00; Sa off
+website: https://www.diewaschbar-badharzburg.de

@@ -1,11 +1,11 @@
 id: 163658568
-type: way
+type: node
 latitude: 53.35041
 longitude: 7.10814
 postcode: "26723"
 city: Emden
-street: "Kloster-Langen-Straße"
-housenumber: 19
+street: Kloster-Langen-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "We 10:00-17:00; Fr 10:00-17:00"
-website: "https://www.hof-am-dollart.de/"
+opening_hours: We 10:00-17:00; Fr 10:00-17:00
+website: https://www.hof-am-dollart.de/

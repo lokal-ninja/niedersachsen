@@ -1,11 +1,11 @@
 id: 173163265
-type: way
+type: node
 latitude: 53.3327
 longitude: 10.44726
 postcode: "21382"
 city: Brietlingen
-street: "Bundesstraße"
-housenumber: 12
-phone: "+49 4133-3313"
+street: Bundesstraße
+housenumber: "12"
+phone: +49 4133-3313
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 124473703
-type: way
+type: node
 latitude: 52.32371
 longitude: 10.5143
 postcode: "38110"
 city: Braunschweig
-street: "Hauptstraße"
-housenumber: 68
+street: Hauptstraße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

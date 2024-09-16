@@ -1,11 +1,11 @@
 id: 92005692
-type: way
+type: node
 latitude: 52.34299
 longitude: 9.76241
 postcode: "30519"
 city: Hannover
-street: "Wagenfeldstraße"
-housenumber: 15
+street: Wagenfeldstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

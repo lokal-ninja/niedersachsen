@@ -1,11 +1,11 @@
 id: 691877166
-type: way
+type: node
 latitude: 53.01872
 longitude: 7.85472
 postcode: "26169"
 city: Friesoythe
-street: "Am Hafen"
-housenumber: 5
+street: Am Hafen
+housenumber: "5"
 phone: "+4944919344850"
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

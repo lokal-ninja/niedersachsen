@@ -4,8 +4,8 @@ latitude: 52.31909
 longitude: 10.3992
 postcode: "38176"
 city: Wendeburg
-street: "Südwinkel"
-housenumber: 1
+street: Südwinkel
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 09:00-13:00; Tu-Fr 09:00-13:00,14:30-18:30; PH off"
-website: "https://www.kosmetikinstitut-pfau.de"
+opening_hours: Mo 09:00-13:00; Tu-Fr 09:00-13:00,14:30-18:30; PH off
+website: https://www.kosmetikinstitut-pfau.de

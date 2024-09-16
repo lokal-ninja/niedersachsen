@@ -4,8 +4,8 @@ latitude: 53.10499
 longitude: 8.79798
 postcode: "28219"
 city: Bremen
-street: "Bayernstraße"
-housenumber: 173
+street: Bayernstraße
+housenumber: "173"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "http://www.powerspin-tt.de/"
+opening_hours: '"nach Vereinbarung"'
+website: http://www.powerspin-tt.de/

@@ -4,8 +4,8 @@ latitude: 53.05019
 longitude: 8.95867
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 36934062"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://de.tommy.com/"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 36934062
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://de.tommy.com/

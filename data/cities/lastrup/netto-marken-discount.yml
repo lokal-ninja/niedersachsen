@@ -1,11 +1,11 @@
 id: 88437370
-type: way
+type: node
 latitude: 52.79647
 longitude: 7.86084
 postcode: "49688"
 city: Lastrup
-street: "Linderner Straße"
-housenumber: 4
+street: Linderner Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de/

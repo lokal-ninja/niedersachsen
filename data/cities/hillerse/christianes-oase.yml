@@ -1,11 +1,11 @@
 id: 336920982
-type: way
+type: node
 latitude: 52.40933
 longitude: 10.40275
 postcode: "38543"
 city: Hillerse
-street: "Rolfsbütteler Straße"
-housenumber: 12
+street: Rolfsbütteler Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

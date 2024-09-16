@@ -4,8 +4,8 @@ latitude: 53.22702
 longitude: 10.40116
 postcode: "21335"
 city: Lüneburg
-street: "Carl-von-Ossietzky-Straße"
-housenumber: 21
+street: Carl-von-Ossietzky-Straße
+housenumber: "21"
 phone: "+494131799102"
-opening_hours: "Mo-Fr 06:15-18:00; Sa 06:15-14:00"
-website: "https://www.der-lecker-baecker.de/"
+opening_hours: Mo-Fr 06:15-18:00; Sa 06:15-14:00
+website: https://www.der-lecker-baecker.de/

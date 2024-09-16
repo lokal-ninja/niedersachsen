@@ -1,11 +1,11 @@
 id: 53528159
-type: way
+type: node
 latitude: 53.0261
 longitude: 8.80261
 postcode: "28816"
 city: Stuhr
-street: "Henleinstraße"
+street: Henleinstraße
 housenumber: 1a
-phone: "+49 1805 5353435"
-opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
-website: "http://www.ikea.de/Brinkum"
+phone: +49 1805 5353435
+opening_hours: Mo-Sa 10:00-20:00; PH,Su off
+website: http://www.ikea.de/Brinkum

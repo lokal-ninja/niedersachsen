@@ -1,11 +1,11 @@
 id: 254644307
-type: way
+type: node
 latitude: 52.73637
 longitude: 10.23379
 postcode: "29348"
 city: Eschede
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:45-13:00, Tu-Fr 15:00-18:00, Sa 08:00-13:00"
+opening_hours: Mo-Fr 07:45-13:00, Tu-Fr 15:00-18:00, Sa 08:00-13:00
 website: ""

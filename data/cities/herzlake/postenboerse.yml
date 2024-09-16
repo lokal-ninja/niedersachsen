@@ -4,8 +4,8 @@ latitude: 52.68428
 longitude: 7.60834
 postcode: "49770"
 city: Herzlake
-street: "Löninger Straße"
-housenumber: 8
+street: Löninger Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.posten-boerse.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
+website: https://www.posten-boerse.de/

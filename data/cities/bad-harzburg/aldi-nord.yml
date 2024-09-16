@@ -1,11 +1,11 @@
 id: 178645278
-type: way
+type: node
 latitude: 51.90269
 longitude: 10.55106
 postcode: "38667"
 city: Bad Harzburg
-street: "Schlewecker Straße"
-housenumber: 2
+street: Schlewecker Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.53435
 longitude: 9.93366
 postcode: "37073"
 city: Göttingen
-street: "Gotmarstraße"
-housenumber: 1
+street: Gotmarstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:30; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:30-18:30; Sa 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 287202939
-type: way
+type: node
 latitude: 53.12911
 longitude: 8.86696
 postcode: "28357"
 city: Bremen
-street: "Am Lehester Deich"
-housenumber: 159
+street: Am Lehester Deich
+housenumber: "159"
 phone: ""
-opening_hours: "Fr,Su 13:00-16:00; Sa 10:00-13:00"
+opening_hours: Fr,Su 13:00-16:00; Sa 10:00-13:00
 website: ""

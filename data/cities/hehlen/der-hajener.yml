@@ -4,8 +4,8 @@ latitude: 51.98543
 longitude: 9.47002
 postcode: "37619"
 city: Hehlen
-street: "Hauptstraße"
-housenumber: 40
-phone: "+49 5533 4852"
-opening_hours: "Mo-Fr 06:00-17:00; Sa 07:00-13:00; Su 08:00-11:00"
-website: "https://hajen.de/filialen.html"
+street: Hauptstraße
+housenumber: "40"
+phone: +49 5533 4852
+opening_hours: Mo-Fr 06:00-17:00; Sa 07:00-13:00; Su 08:00-11:00
+website: https://hajen.de/filialen.html

@@ -1,11 +1,11 @@
 id: 1079691609
-type: way
+type: node
 latitude: 53.5679
 longitude: 9.49847
 postcode: "21684"
 city: Stade
-street: "Wilhelm-Leuschner-Weg"
-housenumber: 14
+street: Wilhelm-Leuschner-Weg
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

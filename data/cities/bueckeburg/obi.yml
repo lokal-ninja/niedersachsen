@@ -1,11 +1,11 @@
 id: 97856258
-type: way
+type: node
 latitude: 52.26498
 longitude: 9.06628
 postcode: "31675"
 city: Bückeburg
-street: "Kreuzbreite"
-housenumber: 5
-phone: "+49 5722 95980"
-opening_hours: "Sa 08:00-18:00; Mo-Fr 09:00-19:00"
-website: "https://www.obi.de/baumarkt/bueckeburg/"
+street: Kreuzbreite
+housenumber: "5"
+phone: +49 5722 95980
+opening_hours: Sa 08:00-18:00; Mo-Fr 09:00-19:00
+website: https://www.obi.de/baumarkt/bueckeburg/

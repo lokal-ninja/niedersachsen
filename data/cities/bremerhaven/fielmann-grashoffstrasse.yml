@@ -4,8 +4,8 @@ latitude: 53.53264
 longitude: 8.59318
 postcode: "27570"
 city: Bremerhaven
-street: "Grashoffstraße"
-housenumber: 28
+street: Grashoffstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.fielmann.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-13:00; PH off
+website: https://www.fielmann.de/

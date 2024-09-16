@@ -4,8 +4,8 @@ latitude: 52.32081
 longitude: 8.36001
 postcode: "49152"
 city: Bad Essen
-street: "Kuhweg"
-housenumber: 20
+street: Kuhweg
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.dekra.de/de/bad-essen/"
+website: https://www.dekra.de/de/bad-essen/

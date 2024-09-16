@@ -1,11 +1,11 @@
 id: 46973917
-type: way
+type: node
 latitude: 52.41921
 longitude: 10.72123
 postcode: "38442"
 city: Wolfsburg
-street: "Hinterm Hagen"
-housenumber: 21
-phone: "+49 5362 62204"
-opening_hours: "24/7"
-website: "https://tankstelle.aral.de/wolfsburg/hinterm-hagen-21/28205000"
+street: Hinterm Hagen
+housenumber: "21"
+phone: +49 5362 62204
+opening_hours: 24/7
+website: https://tankstelle.aral.de/wolfsburg/hinterm-hagen-21/28205000

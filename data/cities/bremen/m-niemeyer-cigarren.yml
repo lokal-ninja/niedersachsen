@@ -4,8 +4,8 @@ latitude: 53.06299
 longitude: 8.86935
 postcode: "28207"
 city: Bremen
-street: "Pfalzburger Straße"
-housenumber: 41
-phone: "+49 421 43 73 35 25"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.niemeyer-cigarren.de/"
+street: Pfalzburger Straße
+housenumber: "41"
+phone: +49 421 43 73 35 25
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.niemeyer-cigarren.de/

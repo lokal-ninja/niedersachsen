@@ -4,8 +4,8 @@ latitude: 52.40524
 longitude: 9.73353
 postcode: "30165"
 city: Hannover
-street: "Vahrenwalder Straße"
-housenumber: 199
-phone: "+49 511 318 04 18"
-opening_hours: "Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off"
-website: "https://www.louis.de/filialen/louis-hannover"
+street: Vahrenwalder Straße
+housenumber: "199"
+phone: +49 511 318 04 18
+opening_hours: 'Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off'
+website: https://www.louis.de/filialen/louis-hannover

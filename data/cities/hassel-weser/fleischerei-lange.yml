@@ -1,11 +1,11 @@
 id: 971883910
-type: way
+type: node
 latitude: 52.80377
 longitude: 9.19869
 postcode: "27324"
 city: Hassel (Weser)
-street: "Hauptstraße"
-housenumber: 38
+street: Hauptstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

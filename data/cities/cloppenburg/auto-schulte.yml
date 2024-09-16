@@ -1,11 +1,11 @@
 id: 456208848
-type: way
+type: node
 latitude: 52.83925
 longitude: 8.06576
 postcode: "49661"
 city: Cloppenburg
-street: "Lankumer Ring"
-housenumber: 12
-phone: "+49 44 71 - 9171-0"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00; PH off"
-website: "https://www.auto-schulte.com/"
+street: Lankumer Ring
+housenumber: "12"
+phone: +49 44 71 - 9171-0
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00; PH off
+website: https://www.auto-schulte.com/

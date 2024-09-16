@@ -1,11 +1,11 @@
 id: 90462233
-type: way
+type: node
 latitude: 53.7475
 longitude: 9.14762
 postcode: "21787"
 city: Oberndorf
-street: "Hauptstraße"
-housenumber: 63
+street: Hauptstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00; Mo 15:00-18:30; Th-Fr 15:00-18:30"
+opening_hours: Mo-Sa 08:00-12:00; Mo 15:00-18:30; Th-Fr 15:00-18:30
 website: ""

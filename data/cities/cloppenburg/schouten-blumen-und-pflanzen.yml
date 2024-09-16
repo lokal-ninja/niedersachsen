@@ -1,11 +1,11 @@
 id: 194829116
-type: way
+type: node
 latitude: 52.84226
 longitude: 8.05629
 postcode: "49661"
 city: Cloppenburg
-street: "Cappelner Straße"
+street: Cappelner Straße
 housenumber: 13-15
-phone: "+49 4471 9326 54"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-13:00"
-website: "https://www.blumen-schouten.de/"
+phone: +49 4471 9326 54
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-13:00
+website: https://www.blumen-schouten.de/

@@ -1,11 +1,11 @@
 id: 241728522
-type: way
+type: node
 latitude: 52.64981
 longitude: 7.97731
 postcode: "49635"
 city: Badbergen
-street: "Bergfelder Ort"
-housenumber: 1
+street: Bergfelder Ort
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

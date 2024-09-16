@@ -1,11 +1,11 @@
 id: 87776571
-type: way
+type: node
 latitude: 51.93083
 longitude: 10.4139
 postcode: "38644"
 city: Goslar
-street: "Dörntener Straße"
-housenumber: 21
+street: Dörntener Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.med-x-press.de"
+website: https://www.med-x-press.de

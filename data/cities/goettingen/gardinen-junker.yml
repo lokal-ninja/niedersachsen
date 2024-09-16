@@ -1,11 +1,11 @@
 id: 428882865
-type: way
+type: node
 latitude: 51.52443
 longitude: 9.93532
 postcode: "37083"
 city: Göttingen
-street: "Hugo-Junkers-Straße"
-housenumber: 1
+street: Hugo-Junkers-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "nach Vereinbarung (auch kurzfristig)"
+opening_hours: '"nach Vereinbarung (auch kurzfristig)"'
 website: ""

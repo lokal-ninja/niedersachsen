@@ -1,11 +1,11 @@
 id: 74358898
-type: way
+type: node
 latitude: 51.92428
 longitude: 10.41318
 postcode: "38644"
 city: Goslar
-street: "Bornhardtstraße"
+street: Bornhardtstraße
 housenumber: 1a
-phone: "+49 5321 5650"
+phone: +49 5321 5650
 opening_hours: ""
-website: "https://bauking.de/standort/baustoffhandel-goslar/"
+website: https://bauking.de/standort/baustoffhandel-goslar/

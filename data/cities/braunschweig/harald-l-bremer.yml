@@ -1,11 +1,11 @@
 id: 100442289
-type: way
+type: node
 latitude: 52.28354
 longitude: 10.5593
 postcode: "38104"
 city: Braunschweig
-street: "Efeuweg"
-housenumber: 3
-phone: "+49 531 237360"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-13:00"
-website: "https://www.bremerwein.de"
+street: Efeuweg
+housenumber: "3"
+phone: +49 531 237360
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-13:00
+website: https://www.bremerwein.de

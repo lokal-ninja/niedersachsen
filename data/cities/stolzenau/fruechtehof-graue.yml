@@ -1,11 +1,11 @@
 id: 1039876726
-type: way
+type: node
 latitude: 52.50931
 longitude: 9.03949
 postcode: "31592"
 city: Stolzenau
-street: "Bötheler Straße"
-housenumber: 2
-phone: "+49 5761 2731"
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su 07:00-18:00"
-website: "https://www.fruechtehof-graue.de/"
+street: Bötheler Straße
+housenumber: "2"
+phone: +49 5761 2731
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su 07:00-18:00
+website: https://www.fruechtehof-graue.de/

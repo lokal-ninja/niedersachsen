@@ -1,11 +1,11 @@
 id: 447308530
-type: way
+type: node
 latitude: 52.81331
 longitude: 7.92468
 postcode: "49688"
 city: Lastrup
-street: "Krapendorfer Straße"
-housenumber: 6
+street: Krapendorfer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.peek-motors.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.peek-motors.de/

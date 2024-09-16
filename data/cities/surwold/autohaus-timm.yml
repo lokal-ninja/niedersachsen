@@ -1,11 +1,11 @@
 id: 148297822
-type: way
+type: node
 latitude: 52.97556
 longitude: 7.51781
 postcode: "26903"
 city: Surwold
-street: "Hauptstraße"
-housenumber: 128
+street: Hauptstraße
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

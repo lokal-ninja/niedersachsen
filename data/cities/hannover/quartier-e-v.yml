@@ -1,11 +1,11 @@
 id: 194182862
-type: way
+type: node
 latitude: 52.36272
 longitude: 9.70326
 postcode: "30449"
 city: Hannover
-street: "Am Lindener Berge"
-housenumber: 44
+street: Am Lindener Berge
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

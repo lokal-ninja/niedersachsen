@@ -1,11 +1,11 @@
 id: 111609186
-type: way
+type: node
 latitude: 53.4151
 longitude: 7.73613
 postcode: "26639"
 city: Wiesmoor
-street: "Hauptstraße"
-housenumber: 162
+street: Hauptstraße
+housenumber: "162"
 phone: ""
 opening_hours: ""
-website: "https://www.fahrrad-block.de/"
+website: https://www.fahrrad-block.de/

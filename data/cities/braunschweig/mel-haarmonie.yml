@@ -1,11 +1,11 @@
 id: 66438205
-type: way
+type: node
 latitude: 52.2712
 longitude: 10.44102
 postcode: "38116"
 city: Braunschweig
-street: "Frankenstraße"
-housenumber: 5
+street: Frankenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

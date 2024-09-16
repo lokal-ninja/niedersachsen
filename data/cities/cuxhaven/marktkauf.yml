@@ -4,8 +4,8 @@ latitude: 53.84542
 longitude: 8.69206
 postcode: "27472"
 city: Cuxhaven
-street: "Abschnede"
-housenumber: 210
-phone: "+49 4721 / 55860"
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.marktkauf-center.de/cuxhaven/index.php"
+street: Abschnede
+housenumber: "210"
+phone: +49 4721 / 55860
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.marktkauf-center.de/cuxhaven/index.php

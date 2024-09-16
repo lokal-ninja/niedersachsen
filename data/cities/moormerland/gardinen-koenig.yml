@@ -4,8 +4,9 @@ latitude: 53.30496
 longitude: 7.48591
 postcode: "26802"
 city: Moormerland
-street: "Helgoländer Straße"
-housenumber: 1
+street: Helgoländer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Tu 09:00-12:00,14:30-18:00; We 09:00-12:00; Th-Fr 09:00-12:00,14:30-18:00; Sa 09:00-12:00; Su off; PH off"
-website: "https://www.gardinen-koenig.de/"
+opening_hours: Mo-Tu 09:00-12:00,14:30-18:00; We 09:00-12:00; Th-Fr 09:00-12:00,14:30-18:00;
+    Sa 09:00-12:00; Su off; PH off
+website: https://www.gardinen-koenig.de/

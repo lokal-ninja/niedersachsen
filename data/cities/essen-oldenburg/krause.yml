@@ -1,11 +1,11 @@
 id: 138408535
-type: way
+type: node
 latitude: 52.71873
 longitude: 7.9636
 postcode: "49632"
 city: Essen (Oldenburg)
-street: "Johannes-Gutenberg-Straße"
-housenumber: 8
+street: Johannes-Gutenberg-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

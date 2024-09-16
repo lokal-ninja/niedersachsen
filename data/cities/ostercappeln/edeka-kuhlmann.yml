@@ -4,8 +4,8 @@ latitude: 52.34369
 longitude: 8.23157
 postcode: "49179"
 city: Ostercappeln
-street: "Bremer Straße"
-housenumber: 33
-phone: "+49 5473 913142"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka-kuhlmann.de/"
+street: Bremer Straße
+housenumber: "33"
+phone: +49 5473 913142
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka-kuhlmann.de/

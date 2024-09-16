@@ -1,11 +1,11 @@
 id: 342594177
-type: way
+type: node
 latitude: 53.60964
 longitude: 9.47847
 postcode: "21682"
 city: Stade
-street: "Freiburger Straße"
-housenumber: 60
+street: Freiburger Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

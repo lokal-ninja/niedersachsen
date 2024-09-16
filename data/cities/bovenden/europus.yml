@@ -1,11 +1,11 @@
 id: 777128810
-type: way
+type: node
 latitude: 51.58478
 longitude: 9.92644
 postcode: "37120"
 city: Bovenden
-street: "Göttinger Straße"
-housenumber: 46
+street: Göttinger Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

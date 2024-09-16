@@ -4,8 +4,8 @@ latitude: 53.86668
 longitude: 8.7025
 postcode: "27472"
 city: Cuxhaven
-street: "Deichstraße"
-housenumber: 20
-phone: "+49 4721 33303"
-opening_hours: "Sa 10:00-13:00; PH off, Mo-Fr 10:00-12:30, Fr 15:30-18:00, Sa 10:00-13:00"
-website: "https://www.eisenbahn-paradies.de/"
+street: Deichstraße
+housenumber: "20"
+phone: +49 4721 33303
+opening_hours: Sa 10:00-13:00; PH off, Mo-Fr 10:00-12:30, Fr 15:30-18:00, Sa 10:00-13:00
+website: https://www.eisenbahn-paradies.de/

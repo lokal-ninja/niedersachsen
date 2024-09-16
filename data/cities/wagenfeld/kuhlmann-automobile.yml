@@ -1,11 +1,11 @@
 id: 404560227
-type: way
+type: node
 latitude: 52.54547
 longitude: 8.5937
 postcode: "49419"
 city: Wagenfeld
-street: "Rosenweg"
+street: Rosenweg
 housenumber: 2B
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

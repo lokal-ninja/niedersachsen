@@ -4,8 +4,8 @@ latitude: 53.05432
 longitude: 8.72766
 postcode: "28259"
 city: Bremen
-street: "Lampehof"
-housenumber: 29
-phone: "+49 421 36490054"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "http//www.mbitss.de"
+street: Lampehof
+housenumber: "29"
+phone: +49 421 36490054
+opening_hours: Mo-Fr 09:00-17:00
+website: http//www.mbitss.de

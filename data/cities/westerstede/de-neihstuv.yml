@@ -4,8 +4,8 @@ latitude: 53.31516
 longitude: 7.92274
 postcode: "26655"
 city: Westerstede
-street: "Halsbeker Hauptstraße"
-housenumber: 11
-phone: "+49 4488 5203184"
-opening_hours: "Mo 10:00-12:30; Tu-We 10:00-12:30,15:00-18:00; Th 15:00-18:00; Fr 10:00-12:30,15:00-18:00"
-website: "http://de-neihstuv.de/"
+street: Halsbeker Hauptstraße
+housenumber: "11"
+phone: +49 4488 5203184
+opening_hours: Mo 10:00-12:30; Tu-We 10:00-12:30,15:00-18:00; Th 15:00-18:00; Fr 10:00-12:30,15:00-18:00
+website: http://de-neihstuv.de/

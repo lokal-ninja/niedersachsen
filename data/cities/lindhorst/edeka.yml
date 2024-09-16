@@ -1,11 +1,11 @@
 id: 299124747
-type: way
+type: node
 latitude: 52.35351
 longitude: 9.29065
 postcode: "31698"
 city: Lindhorst
-street: "Gewerbestraße"
-housenumber: 6
-phone: "+49 5725 913982"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: Gewerbestraße
+housenumber: "6"
+phone: +49 5725 913982
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

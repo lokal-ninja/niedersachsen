@@ -1,11 +1,11 @@
 id: 220488030
-type: way
+type: node
 latitude: 52.64322
 longitude: 10.11273
 postcode: "29223"
 city: Celle
-street: "Hogrevestraße"
-housenumber: 12
-phone: "+49 51 41/48 490"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-13:00"
-website: "https://www.autohaus-speckhahn.de/"
+street: Hogrevestraße
+housenumber: "12"
+phone: +49 51 41/48 490
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-13:00
+website: https://www.autohaus-speckhahn.de/

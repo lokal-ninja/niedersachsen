@@ -1,11 +1,11 @@
 id: 265913573
-type: way
+type: node
 latitude: 53.24122
 longitude: 8.1721
 postcode: "26180"
 city: Rastede
-street: "An der Brücke"
-housenumber: 27
-phone: "+49 4402 98680"
+street: An der Brücke
+housenumber: "27"
+phone: +49 4402 98680
 opening_hours: ""
-website: "https://www.mueller-egerer.de/"
+website: https://www.mueller-egerer.de/

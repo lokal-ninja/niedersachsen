@@ -4,8 +4,8 @@ latitude: 53.50645
 longitude: 8.59714
 postcode: "27572"
 city: Bremerhaven
-street: "Weserstraße"
-housenumber: 90
+street: Weserstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 06:30-13:00; PH off"
-website: "http://www.fleischerei-fischer-bhv.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 06:30-13:00; PH off
+website: http://www.fleischerei-fischer-bhv.de/

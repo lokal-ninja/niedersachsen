@@ -4,8 +4,8 @@ latitude: 52.27557
 longitude: 8.04295
 postcode: "49074"
 city: Osnabrück
-street: "Hakenstraße"
-housenumber: 23
-phone: "+49541/999 80 251"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.trauringschmiede.de/trauringe-osnabrueck"
+street: Hakenstraße
+housenumber: "23"
+phone: +49541/999 80 251
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.trauringschmiede.de/trauringe-osnabrueck

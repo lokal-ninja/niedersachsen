@@ -1,11 +1,11 @@
 id: 93186907
-type: way
+type: node
 latitude: 53.17
 longitude: 7.46727
 postcode: "26810"
 city: Westoverledingen
-street: "Industriestraße"
-housenumber: 4
+street: Industriestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

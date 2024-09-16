@@ -1,11 +1,11 @@
 id: 377955912
-type: way
+type: node
 latitude: 53.16716
 longitude: 8.63635
 postcode: "28759"
 city: Bremen
-street: "Friedrich-Humbert-Straße"
-housenumber: 125
+street: Friedrich-Humbert-Straße
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de//"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de//

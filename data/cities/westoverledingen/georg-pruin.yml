@@ -1,11 +1,11 @@
 id: 93186885
-type: way
+type: node
 latitude: 53.17226
 longitude: 7.46615
 postcode: "26810"
 city: Westoverledingen
-street: "Otto-Hahn-Straße"
-housenumber: 2
+street: Otto-Hahn-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

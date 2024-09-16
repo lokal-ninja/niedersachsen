@@ -1,11 +1,11 @@
 id: 367823539
-type: way
+type: node
 latitude: 53.29052
 longitude: 10.73488
 postcode: "21354"
 city: Bleckede
-street: "Fritz-von-dem-Berge-Straße"
-housenumber: 7
+street: Fritz-von-dem-Berge-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 727871413
-type: way
+type: node
 latitude: 53.12614
 longitude: 7.46024
 postcode: "26810"
 city: Westoverledingen
-street: "Königstraße"
-housenumber: 141
+street: Königstraße
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

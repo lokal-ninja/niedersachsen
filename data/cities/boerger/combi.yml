@@ -1,11 +1,11 @@
 id: 131589397
-type: way
+type: node
 latitude: 52.91494
 longitude: 7.54207
 postcode: "26904"
 city: Börger
-street: "Breddenberger Straße"
-housenumber: 12
-phone: "+49 5953 925000"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.combi.de/"
+street: Breddenberger Straße
+housenumber: "12"
+phone: +49 5953 925000
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.combi.de/

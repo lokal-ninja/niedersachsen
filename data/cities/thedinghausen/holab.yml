@@ -4,8 +4,8 @@ latitude: 52.95986
 longitude: 9.01945
 postcode: "27321"
 city: Thedinghausen
-street: "Mühlenstraße"
-housenumber: 2
-phone: "+49 4204 914406"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Mühlenstraße
+housenumber: "2"
+phone: +49 4204 914406
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

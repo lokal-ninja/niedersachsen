@@ -1,11 +1,11 @@
 id: 206313056
-type: way
+type: node
 latitude: 52.2622
 longitude: 8.06515
 postcode: "49084"
 city: Osnabrück
-street: "Braunschweiger Straße"
-housenumber: 18
-phone: "+49 541 571940"
-opening_hours: "Mo-Th 07:15-17:00, Fr 07:15-16:00; PH off"
-website: "https://koopmann-lackierung.de/"
+street: Braunschweiger Straße
+housenumber: "18"
+phone: +49 541 571940
+opening_hours: Mo-Th 07:15-17:00, Fr 07:15-16:00; PH off
+website: https://koopmann-lackierung.de/

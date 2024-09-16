@@ -4,8 +4,8 @@ latitude: 52.24011
 longitude: 9.66328
 postcode: "31832"
 city: Springe
-street: "Osterland"
-housenumber: 1
-phone: "+49 504598023"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.rewe.de/marktseite/springe-bennigsen/540813/rewe-markt-osterland-1/"
+street: Osterland
+housenumber: "1"
+phone: +49 504598023
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.rewe.de/marktseite/springe-bennigsen/540813/rewe-markt-osterland-1/

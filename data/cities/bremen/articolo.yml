@@ -4,8 +4,8 @@ latitude: 53.06688
 longitude: 8.7926
 postcode: "28199"
 city: Bremen
-street: "Pappelstraße"
-housenumber: 107
+street: Pappelstraße
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, Sa 10:00-13:00, Mo-Fr 15:00-18:00"
+opening_hours: Mo-Fr 10:00-13:00, Sa 10:00-13:00, Mo-Fr 15:00-18:00
 website: ""

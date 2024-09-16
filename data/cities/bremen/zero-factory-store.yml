@@ -1,11 +1,11 @@
 id: 24771454
-type: way
+type: node
 latitude: 53.05053
 longitude: 8.83879
 postcode: "28279"
 city: Bremen
-street: "Scipiostraße"
-housenumber: 10
+street: Scipiostraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 253238628
-type: way
+type: node
 latitude: 52.97432
 longitude: 11.16366
 postcode: "29439"
 city: Lüchow
-street: "Seerauer Straße"
+street: Seerauer Straße
 housenumber: 37b
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

@@ -1,11 +1,11 @@
 id: 472065824
-type: way
+type: node
 latitude: 52.52463
 longitude: 9.13782
 postcode: "31633"
 city: Leese
-street: "Oehmer Feld"
-housenumber: 20
-phone: "+49 5761 9211-82"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00"
-website: "https://www.rwg-leese.de/portal/seiten/willkommen-im-hofladen-oehmer-feld-900000099-10008.html"
+street: Oehmer Feld
+housenumber: "20"
+phone: +49 5761 9211-82
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00
+website: https://www.rwg-leese.de/portal/seiten/willkommen-im-hofladen-oehmer-feld-900000099-10008.html

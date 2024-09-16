@@ -4,8 +4,8 @@ latitude: 52.89938
 longitude: 8.44313
 postcode: "27793"
 city: Wildeshausen
-street: "Huntetor"
-housenumber: 7
-phone: "04431-9817720"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:30-12:00"
-website: "https://www.baeckerei-weymann.de"
+street: Huntetor
+housenumber: "7"
+phone: 04431-9817720
+opening_hours: Mo-Sa 07:00-20:00; Su 07:30-12:00
+website: https://www.baeckerei-weymann.de

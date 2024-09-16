@@ -4,8 +4,8 @@ latitude: 53.07866
 longitude: 8.80665
 postcode: "28195"
 city: Bremen
-street: "Knochenhauerstraße"
-housenumber: 36
-phone: "+49 421 1633884"
-opening_hours: "Mo-Sa 09:00-18:00; PH,Su off"
-website: "https://www.hairxpress.de/"
+street: Knochenhauerstraße
+housenumber: "36"
+phone: +49 421 1633884
+opening_hours: Mo-Sa 09:00-18:00; PH,Su off
+website: https://www.hairxpress.de/

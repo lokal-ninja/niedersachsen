@@ -1,11 +1,11 @@
 id: 305786683
-type: way
+type: node
 latitude: 52.97025
 longitude: 9.85286
 postcode: "29614"
 city: Soltau
-street: "Vor dem Weiherbusch"
-housenumber: 1
+street: Vor dem Weiherbusch
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

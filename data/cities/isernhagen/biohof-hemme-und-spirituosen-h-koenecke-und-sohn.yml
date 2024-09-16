@@ -4,8 +4,9 @@ latitude: 52.46299
 longitude: 9.82263
 postcode: "30916"
 city: Isernhagen
-street: "Dorfstraße"
-housenumber: 40
-phone: "+49 5139 9720292"
-opening_hours: "Tu 09:30-12:00; Th 09:30-12:00,14:30-18:00; Fr 09:30-12:00,14:30-18:00; Sa 09:30-12:00"
-website: "http://biohof-hemme.de"
+street: Dorfstraße
+housenumber: "40"
+phone: +49 5139 9720292
+opening_hours: Tu 09:30-12:00; Th 09:30-12:00,14:30-18:00; Fr 09:30-12:00,14:30-18:00;
+    Sa 09:30-12:00
+website: http://biohof-hemme.de

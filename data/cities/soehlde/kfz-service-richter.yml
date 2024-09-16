@@ -4,8 +4,8 @@ latitude: 52.17691
 longitude: 10.17325
 postcode: "31185"
 city: Söhlde
-street: "Oberdorf"
-housenumber: 9
+street: Oberdorf
+housenumber: "9"
 phone: "+495123407362"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:30"
-website: "https://www.kfz-service-richter.eu/"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:30
+website: https://www.kfz-service-richter.eu/

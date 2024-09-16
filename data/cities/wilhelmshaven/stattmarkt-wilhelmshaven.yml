@@ -4,8 +4,9 @@ latitude: 53.52722
 longitude: 8.13085
 postcode: "26384"
 city: Wilhelmshaven
-street: "Ulmenstraße"
-housenumber: 57
+street: Ulmenstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo 09:00-15:30; Tu 09:00-12:00; We 09:00-16:00; Th 09:00-14:30; Fr 09:00-12:00"
+opening_hours: Mo 09:00-15:30; Tu 09:00-12:00; We 09:00-16:00; Th 09:00-14:30; Fr
+    09:00-12:00
 website: ""

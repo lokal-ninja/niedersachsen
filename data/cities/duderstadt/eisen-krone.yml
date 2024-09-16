@@ -4,8 +4,8 @@ latitude: 51.51243
 longitude: 10.25928
 postcode: "37115"
 city: Duderstadt
-street: "Marktstraße"
-housenumber: 47
-phone: "+49 5527 2017"
-opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 15:00-18:00; PH off"
-website: "https://www.eisen-krone.de/"
+street: Marktstraße
+housenumber: "47"
+phone: +49 5527 2017
+opening_hours: Mo-Sa 09:00-13:00, Mo-Fr 15:00-18:00; PH off
+website: https://www.eisen-krone.de/

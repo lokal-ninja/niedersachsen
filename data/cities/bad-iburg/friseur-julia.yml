@@ -1,11 +1,11 @@
 id: 440512120
-type: way
+type: node
 latitude: 52.1443
 longitude: 8.05941
 postcode: "49186"
 city: Bad Iburg
-street: "Gartenstraße"
-housenumber: 46
+street: Gartenstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

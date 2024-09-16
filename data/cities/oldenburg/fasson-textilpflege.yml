@@ -4,8 +4,8 @@ latitude: 53.18329
 longitude: 8.22772
 postcode: "26125"
 city: Oldenburg
-street: "Stubbenweg"
-housenumber: 27
-phone: "+49 441 302817"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "http://www.textilreinigung-oldenburg.de"
+street: Stubbenweg
+housenumber: "27"
+phone: +49 441 302817
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: http://www.textilreinigung-oldenburg.de

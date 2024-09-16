@@ -1,11 +1,11 @@
 id: 107222907
-type: way
+type: node
 latitude: 52.54693
 longitude: 7.95177
 postcode: "49593"
 city: Bersenbrück
-street: "Bramscher Straße"
-housenumber: 59
+street: Bramscher Straße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

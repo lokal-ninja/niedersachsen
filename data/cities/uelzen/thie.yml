@@ -4,8 +4,8 @@ latitude: 52.96543
 longitude: 10.56047
 postcode: "29525"
 city: Uelzen
-street: "Lüneburger Straße"
-housenumber: 13
+street: Lüneburger Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.optiker-thie.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.optiker-thie.de/

@@ -1,11 +1,11 @@
 id: 127724836
-type: way
+type: node
 latitude: 51.54361
 longitude: 9.88087
 postcode: "37079"
 city: Göttingen
-street: "Hans-Böckler-Straße"
-housenumber: 24
+street: Hans-Böckler-Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00; PH off; Su,PH 11:00-17:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-13:00; PH off; Su,PH 11:00-17:00
 website: ""

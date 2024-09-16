@@ -1,11 +1,11 @@
 id: 88367892
-type: way
+type: node
 latitude: 51.50917
 longitude: 9.91025
 postcode: "37124"
 city: Rosdorf
-street: "Rischenweg"
-housenumber: 9
+street: Rischenweg
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

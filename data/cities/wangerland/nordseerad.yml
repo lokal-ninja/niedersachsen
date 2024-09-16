@@ -4,8 +4,8 @@ latitude: 53.7031
 longitude: 8.02451
 postcode: "26434"
 city: Wangerland
-street: "Schillighörn"
-housenumber: 1
+street: Schillighörn
+housenumber: "1"
 phone: ""
-opening_hours: "PH,Mo-Su 09:00-13:00,14:00-17:00"
-website: "https://www.nordseerad.de/standort-schillig/"
+opening_hours: PH,Mo-Su 09:00-13:00,14:00-17:00
+website: https://www.nordseerad.de/standort-schillig/

@@ -4,8 +4,8 @@ latitude: 52.36955
 longitude: 9.72382
 postcode: "30169"
 city: Hannover
-street: "Calenberger Esplanade"
-housenumber: 2
-phone: "+49 511 4583787"
-opening_hours: "Tu,Th 09:00-18:00; We.Fr 09:00-19:00; Sa 08:00-13:00; Mo,Su off"
-website: "https://www.hairflair-hannover.de"
+street: Calenberger Esplanade
+housenumber: "2"
+phone: +49 511 4583787
+opening_hours: Tu,Th 09:00-18:00; We.Fr 09:00-19:00; Sa 08:00-13:00; Mo,Su off
+website: https://www.hairflair-hannover.de

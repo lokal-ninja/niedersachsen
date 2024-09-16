@@ -4,8 +4,8 @@ latitude: 53.08283
 longitude: 9.99804
 postcode: "29646"
 city: Bispingen
-street: "Harmshof"
-housenumber: 3
-phone: "+49 5194 6790"
-opening_hours: "Mo-Fr 09:30-12:00,14:30-18:00"
-website: "http://countrylady.de/"
+street: Harmshof
+housenumber: "3"
+phone: +49 5194 6790
+opening_hours: Mo-Fr 09:30-12:00,14:30-18:00
+website: http://countrylady.de/

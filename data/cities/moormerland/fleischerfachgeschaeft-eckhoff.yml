@@ -4,8 +4,8 @@ latitude: 53.31826
 longitude: 7.51669
 postcode: "26802"
 city: Moormerland
-street: "Westerwieke"
-housenumber: 134
-phone: "+49-4954-4178"
-opening_hours: "Mo 14:00-18:00; Tu-Th 08:00-12:00,13:30-18:00; Fr 08:00-18:00; Sa 07:30-12:00"
-website: "https://www.fleischerei-d-eckhoff.de/"
+street: Westerwieke
+housenumber: "134"
+phone: +49-4954-4178
+opening_hours: Mo 14:00-18:00; Tu-Th 08:00-12:00,13:30-18:00; Fr 08:00-18:00; Sa 07:30-12:00
+website: https://www.fleischerei-d-eckhoff.de/

@@ -1,11 +1,11 @@
 id: 128377691
-type: way
+type: node
 latitude: 52.50287
 longitude: 6.96842
 postcode: "49828"
 city: Neuenhaus
-street: "Veldhausener Straße"
-housenumber: 61
+street: Veldhausener Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

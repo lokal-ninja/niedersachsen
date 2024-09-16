@@ -4,8 +4,8 @@ latitude: 53.57439
 longitude: 8.09299
 postcode: "26388"
 city: Wilhelmshaven
-street: "Posener Straße"
-housenumber: 36
-phone: "+49 4421 54726"
-opening_hours: "Mo,Sa 07:00-20:00; PH off"
-website: "https://www.stadtbaeckerei-siemens.de/fachgeschaefte"
+street: Posener Straße
+housenumber: "36"
+phone: +49 4421 54726
+opening_hours: Mo,Sa 07:00-20:00; PH off
+website: https://www.stadtbaeckerei-siemens.de/fachgeschaefte

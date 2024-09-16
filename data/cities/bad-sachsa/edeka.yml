@@ -1,11 +1,11 @@
 id: 26928203
-type: way
+type: node
 latitude: 51.59052
 longitude: 10.56998
 postcode: "37441"
 city: Bad Sachsa
-street: "Sachsensteinstraße"
-housenumber: 5
-phone: "+495523 2722"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/hessenring/torsten-schwarz-sachsensteinstra%C3%9Fe-5/index.jsp"
+street: Sachsensteinstraße
+housenumber: "5"
+phone: +495523 2722
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/hessenring/torsten-schwarz-sachsensteinstra%C3%9Fe-5/index.jsp

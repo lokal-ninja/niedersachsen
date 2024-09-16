@@ -4,8 +4,8 @@ latitude: 53.56109
 longitude: 8.10949
 postcode: "26386"
 city: Wilhelmshaven
-street: "Rüstersieler Straße"
-housenumber: 93
-phone: "+49 4421 60258"
-opening_hours: "Mo-Tu 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"
-website: "https://www.stadtbaeckerei-siemens.de/fachgeschaefte"
+street: Rüstersieler Straße
+housenumber: "93"
+phone: +49 4421 60258
+opening_hours: Mo-Tu 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00
+website: https://www.stadtbaeckerei-siemens.de/fachgeschaefte

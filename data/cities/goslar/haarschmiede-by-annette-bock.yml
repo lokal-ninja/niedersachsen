@@ -1,11 +1,11 @@
 id: 650092522
-type: way
+type: node
 latitude: 51.90687
 longitude: 10.43018
 postcode: "38640"
 city: Goslar
-street: "Breite Straße"
-housenumber: 8
+street: Breite Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:30; Fr 08:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Th 09:00-18:30; Fr 08:00-18:30; Sa 09:00-14:00
 website: ""

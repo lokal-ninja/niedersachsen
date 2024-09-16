@@ -1,11 +1,11 @@
 id: 910419690
-type: way
+type: node
 latitude: 51.60208
 longitude: 10.20534
 postcode: "37434"
 city: Gieboldehausen
-street: "Göttinger Landstraße"
+street: Göttinger Landstraße
 housenumber: 14 A
 phone: "+495528999499"
-opening_hours: "Mo-Sa 09:30-18:30"
-website: "https://www.eichsfelder-schuhcenter.de/"
+opening_hours: Mo-Sa 09:30-18:30
+website: https://www.eichsfelder-schuhcenter.de/

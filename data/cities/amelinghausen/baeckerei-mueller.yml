@@ -1,11 +1,11 @@
 id: 327666840
-type: way
+type: node
 latitude: 53.12971
 longitude: 10.21742
 postcode: "21385"
 city: Amelinghausen
-street: "Lüneburger Straße"
-housenumber: 23
-phone: "+49 4132 9395959"
-opening_hours: "Mo-Fr 05:00-18:30; Sa 06:00-17:00; Su 07:30-17:00"
+street: Lüneburger Straße
+housenumber: "23"
+phone: +49 4132 9395959
+opening_hours: Mo-Fr 05:00-18:30; Sa 06:00-17:00; Su 07:30-17:00
 website: ""

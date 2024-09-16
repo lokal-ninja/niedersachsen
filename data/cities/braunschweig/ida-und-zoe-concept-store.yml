@@ -4,8 +4,8 @@ latitude: 52.26189
 longitude: 10.52962
 postcode: "38100"
 city: Braunschweig
-street: "Ölschlägern"
-housenumber: 22
-phone: "+49 531 61 80 70 54"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00"
-website: "https://www.idaundzoe.de"
+street: Ölschlägern
+housenumber: "22"
+phone: +49 531 61 80 70 54
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00
+website: https://www.idaundzoe.de

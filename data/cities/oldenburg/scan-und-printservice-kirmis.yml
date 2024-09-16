@@ -4,8 +4,8 @@ latitude: 53.17057
 longitude: 8.22171
 postcode: "26127"
 city: Oldenburg
-street: "Eßkamp"
-housenumber: 54
-phone: "+49 441 3400939"
-opening_hours: "Mo-Fr 09:00-13:00; 14:00-17:00"
-website: "https://scanundprintservice.de/"
+street: Eßkamp
+housenumber: "54"
+phone: +49 441 3400939
+opening_hours: Mo-Fr 09:00-13:00; 14:00-17:00
+website: https://scanundprintservice.de/

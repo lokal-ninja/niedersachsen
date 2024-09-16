@@ -1,11 +1,11 @@
 id: 134200206
-type: way
+type: node
 latitude: 52.49261
 longitude: 10.62799
 postcode: "38524"
 city: Sassenburg
-street: "Allerstraße"
-housenumber: 16
+street: Allerstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

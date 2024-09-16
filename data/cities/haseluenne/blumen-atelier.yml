@@ -1,11 +1,12 @@
 id: 1279189484
-type: way
+type: node
 latitude: 52.68368
 longitude: 7.46236
 postcode: "49740"
 city: Haselünne
-street: "Am Schullenriedengraben"
-housenumber: 23
+street: Am Schullenriedengraben
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-We 09:30-13:00, 14:00-18:30; Th,Fr 09:30-18:00; Sa 09:30-14:00; Su,PH off"
+opening_hours: Mo-We 09:30-13:00, 14:00-18:30; Th,Fr 09:30-18:00; Sa 09:30-14:00;
+    Su,PH off
 website: ""

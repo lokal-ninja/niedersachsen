@@ -1,11 +1,11 @@
 id: 81498363
-type: way
+type: node
 latitude: 53.60056
 longitude: 7.28368
 postcode: "26524"
 city: Hage
-street: "Kirchrott"
-housenumber: 1
+street: Kirchrott
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

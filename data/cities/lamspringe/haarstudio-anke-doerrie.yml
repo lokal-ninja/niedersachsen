@@ -4,8 +4,8 @@ latitude: 51.96151
 longitude: 10.01203
 postcode: "31195"
 city: Lamspringe
-street: "Hauptstraße"
-housenumber: 50
-phone: "+49 5183946823"
-opening_hours: "We-Fr 09:00-18:00; Sa 08:00-12:00"
-website: "https://www.lamspringe.de/index.php?ModID=9&FID=1738.503.1&object=tx%7C1738.8089.1"
+street: Hauptstraße
+housenumber: "50"
+phone: +49 5183946823
+opening_hours: We-Fr 09:00-18:00; Sa 08:00-12:00
+website: https://www.lamspringe.de/index.php?ModID=9&FID=1738.503.1&object=tx%7C1738.8089.1

@@ -4,8 +4,8 @@ latitude: 53.07292
 longitude: 8.82206
 postcode: "28203"
 city: Bremen
-street: "Ostertorsteinweg"
-housenumber: 8
-phone: "+49 176 72837518"
-opening_hours: "Tu-Sa 09:00-18:00"
+street: Ostertorsteinweg
+housenumber: "8"
+phone: +49 176 72837518
+opening_hours: Tu-Sa 09:00-18:00
 website: ""

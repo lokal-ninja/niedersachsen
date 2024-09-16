@@ -4,8 +4,8 @@ latitude: 52.15114
 longitude: 9.9511
 postcode: "31134"
 city: Hildesheim
-street: "Hoher Weg"
-housenumber: 15
-phone: "+49 5121 296080"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5824/"
+street: Hoher Weg
+housenumber: "15"
+phone: +49 5121 296080
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://www.thalia.de/shop/home/filialen/showDetails/5824/

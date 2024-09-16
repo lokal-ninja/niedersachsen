@@ -1,11 +1,11 @@
 id: 162439263
-type: way
+type: node
 latitude: 52.10205
 longitude: 9.39234
 postcode: "31785"
 city: Hameln
-street: "Hastenbecker Weg"
-housenumber: 51
+street: Hastenbecker Weg
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

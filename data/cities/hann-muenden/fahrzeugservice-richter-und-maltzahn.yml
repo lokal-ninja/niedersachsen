@@ -4,8 +4,8 @@ latitude: 51.38988
 longitude: 9.76492
 postcode: "34346"
 city: Hann. Münden
-street: "Pfarrgarten"
-housenumber: 2
+street: Pfarrgarten
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:30-17:00; Fr 08:30-13:30"
-website: "https://www.fahrzeugservice-richter.de/"
+opening_hours: Mo-Th 08:30-17:00; Fr 08:30-13:30
+website: https://www.fahrzeugservice-richter.de/

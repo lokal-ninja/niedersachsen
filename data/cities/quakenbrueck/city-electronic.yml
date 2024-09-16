@@ -4,8 +4,8 @@ latitude: 52.67426
 longitude: 7.9453
 postcode: "49610"
 city: Quakenbrück
-street: "Friedrichstraße"
-housenumber: 20
-phone: "+49 5431 9669670"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su, PH off"
-website: "https://cityelectronic.business.site"
+street: Friedrichstraße
+housenumber: "20"
+phone: +49 5431 9669670
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su, PH off
+website: https://cityelectronic.business.site

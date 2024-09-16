@@ -1,11 +1,11 @@
 id: 91235412
-type: way
+type: node
 latitude: 52.54932
 longitude: 9.71955
 postcode: "30900"
 city: Wedemark
-street: "Brelinger Straße"
-housenumber: 11
+street: Brelinger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 182391313
-type: way
+type: node
 latitude: 52.19964
 longitude: 9.91933
 postcode: "31180"
 city: Giesen
-street: "Hannoversche Straße"
-housenumber: 78
+street: Hannoversche Straße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

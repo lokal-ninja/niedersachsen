@@ -1,11 +1,11 @@
 id: 212431027
-type: way
+type: node
 latitude: 52.66676
 longitude: 7.30126
 postcode: "49716"
 city: Meppen
-street: "Industriestraße"
-housenumber: 12
+street: Industriestraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

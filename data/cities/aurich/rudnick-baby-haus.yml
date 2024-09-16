@@ -1,11 +1,11 @@
 id: 91117429
-type: way
+type: node
 latitude: 53.45698
 longitude: 7.50137
 postcode: "26605"
 city: Aurich
-street: "Jadestraße"
-housenumber: 5
-phone: "+49 4941 956971"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+street: Jadestraße
+housenumber: "5"
+phone: +49 4941 956971
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

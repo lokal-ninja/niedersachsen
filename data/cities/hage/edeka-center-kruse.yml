@@ -1,11 +1,11 @@
 id: 53804532
-type: way
+type: node
 latitude: 53.60224
 longitude: 7.28323
 postcode: "26524"
 city: Hage
-street: "Baantjebur"
-housenumber: 4
-phone: "+49 4931 94090"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-center-kruse-baantjebur-4/index.jsp"
+street: Baantjebur
+housenumber: "4"
+phone: +49 4931 94090
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-center-kruse-baantjebur-4/index.jsp

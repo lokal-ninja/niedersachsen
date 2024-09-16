@@ -4,8 +4,8 @@ latitude: 52.78418
 longitude: 8.25272
 postcode: "49377"
 city: Vechta
-street: "Lange Straße"
-housenumber: 38
-phone: "+49 4447 514"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "https://www.fleischerei-luebbe.de/"
+street: Lange Straße
+housenumber: "38"
+phone: +49 4447 514
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
+website: https://www.fleischerei-luebbe.de/

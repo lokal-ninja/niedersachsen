@@ -4,8 +4,8 @@ latitude: 52.26559
 longitude: 10.53945
 postcode: "38102"
 city: Braunschweig
-street: "Husarenstraße"
-housenumber: 12
+street: Husarenstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu,We 08:00-13:00; PH off; Th,Sa 08:00-13:00; Fr 08:00-15:00"
-website: "https://www.fischgross.de/"
+opening_hours: Tu,We 08:00-13:00; PH off; Th,Sa 08:00-13:00; Fr 08:00-15:00
+website: https://www.fischgross.de/

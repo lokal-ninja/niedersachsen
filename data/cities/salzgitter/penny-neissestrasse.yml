@@ -1,11 +1,11 @@
 id: 203359486
-type: way
+type: node
 latitude: 52.16125
 longitude: 10.31952
 postcode: "38226"
 city: Salzgitter
-street: "Neißestraße"
-housenumber: 16
+street: Neißestraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

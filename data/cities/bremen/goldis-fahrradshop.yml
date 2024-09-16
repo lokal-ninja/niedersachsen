@@ -4,8 +4,8 @@ latitude: 53.07274
 longitude: 8.87852
 postcode: "28329"
 city: Bremen
-street: "Haverbecker Weg"
-housenumber: 7
-phone: "+49 421 466070"
-opening_hours: "Mo-Tu,Th-Fr 15:00-18:00; We,Sa 09:30-13:00"
+street: Haverbecker Weg
+housenumber: "7"
+phone: +49 421 466070
+opening_hours: Mo-Tu,Th-Fr 15:00-18:00; We,Sa 09:30-13:00
 website: ""

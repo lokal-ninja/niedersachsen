@@ -1,11 +1,11 @@
 id: 1148673569
-type: way
+type: node
 latitude: 51.51488
 longitude: 9.8953
 postcode: "37124"
 city: Rosdorf
-street: "Hinter dem Hamberge"
-housenumber: 16
+street: Hinter dem Hamberge
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

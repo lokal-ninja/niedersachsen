@@ -1,11 +1,11 @@
 id: 184000689
-type: way
+type: node
 latitude: 52.03304
 longitude: 9.72548
 postcode: "31089"
 city: Duingen
-street: "Külftalstraße"
-housenumber: 29
+street: Külftalstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Tu-Sa 06:30-11:00"
-website: "http://www.matthias-baars.de/"
+opening_hours: Tu-Sa 06:30-11:00
+website: http://www.matthias-baars.de/

@@ -4,8 +4,8 @@ latitude: 52.99454
 longitude: 9.83493
 postcode: "29614"
 city: Soltau
-street: "Harburger Straße"
-housenumber: 25
+street: Harburger Straße
+housenumber: "25"
 phone: "+4951919313972"
-opening_hours: "Mo-Sa 06:15-19:00; So 08:00-11:00"
-website: "https://www.der-lecker-baecker.de/"
+opening_hours: Mo-Sa 06:15-19:00; So 08:00-11:00
+website: https://www.der-lecker-baecker.de/

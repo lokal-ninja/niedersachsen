@@ -1,11 +1,11 @@
 id: 250045133
-type: way
+type: node
 latitude: 52.68483
 longitude: 9.60836
 postcode: "29690"
 city: Schwarmstedt
-street: "Wiesenweg"
-housenumber: 1
-phone: "+49 5071 96840"
-opening_hours: "Mo-Fr 08:00-12:30,14:00-17:00; PH,Sa,Su off"
-website: "http://www.bk-kretschmann.de"
+street: Wiesenweg
+housenumber: "1"
+phone: +49 5071 96840
+opening_hours: Mo-Fr 08:00-12:30,14:00-17:00; PH,Sa,Su off
+website: http://www.bk-kretschmann.de

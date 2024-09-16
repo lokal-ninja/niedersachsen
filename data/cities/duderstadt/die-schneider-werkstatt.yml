@@ -4,8 +4,8 @@ latitude: 51.51338
 longitude: 10.25591
 postcode: "37115"
 city: Duderstadt
-street: "Westertorstraße"
-housenumber: 1
+street: Westertorstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Th 10:00-13:00,15:00-18:00; PH off"
+opening_hours: Mo,Th 10:00-13:00,15:00-18:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 139440278
-type: way
+type: node
 latitude: 53.17916
 longitude: 10.3501
 postcode: "21409"
 city: Embsen
-street: "Bahnhofstraße"
-housenumber: 11
+street: Bahnhofstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

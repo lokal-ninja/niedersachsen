@@ -1,11 +1,11 @@
 id: 172114707
-type: way
+type: node
 latitude: 52.08324
 longitude: 9.34336
 postcode: "31789"
 city: Hameln
-street: "Böcklerstraße"
-housenumber: 5
+street: Böcklerstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.mediamarkt.de/de/store/hameln-491"
+website: https://www.mediamarkt.de/de/store/hameln-491

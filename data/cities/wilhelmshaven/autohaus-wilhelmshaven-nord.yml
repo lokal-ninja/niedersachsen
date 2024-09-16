@@ -1,11 +1,11 @@
 id: 1093898199
-type: way
+type: node
 latitude: 53.56784
 longitude: 8.09803
 postcode: "26388"
 city: Wilhelmshaven
-street: "Preußenstraße"
-housenumber: 1
-phone: "+49 4421 5701 - 0"
-opening_hours: "Mo-Fr 07:15-18:30; Sa 08:00-13:00"
-website: "https://www.schmidt-und-koch.de/stores/wilhelmshaven-nord/"
+street: Preußenstraße
+housenumber: "1"
+phone: +49 4421 5701 - 0
+opening_hours: Mo-Fr 07:15-18:30; Sa 08:00-13:00
+website: https://www.schmidt-und-koch.de/stores/wilhelmshaven-nord/

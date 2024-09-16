@@ -1,11 +1,11 @@
 id: 261588061
-type: way
+type: node
 latitude: 51.68964
 longitude: 9.98621
 postcode: "37154"
 city: Northeim
-street: "Über dem Hellewege"
-housenumber: 4
+street: Über dem Hellewege
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

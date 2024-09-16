@@ -1,11 +1,11 @@
 id: 1191471273
-type: way
+type: node
 latitude: 52.32249
 longitude: 7.22164
 postcode: "48465"
 city: Schüttorf
-street: "Föhnstraße"
+street: Föhnstraße
 housenumber: 12-14
-phone: "+49 5923 4406"
-opening_hours: "Mo-Fr 10:00-12:30,14:30-18:00; Sa 10:00-12:00; Su off"
-website: "https://www.fahrradhaus-kronemeyer.de"
+phone: +49 5923 4406
+opening_hours: Mo-Fr 10:00-12:30,14:30-18:00; Sa 10:00-12:00; Su off
+website: https://www.fahrradhaus-kronemeyer.de

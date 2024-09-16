@@ -1,11 +1,11 @@
 id: 218965876
-type: way
+type: node
 latitude: 53.33706
 longitude: 8.1734
 postcode: "26349"
 city: Jade
-street: "Am Esch"
-housenumber: 2
-phone: "+49 4454 9797130"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-12:30"
-website: "https://zweirad-hoogendoorn.de/"
+street: Am Esch
+housenumber: "2"
+phone: +49 4454 9797130
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-12:30
+website: https://zweirad-hoogendoorn.de/

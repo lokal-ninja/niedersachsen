@@ -1,11 +1,11 @@
 id: 91884908
-type: way
+type: node
 latitude: 52.68197
 longitude: 8.8097
 postcode: "27232"
 city: Sulingen
-street: "Obere Straße"
-housenumber: 9
+street: Obere Straße
+housenumber: "9"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

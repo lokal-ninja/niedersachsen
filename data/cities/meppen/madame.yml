@@ -1,11 +1,11 @@
 id: 196679009
-type: way
+type: node
 latitude: 52.69139
 longitude: 7.2896
 postcode: "49716"
 city: Meppen
-street: "Zum Stadtgraben"
-housenumber: 20
+street: Zum Stadtgraben
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

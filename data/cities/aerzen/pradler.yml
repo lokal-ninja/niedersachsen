@@ -1,11 +1,11 @@
 id: 144953840
-type: way
+type: node
 latitude: 52.04313
 longitude: 9.25899
 postcode: "31855"
 city: Aerzen
-street: "Reherweg"
-housenumber: 27
+street: Reherweg
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Su 07:00-17:00; Sa 08:00-12:00"
-website: "https://www.ford-pradler-aerzen.de"
+opening_hours: Mo-Su 07:00-17:00; Sa 08:00-12:00
+website: https://www.ford-pradler-aerzen.de

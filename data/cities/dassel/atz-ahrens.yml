@@ -1,11 +1,11 @@
 id: 260261032
-type: way
+type: node
 latitude: 51.79
 longitude: 9.78505
 postcode: "37586"
 city: Dassel
-street: "Junkernstraße"
-housenumber: 50
-phone: "+49 5562 6416"
-opening_hours: "Mo-Fr 08:00-12:30, 13:00-17:30;Sa 09:00-12:30"
+street: Junkernstraße
+housenumber: "50"
+phone: +49 5562 6416
+opening_hours: Mo-Fr 08:00-12:30, 13:00-17:30;Sa 09:00-12:30
 website: ""

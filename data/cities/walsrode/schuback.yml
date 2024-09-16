@@ -4,8 +4,8 @@ latitude: 52.8625
 longitude: 9.5892
 postcode: "29664"
 city: Walsrode
-street: "Moorstraße"
-housenumber: 65
+street: Moorstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:30"
-website: "https://www.schuback-parfuemerien.de/standorte/walsrode/moorstrasse"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:30
+website: https://www.schuback-parfuemerien.de/standorte/walsrode/moorstrasse

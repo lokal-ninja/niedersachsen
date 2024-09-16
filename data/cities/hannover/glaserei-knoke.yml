@@ -4,8 +4,8 @@ latitude: 52.37307
 longitude: 9.78618
 postcode: "30625"
 city: Hannover
-street: "Scheidestraße"
-housenumber: 33
+street: Scheidestraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 15:00-18:00"
+opening_hours: Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 15:00-18:00
 website: ""

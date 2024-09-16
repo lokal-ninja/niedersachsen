@@ -1,11 +1,11 @@
 id: 166683448
-type: way
+type: node
 latitude: 52.83875
 longitude: 10.68255
 postcode: "29389"
 city: Bad Bodenteich
-street: "Distelkamp"
-housenumber: 2
-phone: "+49 5824 985051"
+street: Distelkamp
+housenumber: "2"
+phone: +49 5824 985051
 opening_hours: ""
 website: ""

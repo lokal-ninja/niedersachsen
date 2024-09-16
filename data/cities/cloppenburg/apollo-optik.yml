@@ -4,8 +4,8 @@ latitude: 52.84544
 longitude: 8.04099
 postcode: "49661"
 city: Cloppenburg
-street: "Lange Straße"
-housenumber: 16
-phone: "+49 4471 187 9818"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH,Su off"
-website: "https://www.apollo.de"
+street: Lange Straße
+housenumber: "16"
+phone: +49 4471 187 9818
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH,Su off
+website: https://www.apollo.de

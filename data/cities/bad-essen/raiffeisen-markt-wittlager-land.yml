@@ -1,11 +1,11 @@
 id: 348697117
-type: way
+type: node
 latitude: 52.32859
 longitude: 8.32624
 postcode: "49152"
 city: Bad Essen
-street: "Im Felde"
-housenumber: 1
+street: Im Felde
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.rwo-raiffeisen.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.rwo-raiffeisen.de/

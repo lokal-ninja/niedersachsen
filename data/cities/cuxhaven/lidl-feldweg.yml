@@ -1,11 +1,11 @@
 id: 126622526
-type: way
+type: node
 latitude: 53.87111
 longitude: 8.68622
 postcode: "27474"
 city: Cuxhaven
-street: "Feldweg"
-housenumber: 21
+street: Feldweg
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 11:00-17:00
 website: ""

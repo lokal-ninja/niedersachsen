@@ -1,11 +1,11 @@
 id: 640589560
-type: way
+type: node
 latitude: 52.60752
 longitude: 6.83904
 postcode: "49824"
 city: Emlichheim
-street: "Hauptstraße"
-housenumber: 78
+street: Hauptstraße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

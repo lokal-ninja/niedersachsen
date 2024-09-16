@@ -4,8 +4,8 @@ latitude: 53.59108
 longitude: 8.59717
 postcode: "27578"
 city: Bremerhaven
-street: "Langener Landstraße"
-housenumber: 277
-phone: "+49 471 88988"
-opening_hours: "Mo-Fr 07:00-13:00, Th,Fr 15:00-18:00, Sa 07:00-13:00"
-website: "https://www.fleischerei-stehr.de/Startseite"
+street: Langener Landstraße
+housenumber: "277"
+phone: +49 471 88988
+opening_hours: Mo-Fr 07:00-13:00, Th,Fr 15:00-18:00, Sa 07:00-13:00
+website: https://www.fleischerei-stehr.de/Startseite

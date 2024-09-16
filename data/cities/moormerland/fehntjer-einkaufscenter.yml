@@ -1,11 +1,11 @@
 id: 358613070
-type: way
+type: node
 latitude: 53.30902
 longitude: 7.48527
 postcode: "26802"
 city: Moormerland
-street: "Rudolf-Eucken-Straße"
-housenumber: 3
+street: Rudolf-Eucken-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

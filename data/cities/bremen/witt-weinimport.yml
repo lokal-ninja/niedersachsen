@@ -4,8 +4,8 @@ latitude: 53.05128
 longitude: 8.96793
 postcode: "28307"
 city: Bremen
-street: "Julius-Faucher-Straße"
-housenumber: 32
-phone: "+49 421 253641"
-opening_hours: "Mo-Fr 08:30-17:15"
-website: "https://witt-bremen.de/"
+street: Julius-Faucher-Straße
+housenumber: "32"
+phone: +49 421 253641
+opening_hours: Mo-Fr 08:30-17:15
+website: https://witt-bremen.de/

@@ -1,11 +1,11 @@
 id: 456965813
-type: way
+type: node
 latitude: 52.88548
 longitude: 10.89171
 postcode: "29465"
 city: Schnega
-street: "Lange Straße"
-housenumber: 47
+street: Lange Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

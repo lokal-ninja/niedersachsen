@@ -1,11 +1,11 @@
 id: 90932524
-type: way
+type: node
 latitude: 53.13362
 longitude: 8.19945
 postcode: "26122"
 city: Oldenburg
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo,We-Fr 10:00-18:00; Tu 14:00-18:00; Sa 09:30-14:00"
-website: "https://www.laufrausch.de/"
+opening_hours: Mo,We-Fr 10:00-18:00; Tu 14:00-18:00; Sa 09:30-14:00
+website: https://www.laufrausch.de/

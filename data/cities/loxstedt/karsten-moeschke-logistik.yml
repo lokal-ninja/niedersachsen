@@ -1,11 +1,11 @@
 id: 205994325
-type: way
+type: node
 latitude: 53.44242
 longitude: 8.58843
 postcode: "27612"
 city: Loxstedt
-street: "Nelly-Sachs-Straße"
-housenumber: 5
+street: Nelly-Sachs-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

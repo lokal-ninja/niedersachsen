@@ -1,11 +1,11 @@
 id: 336381622
-type: way
+type: node
 latitude: 52.49365
 longitude: 10.51973
 postcode: "38518"
 city: Gifhorn
-street: "Wilscher Weg"
-housenumber: 55
+street: Wilscher Weg
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.holab.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.holab.de

@@ -1,11 +1,11 @@
 id: 121222275
-type: way
+type: node
 latitude: 52.3707
 longitude: 10.62797
 postcode: "38165"
 city: Lehre
-street: "Vor den Kleingärten"
-housenumber: 9
+street: Vor den Kleingärten
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

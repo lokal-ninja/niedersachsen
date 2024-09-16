@@ -4,8 +4,8 @@ latitude: 53.28031
 longitude: 9.71354
 postcode: "21255"
 city: Tostedt
-street: "Bahnhofstraße"
-housenumber: 7
-phone: "+49 4182 2855990"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.glashaus-row.de"
+street: Bahnhofstraße
+housenumber: "7"
+phone: +49 4182 2855990
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.glashaus-row.de

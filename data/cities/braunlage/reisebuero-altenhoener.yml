@@ -1,11 +1,11 @@
 id: 174281034
-type: way
+type: node
 latitude: 51.72884
 longitude: 10.61011
 postcode: "38700"
 city: Braunlage
-street: "Bismarckstraße"
-housenumber: 37
+street: Bismarckstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

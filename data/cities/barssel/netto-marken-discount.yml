@@ -1,11 +1,11 @@
 id: 31955549
-type: way
+type: node
 latitude: 53.16903
 longitude: 7.7409
 postcode: "26676"
 city: Barßel
-street: "Lange Straße"
-housenumber: 2
+street: Lange Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

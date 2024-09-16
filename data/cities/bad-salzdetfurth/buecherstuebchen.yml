@@ -4,8 +4,8 @@ latitude: 52.06202
 longitude: 10.00742
 postcode: "31162"
 city: Bad Salzdetfurth
-street: "Oberstraße"
-housenumber: 20
+street: Oberstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30"
-website: "www.salzebuch.de"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30
+website: www.salzebuch.de

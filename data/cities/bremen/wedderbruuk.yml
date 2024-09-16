@@ -4,8 +4,8 @@ latitude: 53.0713
 longitude: 8.8342
 postcode: "28205"
 city: Bremen
-street: "Am Schwarzen Meer"
-housenumber: 10
+street: Am Schwarzen Meer
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 12:00-18:00; Sa 11:00-16:00; Su,Mo off"
+opening_hours: Tu-Fr 12:00-18:00; Sa 11:00-16:00; Su,Mo off
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.86043
 longitude: 7.92348
 postcode: "49696"
 city: Molbergen
-street: "Dwergter Straße"
-housenumber: 4
-phone: "+49 4475 947600"
-opening_hours: "Mo 13:00-17:30; Tu-Fr 08:00-17:30; Sa 08:30-12:30"
-website: "https://motorradniemann.de/"
+street: Dwergter Straße
+housenumber: "4"
+phone: +49 4475 947600
+opening_hours: Mo 13:00-17:30; Tu-Fr 08:00-17:30; Sa 08:30-12:30
+website: https://motorradniemann.de/

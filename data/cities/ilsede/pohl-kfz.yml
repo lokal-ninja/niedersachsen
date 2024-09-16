@@ -4,8 +4,8 @@ latitude: 52.28648
 longitude: 10.22677
 postcode: "31241"
 city: Ilsede
-street: "Wehrstraße"
-housenumber: 5
-phone: "+49 5171 51515"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:30"
-website: "https://www.pohlkfz.de/"
+street: Wehrstraße
+housenumber: "5"
+phone: +49 5171 51515
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-14:30
+website: https://www.pohlkfz.de/

@@ -4,8 +4,8 @@ latitude: 52.38081
 longitude: 10.53965
 postcode: "38527"
 city: Meine
-street: "Hauptstraße"
-housenumber: 7
-phone: "+49 178 1121920"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off"
-website: "https://cutandmore-bs.de/salons/meine/"
+street: Hauptstraße
+housenumber: "7"
+phone: +49 178 1121920
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off
+website: https://cutandmore-bs.de/salons/meine/

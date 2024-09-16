@@ -4,8 +4,8 @@ latitude: 52.95236
 longitude: 8.105
 postcode: "49681"
 city: Garrel
-street: "Pfarrer-Langer-Straße"
-housenumber: 17
+street: Pfarrer-Langer-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

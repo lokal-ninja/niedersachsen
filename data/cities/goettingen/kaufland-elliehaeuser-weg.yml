@@ -1,11 +1,11 @@
 id: 36913021
-type: way
+type: node
 latitude: 51.5495
 longitude: 9.90002
 postcode: "37079"
 city: Göttingen
-street: "Elliehäuser Weg"
-housenumber: 23
+street: Elliehäuser Weg
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

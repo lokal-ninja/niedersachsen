@@ -1,11 +1,11 @@
 id: 185342497
-type: way
+type: node
 latitude: 51.60205
 longitude: 10.20428
 postcode: "37434"
 city: Gieboldehausen
-street: "Stockenbreite"
-housenumber: 1
+street: Stockenbreite
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

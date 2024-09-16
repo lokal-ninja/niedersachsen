@@ -1,11 +1,11 @@
 id: 130583101
-type: way
+type: node
 latitude: 52.15661
 longitude: 10.35175
 postcode: "38229"
 city: Salzgitter
-street: "Neißestraße"
-housenumber: 227
+street: Neißestraße
+housenumber: "227"
 phone: ""
 opening_hours: ""
 website: ""

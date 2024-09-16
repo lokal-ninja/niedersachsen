@@ -4,8 +4,8 @@ latitude: 52.44583
 longitude: 8.31568
 postcode: "32351"
 city: Stemwede
-street: "Bremer Straße"
-housenumber: 18
-phone: "+49 5474 765"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+street: Bremer Straße
+housenumber: "18"
+phone: +49 5474 765
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.50838
 longitude: 10.25037
 postcode: "37115"
 city: Duderstadt
-street: "Industriestraße"
-housenumber: 3
-phone: "+49 5527 846300"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://www.vrbanksnaem.de/raiffeisen-maerkte/unsere-raiffeisenmaerkte/rm-duderstadt.html"
+street: Industriestraße
+housenumber: "3"
+phone: +49 5527 846300
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-14:00
+website: https://www.vrbanksnaem.de/raiffeisen-maerkte/unsere-raiffeisenmaerkte/rm-duderstadt.html

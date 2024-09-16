@@ -1,11 +1,11 @@
 id: 1199768241
-type: way
+type: node
 latitude: 51.67368
 longitude: 9.97394
 postcode: "37154"
 city: Northeim
-street: "Stadtweg"
-housenumber: 23
+street: Stadtweg
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 127567351
-type: way
+type: node
 latitude: 52.11266
 longitude: 9.73479
 postcode: "31008"
 city: Elze
-street: "Am Stadion"
-housenumber: 3
-phone: "+49 50 68 23 68"
+street: Am Stadion
+housenumber: "3"
+phone: +49 50 68 23 68
 opening_hours: ""
-website: "https://reifen-huke.de"
+website: https://reifen-huke.de

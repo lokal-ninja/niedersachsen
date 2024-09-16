@@ -1,11 +1,11 @@
 id: 919345150
-type: way
+type: node
 latitude: 52.83464
 longitude: 8.09921
 postcode: "49661"
 city: Cloppenburg
-street: "Nicolaus-Otto-Straße"
-housenumber: 2
-phone: "+49 4471 709830"
+street: Nicolaus-Otto-Straße
+housenumber: "2"
+phone: +49 4471 709830
 opening_hours: ""
-website: "https://www.auto-riemann.de/"
+website: https://www.auto-riemann.de/

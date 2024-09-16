@@ -1,11 +1,11 @@
 id: 300696473
-type: way
+type: node
 latitude: 52.47341
 longitude: 9.74126
 postcode: "30855"
 city: Langenhagen
-street: "Hainhäuser Weg"
-housenumber: 62
+street: Hainhäuser Weg
+housenumber: "62"
 phone: ""
-opening_hours: "Saisonal"
-website: "https://www.erdbeerparadies.de/"
+opening_hours: '"Saisonal"'
+website: https://www.erdbeerparadies.de/

@@ -1,11 +1,11 @@
 id: 108718617
-type: way
+type: node
 latitude: 52.94809
 longitude: 9.23413
 postcode: "27283"
 city: Verden (Aller)
-street: "Hamburger Straße"
-housenumber: 56
+street: Hamburger Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

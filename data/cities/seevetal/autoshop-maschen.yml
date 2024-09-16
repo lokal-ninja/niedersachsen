@@ -1,11 +1,11 @@
 id: 419291989
-type: way
+type: node
 latitude: 53.39042
 longitude: 10.03362
 postcode: "21220"
 city: Seevetal
-street: "Hamburger Straße"
-housenumber: 21
+street: Hamburger Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

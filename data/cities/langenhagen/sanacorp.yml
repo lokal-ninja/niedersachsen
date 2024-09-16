@@ -1,11 +1,11 @@
 id: 115504933
-type: way
+type: node
 latitude: 52.4317
 longitude: 9.75355
 postcode: "30851"
 city: Langenhagen
-street: "In den Kolkwiesen"
+street: In den Kolkwiesen
 housenumber: 74-78
-phone: "+49 511 7700260"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.sanacorp.de/"
+phone: +49 511 7700260
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.sanacorp.de/

@@ -1,11 +1,11 @@
 id: 99727414
-type: way
+type: node
 latitude: 53.46363
 longitude: 7.46272
 postcode: "26605"
 city: Aurich
-street: "Oldersumer Straße"
-housenumber: 82
+street: Oldersumer Straße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

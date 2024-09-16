@@ -1,11 +1,11 @@
 id: 244672307
-type: way
+type: node
 latitude: 52.62216
 longitude: 7.7522
 postcode: "49626"
 city: Berge
-street: "Hauptstraße"
-housenumber: 57
+street: Hauptstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://www.combi.de/"
+website: https://www.combi.de/

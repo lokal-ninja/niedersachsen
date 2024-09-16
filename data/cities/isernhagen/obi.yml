@@ -1,11 +1,11 @@
 id: 407501497
-type: way
+type: node
 latitude: 52.42528
 longitude: 9.83192
 postcode: "30916"
 city: Isernhagen
-street: "Opelstraße"
+street: Opelstraße
 housenumber: 7-9
-phone: "+49 511 6960380"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/markt/altwarmbuechen"
+phone: +49 511 6960380
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/markt/altwarmbuechen

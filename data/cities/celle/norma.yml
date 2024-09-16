@@ -1,11 +1,11 @@
 id: 629453190
-type: way
+type: node
 latitude: 52.65837
 longitude: 10.12946
 postcode: "29229"
 city: Celle
-street: "Alvernsche Straße"
-housenumber: 1
+street: Alvernsche Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

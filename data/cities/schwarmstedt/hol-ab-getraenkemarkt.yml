@@ -1,11 +1,11 @@
 id: 196545111
-type: way
+type: node
 latitude: 52.6813
 longitude: 9.62728
 postcode: "29690"
 city: Schwarmstedt
-street: "Schienenweg"
-housenumber: 3
+street: Schienenweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
 website: ""

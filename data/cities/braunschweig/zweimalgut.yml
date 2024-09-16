@@ -4,8 +4,8 @@ latitude: 52.26654
 longitude: 10.52387
 postcode: "38100"
 city: Braunschweig
-street: "Casparistraße"
-housenumber: 7
-phone: "+49 531 18055380"
-opening_hours: "Mo-Sa 11:00-18:00"
+street: Casparistraße
+housenumber: "7"
+phone: +49 531 18055380
+opening_hours: Mo-Sa 11:00-18:00
 website: ""

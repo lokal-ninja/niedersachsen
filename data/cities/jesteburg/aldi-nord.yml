@@ -1,11 +1,11 @@
 id: 102210913
-type: way
+type: node
 latitude: 53.30694
 longitude: 9.94492
 postcode: "21266"
 city: Jesteburg
-street: "Am Allerbeek"
-housenumber: 2
+street: Am Allerbeek
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

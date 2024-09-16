@@ -4,8 +4,9 @@ latitude: 53.58019
 longitude: 8.59458
 postcode: "27580"
 city: Bremerhaven
-street: "Twischlehe"
-housenumber: 9
+street: Twischlehe
+housenumber: "9"
 phone: ""
-opening_hours: "PH off, Mo,Tu,Th,Fr 09:00-13:00; Sa off, Mo,Tu,Th,Fr 14:00-17:00, We 09:00-13:00"
-website: "http://www.kluge-sh.de/"
+opening_hours: PH off, Mo,Tu,Th,Fr 09:00-13:00; Sa off, Mo,Tu,Th,Fr 14:00-17:00, We
+    09:00-13:00
+website: http://www.kluge-sh.de/

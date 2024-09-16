@@ -4,8 +4,8 @@ latitude: 52.27849
 longitude: 8.0401
 postcode: "49074"
 city: Osnabrück
-street: "Bierstraße"
-housenumber: 37
+street: Bierstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://altstaedter-buecherstuben.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://altstaedter-buecherstuben.de/

@@ -1,11 +1,11 @@
 id: 875685968
-type: way
+type: node
 latitude: 52.31505
 longitude: 9.72415
 postcode: "30966"
 city: Hemmingen
-street: "Alfred-Bentz-Straße"
-housenumber: 3
-phone: "+49 511 30038989"
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "https://www.adam-getraenke.de/"
+street: Alfred-Bentz-Straße
+housenumber: "3"
+phone: +49 511 30038989
+opening_hours: Mo-Fr 08:00-16:30
+website: https://www.adam-getraenke.de/

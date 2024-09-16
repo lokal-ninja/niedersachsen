@@ -1,11 +1,11 @@
 id: 34519541
-type: way
+type: node
 latitude: 52.19076
 longitude: 8.35468
 postcode: "49324"
 city: Melle
-street: "Industriestraße"
-housenumber: 12
+street: Industriestraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://rokossa.de"
+website: https://rokossa.de

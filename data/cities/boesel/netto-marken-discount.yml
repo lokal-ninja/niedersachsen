@@ -1,11 +1,11 @@
 id: 31790752
-type: way
+type: node
 latitude: 53.00538
 longitude: 7.95172
 postcode: "26219"
 city: Bösel
-street: "Friesoyther Straße"
-housenumber: 11
+street: Friesoyther Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de/

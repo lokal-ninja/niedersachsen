@@ -1,11 +1,11 @@
 id: 109447785
-type: way
+type: node
 latitude: 52.33076
 longitude: 9.246
 postcode: "31702"
 city: Lüdersfeld
-street: "Allerfeld"
-housenumber: 6
+street: Allerfeld
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-17:00; Sa 10:00-12:00"
-website: "https://www.parkett-studio.com/"
+opening_hours: Mo-Fr 09:00-12:30,14:30-17:00; Sa 10:00-12:00
+website: https://www.parkett-studio.com/

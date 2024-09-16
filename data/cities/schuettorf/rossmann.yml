@@ -1,11 +1,11 @@
 id: 110527453
-type: way
+type: node
 latitude: 52.31883
 longitude: 7.22608
 postcode: "48465"
 city: Schüttorf
-street: "Graf-Egbert-Straße"
-housenumber: 23
+street: Graf-Egbert-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off
 website: ""

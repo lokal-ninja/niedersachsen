@@ -1,11 +1,11 @@
 id: 78445144
-type: way
+type: node
 latitude: 51.92235
 longitude: 10.41384
 postcode: "38644"
 city: Goslar
-street: "Hildesheimer Straße"
-housenumber: 38
+street: Hildesheimer Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"
-website: "https://www.blockamring.net/goslar/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-13:00
+website: https://www.blockamring.net/goslar/

@@ -1,11 +1,11 @@
 id: 444069111
-type: way
+type: node
 latitude: 53.07546
 longitude: 8.15384
 postcode: "26203"
 city: Wardenburg
-street: "Ziegeleiweg"
-housenumber: 29
-phone: "+49 4407 8413"
-opening_hours: "Th,Fr 09:00-12:00,15:00-18:00; Tu,We,Sa 09:00-12:00; PH off"
-website: "https://www.hofbuchhandlung-wellmann.de/"
+street: Ziegeleiweg
+housenumber: "29"
+phone: +49 4407 8413
+opening_hours: Th,Fr 09:00-12:00,15:00-18:00; Tu,We,Sa 09:00-12:00; PH off
+website: https://www.hofbuchhandlung-wellmann.de/

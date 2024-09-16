@@ -4,8 +4,8 @@ latitude: 52.98824
 longitude: 9.84478
 postcode: "29614"
 city: Soltau
-street: "Winsener Straße"
-housenumber: 10
-phone: "+49 5191 9796989"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:30-17:00"
-website: "https://www.der-lecker-baecker.de"
+street: Winsener Straße
+housenumber: "10"
+phone: +49 5191 9796989
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:30-17:00
+website: https://www.der-lecker-baecker.de

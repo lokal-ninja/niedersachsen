@@ -4,8 +4,8 @@ latitude: 53.01022
 longitude: 9.0747
 postcode: "28832"
 city: Achim
-street: "Industriestraße"
-housenumber: 13
-phone: "+49 4202 910724"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Industriestraße
+housenumber: "13"
+phone: +49 4202 910724
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

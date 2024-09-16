@@ -1,11 +1,11 @@
 id: 729157165
-type: way
+type: node
 latitude: 51.98418
 longitude: 9.48035
 postcode: "37619"
 city: Hehlen
-street: "Am Weißen Bach"
-housenumber: 2
-phone: "+49 5533 5354"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-12:00"
-website: "https://www.sporleder-gaertnerei.de/"
+street: Am Weißen Bach
+housenumber: "2"
+phone: +49 5533 5354
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-12:00
+website: https://www.sporleder-gaertnerei.de/

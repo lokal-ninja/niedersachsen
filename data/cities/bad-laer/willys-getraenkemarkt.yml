@@ -1,11 +1,11 @@
 id: 29995952
-type: way
+type: node
 latitude: 52.10079
 longitude: 8.10006
 postcode: "49196"
 city: Bad Laer
-street: "Up de Heuchte"
-housenumber: 5
+street: Up de Heuchte
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

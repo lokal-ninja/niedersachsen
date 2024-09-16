@@ -4,8 +4,8 @@ latitude: 52.37156
 longitude: 9.86208
 postcode: "30559"
 city: Hannover
-street: "Anderter Straße"
-housenumber: 128
-phone: "+49 511 2139745"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-15:00"
+street: Anderter Straße
+housenumber: "128"
+phone: +49 511 2139745
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 446643647
-type: way
+type: node
 latitude: 52.85088
 longitude: 7.67511
 postcode: "49757"
 city: Werlte
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

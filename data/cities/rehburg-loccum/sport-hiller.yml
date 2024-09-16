@@ -1,11 +1,11 @@
 id: 237149703
-type: way
+type: node
 latitude: 52.4714
 longitude: 9.22641
 postcode: "31547"
 city: Rehburg-Loccum
-street: "Mühlentorstraße"
-housenumber: 31
-phone: "+49 5037 969499"
-opening_hours: "Mo-Fr 10:00-18:00; We off; Sa 09:00-13:00"
-website: "https://www.sport-shop-hiller.de/"
+street: Mühlentorstraße
+housenumber: "31"
+phone: +49 5037 969499
+opening_hours: Mo-Fr 10:00-18:00; We off; Sa 09:00-13:00
+website: https://www.sport-shop-hiller.de/

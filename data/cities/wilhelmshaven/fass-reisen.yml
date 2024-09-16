@@ -1,11 +1,11 @@
 id: 31791892
-type: way
+type: node
 latitude: 53.55575
 longitude: 8.09555
 postcode: "26386"
 city: Wilhelmshaven
-street: "Dodoweg"
-housenumber: 3
+street: Dodoweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

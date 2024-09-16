@@ -1,11 +1,11 @@
 id: 53652225
-type: way
+type: node
 latitude: 53.601
 longitude: 7.2522
 postcode: "26524"
 city: Lütetsburg
-street: "Landstraße"
-housenumber: 68
+street: Landstraße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.36911
 longitude: 9.74916
 postcode: "30171"
 city: Hannover
-street: "Marienstraße"
-housenumber: 38
-phone: "+49511 54 39 112"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.asiasport.de/"
+street: Marienstraße
+housenumber: "38"
+phone: +49511 54 39 112
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.asiasport.de/

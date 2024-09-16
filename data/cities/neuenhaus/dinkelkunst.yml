@@ -4,8 +4,8 @@ latitude: 52.49801
 longitude: 6.96727
 postcode: "49828"
 city: Neuenhaus
-street: "Hauptstraße"
-housenumber: 45
+street: Hauptstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Nach Absprache"
-website: "http://dinkelkunst.com"
+opening_hours: '"Nach Absprache"'
+website: http://dinkelkunst.com

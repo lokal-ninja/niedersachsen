@@ -4,8 +4,8 @@ latitude: 52.15313
 longitude: 9.94976
 postcode: "31134"
 city: Hildesheim
-street: "Kurzer Hagen"
-housenumber: 21
+street: Kurzer Hagen
+housenumber: "21"
 phone: ""
-opening_hours: "Tu-Fr 14:00-18:00; Sa 10:00-14:00"
-website: "https://www.grammliebe.de"
+opening_hours: Tu-Fr 14:00-18:00; Sa 10:00-14:00
+website: https://www.grammliebe.de

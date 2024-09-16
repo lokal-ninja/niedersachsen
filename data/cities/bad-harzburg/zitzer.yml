@@ -1,11 +1,11 @@
 id: 254914418
-type: way
+type: node
 latitude: 51.87973
 longitude: 10.56187
 postcode: "38667"
 city: Bad Harzburg
-street: "Schmiedestraße"
-housenumber: 5
+street: Schmiedestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

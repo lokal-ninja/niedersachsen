@@ -4,8 +4,8 @@ latitude: 53.35089
 longitude: 9.86282
 postcode: "21244"
 city: Buchholz in der Nordheide
-street: "Nordring"
-housenumber: 2
-phone: "+49 4181 92550"
-opening_hours: "Su,PH off; Mo-Sa 07:00-20:00"
-website: "https://www.mediamarkt.de/de/store/buchholz-in-der-nordheide-275"
+street: Nordring
+housenumber: "2"
+phone: +49 4181 92550
+opening_hours: Su,PH off; Mo-Sa 07:00-20:00
+website: https://www.mediamarkt.de/de/store/buchholz-in-der-nordheide-275

@@ -1,11 +1,11 @@
 id: 92909169
-type: way
+type: node
 latitude: 53.4302
 longitude: 9.93269
 postcode: "21077"
 city: Hamburg
-street: "Maldfeldstraße"
+street: Maldfeldstraße
 housenumber: 2 A
-phone: "+49 40 209494790"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dehner.de"
+phone: +49 40 209494790
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dehner.de

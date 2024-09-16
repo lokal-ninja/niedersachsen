@@ -4,8 +4,8 @@ latitude: 53.18117
 longitude: 8.57153
 postcode: "28779"
 city: Bremen
-street: "Weserstrandstraße"
-housenumber: 7
+street: Weserstrandstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.matratzen-concord.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.matratzen-concord.de

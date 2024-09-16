@@ -4,8 +4,9 @@ latitude: 52.44831
 longitude: 9.65469
 postcode: "30855"
 city: Langenhagen
-street: "Resser Straße"
-housenumber: 4
-phone: "+49(0)511 89757543"
-opening_hours: "Mar 1-Oct 31 Mo-Fr 10:00-14:00,15:00-19:00; Nov 1-Mar 1 Tu-Fr 10:00-14:00,15:00-19:00; Mar 1-Oct 31 Sa 10:00-15:00; Nov 1-Feb 28 Sa 10:00-13:00; PH closed"
-website: "https://www.radhof-in-engelbostel.de"
+street: Resser Straße
+housenumber: "4"
+phone: +49(0)511 89757543
+opening_hours: Mar 1-Oct 31 Mo-Fr 10:00-14:00,15:00-19:00; Nov 1-Mar 1 Tu-Fr 10:00-14:00,15:00-19:00;
+    Mar 1-Oct 31 Sa 10:00-15:00; Nov 1-Feb 28 Sa 10:00-13:00; PH closed
+website: https://www.radhof-in-engelbostel.de

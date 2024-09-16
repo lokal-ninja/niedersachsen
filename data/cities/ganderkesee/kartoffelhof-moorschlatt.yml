@@ -1,11 +1,11 @@
 id: 490981223
-type: way
+type: node
 latitude: 52.97554
 longitude: 8.52366
 postcode: "27777"
 city: Ganderkesee
-street: "Wildeshauser Landstraße"
-housenumber: 103
+street: Wildeshauser Landstraße
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-18:00"
+opening_hours: Mo-Sa 09:00-12:00, 14:00-18:00
 website: ""

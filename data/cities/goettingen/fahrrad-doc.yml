@@ -1,11 +1,11 @@
 id: 88506619
-type: way
+type: node
 latitude: 51.56017
 longitude: 9.93723
 postcode: "37077"
 city: Göttingen
-street: "Petrikirchstraße"
-housenumber: 18
+street: Petrikirchstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Sa 10:00-14:00; PH off"
+opening_hours: Mo-Th 09:00-18:00; Sa 10:00-14:00; PH off
 website: ""

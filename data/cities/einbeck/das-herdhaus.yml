@@ -4,8 +4,8 @@ latitude: 51.87118
 longitude: 9.80698
 postcode: "37574"
 city: Einbeck
-street: "Försterbrink"
-housenumber: 1
+street: Försterbrink
+housenumber: "1"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

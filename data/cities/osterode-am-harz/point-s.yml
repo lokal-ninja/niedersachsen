@@ -1,11 +1,11 @@
 id: 214388809
-type: way
+type: node
 latitude: 51.73625
 longitude: 10.23497
 postcode: "37520"
 city: Osterode am Harz
-street: "Lindenstraße"
-housenumber: 29
+street: Lindenstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

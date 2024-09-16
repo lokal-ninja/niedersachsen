@@ -1,11 +1,11 @@
 id: 144867123
-type: way
+type: node
 latitude: 52.32115
 longitude: 8.34943
 postcode: "49152"
 city: Bad Essen
-street: "Lerchenstraße"
-housenumber: 16
+street: Lerchenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-13:00"
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-13:00
 website: ""

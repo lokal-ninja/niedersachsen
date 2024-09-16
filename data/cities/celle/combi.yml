@@ -1,11 +1,11 @@
 id: 60100297
-type: way
+type: node
 latitude: 52.61808
 longitude: 10.06339
 postcode: ""
 city: Celle
-street: "Trüllerstraße"
-housenumber: 1
+street: Trüllerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.combi.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.combi.de/

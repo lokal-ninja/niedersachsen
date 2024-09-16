@@ -1,11 +1,11 @@
 id: 397244065
-type: way
+type: node
 latitude: 53.22111
 longitude: 9.08156
 postcode: "27412"
 city: Tarmstedt
-street: "Wilstedter Straße"
-housenumber: 21
-phone: "+49 4283 9308 0"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-13:00"
-website: "http://dietrich-baustoffe.de"
+street: Wilstedter Straße
+housenumber: "21"
+phone: +49 4283 9308 0
+opening_hours: Mo-Fr 07:30-18:00, Sa 07:30-13:00
+website: http://dietrich-baustoffe.de

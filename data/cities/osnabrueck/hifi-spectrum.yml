@@ -4,8 +4,9 @@ latitude: 52.27198
 longitude: 8.03744
 postcode: "49078"
 city: Osnabrück
-street: "Arndtplatz"
-housenumber: 2
+street: Arndtplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00; Fr 10:00-13:00; Mo 14:30-18:00; Tu 15:30-18:00; We-Fr 14:30-18:00"
+opening_hours: Tu-Fr 10:00-13:00; Fr 10:00-13:00; Mo 14:30-18:00; Tu 15:30-18:00;
+    We-Fr 14:30-18:00
 website: ""

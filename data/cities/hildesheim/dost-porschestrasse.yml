@@ -4,8 +4,8 @@ latitude: 52.16483
 longitude: 9.97856
 postcode: "31135"
 city: Hildesheim
-street: "Porschestraße"
-housenumber: 1
-phone: "+49 5121 5070"
+street: Porschestraße
+housenumber: "1"
+phone: +49 5121 5070
 opening_hours: ""
-website: "https://www.dost.de"
+website: https://www.dost.de

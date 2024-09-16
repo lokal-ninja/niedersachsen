@@ -1,11 +1,11 @@
 id: 375662026
-type: way
+type: node
 latitude: 51.55057
 longitude: 9.89249
 postcode: "37079"
 city: Göttingen
-street: "August-Spindler-Straße"
-housenumber: 3
+street: August-Spindler-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

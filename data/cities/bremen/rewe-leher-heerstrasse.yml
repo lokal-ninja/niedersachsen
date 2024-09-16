@@ -1,11 +1,11 @@
 id: 171966988
-type: way
+type: node
 latitude: 53.10042
 longitude: 8.88469
 postcode: "28357"
 city: Bremen
-street: "Leher Heerstraße"
-housenumber: 128
+street: Leher Heerstraße
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

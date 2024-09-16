@@ -4,8 +4,8 @@ latitude: 53.41742
 longitude: 7.73832
 postcode: "26639"
 city: Wiesmoor
-street: "Hauptstraße"
-housenumber: 138
-phone: "+49 4944 91090"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-behrends-hauptstr.-138/index.jsp"
+street: Hauptstraße
+housenumber: "138"
+phone: +49 4944 91090
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.edeka.de/eh/minden-hannover/edeka-behrends-hauptstr.-138/index.jsp

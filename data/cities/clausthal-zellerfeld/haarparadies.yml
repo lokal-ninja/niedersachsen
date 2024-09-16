@@ -1,11 +1,11 @@
 id: 202696221
-type: way
+type: node
 latitude: 51.81825
 longitude: 10.33758
 postcode: "38678"
 city: Clausthal-Zellerfeld
-street: "Goslarsche Straße"
-housenumber: 29
-phone: "+49 5323 83881"
+street: Goslarsche Straße
+housenumber: "29"
+phone: +49 5323 83881
 opening_hours: ""
 website: ""

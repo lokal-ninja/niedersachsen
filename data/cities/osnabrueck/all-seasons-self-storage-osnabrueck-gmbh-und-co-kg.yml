@@ -1,11 +1,11 @@
 id: 436299052
-type: way
+type: node
 latitude: 52.27281
 longitude: 8.06933
 postcode: "49084"
 city: Osnabrück
-street: "Franz-Lenz-Straße"
-housenumber: 18
-phone: "+49 541 2006804-0"
+street: Franz-Lenz-Straße
+housenumber: "18"
+phone: +49 541 2006804-0
 opening_hours: ""
-website: "https://allstorage.de/osnabrueck"
+website: https://allstorage.de/osnabrueck

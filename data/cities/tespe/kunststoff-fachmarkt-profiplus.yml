@@ -1,11 +1,11 @@
 id: 218981799
-type: way
+type: node
 latitude: 53.40577
 longitude: 10.40572
 postcode: "21395"
 city: Tespe
-street: "Elbuferstraße"
-housenumber: 184
+street: Elbuferstraße
+housenumber: "184"
 phone: ""
 opening_hours: ""
-website: "https://www.kunststoff-fachmarkt.de/"
+website: https://www.kunststoff-fachmarkt.de/

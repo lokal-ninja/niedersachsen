@@ -4,8 +4,8 @@ latitude: 53.09232
 longitude: 8.80391
 postcode: "28215"
 city: Bremen
-street: "Admiralstraße"
-housenumber: 148
-phone: "+49 421 87888787"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+street: Admiralstraße
+housenumber: "148"
+phone: +49 421 87888787
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

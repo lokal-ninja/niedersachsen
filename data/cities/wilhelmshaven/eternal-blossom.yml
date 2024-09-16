@@ -4,8 +4,8 @@ latitude: 53.51662
 longitude: 8.12481
 postcode: "26382"
 city: Wilhelmshaven
-street: "Rheinstraße"
-housenumber: 98
+street: Rheinstraße
+housenumber: "98"
 phone: ""
-opening_hours: "Termine nach Absprache"
+opening_hours: '"Termine nach Absprache"'
 website: ""

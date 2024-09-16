@@ -1,11 +1,11 @@
 id: 72401786
-type: way
+type: node
 latitude: 52.91055
 longitude: 8.83133
 postcode: "28857"
 city: Syke
-street: "Wiesenstraße"
-housenumber: 6
-phone: "+49 4242 592105"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Wiesenstraße
+housenumber: "6"
+phone: +49 4242 592105
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

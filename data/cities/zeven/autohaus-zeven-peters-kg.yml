@@ -1,11 +1,11 @@
 id: 171789318
-type: way
+type: node
 latitude: 53.30098
 longitude: 9.27566
 postcode: "27404"
 city: Zeven
-street: "Kivinanstraße"
-housenumber: 38
+street: Kivinanstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "http://autohaus-zeven.de"
+website: http://autohaus-zeven.de

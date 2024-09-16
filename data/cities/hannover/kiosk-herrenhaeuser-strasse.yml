@@ -1,11 +1,11 @@
 id: 113080747
-type: way
+type: node
 latitude: 52.39098
 longitude: 9.70229
 postcode: "30419"
 city: Hannover
-street: "Herrenhäuser Straße"
+street: Herrenhäuser Straße
 housenumber: 1H
 phone: ""
-opening_hours: "Mo-Su 10:00-17:00"
+opening_hours: Mo-Su 10:00-17:00
 website: ""

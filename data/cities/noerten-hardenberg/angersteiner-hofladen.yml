@@ -1,11 +1,11 @@
 id: 846983037
-type: way
+type: node
 latitude: 51.61236
 longitude: 9.93327
 postcode: ""
 city: Nörten-Hardenberg
-street: "Alte Straße"
-housenumber: 8
+street: Alte Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

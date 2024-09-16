@@ -1,11 +1,11 @@
 id: 99064388
-type: way
+type: node
 latitude: 53.15215
 longitude: 8.21769
 postcode: "26123"
 city: Oldenburg
-street: "Nadorster Straße"
-housenumber: 75
-phone: "+49 441 38038381"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.lichthaus-kuck-oldenburg.de/"
+street: Nadorster Straße
+housenumber: "75"
+phone: +49 441 38038381
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.lichthaus-kuck-oldenburg.de/

@@ -1,11 +1,11 @@
 id: 97377288
-type: way
+type: node
 latitude: 53.88527
 longitude: 8.66145
 postcode: "27476"
 city: Cuxhaven
-street: "Heinrich-Grube-Weg"
-housenumber: 76
+street: Heinrich-Grube-Weg
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 10:00-18:00; PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su 10:00-18:00; PH off
+website: https://www.aldi-nord.de/

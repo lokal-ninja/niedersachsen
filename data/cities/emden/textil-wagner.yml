@@ -1,11 +1,11 @@
 id: 89950882
-type: way
+type: node
 latitude: 53.36394
 longitude: 7.19162
 postcode: "26723"
 city: Emden
-street: "Schwabenstraße"
-housenumber: 50
+street: Schwabenstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

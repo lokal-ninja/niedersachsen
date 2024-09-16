@@ -1,11 +1,11 @@
 id: 111381310
-type: way
+type: node
 latitude: 51.98503
 longitude: 9.8073
 postcode: "31061"
 city: Alfeld (Leine)
-street: "Hannoversche Straße"
-housenumber: 48
-phone: "+49 5181851887"
+street: Hannoversche Straße
+housenumber: "48"
+phone: +49 5181851887
 opening_hours: ""
-website: "https://www.atu.de/filialen/359-alfeld/?campaign=cooperation/Google"
+website: https://www.atu.de/filialen/359-alfeld/?campaign=cooperation/Google

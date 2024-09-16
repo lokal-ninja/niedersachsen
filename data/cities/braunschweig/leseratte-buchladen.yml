@@ -4,8 +4,8 @@ latitude: 52.26331
 longitude: 10.54627
 postcode: "38102"
 city: Braunschweig
-street: "Hopfengarten"
-housenumber: 40
+street: Hopfengarten
+housenumber: "40"
 phone: ""
-opening_hours: "Mo,Sa 10:00-14:00; Tu-Fr 10:00-18:00; Su 10:00-14:00"
-website: "https://www.leseratte-buchladen.de/"
+opening_hours: Mo,Sa 10:00-14:00; Tu-Fr 10:00-18:00; Su 10:00-14:00
+website: https://www.leseratte-buchladen.de/

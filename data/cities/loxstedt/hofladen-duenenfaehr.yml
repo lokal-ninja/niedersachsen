@@ -1,11 +1,11 @@
 id: 210611047
-type: way
+type: node
 latitude: 53.47869
 longitude: 8.67386
 postcode: "27612"
 city: Loxstedt
-street: "Dünenfähr"
-housenumber: 5
+street: Dünenfähr
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa-Su 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa-Su 09:00-13:00
 website: ""

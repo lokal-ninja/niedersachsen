@@ -1,11 +1,11 @@
 id: 229151212
-type: way
+type: node
 latitude: 52.43556
 longitude: 10.57465
 postcode: "38550"
 city: Isenbüttel
-street: "Hauptstraße"
-housenumber: 18
+street: Hauptstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

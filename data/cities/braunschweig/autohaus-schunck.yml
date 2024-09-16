@@ -1,11 +1,11 @@
 id: 53563821
-type: way
+type: node
 latitude: 52.24723
 longitude: 10.5361
 postcode: "38126"
 city: Braunschweig
-street: "Ackerstraße"
-housenumber: 81
+street: Ackerstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
 website: ""

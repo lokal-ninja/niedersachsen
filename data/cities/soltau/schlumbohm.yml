@@ -4,8 +4,8 @@ latitude: 52.98536
 longitude: 9.83923
 postcode: "29614"
 city: Soltau
-street: "Hagen"
-housenumber: 16
-phone: "+49 5191 927996"
-opening_hours: "Mo-Fr 05:30-17:00; Sa 05:30-12:30"
-website: "https://www.baeckerei-schlumbohm.de/"
+street: Hagen
+housenumber: "16"
+phone: +49 5191 927996
+opening_hours: Mo-Fr 05:30-17:00; Sa 05:30-12:30
+website: https://www.baeckerei-schlumbohm.de/

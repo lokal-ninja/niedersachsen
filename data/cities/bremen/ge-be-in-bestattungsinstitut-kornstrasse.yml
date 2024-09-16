@@ -1,11 +1,11 @@
 id: 118213443
-type: way
+type: node
 latitude: 53.05863
 longitude: 8.80877
 postcode: "28201"
 city: Bremen
-street: "Kornstraße"
-housenumber: 217
+street: Kornstraße
+housenumber: "217"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "https://www.ge-be-in.de/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
+website: https://www.ge-be-in.de/

@@ -1,11 +1,11 @@
 id: 129792515
-type: way
+type: node
 latitude: 53.57278
 longitude: 8.26154
 postcode: "26969"
 city: Butjadingen
-street: "Nordseeallee"
-housenumber: 6
+street: Nordseeallee
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-16:00; Su,PH 10:00-12:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-16:00; Su,PH 10:00-12:00
 website: ""

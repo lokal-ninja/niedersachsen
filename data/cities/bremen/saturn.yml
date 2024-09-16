@@ -4,8 +4,8 @@ latitude: 53.0785
 longitude: 8.80547
 postcode: "28195"
 city: Bremen
-street: "Papenstraße"
-housenumber: 5
+street: Papenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.saturn.de/de/store/bremen-5"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.saturn.de/de/store/bremen-5

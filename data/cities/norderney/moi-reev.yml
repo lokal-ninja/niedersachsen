@@ -4,8 +4,8 @@ latitude: 53.70981
 longitude: 7.14926
 postcode: "26548"
 city: Norderney
-street: "Benekestraße"
-housenumber: 50
+street: Benekestraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-We 10:30-12:30"
-website: "https://www.moi-reev.de/"
+opening_hours: Mo-We 10:30-12:30
+website: https://www.moi-reev.de/

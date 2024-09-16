@@ -1,11 +1,12 @@
 id: 225114193
-type: way
+type: node
 latitude: 52.28471
 longitude: 9.82937
 postcode: "30880"
 city: Laatzen
-street: "Braunschweiger Straße"
-housenumber: 17
+street: Braunschweiger Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo 08:00-13:00,15:00-18:00, Tu-Fr 09:00-13:00, Tu,Th,Fr 15:00-18:00, Sa 08:00-13:00"
+opening_hours: Mo 08:00-13:00,15:00-18:00, Tu-Fr 09:00-13:00, Tu,Th,Fr 15:00-18:00,
+    Sa 08:00-13:00
 website: ""

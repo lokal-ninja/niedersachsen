@@ -1,11 +1,11 @@
 id: 196106403
-type: way
+type: node
 latitude: 51.7333
 longitude: 10.23755
 postcode: "37520"
 city: Osterode am Harz
-street: "Petershütter Allee"
-housenumber: 6
-phone: "+49 5522 9667912"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-14:00"
-website: "https://www.atu.de/filialen/436-osterode/"
+street: Petershütter Allee
+housenumber: "6"
+phone: +49 5522 9667912
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-14:00
+website: https://www.atu.de/filialen/436-osterode/

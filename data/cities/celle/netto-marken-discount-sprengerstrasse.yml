@@ -1,11 +1,11 @@
 id: 150115754
-type: way
+type: node
 latitude: 52.63856
 longitude: 10.0936
 postcode: "29223"
 city: Celle
-street: "Sprengerstraße"
-housenumber: 40
+street: Sprengerstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

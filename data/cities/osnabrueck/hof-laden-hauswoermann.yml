@@ -4,8 +4,8 @@ latitude: 52.24596
 longitude: 8.04397
 postcode: "49082"
 city: Osnabrück
-street: "Hauswörmannsweg"
-housenumber: 165
-phone: "+49 541 51733"
-opening_hours: "Mo-Sa 09:00-18:00; Su,PH 10:00-16:00"
-website: "https://www.hof-hauswoermann.de/"
+street: Hauswörmannsweg
+housenumber: "165"
+phone: +49 541 51733
+opening_hours: Mo-Sa 09:00-18:00; Su,PH 10:00-16:00
+website: https://www.hof-hauswoermann.de/

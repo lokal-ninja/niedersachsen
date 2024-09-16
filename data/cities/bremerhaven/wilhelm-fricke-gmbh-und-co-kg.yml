@@ -1,11 +1,11 @@
 id: 120860867
-type: way
+type: node
 latitude: 53.48671
 longitude: 8.59685
 postcode: "27572"
 city: Bremerhaven
-street: "Seeborg"
-housenumber: 11
+street: Seeborg
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 234205188
-type: way
+type: node
 latitude: 53.25241
 longitude: 7.92965
 postcode: "26655"
 city: Westerstede
-street: "Wilhelm-Geiler-Straße"
-housenumber: 13
+street: Wilhelm-Geiler-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

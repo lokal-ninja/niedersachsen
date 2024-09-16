@@ -1,11 +1,11 @@
 id: 87369783
-type: way
+type: node
 latitude: 53.06043
 longitude: 8.35717
 postcode: "26209"
 city: Hatten
-street: "Gewerbepark"
-housenumber: 17
+street: Gewerbepark
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

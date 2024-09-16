@@ -1,11 +1,11 @@
 id: 481441818
-type: way
+type: node
 latitude: 52.4451
 longitude: 7.88099
 postcode: "49565"
 city: Bramsche
-street: "Voßstraße"
-housenumber: 
+street: Voßstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.36641
 longitude: 7.20289
 postcode: "26721"
 city: Emden
-street: "Kirchstraße"
-housenumber: 3
+street: Kirchstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-13:00,15:00-18:00;Sa 10:00-13:00; Tu,Th off"
+opening_hours: Mo,We,Fr 10:00-13:00,15:00-18:00;Sa 10:00-13:00; Tu,Th off
 website: ""

@@ -1,11 +1,11 @@
 id: 94569718
-type: way
+type: node
 latitude: 52.60882
 longitude: 8.58825
 postcode: "49453"
 city: Barver
-street: "Sulinger Straße"
-housenumber: 181
+street: Sulinger Straße
+housenumber: "181"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
 website: ""

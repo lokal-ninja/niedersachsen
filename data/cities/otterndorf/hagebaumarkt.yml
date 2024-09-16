@@ -1,11 +1,11 @@
 id: 89817367
-type: way
+type: node
 latitude: 53.80418
 longitude: 8.8843
 postcode: "21762"
 city: Otterndorf
-street: "Cuxhavener Landstraße"
+street: Cuxhavener Landstraße
 housenumber: 3c
-phone: "+49 4751 99000"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
-website: "https://www.schoelermann.de/"
+phone: +49 4751 99000
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
+website: https://www.schoelermann.de/

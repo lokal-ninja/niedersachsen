@@ -4,8 +4,8 @@ latitude: 52.93738
 longitude: 11.11817
 postcode: "29462"
 city: Wustrow
-street: "Schulstraße"
-housenumber: 2
-phone: "+49 5843 9864164"
-opening_hours: "Mo-We, SA 8:00-13:00; Th-Fr 8:00-18:00"
-website: "https://www.wendlaender.bio/"
+street: Schulstraße
+housenumber: "2"
+phone: +49 5843 9864164
+opening_hours: Mo-We, SA 8:00-13:00; Th-Fr 8:00-18:00
+website: https://www.wendlaender.bio/

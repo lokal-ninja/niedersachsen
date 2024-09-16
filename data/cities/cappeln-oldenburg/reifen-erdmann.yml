@@ -1,11 +1,11 @@
 id: 193597184
-type: way
+type: node
 latitude: 52.80277
 longitude: 8.12087
 postcode: "49692"
 city: Cappeln (Oldenburg)
-street: "Heinrich-Beckermann-Straße"
-housenumber: 1
-phone: "+49 4478 6095965"
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-17:00; Sa,Su,PH off"
-website: "https://www.reifen-erdmann.de/"
+street: Heinrich-Beckermann-Straße
+housenumber: "1"
+phone: +49 4478 6095965
+opening_hours: Mo-Fr 09:00-12:00, 13:00-17:00; Sa,Su,PH off
+website: https://www.reifen-erdmann.de/

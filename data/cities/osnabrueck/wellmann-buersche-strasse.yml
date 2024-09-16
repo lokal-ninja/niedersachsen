@@ -4,8 +4,8 @@ latitude: 52.27546
 longitude: 8.07463
 postcode: "49084"
 city: Osnabrück
-street: "Buersche Straße"
-housenumber: 135
+street: Buersche Straße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Fr 05:30-19:00; Sa 05:30-18:00"
-website: "https://www.wellmann-baeckerei.de/"
+opening_hours: Mo-Fr 05:30-19:00; Sa 05:30-18:00
+website: https://www.wellmann-baeckerei.de/

@@ -1,11 +1,11 @@
 id: 149986671
-type: way
+type: node
 latitude: 52.51196
 longitude: 10.58014
 postcode: "38524"
 city: Sassenburg
-street: "Gifhorner Straße"
-housenumber: 20
+street: Gifhorner Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

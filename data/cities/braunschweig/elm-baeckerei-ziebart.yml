@@ -4,8 +4,8 @@ latitude: 52.26199
 longitude: 10.51983
 postcode: "38100"
 city: Braunschweig
-street: "Kohlmarkt"
-housenumber: 9
-phone: "+49 531 1206342"
-opening_hours: "Mo-Fr 07:00-18:00; Sa,Su 08:00-18:00"
+street: Kohlmarkt
+housenumber: "9"
+phone: +49 531 1206342
+opening_hours: Mo-Fr 07:00-18:00; Sa,Su 08:00-18:00
 website: ""

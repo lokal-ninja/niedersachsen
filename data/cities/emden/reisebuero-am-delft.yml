@@ -1,11 +1,11 @@
 id: 203429929
-type: way
+type: node
 latitude: 53.36573
 longitude: 7.20555
 postcode: "26721"
 city: Emden
-street: "Burgstraße"
-housenumber: 1
-phone: "+49 4921 97200"
-opening_hours: "Mo-Fr 09:30-13:00, 14:00-18:00; Sa 09:30-13:00"
-website: "https://www.reisebuero-am-delft.de/"
+street: Burgstraße
+housenumber: "1"
+phone: +49 4921 97200
+opening_hours: Mo-Fr 09:30-13:00, 14:00-18:00; Sa 09:30-13:00
+website: https://www.reisebuero-am-delft.de/

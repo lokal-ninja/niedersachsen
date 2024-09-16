@@ -1,11 +1,11 @@
 id: 80556174
-type: way
+type: node
 latitude: 51.92648
 longitude: 10.41651
 postcode: "38644"
 city: Goslar
-street: "Lange Wanne"
-housenumber: 5
+street: Lange Wanne
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

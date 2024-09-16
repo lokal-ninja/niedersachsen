@@ -4,8 +4,8 @@ latitude: 52.25112
 longitude: 10.80119
 postcode: "38154"
 city: Königslutter am Elm
-street: "Buchenring"
-housenumber: 1
+street: Buchenring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:30-17:00; Sa-Su off; PH off"
-website: "http://www.amelm.de"
+opening_hours: Mo-Fr 10:00-13:00,14:30-17:00; Sa-Su off; PH off
+website: http://www.amelm.de

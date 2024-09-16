@@ -1,11 +1,11 @@
 id: 26388371
-type: way
+type: node
 latitude: 53.36151
 longitude: 7.16706
 postcode: "26723"
 city: Emden
-street: "Thüringer Straße"
-housenumber: 9
-phone: "+49 4921 953961"
+street: Thüringer Straße
+housenumber: "9"
+phone: +49 4921 953961
 opening_hours: ""
-website: "https://www.doc-emden.de/"
+website: https://www.doc-emden.de/

@@ -1,11 +1,11 @@
 id: 158658715
-type: way
+type: node
 latitude: 53.46027
 longitude: 10.04533
 postcode: "21079"
 city: Hamburg
-street: "Fünfhausener Straße"
-housenumber: 26
+street: Fünfhausener Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

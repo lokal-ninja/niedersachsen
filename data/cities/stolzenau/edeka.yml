@@ -1,11 +1,11 @@
 id: 221082392
-type: way
+type: node
 latitude: 52.51148
 longitude: 9.0611
 postcode: "31592"
 city: Stolzenau
-street: "Bürgermeister-Heuvemann-Straße"
-housenumber: 1
-phone: "+49 5761 902296"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-center-kirchhoff-b%C3%BCrgermeister-heuvemann-str.1/index.jsp"
+street: Bürgermeister-Heuvemann-Straße
+housenumber: "1"
+phone: +49 5761 902296
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-center-kirchhoff-b%C3%BCrgermeister-heuvemann-str.1/index.jsp

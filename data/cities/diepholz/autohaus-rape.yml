@@ -1,11 +1,11 @@
 id: 133634073
-type: way
+type: node
 latitude: 52.59589
 longitude: 8.36516
 postcode: "49356"
 city: Diepholz
-street: "Maschstraße"
-housenumber: 1
+street: Maschstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su off
 website: ""

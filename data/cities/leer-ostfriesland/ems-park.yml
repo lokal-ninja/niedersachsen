@@ -1,11 +1,11 @@
 id: 727160578
-type: way
+type: node
 latitude: 53.26207
 longitude: 7.4593
 postcode: "26789"
 city: Leer (Ostfriesland)
-street: "Nüttermoorer Straße"
-housenumber: 2
+street: Nüttermoorer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://ems-park.de/"
+website: https://ems-park.de/

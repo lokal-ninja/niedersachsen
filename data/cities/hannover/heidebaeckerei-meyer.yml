@@ -4,8 +4,8 @@ latitude: 52.34192
 longitude: 9.71443
 postcode: "30459"
 city: Hannover
-street: "Wallensteinstraße"
-housenumber: 15
-phone: "+49 511 7683135"
-opening_hours: "Mo-Sa 07:00-13:00; Su,PH 07:00-11:00"
-website: "https://www.baeckerei-meyer.de"
+street: Wallensteinstraße
+housenumber: "15"
+phone: +49 511 7683135
+opening_hours: Mo-Sa 07:00-13:00; Su,PH 07:00-11:00
+website: https://www.baeckerei-meyer.de

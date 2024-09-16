@@ -1,11 +1,11 @@
 id: 87359691
-type: way
+type: node
 latitude: 53.25067
 longitude: 10.42721
 postcode: "21337"
 city: Lüneburg
-street: "Bleckeder Landstraße"
-housenumber: 26
+street: Bleckeder Landstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

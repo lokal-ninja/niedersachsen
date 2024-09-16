@@ -4,8 +4,8 @@ latitude: 52.34047
 longitude: 9.76386
 postcode: "30519"
 city: Hannover
-street: "Fiedelerstraße"
-housenumber: 23
+street: Fiedelerstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.bio-corner.com/"
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.bio-corner.com/

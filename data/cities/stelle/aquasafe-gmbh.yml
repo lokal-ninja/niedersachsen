@@ -4,8 +4,8 @@ latitude: 53.37117
 longitude: 10.12964
 postcode: "21435"
 city: Stelle
-street: "Duvendahl"
-housenumber: 91
-phone: "+49 41058697920"
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://www.aquasafe.de"
+street: Duvendahl
+housenumber: "91"
+phone: +49 41058697920
+opening_hours: Mo-Fr 09:00-17:30
+website: https://www.aquasafe.de

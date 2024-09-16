@@ -1,11 +1,11 @@
 id: 8061884
-type: way
+type: node
 latitude: 52.33496
 longitude: 9.4018
 postcode: "31542"
 city: Bad Nenndorf
-street: "Bückethaler Straße"
-housenumber: 2
-phone: "+49 5723 798090"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hellweg.de/cms/de/Filialen/Bad-Nenndorf/Bad-Nenndorf.htm"
+street: Bückethaler Straße
+housenumber: "2"
+phone: +49 5723 798090
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hellweg.de/cms/de/Filialen/Bad-Nenndorf/Bad-Nenndorf.htm

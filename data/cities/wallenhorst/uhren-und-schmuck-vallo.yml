@@ -1,11 +1,11 @@
 id: 204683905
-type: way
+type: node
 latitude: 52.35122
 longitude: 8.01402
 postcode: "49134"
 city: Wallenhorst
-street: "Große Straße"
-housenumber: 30
+street: Große Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 926833808
-type: way
+type: node
 latitude: 52.41109
 longitude: 10.72168
 postcode: "38442"
 city: Wolfsburg
-street: "Berliner Straße"
-housenumber: 
+street: Berliner Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

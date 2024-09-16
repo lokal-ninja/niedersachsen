@@ -1,11 +1,11 @@
 id: 32148392
-type: way
+type: node
 latitude: 53.18371
 longitude: 8.23074
 postcode: "26125"
 city: Oldenburg
-street: "Stubbenweg"
-housenumber: 29
-phone: "+49 441 209833810"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-19:00"
-website: "https://www.tedox.de/shoplist/index/detail/?id=17"
+street: Stubbenweg
+housenumber: "29"
+phone: +49 441 209833810
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-19:00
+website: https://www.tedox.de/shoplist/index/detail/?id=17

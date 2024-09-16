@@ -4,8 +4,8 @@ latitude: 53.30007
 longitude: 10.65167
 postcode: "21398"
 city: Neetze
-street: "Fraaschweg"
-housenumber: 3
+street: Fraaschweg
+housenumber: "3"
 phone: ""
-opening_hours: "Sa 08:00-16:00"
-website: "https://www.bostelmanns-hof.de"
+opening_hours: Sa 08:00-16:00
+website: https://www.bostelmanns-hof.de

@@ -4,8 +4,8 @@ latitude: 52.47575
 longitude: 9.22919
 postcode: "31547"
 city: Rehburg-Loccum
-street: "Heidtorstraße"
-housenumber: 17
-phone: "+49 5037 2241"
-opening_hours: "Mo, We, Sa 07:30-13:00; Tu, Th, Fr 07:30-18:00"
-website: "http://www.gattermann.net/"
+street: Heidtorstraße
+housenumber: "17"
+phone: +49 5037 2241
+opening_hours: Mo, We, Sa 07:30-13:00; Tu, Th, Fr 07:30-18:00
+website: http://www.gattermann.net/

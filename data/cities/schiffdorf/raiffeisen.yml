@@ -1,11 +1,11 @@
 id: 136230104
-type: way
+type: node
 latitude: 53.58087
 longitude: 8.63097
 postcode: "27619"
 city: Schiffdorf
-street: "Jahnstraße"
-housenumber: 17
+street: Jahnstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

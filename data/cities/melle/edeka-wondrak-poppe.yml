@@ -1,11 +1,11 @@
 id: 539868539
-type: way
+type: node
 latitude: 52.15712
 longitude: 8.27037
 postcode: "49326"
 city: Melle
-street: "Sondermühlener Straße"
-housenumber: 12
+street: Sondermühlener Straße
+housenumber: "12"
 phone: "+49542992025"
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

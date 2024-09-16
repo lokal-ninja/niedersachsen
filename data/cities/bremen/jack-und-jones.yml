@@ -4,8 +4,8 @@ latitude: 53.04936
 longitude: 8.95839
 postcode: "28307"
 city: Bremen
-street: "Hans-Bredow-Straße"
-housenumber: 19
-phone: "+49 421 40956913"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.jackjones.com/de/de/home"
+street: Hans-Bredow-Straße
+housenumber: "19"
+phone: +49 421 40956913
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.jackjones.com/de/de/home

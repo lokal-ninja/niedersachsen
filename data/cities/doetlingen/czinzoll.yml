@@ -1,11 +1,11 @@
 id: 250149941
-type: way
+type: node
 latitude: 52.9366
 longitude: 8.38757
 postcode: "27801"
 city: Dötlingen
-street: "Ostertor"
-housenumber: 13
+street: Ostertor
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-czinzoll.de/"
+website: https://www.kfz-czinzoll.de/

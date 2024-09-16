@@ -1,11 +1,11 @@
 id: 123498294
-type: way
+type: node
 latitude: 53.17214
 longitude: 8.62028
 postcode: "28757"
 city: Bremen
-street: "Gerhard-Rohlfs-Straße"
-housenumber: 9
+street: Gerhard-Rohlfs-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-13:00"
-website: "https://www.amplifon.com/de/filiale-finden/hoergeraete-bremen-vegesack/amplifon-bremen-vegesack-s148"
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-13:00
+website: https://www.amplifon.com/de/filiale-finden/hoergeraete-bremen-vegesack/amplifon-bremen-vegesack-s148

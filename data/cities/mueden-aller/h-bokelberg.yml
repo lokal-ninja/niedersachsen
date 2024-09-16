@@ -1,11 +1,11 @@
 id: 464304320
-type: way
+type: node
 latitude: 52.5264
 longitude: 10.36371
 postcode: "38539"
 city: Müden (Aller)
-street: "Bahnhofstraße"
-housenumber: 5
+street: Bahnhofstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 570060656
-type: way
+type: node
 latitude: 52.38566
 longitude: 8.01692
 postcode: "49565"
 city: Bramsche
-street: "Schleptruper Strang"
-housenumber: 89
-phone: "+49 5468 925460"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "http://www.ferienhof-buehning.de/produkte/"
+street: Schleptruper Strang
+housenumber: "89"
+phone: +49 5468 925460
+opening_hours: Mo-Su 08:00-20:00
+website: http://www.ferienhof-buehning.de/produkte/

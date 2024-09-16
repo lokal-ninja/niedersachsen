@@ -1,11 +1,11 @@
 id: 207869621
-type: way
+type: node
 latitude: 52.38758
 longitude: 9.72433
 postcode: "30167"
 city: Hannover
-street: "Kopernikusstraße"
-housenumber: 5
+street: Kopernikusstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 317506336
-type: way
+type: node
 latitude: 51.83316
 longitude: 9.79484
 postcode: "37574"
 city: Einbeck
-street: "Kampstraße"
-housenumber: 3
-phone: "+49 5565 580"
-opening_hours: "Mo-Th 07:00-12:00, 13:00-16:00, Fr 07:00-12:00"
-website: "https://www.henniges-innentueren.de/"
+street: Kampstraße
+housenumber: "3"
+phone: +49 5565 580
+opening_hours: Mo-Th 07:00-12:00, 13:00-16:00, Fr 07:00-12:00
+website: https://www.henniges-innentueren.de/

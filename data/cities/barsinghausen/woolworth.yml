@@ -4,8 +4,8 @@ latitude: 52.30281
 longitude: 9.46021
 postcode: "30890"
 city: Barsinghausen
-street: "Marktstraße"
-housenumber: 38
-phone: "+49 2303 5938100"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Marktstraße
+housenumber: "38"
+phone: +49 2303 5938100
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

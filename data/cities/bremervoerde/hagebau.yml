@@ -1,11 +1,11 @@
 id: 89811710
-type: way
+type: node
 latitude: 53.49881
 longitude: 9.11055
 postcode: "27432"
 city: Bremervörde
-street: "Gewerbering"
-housenumber: 4
+street: Gewerbering
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

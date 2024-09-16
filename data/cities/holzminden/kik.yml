@@ -1,11 +1,11 @@
 id: 315770570
-type: way
+type: node
 latitude: 51.84094
 longitude: 9.46472
 postcode: "37603"
 city: Holzminden
-street: "Bülte"
-housenumber: 7
-phone: "+49 180 54228"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.kik.de/filialfinder/8138/Holzminden/B%C3%BClte?wid=mc.lbm.google.-.37603-Holzminden.8138.-.-.-.-"
+street: Bülte
+housenumber: "7"
+phone: +49 180 54228
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.kik.de/filialfinder/8138/Holzminden/B%C3%BClte?wid=mc.lbm.google.-.37603-Holzminden.8138.-.-.-.-

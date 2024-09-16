@@ -4,8 +4,8 @@ latitude: 52.79
 longitude: 8.42839
 postcode: "49424"
 city: Goldenstedt
-street: "Hauptstraße"
-housenumber: 59
-phone: "+49 4444 96550"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 07:30-11:30, 14:00-16:00"
+street: Hauptstraße
+housenumber: "59"
+phone: +49 4444 96550
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 07:30-11:30, 14:00-16:00
 website: ""

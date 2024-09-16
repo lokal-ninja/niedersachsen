@@ -1,11 +1,11 @@
 id: 109334436
-type: way
+type: node
 latitude: 53.15667
 longitude: 8.60898
 postcode: "27809"
 city: Lemwerder
-street: "Hansering"
-housenumber: 3
+street: Hansering
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

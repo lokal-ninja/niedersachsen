@@ -1,11 +1,11 @@
 id: 505011265
-type: way
+type: node
 latitude: 53.02656
 longitude: 11.45781
 postcode: "29471"
 city: Gartow
-street: "Springstraße"
-housenumber: 31
+street: Springstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Tu-Fr 14:00-18:00; PH off"
+opening_hours: Mo-Sa 09:00-13:00, Tu-Fr 14:00-18:00; PH off
 website: ""

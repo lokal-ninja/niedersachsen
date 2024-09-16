@@ -4,8 +4,8 @@ latitude: 53.34352
 longitude: 10.02902
 postcode: "21220"
 city: Seevetal
-street: "Ohlendorfer Straße"
-housenumber: 3
-phone: "+49 4185 2336"
-opening_hours: "Mo-Th 06:00-18:30; Fr 06:00-19:00; Sa 06:00-14:00; Su 08:00-11:00"
-website: "http://knollesmarkt.de/Pre/shops.html"
+street: Ohlendorfer Straße
+housenumber: "3"
+phone: +49 4185 2336
+opening_hours: Mo-Th 06:00-18:30; Fr 06:00-19:00; Sa 06:00-14:00; Su 08:00-11:00
+website: http://knollesmarkt.de/Pre/shops.html

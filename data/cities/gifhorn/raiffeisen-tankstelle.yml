@@ -1,11 +1,11 @@
 id: 42374886
-type: way
+type: node
 latitude: 52.47814
 longitude: 10.53723
 postcode: "38518"
 city: Gifhorn
-street: "Bahnhofstraße"
-housenumber: 20
+street: Bahnhofstraße
+housenumber: "20"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

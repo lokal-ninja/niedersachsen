@@ -4,8 +4,8 @@ latitude: 53.10085
 longitude: 8.87454
 postcode: "28359"
 city: Bremen
-street: "Am Brahmkamp"
-housenumber: 54
+street: Am Brahmkamp
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 07:00-13:00,15:00-17:00; Sa 06:30-12:00; Su 08:00-10:30"
-website: "https://schroederbrot.de"
+opening_hours: Mo-Fr 07:00-13:00,15:00-17:00; Sa 06:30-12:00; Su 08:00-10:30
+website: https://schroederbrot.de

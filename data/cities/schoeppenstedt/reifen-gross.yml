@@ -1,11 +1,11 @@
 id: 127224072
-type: way
+type: node
 latitude: 52.14278
 longitude: 10.78101
 postcode: "38170"
 city: Schöppenstedt
-street: "Neue Straße"
-housenumber: 22
+street: Neue Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

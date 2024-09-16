@@ -1,11 +1,11 @@
 id: 360815403
-type: way
+type: node
 latitude: 53.05275
 longitude: 8.20762
 postcode: "26203"
 city: Wardenburg
-street: "Moorbäksweg"
-housenumber: 134
+street: Moorbäksweg
+housenumber: "134"
 phone: ""
 opening_hours: ""
-website: "https://home.mobile.de/CARBUSINESSGBR"
+website: https://home.mobile.de/CARBUSINESSGBR

@@ -1,11 +1,11 @@
 id: 721288316
-type: way
+type: node
 latitude: 52.28047
 longitude: 10.49355
 postcode: "38114"
 city: Braunschweig
-street: "Aussigstraße"
-housenumber: 5
+street: Aussigstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 164073271
-type: way
+type: node
 latitude: 52.59528
 longitude: 10.93615
 postcode: "38465"
 city: Brome
-street: "Braunschweiger Straße"
-housenumber: 48
+street: Braunschweiger Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

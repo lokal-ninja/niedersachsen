@@ -1,11 +1,11 @@
 id: 275578649
-type: way
+type: node
 latitude: 53.23055
 longitude: 10.88613
 postcode: "29490"
 city: Neu Darchau
-street: "Hauptstraße"
-housenumber: 6
+street: Hauptstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Tu 08:00-12:00; Th 08:00-12:00,14:00-18:00; Fr,Sa 08:00-13:00"
+opening_hours: Mo,Tu 08:00-12:00; Th 08:00-12:00,14:00-18:00; Fr,Sa 08:00-13:00
 website: ""

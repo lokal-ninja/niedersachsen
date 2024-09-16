@@ -1,11 +1,11 @@
 id: 161366636
-type: way
+type: node
 latitude: 53.36196
 longitude: 7.16961
 postcode: "26723"
 city: Emden
-street: "Thüringer Straße"
-housenumber: 9
-phone: "+49 4921 9978031"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "http://www.campdavid.de"
+street: Thüringer Straße
+housenumber: "9"
+phone: +49 4921 9978031
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: http://www.campdavid.de

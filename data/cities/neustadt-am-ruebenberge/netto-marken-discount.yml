@@ -1,11 +1,11 @@
 id: 98231191
-type: way
+type: node
 latitude: 52.50805
 longitude: 9.47662
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Otto-Lilienthal-Straße"
-housenumber: 4
+street: Otto-Lilienthal-Straße
+housenumber: "4"
 phone: "+498002000015"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

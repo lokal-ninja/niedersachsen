@@ -1,11 +1,11 @@
 id: 130845172
-type: way
+type: node
 latitude: 52.24802
 longitude: 9.85411
 postcode: "31157"
 city: Sarstedt
-street: "Am Teinkamp"
-housenumber: 11
+street: Am Teinkamp
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00, Sa 08:30-18:00"
-website: "http://www.hagebaumarkt-sarstedt.de"
+opening_hours: Mo-Fr 08:30-19:00, Sa 08:30-18:00
+website: http://www.hagebaumarkt-sarstedt.de

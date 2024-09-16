@@ -1,11 +1,11 @@
 id: 254045091
-type: way
+type: node
 latitude: 52.0684
 longitude: 9.30427
 postcode: "31855"
 city: Aerzen
-street: "Höpperkrug"
-housenumber: 1
+street: Höpperkrug
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

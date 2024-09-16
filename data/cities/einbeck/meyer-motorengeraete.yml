@@ -4,8 +4,8 @@ latitude: 51.79456
 longitude: 9.96976
 postcode: "37574"
 city: Einbeck
-street: "Ahlshäuser Lieth"
-housenumber: 23
+street: Ahlshäuser Lieth
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00"
-website: "http://www.dolmar-meyer.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00
+website: http://www.dolmar-meyer.de/

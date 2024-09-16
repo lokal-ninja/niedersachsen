@@ -1,11 +1,11 @@
 id: 316303689
-type: way
+type: node
 latitude: 52.9325
 longitude: 10.95349
 postcode: "29459"
 city: Clenze
-street: "Lange Straße"
-housenumber: 31
+street: Lange Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:30,14:30-17:00; We 08:00-12:30; PH off"
+opening_hours: Mo,Tu,Th,Fr 08:00-12:30,14:30-17:00; We 08:00-12:30; PH off
 website: ""

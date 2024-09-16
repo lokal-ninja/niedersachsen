@@ -1,11 +1,11 @@
 id: 28473408
-type: way
+type: node
 latitude: 52.37656
 longitude: 10.91896
 postcode: "38464"
 city: Groß Twülpstedt
-street: "Seeberg"
-housenumber: 4
+street: Seeberg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

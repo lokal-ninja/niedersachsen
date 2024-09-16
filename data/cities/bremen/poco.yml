@@ -1,11 +1,11 @@
 id: 220278664
-type: way
+type: node
 latitude: 53.04681
 longitude: 8.85049
 postcode: "28279"
 city: Bremen
-street: "Steinsetzerstraße"
-housenumber: 17
-phone: "+49 421 87 85 040"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00"
-website: "www.poco-domaene.de"
+street: Steinsetzerstraße
+housenumber: "17"
+phone: +49 421 87 85 040
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00
+website: www.poco-domaene.de

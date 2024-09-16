@@ -1,11 +1,11 @@
 id: 1044178088
-type: way
+type: node
 latitude: 52.38652
 longitude: 10.25835
 postcode: "31234"
 city: Edemissen
-street: "Peiner Straße"
+street: Peiner Straße
 housenumber: 25 a
-phone: "+49 5176 9979010"
-opening_hours: "Mo-Sa 07:00-22:00"
+phone: +49 5176 9979010
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

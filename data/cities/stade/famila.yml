@@ -1,11 +1,11 @@
 id: 620240402
-type: way
+type: node
 latitude: 53.57126
 longitude: 9.47076
 postcode: "21680"
 city: Stade
-street: "Stadtweg"
-housenumber: 160
+street: Stadtweg
+housenumber: "160"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 23150525
-type: way
+type: node
 latitude: 53.05207
 longitude: 8.80319
 postcode: "28201"
 city: Bremen
-street: "Neuenlander Straße"
-housenumber: 111
-phone: "+49 421 5594 0"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00; PH,Su Off"
-website: "https://www.metro.de/standorte/bremen"
+street: Neuenlander Straße
+housenumber: "111"
+phone: +49 421 5594 0
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00; PH,Su Off
+website: https://www.metro.de/standorte/bremen

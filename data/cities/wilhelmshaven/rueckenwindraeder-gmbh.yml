@@ -1,11 +1,11 @@
 id: 1214302624
-type: way
+type: node
 latitude: 53.57645
 longitude: 8.11385
 postcode: "26388"
 city: Wilhelmshaven
-street: "Tidestraße"
-housenumber: 1
+street: Tidestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.rueckenwindraeder.de"
+website: http://www.rueckenwindraeder.de

@@ -1,11 +1,11 @@
 id: 1036533500
-type: way
+type: node
 latitude: 51.64171
 longitude: 10.24029
 postcode: "37197"
 city: Hattorf am Harz
-street: "Oderstraße"
-housenumber: 45
-phone: "+49 55842526"
-opening_hours: "Mo-FR 09:30-12:30, 13:00-18:00"
-website: "https://www.kuechen-hattorf.de/"
+street: Oderstraße
+housenumber: "45"
+phone: +49 55842526
+opening_hours: Mo-FR 09:30-12:30, 13:00-18:00
+website: https://www.kuechen-hattorf.de/

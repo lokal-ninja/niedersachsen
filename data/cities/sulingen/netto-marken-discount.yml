@@ -1,11 +1,11 @@
 id: 177576654
-type: way
+type: node
 latitude: 52.6829
 longitude: 8.79501
 postcode: "27232"
 city: Sulingen
-street: "Bassumer Straße"
-housenumber: 14
+street: Bassumer Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

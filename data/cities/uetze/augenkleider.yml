@@ -4,8 +4,8 @@ latitude: 52.46422
 longitude: 10.20036
 postcode: "31311"
 city: Uetze
-street: "Burgdorfer Straße"
-housenumber: 10
+street: Burgdorfer Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 9:00-12:30, 14:30-18:30; Sa 9:00-13:00"
-website: "https://www.augenkleider.de/"
+opening_hours: Mo-Fr 9:00-12:30, 14:30-18:30; Sa 9:00-13:00
+website: https://www.augenkleider.de/

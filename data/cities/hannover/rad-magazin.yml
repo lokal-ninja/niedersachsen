@@ -4,8 +4,9 @@ latitude: 52.37044
 longitude: 9.75821
 postcode: "30171"
 city: Hannover
-street: "Marienstraße"
-housenumber: 105
+street: Marienstraße
+housenumber: "105"
 phone: ""
-opening_hours: "Mo, Tu 10:00-13:00, 14:00-18:00; We 14:00-18:00; Th, Fr 10:00-13:00, 14:00-18:00; Sa 10:00-13:30"
-website: "http://radmagazin-broja.de/"
+opening_hours: Mo, Tu 10:00-13:00, 14:00-18:00; We 14:00-18:00; Th, Fr 10:00-13:00,
+    14:00-18:00; Sa 10:00-13:30
+website: http://radmagazin-broja.de/

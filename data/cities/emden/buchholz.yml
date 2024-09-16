@@ -1,11 +1,11 @@
 id: 182281426
-type: way
+type: node
 latitude: 53.36736
 longitude: 7.1805
 postcode: "26723"
 city: Emden
-street: "Kopersand"
-housenumber: 12
-phone: "+49 4921 66442"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-10:30"
-website: "https://www.buchholz-baecker.de/"
+street: Kopersand
+housenumber: "12"
+phone: +49 4921 66442
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-10:30
+website: https://www.buchholz-baecker.de/

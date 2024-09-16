@@ -4,8 +4,8 @@ latitude: 53.36625
 longitude: 9.70936
 postcode: "21279"
 city: Hollenstedt
-street: "Hauptstraße"
-housenumber: 23
-phone: "+49 4165 8789"
-opening_hours: "Tu 08:30-18:00; We,Th 08:30-20:00; Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.tiemann-hairlounge.de/"
+street: Hauptstraße
+housenumber: "23"
+phone: +49 4165 8789
+opening_hours: Tu 08:30-18:00; We,Th 08:30-20:00; Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.tiemann-hairlounge.de/

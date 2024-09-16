@@ -4,8 +4,8 @@ latitude: 53.24958
 longitude: 10.42263
 postcode: "21337"
 city: Lüneburg
-street: "Pulverweg"
-housenumber: 6
-phone: "+49 4131 2231666"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://www.rindchen.de/kontore/kontor-lueneburg"
+street: Pulverweg
+housenumber: "6"
+phone: +49 4131 2231666
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://www.rindchen.de/kontore/kontor-lueneburg

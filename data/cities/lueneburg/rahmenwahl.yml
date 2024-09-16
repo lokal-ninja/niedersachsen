@@ -4,8 +4,8 @@ latitude: 53.24983
 longitude: 10.40721
 postcode: "21335"
 city: Lüneburg
-street: "An der Münze"
-housenumber: 2
-phone: "+49 4131 31572"
-opening_hours: "Mo,Tu,Th,Fr 10:00-18:00; We,Sa 10:00-14:00"
-website: "https://www.rahmenwahl.de"
+street: An der Münze
+housenumber: "2"
+phone: +49 4131 31572
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; We,Sa 10:00-14:00
+website: https://www.rahmenwahl.de

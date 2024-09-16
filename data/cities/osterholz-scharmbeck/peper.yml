@@ -1,11 +1,11 @@
 id: 255021492
-type: way
+type: node
 latitude: 53.22488
 longitude: 8.79035
 postcode: "27711"
 city: Osterholz-Scharmbeck
-street: "Lange Straße"
-housenumber: 13
+street: Lange Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

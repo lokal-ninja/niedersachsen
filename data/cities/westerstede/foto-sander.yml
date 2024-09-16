@@ -4,8 +4,8 @@ latitude: 53.25511
 longitude: 7.92791
 postcode: "26655"
 city: Westerstede
-street: "Peterstraße"
-housenumber: 22
-phone: "+49 4488 2461"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.foto-sander.de/"
+street: Peterstraße
+housenumber: "22"
+phone: +49 4488 2461
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.foto-sander.de/

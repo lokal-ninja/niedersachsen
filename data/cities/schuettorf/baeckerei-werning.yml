@@ -4,8 +4,8 @@ latitude: 52.32721
 longitude: 7.21098
 postcode: "48465"
 city: Schüttorf
-street: "Waldenburger Straße"
-housenumber: 1
-phone: "+49 5923 9684910"
-opening_hours: "Mo-Sa 07:00-19:00; Su 07:00-11:00"
-website: "https://www.baeckerei-werning.de"
+street: Waldenburger Straße
+housenumber: "1"
+phone: +49 5923 9684910
+opening_hours: Mo-Sa 07:00-19:00; Su 07:00-11:00
+website: https://www.baeckerei-werning.de

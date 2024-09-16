@@ -4,8 +4,8 @@ latitude: 53.09161
 longitude: 8.84721
 postcode: "28213"
 city: Bremen
-street: "Gevekohtstraße"
-housenumber: 14
-phone: "+49 421 216266"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00"
+street: Gevekohtstraße
+housenumber: "14"
+phone: +49 421 216266
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00
 website: ""

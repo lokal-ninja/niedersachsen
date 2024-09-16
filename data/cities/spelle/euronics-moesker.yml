@@ -1,11 +1,11 @@
 id: 48977767
-type: way
+type: node
 latitude: 52.3643
 longitude: 7.47059
 postcode: "48480"
 city: Spelle
-street: "Ringstraße"
-housenumber: 46
+street: Ringstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
 website: ""

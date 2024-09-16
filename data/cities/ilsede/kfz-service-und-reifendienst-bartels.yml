@@ -1,11 +1,11 @@
 id: 454478511
-type: way
+type: node
 latitude: 52.25419
 longitude: 10.24608
 postcode: "31246"
 city: Ilsede
-street: "Weststraße"
-housenumber: 10
-phone: "+49 5172 608721"
+street: Weststraße
+housenumber: "10"
+phone: +49 5172 608721
 opening_hours: ""
-website: "http://www.bartels-lahstedt.de"
+website: http://www.bartels-lahstedt.de

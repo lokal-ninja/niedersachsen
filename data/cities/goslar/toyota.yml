@@ -1,11 +1,11 @@
 id: 87602876
-type: way
+type: node
 latitude: 51.92393
 longitude: 10.41478
 postcode: "38644"
 city: Goslar
-street: "Bornhardtstraße"
-housenumber: 2
-phone: "+49 5321 37430"
+street: Bornhardtstraße
+housenumber: "2"
+phone: +49 5321 37430
 opening_hours: ""
-website: "https://www.dit-goettingen.de"
+website: https://www.dit-goettingen.de

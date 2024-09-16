@@ -1,11 +1,11 @@
 id: 36971669
-type: way
+type: node
 latitude: 51.5423
 longitude: 9.90361
 postcode: "37079"
 city: Göttingen
-street: "Rudolf-Winkel-Straße"
-housenumber: 13
+street: Rudolf-Winkel-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; PH off"
+opening_hours: Mo-Sa 08:00-19:00; PH off
 website: ""

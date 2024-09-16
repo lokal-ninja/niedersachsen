@@ -4,8 +4,8 @@ latitude: 52.39039
 longitude: 9.84884
 postcode: "30629"
 city: Hannover
-street: "Hannoversche Straße"
-housenumber: 30
-phone: "+49 511 89868871"
-opening_hours: "Mo-Th 12:00-18:00; Fr 09:00-16:00"
-website: "http://www.delicious-pain.de/"
+street: Hannoversche Straße
+housenumber: "30"
+phone: +49 511 89868871
+opening_hours: Mo-Th 12:00-18:00; Fr 09:00-16:00
+website: http://www.delicious-pain.de/

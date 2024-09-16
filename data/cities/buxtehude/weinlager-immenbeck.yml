@@ -1,11 +1,11 @@
 id: 365018955
-type: way
+type: node
 latitude: 53.45231
 longitude: 9.74009
 postcode: "21614"
 city: Buxtehude
-street: "Inne Beek"
-housenumber: 1
+street: Inne Beek
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 14:00-20:00; Sa 10:00-16:00"
-website: "http://www.weinlager-immenbeck.de"
+opening_hours: Tu-Fr 14:00-20:00; Sa 10:00-16:00
+website: http://www.weinlager-immenbeck.de

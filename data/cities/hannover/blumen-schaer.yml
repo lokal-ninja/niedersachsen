@@ -4,8 +4,8 @@ latitude: 52.37181
 longitude: 9.78882
 postcode: "30625"
 city: Hannover
-street: "Schellingstraße"
-housenumber: 9
-phone: "+49 511 555582"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; So 10:00-12:00"
-website: "https://www.blumen-schär.de/"
+street: Schellingstraße
+housenumber: "9"
+phone: +49 511 555582
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; So 10:00-12:00
+website: https://www.blumen-schär.de/

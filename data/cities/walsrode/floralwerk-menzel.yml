@@ -4,8 +4,8 @@ latitude: 52.86616
 longitude: 9.58656
 postcode: "29664"
 city: Walsrode
-street: "Bergstraße"
-housenumber: 36
-phone: "+49 5161 3563"
-opening_hours: "Mo,We-Fr 09:00-17:00; Tu,Sa 09:00-13:00; Su 10:00-12:00"
-website: "https://www.gaertnerei-menzel.de/floristik"
+street: Bergstraße
+housenumber: "36"
+phone: +49 5161 3563
+opening_hours: Mo,We-Fr 09:00-17:00; Tu,Sa 09:00-13:00; Su 10:00-12:00
+website: https://www.gaertnerei-menzel.de/floristik

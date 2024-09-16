@@ -4,8 +4,8 @@ latitude: 51.5122
 longitude: 10.26059
 postcode: "37115"
 city: Duderstadt
-street: "Marktstraße"
-housenumber: 60
+street: Marktstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Täglich geöffnet ab O9.00Uhr Termine nach Vereinbarung"
-website: "https://www.waesche-und-mehr.com/"
+opening_hours: '"Täglich geöffnet ab O9.00Uhr Termine nach Vereinbarung"'
+website: https://www.waesche-und-mehr.com/

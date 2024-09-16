@@ -4,8 +4,8 @@ latitude: 53.46939
 longitude: 7.4805
 postcode: "26603"
 city: Aurich
-street: "Burgstraße"
-housenumber: 18
+street: Burgstraße
+housenumber: "18"
 phone: "+4949414214"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "http://www.lesezeichen-online.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: http://www.lesezeichen-online.de/

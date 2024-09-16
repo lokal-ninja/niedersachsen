@@ -1,11 +1,11 @@
 id: 47069932
-type: way
+type: node
 latitude: 52.84035
 longitude: 8.03878
 postcode: "49661"
 city: Cloppenburg
-street: "Fritz-Reuter-Straße"
-housenumber: 79
-phone: "+49 4471 930251"
-opening_hours: "Mo-Sa 07:00-24:00; Su,PH off"
-website: "https://www.klaas-und-kock.de/"
+street: Fritz-Reuter-Straße
+housenumber: "79"
+phone: +49 4471 930251
+opening_hours: Mo-Sa 07:00-24:00; Su,PH off
+website: https://www.klaas-und-kock.de/

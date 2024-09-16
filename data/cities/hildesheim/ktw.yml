@@ -1,11 +1,11 @@
 id: 124389942
-type: way
+type: node
 latitude: 52.16983
 longitude: 9.93237
 postcode: "31137"
 city: Hildesheim
-street: "Mastbergstraße"
-housenumber: 5
+street: Mastbergstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

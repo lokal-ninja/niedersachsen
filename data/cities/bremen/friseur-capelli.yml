@@ -4,8 +4,8 @@ latitude: 53.13827
 longitude: 8.74263
 postcode: "28239"
 city: Bremen
-street: "Schragestraße"
-housenumber: 4
-phone: "+49 421 6449094"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "http://www.bremer-friseure.de"
+street: Schragestraße
+housenumber: "4"
+phone: +49 421 6449094
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-14:00
+website: http://www.bremer-friseure.de

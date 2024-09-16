@@ -4,8 +4,8 @@ latitude: 51.62768
 longitude: 10.38268
 postcode: "37412"
 city: Herzberg am Harz
-street: "Harzstraße"
-housenumber: 88
-phone: "+49 5521 2490"
-opening_hours: "Mo-Tu 09:00-17:00, We 09:00-12:00, Th-Fr 09:00-17:00, Sa 09:00-12:00"
+street: Harzstraße
+housenumber: "88"
+phone: +49 5521 2490
+opening_hours: Mo-Tu 09:00-17:00, We 09:00-12:00, Th-Fr 09:00-17:00, Sa 09:00-12:00
 website: ""

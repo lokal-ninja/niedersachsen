@@ -1,11 +1,11 @@
 id: 1284848931
-type: way
+type: node
 latitude: 52.44323
 longitude: 10.02405
 postcode: "31303"
 city: Burgdorf
-street: "Ostlandring"
-housenumber: 6
+street: Ostlandring
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

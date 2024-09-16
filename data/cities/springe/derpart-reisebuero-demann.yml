@@ -4,8 +4,8 @@ latitude: 52.20828
 longitude: 9.55548
 postcode: "31832"
 city: Springe
-street: "Burgstraße"
-housenumber: 9
-phone: "+49 5041 62777"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.derpart.com/demann"
+street: Burgstraße
+housenumber: "9"
+phone: +49 5041 62777
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.derpart.com/demann

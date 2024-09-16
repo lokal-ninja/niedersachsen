@@ -1,11 +1,11 @@
 id: 239850246
-type: way
+type: node
 latitude: 52.78162
 longitude: 9.37193
 postcode: "27336"
 city: Rethem (Aller)
-street: "Stöckener Straße"
-housenumber: 12
+street: Stöckener Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

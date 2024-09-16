@@ -1,11 +1,11 @@
 id: 42371750
-type: way
+type: node
 latitude: 52.3804
 longitude: 10.53966
 postcode: "38527"
 city: Meine
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 24a
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.penny.de/

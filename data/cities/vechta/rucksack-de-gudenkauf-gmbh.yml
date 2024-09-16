@@ -1,11 +1,11 @@
 id: 142230832
-type: way
+type: node
 latitude: 52.73122
 longitude: 8.26325
 postcode: "49377"
 city: Vechta
-street: "Falkenrotter Straße"
-housenumber: 165
+street: Falkenrotter Straße
+housenumber: "165"
 phone: ""
-opening_hours: "Mo,Su,PH off; Tu-Fr 13:30-18:30; Sa 10:00-16:00"
-website: "https://www.rucksack.de/"
+opening_hours: Mo,Su,PH off; Tu-Fr 13:30-18:30; Sa 10:00-16:00
+website: https://www.rucksack.de/

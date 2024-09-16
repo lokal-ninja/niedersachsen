@@ -1,11 +1,11 @@
 id: 98428241
-type: way
+type: node
 latitude: 53.27734
 longitude: 9.29332
 postcode: "27404"
 city: Zeven
-street: "Zum Hochkamp"
-housenumber: 4
+street: Zum Hochkamp
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

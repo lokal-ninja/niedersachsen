@@ -4,8 +4,8 @@ latitude: 52.26443
 longitude: 10.54732
 postcode: "38104"
 city: Braunschweig
-street: "Marienstraße"
-housenumber: 42
-phone: "+49531 7076532"
-opening_hours: "Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00, Sa 09:30-12:30"
+street: Marienstraße
+housenumber: "42"
+phone: +49531 7076532
+opening_hours: Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00, Sa 09:30-12:30
 website: ""

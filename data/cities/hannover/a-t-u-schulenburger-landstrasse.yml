@@ -1,11 +1,11 @@
 id: 159538544
-type: way
+type: node
 latitude: 52.40516
 longitude: 9.70998
 postcode: "30165"
 city: Hannover
-street: "Schulenburger Landstraße"
-housenumber: 105
+street: Schulenburger Landstraße
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

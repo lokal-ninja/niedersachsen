@@ -4,8 +4,8 @@ latitude: 52.26633
 longitude: 10.53658
 postcode: "38102"
 city: Braunschweig
-street: "Kasernenstraße"
-housenumber: 34
-phone: "+49 531 2349040"
-opening_hours: "Fr,Sa 10:00-20:00; Th 12:00-20:00; Su-We,PH off"
-website: "https://www.wein-atelier.de/"
+street: Kasernenstraße
+housenumber: "34"
+phone: +49 531 2349040
+opening_hours: Fr,Sa 10:00-20:00; Th 12:00-20:00; Su-We,PH off
+website: https://www.wein-atelier.de/

@@ -1,11 +1,11 @@
 id: 248045288
-type: way
+type: node
 latitude: 52.98052
 longitude: 8.74492
 postcode: "28816"
 city: Stuhr
-street: "Hauptstraße"
-housenumber: 136
+street: Hauptstraße
+housenumber: "136"
 phone: ""
 opening_hours: ""
-website: "www.gruenes-warenhaus-stuhr.de"
+website: www.gruenes-warenhaus-stuhr.de

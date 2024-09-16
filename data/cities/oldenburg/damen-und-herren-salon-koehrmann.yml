@@ -4,8 +4,8 @@ latitude: 53.13534
 longitude: 8.22893
 postcode: "26135"
 city: Oldenburg
-street: "Stedinger Straße"
-housenumber: 76
-phone: "+49 441 12482"
-opening_hours: "Tu,Th-Fr 09:00-18:00; Sa 09:00-13:00; Mo,We,Su,PH off"
+street: Stedinger Straße
+housenumber: "76"
+phone: +49 441 12482
+opening_hours: Tu,Th-Fr 09:00-18:00; Sa 09:00-13:00; Mo,We,Su,PH off
 website: ""

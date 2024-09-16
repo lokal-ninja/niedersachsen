@@ -1,11 +1,11 @@
 id: 568446872
-type: way
+type: node
 latitude: 51.81549
 longitude: 9.87918
 postcode: "37574"
 city: Einbeck
-street: "Grimsehlstraße"
-housenumber: 42
+street: Grimsehlstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

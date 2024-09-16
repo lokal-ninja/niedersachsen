@@ -4,8 +4,8 @@ latitude: 52.37283
 longitude: 9.73277
 postcode: "30159"
 city: Hannover
-street: "Kreuzstraße"
-housenumber: 1
+street: Kreuzstraße
+housenumber: "1"
 phone: "+4917641728196"
-opening_hours: "Di-Sa 11:00-18:00"
-website: "https://next-generation-wine.com"
+opening_hours: Di-Sa 11:00-18:00
+website: https://next-generation-wine.com

@@ -1,11 +1,11 @@
 id: 97354185
-type: way
+type: node
 latitude: 53.76838
 longitude: 9.06235
 postcode: "21781"
 city: Cadenberge
-street: "Schumacherstraße"
-housenumber: 2
+street: Schumacherstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

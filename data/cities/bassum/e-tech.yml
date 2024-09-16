@@ -1,11 +1,11 @@
 id: 38381907
-type: way
+type: node
 latitude: 52.85098
 longitude: 8.72869
 postcode: "27211"
 city: Bassum
-street: "Syker Straße"
-housenumber: 9
+street: Syker Straße
+housenumber: "9"
 phone: "042418047809"
-opening_hours: "Mo-Fr 08:00-12:30"
-website: "https://www.e-tech.one/"
+opening_hours: Mo-Fr 08:00-12:30
+website: https://www.e-tech.one/

@@ -4,8 +4,8 @@ latitude: 53.08331
 longitude: 8.82633
 postcode: "28209"
 city: Bremen
-street: "Hollerallee"
-housenumber: 45
-phone: "+49 421 341149"
-opening_hours: "Mo-Fr 09:00-18:00; We 9:00-13:00"
-website: "https://hueneke-jahns-orthopaedie.de"
+street: Hollerallee
+housenumber: "45"
+phone: +49 421 341149
+opening_hours: Mo-Fr 09:00-18:00; We 9:00-13:00
+website: https://hueneke-jahns-orthopaedie.de

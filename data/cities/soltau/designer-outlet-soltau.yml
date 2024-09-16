@@ -1,11 +1,11 @@
 id: 179101005
-type: way
+type: node
 latitude: 52.9818
 longitude: 9.92517
 postcode: "29614"
 city: Soltau
-street: "Rahrsberg"
-housenumber: 7
-phone: "+49 5191 60280"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.designeroutletsoltau.com/"
+street: Rahrsberg
+housenumber: "7"
+phone: +49 5191 60280
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.designeroutletsoltau.com/

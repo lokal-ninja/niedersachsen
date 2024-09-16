@@ -1,11 +1,11 @@
 id: 200708125
-type: way
+type: node
 latitude: 52.13973
 longitude: 10.33892
 postcode: "38229"
 city: Salzgitter
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

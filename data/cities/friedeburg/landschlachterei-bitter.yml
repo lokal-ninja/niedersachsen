@@ -1,11 +1,11 @@
 id: 948968177
-type: way
+type: node
 latitude: 53.45287
 longitude: 7.94336
 postcode: "26446"
 city: Friedeburg
-street: "Kirchstraße"
-housenumber: 11
-phone: "+49 4453 2018"
+street: Kirchstraße
+housenumber: "11"
+phone: +49 4453 2018
 opening_hours: ""
 website: ""

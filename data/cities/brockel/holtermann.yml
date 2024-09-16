@@ -1,11 +1,12 @@
 id: 367700300
-type: way
+type: node
 latitude: 53.09851
 longitude: 9.52178
 postcode: "27386"
 city: Brockel
-street: "Scheeßeler Straße"
-housenumber: 12
+street: Scheeßeler Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mar-Sep Mo-Fr 08:00-12:00,13:00-18:00; Oct-Feb Mo-Fr 08:00-12:00,13:00-17:00; PH off"
-website: "https://www.holtermann-shop.de/"
+opening_hours: Mar-Sep Mo-Fr 08:00-12:00,13:00-18:00; Oct-Feb Mo-Fr 08:00-12:00,13:00-17:00;
+    PH off
+website: https://www.holtermann-shop.de/

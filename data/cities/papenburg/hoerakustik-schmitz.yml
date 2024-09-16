@@ -4,8 +4,8 @@ latitude: 53.08518
 longitude: 7.3897
 postcode: "26871"
 city: Papenburg
-street: "Hauptkanal links"
-housenumber: 20
-phone: "+49 4961 9063333"
-opening_hours: "Mo-Th 09:00-13:00, 14:00-18:00"
-website: "https://hoerakustik-schmitz.de"
+street: Hauptkanal links
+housenumber: "20"
+phone: +49 4961 9063333
+opening_hours: Mo-Th 09:00-13:00, 14:00-18:00
+website: https://hoerakustik-schmitz.de

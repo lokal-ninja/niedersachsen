@@ -4,8 +4,8 @@ latitude: 52.48926
 longitude: 9.29331
 postcode: "31535"
 city: Neustadt am Rübenberge
-street: "Mardorfer Straße"
-housenumber: 22
-phone: "05036 4510499"
-opening_hours: "Fr 12:00-22:00, Sa, Su: 09:00-22:00"
-website: "https://xn--krgers-mardorf-hsb.de/"
+street: Mardorfer Straße
+housenumber: "22"
+phone: 05036 4510499
+opening_hours: 'Fr 12:00-22:00, Sa, Su: 09:00-22:00'
+website: https://xn--krgers-mardorf-hsb.de/

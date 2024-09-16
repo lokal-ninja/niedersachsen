@@ -1,11 +1,11 @@
 id: 28510167
-type: way
+type: node
 latitude: 52.42308
 longitude: 10.72376
 postcode: "38442"
 city: Wolfsburg
-street: "Wolfsburger Landstraße"
-housenumber: 7
+street: Wolfsburger Landstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 213539470
-type: way
+type: node
 latitude: 52.32516
 longitude: 10.48283
 postcode: "38179"
 city: Schwülper
-street: "Waller See"
-housenumber: 22
+street: Waller See
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.baeko-weser-ems.de"
+website: http://www.baeko-weser-ems.de

@@ -4,8 +4,8 @@ latitude: 53.09211
 longitude: 8.79102
 postcode: "28217"
 city: Bremen
-street: "Wartburgstraße"
-housenumber: 7
-phone: "+49 421 5489911"
-opening_hours: "Mo,Fr 10:00-13:00,15:00-18:00;Tu,Th 10:00-19:00;Sa 10:00-13:00"
-website: "https://www.chic-chic-boutique.de/"
+street: Wartburgstraße
+housenumber: "7"
+phone: +49 421 5489911
+opening_hours: Mo,Fr 10:00-13:00,15:00-18:00;Tu,Th 10:00-19:00;Sa 10:00-13:00
+website: https://www.chic-chic-boutique.de/

@@ -4,8 +4,8 @@ latitude: 52.91001
 longitude: 8.8255
 postcode: "28857"
 city: Syke
-street: "Schloßweide"
-housenumber: 13
-phone: "+49 176 10145893"
-opening_hours: "nach Vereinbarung"
-website: "https://personalbeauty-syke.de"
+street: Schloßweide
+housenumber: "13"
+phone: +49 176 10145893
+opening_hours: '"nach Vereinbarung"'
+website: https://personalbeauty-syke.de

@@ -4,8 +4,8 @@ latitude: 52.38915
 longitude: 9.74874
 postcode: "30163"
 city: Hannover
-street: "Jakobistraße"
-housenumber: 12
+street: Jakobistraße
+housenumber: "12"
 phone: ""
-opening_hours: "Sa 11:00-15:00; Mo-Fr 11:00-18:30"
+opening_hours: Sa 11:00-15:00; Mo-Fr 11:00-18:30
 website: ""

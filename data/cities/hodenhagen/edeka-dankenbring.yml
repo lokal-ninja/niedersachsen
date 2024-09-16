@@ -4,8 +4,8 @@ latitude: 52.76356
 longitude: 9.58258
 postcode: "29693"
 city: Hodenhagen
-street: "Allerstraße"
-housenumber: 1
+street: Allerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-dankenbring-allerstr.-1/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-dankenbring-allerstr.-1/index.jsp

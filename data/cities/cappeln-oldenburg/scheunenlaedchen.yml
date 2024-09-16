@@ -1,11 +1,11 @@
 id: 1190796598
-type: way
+type: node
 latitude: 52.81103
 longitude: 8.06611
 postcode: "49692"
 city: Cappeln (Oldenburg)
-street: "Cappelner Straße"
-housenumber: 34
+street: Cappelner Straße
+housenumber: "34"
 phone: ""
-opening_hours: "We-Th 15:00-17:00"
+opening_hours: We-Th 15:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.34191
 longitude: 9.71459
 postcode: "30459"
 city: Hannover
-street: "Wallensteinstraße"
-housenumber: 15
+street: Wallensteinstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Th 09:00-16:30; Fr 09:00-15:00"
+opening_hours: Mo-Th 09:00-16:30; Fr 09:00-15:00
 website: ""

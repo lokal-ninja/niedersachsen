@@ -1,11 +1,11 @@
 id: 370654229
-type: way
+type: node
 latitude: 52.54992
 longitude: 8.58679
 postcode: "49419"
 city: Wagenfeld
-street: "Hauptstraße"
-housenumber: 36
+street: Hauptstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

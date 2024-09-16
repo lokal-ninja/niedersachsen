@@ -4,8 +4,8 @@ latitude: 52.38898
 longitude: 9.81157
 postcode: "30627"
 city: Hannover
-street: "Roderbruchmarkt"
-housenumber: 9
+street: Roderbruchmarkt
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "https://www.ernstings-family.de/"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: https://www.ernstings-family.de/

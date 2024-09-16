@@ -1,11 +1,11 @@
 id: 122673656
-type: way
+type: node
 latitude: 51.98694
 longitude: 9.80846
 postcode: "31061"
 city: Alfeld (Leine)
-street: "Neue Wiese"
-housenumber: 6
-phone: "+49 5181851175"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-17:00"
+street: Neue Wiese
+housenumber: "6"
+phone: +49 5181851175
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-17:00
 website: ""

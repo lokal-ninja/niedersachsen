@@ -4,8 +4,8 @@ latitude: 51.72811
 longitude: 10.25051
 postcode: "37520"
 city: Osterode am Harz
-street: "Kornmarkt"
-housenumber: 14
-phone: "+495522 3011"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.brillen-rottler.de/osterode/start/?newactive=25"
+street: Kornmarkt
+housenumber: "14"
+phone: +495522 3011
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.brillen-rottler.de/osterode/start/?newactive=25

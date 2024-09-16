@@ -4,8 +4,8 @@ latitude: 53.2961
 longitude: 7.49166
 postcode: "26802"
 city: Moormerland
-street: "Koloniestraße"
-housenumber: 56
+street: Koloniestraße
+housenumber: "56"
 phone: ""
-opening_hours: "Tu 09:00-12:00,17:00-19:00, Th 09:00-12:00,17:00-19:00"
-website: "https://www.jhtec.de/"
+opening_hours: Tu 09:00-12:00,17:00-19:00, Th 09:00-12:00,17:00-19:00
+website: https://www.jhtec.de/

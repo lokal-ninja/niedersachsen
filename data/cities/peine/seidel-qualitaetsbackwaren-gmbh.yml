@@ -1,11 +1,11 @@
 id: 365315497
-type: way
+type: node
 latitude: 52.32
 longitude: 10.25012
 postcode: "31224"
 city: Peine
-street: "Woltorfer Straße"
-housenumber: 99
-phone: "+49 5171 76500"
+street: Woltorfer Straße
+housenumber: "99"
+phone: +49 5171 76500
 opening_hours: ""
-website: "http://www.baecker-seidel.de"
+website: http://www.baecker-seidel.de

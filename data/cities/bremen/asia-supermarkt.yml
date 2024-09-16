@@ -4,8 +4,8 @@ latitude: 53.08113
 longitude: 8.81118
 postcode: "28195"
 city: Bremen
-street: "Bahnhofstraße"
-housenumber: 10
-phone: "+49 421 24278668"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "http://hualiasiashop.de/"
+street: Bahnhofstraße
+housenumber: "10"
+phone: +49 421 24278668
+opening_hours: Mo-Sa 10:00-19:30
+website: http://hualiasiashop.de/

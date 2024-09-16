@@ -4,8 +4,9 @@ latitude: 52.67431
 longitude: 7.48873
 postcode: "49740"
 city: Haselünne
-street: "Neustadtstraße"
-housenumber: 3
+street: Neustadtstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 07:30-13:00,13:45-17:00; Fr 07:30-13:00,13:45-15:45; Sa,Su,PH off"
-website: "https://www.rosche.de/"
+opening_hours: Mo-Th 07:30-13:00,13:45-17:00; Fr 07:30-13:00,13:45-15:45; Sa,Su,PH
+    off
+website: https://www.rosche.de/

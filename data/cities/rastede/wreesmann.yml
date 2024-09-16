@@ -1,11 +1,11 @@
 id: 275758363
-type: way
+type: node
 latitude: 53.2819
 longitude: 8.15771
 postcode: "26180"
 city: Rastede
-street: "Am Waldrand"
-housenumber: 12
+street: Am Waldrand
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

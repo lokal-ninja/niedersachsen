@@ -1,11 +1,11 @@
 id: 329368276
-type: way
+type: node
 latitude: 53.68563
 longitude: 8.01388
 postcode: "26434"
 city: Wangerland
-street: "Goldstraße"
-housenumber: 3
+street: Goldstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa,PH 10:00-13:00,13:30-18:00; Su off"
-website: "https://diebuecherinsel.de/"
+opening_hours: Mo-Sa,PH 10:00-13:00,13:30-18:00; Su off
+website: https://diebuecherinsel.de/

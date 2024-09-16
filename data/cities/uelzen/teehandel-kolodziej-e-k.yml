@@ -4,8 +4,8 @@ latitude: 52.96398
 longitude: 10.55857
 postcode: "29525"
 city: Uelzen
-street: "Turmstraße"
-housenumber: 2
-phone: "+49 581 16684"
-opening_hours: "Kein Verkauf im Laden. Nur im Internet"
-website: "https://www.teehandel-kolodziej-shop.de"
+street: Turmstraße
+housenumber: "2"
+phone: +49 581 16684
+opening_hours: '"Kein Verkauf im Laden. Nur im Internet"'
+website: https://www.teehandel-kolodziej-shop.de

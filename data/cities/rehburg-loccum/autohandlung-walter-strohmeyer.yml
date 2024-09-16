@@ -1,11 +1,11 @@
 id: 189509472
-type: way
+type: node
 latitude: 52.45517
 longitude: 9.15277
 postcode: "31547"
 city: Rehburg-Loccum
-street: "Leeser Straße"
-housenumber: 8
+street: Leeser Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

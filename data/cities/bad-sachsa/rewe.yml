@@ -1,11 +1,11 @@
 id: 275478555
-type: way
+type: node
 latitude: 51.59321
 longitude: 10.56266
 postcode: "37441"
 city: Bad Sachsa
-street: "Bahnhofstraße"
-housenumber: 67
-phone: "+49 5523 93161"
-opening_hours: "Mo-Th 07:00-22:00, Fr-Sa 06:00-21:00, Su off"
-website: "https://www.rewe.de/"
+street: Bahnhofstraße
+housenumber: "67"
+phone: +49 5523 93161
+opening_hours: Mo-Th 07:00-22:00, Fr-Sa 06:00-21:00, Su off
+website: https://www.rewe.de/

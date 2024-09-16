@@ -4,8 +4,8 @@ latitude: 53.28818
 longitude: 9.72594
 postcode: "21255"
 city: Tostedt
-street: "Friedrich-Vorwerk-Straße"
-housenumber: 22
-phone: "+49 4182 28250"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.gosselk.de/"
+street: Friedrich-Vorwerk-Straße
+housenumber: "22"
+phone: +49 4182 28250
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.gosselk.de/

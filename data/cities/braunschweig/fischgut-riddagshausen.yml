@@ -1,11 +1,12 @@
 id: 34094548
-type: way
+type: node
 latitude: 52.27608
 longitude: 10.57918
 postcode: "38104"
 city: Braunschweig
-street: "Fischerweg"
-housenumber: 1
+street: Fischerweg
+housenumber: "1"
 phone: "+49531377291"
-opening_hours: "Mo off; Su 10:00-12:30; Mar 1-Nov14: Tu-Sa 10:00-12:30,13:30-18:00; Nov 15-Feb 28: Tu-Sa 10:00-12:30,13:30-17:00"
-website: "https://www.fischereibetriebe-luebbe.de/standorte/riddagshausen/direktverkauf/"
+opening_hours: 'Mo off; Su 10:00-12:30; Mar 1-Nov14: Tu-Sa 10:00-12:30,13:30-18:00;
+    Nov 15-Feb 28: Tu-Sa 10:00-12:30,13:30-17:00'
+website: https://www.fischereibetriebe-luebbe.de/standorte/riddagshausen/direktverkauf/

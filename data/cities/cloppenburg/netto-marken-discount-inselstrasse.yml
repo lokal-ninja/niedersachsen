@@ -1,11 +1,11 @@
 id: 515299870
-type: way
+type: node
 latitude: 52.85493
 longitude: 8.03249
 postcode: "49661"
 city: Cloppenburg
-street: "Inselstraße"
-housenumber: 72
+street: Inselstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

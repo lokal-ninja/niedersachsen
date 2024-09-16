@@ -1,11 +1,11 @@
 id: 187025822
-type: way
+type: node
 latitude: 52.36531
 longitude: 9.69046
 postcode: "30453"
 city: Hannover
-street: "Davenstedter Straße"
-housenumber: 
+street: Davenstedter Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.23408
 longitude: 9.85396
 postcode: "31157"
 city: Sarstedt
-street: "Steinstraße"
-housenumber: 26
+street: Steinstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00"
-website: "https://www.petriundwaller.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-13:00
+website: https://www.petriundwaller.de/

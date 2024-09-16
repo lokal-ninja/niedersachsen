@@ -1,11 +1,11 @@
 id: 54150274
-type: way
+type: node
 latitude: 51.92945
 longitude: 9.64382
 postcode: "37632"
 city: Eschershausen
-street: "Mühlenbergstraße"
+street: Mühlenbergstraße
 housenumber: 17A
 phone: ""
-opening_hours: "Mo-Sa 007:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 007:00-21:00
+website: https://www.netto-online.de/

@@ -1,11 +1,11 @@
 id: 289726487
-type: way
+type: node
 latitude: 53.00421
 longitude: 8.77943
 postcode: "28816"
 city: Stuhr
-street: "Bassumer Straße"
-housenumber: 103
-phone: "+49 421-8091766"
-opening_hours: "Tu-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00"
-website: "www.leporello-brinkum.de"
+street: Bassumer Straße
+housenumber: "103"
+phone: +49 421-8091766
+opening_hours: Tu-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00
+website: www.leporello-brinkum.de

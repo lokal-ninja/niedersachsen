@@ -1,11 +1,11 @@
 id: 182135801
-type: way
+type: node
 latitude: 52.95044
 longitude: 8.10249
 postcode: "49681"
 city: Garrel
-street: "Beverbrucher Damm"
-housenumber: 55
+street: Beverbrucher Damm
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 06:00-11:00; Sa 06:30-11:00; Su 07:30-10:30"
+opening_hours: Mo-Fr 06:00-11:00; Sa 06:30-11:00; Su 07:30-10:30
 website: ""

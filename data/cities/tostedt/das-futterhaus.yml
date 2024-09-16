@@ -4,8 +4,8 @@ latitude: 53.26748
 longitude: 9.72882
 postcode: "21255"
 city: Tostedt
-street: "Zinnhütte"
-housenumber: 1
-phone: "+49 4182 292016"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.futterhaus.de/"
+street: Zinnhütte
+housenumber: "1"
+phone: +49 4182 292016
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.futterhaus.de/

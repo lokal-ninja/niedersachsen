@@ -1,11 +1,11 @@
 id: 203526380
-type: way
+type: node
 latitude: 51.80506
 longitude: 10.33472
 postcode: "38678"
 city: Clausthal-Zellerfeld
-street: "Adolph-Roemer-Straße"
-housenumber: 2
+street: Adolph-Roemer-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

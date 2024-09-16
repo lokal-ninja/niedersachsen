@@ -1,11 +1,11 @@
 id: 124892725
-type: way
+type: node
 latitude: 52.21658
 longitude: 9.56854
 postcode: "31832"
 city: Springe
-street: "Philipp-Reis-Straße"
-housenumber: 20
+street: Philipp-Reis-Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

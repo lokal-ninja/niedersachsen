@@ -1,11 +1,11 @@
 id: 237941293
-type: way
+type: node
 latitude: 51.5454
 longitude: 9.93681
 postcode: "37075"
 city: Göttingen
-street: "Beyerstraße"
-housenumber: 25
-phone: "+49 551 31827"
-opening_hours: "Mo-Fr 09:00-18:00; PH closed"
-website: "https://www.hair-rein.de/"
+street: Beyerstraße
+housenumber: "25"
+phone: +49 551 31827
+opening_hours: Mo-Fr 09:00-18:00; PH closed
+website: https://www.hair-rein.de/

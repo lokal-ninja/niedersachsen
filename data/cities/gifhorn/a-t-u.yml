@@ -1,11 +1,11 @@
 id: 96975557
-type: way
+type: node
 latitude: 52.46322
 longitude: 10.53908
 postcode: "38518"
 city: Gifhorn
-street: "Eyßelheideweg"
-housenumber: 6
+street: Eyßelheideweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

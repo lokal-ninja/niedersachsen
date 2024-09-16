@@ -1,11 +1,11 @@
 id: 161366617
-type: way
+type: node
 latitude: 53.36175
 longitude: 7.17006
 postcode: "26723"
 city: Emden
-street: "Thüringer Straße"
-housenumber: 9
+street: Thüringer Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

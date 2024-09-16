@@ -1,11 +1,11 @@
 id: 1199016776
-type: way
+type: node
 latitude: 51.69879
 longitude: 9.99234
 postcode: "37154"
 city: Northeim
-street: "Eichstätte"
-housenumber: 1
+street: Eichstätte
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 168599651
-type: way
+type: node
 latitude: 52.47807
 longitude: 10.53681
 postcode: "38518"
 city: Gifhorn
-street: "Bahnhofstraße"
-housenumber: 20
+street: Bahnhofstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

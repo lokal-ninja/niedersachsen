@@ -1,11 +1,11 @@
 id: 116419705
-type: way
+type: node
 latitude: 52.38703
 longitude: 9.72533
 postcode: "30167"
 city: Hannover
-street: "Kornstraße"
-housenumber: 34
+street: Kornstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

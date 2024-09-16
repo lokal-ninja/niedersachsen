@@ -4,8 +4,8 @@ latitude: 52.69048
 longitude: 7.29068
 postcode: "49716"
 city: Meppen
-street: "Nagelshof"
-housenumber: 4
-phone: "+49 5931-12258"
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
-website: "http://www.geyer-meppen.de/"
+street: Nagelshof
+housenumber: "4"
+phone: +49 5931-12258
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
+website: http://www.geyer-meppen.de/

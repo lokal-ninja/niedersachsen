@@ -1,11 +1,11 @@
 id: 25102709
-type: way
+type: node
 latitude: 52.3688
 longitude: 10.73091
 postcode: "38444"
 city: Wolfsburg
-street: "Brandgehaege"
-housenumber: 3
+street: Brandgehaege
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/wolfsburg-411"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/wolfsburg-411

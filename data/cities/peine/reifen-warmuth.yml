@@ -1,11 +1,11 @@
 id: 355442933
-type: way
+type: node
 latitude: 52.32046
 longitude: 10.2269
 postcode: "31224"
 city: Peine
-street: "Wallstraße"
-housenumber: 43
-phone: "+49 5171 15728"
+street: Wallstraße
+housenumber: "43"
+phone: +49 5171 15728
 opening_hours: ""
-website: "http://www.reifen-warmuth.de"
+website: http://www.reifen-warmuth.de

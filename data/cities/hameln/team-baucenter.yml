@@ -1,11 +1,11 @@
 id: 168567481
-type: way
+type: node
 latitude: 52.11695
 longitude: 9.34709
 postcode: "31785"
 city: Hameln
-street: "Wehrberger Straße"
-housenumber: 34
+street: Wehrberger Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:30; Fr 07:00-16:00; Sa 08:00-13:00; PH off"
+opening_hours: Mo-Th 07:00-17:30; Fr 07:00-16:00; Sa 08:00-13:00; PH off
 website: ""

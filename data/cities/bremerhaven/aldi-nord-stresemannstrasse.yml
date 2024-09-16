@@ -1,11 +1,11 @@
 id: 174098784
-type: way
+type: node
 latitude: 53.55827
 longitude: 8.59441
 postcode: "27576"
 city: Bremerhaven
-street: "Stresemannstraße"
-housenumber: 150
+street: Stresemannstraße
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/bremerhaven/stresemannstrasse-150/3180950"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/bremerhaven/stresemannstrasse-150/3180950

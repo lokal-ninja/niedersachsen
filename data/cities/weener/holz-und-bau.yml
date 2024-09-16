@@ -1,11 +1,11 @@
 id: 303153898
-type: way
+type: node
 latitude: 53.16881
 longitude: 7.35039
 postcode: "26826"
 city: Weener
-street: "Neue Feldstraße"
-housenumber: 2
+street: Neue Feldstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.holz-und-bau.de/"
+website: https://www.holz-und-bau.de/

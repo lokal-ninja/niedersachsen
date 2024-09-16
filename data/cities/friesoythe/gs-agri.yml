@@ -1,11 +1,11 @@
 id: 916503111
-type: way
+type: node
 latitude: 52.97681
 longitude: 7.77506
 postcode: "26169"
 city: Friesoythe
-street: "Bergstraße"
-housenumber: 5
+street: Bergstraße
+housenumber: "5"
 phone: "+4944478020"
 opening_hours: ""
-website: "https://www.gs-genossenschaft.de/agri"
+website: https://www.gs-genossenschaft.de/agri

@@ -1,11 +1,11 @@
 id: 336245933
-type: way
+type: node
 latitude: 52.90545
 longitude: 8.73867
 postcode: "27211"
 city: Bassum
-street: "Nordwohlder Dorfstraße"
-housenumber: 21
-phone: "+49 4249 644"
+street: Nordwohlder Dorfstraße
+housenumber: "21"
+phone: +49 4249 644
 opening_hours: ""
-website: "http://www.nordwohlder-muehle.de"
+website: http://www.nordwohlder-muehle.de

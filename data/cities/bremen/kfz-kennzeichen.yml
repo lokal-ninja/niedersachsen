@@ -1,11 +1,11 @@
 id: 243635710
-type: way
+type: node
 latitude: 53.17271
 longitude: 8.61593
 postcode: "28757"
 city: Bremen
-street: "Albrecht-Roth-Straße"
-housenumber: 2
+street: Albrecht-Roth-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

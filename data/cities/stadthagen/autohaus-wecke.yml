@@ -1,11 +1,12 @@
 id: 206881122
-type: way
+type: node
 latitude: 52.32945
 longitude: 9.22371
 postcode: "31655"
 city: Stadthagen
-street: "Vornhäger Straße"
-housenumber: 61
-phone: "+49 5721 937250"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00 Verkauf, Mo-Th 07:45-16:30, Fr 07:45-13:00 Werkstatt"
-website: "https://www.autohaus-wecke.de/"
+street: Vornhäger Straße
+housenumber: "61"
+phone: +49 5721 937250
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00 "Verkauf", Mo-Th 07:45-16:30, Fr
+    07:45-13:00 "Werkstatt"
+website: https://www.autohaus-wecke.de/

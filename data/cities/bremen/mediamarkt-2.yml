@@ -1,11 +1,11 @@
 id: 373751713
-type: way
+type: node
 latitude: 53.1123
 longitude: 8.74919
 postcode: ""
 city: Bremen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/bremen-waterfront-259"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/bremen-waterfront-259

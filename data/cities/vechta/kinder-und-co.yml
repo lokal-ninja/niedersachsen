@@ -1,11 +1,11 @@
 id: 93996270
-type: way
+type: node
 latitude: 52.71055
 longitude: 8.2833
 postcode: "49377"
 city: Vechta
-street: "Lohner Straße"
-housenumber: 32
+street: Lohner Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00; PH off"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-18:00; PH off
 website: ""

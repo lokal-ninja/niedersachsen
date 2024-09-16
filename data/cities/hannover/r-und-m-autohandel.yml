@@ -1,11 +1,11 @@
 id: 127185472
-type: way
+type: node
 latitude: 52.38679
 longitude: 9.72738
 postcode: "30167"
 city: Hannover
-street: "Weidendamm"
-housenumber: 33
-phone: "+49 511 15761"
+street: Weidendamm
+housenumber: "33"
+phone: +49 511 15761
 opening_hours: ""
 website: ""

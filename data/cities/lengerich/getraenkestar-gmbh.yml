@@ -1,11 +1,11 @@
 id: 883439777
-type: way
+type: node
 latitude: 52.55381
 longitude: 7.52726
 postcode: "49838"
 city: Lengerich
-street: "Mühlenstraße"
-housenumber: 20
+street: Mühlenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:00"
-website: "http://www.getränke-könning.de"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-15:00
+website: http://www.getränke-könning.de

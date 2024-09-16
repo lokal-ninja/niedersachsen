@@ -1,11 +1,11 @@
 id: 19786716
-type: way
+type: node
 latitude: 52.81028
 longitude: 9.97214
 postcode: "29303"
 city: Bergen
-street: "Bahnhofstraße"
-housenumber: 47
+street: Bahnhofstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

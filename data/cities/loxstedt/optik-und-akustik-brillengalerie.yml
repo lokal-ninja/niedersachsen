@@ -1,11 +1,11 @@
 id: 223577728
-type: way
+type: node
 latitude: 53.47348
 longitude: 8.65298
 postcode: "27612"
 city: Loxstedt
-street: "Bahnhofstraße"
-housenumber: 11
-phone: "+49 4744 3033"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00;Sa 09:00-13:00"
-website: "https://www.brillengalerie-thun.de/"
+street: Bahnhofstraße
+housenumber: "11"
+phone: +49 4744 3033
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00;Sa 09:00-13:00
+website: https://www.brillengalerie-thun.de/

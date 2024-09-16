@@ -1,11 +1,11 @@
 id: 190904418
-type: way
+type: node
 latitude: 53.17009
 longitude: 8.62559
 postcode: "28757"
 city: Bremen
-street: "Alte Hafenstraße"
-housenumber: 15
+street: Alte Hafenstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.scharringhausen.de/"
+website: https://www.scharringhausen.de/

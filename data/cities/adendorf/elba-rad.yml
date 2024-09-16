@@ -1,11 +1,11 @@
 id: 193462081
-type: way
+type: node
 latitude: 53.2975
 longitude: 10.42996
 postcode: "21365"
 city: Adendorf
-street: "Elba"
+street: Elba
 housenumber: 4a
-phone: "+49 4131 187458"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://elbarad.de/"
+phone: +49 4131 187458
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://elbarad.de/

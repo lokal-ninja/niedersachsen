@@ -4,8 +4,8 @@ latitude: 53.45886
 longitude: 7.49859
 postcode: "26603"
 city: Aurich
-street: "Raiffeisenstraße"
-housenumber: 13
-phone: "+49 4941950990"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-16:30"
-website: "https://wiesmoor-blumencenter.de/"
+street: Raiffeisenstraße
+housenumber: "13"
+phone: +49 4941950990
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-16:30
+website: https://wiesmoor-blumencenter.de/

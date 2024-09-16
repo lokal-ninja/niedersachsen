@@ -4,8 +4,8 @@ latitude: 53.08775
 longitude: 9.17657
 postcode: "27367"
 city: Sottrum
-street: "Everinghauser Straße"
-housenumber: 200
-phone: "+49 4205 491"
-opening_hours: "24/7"
-website: "https://www.aral.de/"
+street: Everinghauser Straße
+housenumber: "200"
+phone: +49 4205 491
+opening_hours: 24/7
+website: https://www.aral.de/

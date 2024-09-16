@@ -4,8 +4,8 @@ latitude: 52.45678
 longitude: 9.36079
 postcode: "31515"
 city: Wunstorf
-street: "Bleichenstraße"
-housenumber: 2
+street: Bleichenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-11:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-11:00
 website: ""

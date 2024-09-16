@@ -1,11 +1,11 @@
 id: 223109796
-type: way
+type: node
 latitude: 53.3775
 longitude: 10.03507
 postcode: "21220"
 city: Seevetal
-street: "Horster Landstraße"
-housenumber: 117
+street: Horster Landstraße
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

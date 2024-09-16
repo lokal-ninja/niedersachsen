@@ -1,11 +1,11 @@
 id: 437251111
-type: way
+type: node
 latitude: 52.86356
 longitude: 9.61348
 postcode: "29664"
 city: Walsrode
-street: "Heinrich-Hertz-Straße"
-housenumber: 2
+street: Heinrich-Hertz-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.matratzen-concord.de/filialen/walsrode/B305.html"
+website: https://www.matratzen-concord.de/filialen/walsrode/B305.html

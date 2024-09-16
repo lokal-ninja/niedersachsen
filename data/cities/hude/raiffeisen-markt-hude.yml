@@ -1,11 +1,11 @@
 id: 223183338
-type: way
+type: node
 latitude: 53.10739
 longitude: 8.46876
 postcode: "27798"
 city: Hude
-street: "Langenberger Straße"
-housenumber: 2
+street: Langenberger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-16:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-16:00
 website: ""

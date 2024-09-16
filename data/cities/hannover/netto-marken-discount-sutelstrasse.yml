@@ -1,11 +1,11 @@
 id: 205850373
-type: way
+type: node
 latitude: 52.41042
 longitude: 9.80065
 postcode: "30659"
 city: Hannover
-street: "Sutelstraße"
+street: Sutelstraße
 housenumber: 10A
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

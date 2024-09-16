@@ -1,11 +1,11 @@
 id: 210932539
-type: way
+type: node
 latitude: 52.42204
 longitude: 10.72241
 postcode: "38442"
 city: Wolfsburg
-street: "Wolfsburger Landstraße"
-housenumber: 4
+street: Wolfsburger Landstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.sv-wichmann.de/Unsere-Standorte/Zweigstelle-WOB/Fallersleben"
+website: https://www.sv-wichmann.de/Unsere-Standorte/Zweigstelle-WOB/Fallersleben

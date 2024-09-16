@@ -1,11 +1,11 @@
 id: 317074166
-type: way
+type: node
 latitude: 53.18428
 longitude: 8.20642
 postcode: "26125"
 city: Oldenburg
-street: "Stiekelkamp"
-housenumber: 15
+street: Stiekelkamp
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

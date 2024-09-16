@@ -1,11 +1,11 @@
 id: 90293475
-type: way
+type: node
 latitude: 53.44089
 longitude: 7.85462
 postcode: ""
 city: Friedeburg
-street: "Im Gewerbepark"
-housenumber: 1
-phone: "+49-4465-942142"
+street: Im Gewerbepark
+housenumber: "1"
+phone: +49-4465-942142
 opening_hours: ""
 website: ""

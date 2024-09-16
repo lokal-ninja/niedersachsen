@@ -4,8 +4,8 @@ latitude: 53.13984
 longitude: 7.60765
 postcode: "26842"
 city: Ostrhauderfehn
-street: "Hauptstraße"
-housenumber: 48
+street: Hauptstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.aktionshaus-wreesmann.de/"
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.aktionshaus-wreesmann.de/

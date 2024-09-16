@@ -1,11 +1,11 @@
 id: 264004132
-type: way
+type: node
 latitude: 52.89962
 longitude: 8.20135
 postcode: "26197"
 city: Großenkneten
-street: "Zeppelinring"
-housenumber: 1
-phone: "+49 4435 92292"
-opening_hours: "Mo-Th 8:15-17:15; Fr 08:15-15:00"
+street: Zeppelinring
+housenumber: "1"
+phone: +49 4435 92292
+opening_hours: Mo-Th 8:15-17:15; Fr 08:15-15:00
 website: ""

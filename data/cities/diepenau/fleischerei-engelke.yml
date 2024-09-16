@@ -4,8 +4,8 @@ latitude: 52.44831
 longitude: 8.73253
 postcode: "31603"
 city: Diepenau
-street: "Neustadt"
-housenumber: 7
-phone: "+49 5777 335"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-13:00"
-website: "https://www.landschlachterei-engelke.de/"
+street: Neustadt
+housenumber: "7"
+phone: +49 5777 335
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:00-13:00
+website: https://www.landschlachterei-engelke.de/

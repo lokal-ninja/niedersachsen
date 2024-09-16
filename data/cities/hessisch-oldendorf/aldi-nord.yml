@@ -1,11 +1,11 @@
 id: 573997084
-type: way
+type: node
 latitude: 52.16953
 longitude: 9.24029
 postcode: "31840"
 city: Hessisch Oldendorf
-street: "Welseder Straße"
-housenumber: 6
+street: Welseder Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

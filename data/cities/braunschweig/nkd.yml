@@ -1,11 +1,11 @@
 id: 44032137
-type: way
+type: node
 latitude: 52.27432
 longitude: 10.47895
 postcode: "38116"
 city: Braunschweig
-street: "Sulzbacher Straße"
-housenumber: 45
+street: Sulzbacher Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

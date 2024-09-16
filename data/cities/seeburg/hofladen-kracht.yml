@@ -4,8 +4,8 @@ latitude: 51.56223
 longitude: 10.14839
 postcode: "37136"
 city: Seeburg
-street: "Eichsfeldstraße"
-housenumber: 2
+street: Eichsfeldstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 09:00-13:00, Tu,Th,Fr 15:00-18:00; PH off"
+opening_hours: Mo,Tu,Th-Sa 09:00-13:00, Tu,Th,Fr 15:00-18:00; PH off
 website: ""

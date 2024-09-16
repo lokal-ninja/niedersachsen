@@ -1,11 +1,11 @@
 id: 466164068
-type: way
+type: node
 latitude: 53.42691
 longitude: 7.10194
 postcode: "26736"
 city: Krummhörn
-street: "Hermann-Scheer-Straße"
-housenumber: 1
+street: Hermann-Scheer-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

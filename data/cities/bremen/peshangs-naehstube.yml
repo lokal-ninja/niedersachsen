@@ -1,11 +1,11 @@
 id: 244835750
-type: way
+type: node
 latitude: 53.18244
 longitude: 8.69698
 postcode: "28717"
 city: Bremen
-street: "Bördestraße"
-housenumber: 110
+street: Bördestraße
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

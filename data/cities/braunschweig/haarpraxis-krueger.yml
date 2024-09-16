@@ -4,8 +4,8 @@ latitude: 52.26149
 longitude: 10.52517
 postcode: "38100"
 city: Braunschweig
-street: "Waisenhausdamm"
-housenumber: 7
+street: Waisenhausdamm
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.haarpraxis-krueger.de/index.php"
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.haarpraxis-krueger.de/index.php

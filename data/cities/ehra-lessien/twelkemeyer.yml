@@ -1,11 +1,11 @@
 id: 167879239
-type: way
+type: node
 latitude: 52.5686
 longitude: 10.78703
 postcode: "38468"
 city: Ehra-Lessien
-street: "Gifhorner Straße"
-housenumber: 1
+street: Gifhorner Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.45388
 longitude: 9.35871
 postcode: "31515"
 city: Wunstorf
-street: "Leinenweberstraße"
-housenumber: 14
-phone: "+49 5033 912869"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH 07:00-13:00"
-website: "https://www.baeckerei-vatter.de/"
+street: Leinenweberstraße
+housenumber: "14"
+phone: +49 5033 912869
+opening_hours: Mo-Sa 07:00-20:00; Su,PH 07:00-13:00
+website: https://www.baeckerei-vatter.de/

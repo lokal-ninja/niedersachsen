@@ -4,8 +4,8 @@ latitude: 52.37456
 longitude: 9.73898
 postcode: "30159"
 city: Hannover
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

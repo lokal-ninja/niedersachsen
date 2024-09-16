@@ -1,11 +1,11 @@
 id: 241104814
-type: way
+type: node
 latitude: 52.15716
 longitude: 10.34825
 postcode: "38229"
 city: Salzgitter
-street: "Schlosserstraße"
-housenumber: 1
+street: Schlosserstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

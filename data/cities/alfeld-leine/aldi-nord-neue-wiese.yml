@@ -1,11 +1,11 @@
 id: 124965025
-type: way
+type: node
 latitude: 51.98752
 longitude: 9.80444
 postcode: "31061"
 city: Alfeld (Leine)
-street: "Neue Wiese"
-housenumber: 13
+street: Neue Wiese
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/alfeld/neue-wiese-13.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/niedersachsen/alfeld/neue-wiese-13.html

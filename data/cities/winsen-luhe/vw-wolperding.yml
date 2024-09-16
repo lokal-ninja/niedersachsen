@@ -1,11 +1,11 @@
 id: 73599984
-type: way
+type: node
 latitude: 53.35729
 longitude: 10.20209
 postcode: "21423"
 city: Winsen (Luhe)
-street: "Schloßring"
-housenumber: 48
+street: Schloßring
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

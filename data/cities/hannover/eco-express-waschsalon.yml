@@ -4,8 +4,8 @@ latitude: 52.37005
 longitude: 9.75703
 postcode: "30171"
 city: Hannover
-street: "Marienstraße"
-housenumber: 94
+street: Marienstraße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.waschsalon.de/waschsalon-hannover/#marienstrasse-94"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.waschsalon.de/waschsalon-hannover/#marienstrasse-94

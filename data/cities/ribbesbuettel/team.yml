@@ -1,11 +1,11 @@
 id: 168231236
-type: way
+type: node
 latitude: 52.43293
 longitude: 10.48541
 postcode: "38551"
 city: Ribbesbüttel
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

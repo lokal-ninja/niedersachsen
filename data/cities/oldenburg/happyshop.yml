@@ -1,11 +1,11 @@
 id: 389629318
-type: way
+type: node
 latitude: 53.1419
 longitude: 8.1635
 postcode: "26129"
 city: Oldenburg
-street: "Bloherfelder Straße"
-housenumber: 176
+street: Bloherfelder Straße
+housenumber: "176"
 phone: ""
-opening_hours: "Mo-Fr 06:30-22:00; Sa 08:00-22:00; PH,Su 09:00-21:00"
+opening_hours: Mo-Fr 06:30-22:00; Sa 08:00-22:00; PH,Su 09:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 397113544
-type: way
+type: node
 latitude: 51.56278
 longitude: 9.92396
 postcode: "37077"
 city: Göttingen
-street: "Reinhard-Rube-Straße"
-housenumber: 10
+street: Reinhard-Rube-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "PH off; Mo-Th 08:30-17:30; Fr 08:30-16:00"
+opening_hours: PH off; Mo-Th 08:30-17:30; Fr 08:30-16:00
 website: ""

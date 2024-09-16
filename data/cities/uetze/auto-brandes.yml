@@ -1,11 +1,11 @@
 id: 90900833
-type: way
+type: node
 latitude: 52.4643
 longitude: 10.19974
 postcode: "31311"
 city: Uetze
-street: "Burgdorfer Straße"
-housenumber: 16
-phone: "+49 5173 459"
-opening_hours: "Mo-Fr 8:00-13:00, 14:00-17:00"
-website: "http://www.auto-brandes.de"
+street: Burgdorfer Straße
+housenumber: "16"
+phone: +49 5173 459
+opening_hours: Mo-Fr 8:00-13:00, 14:00-17:00
+website: http://www.auto-brandes.de

@@ -1,11 +1,11 @@
 id: 48867826
-type: way
+type: node
 latitude: 52.45897
 longitude: 10.53856
 postcode: "38518"
 city: Gifhorn
-street: "Hugo-Junkers-Straße"
-housenumber: 8
+street: Hugo-Junkers-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

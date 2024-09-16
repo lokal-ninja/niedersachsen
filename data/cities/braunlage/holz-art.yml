@@ -1,11 +1,11 @@
 id: 175012578
-type: way
+type: node
 latitude: 51.72713
 longitude: 10.61195
 postcode: "38700"
 city: Braunlage
-street: "Marktstraße"
-housenumber: 15
-phone: "+49 5520 1669, mobil: +49 171 5728357"
-opening_hours: "Tu 15:00-18:00; We 11:00-14:00; Th 15:00-18:00"
+street: Marktstraße
+housenumber: "15"
+phone: '+49 5520 1669, mobil: +49 171 5728357'
+opening_hours: Tu 15:00-18:00; We 11:00-14:00; Th 15:00-18:00
 website: ""

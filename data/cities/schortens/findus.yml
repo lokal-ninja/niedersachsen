@@ -1,11 +1,11 @@
 id: 150128253
-type: way
+type: node
 latitude: 53.54299
 longitude: 7.94751
 postcode: "26419"
 city: Schortens
-street: "Bahnhofstraße"
-housenumber: 1
-phone: "+49 4461 7457874"
+street: Bahnhofstraße
+housenumber: "1"
+phone: +49 4461 7457874
 opening_hours: ""
 website: ""

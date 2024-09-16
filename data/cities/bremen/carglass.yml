@@ -1,11 +1,11 @@
 id: 52194743
-type: way
+type: node
 latitude: 53.1388
 longitude: 8.72342
 postcode: "28239"
 city: Bremen
-street: "Oslebshauser Heerstraße"
-housenumber: 279
+street: Oslebshauser Heerstraße
+housenumber: "279"
 phone: ""
 opening_hours: ""
 website: ""

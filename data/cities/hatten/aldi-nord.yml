@@ -1,11 +1,11 @@
 id: 28990493
-type: way
+type: node
 latitude: 53.02358
 longitude: 8.34683
 postcode: "26209"
 city: Hatten
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.aldi-nord.de/

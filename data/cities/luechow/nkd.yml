@@ -4,8 +4,8 @@ latitude: 52.96764
 longitude: 11.15318
 postcode: "29439"
 city: Lüchow
-street: "Lange Straße"
-housenumber: 34
-phone: "+49 5841 961350"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.nkd.de/"
+street: Lange Straße
+housenumber: "34"
+phone: +49 5841 961350
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.nkd.de/

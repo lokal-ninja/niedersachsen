@@ -1,11 +1,11 @@
 id: 203871463
-type: way
+type: node
 latitude: 52.30736
 longitude: 9.72814
 postcode: "30966"
 city: Hemmingen
-street: "Beethovenstraße"
-housenumber: 2
+street: Beethovenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

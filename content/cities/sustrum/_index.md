@@ -1,6 +1,6 @@
 ---
 title: Sustrum
 url: /sustrum/
-latitude: 52.899
-longitude: 7.17
+latitude: 52.912
+longitude: 7.285
 ---

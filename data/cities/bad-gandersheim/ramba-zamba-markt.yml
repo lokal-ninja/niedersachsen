@@ -7,5 +7,5 @@ city: Bad Gandersheim
 street: Northeimer Straße
 housenumber: "14"
 phone: +49 5382 932745
-opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+opening_hours: Mo,Tu,Th,Fr 10:00-19:00; Sa 10:00-16:00; We,Su,PH off
 website: http://www.rambazambamarkt.de

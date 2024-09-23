@@ -7,5 +7,6 @@ city: Wilhelmshaven
 street: Bismarckstraße
 housenumber: "103"
 phone: ""
-opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa 09:00-13:00
+opening_hours: Mo 09:00-13:00,14:00-18:00; Tu 09:00-13:00,14:00-18:00; We 09:00-13:00,14:00-18:00;
+    Th 09:00-13:00,14:00-18:00; Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
 website: ""

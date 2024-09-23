@@ -7,5 +7,6 @@ city: Osterode am Harz
 street: Johannistorstraße
 housenumber: "3"
 phone: +49 5522 4001
-opening_hours: ""
+opening_hours: Mo,Tu 09:00-13:00,14:30-18:00; We 09:00-14:30; Th,Fr 09:00-13:00,14:30-18:00;
+    PH off
 website: ""

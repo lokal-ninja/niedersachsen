@@ -7,5 +7,6 @@ city: Osnabrück
 street: Lieneschweg
 housenumber: "103"
 phone: ""
-opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-13:00; Su,PH off
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-14:15; Su,PH off || 0:00-24:00 "Notdienst
+    'ANS – Assistance Non Stop' unter 00800 48326000"
 website: ""

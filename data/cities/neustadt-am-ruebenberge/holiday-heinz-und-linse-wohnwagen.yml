@@ -7,5 +7,6 @@ city: Neustadt am Rübenberge
 street: Ernst-Abbe-Ring
 housenumber: "15"
 phone: +49 5032 9667910
-opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+opening_hours: 'Feb-Nov: Mo-Fr 09:30-18:00; Feb-Nov: Sa 09:30-13:00; Dec-Jan: Mo-Fr
+    09:30-17:00; Dec-Jan: Sa 09:30-13:00'
 website: ""

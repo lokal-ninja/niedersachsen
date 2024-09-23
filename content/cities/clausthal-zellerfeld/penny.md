@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "Penny"
 url: /clausthal-zellerfeld/penny/
 shop: Supermarkt
 ---

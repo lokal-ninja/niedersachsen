@@ -1,5 +1,5 @@
 ---
-title: "Eyes + More"
+title: "eyes + more"
 url: /langenhagen/eyes-more/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Equitabis"
 url: /oldenburg/equitabis/
-shop: Allgemein
+shop: Pferde
 ---

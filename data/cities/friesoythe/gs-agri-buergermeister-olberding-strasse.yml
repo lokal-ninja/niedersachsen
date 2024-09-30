@@ -5,8 +5,7 @@ longitude: 7.88207
 postcode: "26169"
 city: Friesoythe
 street: Bürgermeister-Olberding-Straße
-housenumber: ""
+housenumber: "4"
 phone: ""
-opening_hours: Mo 08:00-12:30,13:30-17:00; Tu 08:00-12:30; We 08:00-12:30,13:30-17:00;
-    Th 08:00-12:30; Fr 08:00-12:30,13:30-17:00
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00
 website: ""

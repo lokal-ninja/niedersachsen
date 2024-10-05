@@ -1,6 +1,6 @@
 ---
 title: Hilgermissen
 url: /hilgermissen/
-latitude: 52.84
-longitude: 9.126
+latitude: 52.855
+longitude: 9.112
 ---

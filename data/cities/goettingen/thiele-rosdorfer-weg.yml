@@ -7,5 +7,5 @@ city: Göttingen
 street: Rosdorfer Weg
 housenumber: "12"
 phone: ""
-opening_hours: '"Diese Filiale ist vorübergehend geschlossen"'
+opening_hours: off "Gebäudemodernisierung"
 website: ""

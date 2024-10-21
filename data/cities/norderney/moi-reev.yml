@@ -7,5 +7,5 @@ city: Norderney
 street: Benekestraße
 housenumber: "50"
 phone: ""
-opening_hours: Mo-We 10:30-12:30
+opening_hours: Mo,Th-Sa 10:30-12:30, Mo,Th,Fr 16:00-18:00
 website: https://www.moi-reev.de/

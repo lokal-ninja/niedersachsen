@@ -1,5 +1,5 @@
 ---
-title: "happyshop"
+title: "HappyShop"
 url: /oldenburg/happyshop/
 shop: Kiosk
 ---

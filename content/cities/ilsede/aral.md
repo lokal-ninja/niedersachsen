@@ -1,5 +1,5 @@
 ---
-title: "Aral"
+title: "ARAL"
 url: /ilsede/aral/
 shop: Kiosk
 ---

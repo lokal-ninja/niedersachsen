@@ -1,5 +1,5 @@
 ---
 title: "Recycling-Börse Hastedt"
 url: /bremen/recycling-boerse-hastedt/
-shop: Lebensmittel
+shop: Gebrauchtwaren
 ---

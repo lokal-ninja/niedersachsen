@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /hannover/tedi/
-shop: Haushaltsartikel
+shop: Kramladen
 ---

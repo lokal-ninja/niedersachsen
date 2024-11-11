@@ -1,6 +1,6 @@
 ---
 title: Diepenau
 url: /diepenau/
-latitude: 52.448
-longitude: 8.733
+latitude: 52.421
+longitude: 8.739
 ---

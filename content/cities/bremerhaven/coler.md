@@ -1,5 +1,5 @@
 ---
 title: "Coler"
 url: /bremerhaven/coler/
-shop: Allgemein
+shop: Autoteile
 ---

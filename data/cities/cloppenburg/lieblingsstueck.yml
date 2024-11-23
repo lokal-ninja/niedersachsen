@@ -7,6 +7,6 @@ city: Cloppenburg
 street: Eschstraße
 housenumber: "38"
 phone: ""
-opening_hours: We 14:30-18:00; Th 11:00-18:00; Fr 10:00-12:30,14:30-18:00; Sa 10:00-13:00;
-    PH,Su-Tu off
+opening_hours: Mo-Tu,Su,PH off; We 14:30-18:00; Th 13:00-18:00; Fr 10:00-12:30,14:30-18:00;
+    Sa 10:00-13:00
 website: ""

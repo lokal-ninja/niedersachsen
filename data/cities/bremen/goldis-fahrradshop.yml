@@ -7,5 +7,5 @@ city: Bremen
 street: Haverbecker Weg
 housenumber: "7"
 phone: +49 421 466070
-opening_hours: Mo-Tu,Th-Fr 15:00-18:00; We,Sa 09:30-13:00
+opening_hours: Mo,Tu,Th,Fr 15:00-18:00, Mo-Sa 09:30-13:00
 website: ""

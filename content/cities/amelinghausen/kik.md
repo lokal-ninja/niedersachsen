@@ -1,5 +1,5 @@
 ---
-title: "Kik"
+title: "KiK"
 url: /amelinghausen/kik/
-shop: Modehaus
+shop: Kleidung
 ---

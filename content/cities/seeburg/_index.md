@@ -1,6 +1,6 @@
 ---
 title: Seeburg
 url: /seeburg/
-latitude: 51.566
-longitude: 10.136
+latitude: 51.563
+longitude: 10.139
 ---

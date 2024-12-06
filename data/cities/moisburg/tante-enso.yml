@@ -7,5 +7,6 @@ city: Moisburg
 street: Auf dem Damm
 housenumber: "16"
 phone: "+4941652229322"
-opening_hours: ""
+opening_hours: 24/7 open "mit Tante Enso Karte"; Mo,Fr 08:00-12:00,15:00-08:00 open
+    "personalbesetzt"; Tu,Th,Sa 08:00-12:00 open "personalbesetzt"
 website: ""

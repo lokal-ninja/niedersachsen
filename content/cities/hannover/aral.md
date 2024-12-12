@@ -1,5 +1,5 @@
 ---
 title: "Aral"
 url: /hannover/aral/
-shop: Allgemein
+shop: Treibstoff
 ---

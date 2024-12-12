@@ -7,6 +7,5 @@ city: Wangerland
 street: Lange Straße
 housenumber: "26"
 phone: ""
-opening_hours: Mo 14:00-18:00; We 11:00-15:00; Fr 11:00-13:00,15:00-18:00; Sa 11:00-15:00;
-    PH,Tu,Th,Su off
+opening_hours: Mo,We,Fr-Sa 12:00-17:00; Tu,Th,Su,PH off
 website: ""

@@ -7,5 +7,5 @@ city: Göttingen
 street: Hospitalstraße
 housenumber: "16"
 phone: ""
-opening_hours: Tu-Fr 10:00-17:00; Sa 11:00-15:00; PH off
+opening_hours: Tu,Th 10:00-17:00; Sa 10:00-15:00; PH off; We,Fr 10:00-16:00
 website: ""

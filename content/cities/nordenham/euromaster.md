@@ -1,5 +1,5 @@
 ---
-title: "EUROMASTER"
+title: "Euromaster"
 url: /nordenham/euromaster/
-shop: Reifen
+shop: Autowerkstatt
 ---

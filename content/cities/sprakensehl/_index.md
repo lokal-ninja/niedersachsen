@@ -1,6 +1,6 @@
 ---
 title: Sprakensehl
 url: /sprakensehl/
-latitude: 52.765
-longitude: 10.492
+latitude: 52.787
+longitude: 10.494
 ---

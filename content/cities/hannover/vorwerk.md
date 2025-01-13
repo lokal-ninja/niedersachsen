@@ -1,5 +1,5 @@
 ---
 title: "Vorwerk"
 url: /hannover/vorwerk/
-shop: Elektronik
+shop: Staubsauger
 ---

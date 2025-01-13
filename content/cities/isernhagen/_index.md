@@ -1,6 +1,6 @@
 ---
 title: Isernhagen
 url: /isernhagen/
-latitude: 52.456
-longitude: 9.801
+latitude: 52.423
+longitude: 9.834
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dannenberg
 url: /dannenberg/
-latitude: 53.096
-longitude: 11.089
+latitude: 53.099
+longitude: 11.096
 ---

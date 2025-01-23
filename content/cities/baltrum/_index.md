@@ -1,6 +1,6 @@
 ---
 title: Baltrum
 url: /baltrum/
-latitude: 53.73
-longitude: 7.372
+latitude: 53.729
+longitude: 7.37
 ---

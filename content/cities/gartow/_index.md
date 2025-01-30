@@ -1,6 +1,6 @@
 ---
 title: Gartow
 url: /gartow/
-latitude: 53.025
-longitude: 11.46
+latitude: 53.027
+longitude: 11.457
 ---

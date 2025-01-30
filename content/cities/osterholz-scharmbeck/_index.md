@@ -1,6 +1,6 @@
 ---
 title: Osterholz-Scharmbeck
 url: /osterholz-scharmbeck/
-latitude: 53.226
-longitude: 8.795
+latitude: 53.227
+longitude: 8.802
 ---

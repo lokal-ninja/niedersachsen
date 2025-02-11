@@ -1,6 +1,6 @@
 ---
 title: Bruchhausen-Vilsen
 url: /bruchhausen-vilsen/
-latitude: 52.828
+latitude: 52.829
 longitude: 9
 ---

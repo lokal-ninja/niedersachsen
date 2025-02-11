@@ -1,6 +1,6 @@
 ---
 title: Schüttorf
 url: /schuettorf/
-latitude: 52.32
-longitude: 7.226
+latitude: 52.323
+longitude: 7.225
 ---

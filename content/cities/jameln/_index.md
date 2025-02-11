@@ -1,6 +1,6 @@
 ---
 title: Jameln
 url: /jameln/
-latitude: 53.052
-longitude: 11.09
+latitude: 53.039
+longitude: 11.061
 ---

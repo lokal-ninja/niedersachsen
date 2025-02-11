@@ -1,5 +1,5 @@
 ---
 title: "Dorfladen Midlum"
 url: /wurster-nordseekueste/dorfladen-midlum/
-shop: Dorfladen
+shop: Lebensmittel
 ---

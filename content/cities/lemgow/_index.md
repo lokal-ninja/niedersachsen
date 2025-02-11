@@ -1,6 +1,6 @@
 ---
 title: Lemgow
 url: /lemgow/
-latitude: 52.919
-longitude: 11.287
+latitude: 52.922
+longitude: 11.289
 ---

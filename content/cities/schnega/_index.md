@@ -1,6 +1,6 @@
 ---
 title: Schnega
 url: /schnega/
-latitude: 52.895
-longitude: 10.836
+latitude: 52.888
+longitude: 10.891
 ---

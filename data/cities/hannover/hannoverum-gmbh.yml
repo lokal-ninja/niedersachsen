@@ -7,5 +7,5 @@ city: Hannover
 street: Karmarschstraße
 housenumber: "41"
 phone: +49 511 45013763
-opening_hours: Mo-Fr 09:30-14:00
+opening_hours: Mo-Fr 09:30-14:00; Sa,Su,PH off
 website: https://hannoverum.com/

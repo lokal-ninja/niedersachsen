@@ -7,5 +7,5 @@ city: Hannover
 street: Marktstraße
 housenumber: "52"
 phone: +49 511 3647610
-opening_hours: Mo-Sa 10:00-19:00
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
 website: https://www.thalia.de/shop/home/filialen/showDetails/5135/

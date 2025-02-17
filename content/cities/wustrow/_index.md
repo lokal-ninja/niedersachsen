@@ -1,6 +1,6 @@
 ---
 title: Wustrow
 url: /wustrow/
-latitude: 52.926
-longitude: 11.125
+latitude: 52.923
+longitude: 11.13
 ---

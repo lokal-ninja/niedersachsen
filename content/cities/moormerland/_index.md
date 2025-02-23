@@ -1,6 +1,6 @@
 ---
 title: Moormerland
 url: /moormerland/
-latitude: 53.306
-longitude: 7.508
+latitude: 53.318
+longitude: 7.517
 ---

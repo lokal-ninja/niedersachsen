@@ -1,5 +1,5 @@
 ---
-title: "Heide Bäckerei Meyer"
+title: "Heide-Bäckerei Meyer"
 url: /dannenberg-elbe/heide-baeckerei-meyer/
 shop: Bäckerei
 ---

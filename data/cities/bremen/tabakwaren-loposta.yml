@@ -1,11 +1,11 @@
 id: 825225159
 type: node
-latitude: 53.13731
-longitude: 8.74405
+latitude: 53.13733
+longitude: 8.74401
 postcode: "28239"
 city: Bremen
 street: Schragestraße
 housenumber: "4"
 phone: ""
-opening_hours: Mo-Fr 09:30-13:00,14:30-18:00; Fr 09:30-18:00; Sa 09:00-13:00
+opening_hours: Mo 09:30-13:00; Tu-Fr 09:30-13:00,14:30-18:00; Sa 09:30-13:00; Su off
 website: ""

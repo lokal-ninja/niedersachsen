@@ -1,6 +1,6 @@
 ---
 title: Amt Neuhaus
 url: /amt-neuhaus/
-latitude: 53.286
-longitude: 10.931
+latitude: 53.191
+longitude: 11.048
 ---

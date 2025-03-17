@@ -1,6 +1,6 @@
 ---
 title: Ihlienworth
 url: /ihlienworth/
-latitude: 53.738
-longitude: 8.928
+latitude: 53.739
+longitude: 8.918
 ---

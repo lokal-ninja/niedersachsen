@@ -7,5 +7,5 @@ city: Schladen
 street: Markt
 housenumber: "10"
 phone: "05335433"
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr,Sa 09:00-12:30, 15:00-18:00; We 09:00-12:30
 website: http://www.ringfoto-becke.de/

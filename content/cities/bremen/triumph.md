@@ -1,5 +1,5 @@
 ---
 title: "Triumph"
 url: /bremen/triumph/
-shop: Kleidung
+shop: Motorrad
 ---

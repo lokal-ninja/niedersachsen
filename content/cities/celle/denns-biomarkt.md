@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /celle/denns-biomarkt/
 shop: Supermarkt
 ---

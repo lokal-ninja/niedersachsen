@@ -7,5 +7,6 @@ city: Göttingen
 street: Martin-Luther-Straße
 housenumber: "41"
 phone: ""
-opening_hours: Feb-Dec Mo-Fr 08:00-18:00; Feb-Dec Sa 08:00-13:00; PH off
+opening_hours: 'Mar-Jun: Mo-Fr 08:00-18:00; Mar-Jun: Sa 08:00-13:00; Jul-Feb: Mo-Fr
+    08:00-17:00; Jul-Feb: Sa 08:00-13:00'
 website: ""

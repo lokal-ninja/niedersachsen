@@ -1,6 +1,6 @@
 ---
 title: Sickte
 url: /sickte/
-latitude: 52.217
-longitude: 10.641
+latitude: 52.219
+longitude: 10.643
 ---

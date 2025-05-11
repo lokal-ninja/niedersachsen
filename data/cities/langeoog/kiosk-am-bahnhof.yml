@@ -7,5 +7,6 @@ city: Langeoog
 street: Hauptstraße
 housenumber: "1"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Th 08:45-17:30; Fr 08:45-11:15,13:00-17:30; Sa 08:45-17:30; Su,PH
+    10:15-17:30
 website: ""

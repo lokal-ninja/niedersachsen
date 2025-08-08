@@ -1,5 +1,5 @@
 ---
-title: "Aral"
+title: "ARAL"
 url: /gieboldehausen/aral/
 shop: Kiosk
 ---

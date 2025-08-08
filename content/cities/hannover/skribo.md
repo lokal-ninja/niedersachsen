@@ -1,5 +1,5 @@
 ---
-title: "Skribo"
+title: "SKRIBO"
 url: /hannover/skribo/
 shop: Schreibwaren
 ---

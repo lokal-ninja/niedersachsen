@@ -1,5 +1,5 @@
 ---
 title: "Anssems PKW-Anhänger"
 url: /schwuelper/anssems-pkw-anhaenger/
-shop: Autohaus
+shop: Anhänger
 ---

@@ -1,5 +1,5 @@
 ---
-title: "EDEKA"
+title: "Edeka"
 url: /diepenau/edeka/
 shop: Supermarkt
 ---

@@ -7,5 +7,6 @@ city: Springe
 street: Zum Oberntor
 housenumber: "9"
 phone: +49 5041 970825
-opening_hours: ""
+opening_hours: Mo-Th 10:00-13:00,15:00-18:00; Fr 10:00-19:00; Sa 10:00-13:00; Su,PH
+    off
 website: https://www.weingalerie-springe.de

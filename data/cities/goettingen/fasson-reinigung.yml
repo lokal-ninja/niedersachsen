@@ -7,5 +7,5 @@ city: Göttingen
 street: Kurze-Geismar-Straße
 housenumber: "25"
 phone: ""
-opening_hours: Mo-Fr 07:30-18:00; We 07:30-14:00; Sa 08:00-14:00; Su,PH off
+opening_hours: Mo,Tu,Th,Fr 08:00-13:00,13:30-18:00; We,Sa 08:00-14:00; Su,PH off
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Alfhausen
 url: /alfhausen/
-latitude: 52.499
-longitude: 7.955
+latitude: 52.502
+longitude: 7.949
 ---

@@ -7,6 +7,6 @@ city: Bremen
 street: Münchener Straße
 housenumber: "81"
 phone: ""
-opening_hours: Mo,Tu,Fr 10:00-13:00,15:00-18:00; We 10:00-13:00; Th 10:00-13:00,15:00-19:00;
-    PH,Sa,Su off
+opening_hours: Mo,Tu 10:00-13:00,15:00-18:00; We 10:00-13:00; Th 10:00-13:00,15:00-19:00;
+    Sa,Su,PH off
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "novotruck Kühlfahrzeuge"
+title: "Novotruck Kühlfahrzeuge"
 url: /bad-rothenfelde/novotruck-kuehlfahrzeuge/
-shop: Autohaus
+shop: Allgemein
 ---

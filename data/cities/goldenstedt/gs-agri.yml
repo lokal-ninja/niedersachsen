@@ -1,11 +1,13 @@
 id: 4200519628
 type: node
-latitude: 52.79898
-longitude: 8.39608
+latitude: 52.79889
+longitude: 8.39604
 postcode: "49424"
 city: Goldenstedt
 street: Bahnhofstraße
 housenumber: "27"
 phone: ""
-opening_hours: ""
+opening_hours: 'Feb-Oct: Mo-Fr 08:00-12:00,13:00-17:00; Feb-Oct: Sa 08:00-12:00; Nov-Jan:
+    Mo-We 08:00-12:00,13:00-17:00; Nov-Jan: Th off; Nov-Jan: Fr 08:00-12:00,13:00-17:00;
+    Nov-Jan: Sa off; PH off'
 website: https://www.gs-genossenschaft.de/agri

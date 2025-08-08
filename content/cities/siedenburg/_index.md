@@ -1,6 +1,6 @@
 ---
 title: Siedenburg
 url: /siedenburg/
-latitude: 52.693
-longitude: 8.94
+latitude: 52.69
+longitude: 8.945
 ---

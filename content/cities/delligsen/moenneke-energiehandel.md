@@ -1,5 +1,5 @@
 ---
 title: "Mönneke Energiehandel"
 url: /delligsen/moenneke-energiehandel/
-shop: Allgemein
+shop: Treibstoff
 ---

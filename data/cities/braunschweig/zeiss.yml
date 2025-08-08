@@ -7,5 +7,5 @@ city: Braunschweig
 street: Altstadtmarkt
 housenumber: "8"
 phone: ""
-opening_hours: Tu-Fr 09:30-14:00,15:00-18:00; Sa 09:30-14:00; Mo off
+opening_hours: Mo,Su off; Tu-Fr 09:30-14:00,15:00-18:00; Sa 09:30-14:00
 website: ""

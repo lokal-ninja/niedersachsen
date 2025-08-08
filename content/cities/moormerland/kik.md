@@ -1,5 +1,5 @@
 ---
-title: "KiK"
+title: "Kik"
 url: /moormerland/kik/
-shop: Kleidung
+shop: Allgemein
 ---

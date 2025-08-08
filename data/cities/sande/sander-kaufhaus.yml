@@ -7,6 +7,5 @@ city: Sande
 street: Hauptstraße
 housenumber: "47"
 phone: ""
-opening_hours: Mo 10:00-13:00, 15:00-17:00; Tu 09:00-13:00, 15:00-17:00; We 10:00-13:00;
-    Th,Fr 10:00-13:00, 15:00-17:00; Sa 10:00-14:00; Su,PH off
+opening_hours: Mo-Tu 09:00-16:00; We 14:00-18:00; Th-Fr 09:00-16:00; Sa,Su,PH off
 website: ""

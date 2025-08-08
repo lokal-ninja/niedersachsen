@@ -1,5 +1,5 @@
 ---
-title: "SCHUH-MANN"
+title: "Schuh-Mann"
 url: /bremervoerde/schuh-mann/
 shop: Schuhe
 ---

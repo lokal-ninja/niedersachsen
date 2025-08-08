@@ -1,5 +1,5 @@
 ---
 title: "Glasbox"
 url: /bremen/glasbox/
-shop: Kleidung
+shop: Modehaus
 ---

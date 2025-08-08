@@ -1,5 +1,5 @@
 ---
-title: "Jacques’ Wein-Depot"
+title: "Jacques' Wein-Depot"
 url: /goettingen/jacques-wein-depot-geismar-landstrasse/
 shop: Wein
 ---

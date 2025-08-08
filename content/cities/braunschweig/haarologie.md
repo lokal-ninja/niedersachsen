@@ -1,5 +1,5 @@
 ---
 title: "Haarologie"
 url: /braunschweig/haarologie/
-shop: Schneiderei
+shop: Friseur
 ---

@@ -1,11 +1,11 @@
 id: 11821176953
 type: node
-latitude: 52.45335
-longitude: 9.73446
+latitude: 52.45344
+longitude: 9.73476
 postcode: "30853"
 city: Langenhagen
 street: Hanseatenstraße
 housenumber: "34"
 phone: +49 511 / 76 900 100
-opening_hours: Mo-Fr 10:30-18:00 Su 09:00-15:00
-website: ""
+opening_hours: Mo-Fr 10:30-18:00; Sa 09:00-15:00; Su,Ph off
+website: https://www.csl-computer.com/

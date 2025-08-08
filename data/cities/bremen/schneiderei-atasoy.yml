@@ -7,5 +7,5 @@ city: Bremen
 street: Admiralstraße
 housenumber: "108"
 phone: ""
-opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
+opening_hours: Tu,Th 15:00-18:00; Fr,Sa 10:00-13:00; Mo,We off
 website: ""

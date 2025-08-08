@@ -2,5 +2,5 @@
 title: Eimke
 url: /eimke/
 latitude: 52.967
-longitude: 10.318
+longitude: 10.317
 ---

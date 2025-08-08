@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /osnabrueck/denns-biomarkt-weidenstrasse/
 shop: Supermarkt
 ---

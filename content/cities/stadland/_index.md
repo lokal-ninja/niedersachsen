@@ -1,6 +1,6 @@
 ---
 title: Stadland
 url: /stadland/
-latitude: 53.398
-longitude: 8.453
+latitude: 53.457
+longitude: 8.357
 ---

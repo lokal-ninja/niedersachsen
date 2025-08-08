@@ -1,5 +1,5 @@
 ---
 title: "Musikhaus Mewes"
 url: /braunschweig/musikhaus-mewes/
-shop: Musik
+shop: Instrumente
 ---

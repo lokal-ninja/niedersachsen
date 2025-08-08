@@ -1,6 +1,6 @@
 ---
 title: Coppenbrügge
 url: /coppenbruegge/
-latitude: 52.135
-longitude: 9.565
+latitude: 52.136
+longitude: 9.567
 ---

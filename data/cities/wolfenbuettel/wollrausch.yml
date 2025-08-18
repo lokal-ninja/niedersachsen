@@ -7,5 +7,6 @@ city: Wolfenbüttel
 street: Kornmarkt
 housenumber: "8"
 phone: +49 5331 6073263
-opening_hours: Tu,Fr 13:00-18:00; We,Sa 10:00-13:00
+opening_hours: May-Aug Tu,Fr 13:00-18:00, We,Sa 10:00-13:00; Sep-Apr Tu,Th,Fr 13:00-18:00,
+    We 10:00-14:00, Sa 10:00-13:00; PH off
 website: https://www.wollrausch.net/

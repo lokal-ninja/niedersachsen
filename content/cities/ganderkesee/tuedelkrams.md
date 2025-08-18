@@ -1,5 +1,5 @@
 ---
-title: "tüdelkrams"
+title: "Tüdelkrams"
 url: /ganderkesee/tuedelkrams/
-shop: Sport
+shop: Andenken
 ---

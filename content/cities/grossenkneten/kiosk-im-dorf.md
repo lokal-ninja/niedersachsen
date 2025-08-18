@@ -1,5 +1,5 @@
 ---
 title: "Kiosk im Dorf"
 url: /grossenkneten/kiosk-im-dorf/
-shop: Lebensmittel
+shop: Kiosk
 ---

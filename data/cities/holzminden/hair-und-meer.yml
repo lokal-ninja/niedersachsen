@@ -7,5 +7,5 @@ city: Holzminden
 street: Am Wildenkiel
 housenumber: "5"
 phone: ""
-opening_hours: Tu 9:00-18:00; We 9:00-19:00; Fr 9:00-19:00
+opening_hours: Tu 09:00-18:00; We,Fr 09:00-19:00
 website: https://www.hairundmeer.de/team-neuhaus/

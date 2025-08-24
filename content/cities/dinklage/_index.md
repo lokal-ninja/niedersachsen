@@ -1,6 +1,6 @@
 ---
 title: Dinklage
 url: /dinklage/
-latitude: 52.661
-longitude: 8.117
+latitude: 52.658
+longitude: 8.119
 ---

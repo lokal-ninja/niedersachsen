@@ -7,6 +7,5 @@ city: Osnabrück
 street: Mindener Straße
 housenumber: "186"
 phone: +49 541 61 624
-opening_hours: 'Montag bis Donnerstag: 7:00 bis 17:30 Uhr; Freitag: 7:00 bis 16:00
-    Uhr'
+opening_hours: Mo-Th 07:00-17:30; Fr 07:00-16:00
 website: ""

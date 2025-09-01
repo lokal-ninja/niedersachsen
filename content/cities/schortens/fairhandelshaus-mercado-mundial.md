@@ -1,5 +1,5 @@
 ---
 title: "Fairhandelshaus Mercado Mundial"
 url: /schortens/fairhandelshaus-mercado-mundial/
-shop: Bioladen
+shop: Allgemein
 ---

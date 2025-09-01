@@ -1,6 +1,6 @@
 ---
 title: Edemissen
 url: /edemissen/
-latitude: 52.381
-longitude: 10.256
+latitude: 52.386
+longitude: 10.266
 ---

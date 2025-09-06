@@ -1,5 +1,5 @@
 ---
-title: "Küche 7"
+title: "KÜCHE 7"
 url: /hameln/kueche-7/
-shop: Allgemein
+shop: Küchen
 ---

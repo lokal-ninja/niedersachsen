@@ -1,6 +1,6 @@
 ---
 title: Haren (Ems)
 url: /haren-ems/
-latitude: 52.785
-longitude: 7.297
+latitude: 52.783
+longitude: 7.3
 ---

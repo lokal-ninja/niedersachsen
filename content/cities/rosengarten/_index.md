@@ -1,6 +1,6 @@
 ---
 title: Rosengarten
 url: /rosengarten/
-latitude: 53.378
-longitude: 9.899
+latitude: 53.379
+longitude: 9.898
 ---

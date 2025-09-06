@@ -7,5 +7,5 @@ city: Braunschweig
 street: Hagenring
 housenumber: 38/39
 phone: "+495311216430"
-opening_hours: Sa 10:00-14:00; Mo-Th 08:00-18:30; Fr 08:00-13:00
+opening_hours: Mo,Tu 10:00-18:00; We,Th 08:00-16:00; Fr 08:00-13:00; Sa 10:00-14:00
 website: ""

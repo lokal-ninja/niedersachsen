@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "Penny"
 url: /hannover/penny-neue-strasse/
 shop: Supermarkt
 ---

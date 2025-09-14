@@ -7,5 +7,5 @@ city: Butjadingen
 street: Am Hafen
 housenumber: "6"
 phone: +49 4733 1450
-opening_hours: Mo-Su 08:00-12:00, Tu-Su 14:30-16:00
+opening_hours: Mo-Su,PH 08:00-12:00, We-Fr 14:30-16:00, Sa,Su,PH 14:00-16:00
 website: ""

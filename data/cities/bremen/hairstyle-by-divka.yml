@@ -7,5 +7,5 @@ city: Bremen
 street: Verdener Straße
 housenumber: "33"
 phone: ""
-opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; Su,Mo off
+opening_hours: Tu,We,Fr 09:00-18:00
 website: ""

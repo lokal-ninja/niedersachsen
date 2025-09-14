@@ -1,6 +1,6 @@
 ---
 title: Bilshausen
 url: /bilshausen/
-latitude: 51.632
-longitude: 10.16
+latitude: 51.626
+longitude: 10.157
 ---

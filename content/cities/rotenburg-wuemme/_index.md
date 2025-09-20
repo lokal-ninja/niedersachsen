@@ -1,6 +1,6 @@
 ---
 title: Rotenburg (Wümme)
 url: /rotenburg-wuemme/
-latitude: 53.104
-longitude: 9.397
+latitude: 53.112
+longitude: 9.409
 ---

@@ -7,5 +7,5 @@ city: Aurich
 street: Raiffeisenstraße
 housenumber: "5"
 phone: ""
-opening_hours: Mo-Fr 08:00-20:00 Sa 08:00-20:00
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
 website: ""

@@ -7,6 +7,5 @@ city: Bad Harzburg
 street: Herzog-Wilhelm-Straße
 housenumber: "66"
 phone: +49 5322 2898
-opening_hours: 'Mo - Fr: 09:00 - 13:30 Uhr und: 14:30 - 18:00 Uhr Samstag: 09:00 -
-    13:30 Uhr'
+opening_hours: Mo-Fr 09:00-13:30,14:30-18:00; Sa 09:00-13:30
 website: https://www.juwelier-dinger.de

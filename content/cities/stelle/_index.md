@@ -1,6 +1,6 @@
 ---
 title: Stelle
 url: /stelle/
-latitude: 53.386
-longitude: 10.105
+latitude: 53.414
+longitude: 10.143
 ---

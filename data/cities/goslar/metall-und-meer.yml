@@ -7,5 +7,5 @@ city: Goslar
 street: Petersilienstraße
 housenumber: "2"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:30-13:30,14:30-18:00
 website: https://www.metallundmeer.de

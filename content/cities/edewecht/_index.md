@@ -1,6 +1,6 @@
 ---
 title: Edewecht
 url: /edewecht/
-latitude: 53.127
-longitude: 7.981
+latitude: 53.128
+longitude: 7.984
 ---

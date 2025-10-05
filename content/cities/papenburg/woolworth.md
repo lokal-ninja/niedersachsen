@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
 url: /papenburg/woolworth/
-shop: Supermarkt
+shop: Warenhaus
 ---

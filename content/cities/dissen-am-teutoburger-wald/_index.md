@@ -1,6 +1,6 @@
 ---
 title: Dissen am Teutoburger Wald
 url: /dissen-am-teutoburger-wald/
-latitude: 52.116
-longitude: 8.205
+latitude: 52.115
+longitude: 8.199
 ---

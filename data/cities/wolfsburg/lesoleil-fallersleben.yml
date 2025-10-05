@@ -7,6 +7,5 @@ city: Wolfsburg
 street: Denkmalplatz
 housenumber: "3"
 phone: +49 5361 - 14448
-opening_hours: Mo - Fr   10:00 - 20:00 Uhr  Sa - So    10:00 - 18:00 Uhr Feiertag  10:00
-    - 18:00 Uhr
+opening_hours: Mo-Fr 10:00-20:00; Sa,Su,PH 10:00-18:00
 website: https://lesoleil-sonnenstudio.jimdofree.com/

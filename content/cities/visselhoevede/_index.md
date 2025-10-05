@@ -1,6 +1,6 @@
 ---
 title: Visselhövede
 url: /visselhoevede/
-latitude: 52.986
-longitude: 9.581
+latitude: 52.966
+longitude: 9.514
 ---

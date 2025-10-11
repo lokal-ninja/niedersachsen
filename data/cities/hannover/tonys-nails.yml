@@ -7,5 +7,5 @@ city: Hannover
 street: Marienstraße
 housenumber: "40"
 phone: +49 511 21915434
-opening_hours: Mo-Sa 10:00-19:00
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
 website: ""

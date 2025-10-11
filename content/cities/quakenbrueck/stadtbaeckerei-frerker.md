@@ -1,5 +1,5 @@
 ---
-title: "Stadtbaeckerei Frerker"
+title: "Stadtbäckerei Frerker"
 url: /quakenbrueck/stadtbaeckerei-frerker/
 shop: Bäckerei
 ---

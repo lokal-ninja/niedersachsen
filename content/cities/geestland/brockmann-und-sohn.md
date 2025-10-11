@@ -1,5 +1,5 @@
 ---
 title: "Brockmann & Sohn"
 url: /geestland/brockmann-und-sohn/
-shop: Autohaus
+shop: Autowerkstatt
 ---

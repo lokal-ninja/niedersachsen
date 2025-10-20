@@ -1,5 +1,5 @@
 ---
-title: "RENO"
+title: "Reno"
 url: /geestland/reno/
 shop: Schuhe
 ---

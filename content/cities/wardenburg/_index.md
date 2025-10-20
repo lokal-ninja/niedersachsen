@@ -1,6 +1,6 @@
 ---
 title: Wardenburg
 url: /wardenburg/
-latitude: 53.089
-longitude: 8.127
+latitude: 53.05
+longitude: 8.212
 ---

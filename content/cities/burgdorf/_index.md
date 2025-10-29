@@ -1,6 +1,6 @@
 ---
 title: Burgdorf
 url: /burgdorf/
-latitude: 52.45
-longitude: 9.989
+latitude: 52.447
+longitude: 10.009
 ---

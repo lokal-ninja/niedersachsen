@@ -1,5 +1,5 @@
 ---
-title: "Star"
+title: "star"
 url: /hollenstedt/star/
 shop: Kiosk
 ---

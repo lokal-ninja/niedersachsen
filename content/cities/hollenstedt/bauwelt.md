@@ -1,5 +1,5 @@
 ---
-title: "Bauwelt"
+title: "bauwelt"
 url: /hollenstedt/bauwelt/
 shop: Baumarkt
 ---

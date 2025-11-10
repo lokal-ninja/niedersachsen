@@ -1,6 +1,6 @@
 ---
 title: Kettenkamp
 url: /kettenkamp/
-latitude: 52.583
-longitude: 7.837
+latitude: 52.585
+longitude: 7.829
 ---

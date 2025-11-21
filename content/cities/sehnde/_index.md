@@ -1,6 +1,6 @@
 ---
 title: Sehnde
 url: /sehnde/
-latitude: 52.294
-longitude: 9.914
+latitude: 52.315
+longitude: 9.968
 ---

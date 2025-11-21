@@ -1,6 +1,6 @@
 ---
 title: Neuenkirchen-Vörden
 url: /neuenkirchen-voerden/
-latitude: 52.511
-longitude: 8.063
+latitude: 52.508
+longitude: 8.068
 ---

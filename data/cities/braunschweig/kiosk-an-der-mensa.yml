@@ -7,5 +7,5 @@ city: Braunschweig
 street: Rebenring
 housenumber: "17"
 phone: ""
-opening_hours: Mo-Fr 08:00-23:00; Sa,Su 09:00-24:00
+opening_hours: Mo-Th 08:00-23:00, Sa,Su 09:00-24:00, Fr 08:00-24:00
 website: ""

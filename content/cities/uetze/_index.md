@@ -1,6 +1,6 @@
 ---
 title: Uetze
 url: /uetze/
-latitude: 52.47
-longitude: 10.213
+latitude: 52.464
+longitude: 10.203
 ---

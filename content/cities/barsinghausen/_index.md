@@ -1,6 +1,6 @@
 ---
 title: Barsinghausen
 url: /barsinghausen/
-latitude: 52.301
-longitude: 9.47
+latitude: 52.288
+longitude: 9.504
 ---

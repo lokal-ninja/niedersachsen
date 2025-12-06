@@ -1,6 +1,6 @@
 ---
 title: Stuhr
 url: /stuhr/
-latitude: 53.027
-longitude: 8.749
+latitude: 53.012
+longitude: 8.706
 ---

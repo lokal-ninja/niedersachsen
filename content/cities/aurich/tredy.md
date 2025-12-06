@@ -1,5 +1,5 @@
 ---
-title: "tredy"
+title: "Tredy"
 url: /aurich/tredy/
 shop: Kleidung
 ---

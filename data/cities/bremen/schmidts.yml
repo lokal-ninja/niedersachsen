@@ -7,6 +7,6 @@ city: Bremen
 street: Am Neuen Markt
 housenumber: "17"
 phone: ""
-opening_hours: Tu,We 09:00-18:00; Th 09:00-19:00; Fr 08:30-19:00; Sa 08:30-13:00;
-    PH,Mo off
+opening_hours: We 09:00-18:00; Th 09:00-19:00; Fr 08:30-19:00; Sa 08:30-13:00; Su-Tu,PH
+    off
 website: ""

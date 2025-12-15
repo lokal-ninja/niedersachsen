@@ -7,5 +7,5 @@ city: Northeim
 street: Hagenstraße
 housenumber: "10"
 phone: +49 5551 9191195
-opening_hours: Mo-Sa 10:00-13:00 Mo,Die,Do 10:00-17:00
+opening_hours: Mo-Sa 10:00-13:00; Mo,Di,Do 10:00-17:00
 website: https://www.hilfswerk-aucta.de/

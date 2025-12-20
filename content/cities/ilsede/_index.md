@@ -1,6 +1,6 @@
 ---
 title: Ilsede
 url: /ilsede/
-latitude: 52.264
-longitude: 10.221
+latitude: 52.277
+longitude: 10.198
 ---

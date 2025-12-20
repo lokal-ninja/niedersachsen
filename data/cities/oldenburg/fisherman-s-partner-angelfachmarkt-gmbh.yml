@@ -6,6 +6,7 @@ postcode: "26125"
 city: Oldenburg
 street: Wilhelmshavener Heerstraße
 housenumber: "248"
-phone: +49 441 2182916
-opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-14:00
+phone: ""
+opening_hours: Oct-Feb Mo-Fr 10:00-18:00; Sa 10:00-14:00; Mar-Sep Mo-Th 09:00-18:00;
+    Fr 09:00-20:00; Sa 09:00-14:00
 website: ""

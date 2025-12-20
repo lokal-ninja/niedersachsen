@@ -1,6 +1,6 @@
 ---
 title: Esens
 url: /esens/
-latitude: 53.636
-longitude: 7.613
+latitude: 53.631
+longitude: 7.615
 ---

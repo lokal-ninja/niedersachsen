@@ -1,12 +1,12 @@
 id: 8262959232
 type: node
-latitude: 52.82076
-longitude: 8.48135
+latitude: 52.8207
+longitude: 8.48138
 postcode: "27243"
 city: Colnrade
 street: Hauptstraße
 housenumber: "32"
 phone: +49 4434 9189797
-opening_hours: Mo off; Tu, Fr 08:00-18:00; We 08:00-14:00; Th 08:00-20:00; Sa 07:30-13:00;
-    Su off; PH off
+opening_hours: Mo off; Tu,Fr 08:00-18:00; We "mobiler Service"; Th 08:00-20:00; Sa
+    07:30-13:00; Su off; PH off
 website: ""

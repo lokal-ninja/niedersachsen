@@ -1,6 +1,6 @@
 ---
 title: Lüneburg
 url: /lueneburg/
-latitude: 53.238
-longitude: 10.385
+latitude: 53.244
+longitude: 10.402
 ---

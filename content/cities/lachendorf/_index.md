@@ -1,6 +1,6 @@
 ---
 title: Lachendorf
 url: /lachendorf/
-latitude: 52.621
-longitude: 10.245
+latitude: 52.62
+longitude: 10.246
 ---

@@ -7,5 +7,6 @@ city: Göttingen
 street: Reinhäuser Landstraße
 housenumber: 22a
 phone: ""
-opening_hours: Tu-Fr 13:00-18:00; Sa 11:00-14:00; PH off
+opening_hours: 'Mar-Nov: Tu-Fr 13:00-18:00; Mar-Nov: Sa 11:00-14:00; Dec-Feb: Tu-Fr
+    13:00-17:00; Dec-Feb: Sa 11:00-13:00; Mar-Nov: PH off'
 website: ""

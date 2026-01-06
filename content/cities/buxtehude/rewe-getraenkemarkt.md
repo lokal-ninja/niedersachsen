@@ -1,5 +1,5 @@
 ---
-title: "Rewe Getränkemarkt"
+title: "REWE Getränkemarkt"
 url: /buxtehude/rewe-getraenkemarkt/
-shop: Supermarkt
+shop: Getränke
 ---

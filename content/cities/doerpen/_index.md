@@ -1,6 +1,6 @@
 ---
 title: Dörpen
 url: /doerpen/
-latitude: 52.965
-longitude: 7.324
+latitude: 52.966
+longitude: 7.33
 ---

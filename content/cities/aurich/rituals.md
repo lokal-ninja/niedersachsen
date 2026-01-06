@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /aurich/rituals/
-shop: Kleidung
+shop: Kosmetik
 ---

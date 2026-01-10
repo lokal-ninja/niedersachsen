@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /wallenhorst/aldi/
-shop: Supermarkt
+shop: Allgemein
 ---

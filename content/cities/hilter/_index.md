@@ -1,6 +1,6 @@
 ---
 title: Hilter
 url: /hilter/
-latitude: 52.139
-longitude: 8.144
+latitude: 52.135
+longitude: 8.155
 ---

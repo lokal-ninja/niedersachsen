@@ -1,11 +1,11 @@
 id: 10726077835
 type: node
-latitude: 52.89639
-longitude: 8.43539
+latitude: 52.89645
+longitude: 8.43543
 postcode: "27793"
 city: Wildeshausen
 street: Westerstraße
 housenumber: "26"
 phone: ""
-opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su,PH off
+opening_hours: Mo,Su,PH off; Tu-Fr 06:30-18:00; Sa 06:30-13:00
 website: ""

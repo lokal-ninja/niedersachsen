@@ -7,5 +7,6 @@ city: Cloppenburg
 street: Vahrener Straße
 housenumber: "1"
 phone: +49 4471 2704
-opening_hours: Mo-Fr 06:30-12:30, 14:30-18:00; Sa 06:30-12:00; Su 08:00-11:00
+opening_hours: Mo,We-Fr 06:30-12:30,14:30-18:00; Tu 06:30-12:30; Sa 06:30-12:00; Su
+    08:00-11:00
 website: https://www.konofol.de/

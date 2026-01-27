@@ -1,5 +1,5 @@
 ---
-title: "Mäc Geiz"
+title: "Mäc-Geiz"
 url: /neustadt-am-ruebenberge/maec-geiz/
-shop: Warenhaus
+shop: Kramladen
 ---

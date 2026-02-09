@@ -1,6 +1,6 @@
 ---
 title: Lamspringe
 url: /lamspringe/
-latitude: 52.016
-longitude: 9.978
+latitude: 51.957
+longitude: 10.002
 ---

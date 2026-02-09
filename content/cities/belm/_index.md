@@ -1,6 +1,6 @@
 ---
 title: Belm
 url: /belm/
-latitude: 52.303
-longitude: 8.126
+latitude: 52.344
+longitude: 8.152
 ---

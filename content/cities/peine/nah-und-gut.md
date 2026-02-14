@@ -1,5 +1,5 @@
 ---
-title: "nah und gut"
+title: "nah & gut"
 url: /peine/nah-und-gut/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /hanstedt/aldi/
 shop: Supermarkt
 ---

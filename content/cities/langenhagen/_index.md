@@ -1,6 +1,6 @@
 ---
 title: Langenhagen
 url: /langenhagen/
-latitude: 52.442
-longitude: 9.699
+latitude: 52.44
+longitude: 9.726
 ---

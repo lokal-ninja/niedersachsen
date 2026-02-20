@@ -7,5 +7,6 @@ city: Braunschweig
 street: Eulenstraße
 housenumber: "5"
 phone: +49 531 576636
-opening_hours: Mo - We 15:00-19:00, Th 17:00-21:00,
+opening_hours: Mo-We,Fr 15:00-19:00, Fr 15:00-19:00 "Jeden zweiten Freitag FLINTA-Werkstatt";
+    Th 17:00-21:00; PH off
 website: https://astatubs.de/service/fahrradselbsthilfewerkstatt.html

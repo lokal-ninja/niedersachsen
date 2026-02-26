@@ -1,6 +1,6 @@
 ---
 title: Hude
 url: /hude/
-latitude: 53.114
-longitude: 8.454
+latitude: 53.109
+longitude: 8.46
 ---

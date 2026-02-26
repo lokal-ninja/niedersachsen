@@ -1,6 +1,6 @@
 ---
 title: Heidenau
 url: /heidenau/
-latitude: 53.315
-longitude: 9.651
+latitude: 53.319
+longitude: 9.644
 ---

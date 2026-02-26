@@ -1,6 +1,6 @@
 ---
 title: Eschershausen
 url: /eschershausen/
-latitude: 51.927
-longitude: 9.641
+latitude: 51.93
+longitude: 9.634
 ---

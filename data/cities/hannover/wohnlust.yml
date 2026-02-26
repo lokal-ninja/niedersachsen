@@ -7,6 +7,6 @@ city: Hannover
 street: Drostestraße
 housenumber: "2"
 phone: ""
-opening_hours: Mo-Fr 03:00-19:00; Sa 10:00-16:00; Su off; Ph off; "Termine nach telefonischer
-    Absprache"
+opening_hours: Mo-Fr 03:00-19:00 "Termine nach telefonischer Absprache"; Sa 10:00-16:00
+    "Termine nach telefonischer Absprache"; Su,PH off
 website: ""

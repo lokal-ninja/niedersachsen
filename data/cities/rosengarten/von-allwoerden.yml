@@ -7,5 +7,5 @@ city: Rosengarten
 street: Bürgermeister-Glade-Straße
 housenumber: "3"
 phone: ""
-opening_hours: Mo-Sa 07:00-20:00
+opening_hours: '"Mo-Sa 7:00-20:00 So 7:00-12:00"'
 website: ""

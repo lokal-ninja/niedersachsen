@@ -1,6 +1,6 @@
 ---
 title: Emtinghausen
 url: /emtinghausen/
-latitude: 52.934
-longitude: 8.965
+latitude: 52.932
+longitude: 8.968
 ---

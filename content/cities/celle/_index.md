@@ -1,6 +1,6 @@
 ---
 title: Celle
 url: /celle/
-latitude: 52.605
-longitude: 10.054
+latitude: 52.606
+longitude: 10.055
 ---

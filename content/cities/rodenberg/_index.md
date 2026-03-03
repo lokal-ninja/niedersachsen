@@ -1,6 +1,6 @@
 ---
 title: Rodenberg
 url: /rodenberg/
-latitude: 52.311
-longitude: 9.357
+latitude: 52.318
+longitude: 9.359
 ---

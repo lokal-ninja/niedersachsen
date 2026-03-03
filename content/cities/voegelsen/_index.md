@@ -1,6 +1,6 @@
 ---
 title: Vögelsen
 url: /voegelsen/
-latitude: 53.276
-longitude: 10.353
+latitude: 53.277
+longitude: 10.357
 ---

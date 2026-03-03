@@ -1,11 +1,11 @@
 id: 1305577596
 type: node
-latitude: 53.27572
-longitude: 10.35317
+latitude: 53.27687
+longitude: 10.35695
 postcode: "21360"
 city: Vögelsen
-street: Am Deichfeld
-housenumber: "2"
+street: Am Deichfeld;Ginsterweg
+housenumber: 2;19
 phone: +49 4131 121534
 opening_hours: Tu-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00
 website: ""

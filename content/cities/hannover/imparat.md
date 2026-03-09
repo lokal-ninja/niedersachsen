@@ -1,5 +1,5 @@
 ---
-title: "IMparat"
+title: "Imparat"
 url: /hannover/imparat/
 shop: Farben
 ---

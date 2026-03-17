@@ -1,6 +1,6 @@
 ---
 title: Osterode am Harz
 url: /osterode-am-harz/
-latitude: 51.717
-longitude: 10.274
+latitude: 51.728
+longitude: 10.249
 ---

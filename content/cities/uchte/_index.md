@@ -1,6 +1,6 @@
 ---
 title: Uchte
 url: /uchte/
-latitude: 52.498
-longitude: 8.902
+latitude: 52.499
+longitude: 8.903
 ---

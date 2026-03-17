@@ -1,6 +1,6 @@
 ---
 title: Hardegsen
 url: /hardegsen/
-latitude: 51.651
-longitude: 9.837
+latitude: 51.653
+longitude: 9.831
 ---

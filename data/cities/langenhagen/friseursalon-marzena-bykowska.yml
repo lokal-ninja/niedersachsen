@@ -7,5 +7,5 @@ city: Langenhagen
 street: Hans-Böckler-Straße
 housenumber: "60"
 phone: +49 15143252352
-opening_hours: Mo-Sa 09:00-18:00; PH off
+opening_hours: Mo,We 09:00-18:00; Tu,Fr 12:00-20:00; Sa 09:00-15:00; PH off
 website: ""

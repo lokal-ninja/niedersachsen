@@ -1,6 +1,6 @@
 ---
 title: Wiefelstede
 url: /wiefelstede/
-latitude: 53.183
-longitude: 8.179
+latitude: 53.187
+longitude: 8.167
 ---

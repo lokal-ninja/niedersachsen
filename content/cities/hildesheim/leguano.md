@@ -1,5 +1,5 @@
 ---
-title: "leguano"
+title: "Leguano"
 url: /hildesheim/leguano/
 shop: Schuhe
 ---

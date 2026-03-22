@@ -1,6 +1,6 @@
 ---
 title: Bramsche
 url: /bramsche/
-latitude: 52.388
-longitude: 8.063
+latitude: 52.411
+longitude: 8.007
 ---

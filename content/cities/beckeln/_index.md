@@ -1,6 +1,6 @@
 ---
 title: Beckeln
 url: /beckeln/
-latitude: 52.868
-longitude: 8.593
+latitude: 52.883
+longitude: 8.587
 ---

@@ -7,5 +7,5 @@ city: Braunschweig
 street: Donaustraße
 housenumber: "43"
 phone: ""
-opening_hours: Mo, Di, Do, Fr 9:00 - 13:00,14:00-18:00, Mi 09.00 - 13.00
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-13:00; PH off
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "Famila"
+title: "famila"
 url: /osterholz-scharmbeck/famila/
 shop: Supermarkt
 ---

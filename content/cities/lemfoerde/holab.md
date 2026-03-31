@@ -1,5 +1,5 @@
 ---
-title: "HOL’AB!"
+title: "Hol'ab"
 url: /lemfoerde/holab/
 shop: Getränke
 ---

@@ -7,5 +7,6 @@ city: Rastede
 street: Pantinenweg
 housenumber: "6"
 phone: ""
-opening_hours: Tu-Fr 09:00-12:30,14:30-18:00; Sa 08:30-12:30,14:30-18:00
+opening_hours: We-Fr 09:00-12:30, 14:30-18:00; Sa 08:30-18:00; Su 13:00-18:00; Tu
+    09:00-12:00, 14:30-18:00
 website: https://janssen-hof.de/

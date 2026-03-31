@@ -1,5 +1,5 @@
 ---
-title: "Freese"
+title: "FREESE"
 url: /wardenburg/freese/
-shop: Spielzeug
+shop: Schreibwaren
 ---

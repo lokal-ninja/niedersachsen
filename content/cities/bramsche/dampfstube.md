@@ -1,5 +1,5 @@
 ---
 title: "DampfStube"
 url: /bramsche/dampfstube/
-shop: Allgemein
+shop: Tabak
 ---

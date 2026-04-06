@@ -1,5 +1,5 @@
 ---
-title: "KiK"
+title: "KIK"
 url: /melle/kik/
-shop: Kleidung
+shop: Lebensmittel
 ---

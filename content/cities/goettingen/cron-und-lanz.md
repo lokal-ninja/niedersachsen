@@ -1,5 +1,5 @@
 ---
-title: "Cron und Lanz"
+title: "Cron & Lanz"
 url: /goettingen/cron-und-lanz/
 shop: Konditorei
 ---

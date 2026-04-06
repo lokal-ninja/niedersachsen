@@ -1,5 +1,5 @@
 ---
-title: "Shoe4You"
+title: "shoe4you"
 url: /hildesheim/shoe4you/
 shop: Schuhe
 ---

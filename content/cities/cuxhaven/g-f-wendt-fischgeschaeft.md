@@ -1,5 +1,5 @@
 ---
-title: "G.F. WENDT - Fischgeschäft"
+title: "G.F. Wendt – Fischgeschäft"
 url: /cuxhaven/g-f-wendt-fischgeschaeft/
-shop: Feinkost
+shop: Fisch
 ---

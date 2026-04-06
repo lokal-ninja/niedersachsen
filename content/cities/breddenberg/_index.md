@@ -1,6 +1,6 @@
 ---
 title: Breddenberg
 url: /breddenberg/
-latitude: 52.954
-longitude: 7.608
+latitude: 52.953
+longitude: 7.605
 ---

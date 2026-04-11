@@ -1,5 +1,5 @@
 ---
 title: "AlpakHARZ® Shop"
 url: /braunlage/alpakharz-r-shop/
-shop: Allgemein
+shop: Kleidung
 ---

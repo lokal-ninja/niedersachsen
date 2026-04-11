@@ -1,6 +1,6 @@
 ---
 title: Walkenried
 url: /walkenried/
-latitude: 51.584
+latitude: 51.582
 longitude: 10.617
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Jeans fritz"
+title: "Jeans Fritz"
 url: /hannover/jeans-fritz/
 shop: Kleidung
 ---

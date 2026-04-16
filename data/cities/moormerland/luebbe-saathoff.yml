@@ -1,11 +1,11 @@
 id: 294905854
 type: node
-latitude: 53.31853
-longitude: 7.51778
+latitude: 53.31824
+longitude: 7.51748
 postcode: "26802"
 city: Moormerland
 street: Westerwieke
-housenumber: "123"
-phone: ""
-opening_hours: Mo,Tu,Th,Fr 08:30-12:00,14:00-18:00; Sa 08:30-13:00; We,Su,PH off
-website: ""
+housenumber: 123-125
+phone: +49 4954 95750
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; We,Su off; Sa 08:30-13:00; PH off
+website: https://www.luebbe-saathoff.de/

@@ -1,6 +1,6 @@
 ---
 title: Steinfeld
 url: /steinfeld/
-latitude: 52.589
-longitude: 8.218
+latitude: 52.593
+longitude: 8.219
 ---

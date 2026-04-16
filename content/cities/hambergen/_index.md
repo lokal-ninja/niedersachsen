@@ -1,6 +1,6 @@
 ---
 title: Hambergen
 url: /hambergen/
-latitude: 53.311
-longitude: 8.827
+latitude: 53.306
+longitude: 8.84
 ---

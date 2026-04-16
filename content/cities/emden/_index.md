@@ -1,6 +1,6 @@
 ---
 title: Emden
 url: /emden/
-latitude: 53.39
-longitude: 7.213
+latitude: 53.364
+longitude: 7.214
 ---

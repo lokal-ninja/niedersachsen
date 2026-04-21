@@ -1,11 +1,12 @@
 id: 1853492709
 type: node
-latitude: 53.6073
-longitude: 8.32101
+latitude: 53.60745
+longitude: 8.321
 postcode: "26969"
 city: Butjadingen
 street: Feldhauser Straße
 housenumber: "2"
 phone: +49 4733 1455
-opening_hours: '"Please call or try"'
+opening_hours: Tu 17:00-18:00;Th 16:00-17:00;Sa-Su 15:00-17:00;"und nach telefonischer
+    Vereinbarung"
 website: https://www.deichschaeferei-feldhausen.de/

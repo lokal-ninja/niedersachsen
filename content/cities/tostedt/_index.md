@@ -1,6 +1,6 @@
 ---
 title: Tostedt
 url: /tostedt/
-latitude: 53.277
-longitude: 9.717
+latitude: 53.283
+longitude: 9.734
 ---

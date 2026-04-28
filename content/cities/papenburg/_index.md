@@ -1,6 +1,6 @@
 ---
 title: Papenburg
 url: /papenburg/
-latitude: 53.057
-longitude: 7.338
+latitude: 53.089
+longitude: 7.404
 ---

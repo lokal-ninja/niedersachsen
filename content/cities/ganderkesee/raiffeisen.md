@@ -1,5 +1,5 @@
 ---
 title: "Raiffeisen"
 url: /ganderkesee/raiffeisen/
-shop: Allgemein
+shop: Kiosk
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bad Sachsa
 url: /bad-sachsa/
-latitude: 51.574
-longitude: 10.583
+latitude: 51.594
+longitude: 10.559
 ---

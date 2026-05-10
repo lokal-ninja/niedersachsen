@@ -1,6 +1,6 @@
 ---
 title: Giesen
 url: /giesen/
-latitude: 52.166
-longitude: 9.869
+latitude: 52.198
+longitude: 9.902
 ---

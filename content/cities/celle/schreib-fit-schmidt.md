@@ -1,5 +1,5 @@
 ---
-title: "schreib-fit Schmidt"
+title: "schreib fit Schmidt"
 url: /celle/schreib-fit-schmidt/
 shop: Schreibwaren
 ---

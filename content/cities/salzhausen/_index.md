@@ -1,6 +1,6 @@
 ---
 title: Salzhausen
 url: /salzhausen/
-latitude: 53.227
-longitude: 10.161
+latitude: 53.22
+longitude: 10.179
 ---

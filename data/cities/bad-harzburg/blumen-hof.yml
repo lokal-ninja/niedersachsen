@@ -7,5 +7,5 @@ city: Bad Harzburg
 street: Breite Straße
 housenumber: 18a
 phone: +49 5322 3333
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00; Su,PH off
 website: https://www.blumenhof-harzburg.de/

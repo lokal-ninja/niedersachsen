@@ -1,5 +1,5 @@
 ---
-title: "TEDi"
+title: "Tedi"
 url: /holzminden/tedi/
-shop: Kramladen
+shop: Allgemein
 ---

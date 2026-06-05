@@ -1,5 +1,5 @@
 ---
 title: "Montan"
 url: /esens/montan/
-shop: Allgemein
+shop: Lebensmittel
 ---

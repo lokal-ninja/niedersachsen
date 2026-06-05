@@ -1,5 +1,5 @@
 ---
 title: "Tankshop"
 url: /aurich/tankshop/
-shop: Allgemein
+shop: Lebensmittel
 ---

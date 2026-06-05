@@ -7,5 +7,5 @@ city: Langenhagen
 street: Erich-Ollenhauer-Straße
 housenumber: "23"
 phone: +49 511 738809
-opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-13:00; PH off
+opening_hours: Mo,Tu,Th 10:00-13:00, Mo,Tu,Th 14:30-18:00, We,Fr 10:00-14:00; PH off
 website: https://www.fernw-touristik.de/

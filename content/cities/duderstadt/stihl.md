@@ -1,5 +1,5 @@
 ---
 title: "Stihl"
 url: /duderstadt/stihl/
-shop: Baumarkt
+shop: Platzpflege
 ---

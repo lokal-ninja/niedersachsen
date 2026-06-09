@@ -7,5 +7,5 @@ city: Cremlingen
 street: Im Rübenkamp
 housenumber: "17"
 phone: +49 5306 913990
-opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+opening_hours: 'Jan-Dec: Mo-Fr 09:00-18:00; Sep-May: Sa 09:00-14:00; Jun-Aug: Sa 09:00-13:00'
 website: https://www.confiserie-weibler.de/

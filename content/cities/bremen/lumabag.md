@@ -1,5 +1,5 @@
 ---
 title: "LUMABAG"
 url: /bremen/lumabag/
-shop: Kleidung
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "cBox"
 url: /nortmoor/cbox/
-shop: Lebensmittel
+shop: Supermarkt
 ---

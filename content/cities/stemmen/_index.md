@@ -1,6 +1,6 @@
 ---
 title: Stemmen
 url: /stemmen/
-latitude: 53.215
-longitude: 9.551
+latitude: 53.223
+longitude: 9.552
 ---

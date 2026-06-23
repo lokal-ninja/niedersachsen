@@ -1,5 +1,5 @@
 ---
 title: Gebrauchtwaren
 url: /gebrauchtwaren/
-icon: charity
+icon: second_hand
 ---

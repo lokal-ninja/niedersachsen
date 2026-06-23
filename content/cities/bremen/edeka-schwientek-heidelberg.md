@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Schwientek-Heidelberg"
+title: "Edeka Schwientek-Heidelberg"
 url: /bremen/edeka-schwientek-heidelberg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Glied"
 url: /bad-laer/autohaus-glied/
-shop: Autohaus
+shop: Autowerkstatt
 ---

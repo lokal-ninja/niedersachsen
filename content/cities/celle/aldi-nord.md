@@ -1,5 +1,5 @@
 ---
-title: "ALDI Nord"
+title: "Aldi Nord"
 url: /celle/aldi-nord/
 shop: Supermarkt
 ---

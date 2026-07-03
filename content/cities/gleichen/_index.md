@@ -1,6 +1,6 @@
 ---
 title: Gleichen
 url: /gleichen/
-latitude: 51.507
-longitude: 10.033
+latitude: 51.467
+longitude: 9.99
 ---

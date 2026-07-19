@@ -1,5 +1,5 @@
 ---
-title: "Buss"
+title: "BUSS"
 url: /doerpen/buss/
-shop: Schuhe
+shop: Baumarkt
 ---

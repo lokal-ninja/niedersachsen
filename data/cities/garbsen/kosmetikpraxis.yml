@@ -7,6 +7,5 @@ city: Garbsen
 street: Scheelenkamp
 housenumber: "7"
 phone: +49 5131 465199
-opening_hours: Mo, Tu, Th 10:00-13:00, 15:00-19:00; Fr 10:00-15:00; We, Sa, Su, PH
-    OFF
+opening_hours: Mo,Tu,Th 10:00-13:00,15:00-19:00; Fr 10:00-15:00; We,Sa,Su,PH off
 website: ""

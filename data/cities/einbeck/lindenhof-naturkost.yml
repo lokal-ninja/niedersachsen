@@ -7,6 +7,6 @@ city: Einbeck
 street: Tiedexer Straße
 housenumber: "5"
 phone: +49 5561 9243825
-opening_hours: Mo,Th 09:00-13:00, 15:00-18:00; Tu,We,Sa 09:00-13:00; Fr 09:00-18:00;
-    Su, Ph off
+opening_hours: Mo,Th 09:00-13:00,15:00-18:00; Tu,We,Sa 09:00-13:00; Fr 09:00-18:00;
+    Su,PH off
 website: https://www.bioladeneinbeck.de

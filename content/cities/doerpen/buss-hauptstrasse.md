@@ -1,5 +1,5 @@
 ---
-title: "BUSS"
+title: "Buss"
 url: /doerpen/buss-hauptstrasse/
-shop: Baumarkt
+shop: Schuhe
 ---

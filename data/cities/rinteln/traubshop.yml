@@ -7,5 +7,5 @@ city: Rinteln
 street: Brennerstraße
 housenumber: "13"
 phone: +495751 890098
-opening_hours: by appointment
+opening_hours: '"by appointment"'
 website: https://www.traubshop.de/

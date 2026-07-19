@@ -1,5 +1,5 @@
 ---
-title: "Star"
+title: "star"
 url: /loxstedt/star/
 shop: Autowerkstatt
 ---

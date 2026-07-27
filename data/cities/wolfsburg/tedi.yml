@@ -1,11 +1,11 @@
 id: 768859179
 type: node
-latitude: 52.42582
-longitude: 10.78938
+latitude: 52.42573
+longitude: 10.78932
 postcode: "38440"
 city: Wolfsburg
 street: Porschestraße
 housenumber: ""
 phone: ""
-opening_hours: Mo-Sa 09:00-20:00
+opening_hours: Mo-Sa 09:00-20:00; Su, PH off
 website: ""

@@ -7,5 +7,5 @@ city: Oldenburg
 street: Schäferstraße
 housenumber: 2a
 phone: +49 1520 769 1496
-opening_hours: Tu,Fr,Sa 10:00-16:00
+opening_hours: Tu,Fr,Sa 10:00-16:00, Mo,We,Th "nach Absprache"; Su,PH off
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Hermann Faber"
 url: /nordstemmen/autohaus-hermann-faber/
-shop: Autohaus
+shop: Autowerkstatt
 ---

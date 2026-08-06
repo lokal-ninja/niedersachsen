@@ -1,5 +1,5 @@
 ---
 title: "tedox"
 url: /wiesmoor/tedox/
-shop: Raumausstattung
+shop: Baumarkt
 ---

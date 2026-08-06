@@ -1,6 +1,6 @@
 ---
 title: Kakenstorf
 url: /kakenstorf/
-latitude: 53.311
-longitude: 9.767
+latitude: 53.308
+longitude: 9.766
 ---

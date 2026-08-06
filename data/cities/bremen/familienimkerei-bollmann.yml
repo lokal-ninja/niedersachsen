@@ -6,6 +6,7 @@ postcode: "28205"
 city: Bremen
 street: Anna-Lühring-Straße
 housenumber: "35"
-phone: +49 421 4992183
-opening_hours: Mon-Sat 10am-12pm; 1:30pm-6pm; Sun 1:30pm-7pm
-website: https://bollmann-hb.de
+phone: ""
+opening_hours: Mo 10:00-11:00,16:00-18:00; Tu,We 10:00-12:00,13:30-19:00; Th,PH off;
+    Fr 14:00-18:00; Sa 12:00-16:00; Su 13:30-19:00
+website: ""

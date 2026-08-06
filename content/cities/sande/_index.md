@@ -1,6 +1,6 @@
 ---
 title: Sande
 url: /sande/
-latitude: 53.507
-longitude: 8.014
+latitude: 53.503
+longitude: 8.011
 ---

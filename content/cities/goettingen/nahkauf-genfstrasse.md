@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /goettingen/nahkauf-rosdorfer-weg/
+url: /goettingen/nahkauf-genfstrasse/
 shop: Supermarkt
 ---

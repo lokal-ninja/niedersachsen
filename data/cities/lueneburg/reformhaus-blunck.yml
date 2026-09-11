@@ -7,5 +7,6 @@ city: Lüneburg
 street: Grapengießerstraße
 housenumber: "49"
 phone: +49 4131 44579
-opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+opening_hours: 'Oct-Apr: Mo-Fr 09:00-18:00; Oct-Apr: Sa 09:00-17:00; May-Sep: Mo-Fr
+    09:00-18:00; May-Sep: Sa 09:00-16:30'
 website: ""

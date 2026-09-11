@@ -7,6 +7,8 @@ city: Göttingen
 street: Am Weendespring
 housenumber: 1a
 phone: ""
-opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 08:00-17:00; easter +1 off;
-    easter +50 days off; Dec 25 off; Dec 26 off; Jan 1 off
+opening_hours: 'Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 08:00-17:00; easter +1 off;
+    easter +50 days off; Dec 25 off; Dec 26 off; Jan 01 off; " An folgenden Feiertagen
+    im Jahr bleibt unsere Filiale geschlossen: Neujahr, Pfingstmontag, 1. und 2. Weihnachtstag
+    "'
 website: ""

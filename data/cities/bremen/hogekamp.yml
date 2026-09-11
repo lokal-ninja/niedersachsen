@@ -7,5 +7,5 @@ city: Bremen
 street: Elsasser Straße
 housenumber: "77"
 phone: +49 421 43268 0
-opening_hours: Mo-Sa 08:00-13:00, Mo-Fr 15:00-18:00
+opening_hours: Mo,Tu,Th-Sa 08:00-13:00, Mo,Tu,Th,Fr 15:00-18:00; We,Su,PH off
 website: http://www.blumen-hogekamp.de

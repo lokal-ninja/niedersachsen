@@ -1,5 +1,5 @@
 ---
-title: "Score"
+title: "SCORE"
 url: /ostrhauderfehn/score/
 shop: Kiosk
 ---

@@ -1,6 +1,6 @@
 ---
 title: Norderney
 url: /norderney/
-latitude: 53.714
-longitude: 7.17
+latitude: 53.7
+longitude: 7.159
 ---

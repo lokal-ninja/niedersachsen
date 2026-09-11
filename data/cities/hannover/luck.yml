@@ -7,5 +7,5 @@ city: Hannover
 street: Scheidestraße
 housenumber: "31"
 phone: +49 511 5357990
-opening_hours: ""
+opening_hours: Mo,Tu,Th 08:30-13:00, Mo,Tu,Th 15:00-16:30, We 08:30-13:00, Fr 08:30-13:00
 website: ""

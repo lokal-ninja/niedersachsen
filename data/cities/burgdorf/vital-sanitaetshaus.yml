@@ -7,5 +7,5 @@ city: Burgdorf
 street: Marktstraße
 housenumber: "68"
 phone: +49 5136 29 44
-opening_hours: 'Mo & Do: 09:00 - 13:00, 14:00 - 18:00 Di, Mi, Fr: 09:00 - 13:00'
+opening_hours: Mo,Th 09:00-13:00, 14:00-18:00; Tu,We,Fr 09:00-13:00
 website: https://www.vital-apotheken.de/sanitaetshaus/

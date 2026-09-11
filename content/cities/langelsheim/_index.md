@@ -2,5 +2,5 @@
 title: Langelsheim
 url: /langelsheim/
 latitude: 51.934
-longitude: 10.348
+longitude: 10.349
 ---

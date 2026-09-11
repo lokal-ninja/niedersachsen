@@ -7,6 +7,7 @@ city: Göttingen
 street: Ewaldstraße
 housenumber: 79a
 phone: ""
-opening_hours: Mo-Fr 06:00-17:45; Sa 06:00-13:00; Su,PH 08:00-11:00; easter +1 off;
-    easter +50 days off; Dec 25 off; Dec 26 off; Jan 1 off
+opening_hours: 'Mo-Fr 06:00-17:45; Sa 06:00-13:00; Su,PH 08:00-11:00; easter+1 off;
+    easter +50days off; Dec 25 off; Dec 26 off; Jan 01 off;"Filiale bleibt geschlossen:
+    Neujahr, Ostermontag, Pfingstmontag, 1. und 2. Weihnachtstag"'
 website: ""

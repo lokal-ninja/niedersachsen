@@ -7,6 +7,7 @@ city: Rosdorf
 street: Rischenweg
 housenumber: "4"
 phone: ""
-opening_hours: Mo-Fr 06:45-18:00; Sa 06:00-13:00; Su,PH 08:00-11:00; easter+ 01:00
-    off; easter +50 days off; Dec 25 off; Dec 26 off; Jan 1 off
+opening_hours: 'Mo-Fr 06:45-18:00; Sa 07:00-13:00; Su,PH 08:00-11:00; easter+ 01:00
+    off; easter +50 days off; Dec 25 off; Dec 26 off; Jan 01 off; "Filiale beibt geschlossen:
+    Neujahr, Karfreitag, Ostermontag, Pfingstmontag, 1. und 2. Weihnachtstag "'
 website: ""

@@ -7,6 +7,6 @@ city: Moormerland
 street: Rudolf-Eucken-Straße
 housenumber: "16"
 phone: +49 1774 641030
-opening_hours: Mo-Tu, Th 16:00-00:00, Fr 16:00-01:00; Su 16:00-01:00; Su 16:00-21:00;
-    PH off
+opening_hours: Mo-Tu,Th 16:00-24:00, Fr 16:00-01:00; Su 16:00-01:00,16:00-21:00; PH
+    off
 website: ""

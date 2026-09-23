@@ -1,5 +1,5 @@
 ---
-title: "ALDI Nord"
+title: "Aldi Nord"
 url: /bad-bentheim/aldi-nord/
 shop: Supermarkt
 ---

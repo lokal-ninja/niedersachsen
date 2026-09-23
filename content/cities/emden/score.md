@@ -1,5 +1,5 @@
 ---
 title: "Score"
 url: /emden/score/
-shop: Allgemein
+shop: Lebensmittel
 ---

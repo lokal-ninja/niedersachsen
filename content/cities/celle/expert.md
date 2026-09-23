@@ -1,5 +1,5 @@
 ---
-title: "Expert"
+title: "expert"
 url: /celle/expert/
 shop: Elektronik
 ---

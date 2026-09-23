@@ -1,6 +1,6 @@
 ---
 title: Wolfenbüttel
 url: /wolfenbuettel/
-latitude: 52.155
-longitude: 10.508
+latitude: 52.162
+longitude: 10.513
 ---

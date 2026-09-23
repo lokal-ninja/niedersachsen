@@ -1,6 +1,6 @@
 ---
 title: Westerstede
 url: /westerstede/
-latitude: 53.263
-longitude: 7.932
+latitude: 53.261
+longitude: 7.931
 ---

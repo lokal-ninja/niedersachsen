@@ -1,5 +1,5 @@
 ---
 title: "Tadellos"
 url: /oldenburg/tadellos/
-shop: Allgemein
+shop: Kramladen
 ---

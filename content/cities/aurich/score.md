@@ -1,5 +1,5 @@
 ---
 title: "Score"
 url: /aurich/score/
-shop: Lebensmittel
+shop: Treibstoff
 ---

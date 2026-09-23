@@ -1,6 +1,6 @@
 ---
 title: Visbek
 url: /visbek/
-latitude: 52.844
-longitude: 8.391
+latitude: 52.839
+longitude: 8.389
 ---

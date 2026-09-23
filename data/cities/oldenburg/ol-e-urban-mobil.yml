@@ -7,6 +7,6 @@ city: Oldenburg
 street: Schloßplatz
 housenumber: "11"
 phone: +49 441 36199755
-opening_hours: Tu-Fr 09:30-12:00 "nach Vereinbarung",13:00-18:00; Sa 11:00-16:00;
+opening_hours: Tu-Fr 09:30-12:00 || "nach Vereinbarung" || 13:00-18:00; Sa 11:00-16:00;
     Su,PH off
 website: https://www.urban-mobil.de

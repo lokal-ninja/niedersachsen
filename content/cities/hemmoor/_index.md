@@ -1,6 +1,6 @@
 ---
 title: Hemmoor
 url: /hemmoor/
-latitude: 53.682
-longitude: 9.179
+latitude: 53.685
+longitude: 9.158
 ---

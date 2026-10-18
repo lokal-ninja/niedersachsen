@@ -7,5 +7,6 @@ city: Schwarmstedt
 street: Kirchstraße
 housenumber: "9"
 phone: +49 5071 912525
-opening_hours: ""
+opening_hours: Mo,Tu 09:00-12:00,14:30-17:00; We 09:00-12:00; Th,Fr 09:00-12:00,14:30-17:00;
+    Sa 09:00-12:00
 website: ""

@@ -7,6 +7,6 @@ city: Aurich
 street: Norderstraße
 housenumber: "26"
 phone: +49 4941 9737964
-opening_hours: Mo,Th-Fr 09:00-13:00,15:00-18:00; Tu 09:00-13:00,16:00-18:00; Sa 09:00-13:00;
-    PH,Su closed
+opening_hours: Mo,Th,Fr 09:30-13:00,15:00-18:00; Tu 09:30-13:00,16:00-18:00; We,Sa
+    off
 website: ""

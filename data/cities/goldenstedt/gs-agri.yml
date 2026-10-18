@@ -7,7 +7,5 @@ city: Goldenstedt
 street: Bahnhofstraße
 housenumber: "27"
 phone: ""
-opening_hours: 'Feb-Oct: Mo-Fr 08:00-12:00,13:00-17:00; Feb-Oct: Sa 08:00-12:00; Nov-Jan:
-    Mo-We 08:00-12:00,13:00-17:00; Nov-Jan: Th off; Nov-Jan: Fr 08:00-12:00,13:00-17:00;
-    Nov-Jan: Sa off; PH off'
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Mar-May Sa 08:00-12:00; PH off
 website: https://www.gs-genossenschaft.de/agri

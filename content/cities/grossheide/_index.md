@@ -1,6 +1,6 @@
 ---
 title: Großheide
 url: /grossheide/
-latitude: 53.594
-longitude: 7.343
+latitude: 53.586
+longitude: 7.35
 ---

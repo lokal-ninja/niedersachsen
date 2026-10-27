@@ -1,6 +1,6 @@
 ---
 title: Krummhörn
 url: /krummhoern/
-latitude: 53.502
-longitude: 7.091
+latitude: 53.476
+longitude: 7.078
 ---

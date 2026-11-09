@@ -7,5 +7,5 @@ city: Hannover
 street: Spilckerstraße
 housenumber: "1"
 phone: "+49511553302"
-opening_hours: Mo 09:00-18:30; Tu-Fr 08:00-18:30; Sa 08:00-14:00
+opening_hours: Mo,Th 10:00-18:00; Tu-We,Fr 09:30-18:00; Sa 10:00-14:00
 website: https://www.gabys-haarsalon.de/

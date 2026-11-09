@@ -1,6 +1,6 @@
 ---
 title: Schneverdingen
 url: /schneverdingen/
-latitude: 53.113
-longitude: 9.796
+latitude: 53.117
+longitude: 9.789
 ---

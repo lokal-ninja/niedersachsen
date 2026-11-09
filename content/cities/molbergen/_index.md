@@ -1,6 +1,6 @@
 ---
 title: Molbergen
 url: /molbergen/
-latitude: 52.859
-longitude: 7.924
+latitude: 52.857
+longitude: 7.929
 ---

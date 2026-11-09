@@ -1,5 +1,5 @@
 ---
-title: "Heide-Bäckerei Meyer"
+title: "Heide Bäckerei Meyer"
 url: /braunschweig/heide-baeckerei-meyer/
 shop: Bäckerei
 ---

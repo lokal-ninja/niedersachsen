@@ -1,5 +1,5 @@
 ---
-title: "Teddys Spielekiste"
+title: "Teddy's Spielekiste"
 url: /goettingen/teddys-spielekiste/
 shop: Spielzeug
 ---
